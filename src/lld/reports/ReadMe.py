@@ -1,5 +1,7 @@
 from utils import File, Log, Time, TimeFormat
+
 from lld.www import ActMetadata
+
 log = Log('ReadMe')
 
 
@@ -9,26 +11,33 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
 
-
     @staticmethod
     def get_act_metadata_md(act_metadata):
-        return f'- [{act_metadata.act_num}] '+f'[{act_metadata.description}]({act_metadata.dir_data})'
+        return (
+            f'- [{act_metadata.doc_num}] '
+            + f'[{act_metadata.description}]({act_metadata.dir_data})'
+        )
 
-    @property 
+    @property
     def lines_acts(self):
         act_metadata_list = ActMetadata.list_all()
         n = len(act_metadata_list)
-        return [
-            f'## Acts ({n:,})',
-            "",
-        ] + [
-            ReadMe.get_act_metadata_md(act_metadata) for act_metadata in act_metadata_list
-        ] + [""]
+        return (
+            [
+                f'## Acts ({n:,})',
+                "",
+            ]
+            + [
+                ReadMe.get_act_metadata_md(act_metadata)
+                for act_metadata in act_metadata_list
+            ]
+            + [""]
+        )
 
     @property
     def lines(self):
         return [
-            "# Legal Documents - #SriLanka 🇱🇰" ,
+            "# Legal Documents - #SriLanka 🇱🇰",
             "",
             f"*Last updated {self.time_str}*.",
             "",

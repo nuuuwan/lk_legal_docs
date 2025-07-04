@@ -3,7 +3,7 @@ import unittest
 from lld import ActMetadata
 
 TEST_ACT_METADATA = ActMetadata(
-    act_num="32/2024",
+    doc_num="32/2024",
     date="2024-06-18",
     description="International Institute of Theravadha (Incorporation)",
     source_url_en="https://documents.gov.lk/view/acts/2024/6/32-2024_E.pdf",
