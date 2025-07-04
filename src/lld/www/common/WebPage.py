@@ -17,11 +17,7 @@ class WebPage:
     @cached_property
     def content(self):
         response = requests.get(self.url)
-        log.debug(
-            f'Fetching content from {
-                self.url}, status code: {
-                response.status_code}'
-        )
+        log.debug(f'🌐 [{response.status_code}] {self.url}')
         response.raise_for_status()
         return response.text
 
