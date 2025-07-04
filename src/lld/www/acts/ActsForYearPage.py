@@ -1,17 +1,7 @@
-from dataclasses import dataclass
 from functools import cache
 
+from lld.www.acts.ActMetadata import ActMetadata
 from lld.www.common import WebPage
-
-
-@dataclass
-class ActMetadata:
-    act_num: str
-    date: str
-    description: str
-    source_url_en: str
-    source_url_si: str
-    source_url_ta: str
 
 
 class ActsForYearPage(WebPage):
