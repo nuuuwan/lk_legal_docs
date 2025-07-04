@@ -16,7 +16,7 @@ def download_acts(max_n_hot):
         act_metadata_list = acts_for_year_page.get_act_metadata_list()
         for act_metadata in act_metadata_list:
             if n_hot >= max_n_hot:
-                log.info(f'🛑 Already downloaded {n_hot} new acts.')
+                log.info(f'🛑 Downloaded {n_hot} new acts.')
                 return
 
             is_hot = act_metadata.download_all()
