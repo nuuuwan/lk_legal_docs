@@ -37,6 +37,7 @@ class ActMetadata:
         return f"{self.year}-{self.year_act_num}"
 
     def download_all(self):
+        did_hot_download = False
         for lang, url in [
             ("en", self.source_url_en),
             ("si", self.source_url_si),
@@ -48,6 +49,9 @@ class ActMetadata:
             if not os.path.exists(file_path):
                 page = WebPage(url)
                 page.download_binary(file_path)
+                did_hot_download = True
+
+        return did_hot_download
 
     def write(self):
         file_path = os.path.join(
