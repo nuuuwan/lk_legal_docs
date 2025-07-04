@@ -24,7 +24,7 @@ class ReadMe:
         n = len(metadata_list)
         return (
             [
-                f'## {doc_cls.get_doc_type_name()} ({n:,})',
+                f'## {doc_cls.get_doc_type_name().title()} ({n:,})',
                 "",
             ]
             + [ReadMe.get_metadata_md(metadata) for metadata in metadata_list]
