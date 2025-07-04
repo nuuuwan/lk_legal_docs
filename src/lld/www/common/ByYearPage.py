@@ -1,10 +1,11 @@
 from functools import cache
 
-from lld.www.common.WebPage import WebPage
 from utils import Log
 
+from lld.www.common.WebPage import WebPage
 
 log = Log('ByYearPage')
+
 
 class ByYearPage(WebPage):
 
@@ -38,8 +39,6 @@ class ByYearPage(WebPage):
             for_year_page = for_year_page_cls(url)
             for_year_page_list.append(for_year_page)
         return for_year_page_list
-
-
 
     def run_pipeline(self, max_n_hot):
         for_year_page_list = self.get_for_year_page_list()

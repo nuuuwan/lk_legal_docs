@@ -2,17 +2,18 @@ import sys
 
 from utils import Log
 
-from lld import ActsByYearPage, ReadMe
+from lld import ActsByYearPage, BillsByYearPage, ReadMe
 
 log = Log('pipeline')
 
 
 def main(max_n_hot):
     ActsByYearPage().run_pipeline(max_n_hot)
+    BillsByYearPage().run_pipeline(max_n_hot)
     ReadMe().build()
+
 
 if __name__ == '__main__':
     max_n_hot = int(sys.argv[1]) if len(sys.argv) > 1 else 1
     log.debug(f'{max_n_hot=}')
     main(max_n_hot)
-    

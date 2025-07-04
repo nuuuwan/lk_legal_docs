@@ -1,6 +1,6 @@
 from utils import File, Log, Time, TimeFormat
 
-from lld.www import ActMetadata
+from lld.www import ActMetadata, BillMetadata
 
 log = Log('ReadMe')
 
@@ -12,39 +12,40 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
 
     @staticmethod
-    def get_act_metadata_md(act_metadata):
+    def get_metadata_md(metadata):
         return (
-            f'- [{act_metadata.doc_num}] '
-            + f'[{act_metadata.description}]({act_metadata.dir_data})'
+            f'- [{metadata.doc_num}] '
+            + f'[{metadata.description}]({metadata.dir_data})'
         )
 
-    @property
-    def lines_acts(self):
-        act_metadata_list = ActMetadata.list_all()
-        n = len(act_metadata_list)
+    @staticmethod
+    def get_lines_for_doc(doc_cls):
+        metadata_list = doc_cls.list_all()
+        n = len(metadata_list)
         return (
             [
-                f'## Acts ({n:,})',
+                f'## {doc_cls.get_doc_type_name()} ({n:,})',
                 "",
             ]
-            + [
-                ReadMe.get_act_metadata_md(act_metadata)
-                for act_metadata in act_metadata_list
-            ]
+            + [ReadMe.get_metadata_md(metadata) for metadata in metadata_list]
             + [""]
         )
 
     @property
     def lines(self):
-        return [
-            "# Legal Documents - #SriLanka 🇱🇰",
-            "",
-            f"*Last updated {self.time_str}*.",
-            "",
-            "Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents"
-            + " scraped from [documents.gov.lk](https://documents.gov.lk).",
-            "",
-        ] + self.lines_acts
+        return (
+            [
+                "# Legal Documents - #SriLanka 🇱🇰",
+                "",
+                f"*Last updated {self.time_str}*.",
+                "",
+                "Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents"
+                + " scraped from [documents.gov.lk](https://documents.gov.lk).",
+                "",
+            ]
+            + self.get_lines_for_doc(ActMetadata)
+            + self.get_lines_for_doc(BillMetadata)
+        )
 
     def build(self):
         File(self.PATH).write('\n'.join(self.lines))
