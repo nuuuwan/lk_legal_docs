@@ -22,7 +22,7 @@ def download_acts(max_n_hot):
             is_hot = act_metadata.download_all()
             logger = log.info if is_hot else log.debug
             emoji = '🟢' if is_hot else '⚪️'
-            logger(f'{emoji} {n_hot}) Processing {act_metadata.act_num}')
+            logger(f'{emoji} {n_hot}/{max_n_hot}) {act_metadata.act_num}')
             act_metadata.write()
             n += 1
             if is_hot:
