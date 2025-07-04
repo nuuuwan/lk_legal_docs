@@ -33,7 +33,7 @@ class ActMetadata:
         return dir_data
 
     @cached_property
-    def file_prefix(self):
+    def id(self):
         return f"{self.year}-{self.year_act_num}"
 
     def download_all(self):
@@ -44,7 +44,7 @@ class ActMetadata:
             ("ta", self.source_url_ta),
         ]:
             file_path = os.path.join(
-                self.dir_data, f"{self.file_prefix}-{lang}.pdf"
+                self.dir_data, f"{self.id}-{lang}.pdf"
             )
             if not os.path.exists(file_path):
                 page = WebPage(url)
@@ -59,7 +59,6 @@ class ActMetadata:
         )
         JSONFile(file_path).write(self.__dict__)
 
-
     @staticmethod
     def get_metadata_file_path_lists():
         file_path_lists = []
@@ -70,7 +69,6 @@ class ActMetadata:
                 if file_name.endswith('-metadata.json'):
                     file_path_lists.append(file_path)
         return file_path_lists
-    
 
     @classmethod
     def from_dict(cls, data):
@@ -80,9 +78,9 @@ class ActMetadata:
             description=data['description'],
             source_url_en=data['source_url_en'],
             source_url_si=data['source_url_si'],
-            source_url_ta=data['source_url_ta']
+            source_url_ta=data['source_url_ta'],
         )
-    
+
     @classmethod
     def from_file(cls, file_path):
         data = JSONFile(file_path).read()
@@ -91,5 +89,10 @@ class ActMetadata:
     @staticmethod
     def list_all():
         metadata_file_path_lists = ActMetadata.get_metadata_file_path_lists()
-        return [ActMetadata.from_file(file_path) for file_path in metadata_file_path_lists]
-        
+        act_metadata_list = [
+            ActMetadata.from_file(file_path)
+            for file_path in metadata_file_path_lists
+        ]
+        act_metadata_list.sort(key=lambda x: x.id, reverse=True)
+        log.info(f'Found {len(act_metadata_list):,} acts.')     
+        return act_metadata_list
