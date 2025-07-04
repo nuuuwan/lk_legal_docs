@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-04 21:17:27*.
+*Last updated 2025-07-04 21:41:36*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (13)
+## Acts (23)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -18,9 +18,19 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [32/2024] [International Institute of Theravadha (Incorporation)](data/acts/2024/2024-32)
 - [30/2024] [Kelaniya Buddhist Women's Charitable Society (Incorporation)](data/acts/2024/2024-30)
 - [29/2024] [Saweera Foundation (Incorporation)](data/acts/2024/2024-29)
+- [28/2024] [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2024/2024-28)
 - [27/2024] [Partition (Amendment)](data/acts/2024/2024-27)
+- [26/2024] [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/2024-26)
+- [25/2024] [Code of Criminal Procedure (Amendment)](data/acts/2024/2024-25)
+- [24/2024] [Banking (Amendment)](data/acts/2024/2024-24)
+- [22/2024] [Inland Trust Receipts (Amendment)](data/acts/2024/2024-22)
+- [21/2024] [Finance Leasing (Amendment)](data/acts/2024/2024-21)
+- [20/2024] [Mortgage (Amendment)](data/acts/2024/2024-20)
+- [19/2024] [Trust Receipts (Amendment)](data/acts/2024/2024-19)
+- [18/2024] [Registration of Documents (Amendment)](data/acts/2024/2024-18)
+- [17/2024] [Secured Transactions](data/acts/2024/2024-17)
 
-## Bills (11)
+## Bills (21)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -33,3 +43,13 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [609/2025] [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/2025-609)
 - [608/2025] [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/2025-608)
 - [607/2025] [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS](data/bills/2025/2025-607)
+- [606/2025] [Companies (Amendment) - Bill](data/bills/2025/2025-606)
+- [605/2025] [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/2025-605)
+- [604/2025] [National Minimum Wage of Workers (Amendment) - Bill](data/bills/2025/2025-604)
+- [603/2025] [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/2025-603)
+- [602/2025] [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/2025-602)
+- [601/2025] [Bills of Exchange (Amendment) - GS](data/bills/2025/2025-601)
+- [600/2025] [Samurdhi (Amendment) - GS](data/bills/2025/2025-600)
+- [598/2025] [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/2025-598)
+- [597/2025] [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/bills/2025/2025-597)
+- [595/2025] [Rubber Control (Amendment) - GS](data/bills/2025/2025-595)
