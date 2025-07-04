@@ -58,3 +58,38 @@ class ActMetadata:
             self.dir_data, f"{self.file_prefix}-metadata.json"
         )
         JSONFile(file_path).write(self.__dict__)
+
+
+    @staticmethod
+    def get_metadata_file_path_lists():
+        file_path_lists = []
+        for year in os.listdir(os.path.join('data', 'acts')):
+            dir_data = os.path.join('data', 'acts', year)
+            for file_name in os.listdir(dir_data):
+                file_path = os.path.join(dir_data, file_name)
+                if file_name.endswith('-metadata.json'):
+                    file_path_lists.append(file_path)
+        return file_path_lists
+    
+
+    @classmethod
+    def from_dict(cls, data):
+        return cls(
+            act_num=data['act_num'],
+            date=data['date'],
+            description=data['description'],
+            source_url_en=data['source_url_en'],
+            source_url_si=data['source_url_si'],
+            source_url_ta=data['source_url_ta']
+        )
+    
+    @classmethod
+    def from_file(cls, file_path):
+        data = JSONFile(file_path).read()
+        return cls.from_dict(data)
+
+    @staticmethod
+    def list_all():
+        metadata_file_path_lists = ActMetadata.get_metadata_file_path_lists()
+        return [ActMetadata.from_file(file_path) for file_path in metadata_file_path_lists]
+        
