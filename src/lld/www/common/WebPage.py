@@ -1,3 +1,4 @@
+import os
 from functools import cached_property
 
 import requests
@@ -24,3 +25,14 @@ class WebPage:
     @cached_property
     def soup(self):
         return BeautifulSoup(self.content, "html.parser")
+
+    def download_binary(self, file_path):
+        response = requests.get(self.url, stream=True)
+        log.debug(f'🌐 [{response.status_code}] {self.url}')
+        response.raise_for_status()
+
+        with open(file_path, 'wb') as file:
+            for chunk in response.iter_content(chunk_size=8192):
+                file.write(chunk)
+        file_size_m = os.path.getsize(file_path) / (1_000_000)
+        log.info(f'Wrote {file_path} ({file_size_m:.1f} MB)')
