@@ -12,7 +12,7 @@ class ReadMe:
 
     @staticmethod
     def get_act_metadata_md(act_metadata):
-        return f'- [{act_metadata.act_num}] {act_metadata.description}'
+        return f'- [{act_metadata.act_num}] '+f'[{act_metadata.description}]({act_metadata.dir_data})'
 
     @property 
     def lines_acts(self):
@@ -23,7 +23,7 @@ class ReadMe:
             "",
         ] + [
             ReadMe.get_act_metadata_md(act_metadata) for act_metadata in act_metadata_list
-        ]
+        ] + [""]
 
     @property
     def lines(self):

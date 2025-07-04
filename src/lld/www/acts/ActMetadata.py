@@ -28,7 +28,7 @@ class ActMetadata:
 
     @cached_property
     def dir_data(self):
-        dir_data = os.path.join('data', 'acts', self.year)
+        dir_data = os.path.join('data', 'acts', self.year, self.id)
         os.makedirs(dir_data, exist_ok=True)
         return dir_data
 
@@ -44,7 +44,7 @@ class ActMetadata:
             ("ta", self.source_url_ta),
         ]:
             file_path = os.path.join(
-                self.dir_data, f"{self.id}-{lang}.pdf"
+                self.dir_data, f"{lang}.pdf"
             )
             if not os.path.exists(file_path):
                 page = WebPage(url)
@@ -55,7 +55,7 @@ class ActMetadata:
 
     def write(self):
         file_path = os.path.join(
-            self.dir_data, f"{self.file_prefix}-metadata.json"
+            self.dir_data, f"metadata.json"
         )
         JSONFile(file_path).write(self.__dict__)
 
@@ -63,11 +63,14 @@ class ActMetadata:
     def get_metadata_file_path_lists():
         file_path_lists = []
         for year in os.listdir(os.path.join('data', 'acts')):
-            dir_data = os.path.join('data', 'acts', year)
-            for file_name in os.listdir(dir_data):
-                file_path = os.path.join(dir_data, file_name)
-                if file_name.endswith('-metadata.json'):
-                    file_path_lists.append(file_path)
+            dir_data_for_year = os.path.join('data', 'acts', year)
+            for id in os.listdir(dir_data_for_year):
+                dir_data = os.path.join(dir_data_for_year, id)  
+                file_path = os.path.join(dir_data, 'metadata.json')
+                if not os.path.exists(file_path):
+                    log.warning(f'Metadata file not found: {file_path}')
+                    continue
+                file_path_lists.append(file_path)
         return file_path_lists
 
     @classmethod
