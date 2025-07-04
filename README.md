@@ -1,6 +1,6 @@
-# Sri Lankan Legal Documents
+# Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-04 20:09:06*.
+*Last updated 2025-07-04 20:10:29*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 

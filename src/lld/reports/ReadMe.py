@@ -28,7 +28,7 @@ class ReadMe:
     @property
     def lines(self):
         return [
-            "# Sri Lankan Legal Documents" ,
+            "# Legal Documents - #SriLanka 🇱🇰" ,
             "",
             f"*Last updated {self.time_str}*.",
             "",
