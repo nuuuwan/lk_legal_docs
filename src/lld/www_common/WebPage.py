@@ -29,10 +29,6 @@ class WebPage:
     def soup(self):
         return BeautifulSoup(self.content, "html.parser")
 
-    @staticmethod
-    def sleep():
-        time.sleep(WebPage.T_SLEEP)
-
     def download_binary(self, file_path):
         response = requests.get(
             self.url, stream=True, timeout=WebPage.T_TIMEOUT
