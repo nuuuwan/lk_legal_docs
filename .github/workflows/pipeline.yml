@@ -48,6 +48,10 @@ jobs:
 
       - name: Push
         run: |
+          git stash --include-untracked
+          git pull origin main
+          git stash pop
+
           git add .
           if git diff --cached --quiet; then
             echo "No changes to commit."
