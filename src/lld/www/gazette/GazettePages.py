@@ -3,12 +3,13 @@ import re
 from utils import Log
 
 from lld.docs.custom_docs.Gazette import Gazette
+from lld.www.pages import AbstractPipelineRunner
 from lld.www_common import WebPage
 
 log = Log("GazettePages")
 
 
-class GazettePages:
+class GazettePages(AbstractPipelineRunner):
 
     BASE_URL = "https://documents.gov.lk/view/gazettes/"
 
@@ -39,7 +40,9 @@ class GazettePages:
     @staticmethod
     def __get_doc_num__(date, description):
         doc_num = re.sub(r"[^a-zA-Z0-9]+", "-", description).lower()
-        return f"{date}-{doc_num}"
+        doc_num = f"{date}-{doc_num}"
+        doc_num = re.sub(r"-{2,}", "-", doc_num)
+        return doc_num
 
     @staticmethod
     def __process_li__(li_sub_part, date):
@@ -49,6 +52,8 @@ class GazettePages:
         source_url_en, source_url_si, source_url_ta = (None, None, None)
         a_list = li_sub_part.find_all("a")
         for a in a_list:
+            if a.has_attr("disabled"):
+                continue
             href = a["href"]
             url = "/".join([GazettePages.BASE_URL, href])
 

@@ -1,11 +1,40 @@
 # lld (auto generate by build_inits.py)
 # flake8: noqa: F408
 
-from lld.docs import (AbstractDoc, AbstractDocBase, AbstractDocDownloader,
-                      AbstractDocExtract, AbstractDocReadMe,
-                      AbstractDocSerializer, Act, Bill, DocFactory,
-                      ExtraGazette, Gazette)
-from lld.reports import ReadMe
-from lld.www import (AbstractPipelineRunner, ByYearPage, ForYearPage,
-                     GazettePages)
-from lld.www_common import WebPage
+from lld.www_common import (
+    WebPage,
+)
+
+from lld.docs import (
+    DocFactory,
+)
+
+from lld.docs import (
+    AbstractDocSerializer,
+    AbstractDocExtract,
+    AbstractDocReadMe,
+    AbstractDocDownloader,
+    AbstractDocBase,
+    AbstractDoc,
+)
+
+from lld.docs import (
+    Bill,
+    Act,
+    Gazette,
+    ExtraGazette,
+)
+
+from lld.www import (
+    GazettePages,
+)
+
+from lld.www import (
+    ForYearPage,
+    AbstractPipelineRunner,
+    ByYearPage,
+)
+
+from lld.reports import (
+    ReadMe,
+)
