@@ -15,9 +15,10 @@ class AbstractPipelineRunner:
     def __process_doc__(doc):
         try:
             is_hot = doc.download_all()
-            doc.write()
-            doc.write_readme()
-            doc.extract_text()
+            if is_hot:
+                doc.write()
+                doc.write_readme()
+                doc.extract_text()
             return is_hot
         except Exception as e:
             log.error(f"❌ Error downloading {doc.doc_num}: {e}")
