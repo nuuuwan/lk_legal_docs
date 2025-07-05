@@ -17,7 +17,6 @@ class AbstractDoc(
     AbstractDocReadMe,
     AbstractDocDownloader,
 ):
-    DELIM_PAGE = "\n\n...\n\n"
 
     @classmethod
     def get_doc_type_name(cls):
@@ -34,9 +33,13 @@ class AbstractDoc(
 
         if not os.path.exists(txt_path):
             reader = PdfReader(pdf_path)
-            text = self.DELIM_PAGE.join(
-                page.extract_text() or "" for page in reader.pages
-            )
-            File(txt_path).write(text)
+
+            sections = []
+            for i_page, page in enumerate(reader.pages, start=1):
+                sections.append(f"\n\n<!-- page {i_page} -->\n\n")
+                sections.append(page.extract_text() or "")
+
+            content = "".join(sections)
+            File(txt_path).write(content)
             file_size_k = os.path.getsize(txt_path) / 1_000
             log.debug(f"Wrote text to {txt_path} ({file_size_k:.0f} KB)")
