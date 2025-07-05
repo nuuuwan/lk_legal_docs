@@ -7,9 +7,11 @@ log = Log("ReadMe")
 
 class ReadMe:
     PATH = "README.md"
+    N_DISPLAY_DOCS = 1_000
 
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
+        self.doc_list = DocFactory.list_all()
 
     @staticmethod
     def get_doc_md_lines(doc):
@@ -22,24 +24,42 @@ class ReadMe:
             )
         ]
 
+    def get_doc_legend(self):
+        doc_cls_list = DocFactory.list_all_cls()
+        inner = ", ".join(
+            f"{doc_cls.get_emoji()} = {doc_cls.get_doc_type_name().title()}"
+            for doc_cls in doc_cls_list
+        )
+        return f"({inner})"
+
     def get_lines_for_docs(self):
-        doc_list = DocFactory.list_all()
-        n = len(doc_list)
-        lines = [f"## Documents ({n:,})", ""]
-        for doc in doc_list:
+
+        lines = ["## Documents (Latest)", "", self.get_doc_legend(), ""]
+        for doc in self.doc_list:
             lines.extend(self.get_doc_md_lines(doc))
         return lines
 
     @property
     def lines(self):
+        n = len(self.doc_list)
         return [
             "# Legal Documents - #SriLanka 🇱🇰",
             "",
-            f"*Last updated {self.time_str}*.",
+            f"**{n}** documents as of **{self.time_str}**.",
             "",
-            "Legal Gazettes, Extra-Gazettes, Acts, Bills"
-            + " and other documents scraped"
+            "A collection of"
+            + " Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped"
             + " from [documents.gov.lk](https://documents.gov.lk).",
+            "",
+            "🆓 **Public** data, fully open-source – fork freely!",
+            "",
+            "🗣️ **Tri-Lingual** - සිංහල, தமிழ் & English",
+            "",
+            "🔍 **Useful** for Journalists, Researchers,"
+            + " Lawyers & law students,"
+            + " Policy watchers & Citizens who want to stay informed",
+            "",
+            "#SriLanka #Legal #OpenData #GovTech",
             "",
         ] + self.get_lines_for_docs()
 
