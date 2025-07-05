@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**75** documents (**50MB**) as of **2025-07-05 10:40:58**.
+**105** documents (**67MB**) as of **2025-07-05 10:55:05**.
 
 A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -65,6 +65,16 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - 🚨 2025-06-24 [Sri Lanka Parliament - Convening of the Parliament of the Democratic Socialist Republic of Sri Lanka on Monday, the 30th of June, 2025 at 9.30 a.m.](data/extra-gazettes/2025/2442-30) [2442/30]
 - 🚨 2025-06-24 [Dept. of Census and Statistics National Consumer Price Index - May 2025](data/extra-gazettes/2025/2442-29) [2442/29]
 - ✍️ 2025-06-23 [National Audit (Amendment) - GS](data/bills/2025/611-2025) [611/2025]
+- 🚨 2025-06-23 [Presidential Secretariat - Appointed Mr. K.G.P. Pushpakumara, as the Chief Secretary of the Western Province with effect from 09 the June 2025](data/extra-gazettes/2025/2442-16) [2442/16]
+- 🚨 2025-06-23 [Dept of Local Government - Western Province - Appointed Chairman and Vice Chairman for 06 Local Goverment Institutions - 2025](data/extra-gazettes/2025/2442-02) [2442/02]
+- 🚨 2025-06-23 [Sri Lanka Customs - Rates of Exchange with effect from 23.06.2025 to 29.06.2025](data/extra-gazettes/2025/2442-01) [2442/01]
+- 🚨 2025-06-21 [Land Title Settlement Dept. - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District (25/0060)](data/extra-gazettes/2025/2441-71) [2441/71]
+- 🚨 2025-06-21 [Land Title Settlement Dept. - Kaudana, Four Deh D/S Division, Colombo District - (7826)](data/extra-gazettes/2025/2441-64) [2441/64]
+- 🚨 2025-06-21 [National Physical Planning Department Ã¢â¬â The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Kappina Seemamalaka Viharaya call as an Urban Development area](data/extra-gazettes/2025/2441-60) [2441/60]
+- 🚨 2025-06-21 [National Physical Planning Department Ã¢â¬â The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Maha Manthinda Priven Viharaya as an Urban Development area](data/extra-gazettes/2025/2441-59) [2441/59]
+- 🚨 2025-06-21 [National Physical Planning Department Ã¢â¬â The Town and Country Planning Ordinance (Chapter 269) -Declare that Land called Dickwella Deegawalukarama Rajamaha Vihara as an Urban Development area](data/extra-gazettes/2025/2441-58) [2441/58]
+- 🚨 2025-06-21 [National Physical Planning Department Town and Country Planning Ordinance (Chapter 269) Declare that the Land called Purana Athkanda Rajamaha Viharaya called as an Urban Development Area](data/extra-gazettes/2025/2441-57) [2441/57]
+- 🚨 2025-06-20 [Bibila Pradeshiya Sabha Roads and Narrow Paths - 2nd Gazette](data/extra-gazettes/2025/2441-44) [2441/44]
 - 🏛️ 2025-06-20 [National Transport Commission (Amendment)](data/acts/2025/08-2025) [08/2025]
 - 🏛️ 2025-06-20 [Code of Criminal Procedure (Amendment)](data/acts/2025/07-2025) [07/2025]
 - ✍️ 2025-06-19 [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS](data/bills/2025/607-2025) [607/2025]
@@ -92,11 +102,21 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - ✍️ 2025-05-23 [Sri Lanka Electricity (Amendment) - Bill](data/bills/2025/599-2025) [599/2025]
 - 🏛️ 2025-05-23 [Foreign Loans (Repeal)](data/acts/2025/06-2025) [06/2025]
 - ✍️ 2025-05-22 [Provincial Councils Elections (Amendment) - GS](data/bills/2025/589-2025) [589/2025]
+- ✍️ 2025-05-20 [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/588-2025) [588/2025]
+- ✍️ 2025-05-20 [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/587-2025) [587/2025]
 - ✍️ 2025-05-20 [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/586-2025) [586/2025]
+- ✍️ 2025-05-16 [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/584-2025) [584/2025]
+- ✍️ 2025-05-08 [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill](data/bills/2025/596-2025) [596/2025]
+- ✍️ 2025-05-08 [National Transport Commission (Amendment) - Bill](data/bills/2025/592-2025) [592/2025]
+- ✍️ 2025-05-08 [Personal Data Protection (Amendment) - Bill](data/bills/2025/591-2025) [591/2025]
+- ✍️ 2025-05-08 [Online Safety (Repeal) - Bill](data/bills/2025/590-2025) [590/2025]
+- ✍️ 2025-05-08 [Foreign Loans (Repeal) - Bill](data/bills/2025/585-2025) [585/2025]
 
 #### 2025-04
 
+- ✍️ 2025-04-30 [Tredzo Development Foundation (Incorporation) - GS](data/bills/2025/583-2025) [583/2025]
 - 🏛️ 2025-04-30 [Proceeds of Crime](data/acts/2025/05-2025) [05/2025]
+- ✍️ 2025-04-24 [Companies (Amendment) - GS](data/bills/2025/582-2025) [582/2025]
 - 🏛️ 2025-04-11 [Value Added Tax (Amendment)](data/acts/2025/04-2025) [04/2025]
 
 #### 2025-03
@@ -137,4 +157,20 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 #### 2024-03
 
+- 🏛️ 2024-03-20 [Value Added Tax (Amendment)](data/acts/2024/16-2024) [16/2024]
 - 🏛️ 2024-03-20 [Social Security Contribution Levy (Amendment)](data/acts/2024/15-2024) [15/2024]
+
+#### 2024-02
+
+- 🏛️ 2024-02-19 [Dassana Bauddha Sanvidhanaya (Incorporation)](data/acts/2024/14-2024) [14/2024]
+- 🏛️ 2024-02-19 [Samadhi Community Development Foundation (Incorporation)](data/acts/2024/13-2024) [13/2024]
+- 🏛️ 2024-02-19 [Sri Balabhivurdhi Wardana Society (Incorporation)](data/acts/2024/12-2024) [12/2024]
+- 🏛️ 2024-02-19 [Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/acts/2024/11-2024) [11/2024]
+- 🏛️ 2024-02-19 [Heart to Heart Trust Fund (Incorporation)](data/acts/2024/10-2024) [10/2024]
+- 🏛️ 2024-02-01 [Online Safety](data/acts/2024/09-2024) [09/2024]
+- 🏛️ 2024-02-01 [Contempt of a Court,Tribunal or Institution](data/acts/2024/08-2024) [08/2024]
+- 🏛️ 2024-02-01 [National Hydrographic](data/acts/2024/07-2024) [07/2024]
+
+#### 2024-01
+
+- 🏛️ 2024-01-31 [The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/acts/2024/05-2024) [05/2024]
