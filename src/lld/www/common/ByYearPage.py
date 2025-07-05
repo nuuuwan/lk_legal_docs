@@ -47,7 +47,7 @@ class ByYearPage(WebPage):
 
     def run_pipeline(self, max_n_hot):
         log.info(
-            f"Running pipeline for {self.doc_cls.get_doc_type_name().title()}."
+            f"🤖 Running pipeline for {self.doc_cls.get_doc_type_name().title()}."
         )
         for_year_page_list = self.get_for_year_page_list()
         n_hot = 0
@@ -61,9 +61,7 @@ class ByYearPage(WebPage):
                 is_hot = self.__process_metadata__(metadata)
                 if is_hot:
                     n_hot += 1
-                    log.info(
-                        f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}"
-                    )
+                    log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}")
         log.info(
             f"🛑🛑 Downloaded ALL {self.doc_cls.get_doc_type_name().title()}."
         )
