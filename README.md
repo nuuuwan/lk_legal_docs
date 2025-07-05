@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**599** documents (**378MB**) as of **2025-07-05 20:38:40**.
+**639** documents (**423MB**) as of **2025-07-05 21:10:26**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -357,6 +357,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-03 [Ministry of Labor -( 1) Industrial Dispute between Ceylon Workers Red Flag Union and Sri Lanka State Plantations Corporation (2) Industrial Dispute between I.P.P.Upul Kumara and National Housing Development Authority](data/extra-gazettes/2025/2439-25) [2439/25]
 - 🚨 2025-06-03 [Land Aquisition - Thiraimadu 173E, Manmunai North D/S Division in Batticaloa District- Sec.07](data/extra-gazettes/2025/2439-24) [2439/24]
 - ✍️ 2025-06-02 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/598-2025) [598/2025]
+- 🚨 2025-06-02 [Land Title Settlement Dept. - Wedahekawatta, Janapadaya, Doluwa D/S Division, Kandy District  (25/0028)](data/extra-gazettes/2025/2439-23) [2439/23]
 - 🚨 2025-06-02 [Land Title Settlement Dept. - Uduwawala,  Harispattuwa D/S Division, Kandy District  (24/1136)](data/extra-gazettes/2025/2439-22) [2439/22]
 - 🚨 2025-06-02 [Land Title Settlement Dept. - Weeravila New Town, Lunugamvehera D/S Division, Hambantota District  (25/0102)](data/extra-gazettes/2025/2439-21) [2439/21]
 - 🚨 2025-06-02 [Land Title Settlement Dept. - Lelwala, Neluwa D/S Division, Galle District  (25/0050)](data/extra-gazettes/2025/2439-20) [2439/20]
@@ -381,6 +382,15 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 #### 2025-05
 
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Hambantota District](data/extra-gazettes/2025/2438-74) [2438/74]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Matara District](data/extra-gazettes/2025/2438-73) [2438/73]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Galle District](data/extra-gazettes/2025/2438-72) [2438/72]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Nuwara Eliya District](data/extra-gazettes/2025/2438-71) [2438/71]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Matale District](data/extra-gazettes/2025/2438-70) [2438/70]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Kandy District](data/extra-gazettes/2025/2438-69) [2438/69]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Kalutara District](data/extra-gazettes/2025/2438-68) [2438/68]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Gampaha District](data/extra-gazettes/2025/2438-67) [2438/67]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Colombo District](data/extra-gazettes/2025/2438-66) [2438/66]
 - 📢 2025-05-30 [List of Jurors](data/gazettes/2025/2025-05-30-list-of-jurors) [2025-05-30-list-of-jurors]
 - 📢 2025-05-30 [Legal Section](data/gazettes/2025/2025-05-30-legal-section) [2025-05-30-legal-section]
 - 📢 2025-05-30 [Land Section](data/gazettes/2025/2025-05-30-land-section) [2025-05-30-land-section]
@@ -406,7 +416,17 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-05-20 [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/587-2025) [587/2025]
 - ✍️ 2025-05-20 [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/586-2025) [586/2025]
 - ✍️ 2025-05-16 [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/584-2025) [584/2025]
+- 📢 2025-05-16 [IV (A) - Provincial Councils](data/gazettes/2025/2025-05-16-iv-a-provincial-councils) [2025-05-16-iv-a-provincial-councils]
+- 📢 2025-05-16 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-05-16-iii-trade-marks-and-patent-notices) [2025-05-16-iii-trade-marks-and-patent-notices]
+- 📢 2025-05-16 [(IIB) - Advertising](data/gazettes/2025/2025-05-16-iib-advertising) [2025-05-16-iib-advertising]
+- 📢 2025-05-16 [(IIA) - Advertising](data/gazettes/2025/2025-05-16-iia-advertising) [2025-05-16-iia-advertising]
 - 📢 2025-05-16 [(I) - General](data/gazettes/2025/2025-05-16-i-general) [2025-05-16-i-general]
+- 📢 2025-05-09 [Legal Section](data/gazettes/2025/2025-05-09-legal-section) [2025-05-09-legal-section]
+- 📢 2025-05-09 [Land Section](data/gazettes/2025/2025-05-09-land-section) [2025-05-09-land-section]
+- 📢 2025-05-09 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-05-09-iii-trade-marks-and-patent-notices) [2025-05-09-iii-trade-marks-and-patent-notices]
+- 📢 2025-05-09 [(IIB) - Advertising](data/gazettes/2025/2025-05-09-iib-advertising) [2025-05-09-iib-advertising]
+- 📢 2025-05-09 [(IIA) - Advertising](data/gazettes/2025/2025-05-09-iia-advertising) [2025-05-09-iia-advertising]
+- 📢 2025-05-09 [(I) - General](data/gazettes/2025/2025-05-09-i-general) [2025-05-09-i-general]
 - ✍️ 2025-05-08 [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill](data/bills/2025/596-2025) [596/2025]
 - ✍️ 2025-05-08 [National Transport Commission (Amendment) - Bill](data/bills/2025/592-2025) [592/2025]
 - ✍️ 2025-05-08 [Personal Data Protection (Amendment) - Bill](data/bills/2025/591-2025) [591/2025]
@@ -550,12 +570,22 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-05-13 [Twenty Second Amendment to the Constitution - GS](data/bills/2024/486-2024) [486/2024]
 - 🏛️ 2024-05-13 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2024/28-2024) [28/2024]
 - 🏛️ 2024-05-13 [Partition (Amendment)](data/acts/2024/27-2024) [27/2024]
+- ✍️ 2024-05-10 [Sri Lanka Telecommunications (Amendment) - Bill](data/bills/2024/490-2024) [490/2024]
+- ✍️ 2024-05-09 [Gender Equality - Bill](data/bills/2024/496-2024) [496/2024]
+- ✍️ 2024-05-08 [J. C. Alawathuwela Foundation (Incorporation) - GS](data/bills/2024/484-2024) [484/2024]
+- ✍️ 2024-05-08 [Parliamentary Elections (Amendment) - GS](data/bills/2024/483-2024) [483/2024]
 - 🏛️ 2024-05-08 [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/26-2024) [26/2024]
+- ✍️ 2024-05-07 [Women Empowerment - Bill](data/bills/2024/495-2024) [495/2024]
+- ✍️ 2024-05-07 [EmployeesÃ¢â¬â¢ Provident Fund (Amendment) - Bill](data/bills/2024/482-2024) [482/2024]
+- ✍️ 2024-05-03 [Civil Procedure Code (Amendment) - GS](data/bills/2024/480-2024) [480/2024]
 - 🏛️ 2024-05-03 [Code of Criminal Procedure (Amendment)](data/acts/2024/25-2024) [25/2024]
+- ✍️ 2024-05-02 [Sri Lanka Telecommunications (Amendment) - GS](data/bills/2024/479-2024) [479/2024]
 
 #### 2024-04
 
+- ✍️ 2024-04-26 [Public Debt Management - Bill](data/bills/2024/485-2024) [485/2024]
 - 🏛️ 2024-04-26 [Banking (Amendment)](data/acts/2024/24-2024) [24/2024]
+- ✍️ 2024-04-25 [Al Falah Foundation (Incorporation) - Bill](data/bills/2024/477-2024) [477/2024]
 - 🏛️ 2024-04-01 [Companies (Amendment)](data/acts/2024/23-2024) [23/2024]
 - 🏛️ 2024-04-01 [Inland Trust Receipts (Amendment)](data/acts/2024/22-2024) [22/2024]
 - 🏛️ 2024-04-01 [Finance Leasing (Amendment)](data/acts/2024/21-2024) [21/2024]
@@ -744,4 +774,26 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - 🏛️ 2021-10-26 [Penal Code (Amendment)](data/acts/2021/25-2021) [25/2021]
 - 🏛️ 2021-10-26 [Youthful Offenders (Training Schools) (Amendment)](data/acts/2021/24-2021) [24/2021]
+- 🏛️ 2021-10-13 [Employees Provident Fund (Amendment)](data/acts/2021/23-2021) [23/2021]
 - 🏛️ 2021-10-13 [Registration of Electors (Amendment)](data/acts/2021/22-2021) [22/2021]
+- 🏛️ 2021-10-08 [Petroleum Resources](data/acts/2021/21-2021) [21/2021]
+
+#### 2021-09
+
+- 🏛️ 2021-09-22 [Consumer Affairs Authority (Amendment)](data/acts/2021/20-2021) [20/2021]
+- 🏛️ 2021-09-21 [Securities and Exchange Commission of Sri Lanka](data/acts/2021/19-2021) [19/2021]
+- 🏛️ 2021-09-15 [Finance](data/acts/2021/18-2021) [18/2021]
+
+#### 2021-08
+
+- 🏛️ 2021-08-23 [Coronavirus Disease 2019 (Covid - 19) (Temporary Provisions)](data/acts/2021/17-2021) [17/2021]
+- 🏛️ 2021-08-16 [National Minimum Wage of Workers (Amendment)](data/acts/2021/16-2021) [16/2021]
+
+#### 2021-07
+
+- 🏛️ 2021-07-16 [Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment)](data/acts/2021/15-2021) [15/2021]
+- 🏛️ 2021-07-16 [Code of Criminal Procedure (Amedment)](data/acts/2021/14-2021) [14/2021]
+
+#### 2021-06
+
+- 🏛️ 2021-06-30 [Sri Lanka Land Development Corporation (Amendment)](data/acts/2021/13-2021) [13/2021]
