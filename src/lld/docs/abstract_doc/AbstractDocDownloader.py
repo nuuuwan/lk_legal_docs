@@ -4,6 +4,10 @@ from lld.www.common.WebPage import WebPage
 
 
 class AbstractDocDownloader:
+
+    def get_pdf_file_path(self, lang):
+        return os.path.join(self.dir_data, f"{lang}.pdf")
+
     def download_all(self):
         did_hot_download = False
         for lang, url in [
@@ -13,7 +17,7 @@ class AbstractDocDownloader:
         ]:
             if not url:
                 continue
-            file_path = os.path.join(self.dir_data, f"{lang}.pdf")
+            file_path = self.get_pdf_file_path(lang)
             if not os.path.exists(file_path):
                 page = WebPage(url)
                 page.download_binary(file_path)
