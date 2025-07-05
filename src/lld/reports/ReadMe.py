@@ -2,11 +2,11 @@ from utils import File, Log, Time, TimeFormat
 
 from lld.www import ActMetadata, BillMetadata
 
-log = Log('ReadMe')
+log = Log("ReadMe")
 
 
 class ReadMe:
-    PATH = 'README.md'
+    PATH = "README.md"
 
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
@@ -14,8 +14,8 @@ class ReadMe:
     @staticmethod
     def get_metadata_md(metadata):
         return (
-            f'- [{metadata.doc_num}] '
-            + f'[{metadata.description}]({metadata.dir_data})'
+            f"- [{metadata.doc_num}] "
+            + f"[{metadata.description}]({metadata.dir_data})"
         )
 
     @staticmethod
@@ -24,7 +24,7 @@ class ReadMe:
         n = len(metadata_list)
         return (
             [
-                f'## {doc_cls.get_doc_type_name().title()} ({n:,})',
+                f"## {doc_cls.get_doc_type_name().title()} ({n:,})",
                 "",
             ]
             + [ReadMe.get_metadata_md(metadata) for metadata in metadata_list]
@@ -48,5 +48,5 @@ class ReadMe:
         )
 
     def build(self):
-        File(self.PATH).write('\n'.join(self.lines))
-        log.info(f'Wrote {len(self.lines)} lines to {self.PATH}.')
+        File(self.PATH).write("\n".join(self.lines))
+        log.debug(f"Wrote {len(self.lines)} lines to {self.PATH}.")
