@@ -1,5 +1,4 @@
 import os
-from functools import cached_property
 
 from utils import JSONFile, Log
 
@@ -7,11 +6,6 @@ log = Log("AbstractDocSerializer")
 
 
 class AbstractDocSerializer:
-    @cached_property
-    def dir_data(self):
-        dir_data = os.path.join(self.get_doc_type_dir(), self.year, self.id)
-        os.makedirs(dir_data, exist_ok=True)
-        return dir_data
 
     @classmethod
     def from_dict(cls, data):
@@ -54,6 +48,6 @@ class AbstractDocSerializer:
         return doc_doc_list
 
     def write(self):
-        file_path = os.path.join(self.dir_data, "AbstractDoc.json")
+        file_path = os.path.join(self.dir_data, "metadata.json")
         JSONFile(file_path).write(self.__dict__)
         log.debug(f"Wrote {file_path}")

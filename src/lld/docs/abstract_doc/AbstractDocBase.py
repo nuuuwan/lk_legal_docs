@@ -14,16 +14,18 @@ class AbstractDocBase:
 
     @cached_property
     def year(self):
-        return self.doc_num.split("/")[1]
+        return self.date[:4]
 
     @cached_property
-    def year_doc_num(self):
-        return self.doc_num.split("/")[0]
+    def id(self):
+        return self.doc_num.replace("/", "-")
 
     @classmethod
     def get_doc_type_dir(cls):
         return os.path.join("data", cls.get_doc_type_name())
 
     @cached_property
-    def id(self):
-        return f"{self.year}-{self.year_doc_num}"
+    def dir_data(self):
+        dir_data = os.path.join(self.get_doc_type_dir(), self.year, self.id)
+        os.makedirs(dir_data, exist_ok=True)
+        return dir_data
