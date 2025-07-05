@@ -33,7 +33,7 @@ class ReadMe:
 
     def get_lines_for_docs(self):
         lines = []
-        for doc_cls in DocFactory.list_all():
+        for doc_cls in DocFactory.list_all_cls():
             lines.extend(self.get_lines_for_doc(doc_cls))
         return lines
 

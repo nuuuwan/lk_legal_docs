@@ -9,7 +9,7 @@ log = Log("pipeline")
 
 def main(max_n_hot):
 
-    for doc_cls in DocFactory.list_all():
+    for doc_cls in DocFactory.list_all_cls():
         ByYearPage(doc_cls).run_pipeline(max_n_hot)
 
     ReadMe().build()
