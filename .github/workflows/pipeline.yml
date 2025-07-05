@@ -44,7 +44,7 @@ jobs:
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/pipeline.py "10"
+          python workflows/pipeline.py "2"
 
       - name: Push
         run: |
@@ -55,5 +55,5 @@ jobs:
           fi
           git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
 
-          git pull --rebase origin main
-          git push origin main
+          git pull origin main
+          git push origin main --force-with-lease
