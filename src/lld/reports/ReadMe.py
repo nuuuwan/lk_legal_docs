@@ -3,6 +3,7 @@ import json
 from utils import File, Log, Time, TimeFormat
 
 from lld.docs import DocFactory
+from lld.reports.CoverageChart import CoverageChart
 
 log = Log("ReadMe")
 
@@ -66,8 +67,14 @@ class ReadMe:
             "",
         ]
 
-    @property
-    def lines(self):
+    def get_lines_coverage_chart(self):
+        image_path = CoverageChart().draw_chart()
+        return [
+            f"![Coverage Chart]({image_path})",
+            "",
+        ]
+
+    def get_lines(self):
         n = len(self.doc_list)
         return (
             [
@@ -91,10 +98,12 @@ class ReadMe:
                 "#SriLanka #Legal #OpenData #GovTech",
                 "",
             ]
+            + self.get_lines_coverage_chart()
             + self.get_lines_metadata()
             + self.get_lines_for_docs()
         )
 
     def build(self):
-        File(self.PATH).write("\n".join(self.lines))
-        log.debug(f"Wrote {len(self.lines)} lines to {self.PATH}.")
+        lines = self.get_lines()
+        File(self.PATH).write("\n".join(lines))
+        log.debug(f"Wrote {len(lines)} lines to {self.PATH}.")

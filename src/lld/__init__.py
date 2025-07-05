@@ -37,4 +37,5 @@ from lld.www import (
 
 from lld.reports import (
     ReadMe,
+    CoverageChart,
 )
