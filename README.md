@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 08:27:16*.
+*Last updated 2025-07-05 08:40:11*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (72)
+## Acts (82)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -77,9 +77,19 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [06/2023] [Parliamentary Budget Office](data/acts/2023/2023-06)
 - [05/2023] [Rathanatissa Peace Foundation (Incorporation)](data/acts/2023/2023-05)
 - [04/2023] [Inland Revenue (Amendment)](data/acts/2023/2023-04)
+- [03/2023] [Regulation of Election Expenditure](data/acts/2023/2023-03)
 - [02/2023] [Bureau of Rehabilitation](data/acts/2023/2023-02)
+- [01/2023] [Recovery of Possession of Premises Given on Lease](data/acts/2023/2023-01)
+- [45/2022] [Inland Revenue (Amendment)](data/acts/2022/2022-45)
+- [44/2022] [Value Added Tax (Amendment)](data/acts/2022/2022-44)
+- [43/2022] [Appropriation](data/acts/2022/2022-43)
+- [42/2022] [Appropriation (Amendment)](data/acts/2022/2022-42)
+- [41/2022] [Poisons, Opium and Dangerous Drugs (Amendment)](data/acts/2022/2022-41)
+- [35/2022] [High Court of the Provinces (Special Provisions) (Amendment)](data/acts/2022/2022-35)
+- [34/2022] [Judicature (Amendment)](data/acts/2022/2022-34)
+- [33/2022] [Small claims Courts' Procedure](data/acts/2022/2022-33)
 
-## Bills (67)
+## Bills (77)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -138,6 +148,9 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [564/2024] [Commission for Truth, Unity, and Reconciliation in Sri Lanka -  Bill](data/bills/2024/2024-564)
 - [563/2024] [Companies (Amendment) - Bill](data/bills/2024/2024-563)
 - [560/2024] [National Land Commission - Bill](data/bills/2024/2024-560)
+- [559/2024] [Maternity Benefits (Amendment) - Bill](data/bills/2024/2024-559)
+- [558/2024] [Protection of Occupants - Bill](data/bills/2024/2024-558)
+- [557/2024] [Sri Lanka Optometric Association (Incorporation) - Bill](data/bills/2024/2024-557)
 - [556/2024] [Penal Code (Amendment) - Bill](data/bills/2024/2024-556)
 - [555/2024] [Rent (Repeal) - Bill](data/bills/2024/2024-555)
 - [554/2024] [Public Assets Management - Bill](data/bills/2024/2024-554)
@@ -148,3 +161,10 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [549/2024] [National Transport Commission (Amendment) - GS](data/bills/2024/2024-549)
 - [548/2024] [Tredzo Development Foundation (Incorporation) - GS](data/bills/2024/2024-548)
 - [547/2024] [Jagath Kumara Sisu Nena Foundation (Incorporation) - GS](data/bills/2024/2024-547)
+- [546/2024] [National Land Commission - GS](data/bills/2024/2024-546)
+- [545/2024] [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS](data/bills/2024/2024-545)
+- [544/2024] [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - Bill](data/bills/2024/2024-544)
+- [543/2024] [Online Safety (Amendment) - Bill](data/bills/2024/2024-543)
+- [542/2024] [International Traditional Sihelogy Council (ITSC) (Incorporation) - Bill](data/bills/2024/2024-542)
+- [541/2024] [Companies (Amendment) -  GS](data/bills/2024/2024-541)
+- [540/2024] [Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/bills/2024/2024-540)
