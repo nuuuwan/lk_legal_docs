@@ -4,5 +4,5 @@
 from lld.docs.abstract_doc import (AbstractDoc, AbstractDocBase,
                                    AbstractDocDownloader, AbstractDocExtract,
                                    AbstractDocReadMe, AbstractDocSerializer)
-from lld.docs.custom_docs import Act, Bill, ExtraGazette
+from lld.docs.custom_docs import Act, Bill, ExtraGazette, Gazette
 from lld.docs.DocFactory import DocFactory
