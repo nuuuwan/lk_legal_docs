@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**289** documents (**142MB**) as of **2025-07-05 16:07:22**.
+**316** documents (**173MB**) as of **2025-07-05 16:29:06**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -229,6 +229,15 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-17 [University Grants Commission- The Universities Act, No. 16 of 1978 Amendment to the Swami Vipulananda Institute of Astnetic Studies Ordinance](data/extra-gazettes/2025/2441-07) [2441/07]
 - 🚨 2025-06-17 [University Grants Commission- The Universities Act, No. 16 of 1978 Amendment to the Institute of Biochemistry, molecullar Biology and Biotechnology Ordinance](data/extra-gazettes/2025/2441-06) [2441/06]
 - 🚨 2025-06-17 [Department of Local Government - Western Province - Appointed Mayor and Deputy Mayor to the Colombo Municipal Council](data/extra-gazettes/2025/2441-05) [2441/05]
+- 🚨 2025-06-16 [Land Title Settlement Dept. - Araththana, Udunuwara D/S Division, Kandy District - (7819)](data/extra-gazettes/2025/2441-04) [2441/04]
+- 🚨 2025-06-16 [Presidential Secretariat - Appointed Mr. U. G. R. Ariyaratne as the Secretary to the Ministry of Urban Development, Construction and Housing with effect from 09th June 2025.](data/extra-gazettes/2025/2441-03) [2441/03]
+- 🚨 2025-06-16 [Municipal Council Office - Kurunegala. Sri Dalada Poson Perahera at the Athkanda Rajamaha Viharaya in Kurunegala-Perahara Pageant route.](data/extra-gazettes/2025/2441-02) [2441/02]
+- 🚨 2025-06-16 [Sri Lanka Customs - Rates of Exchange with effect from 16.06.2025 to 22.06.2025](data/extra-gazettes/2025/2441-01) [2441/01]
+- 🚨 2025-06-13 [Land Acquisition - Madahapola, Polpithigama D/S Division, Kurunegala District, Nagoda, Kalutara D/S Division, Kalutara District](data/extra-gazettes/2025/2440-28) [2440/28]
+- 🚨 2025-06-13 [Ministry of Justice and National Integration - The justices of the Peace Regulations No. 1 of 2025](data/extra-gazettes/2025/2440-27) [2440/27]
+- 🚨 2025-06-13 [Election Commission - Amendment to the Gazette Extraordinary No. 2438/71 Dated 31.05.2025 (Amending the Names of the Returned Member)](data/extra-gazettes/2025/2440-26) [2440/26]
+- 🚨 2025-06-13 [Election Commission - Notice under Section 66 (2) of L.A.E. Ordinance (Chapter 262) List of Returned Members of L.A Election - 2025](data/extra-gazettes/2025/2440-25) [2440/25]
+- 🚨 2025-06-13 [Department of Animal Production and Health - Amended Extraordinary Gazette No 2422/16 On 04.02.2025 Animal Disease Act No. 59 of 1992](data/extra-gazettes/2025/2440-24) [2440/24]
 - ✍️ 2025-06-06 [National Photographic Art Society of Sri Lanka (Incorporation) - GS](data/bills/2025/610-2025) [610/2025]
 - ✍️ 2025-06-06 [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/609-2025) [609/2025]
 - ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
@@ -303,9 +312,21 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 #### 2024-09
 
+- ✍️ 2024-09-03 [Commission for Truth, Unity, and Reconciliation in Sri Lanka -  Bill](data/bills/2024/564-2024) [564/2024]
 - ✍️ 2024-09-03 [Companies (Amendment) - Bill](data/bills/2024/563-2024) [563/2024]
 - ✍️ 2024-09-03 [National Land Commission - Bill](data/bills/2024/560-2024) [560/2024]
 - ✍️ 2024-09-03 [National Building Research Institute - GS](data/bills/2024/551-2024) [551/2024]
+
+#### 2024-08
+
+- ✍️ 2024-08-28 [NATIONAL TRANSPORT COMMISSION - Bill](data/bills/2024/565-2024) [565/2024]
+- ✍️ 2024-08-28 [National Transport Commission (Amendment) - GS](data/bills/2024/549-2024) [549/2024]
+- ✍️ 2024-08-26 [Tredzo Development Foundation (Incorporation) - GS](data/bills/2024/548-2024) [548/2024]
+- ✍️ 2024-08-26 [Jagath Kumara Sisu Nena Foundation (Incorporation) - GS](data/bills/2024/547-2024) [547/2024]
+- ✍️ 2024-08-21 [Public Assets Management - Bill](data/bills/2024/554-2024) [554/2024]
+- ✍️ 2024-08-21 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill](data/bills/2024/553-2024) [553/2024]
+- ✍️ 2024-08-21 [Bills of Exchange (Amendment) - Bill](data/bills/2024/552-2024) [552/2024]
+- ✍️ 2024-08-21 [Code of Criminal Procedure (Amendment) - Bill](data/bills/2024/550-2024) [550/2024]
 
 #### 2024-06
 
@@ -383,3 +404,18 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🏛️ 2023-10-17 [Elections (Special Provisions)](data/acts/2023/21-2023) [21/2023]
 - 🏛️ 2023-10-17 [Civil Procedure Code (Amendment)](data/acts/2023/20-2023) [20/2023]
 - 🏛️ 2023-10-09 [Ayurveda (Amendment)](data/acts/2023/19-2023) [19/2023]
+
+#### 2023-09
+
+- 🏛️ 2023-09-19 [Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment)](data/acts/2023/18-2023) [18/2023]
+- 🏛️ 2023-09-14 [Banking (Special Provisions)](data/acts/2023/17-2023) [17/2023]
+- 🏛️ 2023-09-14 [Central Bank of Sri Lanka](data/acts/2023/16-2023) [16/2023]
+- 🏛️ 2023-09-08 [Social Security Contribution Levy (Amendment)](data/acts/2023/15-2023) [15/2023]
+- 🏛️ 2023-09-08 [Inland Revenue (Amendment)](data/acts/2023/14-2023) [14/2023]
+
+#### 2023-08
+
+- 🏛️ 2023-08-21 [Sri Lanka Institute of Taxation (Incorporation) (Amendment)](data/acts/2023/13-2023) [13/2023]
+- 🏛️ 2023-08-21 [Appropriation (Amendment)](data/acts/2023/12-2023) [12/2023]
+- 🏛️ 2023-08-21 [Betting and Gaming Levy (Amendment)](data/acts/2023/11-2023) [11/2023]
+- 🏛️ 2023-08-08 [Anti-Corruption](data/acts/2023/09-2023) [09/2023]
