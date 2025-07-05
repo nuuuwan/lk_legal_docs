@@ -26,6 +26,8 @@ class ForYearPage(WebPage):
 
         source_url_en, source_url_si, source_url_ta = None, None, None
         for a in a_list:
+            if a.has_attr("disabled"):
+                continue
             href = a["href"]
             url = "/".join(
                 [
