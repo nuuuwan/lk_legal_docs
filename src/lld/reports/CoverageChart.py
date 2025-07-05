@@ -60,7 +60,7 @@ class CoverageChart:
         ax.legend()
 
         step = max(1, len(dates) // 7)
-        shown_ticks = dates[:-1:step] + [dates[-1]]
+        shown_ticks = dates[::step] 
         ax.set_xticks(shown_ticks)
         ax.set_xticklabels(shown_ticks, ha="center")
 
