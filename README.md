@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**33** documents as of **2025-07-05 10:07:36**.
+**39** documents (**31MB**) as of **2025-07-05 10:22:58**.
 
 A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -11,6 +11,20 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 🔍 **Useful** for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
 
 #SriLanka #Legal #OpenData #GovTech
+
+## Metadata Example
+
+```json
+{
+    "doc_num": "617/2025",
+    "date": "2025-07-04",
+    "description": "Land Development (Amendment) - GS",
+    "source_url_en": "https://documents.gov.lk/view/bills/2025/7/617-2025_E.pdf",
+    "source_url_si": "https://documents.gov.lk/view/bills/2025/7/617-2025_S.pdf",
+    "source_url_ta": "https://documents.gov.lk/view/bills/2025/7/617-2025_T.pdf",
+    "id": "617-2025"
+}
+```
 
 ## Documents (Latest)
 
@@ -32,6 +46,8 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 #### 2025-06
 
+- 🚨 2025-06-30 [National Physical Planning Department - The Town and Country Planning Ordinance (Chapter 269) Declare that the Land called "Sankapitti Purana Vihara area as an Urban Development Area](data/extra-gazettes/2025/2443-10) [2443/10]
+- 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Iodization of Salt) Regulation 2023.](data/extra-gazettes/2025/2443-09) [2443/09]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Colour Coding for Suger Levels liquid) Regulation 2022.](data/extra-gazettes/2025/2443-08) [2443/08]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Frans - Fat) Regulation 2022.](data/extra-gazettes/2025/2443-07) [2443/07]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (labelling and Advertising) Regulations 2023.](data/extra-gazettes/2025/2443-06) [2443/06]
@@ -47,6 +63,8 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - ✍️ 2025-06-06 [National Photographic Art Society of Sri Lanka (Incorporation) - GS](data/bills/2025/610-2025) [610/2025]
 - ✍️ 2025-06-06 [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/609-2025) [609/2025]
 - ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
+- ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
+- ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
 
 #### 2025-05
 
@@ -72,4 +90,9 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 - 🏛️ 2024-06-18 [Public Debt Management](data/acts/2024/33-2024) [33/2024]
 - 🏛️ 2024-06-18 [International Institute of Theravadha (Incorporation)](data/acts/2024/32-2024) [32/2024]
+- 🏛️ 2024-06-12 [Kelaniya Buddhist Women's Charitable Society (Incorporation)](data/acts/2024/30-2024) [30/2024]
 - 🏛️ 2024-06-12 [Saweera Foundation (Incorporation)](data/acts/2024/29-2024) [29/2024]
+
+#### 2024-05
+
+- 🏛️ 2024-05-13 [Partition (Amendment)](data/acts/2024/27-2024) [27/2024]
