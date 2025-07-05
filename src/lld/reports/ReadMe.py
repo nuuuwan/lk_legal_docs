@@ -15,9 +15,7 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
 
     @staticmethod
     def get_doc_md_lines(doc):
@@ -56,17 +54,6 @@ class ReadMe:
             lines.extend(self.get_doc_md_lines(doc))
         return lines
 
-    def get_lines_metadata(self):
-        latest_doc = self.doc_list[0]
-        return [
-            "## Metadata Example",
-            "",
-            "```json",
-            json.dumps(latest_doc.__dict__, indent=4),
-            "```",
-            "",
-        ]
-
     def get_lines_coverage_chart(self):
         image_path = CoverageChart().draw_chart()
         return [
@@ -99,7 +86,6 @@ class ReadMe:
                 "",
             ]
             + self.get_lines_coverage_chart()
-            + self.get_lines_metadata()
             + self.get_lines_for_docs()
         )
 
