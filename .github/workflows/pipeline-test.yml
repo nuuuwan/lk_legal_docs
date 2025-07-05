@@ -1,10 +1,12 @@
-name: pipeline-test
+name: pipeline
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
 
 jobs:
-  pipeline-test:
+  pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -46,10 +48,14 @@ jobs:
 
       - name: Push
         run: |
+          git stash --include-untracked
+          git pull origin main
+          git stash pop
+
           git add .
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline-test.yml"
+          git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
           git push origin main
