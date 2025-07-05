@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-04 21:41:36*.
+*Last updated 2025-07-05 06:43:36*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (23)
+## Acts (33)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -23,14 +23,24 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [26/2024] [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/2024-26)
 - [25/2024] [Code of Criminal Procedure (Amendment)](data/acts/2024/2024-25)
 - [24/2024] [Banking (Amendment)](data/acts/2024/2024-24)
+- [23/2024] [Companies (Amendment)](data/acts/2024/2024-23)
 - [22/2024] [Inland Trust Receipts (Amendment)](data/acts/2024/2024-22)
 - [21/2024] [Finance Leasing (Amendment)](data/acts/2024/2024-21)
 - [20/2024] [Mortgage (Amendment)](data/acts/2024/2024-20)
 - [19/2024] [Trust Receipts (Amendment)](data/acts/2024/2024-19)
 - [18/2024] [Registration of Documents (Amendment)](data/acts/2024/2024-18)
 - [17/2024] [Secured Transactions](data/acts/2024/2024-17)
+- [16/2024] [Value Added Tax (Amendment)](data/acts/2024/2024-16)
+- [15/2024] [Social Security Contribution Levy (Amendment)](data/acts/2024/2024-15)
+- [14/2024] [Dassana Bauddha Sanvidhanaya (Incorporation)](data/acts/2024/2024-14)
+- [13/2024] [Samadhi Community Development Foundation (Incorporation)](data/acts/2024/2024-13)
+- [12/2024] [Sri Balabhivurdhi Wardana Society (Incorporation)](data/acts/2024/2024-12)
+- [11/2024] [Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/acts/2024/2024-11)
+- [10/2024] [Heart to Heart Trust Fund (Incorporation)](data/acts/2024/2024-10)
+- [08/2024] [Contempt of a Court,Tribunal or Institution](data/acts/2024/2024-08)
+- [07/2024] [National Hydrographic](data/acts/2024/2024-07)
 
-## Bills (21)
+## Bills (30)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -50,6 +60,15 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [602/2025] [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/2025-602)
 - [601/2025] [Bills of Exchange (Amendment) - GS](data/bills/2025/2025-601)
 - [600/2025] [Samurdhi (Amendment) - GS](data/bills/2025/2025-600)
+- [599/2025] [Sri Lanka Electricity (Amendment) - Bill](data/bills/2025/2025-599)
 - [598/2025] [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/2025-598)
 - [597/2025] [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/bills/2025/2025-597)
 - [595/2025] [Rubber Control (Amendment) - GS](data/bills/2025/2025-595)
+- [594/2025] [Gambling Regulatory Authority - GS](data/bills/2025/2025-594)
+- [590/2025] [Online Safety (Repeal) - Bill](data/bills/2025/2025-590)
+- [589/2025] [Provincial Councils Elections (Amendment) - GS](data/bills/2025/2025-589)
+- [588/2025] [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/2025-588)
+- [587/2025] [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/2025-587)
+- [586/2025] [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/2025-586)
+- [585/2025] [Foreign Loans (Repeal) - Bill](data/bills/2025/2025-585)
+- [584/2025] [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/2025-584)
