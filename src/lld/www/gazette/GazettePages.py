@@ -43,20 +43,11 @@ class GazettePages:
         description = li_sub_part.find("strong").text.strip()
         doc_num = GazettePages.__get_doc_num__(date, description)
 
-        source_url_en, source_url_si, source_url_ta = (
-            None,
-            None,
-            None,
-        )
+        source_url_en, source_url_si, source_url_ta = (None, None, None)
         a_list = li_sub_part.find_all("a")
         for a in a_list:
             href = a["href"]
-            url = "/".join(
-                [
-                    GazettePages.BASE_URL,
-                    href,
-                ]
-            )
+            url = "/".join([GazettePages.BASE_URL, href])
 
             if "E.pdf" in href:
                 source_url_en = url
