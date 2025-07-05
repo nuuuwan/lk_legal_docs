@@ -27,7 +27,9 @@ class ByYearPage(WebPage, AbstractPipelineRunner):
         self.doc_cls = doc_cls
 
     def gen_for_year_pages(self):
-        div_buttons = self.soup.find("div", class_="button-container") or []
+        div_buttons = self.soup.find("div", class_="button-container")
+        if not div_buttons:
+            return
         for a in div_buttons.find_all("a"):
             href = a.get("href")
             url = "/".join([ForYearPage.__get_base_url__(self.doc_cls), href])
