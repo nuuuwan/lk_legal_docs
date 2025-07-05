@@ -5,5 +5,3 @@
 ## Original Sources
 
 - [English](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-60_E.pdf)
-- [Sinhala](None)
-- [Tamil](None)

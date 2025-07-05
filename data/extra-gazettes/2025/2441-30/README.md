@@ -5,6 +5,4 @@ Land Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha 
 
 ## Original Sources
 
-- [English](None)
-- [Sinhala](None)
-- [Tamil](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-30_T.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-30_T.pdf)

@@ -4,6 +4,5 @@
 
 ## Original Sources
 
-- [English](None)
-- [Sinhala](https://documents.gov.lk/view/extra-gazettes/2025/7/2443-30_S.pdf)
-- [Tamil](None)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2025/7/2443-30_S.pdf)
+- [English](https://documents.gov.lk/view/extra-gazettes/2025/7/2443-30_E.pdf)

@@ -4,6 +4,3 @@
 
 ## Original Sources
 
-- [English](None)
-- [Sinhala](None)
-- [Tamil](None)

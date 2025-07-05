@@ -5,6 +5,5 @@ Land Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33
 
 ## Original Sources
 
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-26_S.pdf)
 - [English](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-26_E.pdf)
-- [Sinhala](https://documents.gov.lk/view/extra-gazettes/2025/6/2441-26_S.pdf)
-- [Tamil](None)

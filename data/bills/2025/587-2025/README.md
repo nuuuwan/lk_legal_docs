@@ -4,6 +4,6 @@
 
 ## Original Sources
 
+- [සිංහල](https://documents.gov.lk/view/bills/2025/5/587-2025_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/bills/2025/5/587-2025_T.pdf)
 - [English](https://documents.gov.lk/view/bills/2025/5/587-2025_E.pdf)
-- [Sinhala](https://documents.gov.lk/view/bills/2025/5/587-2025_S.pdf)
-- [Tamil](https://documents.gov.lk/view/bills/2025/5/587-2025_T.pdf)

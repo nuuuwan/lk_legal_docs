@@ -4,6 +4,6 @@
 
 ## Original Sources
 
+- [සිංහල](https://documents.gov.lk/view/gazettes//2025/6/2025-06-27(VI)S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/gazettes//2025/6/2025-06-27(VI)T.pdf)
 - [English](https://documents.gov.lk/view/gazettes//2025/6/2025-06-27(VI)E.pdf)
-- [Sinhala](https://documents.gov.lk/view/gazettes//2025/6/2025-06-27(VI)S.pdf)
-- [Tamil](https://documents.gov.lk/view/gazettes//2025/6/2025-06-27(VI)T.pdf)

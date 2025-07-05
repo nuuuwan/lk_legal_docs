@@ -4,6 +4,6 @@
 
 ## Original Sources
 
+- [සිංහල](https://documents.gov.lk/view/acts/2024/4/19-2024_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/acts/2024/4/19-2024_T.pdf)
 - [English](https://documents.gov.lk/view/acts/2024/4/19-2024_E.pdf)
-- [Sinhala](https://documents.gov.lk/view/acts/2024/4/19-2024_S.pdf)
-- [Tamil](https://documents.gov.lk/view/acts/2024/4/19-2024_T.pdf)
