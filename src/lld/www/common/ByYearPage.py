@@ -40,7 +40,7 @@ class ByYearPage(WebPage):
             if is_hot:
                 doc.write()
                 doc.write_readme()
-                doc.extract_text()
+            doc.extract_text()  # HACK! This must be moved into is_hot
             return is_hot
         except Exception as e:
             log.error(f"❌ Error downloading {doc.doc_num}: {e}")
