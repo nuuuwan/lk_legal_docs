@@ -1,5 +1,3 @@
-from functools import cache
-
 from utils import Log
 
 from lld.www.common.WebPage import WebPage
@@ -8,19 +6,17 @@ log = Log("ForYearPage")
 
 
 class ForYearPage(WebPage):
-    @classmethod
-    def get_doc_type_name(cls):
-        raise NotImplementedError
+    @staticmethod
+    def __get_base_url__(doc_cls):
+        return "/".join(
+            [WebPage.BASE_URL, "view", doc_cls.get_doc_type_name()]
+        )
 
-    @classmethod
-    def get_doc_metadata_cls(cls):
-        raise NotImplementedError
-
-    def __init__(self, url):
+    def __init__(self, url, doc_cls):
         super().__init__(url)
+        self.doc_cls = doc_cls
 
-    @classmethod
-    def __parse_tr__(cls, tr):
+    def __parse_tr__(self, tr):
         td_list = tr.find_all("td")
         doc_num = td_list[0].text.strip()
         date = td_list[1].text.strip()
@@ -31,9 +27,11 @@ class ForYearPage(WebPage):
         source_url_en, source_url_si, source_url_ta = None, None, None
         for a in a_list:
             href = a["href"]
-            url = (
-                f"https://documents.gov.lk/view/{cls.get_doc_type_name()}/"
-                + a["href"]
+            url = "/".join(
+                [
+                    ForYearPage.__get_base_url__(self.doc_cls),
+                    href,
+                ]
             )
 
             if "_E" in href:
@@ -45,8 +43,7 @@ class ForYearPage(WebPage):
             else:
                 log.warning(f"Unknown language code in URL: {href}")
 
-        doc_metadata_cls = cls.get_doc_metadata_cls()
-        return doc_metadata_cls(
+        return self.doc_cls(
             doc_num=doc_num,
             date=date,
             description=description,
@@ -55,7 +52,6 @@ class ForYearPage(WebPage):
             source_url_ta=source_url_ta,
         )
 
-    @cache
     def get_metadata_list(self):
         doc_metadata_list = []
         table = self.soup.find(

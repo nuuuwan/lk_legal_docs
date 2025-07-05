@@ -5,7 +5,4 @@ from lld.docs import (AbstractDoc, AbstractDocBase, AbstractDocDownloader,
                       AbstractDocReadMe, AbstractDocSerializer, Act, Bill,
                       ExtraGazette)
 from lld.reports import ReadMe
-from lld.www import (ActMetadata, ActsByYearPage, ActsForYearPage,
-                     BillMetadata, BillsByYearPage, BillsForYearPage,
-                     ByYearPage, ExtraGazetteMetadata, ExtraGazettesByYearPage,
-                     ExtraGazettesForYearPage, ForYearPage, Metadata, WebPage)
+from lld.www import ByYearPage, ForYearPage, WebPage

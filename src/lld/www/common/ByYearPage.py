@@ -1,7 +1,6 @@
-from functools import cache
-
 from utils import Log
 
+from lld.www.common.ForYearPage import ForYearPage
 from lld.www.common.WebPage import WebPage
 
 log = Log("ByYearPage")
@@ -9,34 +8,27 @@ log = Log("ByYearPage")
 
 class ByYearPage(WebPage):
 
-    @classmethod
-    def get_doc_type_name(cls):
-        raise NotImplementedError
-
-    @classmethod
-    def get_doc_type_name_short(cls):
-        raise NotImplementedError
-
-    @classmethod
-    def get_for_year_page_cls(cls):
-        return NotImplementedError
-
-    def __init__(self):
-        super().__init__(
-            f"{WebPage.BASE_URL}/view"
-            + f"/{self.get_doc_type_name()}"
-            + f"/{self.get_doc_type_name_short()}.html"
+    @staticmethod
+    def __get_url__(doc_cls):
+        return "/".join(
+            [
+                ForYearPage.__get_base_url__(doc_cls),
+                doc_cls.get_doc_type_name_short() + ".html",
+            ]
         )
 
-    @cache
+    def __init__(self, doc_cls):
+        super().__init__(ByYearPage.__get_url__(doc_cls))
+        self.doc_cls = doc_cls
+
     def get_for_year_page_list(self):
         div_buttons = self.soup.find("div", class_="button-container")
         for_year_page_list = []
-        for_year_page_cls = self.get_for_year_page_cls()
+
         for a in div_buttons.find_all("a"):
             href = a.get("href")
-            url = self.BASE_URL + f"/view/{self.get_doc_type_name()}/" + href
-            for_year_page = for_year_page_cls(url)
+            url = "/".join([ForYearPage.__get_base_url__(self.doc_cls), href])
+            for_year_page = ForYearPage(url, self.doc_cls)
             for_year_page_list.append(for_year_page)
         return for_year_page_list
 
@@ -54,7 +46,9 @@ class ByYearPage(WebPage):
             return False
 
     def run_pipeline(self, max_n_hot):
-        log.info(f"Running pipeline for {self.get_doc_type_name().title()}.")
+        log.info(
+            f"Running pipeline for {self.doc_cls.get_doc_type_name().title()}."
+        )
         for_year_page_list = self.get_for_year_page_list()
         n_hot = 0
         for for_year_page in for_year_page_list:
@@ -70,4 +64,6 @@ class ByYearPage(WebPage):
                     log.info(
                         f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}"
                     )
-        log.info(f"🛑🛑 Downloaded ALL {self.get_doc_type_name()}.")
+        log.info(
+            f"🛑🛑 Downloaded ALL {self.doc_cls.get_doc_type_name().title()}."
+        )

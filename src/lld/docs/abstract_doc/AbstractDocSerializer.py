@@ -1,9 +1,9 @@
 import os
 from functools import cached_property
 
-from utils import JSONFile
+from utils import JSONFile, Log
 
-from lld.docs.abstract_doc.AbstractDoc import log
+log = Log("AbstractDocSerializer")
 
 
 class AbstractDocSerializer:
@@ -36,9 +36,9 @@ class AbstractDocSerializer:
             dir_data_for_year = os.path.join(cls.get_doc_type_dir(), year)
             for id in os.listdir(dir_data_for_year):
                 dir_data = os.path.join(dir_data_for_year, id)
-                file_path = os.path.join(dir_data, "AbstractDoc.json")
+                file_path = os.path.join(dir_data, "metadata.json")
                 if not os.path.exists(file_path):
-                    log.warning(f"AbstractDoc file not found: {file_path}")
+                    log.warning(f"{file_path} not found.")
                     continue
                 file_path_lists.append(file_path)
         return file_path_lists

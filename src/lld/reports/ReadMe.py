@@ -1,6 +1,6 @@
 from utils import File, Log, Time, TimeFormat
 
-from lld.www import ActMetadata, BillMetadata
+from lld.docs import Act, Bill, ExtraGazette
 
 log = Log("ReadMe")
 
@@ -44,8 +44,9 @@ class ReadMe:
                 + " from [documents.gov.lk](https://documents.gov.lk).",
                 "",
             ]
-            + self.get_lines_for_doc(ActMetadata)
-            + self.get_lines_for_doc(BillMetadata)
+            + self.get_lines_for_doc(Act)
+            + self.get_lines_for_doc(Bill)
+            + self.get_lines_for_doc(ExtraGazette)
         )
 
     def build(self):

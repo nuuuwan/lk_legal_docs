@@ -1,8 +1,8 @@
 import os
 
-from utils import File
+from utils import File, Log
 
-from lld.docs.abstract_doc.AbstractDoc import log
+log = Log("AbstractDocReadMe")
 
 
 class AbstractDocReadMe:
