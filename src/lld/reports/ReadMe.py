@@ -71,7 +71,7 @@ class ReadMe:
             [
                 "# Legal Documents - #SriLanka 🇱🇰",
                 "",
-                f"**{n}** documents (**{self.total_data_size_m:,.0f}MB**)"
+                f"**{n:,}** documents (**{self.total_data_size_m:,.0f}MB**)"
                 + f" as of **{self.time_str}**.",
                 "",
                 "A collection of"
