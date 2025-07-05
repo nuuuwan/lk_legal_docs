@@ -65,5 +65,6 @@ class CoverageChart:
         # Save the figure
         plt.savefig(self.IMAGE_PATH, dpi=300)
         plt.close()
+        os.makedirs(os.path.dirname(self.IMAGE_PATH), exist_ok=True)
         log.info(f"Wrote {self.IMAGE_PATH}.")
         return self.IMAGE_PATH
