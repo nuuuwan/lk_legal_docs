@@ -11,6 +11,7 @@ def main(max_n_hot):
     log.debug(f"{max_n_hot=}")
     if max_n_hot > 0:
         for doc_cls in DocFactory.list_all_cls():
+            doc_cls.cleanup()
             ByYearPage(doc_cls).run_pipeline(max_n_hot)
     ReadMe().build()
 

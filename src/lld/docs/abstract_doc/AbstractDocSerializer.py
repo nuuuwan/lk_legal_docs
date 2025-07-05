@@ -1,4 +1,5 @@
 import os
+import shutil
 
 from utils import JSONFile, Log
 
@@ -36,6 +37,33 @@ class AbstractDocSerializer:
                     continue
                 file_path_lists.append(file_path)
         return file_path_lists
+
+    @classmethod
+    def __get_empty_dir_list__(cls):
+        empty_dir_list = []
+        for year in os.listdir(cls.get_doc_type_dir()):
+            dir_data_for_year = os.path.join(cls.get_doc_type_dir(), year)
+            for child_dir in os.listdir(dir_data_for_year):
+                dir_data = os.path.join(dir_data_for_year, child_dir)
+                file_path = os.path.join(dir_data, "metadata.json")
+                if not os.path.exists(file_path):
+                    empty_dir_list.append(dir_data)
+                else:
+                    doc = cls.from_file(file_path)
+                    if not (
+                        doc.source_url_en
+                        or doc.source_url_si
+                        or doc.source_url_ta
+                    ):
+                        empty_dir_list.append(dir_data)
+        return empty_dir_list
+
+    @classmethod
+    def cleanup(cls):
+        empty_dir_list = cls.__get_empty_dir_list__()
+        for dir_data in empty_dir_list:
+            log.warning(f"Removing empty directory: {dir_data}")
+            shutil.rmtree(dir_data)
 
     @classmethod
     def list_all(cls):
