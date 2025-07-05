@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**167** documents (**110MB**) as of **2025-07-05 11:41:06**.
+**286** documents (**140MB**) as of **2025-07-05 11:57:48**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,28 +16,30 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 
 ```json
 {
-    "doc_num": "2443/61",
+    "doc_num": "617/2025",
     "date": "2025-07-04",
-    "description": "Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province",
-    "source_url_en": null,
-    "source_url_si": "https://documents.gov.lk/view/extra-gazettes/2025/7/2443-61_S.pdf",
-    "source_url_ta": null,
-    "id": "2443-61"
+    "description": "Land Development (Amendment) - GS",
+    "source_url_en": "https://documents.gov.lk/view/bills/2025/7/617-2025_E.pdf",
+    "source_url_si": "https://documents.gov.lk/view/bills/2025/7/617-2025_S.pdf",
+    "source_url_ta": "https://documents.gov.lk/view/bills/2025/7/617-2025_T.pdf",
+    "id": "617-2025"
 }
 ```
 
 ## Documents (Latest)
 
-(🚨 = Extra-Gazettes)
+(🏛️ = Acts, ✍️ = Bills, 🚨 = Extra-Gazettes)
 
 ### 2025
 
 #### 2025-07
 
+- ✍️ 2025-07-04 [Land Development (Amendment) - GS](data/bills/2025/617-2025) [617/2025]
 - 🚨 2025-07-04 [Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province](data/extra-gazettes/2025/2443-61) [2443/61]
 - 🚨 2025-07-04 [Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S](data/extra-gazettes/2025/2443-60) [2443/60]
 - 🚨 2025-07-04 [Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province](data/extra-gazettes/2025/2443-58) [2443/58]
 - 🚨 2025-07-04 [Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC](data/extra-gazettes/2025/2443-57) [2443/57]
+- ✍️ 2025-07-03 [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/616-2025) [616/2025]
 - 🚨 2025-07-03 [Presidential Secretariat - Removal from BMICH Management Membership](data/extra-gazettes/2025/2443-56) [2443/56]
 - 🚨 2025-07-03 [Land Acquisition - Hunukumbura, Bamunukotuwa D/S Division Hunupitiya - Udukumbura Road - Sec.33](data/extra-gazettes/2025/2443-55) [2443/55]
 - 🚨 2025-07-03 [Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92 Keppitipola Water Treatment Plant](data/extra-gazettes/2025/2443-54) [2443/54]
@@ -113,6 +115,7 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-06-24 [Land Aquisition - Kavudawa, Monaragala D/S Division, Monaragala District, Land Aquisition - Correction Paper Kurunegala  D/S Division, kurunegala District, Land Aquisition - Correction Paper Kurunegala  D/S Division, kurunegala District,](data/extra-gazettes/2025/2442-31) [2442/31]
 - 🚨 2025-06-24 [Sri Lanka Parliament - Convening of the Parliament of the Democratic Socialist Republic of Sri Lanka on Monday, the 30th of June, 2025 at 9.30 a.m.](data/extra-gazettes/2025/2442-30) [2442/30]
 - 🚨 2025-06-24 [Dept. of Census and Statistics National Consumer Price Index - May 2025](data/extra-gazettes/2025/2442-29) [2442/29]
+- ✍️ 2025-06-23 [National Audit (Amendment) - GS](data/bills/2025/611-2025) [611/2025]
 - 🚨 2025-06-23 [Land Title Settlement Dept. - Boralessa, Wennappuwa D/S Division, Puttalam District (25/0036)](data/extra-gazettes/2025/2442-28) [2442/28]
 - 🚨 2025-06-23 [Land Title Settlement Dept. - Uyangalla, Ganewatta D/S Division, Kurunegala District (25/0055)](data/extra-gazettes/2025/2442-27) [2442/27]
 - 🚨 2025-06-23 [Land Title Settlement Dept. - Paraththa, Panadura D/S Division, Kalutara District (25/0049)](data/extra-gazettes/2025/2442-26) [2442/26]
@@ -176,6 +179,9 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-06-20 [Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators- Gampaha District](data/extra-gazettes/2025/2441-46) [2441/46]
 - 🚨 2025-06-20 [Meditation Boards Commission- Notice Calling for Nominations for the Appointments of Mediators](data/extra-gazettes/2025/2441-45) [2441/45]
 - 🚨 2025-06-20 [Bibila Pradeshiya Sabha Roads and Narrow Paths - 2nd Gazette](data/extra-gazettes/2025/2441-44) [2441/44]
+- 🏛️ 2025-06-20 [National Transport Commission (Amendment)](data/acts/2025/08-2025) [08/2025]
+- 🏛️ 2025-06-20 [Code of Criminal Procedure (Amendment)](data/acts/2025/07-2025) [07/2025]
+- ✍️ 2025-06-19 [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS](data/bills/2025/607-2025) [607/2025]
 - 🚨 2025-06-19 [Land Title Settlement Dept. - Rathmalana, Rathmalana D/S Division, Colombo District - (7828)](data/extra-gazettes/2025/2441-43) [2441/43]
 - 🚨 2025-06-19 [Land Title Settlement Dept. - Bowla, Udapalatha D/S Division, Kandy District - (25/0142)](data/extra-gazettes/2025/2441-42) [2441/42]
 - 🚨 2025-06-19 [Land Title Settlement Dept. - Haloyawaththa, Janapadaya, Doluwa D/S Division, Kandy District - (25/0048)](data/extra-gazettes/2025/2441-41) [2441/41]
@@ -191,6 +197,11 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-06-19 [Ministry of Public Administration - Provincials Councils & L.G Appointments Under  the Notaries Ordinance](data/extra-gazettes/2025/2441-31) [2441/31]
 - 🚨 2025-06-19 [Land Aquisition - Bollegala, Biyagama D/S Division, Gampaha District - Sec 07
 Land Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha District - Sec 07](data/extra-gazettes/2025/2441-30) [2441/30]
+- ✍️ 2025-06-18 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - Bill](data/bills/2025/615-2025) [615/2025]
+- 🚨 2025-06-18 [Galigamuwa Pradeshiya Sabha Roads and Paths](data/extra-gazettes/2025/2441-29) [2441/29]
+- 🚨 2025-06-18 [Land Aquisition - Kengalla, Kundasale D/S Division, Kandy District - Sec 05
+Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District - Sec 05](data/extra-gazettes/2025/2441-28) [2441/28]
+- 🚨 2025-06-18 [Governer's Secretarial Northern Province - Co-operative Socities Law No. 05 of 1972 Conferment of Power](data/extra-gazettes/2025/2441-27) [2441/27]
 - 🚨 2025-06-18 [Land Aquisition - Matale D/S Division, Matale District - Sec 33
 Land Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33](data/extra-gazettes/2025/2441-26) [2441/26]
 - 🚨 2025-06-18 [Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33
@@ -208,3 +219,164 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-18 [Dept. of Trade and Investment Policy- Foreign Exchange Act, No. 12 of 2017 Order Under Section 22 (1) -Regulations](data/extra-gazettes/2025/2441-14) [2441/14]
 - 🚨 2025-06-18 [Election Commission - Notice under Section 66A (1)(a) Appointed Mr. N.M. Neel Navarathna as a Member of Karuwalagaswewa Pradeshiya Sabha](data/extra-gazettes/2025/2441-13) [2441/13]
 - 🚨 2025-06-18 [Dept. of Local Government - Sabaragamuwa P.C Appointed Chairman, Vice Chairman Mayor and Deputy Mayor of Local Government Institutions](data/extra-gazettes/2025/2441-12) [2441/12]
+- ✍️ 2025-06-17 [Samurdhi (Amendment) - Bill](data/bills/2025/614-2025) [614/2025]
+- ✍️ 2025-06-17 [Gambling Regulatory Authority - Bill](data/bills/2025/613-2025) [613/2025]
+- ✍️ 2025-06-17 [Bills of Exchange (Amendment) - Bill](data/bills/2025/612-2025) [612/2025]
+- 🚨 2025-06-17 [Ministry of Public Administration, Provincial Councils and Local Government - Pilgrimages Ordinance. Regulations of Annual  Esala Perahera Ceremony of Sri Saddharmathilaka Viharasthanaya - Kandy.](data/extra-gazettes/2025/2441-10) [2441/10]
+- 🚨 2025-06-17 [Ministry of Defence - General Sir John Kotelawala Defence University. Amendments to the Closing Date.](data/extra-gazettes/2025/2441-09) [2441/09]
+- 🚨 2025-06-17 [Land Aquisition - Rangallepola, Narammala D/S Division, Kurunegala District](data/extra-gazettes/2025/2441-08) [2441/08]
+- 🚨 2025-06-17 [University Grants Commission- The Universities Act, No. 16 of 1978 Amendment to the Swami Vipulananda Institute of Astnetic Studies Ordinance](data/extra-gazettes/2025/2441-07) [2441/07]
+- 🚨 2025-06-17 [University Grants Commission- The Universities Act, No. 16 of 1978 Amendment to the Institute of Biochemistry, molecullar Biology and Biotechnology Ordinance](data/extra-gazettes/2025/2441-06) [2441/06]
+- 🚨 2025-06-17 [Department of Local Government - Western Province - Appointed Mayor and Deputy Mayor to the Colombo Municipal Council](data/extra-gazettes/2025/2441-05) [2441/05]
+- ✍️ 2025-06-06 [National Photographic Art Society of Sri Lanka (Incorporation) - GS](data/bills/2025/610-2025) [610/2025]
+- ✍️ 2025-06-06 [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/609-2025) [609/2025]
+- ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
+- ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
+- ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
+- ✍️ 2025-06-04 [Bills of Exchange (Amendment) - GS](data/bills/2025/601-2025) [601/2025]
+- ✍️ 2025-06-04 [Samurdhi (Amendment) - GS](data/bills/2025/600-2025) [600/2025]
+- ✍️ 2025-06-03 [National Minimum Wage of Workers (Amendment) - Bill](data/bills/2025/604-2025) [604/2025]
+- ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/603-2025) [603/2025]
+- ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/602-2025) [602/2025]
+- ✍️ 2025-06-02 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/598-2025) [598/2025]
+
+#### 2025-05
+
+- ✍️ 2025-05-29 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/bills/2025/597-2025) [597/2025]
+- ✍️ 2025-05-28 [Rubber Control (Amendment) - GS](data/bills/2025/595-2025) [595/2025]
+- ✍️ 2025-05-27 [Gambling Regulatory Authority - GS](data/bills/2025/594-2025) [594/2025]
+- ✍️ 2025-05-23 [Sri Lanka Electricity (Amendment) - Bill](data/bills/2025/599-2025) [599/2025]
+- 🏛️ 2025-05-23 [Foreign Loans (Repeal)](data/acts/2025/06-2025) [06/2025]
+- ✍️ 2025-05-22 [Provincial Councils Elections (Amendment) - GS](data/bills/2025/589-2025) [589/2025]
+- ✍️ 2025-05-20 [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/588-2025) [588/2025]
+- ✍️ 2025-05-20 [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/587-2025) [587/2025]
+- ✍️ 2025-05-20 [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/586-2025) [586/2025]
+- ✍️ 2025-05-16 [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/584-2025) [584/2025]
+- ✍️ 2025-05-08 [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill](data/bills/2025/596-2025) [596/2025]
+- ✍️ 2025-05-08 [National Transport Commission (Amendment) - Bill](data/bills/2025/592-2025) [592/2025]
+- ✍️ 2025-05-08 [Personal Data Protection (Amendment) - Bill](data/bills/2025/591-2025) [591/2025]
+- ✍️ 2025-05-08 [Online Safety (Repeal) - Bill](data/bills/2025/590-2025) [590/2025]
+- ✍️ 2025-05-08 [Foreign Loans (Repeal) - Bill](data/bills/2025/585-2025) [585/2025]
+
+#### 2025-04
+
+- ✍️ 2025-04-30 [Tredzo Development Foundation (Incorporation) - GS](data/bills/2025/583-2025) [583/2025]
+- 🏛️ 2025-04-30 [Proceeds of Crime](data/acts/2025/05-2025) [05/2025]
+- ✍️ 2025-04-24 [Companies (Amendment) - GS](data/bills/2025/582-2025) [582/2025]
+- ✍️ 2025-04-11 [Foreign Loans (Repeal) - GS](data/bills/2025/580-2025) [580/2025]
+- 🏛️ 2025-04-11 [Value Added Tax (Amendment)](data/acts/2025/04-2025) [04/2025]
+- ✍️ 2025-04-10 [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS](data/bills/2025/581-2025) [581/2025]
+- ✍️ 2025-04-08 [Code of Criminal Procedure (Amendment) - Bill](data/bills/2025/579-2025) [579/2025]
+- ✍️ 2025-04-08 [Online Safety (Repeal) - GS](data/bills/2025/578-2025) [578/2025]
+- ✍️ 2025-04-07 [National Transport Commission (Amendment) - GS](data/bills/2025/577-2025) [577/2025]
+
+#### 2025-03
+
+- ✍️ 2025-03-28 [Code of Criminal Procedure (Amendment) - GS](data/bills/2025/576-2025) [576/2025]
+- ✍️ 2025-03-27 [Personal Data Protection (Amendment) - GS](data/bills/2025/575-2025) [575/2025]
+- 🏛️ 2025-03-21 [Appropriation](data/acts/2025/03-2025) [03/2025]
+- 🏛️ 2025-03-20 [Inland Revenue (Amendment)](data/acts/2025/02-2025) [02/2025]
+- ✍️ 2025-03-04 [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2025/571-2025) [571/2025]
+- ✍️ 2025-03-01 [Inland Revenue (Amendment) - Bill](data/bills/2025/574-2025) [574/2025]
+- ✍️ 2025-03-01 [Value Added Tax (Amendment) - Bill](data/bills/2025/573-2025) [573/2025]
+- ✍️ 2025-03-01 [Proceeds of Crime - Bill](data/bills/2025/572-2025) [572/2025]
+
+#### 2025-02
+
+- ✍️ 2025-02-21 [Proceeds of Crime - GS](data/bills/2025/570-2025) [570/2025]
+- ✍️ 2025-02-21 [Inland Revenue (Amendment) - GS](data/bills/2025/569-2025) [569/2025]
+- ✍️ 2025-02-21 [Value Added Tax (Amendment) - GS](data/bills/2025/560-2025) [560/2025]
+- 🏛️ 2025-02-17 [Local Authorities Elections (Special Provisions)](data/acts/2025/01-2025) [01/2025]
+
+#### 2025-01
+
+- ✍️ 2025-01-09 [Appropriation - Bill](data/bills/2025/568-2025) [568/2025]
+- ✍️ 2025-01-09 [Local Authorities Elections (Special Provisions) - Bill](data/bills/2025/566-2025) [566/2025]
+- ✍️ 2025-01-01 [Local Authorities Elections (Special Provisions) - GS](data/bills/2025/565-2025) [565/2025]
+
+### 2024
+
+#### 2024-12
+
+- ✍️ 2024-12-31 [Appropriation - GS](data/bills/2024/567-2025) [567/2025]
+
+#### 2024-09
+
+- ✍️ 2024-09-03 [National Land Commission - Bill](data/bills/2024/560-2024) [560/2024]
+- ✍️ 2024-09-03 [National Building Research Institute - GS](data/bills/2024/551-2024) [551/2024]
+
+#### 2024-06
+
+- 🏛️ 2024-06-18 [Public Debt Management](data/acts/2024/33-2024) [33/2024]
+- 🏛️ 2024-06-18 [International Institute of Theravadha (Incorporation)](data/acts/2024/32-2024) [32/2024]
+- 🏛️ 2024-06-12 [Kelaniya Buddhist Women's Charitable Society (Incorporation)](data/acts/2024/30-2024) [30/2024]
+- 🏛️ 2024-06-12 [Saweera Foundation (Incorporation)](data/acts/2024/29-2024) [29/2024]
+
+#### 2024-05
+
+- 🏛️ 2024-05-13 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2024/28-2024) [28/2024]
+- 🏛️ 2024-05-13 [Partition (Amendment)](data/acts/2024/27-2024) [27/2024]
+- 🏛️ 2024-05-08 [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/26-2024) [26/2024]
+- 🏛️ 2024-05-03 [Code of Criminal Procedure (Amendment)](data/acts/2024/25-2024) [25/2024]
+
+#### 2024-04
+
+- 🏛️ 2024-04-26 [Banking (Amendment)](data/acts/2024/24-2024) [24/2024]
+- 🏛️ 2024-04-01 [Companies (Amendment)](data/acts/2024/23-2024) [23/2024]
+- 🏛️ 2024-04-01 [Inland Trust Receipts (Amendment)](data/acts/2024/22-2024) [22/2024]
+- 🏛️ 2024-04-01 [Finance Leasing (Amendment)](data/acts/2024/21-2024) [21/2024]
+- 🏛️ 2024-04-01 [Mortgage (Amendment)](data/acts/2024/20-2024) [20/2024]
+- 🏛️ 2024-04-01 [Trust Receipts (Amendment)](data/acts/2024/19-2024) [19/2024]
+- 🏛️ 2024-04-01 [Registration of Documents (Amendment)](data/acts/2024/18-2024) [18/2024]
+- 🏛️ 2024-04-01 [Secured Transactions](data/acts/2024/17-2024) [17/2024]
+
+#### 2024-03
+
+- 🏛️ 2024-03-20 [Value Added Tax (Amendment)](data/acts/2024/16-2024) [16/2024]
+- 🏛️ 2024-03-20 [Social Security Contribution Levy (Amendment)](data/acts/2024/15-2024) [15/2024]
+
+#### 2024-02
+
+- 🏛️ 2024-02-19 [Dassana Bauddha Sanvidhanaya (Incorporation)](data/acts/2024/14-2024) [14/2024]
+- 🏛️ 2024-02-19 [Samadhi Community Development Foundation (Incorporation)](data/acts/2024/13-2024) [13/2024]
+- 🏛️ 2024-02-19 [Sri Balabhivurdhi Wardana Society (Incorporation)](data/acts/2024/12-2024) [12/2024]
+- 🏛️ 2024-02-19 [Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/acts/2024/11-2024) [11/2024]
+- 🏛️ 2024-02-19 [Heart to Heart Trust Fund (Incorporation)](data/acts/2024/10-2024) [10/2024]
+- 🏛️ 2024-02-01 [Online Safety](data/acts/2024/09-2024) [09/2024]
+- 🏛️ 2024-02-01 [Contempt of a Court,Tribunal or Institution](data/acts/2024/08-2024) [08/2024]
+- 🏛️ 2024-02-01 [National Hydrographic](data/acts/2024/07-2024) [07/2024]
+
+#### 2024-01
+
+- 🏛️ 2024-01-31 [Notaries (Amendment)](data/acts/2024/06-2024) [06/2024]
+- 🏛️ 2024-01-31 [The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/acts/2024/05-2024) [05/2024]
+- 🏛️ 2024-01-23 [Prevention of Frauds (Amendment)](data/acts/2024/04-2024) [04/2024]
+- 🏛️ 2024-01-23 [Powers of Attorney (Amendment)](data/acts/2024/03-2024) [03/2024]
+- 🏛️ 2024-01-23 [Mediation Board (Amendment)](data/acts/2024/02-2024) [02/2024]
+- 🏛️ 2024-01-23 [Office of National Unity and Reconciliation](data/acts/2024/01-2024) [01/2024]
+
+### 2023
+
+#### 2023-12
+
+- 🏛️ 2023-12-13 [Appropriation Act](data/acts/2023/34-2023) [34/2023]
+- 🏛️ 2023-12-13 [Finance](data/acts/2023/33-2023) [33/2023]
+- 🏛️ 2023-12-13 [Value Added Tax (Amendment)](data/acts/2023/32-2023) [32/2023]
+
+#### 2023-11
+
+- 🏛️ 2023-11-24 [Galaha Bhaddrawathie National Bhikku Care Centre Trust](data/acts/2023/31-2023) [31/2023]
+- 🏛️ 2023-11-17 [Local Authorities Elections (Amendment)](data/acts/2023/30-2023) [30/2023]
+- 🏛️ 2023-11-17 [Civil Procedure Code (Amendment)](data/acts/2023/29-2023) [29/2023]
+- 🏛️ 2023-11-17 [Anti - Corruption (Amendment)](data/acts/2023/28-2023) [28/2023]
+- 🏛️ 2023-11-17 [Fisheries and Aquatic Resources (Amendment)](data/acts/2023/27-2023) [27/2023]
+- 🏛️ 2023-11-01 [Conferring the Honour of Senior Instructing Attorneys-at-Law](data/acts/2023/26-2023) [26/2023]
+- 🏛️ 2023-11-01 [Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation)](data/acts/2023/25-2023) [25/2023]
+
+#### 2023-10
+
+- 🏛️ 2023-10-17 [Civil Aviation (Amendment)](data/acts/2023/24-2023) [24/2023]
+- 🏛️ 2023-10-17 [Sri Lanka Ports Authority (Amendment)](data/acts/2023/23-2023) [23/2023]
+- 🏛️ 2023-10-17 [National Eye Bank Trust of Sri Lanka](data/acts/2023/22-2023) [22/2023]
+- 🏛️ 2023-10-17 [Elections (Special Provisions)](data/acts/2023/21-2023) [21/2023]
+- 🏛️ 2023-10-17 [Civil Procedure Code (Amendment)](data/acts/2023/20-2023) [20/2023]
