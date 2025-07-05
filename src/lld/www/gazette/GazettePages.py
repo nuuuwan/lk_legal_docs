@@ -67,7 +67,7 @@ class GazettePages(AbstractPipelineRunner):
                 log.warning(f"Unknown language code in URL: {href}")
 
         if not (source_url_en or source_url_si or source_url_ta):
-            log.warning(f"No source URLs found for {doc_num} ({description})")
+            log.warning(f"No source URLs found for {doc_num}.")
             return None
 
         return Gazette(
