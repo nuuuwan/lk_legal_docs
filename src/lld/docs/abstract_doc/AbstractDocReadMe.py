@@ -9,17 +9,28 @@ class AbstractDocReadMe:
 
     @property
     def readme_lines(self):
-        return [
-            f"# [{self.doc_num}] {self.description}",
-            "",
-            f"**Date:** {self.date}",
-            "",
-            "## Original Sources",
-            "",
-            f"- [English]({self.source_url_en})",
-            f"- [Sinhala]({self.source_url_si})",
-            f"- [Tamil]({self.source_url_ta})",
-        ]
+
+        source_lines = []
+        for lang_str, source_url in [
+            ("English", self.source_url_en),
+            ("Sinhala", self.source_url_si),
+            ("Tamil", self.source_url_ta),
+        ]:
+            if source_url:
+                source_lines.append(f"- [{lang_str}]({source_url})")
+
+        return (
+            [
+                f"# [{self.doc_num}] {self.description}",
+                "",
+                f"**Date:** {self.date}",
+                "",
+                "## Original Sources",
+                "",
+            ]
+            + source_lines
+            + [""]
+        )
 
     def write_readme(self, force=False):
         readme_path = os.path.join(self.dir_data, "README.md")
