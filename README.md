@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 07:32:50*.
+*Last updated 2025-07-05 08:02:28*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (52)
+## Acts (62)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -56,10 +56,20 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [27/2023] [Fisheries and Aquatic Resources (Amendment)](data/acts/2023/2023-27)
 - [26/2023] [Conferring the Honour of Senior Instructing Attorneys-at-Law](data/acts/2023/2023-26)
 - [25/2023] [Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation)](data/acts/2023/2023-25)
+- [24/2023] [Civil Aviation (Amendment)](data/acts/2023/2023-24)
+- [23/2023] [Sri Lanka Ports Authority (Amendment)](data/acts/2023/2023-23)
+- [22/2023] [National Eye Bank Trust of Sri Lanka](data/acts/2023/2023-22)
 - [21/2023] [Elections (Special Provisions)](data/acts/2023/2023-21)
 - [20/2023] [Civil Procedure Code (Amendment)](data/acts/2023/2023-20)
+- [19/2023] [Ayurveda (Amendment)](data/acts/2023/2023-19)
+- [18/2023] [Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment)](data/acts/2023/2023-18)
+- [17/2023] [Banking (Special Provisions)](data/acts/2023/2023-17)
+- [16/2023] [Central Bank of Sri Lanka](data/acts/2023/2023-16)
+- [15/2023] [Social Security Contribution Levy (Amendment)](data/acts/2023/2023-15)
+- [14/2023] [Inland Revenue (Amendment)](data/acts/2023/2023-14)
+- [11/2023] [Betting and Gaming Levy (Amendment)](data/acts/2023/2023-11)
 
-## Bills (47)
+## Bills (57)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -107,4 +117,14 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [573/2025] [Value Added Tax (Amendment) - Bill](data/bills/2025/2025-573)
 - [572/2025] [Proceeds of Crime - Bill](data/bills/2025/2025-572)
 - [571/2025] [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2025/2025-571)
+- [570/2025] [Proceeds of Crime - GS](data/bills/2025/2025-570)
+- [569/2025] [Inland Revenue (Amendment) - GS](data/bills/2025/2025-569)
+- [568/2025] [Appropriation - Bill](data/bills/2025/2025-568)
+- [567/2025] [Appropriation - GS](data/bills/2025/2025-567)
+- [566/2025] [Local Authorities Elections (Special Provisions) - Bill](data/bills/2025/2025-566)
+- [565/2025] [Local Authorities Elections (Special Provisions) - GS](data/bills/2025/2025-565)
 - [560/2025] [Value Added Tax (Amendment) - GS](data/bills/2025/2025-560)
+- [564/2024] [Commission for Truth, Unity, and Reconciliation in Sri Lanka -  Bill](data/bills/2024/2024-564)
+- [563/2024] [Companies (Amendment) - Bill](data/bills/2024/2024-563)
+- [560/2024] [National Land Commission - Bill](data/bills/2024/2024-560)
+- [551/2024] [National Building Research Institute - GS](data/bills/2024/2024-551)
