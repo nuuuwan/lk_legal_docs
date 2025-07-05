@@ -11,10 +11,10 @@ class DocFactory:
     @staticmethod
     def list_all_cls():
         return [
+            Gazette,
+            ExtraGazette,
             Act,
             Bill,
-            ExtraGazette,
-            Gazette,
         ]
 
     @staticmethod
