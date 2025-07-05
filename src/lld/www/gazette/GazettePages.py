@@ -66,6 +66,10 @@ class GazettePages(AbstractPipelineRunner):
             else:
                 log.warning(f"Unknown language code in URL: {href}")
 
+        if not (source_url_en or source_url_si or source_url_ta):
+            log.warning(f"No source URL found for {doc_num} ({description})")
+            return None
+
         return Gazette(
             doc_num=doc_num,
             date=date,
@@ -86,4 +90,6 @@ class GazettePages(AbstractPipelineRunner):
                 for li_sub_part in ul_sub_parts.find_all(
                     "li", class_="list-group-item"
                 ):
-                    yield GazettePages.__process_li__(li_sub_part, date)
+                    doc = GazettePages.__process_li__(li_sub_part, date)
+                    if doc:
+                        yield doc
