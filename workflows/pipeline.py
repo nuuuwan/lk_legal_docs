@@ -2,18 +2,14 @@ import sys
 
 from utils import Log
 
-from lld import Act, Bill, ByYearPage, ExtraGazette, ReadMe
+from lld import ByYearPage, DocFactory, ReadMe
 
 log = Log("pipeline")
 
 
 def main(max_n_hot):
 
-    for doc_cls in [
-        Act,
-        Bill,
-        ExtraGazette,
-    ]:
+    for doc_cls in DocFactory.list_all():
         ByYearPage(doc_cls).run_pipeline(max_n_hot)
 
     ReadMe().build()

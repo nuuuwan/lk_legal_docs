@@ -3,6 +3,6 @@
 
 from lld.docs import (AbstractDoc, AbstractDocBase, AbstractDocDownloader,
                       AbstractDocReadMe, AbstractDocSerializer, Act, Bill,
-                      ExtraGazette)
+                      DocFactory, ExtraGazette)
 from lld.reports import ReadMe
 from lld.www import ByYearPage, ForYearPage, WebPage
