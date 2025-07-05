@@ -1,5 +1,5 @@
 from lld.www.common import ForYearPage
-from lld.www.extra_gazettes.BillMetadata import BillMetadata
+from lld.www.extra_gazettes.ExtraGazetteMetadata import ExtraGazetteMetadata
 
 
 class ExtraGazettesForYearPage(ForYearPage):
@@ -9,4 +9,4 @@ class ExtraGazettesForYearPage(ForYearPage):
 
     @classmethod
     def get_doc_metadata_cls(cls):
-        return BillMetadata
+        return ExtraGazetteMetadata
