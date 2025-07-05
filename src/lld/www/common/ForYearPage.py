@@ -52,8 +52,7 @@ class ForYearPage(WebPage):
             source_url_ta=source_url_ta,
         )
 
-    def get_doc_list(self):
-        doc_list = []
+    def gen_docs(self):
         table = self.soup.find(
             "table", class_="table table-bordered table-striped table-hover"
         )
@@ -61,7 +60,6 @@ class ForYearPage(WebPage):
 
         for tr in tbody.find_all("tr"):
             doc = self.__parse_tr__(tr)
-            if doc:
-                doc_list.append(doc)
-
-        return doc_list
+            if not doc:
+                continue
+            yield doc

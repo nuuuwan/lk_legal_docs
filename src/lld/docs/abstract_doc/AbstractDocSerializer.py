@@ -46,7 +46,9 @@ class AbstractDocSerializer:
         doc_doc_list.sort(key=lambda x: x.id, reverse=True)
         return doc_doc_list
 
-    def write(self):
+    def write(self, force=False):
         file_path = os.path.join(self.dir_data, "metadata.json")
+        if not force and os.path.exists(file_path):
+            return
         JSONFile(file_path).write(self.__dict__)
         log.debug(f"Wrote {file_path}")

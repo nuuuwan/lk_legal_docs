@@ -21,7 +21,9 @@ class AbstractDocReadMe:
             f"- [Tamil]({self.source_url_ta})",
         ]
 
-    def write_readme(self):
+    def write_readme(self, force=False):
         readme_path = os.path.join(self.dir_data, "README.md")
+        if not force and os.path.exists(readme_path):
+            return
         File(readme_path).write_lines(self.readme_lines)
         log.debug(f"Wrote {readme_path}")

@@ -11,8 +11,8 @@ class DocFactory:
     @staticmethod
     def list_all_cls():
         return [
-            Act,
-            Bill,
+            # Act,
+            # Bill,
             ExtraGazette,
         ]
 
