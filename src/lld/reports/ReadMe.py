@@ -14,7 +14,9 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
 
     @staticmethod
     def get_doc_md_lines(doc):
@@ -75,7 +77,7 @@ class ReadMe:
                 + f" as of **{self.time_str}**.",
                 "",
                 "A collection of"
-                + " Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped"
+                + " Gazettes, Extra Gazettes, Acts, Bills and more, scraped"
                 + " from [documents.gov.lk](https://documents.gov.lk).",
                 "",
                 "🆓 **Public** data, fully open-source – fork freely!",

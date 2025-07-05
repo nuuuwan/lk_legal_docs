@@ -2,7 +2,7 @@
 # flake8: noqa: F408
 
 from lld.docs.abstract_doc import (AbstractDoc, AbstractDocBase,
-                                   AbstractDocDownloader, AbstractDocReadMe,
-                                   AbstractDocSerializer)
+                                   AbstractDocDownloader, AbstractDocExtract,
+                                   AbstractDocReadMe, AbstractDocSerializer)
 from lld.docs.custom_docs import Act, Bill, ExtraGazette
 from lld.docs.DocFactory import DocFactory
