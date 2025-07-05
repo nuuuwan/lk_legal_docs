@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**721** documents (**521MB**) as of **2025-07-05 22:12:59**.
+**761** documents (**574MB**) as of **2025-07-05 22:32:36**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -411,6 +411,16 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Kalutara District](data/extra-gazettes/2025/2438-68) [2438/68]
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Gampaha District](data/extra-gazettes/2025/2438-67) [2438/67]
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Colombo District](data/extra-gazettes/2025/2438-66) [2438/66]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Mallawapitiya, Mallawapitiya D/S Division, Kurunegala District- (25/55031)](data/extra-gazettes/2025/2438-58) [2438/58]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Pilikuththuwa, Mahara D/S Division, Gampaha District](data/extra-gazettes/2025/2438-57) [2438/57]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Akarella, Opanayake D/S Division, Ratnapura District - (25/0111)](data/extra-gazettes/2025/2438-56) [2438/56]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District - (25/0077)](data/extra-gazettes/2025/2438-55) [2438/55]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Uggalbada (Block 03), Minuwangoda D/S Division, Gampaha District - (25/1200038)](data/extra-gazettes/2025/2438-54) [2438/54]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Thimbirigama, Dompe D/S Division, Gampaha District - (24/1183)](data/extra-gazettes/2025/2438-53) [2438/53]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Kiribamunegama, Polpithigama D/S Division, Kurunegala District - (25/0012)](data/extra-gazettes/2025/2438-52) [2438/52]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Walana, Panadura D/S Division, Kaluthara District - (24/0068)](data/extra-gazettes/2025/2438-51) [2438/51]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Dikdeniya, Kobeygane D/S Division, Kurunegala District - (2414400013)](data/extra-gazettes/2025/2438-50) [2438/50]
+- 🚨 2025-05-30 [Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District - (12/1201)](data/extra-gazettes/2025/2438-49) [2438/49]
 - 🚨 2025-05-30 [Ministry of Defence - Freezing Order Made under Regulation 5 of the United Nations Regulation No. 01 of 2012](data/extra-gazettes/2025/2438-48) [2438/48]
 - 🚨 2025-05-30 [Ministry of Defence - United Nations Security Council Resolution (UN SCR) 1373 - Regulation No. 01 of 2012](data/extra-gazettes/2025/2438-47) [2438/47]
 - 📢 2025-05-30 [List of Jurors](data/gazettes/2025/2025-05-30-list-of-jurors) [2025-05-30-list-of-jurors]
@@ -477,10 +487,20 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 📢 2025-04-25 [(IIA) - Advertising](data/gazettes/2025/2025-04-25-iia-advertising) [2025-04-25-iia-advertising]
 - 📢 2025-04-25 [(I) - General](data/gazettes/2025/2025-04-25-i-general) [2025-04-25-i-general]
 - ✍️ 2025-04-24 [Companies (Amendment) - GS](data/bills/2025/582-2025) [582/2025]
+- 📢 2025-04-18 [Legal Section](data/gazettes/2025/2025-04-18-legal-section) [2025-04-18-legal-section]
+- 📢 2025-04-18 [Land Section](data/gazettes/2025/2025-04-18-land-section) [2025-04-18-land-section]
+- 📢 2025-04-18 [IV (B) - Local Government](data/gazettes/2025/2025-04-18-iv-b-local-government) [2025-04-18-iv-b-local-government]
+- 📢 2025-04-18 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-04-18-iii-trade-marks-and-patent-notices) [2025-04-18-iii-trade-marks-and-patent-notices]
 - 📢 2025-04-18 [(IIB) - Advertising](data/gazettes/2025/2025-04-18-iib-advertising) [2025-04-18-iib-advertising]
 - 📢 2025-04-18 [(IIA) - Advertising](data/gazettes/2025/2025-04-18-iia-advertising) [2025-04-18-iia-advertising]
 - 📢 2025-04-18 [(I) - General](data/gazettes/2025/2025-04-18-i-general) [2025-04-18-i-general]
 - ✍️ 2025-04-11 [Foreign Loans (Repeal) - GS](data/bills/2025/580-2025) [580/2025]
+- 📢 2025-04-11 [Legal Section](data/gazettes/2025/2025-04-11-legal-section) [2025-04-11-legal-section]
+- 📢 2025-04-11 [Land Section](data/gazettes/2025/2025-04-11-land-section) [2025-04-11-land-section]
+- 📢 2025-04-11 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-04-11-iii-trade-marks-and-patent-notices) [2025-04-11-iii-trade-marks-and-patent-notices]
+- 📢 2025-04-11 [(IIB) - Advertising](data/gazettes/2025/2025-04-11-iib-advertising) [2025-04-11-iib-advertising]
+- 📢 2025-04-11 [(IIA) - Advertising](data/gazettes/2025/2025-04-11-iia-advertising) [2025-04-11-iia-advertising]
+- 📢 2025-04-11 [(I) - General](data/gazettes/2025/2025-04-11-i-general) [2025-04-11-i-general]
 - 🏛️ 2025-04-11 [Value Added Tax (Amendment)](data/acts/2025/04-2025) [04/2025]
 - ✍️ 2025-04-10 [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS](data/bills/2025/581-2025) [581/2025]
 - ✍️ 2025-04-08 [Code of Criminal Procedure (Amendment) - Bill](data/bills/2025/579-2025) [579/2025]
@@ -662,12 +682,18 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-02-21 [Banking (Amendment) - Bill](data/bills/2024/461-2024) [461/2024]
 - ✍️ 2024-02-21 [Twenty Second Amendment to the Constitution - Bill](data/bills/2024/460-2024) [460/2024]
 - ✍️ 2024-02-21 [Buddha Shrawaka Caring Centre (Incorporation) - GS](data/bills/2024/459-2024) [459/2024]
+- ✍️ 2024-02-20 [Sri Lanka National Commission for UNESCO - Bill](data/bills/2024/462-2024) [462/2024]
 - ✍️ 2024-02-20 [Institute of Facilities Management Sri Lanka (Incorporation) - GS](data/bills/2024/458-2024) [458/2024]
 - 🏛️ 2024-02-19 [Dassana Bauddha Sanvidhanaya (Incorporation)](data/acts/2024/14-2024) [14/2024]
 - 🏛️ 2024-02-19 [Samadhi Community Development Foundation (Incorporation)](data/acts/2024/13-2024) [13/2024]
 - 🏛️ 2024-02-19 [Sri Balabhivurdhi Wardana Society (Incorporation)](data/acts/2024/12-2024) [12/2024]
 - 🏛️ 2024-02-19 [Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/acts/2024/11-2024) [11/2024]
 - 🏛️ 2024-02-19 [Heart to Heart Trust Fund (Incorporation)](data/acts/2024/10-2024) [10/2024]
+- ✍️ 2024-02-13 [Twenty Second Amendment to the Constitution - GS](data/bills/2024/456-2024) [456/2024]
+- ✍️ 2024-02-13 [Code of Criminal Procedure (Amendment) - GS](data/bills/2024/455-2024) [455/2024]
+- ✍️ 2024-02-13 [Penal Code (Amendment) - GS](data/bills/2024/454-2024) [454/2024]
+- ✍️ 2024-02-09 [Mohan Ellawala Social Development Foundation (Incorporation) - Bill](data/bills/2024/457-2024) [457/2024]
+- ✍️ 2024-02-06 [Banking (Amendment) - GS](data/bills/2024/452-2024) [452/2024]
 - 🏛️ 2024-02-01 [Online Safety](data/acts/2024/09-2024) [09/2024]
 - 🏛️ 2024-02-01 [Contempt of a Court,Tribunal or Institution](data/acts/2024/08-2024) [08/2024]
 - 🏛️ 2024-02-01 [National Hydrographic](data/acts/2024/07-2024) [07/2024]
@@ -676,10 +702,14 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - 🏛️ 2024-01-31 [Notaries (Amendment)](data/acts/2024/06-2024) [06/2024]
 - 🏛️ 2024-01-31 [The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/acts/2024/05-2024) [05/2024]
+- ✍️ 2024-01-24 [Partition (Amendment) - Bill](data/bills/2024/451-2024) [451/2024]
 - 🏛️ 2024-01-23 [Prevention of Frauds (Amendment)](data/acts/2024/04-2024) [04/2024]
 - 🏛️ 2024-01-23 [Powers of Attorney (Amendment)](data/acts/2024/03-2024) [03/2024]
 - 🏛️ 2024-01-23 [Mediation Board (Amendment)](data/acts/2024/02-2024) [02/2024]
 - 🏛️ 2024-01-23 [Office of National Unity and Reconciliation](data/acts/2024/01-2024) [01/2024]
+- ✍️ 2024-01-17 [Sri Lanka National Commission for UNESCO - GS](data/bills/2024/438-2024) [438/2024]
+- ✍️ 2024-01-11 [Value Added Tax (Amendment) - Bill](data/bills/2024/445-2024) [445/2024]
+- ✍️ 2024-01-10 [Anti Terrorism - Bill](data/bills/2024/444-2024) [444/2024]
 
 ### 2023
 
@@ -899,3 +929,24 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 #### 2020-02
 
 - 🏛️ 2020-02-26 [Institute of Environmental Professionals, Sri Lanka (Incorporation)](data/acts/2020/01-2020) [01/2020]
+
+### 2019
+
+#### 2019-11
+
+- 🏛️ 2019-11-18 [Prevention of  Offence Relating to Sports](data/acts/2019/24-2019) [24/2019]
+- 🏛️ 2019-11-18 [Chamber of Construction Industry of Sri Lanka (Incorporation)](data/acts/2019/23-2019) [23/2019]
+- 🏛️ 2019-11-15 [National Innovation Agency](data/acts/2019/22-2019) [22/2019]
+
+#### 2019-10
+
+- 🏛️ 2019-10-31 [Finance](data/acts/2019/21-2019) [21/2019]
+- 🏛️ 2019-10-31 [Value Added Tax (Amendment)](data/acts/2019/19-2019) [19/2019]
+- 🏛️ 2019-10-31 [Excise (Amendment)](data/acts/2019/18-2019) [18/2019]
+- 🏛️ 2019-10-20 [Nation Building Tax (Amendment)](data/acts/2019/20-2019) [20/2019]
+- 🏛️ 2019-10-02 [Merchant Shipping (Amendment)](data/acts/2019/17-2019) [17/2019]
+
+#### 2019-09
+
+- 🏛️ 2019-09-30 [People's Bank (Amendment)](data/acts/2019/16-2019) [16/2019]
+- 🏛️ 2019-09-30 [Shrama Vasana Fund (Amendment)](data/acts/2019/15-2019) [15/2019]
