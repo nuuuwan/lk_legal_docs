@@ -2,7 +2,7 @@ import os
 
 from utils import Log
 
-from lld.docs.custom_docs import Act, Bill, ExtraGazette
+from lld.docs.custom_docs import Act, Bill, ExtraGazette, Gazette
 
 log = Log("DocFactory")
 
@@ -14,6 +14,7 @@ class DocFactory:
             Act,
             Bill,
             ExtraGazette,
+            Gazette,
         ]
 
     @staticmethod

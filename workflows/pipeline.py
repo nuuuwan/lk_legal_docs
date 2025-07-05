@@ -2,7 +2,7 @@ import sys
 
 from utils import Log
 
-from lld import ByYearPage, DocFactory, GazettePages, ReadMe
+from lld import ByYearPage, DocFactory, ReadMe
 
 log = Log("pipeline")
 
@@ -12,7 +12,6 @@ def main(max_n_hot):
     if max_n_hot > 0:
         for doc_cls in DocFactory.list_all_cls():
             ByYearPage(doc_cls).run_pipeline(max_n_hot)
-        GazettePages().run_pipeline(max_n_hot)
     ReadMe().build()
 
 
