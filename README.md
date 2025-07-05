@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 06:43:36*.
+*Last updated 2025-07-05 06:54:54*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (33)
+## Acts (37)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -37,10 +37,14 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [12/2024] [Sri Balabhivurdhi Wardana Society (Incorporation)](data/acts/2024/2024-12)
 - [11/2024] [Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/acts/2024/2024-11)
 - [10/2024] [Heart to Heart Trust Fund (Incorporation)](data/acts/2024/2024-10)
+- [09/2024] [Online Safety](data/acts/2024/2024-09)
 - [08/2024] [Contempt of a Court,Tribunal or Institution](data/acts/2024/2024-08)
 - [07/2024] [National Hydrographic](data/acts/2024/2024-07)
+- [06/2024] [Notaries (Amendment)](data/acts/2024/2024-06)
+- [05/2024] [The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/acts/2024/2024-05)
+- [01/2024] [Office of National Unity and Reconciliation](data/acts/2024/2024-01)
 
-## Bills (30)
+## Bills (33)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -63,8 +67,11 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [599/2025] [Sri Lanka Electricity (Amendment) - Bill](data/bills/2025/2025-599)
 - [598/2025] [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/2025-598)
 - [597/2025] [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/bills/2025/2025-597)
+- [596/2025] [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill](data/bills/2025/2025-596)
 - [595/2025] [Rubber Control (Amendment) - GS](data/bills/2025/2025-595)
 - [594/2025] [Gambling Regulatory Authority - GS](data/bills/2025/2025-594)
+- [592/2025] [National Transport Commission (Amendment) - Bill](data/bills/2025/2025-592)
+- [591/2025] [Personal Data Protection (Amendment) - Bill](data/bills/2025/2025-591)
 - [590/2025] [Online Safety (Repeal) - Bill](data/bills/2025/2025-590)
 - [589/2025] [Provincial Councils Elections (Amendment) - GS](data/bills/2025/2025-589)
 - [588/2025] [Budgetary Relief Allowance of Workers (Amendment) - GS](data/bills/2025/2025-588)

@@ -41,21 +41,15 @@ class ByYearPage(WebPage):
         return for_year_page_list
 
     @staticmethod
-    def __process_metadata__(n_hot, max_n_hot, metadata):
+    def __process_metadata__(metadata):
 
         try:
             is_hot = metadata.download_all()
-            logger = log.info if is_hot else log.debug
-            emoji = "🟢" if is_hot else "⚪️"
-            logger(f"{emoji} {n_hot}/{max_n_hot}) {metadata.doc_num}")
             metadata.write()
+            return is_hot
         except Exception as e:
             log.error(f"❌ Error downloading {metadata.doc_num}: {e}")
-
-        if is_hot:
-            n_hot += 1
-
-        return n_hot
+            return False
 
     def run_pipeline(self, max_n_hot):
         for_year_page_list = self.get_for_year_page_list()
@@ -67,4 +61,7 @@ class ByYearPage(WebPage):
                     log.info(f"🛑 Downloaded {n_hot} new acts.")
                     return
 
-                n_hot = self.__process_metadata__(n_hot, max_n_hot, metadata)
+                is_hot = self.__process_metadata__(metadata)
+                if is_hot:
+                    n_hot += 1
+                    log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}")
