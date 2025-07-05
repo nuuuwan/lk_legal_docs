@@ -67,5 +67,7 @@ class ByYearPage(WebPage):
                 is_hot = self.__process_metadata__(metadata)
                 if is_hot:
                     n_hot += 1
-                    log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}")
+                    log.info(
+                        f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}"
+                    )
         log.info(f"🛑🛑 Downloaded ALL {self.get_doc_type_name()}.")
