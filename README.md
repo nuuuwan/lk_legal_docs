@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**424** documents (**211MB**) as of **2025-07-05 18:43:40**.
+**428** documents (**216MB**) as of **2025-07-05 19:08:36**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -107,6 +107,7 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-06-27 [Land Aquisition - Maharagama, Homagama D/S Division, Colombo District, Land Aquisition - Homagama, Homagama D/S Division, Colombo District, Sec 05](data/extra-gazettes/2025/2442-59) [2442/59]
 - 🚨 2025-06-27 [Land Aquisition - Homagama, Homagama D/S Division, Colombo District, Land Aquisition - Maharagama, Homagama D/S Division, Colombo District, Sec 05](data/extra-gazettes/2025/2442-58) [2442/58]
 - 🚨 2025-06-27 [Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions](data/extra-gazettes/2025/2442-57) [2442/57]
+- 📢 2025-06-27 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-06-27-iii-trade-marks-and-patent-notices) [2025-06-27-iii-trade-marks-and-patent-notices]
 - 📢 2025-06-27 [(IIB) - Advertising](data/gazettes/2025/2025-06-27-iib-advertising) [2025-06-27-iib-advertising]
 - 📢 2025-06-27 [(IIA) - Advertising](data/gazettes/2025/2025-06-27-iia-advertising) [2025-06-27-iia-advertising]
 - 📢 2025-06-27 [(I) - General](data/gazettes/2025/2025-06-27-i-general) [2025-06-27-i-general]
@@ -299,6 +300,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-06 [Election Commission - Declared the Names of Returned Members Elected for each Local Authority Indicated Additional to the Names Published in the Gazette Extraordinary.](data/extra-gazettes/2025/2439-65) [2439/65]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
+- 🚨 2025-06-05 [Land Aquisition - Gangalagamuwa, Kalawana D/S Division, Ratnapura District, Land Aquisition - Pallegama, Laggala D/S Division, Matale District. Sec. 38(a)](data/extra-gazettes/2025/2439-63) [2439/63]
 - 🚨 2025-06-05 [Land Aquisition - Gangodawila, Maharagama D/S Division, Colombo District, Land Aquisition - Correction Paper, Ex. Gazette No. 2420/51 dated 22.01.2025 Sec.39 (a)(1)](data/extra-gazettes/2025/2439-62) [2439/62]
 - 🚨 2025-06-05 [Land Aquisition - Thumbowila, Kesbewa D/S Division, Colombo District, Land Aquisition - Werahera South, Kesbewa D/S Division, Colombo District Sec.39 (a)(1)](data/extra-gazettes/2025/2439-61) [2439/61]
 - 🚨 2025-06-05 [Kuruwita Pradeshiya Sabha- Names of Road Lanes](data/extra-gazettes/2025/2439-60) [2439/60]
@@ -415,6 +417,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-07-30 [Kodhagoda Gunarathana Nahimi Foundation - (Incorporation) - GS](data/bills/2024/536-2024) [536/2024]
 - ✍️ 2024-07-29 [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2024/534-2024) [534/2024]
 - ✍️ 2024-07-26 [Primary CourtÃ¢â¬â¢s Procedure (Amendment) - GS](data/bills/2024/531-2024) [531/2024]
+- ✍️ 2024-07-23 [Safeguard Measures (Amendment) - Bill](data/bills/2024/532-2024) [532/2024]
 - ✍️ 2024-07-23 [Penal Code (Amendment) - Bill](data/bills/2024/530-2024) [530/2024]
 - ✍️ 2024-07-23 [Anti-Dumping and Countervailing Duties (Amendment) - Bill](data/bills/2024/529-2024) [529/2024]
 - ✍️ 2024-07-23 [International Traditional Sihelogy Council (ITSC) (Incorporation) - GS](data/bills/2024/528-2024) [528/2024]
@@ -552,3 +555,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🏛️ 2022-11-17 [High Court of the Provinces (Special Provisions) (Amendment)](data/acts/2022/35-2022) [35/2022]
 - 🏛️ 2022-11-17 [Judicature (Amendment)](data/acts/2022/34-2022) [34/2022]
 - 🏛️ 2022-11-17 [Small claims Courts' Procedure](data/acts/2022/33-2022) [33/2022]
+
+#### 2022-10
+
+- 🏛️ 2022-10-31 [21st Amendment to the Constitution](data/acts/2022/00-2022) [00/2022]
