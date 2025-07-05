@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**471** documents (**247MB**) as of **2025-07-05 19:26:40**.
+**514** documents (**281MB**) as of **2025-07-05 19:52:22**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -210,6 +210,7 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-06-20 [Bibila Pradeshiya Sabha Roads and Narrow Paths - 2nd Gazette](data/extra-gazettes/2025/2441-44) [2441/44]
 - 📢 2025-06-20 [Legal Section](data/gazettes/2025/2025-06-20-legal-section) [2025-06-20-legal-section]
 - 📢 2025-06-20 [Land Section](data/gazettes/2025/2025-06-20-land-section) [2025-06-20-land-section]
+- 📢 2025-06-20 [IV (B) - Local Government](data/gazettes/2025/2025-06-20-iv-b-local-government) [2025-06-20-iv-b-local-government]
 - 📢 2025-06-20 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-06-20-iii-trade-marks-and-patent-notices) [2025-06-20-iii-trade-marks-and-patent-notices]
 - 📢 2025-06-20 [(IIA) - Advertising](data/gazettes/2025/2025-06-20-iia-advertising) [2025-06-20-iia-advertising]
 - 📢 2025-06-20 [(I) - General](data/gazettes/2025/2025-06-20-i-general) [2025-06-20-i-general]
@@ -272,6 +273,13 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-13 [Election Commission - Amendment to the Gazette Extraordinary No. 2438/71 Dated 31.05.2025 (Amending the Names of the Returned Member)](data/extra-gazettes/2025/2440-26) [2440/26]
 - 🚨 2025-06-13 [Election Commission - Notice under Section 66 (2) of L.A.E. Ordinance (Chapter 262) List of Returned Members of L.A Election - 2025](data/extra-gazettes/2025/2440-25) [2440/25]
 - 🚨 2025-06-13 [Department of Animal Production and Health - Amended Extraordinary Gazette No 2422/16 On 04.02.2025 Animal Disease Act No. 59 of 1992](data/extra-gazettes/2025/2440-24) [2440/24]
+- 📢 2025-06-13 [Legal Section](data/gazettes/2025/2025-06-13-legal-section) [2025-06-13-legal-section]
+- 📢 2025-06-13 [Land Section](data/gazettes/2025/2025-06-13-land-section) [2025-06-13-land-section]
+- 📢 2025-06-13 [IV (B) - Local Government](data/gazettes/2025/2025-06-13-iv-b-local-government) [2025-06-13-iv-b-local-government]
+- 📢 2025-06-13 [IV (A) - Provincial Councils](data/gazettes/2025/2025-06-13-iv-a-provincial-councils) [2025-06-13-iv-a-provincial-councils]
+- 📢 2025-06-13 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-06-13-iii-trade-marks-and-patent-notices) [2025-06-13-iii-trade-marks-and-patent-notices]
+- 📢 2025-06-13 [(IIA) - Advertising](data/gazettes/2025/2025-06-13-iia-advertising) [2025-06-13-iia-advertising]
+- 📢 2025-06-13 [(I) - General](data/gazettes/2025/2025-06-13-i-general) [2025-06-13-i-general]
 - 🚨 2025-06-12 [Land Acquisition - Ihalagama, Medagama, Bandiyamulla D/S Division, Gampaha District](data/extra-gazettes/2025/2440-23) [2440/23]
 - 🚨 2025-06-12 [Public Utilities Commission if Sri Lanka - Notice under Section 10 (3) of the Sri Lanka Electricity Act, No. 20 of 2009 (Amended) Issuance of Certificate of Exemption)](data/extra-gazettes/2025/2440-22) [2440/22]
 - 🚨 2025-06-12 [Department of Local Government Sabaragamuwa P/C - Municiple Councils Ordinance Chapter 252 Order Relating to the Payment of Allowances to the Mayor Deputy Mayor and Members](data/extra-gazettes/2025/2440-21) [2440/21]
@@ -308,6 +316,8 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-06 [Public Service Commission of Provincial Council- Minute of the Central Provincial Management Service Officers Service- Amendment No.4](data/extra-gazettes/2025/2439-67) [2439/67]
 - 🚨 2025-06-06 [Land Aquisition - Naththambura, Rabukkana D/S Division, Kegalle District, Land Aquisition - Parape, Rabukkana D/S Division, Kegalle District Sec.39 (a)](data/extra-gazettes/2025/2439-66) [2439/66]
 - 🚨 2025-06-06 [Election Commission - Declared the Names of Returned Members Elected for each Local Authority Indicated Additional to the Names Published in the Gazette Extraordinary.](data/extra-gazettes/2025/2439-65) [2439/65]
+- 📢 2025-06-06 [(IIA) - Advertising](data/gazettes/2025/2025-06-06-iia-advertising) [2025-06-06-iia-advertising]
+- 📢 2025-06-06 [(I) - General](data/gazettes/2025/2025-06-06-i-general) [2025-06-06-i-general]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
 - 🚨 2025-06-05 [Land Aquisition - Lulbadduwa, Walallawita D/S Division, Kalutara District,  Sec. 38(a)](data/extra-gazettes/2025/2439-64) [2439/64]
@@ -324,6 +334,14 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-05 [Land Aquisition - Kaluganga, Laggala Pallegama D/S Division, Matale District - Sec 39 (a) (1)](data/extra-gazettes/2025/2439-53) [2439/53]
 - ✍️ 2025-06-04 [Bills of Exchange (Amendment) - GS](data/bills/2025/601-2025) [601/2025]
 - ✍️ 2025-06-04 [Samurdhi (Amendment) - GS](data/bills/2025/600-2025) [600/2025]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Maha Ulpatha, Dimbulagala D/S/ Division, Polonnaruwa District (25/0168)](data/extra-gazettes/2025/2439-52) [2439/52]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Balalla, Mahawa D/S/ Division, Kurunegala District (25/0171)](data/extra-gazettes/2025/2439-51) [2439/51]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Suwarapola, Kesbewa D/S/ Division, Colombo District (24/1182)](data/extra-gazettes/2025/2439-50) [2439/50]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Thudella, Ja-ela D/S/ Division, Gampaha District (25/0006)](data/extra-gazettes/2025/2439-49) [2439/49]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Naiwala, Minuwangoda D/S/ Division, Gampaha District (25/0019)](data/extra-gazettes/2025/2439-48) [2439/48]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Puttalam, Puttalam D/S/ Division, Puttalam District (25/0024)](data/extra-gazettes/2025/2439-47) [2439/47]
+- 🚨 2025-06-04 [Dept of Local Government Sabaragamuwa Province - Notice Under Section 66 (c) First meeting of 17 Local Government Institutions - 2025](data/extra-gazettes/2025/2439-46) [2439/46]
+- 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Koholankala, Hambantota D/S/ Division, Hambantota District (25/0045)](data/extra-gazettes/2025/2439-45) [2439/45]
 - 🚨 2025-06-04 [Dept of Local Government Southern Province Notification Made Under Section 66 (c) First meeting of 15 Local Government Institutions - 2025](data/extra-gazettes/2025/2439-44) [2439/44]
 - 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Mahindagama (Block 12), Welikanda D/S/ Division, Polonnaruwa District (25/1200053)](data/extra-gazettes/2025/2439-43) [2439/43]
 - 🚨 2025-06-04 [Land Title Settlement Department Ã¢â¬â Kammalpitiya (Block 02), Meerigama D/S/ Division, Gampaha District (25/1200054)](data/extra-gazettes/2025/2439-42) [2439/42]
@@ -339,6 +357,11 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-06-03 [National Minimum Wage of Workers (Amendment) - Bill](data/bills/2025/604-2025) [604/2025]
 - ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/603-2025) [603/2025]
 - ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/602-2025) [602/2025]
+- 🚨 2025-06-03 [Land Aquisition - Ambalapola, Narammala D/S Division in Kurunegala District- Sec.05](data/extra-gazettes/2025/2439-28) [2439/28]
+- 🚨 2025-06-03 [Land Aquisition - Degaldoruwa, Kundasale D/S Division in Kandy District- Sec.05](data/extra-gazettes/2025/2439-27) [2439/27]
+- 🚨 2025-06-03 [Ministry of Labour - Industrial Dispute between 07 Employees inclusive of Mrs. Rathnawali Mallika de Joeth and National Savings Bank](data/extra-gazettes/2025/2439-26) [2439/26]
+- 🚨 2025-06-03 [Ministry of Labor -( 1) Industrial Dispute between Ceylon Workers Red Flag Union and Sri Lanka State Plantations Corporation (2) Industrial Dispute between I.P.P.Upul Kumara and National Housing Development Authority](data/extra-gazettes/2025/2439-25) [2439/25]
+- 🚨 2025-06-03 [Land Aquisition - Thiraimadu 173E, Manmunai North D/S Division in Batticaloa District- Sec.07](data/extra-gazettes/2025/2439-24) [2439/24]
 - ✍️ 2025-06-02 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/598-2025) [598/2025]
 
 #### 2025-05
@@ -452,11 +475,21 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-07-18 [Twenty Second Amendment to the Constitution - GS](data/bills/2024/523-2024) [523/2024]
 - ✍️ 2024-07-17 [The Association of Cricket Umpires, Sri Lanka (Incorporation) - GS](data/bills/2024/522-2024) [522/2024]
 - ✍️ 2024-07-10 [Code of Criminal Procedure (Amendment) - Bill](data/bills/2024/521-2024) [521/2024]
+- ✍️ 2024-07-09 [Isiwara Development, Social Services and Charity Foundation (Incorporation) - Bill](data/bills/2024/520-2024) [520/2024]
 - ✍️ 2024-07-09 [Land Development (Amendment) - GS](data/bills/2024/519-2024) [519/2024]
 - ✍️ 2024-07-09 [Mediation Boards (Amendment) - GS](data/bills/2024/518-2024) [518/2024]
+- ✍️ 2024-07-04 [Penal Code (Amendment) - GS](data/bills/2024/517-2024) [517/2024]
+- ✍️ 2024-07-02 [Medical (Amendment) - Bill](data/bills/2024/516-2024) [516/2024]
+- ✍️ 2024-07-02 [Medical (Amendment) - Bill](data/bills/2024/515-2024) [515/2024]
+- ✍️ 2024-07-01 [Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/bills/2024/511-2024) [511/2024]
 
 #### 2024-06
 
+- ✍️ 2024-06-28 [Code of Criminal Procedure (Amendment) - GS](data/bills/2024/512-2024) [512/2024]
+- ✍️ 2024-06-26 [Association of Human Resources Professionals (Incorporation) - GS](data/bills/2024/510-2024) [510/2024]
+- ✍️ 2024-06-20 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - Bill](data/bills/2024/514-2024) [514/2024]
+- ✍️ 2024-06-20 [Immigration - Bill](data/bills/2024/513-2024) [513/2024]
+- ✍️ 2024-06-19 [Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - Bill](data/bills/2024/509-2024) [509/2024]
 - 🏛️ 2024-06-18 [Public Debt Management](data/acts/2024/33-2024) [33/2024]
 - 🏛️ 2024-06-18 [International Institute of Theravadha (Incorporation)](data/acts/2024/32-2024) [32/2024]
 - 🏛️ 2024-06-12 [Kelaniya Buddhist Women's Charitable Society (Incorporation)](data/acts/2024/30-2024) [30/2024]
@@ -603,5 +636,27 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - 🏛️ 2022-09-26 [Sri Lanka Rupavahini Corporation (Amendment)](data/acts/2022/26-2022) [26/2022]
 - 🏛️ 2022-09-20 [Social Security Contribution Levy](data/acts/2022/25-2022) [25/2022]
+- 🏛️ 2022-09-16 [Industrial Disputes (Amendment)](data/acts/2022/24-2022) [24/2022]
 - 🏛️ 2022-09-16 [Termination of Employment of Workmen (Special Provisions) (Amendment)](data/acts/2022/23-2022) [23/2022]
 - 🏛️ 2022-09-16 [Industrial Disputes (Amendment)](data/acts/2022/22-2022) [22/2022]
+- 🏛️ 2022-09-09 [Appropriation (Amendment)](data/acts/2022/21-2022) [21/2022]
+- 🏛️ 2022-09-06 [Sisira Jayakody Siyapatha Foundation (Incorporation)](data/acts/2022/20-2022) [20/2022]
+
+#### 2022-06
+
+- 🏛️ 2022-06-23 [Industrial Disputes](data/acts/2022/19-2022) [19/2022]
+- 🏛️ 2022-06-23 [Code of Criminal Procedure (Amendment)](data/acts/2022/18-2022) [18/2022]
+- 🏛️ 2022-06-23 [Civil Procedure Code (Amendment)](data/acts/2022/17-2022) [17/2022]
+- 🏛️ 2022-06-15 [Sri Lanka Electricity (Amendment)](data/acts/2022/16-2022) [16/2022]
+
+#### 2022-05
+
+- 🏛️ 2022-05-18 [Sri Shakyasinharama Viharastha Karyasadhaka Sanvidanaya (Incorporation)](data/acts/2022/15-2022) [15/2022]
+
+#### 2022-04
+
+- 🏛️ 2022-04-08 [Surcharge Tax](data/acts/2022/14-2022) [14/2022]
+
+#### 2022-03
+
+- 🏛️ 2022-03-31 [Value Added Tax (Amendment)](data/acts/2022/13-2022) [13/2022]
