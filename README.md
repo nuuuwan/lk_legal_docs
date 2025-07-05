@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**639** documents (**423MB**) as of **2025-07-05 21:10:26**.
+**679** documents (**476MB**) as of **2025-07-05 21:49:06**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -382,6 +382,16 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 #### 2025-05
 
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Puttalam District](data/extra-gazettes/2025/2438-84) [2438/84]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Kurunegala District](data/extra-gazettes/2025/2438-83) [2438/83]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Trincomalle District](data/extra-gazettes/2025/2438-82) [2438/82]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Ampara District](data/extra-gazettes/2025/2438-81) [2438/81]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Batticaloa District](data/extra-gazettes/2025/2438-80) [2438/80]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Mullaitivu District](data/extra-gazettes/2025/2438-79) [2438/79]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Vavunia District](data/extra-gazettes/2025/2438-78) [2438/78]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Mannar District](data/extra-gazettes/2025/2438-77) [2438/77]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Kilinochchi District](data/extra-gazettes/2025/2438-76) [2438/76]
+- 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Jaffna District](data/extra-gazettes/2025/2438-75) [2438/75]
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Hambantota District](data/extra-gazettes/2025/2438-74) [2438/74]
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Matara District](data/extra-gazettes/2025/2438-73) [2438/73]
 - 🚨 2025-05-31 [Election Commission - Local Authority Election - 2025 Notice under Section 66(2) Elected Members List - Galle District](data/extra-gazettes/2025/2438-72) [2438/72]
@@ -423,6 +433,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 📢 2025-05-16 [(I) - General](data/gazettes/2025/2025-05-16-i-general) [2025-05-16-i-general]
 - 📢 2025-05-09 [Legal Section](data/gazettes/2025/2025-05-09-legal-section) [2025-05-09-legal-section]
 - 📢 2025-05-09 [Land Section](data/gazettes/2025/2025-05-09-land-section) [2025-05-09-land-section]
+- 📢 2025-05-09 [IV (B) - Local Government](data/gazettes/2025/2025-05-09-iv-b-local-government) [2025-05-09-iv-b-local-government]
 - 📢 2025-05-09 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-05-09-iii-trade-marks-and-patent-notices) [2025-05-09-iii-trade-marks-and-patent-notices]
 - 📢 2025-05-09 [(IIB) - Advertising](data/gazettes/2025/2025-05-09-iib-advertising) [2025-05-09-iib-advertising]
 - 📢 2025-05-09 [(IIA) - Advertising](data/gazettes/2025/2025-05-09-iia-advertising) [2025-05-09-iia-advertising]
@@ -432,11 +443,20 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-05-08 [Personal Data Protection (Amendment) - Bill](data/bills/2025/591-2025) [591/2025]
 - ✍️ 2025-05-08 [Online Safety (Repeal) - Bill](data/bills/2025/590-2025) [590/2025]
 - ✍️ 2025-05-08 [Foreign Loans (Repeal) - Bill](data/bills/2025/585-2025) [585/2025]
+- 📢 2025-05-02 [Legal Section](data/gazettes/2025/2025-05-02-legal-section) [2025-05-02-legal-section]
+- 📢 2025-05-02 [Land Section](data/gazettes/2025/2025-05-02-land-section) [2025-05-02-land-section]
+- 📢 2025-05-02 [IV (B) - Local Government](data/gazettes/2025/2025-05-02-iv-b-local-government) [2025-05-02-iv-b-local-government]
+- 📢 2025-05-02 [IV (A) - Provincial Councils](data/gazettes/2025/2025-05-02-iv-a-provincial-councils) [2025-05-02-iv-a-provincial-councils]
+- 📢 2025-05-02 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-05-02-iii-trade-marks-and-patent-notices) [2025-05-02-iii-trade-marks-and-patent-notices]
+- 📢 2025-05-02 [(IIB) - Advertising](data/gazettes/2025/2025-05-02-iib-advertising) [2025-05-02-iib-advertising]
+- 📢 2025-05-02 [(IIA) - Advertising](data/gazettes/2025/2025-05-02-iia-advertising) [2025-05-02-iia-advertising]
+- 📢 2025-05-02 [(I) - General](data/gazettes/2025/2025-05-02-i-general) [2025-05-02-i-general]
 
 #### 2025-04
 
 - ✍️ 2025-04-30 [Tredzo Development Foundation (Incorporation) - GS](data/bills/2025/583-2025) [583/2025]
 - 🏛️ 2025-04-30 [Proceeds of Crime](data/acts/2025/05-2025) [05/2025]
+- 📢 2025-04-25 [(I) - General](data/gazettes/2025/2025-04-25-i-general) [2025-04-25-i-general]
 - ✍️ 2025-04-24 [Companies (Amendment) - GS](data/bills/2025/582-2025) [582/2025]
 - ✍️ 2025-04-11 [Foreign Loans (Repeal) - GS](data/bills/2025/580-2025) [580/2025]
 - 🏛️ 2025-04-11 [Value Added Tax (Amendment)](data/acts/2025/04-2025) [04/2025]
@@ -585,7 +605,15 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - ✍️ 2024-04-26 [Public Debt Management - Bill](data/bills/2024/485-2024) [485/2024]
 - 🏛️ 2024-04-26 [Banking (Amendment)](data/acts/2024/24-2024) [24/2024]
+- ✍️ 2024-04-25 [Sri Lanka Electricity - Bill](data/bills/2024/481-2024) [481/2024]
+- ✍️ 2024-04-25 [Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - Bill](data/bills/2024/478-2024) [478/2024]
 - ✍️ 2024-04-25 [Al Falah Foundation (Incorporation) - Bill](data/bills/2024/477-2024) [477/2024]
+- ✍️ 2024-04-18 [Public Debt Management - GS](data/bills/2024/476-2024) [476/2024]
+- ✍️ 2024-04-17 [Gender Equality - GS](data/bills/2024/475-2024) [475/2024]
+- ✍️ 2024-04-17 [Sri Lanka Electricity - GS](data/bills/2024/474-2024) [474/2024]
+- ✍️ 2024-04-04 [Al Falah Foundation (Incorporation) - GS](data/bills/2024/472-2024) [472/2024]
+- ✍️ 2024-04-02 [Siw Wanak Arana Foundation (Incorporation) - Bill](data/bills/2024/473-2024) [473/2024]
+- ✍️ 2024-04-01 [Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/bills/2024/471-2024) [471/2024]
 - 🏛️ 2024-04-01 [Companies (Amendment)](data/acts/2024/23-2024) [23/2024]
 - 🏛️ 2024-04-01 [Inland Trust Receipts (Amendment)](data/acts/2024/22-2024) [22/2024]
 - 🏛️ 2024-04-01 [Finance Leasing (Amendment)](data/acts/2024/21-2024) [21/2024]
@@ -596,6 +624,8 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 #### 2024-03
 
+- ✍️ 2024-03-22 [EmployeesÃ¢â¬â¢ Provident Fund (Amendment) - GS](data/bills/2024/468-2024) [468/2024]
+- ✍️ 2024-03-21 [Recovery of Loans by Banks (Special Provisions) (Amendment) - Bill](data/bills/2024/469-2024) [469/2024]
 - 🏛️ 2024-03-20 [Value Added Tax (Amendment)](data/acts/2024/16-2024) [16/2024]
 - 🏛️ 2024-03-20 [Social Security Contribution Levy (Amendment)](data/acts/2024/15-2024) [15/2024]
 
@@ -797,3 +827,19 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 #### 2021-06
 
 - 🏛️ 2021-06-30 [Sri Lanka Land Development Corporation (Amendment)](data/acts/2021/13-2021) [13/2021]
+- 🏛️ 2021-06-14 [Fiscal Management (Responsibility) (Amendment)](data/acts/2021/12-2021) [12/2021]
+
+#### 2021-05
+
+- 🏛️ 2021-05-27 [Colombo Port City Economic Commission](data/acts/2021/11-2021) [11/2021]
+- 🏛️ 2021-05-13 [Inland Revenue (Amendment)](data/acts/2021/10-2021) [10/2021]
+- 🏛️ 2021-05-13 [Value Added Tax (Amendment)](data/acts/2021/09-2021) [09/2021]
+
+#### 2021-01
+
+- 🏛️ 2021-01-18 [Evidence (Amendment)](data/acts/2021/06-2021) [06/2021]
+- 🏛️ 2021-01-18 [Penal Code (Amendment)](data/acts/2021/05-2021) [05/2021]
+- 🏛️ 2021-01-18 [Factories (Amendment)](data/acts/2021/04-2021) [04/2021]
+- 🏛️ 2021-01-18 [Minimum Wages (Indian Labour) (Amendment)](data/acts/2021/03-2021) [03/2021]
+- 🏛️ 2021-01-18 [Employment of Women, Young Persons and Children (Amendment)](data/acts/2021/02-2021) [02/2021]
+- 🏛️ 2021-01-18 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2021/01-2021) [01/2021]
