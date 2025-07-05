@@ -51,6 +51,8 @@ class Metadata:
             ("si", self.source_url_si),
             ("ta", self.source_url_ta),
         ]:
+            if not url:
+                continue
             file_path = os.path.join(self.dir_data, f"{lang}.pdf")
             if not os.path.exists(file_path):
                 page = WebPage(url)

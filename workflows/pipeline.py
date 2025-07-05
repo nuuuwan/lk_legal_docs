@@ -2,8 +2,12 @@ import sys
 
 from utils import Log
 
-from lld import (ActsByYearPage, BillsByYearPage, ExtraGazettesByYearPage,
-                 ReadMe)
+from lld import (
+    ActsByYearPage,
+    BillsByYearPage,
+    ExtraGazettesByYearPage,
+    ReadMe,
+)
 
 log = Log("pipeline")
 

@@ -1,6 +1,10 @@
 from functools import cache
 
+from utils import Log
+
 from lld.www.common.WebPage import WebPage
+
+log = Log("ForYearPage")
 
 
 class ForYearPage(WebPage):
@@ -24,11 +28,22 @@ class ForYearPage(WebPage):
         url_td = td_list[3]
         a_list = url_td.find_all("a")
 
-        source_url_en, source_url_si, source_url_ta = [
-            f'https://documents.gov.lk/view/{cls.get_doc_type_name()}/'
-            + a['href']
-            for a in a_list
-        ]
+        source_url_en, source_url_si, source_url_ta = None, None, None
+        for a in a_list:
+            href = a["href"]
+            url = (
+                f"https://documents.gov.lk/view/{cls.get_doc_type_name()}/"
+                + a["href"]
+            )
+
+            if "_E" in href:
+                source_url_en = url
+            elif "_S" in href:
+                source_url_si = url
+            elif "_T" in href:
+                source_url_ta = url
+            else:
+                log.warning(f"Unknown language code in URL: {href}")
 
         doc_metadata_cls = cls.get_doc_metadata_cls()
         return doc_metadata_cls(
@@ -50,6 +65,7 @@ class ForYearPage(WebPage):
 
         for tr in tbody.find_all("tr"):
             doc_metadata = self.__parse_tr__(tr)
-            doc_metadata_list.append(doc_metadata)
+            if doc_metadata:
+                doc_metadata_list.append(doc_metadata)
 
         return doc_metadata_list
