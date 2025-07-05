@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**45** documents (**33MB**) as of **2025-07-05 10:28:43**.
+**75** documents (**50MB**) as of **2025-07-05 10:40:58**.
 
 A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -54,6 +54,16 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (labelling and Advertising) Regulations 2023.](data/extra-gazettes/2025/2443-06) [2443/06]
 - 🚨 2025-06-30 [Sri Lanka Customs - Rate Of Exchange with Effect from 30.06.2025 to 06.07.2025](data/extra-gazettes/2025/2443-01) [2443/01]
 - 🚨 2025-06-28 [Dept. of Local Government - Eastern Province - Notice under section 66 (c) Appointed Vice Chairman Kantale Pradeshiya Sabha](data/extra-gazettes/2025/2442-79) [2442/79]
+- 🚨 2025-06-27 [Presidential Secretariat - Call out All the Members of the Armed Forces with effect from 27th June, 2025](data/extra-gazettes/2025/2442-62) [2442/62]
+- 🚨 2025-06-27 [Department of The Local Government N.C.P - Appointed Chairman and Vice Chairman for the Anuradgapura Local Authorities 2025](data/extra-gazettes/2025/2442-61) [2442/61]
+- 🚨 2025-06-27 [Election Commission - Local Autherities Elections- 2025 Notice Under Section 66 (2) Elected to members of 36 Local Governments Institutions](data/extra-gazettes/2025/2442-60) [2442/60]
+- 🚨 2025-06-27 [Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions](data/extra-gazettes/2025/2442-57) [2442/57]
+- 🚨 2025-06-26 [Divisional Secretatiat Kamburupitiya Pilgrmages Ordinance (Chapter 175) Annual Esala Festival 2025 of Ilangamgoda Ancient Rajamaha Viharaya, Sapugoda Kaburupitiya](data/extra-gazettes/2025/2442-49) [2442/49]
+- 🚨 2025-06-26 [Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman for 02 Local Government Institutions](data/extra-gazettes/2025/2442-47) [2442/47]
+- 🚨 2025-06-26 [Dept. of Local Government - N. W. P - Notice under section 66 (c) Appointed Chairman, Vice Chairman, Mayor and Deputy Mayor for 14 Local Government Institutions.](data/extra-gazettes/2025/2442-46) [2442/46]
+- 🚨 2025-06-26 [Dept of Local Government Sabaragamuwa Province - Appointed Chairman and Vice Chairman to the 04 Local Government Institutions](data/extra-gazettes/2025/2442-45) [2442/45]
+- 🚨 2025-06-24 [Sri Lanka Parliament - Convening of the Parliament of the Democratic Socialist Republic of Sri Lanka on Monday, the 30th of June, 2025 at 9.30 a.m.](data/extra-gazettes/2025/2442-30) [2442/30]
+- 🚨 2025-06-24 [Dept. of Census and Statistics National Consumer Price Index - May 2025](data/extra-gazettes/2025/2442-29) [2442/29]
 - ✍️ 2025-06-23 [National Audit (Amendment) - GS](data/bills/2025/611-2025) [611/2025]
 - 🏛️ 2025-06-20 [National Transport Commission (Amendment)](data/acts/2025/08-2025) [08/2025]
 - 🏛️ 2025-06-20 [Code of Criminal Procedure (Amendment)](data/acts/2025/07-2025) [07/2025]
@@ -69,10 +79,20 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
 - ✍️ 2025-06-04 [Bills of Exchange (Amendment) - GS](data/bills/2025/601-2025) [601/2025]
 - ✍️ 2025-06-04 [Samurdhi (Amendment) - GS](data/bills/2025/600-2025) [600/2025]
+- ✍️ 2025-06-03 [National Minimum Wage of Workers (Amendment) - Bill](data/bills/2025/604-2025) [604/2025]
+- ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/603-2025) [603/2025]
+- ✍️ 2025-06-03 [Budgetary Relief Allowance of Workers (Amendment) - Bill](data/bills/2025/602-2025) [602/2025]
+- ✍️ 2025-06-02 [Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/bills/2025/598-2025) [598/2025]
 
 #### 2025-05
 
+- ✍️ 2025-05-29 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/bills/2025/597-2025) [597/2025]
+- ✍️ 2025-05-28 [Rubber Control (Amendment) - GS](data/bills/2025/595-2025) [595/2025]
+- ✍️ 2025-05-27 [Gambling Regulatory Authority - GS](data/bills/2025/594-2025) [594/2025]
+- ✍️ 2025-05-23 [Sri Lanka Electricity (Amendment) - Bill](data/bills/2025/599-2025) [599/2025]
 - 🏛️ 2025-05-23 [Foreign Loans (Repeal)](data/acts/2025/06-2025) [06/2025]
+- ✍️ 2025-05-22 [Provincial Councils Elections (Amendment) - GS](data/bills/2025/589-2025) [589/2025]
+- ✍️ 2025-05-20 [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/586-2025) [586/2025]
 
 #### 2025-04
 
@@ -102,3 +122,19 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - 🏛️ 2024-05-13 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2024/28-2024) [28/2024]
 - 🏛️ 2024-05-13 [Partition (Amendment)](data/acts/2024/27-2024) [27/2024]
 - 🏛️ 2024-05-08 [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/26-2024) [26/2024]
+- 🏛️ 2024-05-03 [Code of Criminal Procedure (Amendment)](data/acts/2024/25-2024) [25/2024]
+
+#### 2024-04
+
+- 🏛️ 2024-04-26 [Banking (Amendment)](data/acts/2024/24-2024) [24/2024]
+- 🏛️ 2024-04-01 [Companies (Amendment)](data/acts/2024/23-2024) [23/2024]
+- 🏛️ 2024-04-01 [Inland Trust Receipts (Amendment)](data/acts/2024/22-2024) [22/2024]
+- 🏛️ 2024-04-01 [Finance Leasing (Amendment)](data/acts/2024/21-2024) [21/2024]
+- 🏛️ 2024-04-01 [Mortgage (Amendment)](data/acts/2024/20-2024) [20/2024]
+- 🏛️ 2024-04-01 [Trust Receipts (Amendment)](data/acts/2024/19-2024) [19/2024]
+- 🏛️ 2024-04-01 [Registration of Documents (Amendment)](data/acts/2024/18-2024) [18/2024]
+- 🏛️ 2024-04-01 [Secured Transactions](data/acts/2024/17-2024) [17/2024]
+
+#### 2024-03
+
+- 🏛️ 2024-03-20 [Social Security Contribution Levy (Amendment)](data/acts/2024/15-2024) [15/2024]
