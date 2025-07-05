@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 07:05:24*.
+*Last updated 2025-07-05 07:11:50*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (40)
+## Acts (42)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -46,8 +46,10 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [03/2024] [Powers of Attorney (Amendment)](data/acts/2024/2024-03)
 - [02/2024] [Mediation Board (Amendment)](data/acts/2024/2024-02)
 - [01/2024] [Office of National Unity and Reconciliation](data/acts/2024/2024-01)
+- [33/2023] [Finance](data/acts/2023/2023-33)
+- [32/2023] [Value Added Tax (Amendment)](data/acts/2023/2023-32)
 
-## Bills (36)
+## Bills (37)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -84,4 +86,5 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [584/2025] [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/2025-584)
 - [583/2025] [Tredzo Development Foundation (Incorporation) - GS](data/bills/2025/2025-583)
 - [582/2025] [Companies (Amendment) - GS](data/bills/2025/2025-582)
+- [581/2025] [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS](data/bills/2025/2025-581)
 - [580/2025] [Foreign Loans (Repeal) - GS](data/bills/2025/2025-580)

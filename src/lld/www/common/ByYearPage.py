@@ -45,17 +45,16 @@ class ByYearPage(WebPage):
 
         try:
             is_hot = metadata.download_all()
-            metadata.write()
-            metadata.write_readme()
+            if is_hot:
+                metadata.write()
+                metadata.write_readme()
             return is_hot
         except Exception as e:
             log.error(f"❌ Error downloading {metadata.doc_num}: {e}")
             return False
 
     def run_pipeline(self, max_n_hot):
-        log.info("-" * 64)
-        log.info(f"[run_pipeline] {self.get_doc_type_name()}.")
-        log.info("-" * 64)
+        log.info(f"Running pipeline for {self.get_doc_type_name().title()}.")
         for_year_page_list = self.get_for_year_page_list()
         n_hot = 0
         for for_year_page in for_year_page_list:
@@ -68,7 +67,5 @@ class ByYearPage(WebPage):
                 is_hot = self.__process_metadata__(metadata)
                 if is_hot:
                     n_hot += 1
-                    log.info(
-                        f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}"
-                    )
+                    log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {metadata}")
         log.info(f"🛑🛑 Downloaded ALL {self.get_doc_type_name()}.")
