@@ -58,7 +58,12 @@ class CoverageChart:
         n = len(self.doc_list)
         ax.set_title(f"Documents over Time ({n=:,})")
         ax.legend()
-        plt.xticks(rotation=45)
+
+        step = max(1, len(dates) // 7)
+        shown_ticks = dates[:-1:step] + [dates[-1]]
+        ax.set_xticks(shown_ticks)
+        ax.set_xticklabels(shown_ticks, ha="center")
+
         plt.tight_layout()
 
         os.makedirs(os.path.dirname(self.IMAGE_PATH), exist_ok=True)
