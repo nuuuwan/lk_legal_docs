@@ -34,11 +34,11 @@ class ForYearPage(WebPage):
                 ]
             )
 
-            if "_E" in href:
+            if "E.pdf" in href:
                 source_url_en = url
-            elif "_S" in href:
+            elif "S.pdf" in href:
                 source_url_si = url
-            elif "_T" in href:
+            elif "T.pdf" in href:
                 source_url_ta = url
             else:
                 log.warning(f"Unknown language code in URL: {href}")
