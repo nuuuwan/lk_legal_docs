@@ -12,3 +12,7 @@ class AbstractDoc(AbstractDocBase, AbstractDocSerializer, AbstractDocReadMe):
     @classmethod
     def get_doc_type_name(cls):
         raise NotImplementedError
+
+    @classmethod
+    def get_doc_type_name_short(cls):
+        raise NotImplementedError
