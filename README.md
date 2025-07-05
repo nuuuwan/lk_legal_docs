@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 07:11:50*.
+*Last updated 2025-07-05 07:32:50*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (42)
+## Acts (52)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -46,10 +46,20 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [03/2024] [Powers of Attorney (Amendment)](data/acts/2024/2024-03)
 - [02/2024] [Mediation Board (Amendment)](data/acts/2024/2024-02)
 - [01/2024] [Office of National Unity and Reconciliation](data/acts/2024/2024-01)
+- [34/2023] [Appropriation Act](data/acts/2023/2023-34)
 - [33/2023] [Finance](data/acts/2023/2023-33)
 - [32/2023] [Value Added Tax (Amendment)](data/acts/2023/2023-32)
+- [31/2023] [Galaha Bhaddrawathie National Bhikku Care Centre Trust](data/acts/2023/2023-31)
+- [30/2023] [Local Authorities Elections (Amendment)](data/acts/2023/2023-30)
+- [29/2023] [Civil Procedure Code (Amendment)](data/acts/2023/2023-29)
+- [28/2023] [Anti - Corruption (Amendment)](data/acts/2023/2023-28)
+- [27/2023] [Fisheries and Aquatic Resources (Amendment)](data/acts/2023/2023-27)
+- [26/2023] [Conferring the Honour of Senior Instructing Attorneys-at-Law](data/acts/2023/2023-26)
+- [25/2023] [Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation)](data/acts/2023/2023-25)
+- [21/2023] [Elections (Special Provisions)](data/acts/2023/2023-21)
+- [20/2023] [Civil Procedure Code (Amendment)](data/acts/2023/2023-20)
 
-## Bills (37)
+## Bills (47)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -88,3 +98,13 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [582/2025] [Companies (Amendment) - GS](data/bills/2025/2025-582)
 - [581/2025] [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS](data/bills/2025/2025-581)
 - [580/2025] [Foreign Loans (Repeal) - GS](data/bills/2025/2025-580)
+- [579/2025] [Code of Criminal Procedure (Amendment) - Bill](data/bills/2025/2025-579)
+- [578/2025] [Online Safety (Repeal) - GS](data/bills/2025/2025-578)
+- [577/2025] [National Transport Commission (Amendment) - GS](data/bills/2025/2025-577)
+- [576/2025] [Code of Criminal Procedure (Amendment) - GS](data/bills/2025/2025-576)
+- [575/2025] [Personal Data Protection (Amendment) - GS](data/bills/2025/2025-575)
+- [574/2025] [Inland Revenue (Amendment) - Bill](data/bills/2025/2025-574)
+- [573/2025] [Value Added Tax (Amendment) - Bill](data/bills/2025/2025-573)
+- [572/2025] [Proceeds of Crime - Bill](data/bills/2025/2025-572)
+- [571/2025] [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2025/2025-571)
+- [560/2025] [Value Added Tax (Amendment) - GS](data/bills/2025/2025-560)
