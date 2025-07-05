@@ -30,4 +30,4 @@ class AbstractDocExtract:
             content = "".join(sections)
             File(txt_path).write(content)
             file_size_k = os.path.getsize(txt_path) / 1_000
-            log.debug(f"Wrote text to {txt_path} ({file_size_k:.0f} KB)")
+            log.debug(f"Wrote {txt_path} ({file_size_k:.0f} KB)")
