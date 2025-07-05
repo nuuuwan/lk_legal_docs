@@ -12,29 +12,22 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
 
     @staticmethod
-    def get_metadata_md(metadata):
-        return (
-            f"- [{metadata.doc_num}] "
-            + f"[{metadata.description}]({metadata.dir_data})"
-        )
-
-    @staticmethod
-    def get_lines_for_doc(doc_cls):
-        metadata_list = doc_cls.list_all()
-        n = len(metadata_list)
-        return (
-            [
-                f"## {doc_cls.get_doc_type_name().title()} ({n:,})",
-                "",
-            ]
-            + [ReadMe.get_metadata_md(metadata) for metadata in metadata_list]
-            + [""]
-        )
+    def get_doc_md_lines(doc):
+        doc_cls = doc.__class__
+        return [
+            (
+                f"- {doc_cls.get_emoji()} {doc.date}"
+                + f" [{doc.description}]({doc.dir_data})"
+                + f" [{doc.doc_num}]"
+            )
+        ]
 
     def get_lines_for_docs(self):
-        lines = []
-        for doc_cls in DocFactory.list_all_cls():
-            lines.extend(self.get_lines_for_doc(doc_cls))
+        doc_list = DocFactory.list_all()
+        n = len(doc_list)
+        lines = [f"## Documents ({n:,})", ""]
+        for doc in doc_list:
+            lines.extend(self.get_doc_md_lines(doc))
         return lines
 
     @property

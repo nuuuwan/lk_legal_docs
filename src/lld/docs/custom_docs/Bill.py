@@ -9,3 +9,7 @@ class Bill(AbstractDoc):
     @classmethod
     def get_doc_type_name_short(cls):
         return "bl"
+
+    @classmethod
+    def get_emoji(cls):
+        return "✍️"

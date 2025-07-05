@@ -44,7 +44,6 @@ class AbstractDocSerializer:
             cls.from_file(file_path) for file_path in doc_file_path_lists
         ]
         doc_doc_list.sort(key=lambda x: x.id, reverse=True)
-        log.info(f"Found {len(doc_doc_list):,} docs.")
         return doc_doc_list
 
     def write(self):

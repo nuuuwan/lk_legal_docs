@@ -9,3 +9,7 @@ class ExtraGazette(AbstractDoc):
     @classmethod
     def get_doc_type_name_short(cls):
         return "egz"
+
+    @classmethod
+    def get_emoji(cls):
+        return "🚨"
