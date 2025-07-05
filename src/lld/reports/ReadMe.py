@@ -39,8 +39,9 @@ class ReadMe:
                 "",
                 f"*Last updated {self.time_str}*.",
                 "",
-                "Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents"
-                + " scraped from [documents.gov.lk](https://documents.gov.lk).",
+                "Legal Gazettes, Extra-Gazettes, Acts, Bills"
+                + " and other documents scraped"
+                + " from [documents.gov.lk](https://documents.gov.lk).",
                 "",
             ]
             + self.get_lines_for_doc(ActMetadata)
