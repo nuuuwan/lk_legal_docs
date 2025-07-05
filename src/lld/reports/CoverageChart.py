@@ -46,9 +46,7 @@ class CoverageChart:
                 type_to_counts[t].append(date_to_type_to_n[date].get(t, 0))
 
         # Plot
-        fig, ax = plt.subplots(
-            figsize=(16, 9)
-        )  # Set figure size to 16x9 inches
+        fig, ax = plt.subplots(figsize=(8, 4.5))
 
         bottom = [0] * len(dates)
         for t in all_types:
