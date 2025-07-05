@@ -55,5 +55,5 @@ jobs:
           fi
           git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
 
-          git pull origin main
-          git push origin main --force-with-lease
+          git pull --rebase origin main
+          git push origin main
