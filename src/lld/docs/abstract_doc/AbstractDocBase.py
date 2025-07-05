@@ -17,6 +17,10 @@ class AbstractDocBase:
         return self.date[:4]
 
     @cached_property
+    def year_and_month(self):
+        return self.date[:7]
+
+    @cached_property
     def id(self):
         return self.doc_num.replace("/", "-")
 

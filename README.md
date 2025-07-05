@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**3** documents as of **2025-07-05 09:52:05**.
+**3** documents as of **2025-07-05 09:55:53**.
 
 A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,6 +16,13 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 (🏛️ = Acts, ✍️ = Bills, 🚨 = Extra-Gazettes)
 
+### 2025
+
+#### 2025-07
+
 - ✍️ 2025-07-04 [Land Development (Amendment) - GS](data/bills/2025/617-2025) [617/2025]
 - 🚨 2025-07-04 [Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S](data/extra-gazettes/2025/2443-60) [2443/60]
+
+#### 2025-06
+
 - 🏛️ 2025-06-20 [Code of Criminal Procedure (Amendment)](data/acts/2025/07-2025) [07/2025]
