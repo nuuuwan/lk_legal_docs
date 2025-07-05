@@ -1,4 +1,3 @@
-import json
 
 from utils import File, Log, Time, TimeFormat
 
@@ -14,7 +13,9 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
 
     @staticmethod
     def get_doc_md_lines(doc):

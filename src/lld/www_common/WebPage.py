@@ -1,5 +1,4 @@
 import os
-import time
 from functools import cached_property
 
 import requests
