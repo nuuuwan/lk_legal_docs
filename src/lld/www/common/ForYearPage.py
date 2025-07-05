@@ -52,16 +52,16 @@ class ForYearPage(WebPage):
             source_url_ta=source_url_ta,
         )
 
-    def get_metadata_list(self):
-        doc_metadata_list = []
+    def get_doc_list(self):
+        doc_list = []
         table = self.soup.find(
             "table", class_="table table-bordered table-striped table-hover"
         )
         tbody = table.find("tbody")
 
         for tr in tbody.find_all("tr"):
-            doc_metadata = self.__parse_tr__(tr)
-            if doc_metadata:
-                doc_metadata_list.append(doc_metadata)
+            doc = self.__parse_tr__(tr)
+            if doc:
+                doc_list.append(doc)
 
-        return doc_metadata_list
+        return doc_list
