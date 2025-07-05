@@ -10,7 +10,7 @@ class AbstractDocExtract:
     def extract_text(self):
         pdf_path = self.get_pdf_path("en")
         assert os.path.exists(pdf_path)
-        txt_path = os.path.join(self.dir_data, "en.txt")
+        txt_path = pdf_path[:-4] + ".txt"
 
         if not os.path.exists(txt_path):
             reader = PdfReader(pdf_path)
