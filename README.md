@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**385** documents (**190MB**) as of **2025-07-05 18:16:53**.
+**420** documents (**208MB**) as of **2025-07-05 18:31:06**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -287,11 +287,26 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-06-06 [National Photographic Art Society of Sri Lanka (Incorporation) - GS](data/bills/2025/610-2025) [610/2025]
 - ✍️ 2025-06-06 [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/609-2025) [609/2025]
 - ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
+- 🚨 2025-06-06 [Presidential Secretariat - Appointed Chief Secretary of the Northern Province with effect from 27th May 2025](data/extra-gazettes/2025/2439-74) [2439/74]
+- 🚨 2025-06-06 [Land Title Settlement Dept. - Polwaththa, Maharagama D/S Division, Colombo District - (25/0022)](data/extra-gazettes/2025/2439-73) [2439/73]
+- 🚨 2025-06-06 [Land Title Settlement Dept. - Etamurungagoda, Harispattuwa D/S Division, Kandy District - (25/0015)](data/extra-gazettes/2025/2439-72) [2439/72]
+- 🚨 2025-06-06 [Land Title Settlement Dept. - Bulumulla, Yatinuwara D/S Division, Kandy District - (25/0047)](data/extra-gazettes/2025/2439-71) [2439/71]
+- 🚨 2025-06-06 [Land Title Settlement Dept. - Aluthnuwara, Imbulpe D/S Division, Ratnapura District - (25/0034)](data/extra-gazettes/2025/2439-70) [2439/70]
+- 🚨 2025-06-06 [Land Aquisition - Walaswewa, Galewela D/S Division, Matara District (25/0046)](data/extra-gazettes/2025/2439-69) [2439/69]
+- 🚨 2025-06-06 [Land Aquisition - Maligaspe, Galle Four Gravets D/S Division, Galle District (25/0113)](data/extra-gazettes/2025/2439-68) [2439/68]
 - 🚨 2025-06-06 [Public Service Commission of Provincial Council- Minute of the Central Provincial Management Service Officers Service- Amendment No.4](data/extra-gazettes/2025/2439-67) [2439/67]
 - 🚨 2025-06-06 [Land Aquisition - Naththambura, Rabukkana D/S Division, Kegalle District, Land Aquisition - Parape, Rabukkana D/S Division, Kegalle District Sec.39 (a)](data/extra-gazettes/2025/2439-66) [2439/66]
 - 🚨 2025-06-06 [Election Commission - Declared the Names of Returned Members Elected for each Local Authority Indicated Additional to the Names Published in the Gazette Extraordinary.](data/extra-gazettes/2025/2439-65) [2439/65]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
+- 🚨 2025-06-05 [Kuruwita Pradeshiya Sabha- Names of Road Lanes](data/extra-gazettes/2025/2439-60) [2439/60]
+- 🚨 2025-06-05 [Land Aquisition - Koralaima, Horana D/S Division, Kalutara District-  Sec. 33](data/extra-gazettes/2025/2439-59) [2439/59]
+- 🚨 2025-06-05 [Dept. of Wild Life Conservation - The Fauna and Flora Protection Oridinance (Chapter 469) Limits of the Area of Land Comprising the Nikkandupola Sanctuary](data/extra-gazettes/2025/2439-58) [2439/58]
+- 🚨 2025-06-05 [Land Aquisition - Gangodawila, Sri Jayawardanapura Kotte D/S Division, Colombo District-  Sec. 39 (1)](data/extra-gazettes/2025/2439-57) [2439/57]
+- 🚨 2025-06-05 [Land Aquisition - Boralesgamuwa, Kesbewa D/S Division, Colombo District- Correction Paper, Ex-Gazette No. 2420/38 dated 22.01.2025 Sec. 39 (1)](data/extra-gazettes/2025/2439-56) [2439/56]
+- 🚨 2025-06-05 [Land Aquisition - Boralesgamuwa, Kesbewa D/S Division, Colombo District](data/extra-gazettes/2025/2439-55) [2439/55]
+- 🚨 2025-06-05 [Land Aquisition - Gangodawila, Sri Jayawardanapura Kotte D/S Division, Colombo District - Panagamuwa, Akmeemana D/S/D, Galle District Sec 39 (a) (1)](data/extra-gazettes/2025/2439-54) [2439/54]
+- 🚨 2025-06-05 [Land Aquisition - Kaluganga, Laggala Pallegama D/S Division, Matale District - Sec 39 (a) (1)](data/extra-gazettes/2025/2439-53) [2439/53]
 - ✍️ 2025-06-04 [Bills of Exchange (Amendment) - GS](data/bills/2025/601-2025) [601/2025]
 - ✍️ 2025-06-04 [Samurdhi (Amendment) - GS](data/bills/2025/600-2025) [600/2025]
 - ✍️ 2025-06-03 [National Minimum Wage of Workers (Amendment) - Bill](data/bills/2025/604-2025) [604/2025]
@@ -387,6 +402,19 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-08-08 [Online Safety (Amendment) - Bill](data/bills/2024/543-2024) [543/2024]
 - ✍️ 2024-08-06 [International Traditional Sihelogy Council (ITSC) (Incorporation) - Bill](data/bills/2024/542-2024) [542/2024]
 - ✍️ 2024-08-06 [Companies (Amendment) -  GS](data/bills/2024/541-2024) [541/2024]
+- ✍️ 2024-08-05 [Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/bills/2024/540-2024) [540/2024]
+- ✍️ 2024-08-02 [Public Assets Management - GS](data/bills/2024/539-2004) [539/2004]
+- ✍️ 2024-08-01 [National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/bills/2024/537-2024) [537/2024]
+
+#### 2024-07
+
+- ✍️ 2024-07-31 [Maternity Benefits (Amendment) - GS](data/bills/2024/538-2004) [538/2004]
+- ✍️ 2024-07-31 [Online Safety (Amendment) - GS](data/bills/2024/535-2024) [535/2024]
+- ✍️ 2024-07-30 [Kodhagoda Gunarathana Nahimi Foundation - (Incorporation) - GS](data/bills/2024/536-2024) [536/2024]
+- ✍️ 2024-07-29 [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2024/534-2024) [534/2024]
+- ✍️ 2024-07-26 [Primary CourtÃ¢â¬â¢s Procedure (Amendment) - GS](data/bills/2024/531-2024) [531/2024]
+- ✍️ 2024-07-23 [Anti-Dumping and Countervailing Duties (Amendment) - Bill](data/bills/2024/529-2024) [529/2024]
+- ✍️ 2024-07-23 [International Traditional Sihelogy Council (ITSC) (Incorporation) - GS](data/bills/2024/528-2024) [528/2024]
 
 #### 2024-06
 
@@ -507,3 +535,16 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - 🏛️ 2022-12-19 [Inland Revenue (Amendment)](data/acts/2022/45-2022) [45/2022]
 - 🏛️ 2022-12-14 [Value Added Tax (Amendment)](data/acts/2022/44-2022) [44/2022]
+- 🏛️ 2022-12-08 [Appropriation](data/acts/2022/43-2022) [43/2022]
+
+#### 2022-11
+
+- 🏛️ 2022-11-30 [Appropriation (Amendment)](data/acts/2022/42-2022) [42/2022]
+- 🏛️ 2022-11-23 [Poisons, Opium and Dangerous Drugs (Amendment)](data/acts/2022/41-2022) [41/2022]
+- 🏛️ 2022-11-17 [Children and Young Persons (Amendment)](data/acts/2022/39-2022) [39/2022]
+- 🏛️ 2022-11-17 [Code of Criminal Procedure (Amendment)](data/acts/2022/38-2022) [38/2022]
+- 🏛️ 2022-11-17 [Kandyan Marriage and Divorce (Amendment)](data/acts/2022/37-2022) [37/2022]
+- 🏛️ 2022-11-17 [Civil Procedure Code (Amendment)](data/acts/2022/36-2022) [36/2022]
+- 🏛️ 2022-11-17 [High Court of the Provinces (Special Provisions) (Amendment)](data/acts/2022/35-2022) [35/2022]
+- 🏛️ 2022-11-17 [Judicature (Amendment)](data/acts/2022/34-2022) [34/2022]
+- 🏛️ 2022-11-17 [Small claims Courts' Procedure](data/acts/2022/33-2022) [33/2022]
