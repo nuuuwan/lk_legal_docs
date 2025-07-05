@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**39** documents (**31MB**) as of **2025-07-05 10:22:58**.
+**45** documents (**33MB**) as of **2025-07-05 10:28:43**.
 
 A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -46,12 +46,14 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 #### 2025-06
 
+- 🚨 2025-06-30 [2443/15](data/extra-gazettes/2025/2443-15) [2443/15]
 - 🚨 2025-06-30 [National Physical Planning Department - The Town and Country Planning Ordinance (Chapter 269) Declare that the Land called "Sankapitti Purana Vihara area as an Urban Development Area](data/extra-gazettes/2025/2443-10) [2443/10]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Iodization of Salt) Regulation 2023.](data/extra-gazettes/2025/2443-09) [2443/09]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Colour Coding for Suger Levels liquid) Regulation 2022.](data/extra-gazettes/2025/2443-08) [2443/08]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (Frans - Fat) Regulation 2022.](data/extra-gazettes/2025/2443-07) [2443/07]
 - 🚨 2025-06-30 [Ministry of Health - Food Act, No.26 of 1980 Amended the Food (labelling and Advertising) Regulations 2023.](data/extra-gazettes/2025/2443-06) [2443/06]
 - 🚨 2025-06-30 [Sri Lanka Customs - Rate Of Exchange with Effect from 30.06.2025 to 06.07.2025](data/extra-gazettes/2025/2443-01) [2443/01]
+- 🚨 2025-06-28 [Dept. of Local Government - Eastern Province - Notice under section 66 (c) Appointed Vice Chairman Kantale Pradeshiya Sabha](data/extra-gazettes/2025/2442-79) [2442/79]
 - ✍️ 2025-06-23 [National Audit (Amendment) - GS](data/bills/2025/611-2025) [611/2025]
 - 🏛️ 2025-06-20 [National Transport Commission (Amendment)](data/acts/2025/08-2025) [08/2025]
 - 🏛️ 2025-06-20 [Code of Criminal Procedure (Amendment)](data/acts/2025/07-2025) [07/2025]
@@ -65,6 +67,8 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 - ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
+- ✍️ 2025-06-04 [Bills of Exchange (Amendment) - GS](data/bills/2025/601-2025) [601/2025]
+- ✍️ 2025-06-04 [Samurdhi (Amendment) - GS](data/bills/2025/600-2025) [600/2025]
 
 #### 2025-05
 
@@ -95,4 +99,6 @@ A collection of Legal Gazettes, Extra Gazettes, Acts, Bills and more, scraped fr
 
 #### 2024-05
 
+- 🏛️ 2024-05-13 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/acts/2024/28-2024) [28/2024]
 - 🏛️ 2024-05-13 [Partition (Amendment)](data/acts/2024/27-2024) [27/2024]
+- 🏛️ 2024-05-08 [Recovery of Loans by Banks (Special Provisions) (Amendment)](data/acts/2024/26-2024) [26/2024]
