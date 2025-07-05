@@ -28,6 +28,11 @@ class ByYearPage(WebPage):
             url = "/".join([ForYearPage.__get_base_url__(self.doc_cls), href])
             yield ForYearPage(url, self.doc_cls)
 
+    def gen_docs(self):
+        for for_year_page in self.gen_for_year_pages():
+            for doc in for_year_page.gen_docs():
+                yield doc
+
     @staticmethod
     def __process_doc__(doc):
 
@@ -47,16 +52,15 @@ class ByYearPage(WebPage):
                 self.doc_cls.get_doc_type_name().title()}."
         )
         n_hot = 0
-        for for_year_page in self.gen_for_year_pages():
-            for doc in for_year_page.gen_docs():
-                if n_hot >= max_n_hot:
-                    log.info(f"🛑 Downloaded {n_hot} new docs.")
-                    return
+        for doc in self.gen_docs():
+            if n_hot >= max_n_hot:
+                log.info(f"🛑 Downloaded {n_hot} new docs.")
+                return
 
-                is_hot = self.__process_doc__(doc)
-                if is_hot:
-                    n_hot += 1
-                    log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {doc}")
+            is_hot = self.__process_doc__(doc)
+            if is_hot:
+                n_hot += 1
+                log.info(f"✅ ({n_hot}/{max_n_hot}) Downloaded {doc}")
         log.info(
             f"🛑🛑 Downloaded ALL {self.doc_cls.get_doc_type_name().title()}."
         )
