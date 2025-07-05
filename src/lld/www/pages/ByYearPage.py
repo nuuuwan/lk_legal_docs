@@ -1,8 +1,8 @@
 from utils import Log
 
-from lld.www.gazette import GazettePages
 from lld.www.pages.AbstractPipelineRunner import AbstractPipelineRunner
 from lld.www.pages.ForYearPage import ForYearPage
+from lld.www.pages.GazettePages import GazettePages
 from lld.www_common import WebPage
 
 log = Log("ByYearPage")
@@ -41,6 +41,6 @@ class ByYearPage(WebPage, AbstractPipelineRunner):
                 yield doc
 
     def run_pipeline(self, max_n_hot):
-        if self.doc_cls.get_doc_type_name == "gazette":
-            GazettePages().run_pipeline(max_n_hot)
+        if self.doc_cls.get_doc_type_name() == "gazettes":
+            return GazettePages().run_pipeline(max_n_hot)
         return super().run_pipeline(max_n_hot)

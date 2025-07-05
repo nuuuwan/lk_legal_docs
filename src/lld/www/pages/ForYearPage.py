@@ -53,6 +53,7 @@ class ForYearPage(WebPage):
         )
 
     def gen_docs(self):
+
         table = self.soup.find(
             "table", class_="table table-bordered table-striped table-hover"
         )

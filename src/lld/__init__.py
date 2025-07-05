@@ -26,12 +26,9 @@ from lld.docs import (
 )
 
 from lld.www import (
-    GazettePages,
-)
-
-from lld.www import (
     ForYearPage,
     AbstractPipelineRunner,
+    GazettePages,
     ByYearPage,
 )
 
