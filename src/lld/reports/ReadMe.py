@@ -38,7 +38,7 @@ class ReadMe:
 
     def get_lines_for_docs(self):
 
-        lines = ["## Documents (Latest)", "", self.get_doc_legend()]
+        lines = ["## Documents", "", self.get_doc_legend()]
         previous_year = None
         previous_year_and_month = None
         for doc in self.doc_list:
