@@ -1,3 +1,5 @@
+import os
+
 from utils import Log
 
 from lld.docs.custom_docs import Act, Bill, ExtraGazette
@@ -23,3 +25,14 @@ class DocFactory:
         doc_list.sort(key=lambda x: (x.date, x.doc_num), reverse=True)
         log.debug(f"Found {len(doc_list):,} docs.")
         return doc_list
+
+    @staticmethod
+    def get_total_data_size():
+        total_size = 0
+        root_path = "data"
+        for dirpath, _, filenames in os.walk(root_path):
+            for f in filenames:
+                fp = os.path.join(dirpath, f)
+                if os.path.isfile(fp):
+                    total_size += os.path.getsize(fp)
+        return total_size
