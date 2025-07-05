@@ -6,7 +6,7 @@ on:
     - cron: "*/15 * * * *"
 
 jobs:
-  pipeline:
+  pipeline-test:
     runs-on: ubuntu-latest
 
     steps:
@@ -57,5 +57,5 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
+          git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline-test.yml"
           git push origin main
