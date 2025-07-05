@@ -12,9 +12,9 @@ class AbstractDocReadMe:
 
         source_lines = []
         for lang_str, source_url in [
+            ("සිංහල", self.source_url_si),
+            ("தமிழ்", self.source_url_ta),
             ("English", self.source_url_en),
-            ("Sinhala", self.source_url_si),
-            ("Tamil", self.source_url_ta),
         ]:
             if source_url:
                 source_lines.append(f"- [{lang_str}]({source_url})")
