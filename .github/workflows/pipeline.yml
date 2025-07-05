@@ -54,6 +54,4 @@ jobs:
             exit 0
           fi
           git commit -m "🤖 $(date '+%Y-%m-%d-%H%M') - pipeline.yml"
-
-          git pull --rebase origin main
           git push origin main
