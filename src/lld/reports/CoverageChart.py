@@ -20,7 +20,7 @@ class CoverageChart:
         idx = {}
         for doc in self.doc_list:
             t = doc.year_and_month
-            doc_type = doc.get_doc_type_name()
+            doc_type = doc.get_doc_type_name_long()
 
             if t not in idx:
                 idx[t] = {}
@@ -55,8 +55,9 @@ class CoverageChart:
 
         ax.set_xlabel("Date")
         ax.set_ylabel("Document Count")
-        ax.set_title("Documents over Time")
-        ax.legend(title="Document Type")
+        n = len(self.doc_list)
+        ax.set_title(f"Documents over Time ({n=:,})")
+        ax.legend()
         plt.xticks(rotation=45)
         plt.tight_layout()
 

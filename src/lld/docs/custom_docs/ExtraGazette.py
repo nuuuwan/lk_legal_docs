@@ -13,3 +13,7 @@ class ExtraGazette(AbstractDoc):
     @classmethod
     def get_emoji(cls):
         return "🚨"
+
+    @classmethod
+    def get_doc_type_name_long(cls):
+        return "Extraordinary Gazettes"

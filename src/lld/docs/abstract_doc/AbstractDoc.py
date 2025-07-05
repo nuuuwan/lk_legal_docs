@@ -24,3 +24,7 @@ class AbstractDoc(
     @classmethod
     def get_doc_type_name_short(cls):
         raise NotImplementedError
+
+    @classmethod
+    def get_doc_type_name_long(cls):
+        return cls.get_doc_type_name().title()
