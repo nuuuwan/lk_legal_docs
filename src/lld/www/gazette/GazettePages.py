@@ -2,8 +2,8 @@ import re
 
 from utils import Log
 
-from lld.docs.custom_docs.gazette.GazetteDoc import GazetteDoc
-from lld.www.common import WebPage
+from lld.docs.custom_docs.Gazette import Gazette
+from lld.www_common import WebPage
 
 log = Log("GazettePages")
 
@@ -11,6 +11,9 @@ log = Log("GazettePages")
 class GazettePages:
 
     BASE_URL = "https://documents.gov.lk/view/gazettes/"
+
+    def get_pipeline_name(self):
+        return "gazettes"
 
     def gen_year_pages(self):
         by_year_page = WebPage(GazettePages.BASE_URL + "/find_gazette.html")
@@ -58,7 +61,7 @@ class GazettePages:
             else:
                 log.warning(f"Unknown language code in URL: {href}")
 
-        return GazetteDoc(
+        return Gazette(
             doc_num=doc_num,
             date=date,
             description=description,

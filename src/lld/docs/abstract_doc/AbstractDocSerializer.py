@@ -28,8 +28,8 @@ class AbstractDocSerializer:
         file_path_lists = []
         for year in os.listdir(cls.get_doc_type_dir()):
             dir_data_for_year = os.path.join(cls.get_doc_type_dir(), year)
-            for id in os.listdir(dir_data_for_year):
-                dir_data = os.path.join(dir_data_for_year, id)
+            for child_dir in os.listdir(dir_data_for_year):
+                dir_data = os.path.join(dir_data_for_year, child_dir)
                 file_path = os.path.join(dir_data, "metadata.json")
                 if not os.path.exists(file_path):
                     log.warning(f"{file_path} not found.")

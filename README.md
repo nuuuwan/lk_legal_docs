@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**286** documents (**140MB**) as of **2025-07-05 11:57:48**.
+**289** documents (**142MB**) as of **2025-07-05 16:07:22**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -222,6 +222,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-06-17 [Samurdhi (Amendment) - Bill](data/bills/2025/614-2025) [614/2025]
 - ✍️ 2025-06-17 [Gambling Regulatory Authority - Bill](data/bills/2025/613-2025) [613/2025]
 - ✍️ 2025-06-17 [Bills of Exchange (Amendment) - Bill](data/bills/2025/612-2025) [612/2025]
+- 🚨 2025-06-17 [Election Commission - Declare that U.J.M. Afras was elected as the member of the No. 3 Galbokka of Weligama Urban Council.](data/extra-gazettes/2025/2441-11) [2441/11]
 - 🚨 2025-06-17 [Ministry of Public Administration, Provincial Councils and Local Government - Pilgrimages Ordinance. Regulations of Annual  Esala Perahera Ceremony of Sri Saddharmathilaka Viharasthanaya - Kandy.](data/extra-gazettes/2025/2441-10) [2441/10]
 - 🚨 2025-06-17 [Ministry of Defence - General Sir John Kotelawala Defence University. Amendments to the Closing Date.](data/extra-gazettes/2025/2441-09) [2441/09]
 - 🚨 2025-06-17 [Land Aquisition - Rangallepola, Narammala D/S Division, Kurunegala District](data/extra-gazettes/2025/2441-08) [2441/08]
@@ -302,6 +303,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 #### 2024-09
 
+- ✍️ 2024-09-03 [Companies (Amendment) - Bill](data/bills/2024/563-2024) [563/2024]
 - ✍️ 2024-09-03 [National Land Commission - Bill](data/bills/2024/560-2024) [560/2024]
 - ✍️ 2024-09-03 [National Building Research Institute - GS](data/bills/2024/551-2024) [551/2024]
 
@@ -380,3 +382,4 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🏛️ 2023-10-17 [National Eye Bank Trust of Sri Lanka](data/acts/2023/22-2023) [22/2023]
 - 🏛️ 2023-10-17 [Elections (Special Provisions)](data/acts/2023/21-2023) [21/2023]
 - 🏛️ 2023-10-17 [Civil Procedure Code (Amendment)](data/acts/2023/20-2023) [20/2023]
+- 🏛️ 2023-10-09 [Ayurveda (Amendment)](data/acts/2023/19-2023) [19/2023]

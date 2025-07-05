@@ -1,13 +1,16 @@
 from utils import Log
 
-from lld.www.common.AbstractPipelineRunner import AbstractPipelineRunner
-from lld.www.common.ForYearPage import ForYearPage
-from lld.www.common.WebPage import WebPage
+from lld.www.pages.AbstractPipelineRunner import AbstractPipelineRunner
+from lld.www.pages.ForYearPage import ForYearPage
+from lld.www_common import WebPage
 
 log = Log("ByYearPage")
 
 
 class ByYearPage(WebPage, AbstractPipelineRunner):
+
+    def get_pipeline_name(self):
+        return self.doc_cls.get_doc_type_name()
 
     @staticmethod
     def __get_url__(doc_cls):

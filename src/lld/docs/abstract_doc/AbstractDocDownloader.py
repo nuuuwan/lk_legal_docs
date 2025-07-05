@@ -1,6 +1,6 @@
 import os
 
-from lld.www.common.WebPage import WebPage
+from lld.www_common import WebPage
 
 
 class AbstractDocDownloader:

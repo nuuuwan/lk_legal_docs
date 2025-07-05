@@ -5,8 +5,7 @@ log = Log("AbstractPipelineRunner")
 
 class AbstractPipelineRunner:
 
-    @classmethod
-    def get_pipeline_name(cls):
+    def get_pipeline_name(self):
         raise NotImplementedError
 
     def gen_docs(self):

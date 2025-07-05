@@ -1,7 +1,7 @@
 from lld.docs.abstract_doc import AbstractDoc
 
 
-class GazetteDoc(AbstractDoc):
+class Gazette(AbstractDoc):
     @classmethod
     def get_doc_type_name(cls):
         return "gazettes"

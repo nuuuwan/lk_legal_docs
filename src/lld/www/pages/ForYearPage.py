@@ -1,6 +1,6 @@
 from utils import Log
 
-from lld.www.common.WebPage import WebPage
+from lld.www_common import WebPage
 
 log = Log("ForYearPage")
 

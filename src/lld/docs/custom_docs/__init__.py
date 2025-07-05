@@ -4,4 +4,4 @@
 from lld.docs.custom_docs.Act import Act
 from lld.docs.custom_docs.Bill import Bill
 from lld.docs.custom_docs.ExtraGazette import ExtraGazette
-from lld.docs.custom_docs.gazette import Gazette, GazetteDoc
+from lld.docs.custom_docs.Gazette import Gazette
