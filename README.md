@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 06:54:54*.
+*Last updated 2025-07-05 07:05:24*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (37)
+## Acts (40)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -42,9 +42,12 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [07/2024] [National Hydrographic](data/acts/2024/2024-07)
 - [06/2024] [Notaries (Amendment)](data/acts/2024/2024-06)
 - [05/2024] [The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/acts/2024/2024-05)
+- [04/2024] [Prevention of Frauds (Amendment)](data/acts/2024/2024-04)
+- [03/2024] [Powers of Attorney (Amendment)](data/acts/2024/2024-03)
+- [02/2024] [Mediation Board (Amendment)](data/acts/2024/2024-02)
 - [01/2024] [Office of National Unity and Reconciliation](data/acts/2024/2024-01)
 
-## Bills (33)
+## Bills (36)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -79,3 +82,6 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [586/2025] [National Minimum Wage of Workers (Amendment) - GS](data/bills/2025/2025-586)
 - [585/2025] [Foreign Loans (Repeal) - Bill](data/bills/2025/2025-585)
 - [584/2025] [Sri Lanka Electricity (Amendment) - GS](data/bills/2025/2025-584)
+- [583/2025] [Tredzo Development Foundation (Incorporation) - GS](data/bills/2025/2025-583)
+- [582/2025] [Companies (Amendment) - GS](data/bills/2025/2025-582)
+- [580/2025] [Foreign Loans (Repeal) - GS](data/bills/2025/2025-580)

@@ -46,6 +46,7 @@ class ByYearPage(WebPage):
         try:
             is_hot = metadata.download_all()
             metadata.write()
+            metadata.write_readme()
             return is_hot
         except Exception as e:
             log.error(f"❌ Error downloading {metadata.doc_num}: {e}")

@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import JSONFile, Log
+from utils import File, JSONFile, Log
 
 from lld.www.common.WebPage import WebPage
 
@@ -62,6 +62,26 @@ class Metadata:
     def write(self):
         file_path = os.path.join(self.dir_data, "metadata.json")
         JSONFile(file_path).write(self.__dict__)
+        log.debug(f"Wrote {file_path}")
+
+    @property
+    def readme_lines(self):
+        return [
+            f"# [{self.doc_num}] {self.description}",
+            "",
+            f"**Date:** {self.date}",
+            "",
+            "## Original Sources",
+            "",
+            f"- [English]({self.source_url_en})",
+            f"- [Sinhala]({self.source_url_si})",
+            f"- [Tamil]({self.source_url_ta})",
+        ]
+
+    def write_readme(self):
+        readme_path = os.path.join(self.dir_data, "README.md")
+        File(readme_path).write_lines(self.readme_lines)
+        log.debug(f"Wrote {readme_path}")
 
     @classmethod
     def get_metadata_file_path_lists(cls):
