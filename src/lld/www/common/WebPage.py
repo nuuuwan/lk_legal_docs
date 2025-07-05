@@ -20,7 +20,7 @@ class WebPage:
 
     @cached_property
     def content(self):
-        response = requests.get(self.url)
+        response = requests.get(self.url, timeout=WebPage.T_TIMEOUT)
         log.debug(f"🌐 [{response.status_code}] {self.url}")
         response.raise_for_status()
         return response.text
