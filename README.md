@@ -1,10 +1,10 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last updated 2025-07-05 08:02:28*.
+*Last updated 2025-07-05 08:27:16*.
 
 Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [documents.gov.lk](https://documents.gov.lk).
 
-## Acts (62)
+## Acts (72)
 
 - [08/2025] [National Transport Commission (Amendment)](data/acts/2025/2025-08)
 - [07/2025] [Code of Criminal Procedure (Amendment)](data/acts/2025/2025-07)
@@ -67,9 +67,19 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [16/2023] [Central Bank of Sri Lanka](data/acts/2023/2023-16)
 - [15/2023] [Social Security Contribution Levy (Amendment)](data/acts/2023/2023-15)
 - [14/2023] [Inland Revenue (Amendment)](data/acts/2023/2023-14)
+- [13/2023] [Sri Lanka Institute of Taxation (Incorporation) (Amendment)](data/acts/2023/2023-13)
+- [12/2023] [Appropriation (Amendment)](data/acts/2023/2023-12)
 - [11/2023] [Betting and Gaming Levy (Amendment)](data/acts/2023/2023-11)
+- [10/2023] [Assistance to and Protection of Victims of Crime and Witnesses](data/acts/2023/2023-10)
+- [09/2023] [Anti-Corruption](data/acts/2023/2023-09)
+- [08/2023] [Carriage by Air (Amendment)](data/acts/2023/2023-08)
+- [07/2023] [Civil Procedure Code (Amendment)](data/acts/2023/2023-07)
+- [06/2023] [Parliamentary Budget Office](data/acts/2023/2023-06)
+- [05/2023] [Rathanatissa Peace Foundation (Incorporation)](data/acts/2023/2023-05)
+- [04/2023] [Inland Revenue (Amendment)](data/acts/2023/2023-04)
+- [02/2023] [Bureau of Rehabilitation](data/acts/2023/2023-02)
 
-## Bills (57)
+## Bills (67)
 
 - [617/2025] [Land Development (Amendment) - GS](data/bills/2025/2025-617)
 - [616/2025] [Mediation (Civil and Commercial Disputes) - GS](data/bills/2025/2025-616)
@@ -124,7 +134,17 @@ Legal Gazettes, Extra-Gazettes, Acts, Bills and other documents scraped from [do
 - [566/2025] [Local Authorities Elections (Special Provisions) - Bill](data/bills/2025/2025-566)
 - [565/2025] [Local Authorities Elections (Special Provisions) - GS](data/bills/2025/2025-565)
 - [560/2025] [Value Added Tax (Amendment) - GS](data/bills/2025/2025-560)
+- [565/2024] [NATIONAL TRANSPORT COMMISSION - Bill](data/bills/2024/2024-565)
 - [564/2024] [Commission for Truth, Unity, and Reconciliation in Sri Lanka -  Bill](data/bills/2024/2024-564)
 - [563/2024] [Companies (Amendment) - Bill](data/bills/2024/2024-563)
 - [560/2024] [National Land Commission - Bill](data/bills/2024/2024-560)
+- [556/2024] [Penal Code (Amendment) - Bill](data/bills/2024/2024-556)
+- [555/2024] [Rent (Repeal) - Bill](data/bills/2024/2024-555)
+- [554/2024] [Public Assets Management - Bill](data/bills/2024/2024-554)
+- [553/2024] [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill](data/bills/2024/2024-553)
+- [552/2024] [Bills of Exchange (Amendment) - Bill](data/bills/2024/2024-552)
 - [551/2024] [National Building Research Institute - GS](data/bills/2024/2024-551)
+- [550/2024] [Code of Criminal Procedure (Amendment) - Bill](data/bills/2024/2024-550)
+- [549/2024] [National Transport Commission (Amendment) - GS](data/bills/2024/2024-549)
+- [548/2024] [Tredzo Development Foundation (Incorporation) - GS](data/bills/2024/2024-548)
+- [547/2024] [Jagath Kumara Sisu Nena Foundation (Incorporation) - GS](data/bills/2024/2024-547)
