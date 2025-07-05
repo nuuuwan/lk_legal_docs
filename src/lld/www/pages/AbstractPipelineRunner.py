@@ -16,7 +16,7 @@ class AbstractPipelineRunner:
         try:
             is_hot = doc.download_all()
             doc.write()
-            doc.write_readme()
+            doc.write_readme(force=True)
             doc.extract_text()
             return is_hot
         except Exception as e:
