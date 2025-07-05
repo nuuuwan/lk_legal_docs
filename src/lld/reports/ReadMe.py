@@ -10,7 +10,6 @@ log = Log("ReadMe")
 
 class ReadMe:
     PATH = "README.md"
-    N_DISPLAY_DOCS = 1_000
 
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
