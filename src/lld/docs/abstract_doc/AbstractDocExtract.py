@@ -7,8 +7,14 @@ log = Log("AbstractDocExtract")
 
 
 class AbstractDocExtract:
+    LANGS = ["en", "si", "ta"]
+
     def extract_text(self):
-        pdf_path = self.get_pdf_path("en")
+        for lang in AbstractDocExtract.LANGS:
+            self.__extract_text_for_lang__(lang)
+
+    def __extract_text_for_lang__(self, lang):
+        pdf_path = self.get_pdf_path(lang)
         assert os.path.exists(pdf_path)
         txt_path = pdf_path[:-4] + ".txt"
 
