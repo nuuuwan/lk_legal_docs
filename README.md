@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**420** documents (**208MB**) as of **2025-07-05 18:31:06**.
+**424** documents (**211MB**) as of **2025-07-05 18:43:40**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -299,6 +299,8 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - 🚨 2025-06-06 [Election Commission - Declared the Names of Returned Members Elected for each Local Authority Indicated Additional to the Names Published in the Gazette Extraordinary.](data/extra-gazettes/2025/2439-65) [2439/65]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
 - ✍️ 2025-06-05 [Provincial Councils Elections (Amendment) - Bill](data/bills/2025/605-2025) [605/2025]
+- 🚨 2025-06-05 [Land Aquisition - Gangodawila, Maharagama D/S Division, Colombo District, Land Aquisition - Correction Paper, Ex. Gazette No. 2420/51 dated 22.01.2025 Sec.39 (a)(1)](data/extra-gazettes/2025/2439-62) [2439/62]
+- 🚨 2025-06-05 [Land Aquisition - Thumbowila, Kesbewa D/S Division, Colombo District, Land Aquisition - Werahera South, Kesbewa D/S Division, Colombo District Sec.39 (a)(1)](data/extra-gazettes/2025/2439-61) [2439/61]
 - 🚨 2025-06-05 [Kuruwita Pradeshiya Sabha- Names of Road Lanes](data/extra-gazettes/2025/2439-60) [2439/60]
 - 🚨 2025-06-05 [Land Aquisition - Koralaima, Horana D/S Division, Kalutara District-  Sec. 33](data/extra-gazettes/2025/2439-59) [2439/59]
 - 🚨 2025-06-05 [Dept. of Wild Life Conservation - The Fauna and Flora Protection Oridinance (Chapter 469) Limits of the Area of Land Comprising the Nikkandupola Sanctuary](data/extra-gazettes/2025/2439-58) [2439/58]
@@ -413,6 +415,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-07-30 [Kodhagoda Gunarathana Nahimi Foundation - (Incorporation) - GS](data/bills/2024/536-2024) [536/2024]
 - ✍️ 2024-07-29 [Sri Lanka Optometric Association (Incorporation) - GS](data/bills/2024/534-2024) [534/2024]
 - ✍️ 2024-07-26 [Primary CourtÃ¢â¬â¢s Procedure (Amendment) - GS](data/bills/2024/531-2024) [531/2024]
+- ✍️ 2024-07-23 [Penal Code (Amendment) - Bill](data/bills/2024/530-2024) [530/2024]
 - ✍️ 2024-07-23 [Anti-Dumping and Countervailing Duties (Amendment) - Bill](data/bills/2024/529-2024) [529/2024]
 - ✍️ 2024-07-23 [International Traditional Sihelogy Council (ITSC) (Incorporation) - GS](data/bills/2024/528-2024) [528/2024]
 
@@ -541,6 +544,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 
 - 🏛️ 2022-11-30 [Appropriation (Amendment)](data/acts/2022/42-2022) [42/2022]
 - 🏛️ 2022-11-23 [Poisons, Opium and Dangerous Drugs (Amendment)](data/acts/2022/41-2022) [41/2022]
+- 🏛️ 2022-11-17 [Dangerous Animals (Amendment)](data/acts/2022/40-2022) [40/2022]
 - 🏛️ 2022-11-17 [Children and Young Persons (Amendment)](data/acts/2022/39-2022) [39/2022]
 - 🏛️ 2022-11-17 [Code of Criminal Procedure (Amendment)](data/acts/2022/38-2022) [38/2022]
 - 🏛️ 2022-11-17 [Kandyan Marriage and Divorce (Amendment)](data/acts/2022/37-2022) [37/2022]
