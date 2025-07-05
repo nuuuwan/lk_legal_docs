@@ -4,7 +4,7 @@ from utils import Log
 
 from lld.www.common.WebPage import WebPage
 
-log = Log('ByYearPage')
+log = Log("ByYearPage")
 
 
 class ByYearPage(WebPage):
@@ -48,14 +48,18 @@ class ByYearPage(WebPage):
             metadata_list = for_year_page.get_metadata_list()
             for metadata in metadata_list:
                 if n_hot >= max_n_hot:
-                    log.info(f'🛑 Downloaded {n_hot} new acts.')
+                    log.info(f"🛑 Downloaded {n_hot} new acts.")
                     return
 
-                is_hot = metadata.download_all()
-                logger = log.info if is_hot else log.debug
-                emoji = '🟢' if is_hot else '⚪️'
-                logger(f'{emoji} {n_hot}/{max_n_hot}) {metadata.doc_num}')
-                metadata.write()
+                try:
+                    is_hot = metadata.download_all()
+                    logger = log.info if is_hot else log.debug
+                    emoji = "🟢" if is_hot else "⚪️"
+                    logger(f"{emoji} {n_hot}/{max_n_hot}) {metadata.doc_num}")
+                    metadata.write()
+                except Exception as e:
+                    log.error(f"❌ Error downloading {metadata.doc_num}: {e}")
+
                 n += 1
                 if is_hot:
                     n_hot += 1
