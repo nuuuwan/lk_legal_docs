@@ -2,7 +2,7 @@ import re
 
 from utils import Log
 
-from lld.docs import GazetteDoc
+from lld.docs.custom_docs.gazette.GazetteDoc import GazetteDoc
 from lld.www.common import WebPage
 
 log = Log("GazettePages")
