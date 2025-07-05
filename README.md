@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-**385** documents (**188MB**) as of **2025-07-05 17:34:15**.
+**385** documents (**190MB**) as of **2025-07-05 18:16:53**.
 
 A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [documents.gov.lk](https://documents.gov.lk).
 
@@ -41,11 +41,8 @@ A collection of Gazettes, Extra Gazettes, Acts, Bills and more, scraped from [do
 - 🚨 2025-07-04 [Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S](data/extra-gazettes/2025/2443-60) [2443/60]
 - 🚨 2025-07-04 [Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province](data/extra-gazettes/2025/2443-58) [2443/58]
 - 🚨 2025-07-04 [Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC](data/extra-gazettes/2025/2443-57) [2443/57]
-- 📢 2025-07-04 [Quarterly Book Statement](data/gazettes/2025/2025-07-04-quarterly-book-statement) [2025-07-04-quarterly-book-statement]
-- 📢 2025-07-04 [List of Jurors](data/gazettes/2025/2025-07-04-list-of-jurors) [2025-07-04-list-of-jurors]
 - 📢 2025-07-04 [Legal Section](data/gazettes/2025/2025-07-04-legal-section) [2025-07-04-legal-section]
 - 📢 2025-07-04 [Land Section](data/gazettes/2025/2025-07-04-land-section) [2025-07-04-land-section]
-- 📢 2025-07-04 [IV (B) - Local Government](data/gazettes/2025/2025-07-04-iv-b-local-government) [2025-07-04-iv-b-local-government]
 - 📢 2025-07-04 [IV (A) - Provincial Councils](data/gazettes/2025/2025-07-04-iv-a-provincial-councils) [2025-07-04-iv-a-provincial-councils]
 - 📢 2025-07-04 [(III) - TRADE MARKS AND PATENT NOTICES](data/gazettes/2025/2025-07-04-iii-trade-marks-and-patent-notices) [2025-07-04-iii-trade-marks-and-patent-notices]
 - 📢 2025-07-04 [(IIB) - Advertising](data/gazettes/2025/2025-07-04-iib-advertising) [2025-07-04-iib-advertising]
@@ -290,6 +287,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2025-06-06 [National Photographic Art Society of Sri Lanka (Incorporation) - GS](data/bills/2025/610-2025) [610/2025]
 - ✍️ 2025-06-06 [Tredzo Development Foundation (Incorporation) - Bill](data/bills/2025/609-2025) [609/2025]
 - ✍️ 2025-06-06 [Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill](data/bills/2025/608-2025) [608/2025]
+- 🚨 2025-06-06 [Public Service Commission of Provincial Council- Minute of the Central Provincial Management Service Officers Service- Amendment No.4](data/extra-gazettes/2025/2439-67) [2439/67]
 - 🚨 2025-06-06 [Land Aquisition - Naththambura, Rabukkana D/S Division, Kegalle District, Land Aquisition - Parape, Rabukkana D/S Division, Kegalle District Sec.39 (a)](data/extra-gazettes/2025/2439-66) [2439/66]
 - 🚨 2025-06-06 [Election Commission - Declared the Names of Returned Members Elected for each Local Authority Indicated Additional to the Names Published in the Gazette Extraordinary.](data/extra-gazettes/2025/2439-65) [2439/65]
 - ✍️ 2025-06-05 [Companies (Amendment) - Bill](data/bills/2025/606-2025) [606/2025]
@@ -387,6 +385,7 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 - ✍️ 2024-08-13 [Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS](data/bills/2024/545-2024) [545/2024]
 - ✍️ 2024-08-08 [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - Bill](data/bills/2024/544-2024) [544/2024]
 - ✍️ 2024-08-08 [Online Safety (Amendment) - Bill](data/bills/2024/543-2024) [543/2024]
+- ✍️ 2024-08-06 [International Traditional Sihelogy Council (ITSC) (Incorporation) - Bill](data/bills/2024/542-2024) [542/2024]
 - ✍️ 2024-08-06 [Companies (Amendment) -  GS](data/bills/2024/541-2024) [541/2024]
 
 #### 2024-06
@@ -507,3 +506,4 @@ Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anura
 #### 2022-12
 
 - 🏛️ 2022-12-19 [Inland Revenue (Amendment)](data/acts/2022/45-2022) [45/2022]
+- 🏛️ 2022-12-14 [Value Added Tax (Amendment)](data/acts/2022/44-2022) [44/2022]
