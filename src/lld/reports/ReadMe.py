@@ -81,7 +81,7 @@ class ReadMe:
                 + " Lawyers & law students,"
                 + " Policy watchers & Citizens who want to stay informed",
                 "",
-                "#SriLanka #Legal #OpenData #GovTech",
+                "#Legal #OpenData #GovTech",
                 "",
             ]
             + self.get_lines_coverage_chart()
