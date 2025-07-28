@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-29 00:25:53**.*
+*Last Updated **2025-07-29 00:32:40**.*
 
-**44,143** documents (41.0 MB), from 1981-01-22 to 2025-07-25.
+**44,145** documents (41.0 MB), from 1981-01-22 to 2025-07-28.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 89,917 PDFs (34.0 GB) for **31,895** documents (72.3%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 90,039 PDFs (34.0 GB) for **31,937** documents (72.3%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,851 | 2010-01-01 | 2025-07-25 |
+| 🚨 Extraordinary Gazettes | 34,853 | 2010-01-01 | 2025-07-28 |
 | 📢 Gazettes | 6,289 | 2006-03-03 | 2025-07-25 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
@@ -45,8 +45,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**17** Documents
+**19** Documents
 
+- 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
 - 🚨 [2025-07-25] [Presidential Secretariat - Order Call Out All the member of the Armed Forces](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-52)
 - 📢 [2025-07-25] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-legal-section)
 - 📢 [2025-07-25] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-land-section)
@@ -54,6 +55,7 @@ For best results, use a desktop browser.
 - 📢 [2025-07-25] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-iib-advertising)
 - 📢 [2025-07-25] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-iia-advertising)
 - 📢 [2025-07-25] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-i-general)
+- 🚨 [2025-07-24] [District Secretariat - Vavuniya, Periyakadu St. Antony's Church Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-51)
 - 🚨 [2025-07-23] [Telecommunications Regulatory Commission of Sri Lanka - Sri Lanka Telecommunication Act, No 25 of 1991 Amended Provider License Rules under Section 17 B](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-42)
 - 🏛️ [2025-07-23] [National Minimum Wage of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/11-2025)
 - 🏛️ [2025-07-23] [Budgetary Relief Allowance of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/10-2025)
