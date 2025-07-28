@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-28 18:06:02**.*
+*Last Updated **2025-07-28 18:30:44**.*
 
-**44,119** documents (40.9 MB), from 1981-01-22 to 2025-07-25.
+**44,143** documents (41.0 MB), from 1981-01-22 to 2025-07-25.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 88,918 PDFs (33.6 GB) for **31,547** documents (71.5%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 89,044 PDFs (33.7 GB) for **31,591** documents (71.6%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,827 | 2010-01-01 | 2025-07-25 |
+| 🚨 Extraordinary Gazettes | 34,851 | 2010-01-01 | 2025-07-25 |
 | 📢 Gazettes | 6,289 | 2006-03-03 | 2025-07-25 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**17** Documents
 
 - 🚨 [2025-07-25] [Presidential Secretariat - Order Call Out All the member of the Armed Forces](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-52)
 - 📢 [2025-07-25] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-legal-section)
@@ -61,4 +61,6 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-22] [Universities Act, No. 16 of 1978 Order under Section 25A Degree Awarding Institute Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-36)
 - 🚨 [2025-07-22] [Department of Census and Statistics - National Consumer Price Index - June 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-35)
 - 🚨 [2025-07-21] [National Medicines Regulatory Authority - Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-34)
+- 🚨 [2025-07-21] [2446/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-26)
+- 🚨 [2025-07-21] [Department of Local Government - Eastern Province - Notice under Section 66(C) Summon the Meeting to the post of Chairman of the Manmunaipattu Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-04)
 - 🚨 [2025-07-21] [Sri Lanka Customs - Rates of Exchange with effect from 21.07.2025 to 27.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-01)
