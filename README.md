@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-29 16:05:13**.*
+*Last Updated **2025-07-29 16:28:48**.*
 
-**44,152** documents (41.0 MB), from 1981-01-22 to 2025-07-28.
+**44,154** documents (41.0 MB), from 1981-01-22 to 2025-07-28.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 92,085 PDFs (34.7 GB) for **32,642** documents (73.9%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 92,166 PDFs (34.7 GB) for **32,669** documents (74.0%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,860 | 2010-01-01 | 2025-07-28 |
+| 🚨 Extraordinary Gazettes | 34,862 | 2010-01-01 | 2025-07-28 |
 | 📢 Gazettes | 6,289 | 2006-03-03 | 2025-07-25 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
@@ -45,8 +45,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**16** Documents
 
+- 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-02)
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
 - 🚨 [2025-07-25] [Presidential Secretariat - Order Call Out All the member of the Armed Forces](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-52)
 - 📢 [2025-07-25] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-legal-section)
