@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-29 05:02:56**.*
+*Last Updated **2025-07-29 05:30:37**.*
 
 **44,145** documents (41.0 MB), from 1981-01-22 to 2025-07-28.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 90,342 PDFs (34.1 GB) for **32,039** documents (72.6%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 90,461 PDFs (34.1 GB) for **32,078** documents (72.7%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**19** Documents
+**15** Documents
 
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
 - 🚨 [2025-07-25] [Presidential Secretariat - Order Call Out All the member of the Armed Forces](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-52)
@@ -62,7 +62,3 @@ For best results, use a desktop browser.
 - 🏛️ [2025-07-23] [Budgetary Relief Allowance of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/09-2025)
 - 🚨 [2025-07-22] [Universities Act, No. 16 of 1978 Order under Section 25A Degree Awarding Institute Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-36)
 - 🚨 [2025-07-22] [Department of Census and Statistics - National Consumer Price Index - June 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-35)
-- 🚨 [2025-07-21] [National Medicines Regulatory Authority - Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-34)
-- 🚨 [2025-07-21] [2446/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-26)
-- 🚨 [2025-07-21] [Department of Local Government - Eastern Province - Notice under Section 66(C) Summon the Meeting to the post of Chairman of the Manmunaipattu Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-04)
-- 🚨 [2025-07-21] [Sri Lanka Customs - Rates of Exchange with effect from 21.07.2025 to 27.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-01)
