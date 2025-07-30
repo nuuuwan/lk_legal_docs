@@ -8,7 +8,7 @@ on:
         required: false
         default: "1"
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   data_scraper:
