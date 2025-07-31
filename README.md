@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-31 16:10:30**.*
+*Last Updated **2025-07-31 16:34:01**.*
 
-**44,164** documents (41.0 MB), from 1981-01-22 to 2025-07-30.
+**44,167** documents (41.0 MB), from 1981-01-22 to 2025-07-31.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 97,435 PDFs (36.6 GB) for **34,491** documents (78.1%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 97,632 PDFs (36.7 GB) for **34,562** documents (78.3%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,10 +28,10 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 | 🚨 Extraordinary Gazettes | 34,871 | 2010-01-01 | 2025-07-30 |
 | 📢 Gazettes | 6,290 | 2006-03-03 | 2025-07-25 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
-| ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
 
 ## Summary Charts
 
@@ -45,8 +45,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**13** Documents
 
+- ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/624-2025)
 - 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-28)
 - 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-02)
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
