@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-30 19:25:04**.*
+*Last Updated **2025-07-31 13:11:19**.*
 
-**44,157** documents (41.0 MB), from 1981-01-22 to 2025-07-28.
+**44,158** documents (41.0 MB), from 1981-01-22 to 2025-07-30.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 96,742 PDFs (36.3 GB) for **34,255** documents (77.6%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 97,005 PDFs (36.5 GB) for **34,346** documents (77.8%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,864 | 2010-01-01 | 2025-07-28 |
+| 🚨 Extraordinary Gazettes | 34,865 | 2010-01-01 | 2025-07-30 |
 | 📢 Gazettes | 6,290 | 2006-03-03 | 2025-07-25 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
@@ -45,8 +45,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**12** Documents
 
+- 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-28)
 - 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-02)
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
 - 🚨 [2025-07-25] [Presidential Secretariat - Order Call Out All the member of the Armed Forces](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-52)
@@ -58,7 +59,3 @@ For best results, use a desktop browser.
 - 📢 [2025-07-25] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-iia-advertising)
 - 📢 [2025-07-25] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-i-general)
 - 🚨 [2025-07-24] [District Secretariat - Vavuniya, Periyakadu St. Antony's Church Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-51)
-- 🚨 [2025-07-23] [Telecommunications Regulatory Commission of Sri Lanka - Sri Lanka Telecommunication Act, No 25 of 1991 Amended Provider License Rules under Section 17 B](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-42)
-- 🏛️ [2025-07-23] [National Minimum Wage of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/11-2025)
-- 🏛️ [2025-07-23] [Budgetary Relief Allowance of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/10-2025)
-- 🏛️ [2025-07-23] [Budgetary Relief Allowance of Workers (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/09-2025)
