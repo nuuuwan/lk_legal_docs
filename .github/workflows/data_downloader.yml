@@ -19,7 +19,13 @@ jobs:
         run: |
           echo "Disk space before cleanup:"
           df -h
-          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/share/boost
+          sudo rm -rf /usr/local/lib/node_modules
+          sudo rm -rf /opt/hostedtoolcache/CodeQL     
+          sudo docker system prune -af    
           sudo apt-get clean
           echo "Disk space after cleanup:"
           df -h
@@ -51,6 +57,8 @@ jobs:
           python -m pip install flake8 pytest
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install build
+          pip cache purge
+          rm -rf ~/.cache/pip
 
       - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
         run: |
@@ -63,6 +71,7 @@ jobs:
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
           python workflows/data_scraper.py ${{ github.event.inputs.max_delta_t }}
+          rm -rf __pycache__ */__pycache__
 
       - name: "⚙️ Run aggregate"
         run: |
@@ -73,6 +82,7 @@ jobs:
 
           git pull origin main --rebase
           python workflows/aggregate.py
+          rm -rf __pycache__ */__pycache__
 
       - name: "⬆️ Push lk_legal_docs"
         run: |
@@ -90,6 +100,7 @@ jobs:
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
+
           cd /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
