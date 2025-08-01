@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-01 05:29:18**.*
+*Last Updated **2025-08-01 05:46:33**.*
 
 **44,167** documents (41.0 MB), from 1981-01-22 to 2025-07-31.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 100,322 PDFs (37.6 GB) for **35,489** documents (80.4%) have been downloaded. Final data size is estimated to be ~47 GB.
+📄 Currently, 100,438 PDFs (37.7 GB) for **35,531** documents (80.4%) have been downloaded. Final data size is estimated to be ~47 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**12** Documents
 
 - ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/624-2025)
 - 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-28)
@@ -59,4 +59,3 @@ For best results, use a desktop browser.
 - 📢 [2025-07-25] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-iib-advertising)
 - 📢 [2025-07-25] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-iia-advertising)
 - 📢 [2025-07-25] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-25-i-general)
-- 🚨 [2025-07-24] [District Secretariat - Vavuniya, Periyakadu St. Antony's Church Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-51)
