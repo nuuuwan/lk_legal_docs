@@ -8,6 +8,7 @@ from utils import Log, Parallel
 from lld import AbstractDoc, DocFactory
 
 DEFAULT_MAX_DELTA_T = 18 * 60
+DECADE = "2020s"
 
 
 log = Log("data_downloader")
@@ -27,10 +28,11 @@ def get_worker(doc):
 
 def get_doc_list():
     doc_list = DocFactory.list_all()
+    doc_list_for_decade = [doc for doc in doc_list if doc.decade == DECADE]
     if random.random() < 0.5:
         log.info("🎲 Shuffling the document list.")
-        random.shuffle(doc_list)
-    return doc_list
+        random.shuffle(doc_list_for_decade)
+    return doc_list_for_decade
 
 
 def main(max_delta_t):
