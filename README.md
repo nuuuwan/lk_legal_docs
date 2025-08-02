@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-02 22:31:11**.*
+*Last Updated **2025-08-02 23:29:48**.*
 
-**44,203** documents (51.1 MB), from 1981-01-22 to 2025-08-01.
+**44,205** documents (51.1 MB), from 1981-01-22 to 2025-08-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,9 +26,9 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| 🚨 Extraordinary Gazettes | 34,900 | 2010-01-01 | 2025-08-01 |
 | 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
-| 🚨 Extraordinary Gazettes | 34,898 | 2010-01-01 | 2025-07-30 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 
 ## Summary Charts
@@ -43,8 +43,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**16** Documents
 
+- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-61)
+- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-52)
 - 📢 [2025-08-01] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-legal-section)
 - 📢 [2025-08-01] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-land-section)
 - 📢 [2025-08-01] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iv-b-local-government)
