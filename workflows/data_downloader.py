@@ -10,7 +10,7 @@ from lld import AbstractDoc, DocFactory
 DEFAULT_MAX_DELTA_T = 18 * 60
 
 
-log = Log("data_scraper")
+log = Log("data_downloader")
 N_BATCH = 8
 
 

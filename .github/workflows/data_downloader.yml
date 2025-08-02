@@ -1,4 +1,4 @@
-name: data_scraper
+name: data_downloader
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
   #   - cron: "*/20 * * * *"
 
 jobs:
-  data_scraper:
+  data_downloader:
     runs-on: ubuntu-latest
 
     steps:
@@ -64,13 +64,13 @@ jobs:
         run: |
           git clone --branch main --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
 
-      - name: "⚙️ Run data_scraper"
+      - name: "⚙️ Run data_downloader"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/data_scraper.py ${{ github.event.inputs.max_delta_t }}
+          python workflows/data_downloader.py ${{ github.event.inputs.max_delta_t }}
           rm -rf __pycache__ */__pycache__
 
       - name: "⚙️ Run aggregate"
@@ -91,7 +91,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [data_scraper.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [data_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
 
@@ -110,6 +110,6 @@ jobs:
             echo "No changes to commit in lk_legal_docs_data."
             exit 0
           fi
-          git commit -m "🤖 [data_scraper.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [data_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
