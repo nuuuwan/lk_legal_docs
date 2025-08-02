@@ -31,6 +31,12 @@
   },
   {
     "doc_type_name": "gazettes",
+    "id": "2025-08-01-iib-advertising",
+    "date": "2025-08-01",
+    "description": "(IIB) - Advertising"
+  },
+  {
+    "doc_type_name": "gazettes",
     "id": "2025-08-01-iia-advertising",
     "date": "2025-08-01",
     "description": "(IIA) - Advertising"
@@ -592,11 +598,5 @@
     "id": "2444-15",
     "date": "2025-07-08",
     "description": "Department of Local Government - Southern Province - Notice Under Section 66 C (4) Appointed Chairman and Vice Chairman for Weligama Pradeshiya Sabha"
-  },
-  {
-    "doc_type_name": "extra-gazettes",
-    "id": "2444-12",
-    "date": "2025-07-08",
-    "description": "2444/12"
   }
 ]
