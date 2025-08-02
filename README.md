@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-02 17:06:03**.*
+*Last Updated **2025-08-02 17:17:16**.*
 
-**44,200** documents (41.0 MB), from 1981-01-22 to 2025-08-01.
+**44,202** documents (41.0 MB), from 1981-01-22 to 2025-08-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 498 PDFs (0.2 GB) for **338** documents (0.8%) have been downloaded. Final data size is estimated to be ~29 GB.
+📄 Currently, 51,200 PDFs (21.0 GB) for **17,889** documents (40.5%) have been downloaded. Final data size is estimated to be ~52 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -30,7 +30,7 @@ For best results, use a desktop browser.
 | :-- | --: | :-- | :-- |
 | 📢 Gazettes | 6,298 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
-| 🚨 Extraordinary Gazettes | 34,896 | 2010-01-01 | 2025-07-30 |
+| 🚨 Extraordinary Gazettes | 34,898 | 2010-01-01 | 2025-07-30 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
 
 ## Summary Charts
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**11** Documents
+**13** Documents
 
 - 📢 [2025-08-01] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-legal-section)
 - 📢 [2025-08-01] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-land-section)
@@ -56,5 +56,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-01] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-i-general)
 - ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/624-2025)
 - 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-28)
+- 🚨 [2025-07-29] [Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-24)
 - 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-02)
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
+- 🚨 [2025-07-26] [Divisional Secretariat Pasgoda - Pilgrimages Ordinance Annual Religious Festival 2025 of Rotumba Pethgama Ancient Temple](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-55)
