@@ -15,32 +15,12 @@ class ReadMe(ReadMeDocs, ReadMeSummary):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
         self.max_date = max(dates)
         self.temp_data_summary = DocFactory.get_temp_data_summary()
-
-    def get_lines_for_temp_data(self):
-        n_pdfs = self.temp_data_summary["n_pdfs"]
-        n_docs_with_pdfs = self.temp_data_summary["n_docs_with_pdfs"]
-        total_file_size_g = (
-            self.temp_data_summary["total_file_size"] / 1_000_000_000.0
-        )
-        p_docs = n_docs_with_pdfs / self.n_docs
-        final_file_size_g = total_file_size_g / p_docs
-
-        return [
-            f"📄 Currently, {n_pdfs:,} PDFs ({total_file_size_g:.1f} GB)"
-            + f" for **{n_docs_with_pdfs:,}** documents ({p_docs:.1%})"
-            + " have been downloaded."
-            + " Final data size is estimated to be "
-            + f"~{final_file_size_g:.0f} GB.",
-            "",
-        ]
 
     def get_lines_for_app(self):
         return [
@@ -89,7 +69,6 @@ class ReadMe(ReadMeDocs, ReadMeSummary):
                 "#Legal #OpenData #GovTech",
                 "",
             ]
-            + self.get_lines_for_temp_data()
             + self.get_lines_for_app()
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
