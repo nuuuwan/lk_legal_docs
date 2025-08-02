@@ -38,6 +38,7 @@ def get_doc_list():
 def main(max_delta_t):
     log.debug(f"{max_delta_t=:,.1f}s")
     log.debug(f"{N_BATCH=}")
+    log.debug(f"{DECADE=}")
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     t_start = time.time()
