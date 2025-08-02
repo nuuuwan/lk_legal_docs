@@ -11,11 +11,11 @@ log = Log("DocFactory")
 
 
 class DocFactory:
-    DOCS_ALL_JSON_PATH = os.path.join(AbstractDoc.DIR_TEMP_DATA, "all.json")
+    DOCS_ALL_JSON_PATH = os.path.join(AbstractDoc.DIR_DATA, "all.json")
     N_LATEST = 100
 
     DOCS_LATEST_JSON_PATH = os.path.join(
-        AbstractDoc.DIR_TEMP_DATA, f"latest-{N_LATEST}.json"
+        AbstractDoc.DIR_DATA, f"latest-{N_LATEST}.json"
     )
 
     @staticmethod
