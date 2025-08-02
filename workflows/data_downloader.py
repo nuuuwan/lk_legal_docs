@@ -8,6 +8,7 @@ from lld import AbstractDoc, DocFactory
 
 log = Log("data_downloader")
 N_BATCH = 8
+DEFAULT_MAX_DELTA_T = 1_200
 
 
 def get_worker(doc):
@@ -28,6 +29,7 @@ def get_doc_list(decade):
 
 
 def main(max_delta_t, decade):
+    max_delta_t = max_delta_t or DEFAULT_MAX_DELTA_T
     log.debug(f"{max_delta_t=:,.1f}s")
     log.debug(f"{decade=}")
     log.debug(f"{N_BATCH=}")
@@ -67,8 +69,8 @@ def get_options():
     )
     parser.add_argument(
         "--max_delta_t",
-        type=int,
-        default=18 * 60,
+        type=str,
+        default="",
         help="Maximum time to run the downloader in seconds.",
     )
     parser.add_argument(
