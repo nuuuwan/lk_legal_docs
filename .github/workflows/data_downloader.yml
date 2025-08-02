@@ -76,9 +76,14 @@ jobs:
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
+          DECADE="${{ github.event.inputs.decade }}"
+          [ -z "$DECADE" ] && DECADE="2020s"
+          MAX_DELTA_T="${{ github.event.inputs.max_delta_t }}"
+          [ -z "$MAX_DELTA_T" ] && MAX_DELTA_T="1200"
+          echo "Running data_downloader with max_delta_t=$MAX_DELTA_T and decade=$DECADE"
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/data_downloader.py --max_delta_t "${{ github.event.inputs.max_delta_t }}" --decade "${{ github.event.inputs.decade }}"
+          python workflows/data_downloader.py --max_delta_t $MAX_DELTA_T --decade $DECADE
           rm -rf __pycache__ */__pycache__
 
       - name: "🧪Check disk usage"
