@@ -3,7 +3,7 @@ name: aggregate
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "55 * * * *"
 
 jobs:
   aggregate:
