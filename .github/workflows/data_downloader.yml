@@ -7,6 +7,10 @@ on:
         description: "max_delta_t"
         required: false
         default: "1"
+      decade:
+        description: "decade"
+        required: false
+        default: "2020s"
   schedule:
     - cron: "*/20 * * * *"
 
@@ -72,7 +76,7 @@ jobs:
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/data_downloader.py ${{ github.event.inputs.max_delta_t }}
+          python workflows/data_downloader.py --max-delta-t "${{ github.event.inputs.max_delta_t }}" --decade "${{ github.event.inputs.decade }}"
           rm -rf __pycache__ */__pycache__
 
       - name: "⚙️ Run aggregate"

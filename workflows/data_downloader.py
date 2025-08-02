@@ -1,15 +1,11 @@
+import argparse
 import os
 import random
-import sys
 import time
 
 from utils import Log, Parallel
 
 from lld import AbstractDoc, DocFactory
-
-DEFAULT_MAX_DELTA_T = 18 * 60
-DECADE = "2020s"
-
 
 log = Log("data_downloader")
 N_BATCH = 8
@@ -26,23 +22,23 @@ def get_worker(doc):
     return worker
 
 
-def get_doc_list():
+def get_doc_list(decade):
     doc_list = DocFactory.list_all()
-    doc_list_for_decade = [doc for doc in doc_list if doc.decade == DECADE]
+    doc_list_for_decade = [doc for doc in doc_list if doc.decade == decade]
     if random.random() < 0.5:
         log.info("🎲 Shuffling the document list.")
         random.shuffle(doc_list_for_decade)
     return doc_list_for_decade
 
 
-def main(max_delta_t):
+def main(max_delta_t, decade):
     log.debug(f"{max_delta_t=:,.1f}s")
+    log.debug(f"{decade=}")
     log.debug(f"{N_BATCH=}")
-    log.debug(f"{DECADE=}")
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     t_start = time.time()
-    doc_list = get_doc_list()
+    doc_list = get_doc_list(decade)
     n_doc_list = len(doc_list)
     log.debug(f"{n_doc_list=:,}")
 
@@ -69,9 +65,26 @@ def main(max_delta_t):
     log.info("⛔️🛑 Downloaded ALL pdfs.")
 
 
-if __name__ == "__main__":
-    main(
-        max_delta_t=(
-            int(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_MAX_DELTA_T
-        )
+def get_options():
+    parser = argparse.ArgumentParser(
+        description="Download all data for the lk_legal_docs project."
     )
+    parser.add_argument(
+        "--max_delta_t",
+        type=int,
+        default=18 * 60,
+        help="Maximum time to run the downloader in seconds.",
+    )
+    parser.add_argument(
+        "--decade",
+        type=str,
+        default="2020s",
+        help="Decade to download data for.",
+    )
+
+    return parser.parse_args()
+
+
+if __name__ == "__main__":
+    options = get_options()
+    main(max_delta_t=options.max_delta_t, decade=options.decade)
