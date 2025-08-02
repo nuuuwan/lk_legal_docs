@@ -18,19 +18,6 @@ jobs:
         decade: ["1980s", "1990s", "2000s", "2010s", "2020s"]
 
     steps:
-      - name: "🧹 Free up disk space"
-        run: |
-          echo "Disk space before cleanup:"
-          df -h
-          sudo rm -rf /usr/share/dotnet
-          sudo rm -rf /usr/local/lib/android
-          sudo rm -rf /opt/ghc
-          sudo rm -rf /usr/local/share/boost
-          sudo rm -rf /usr/local/lib/node_modules
-          sudo rm -rf /opt/hostedtoolcache/CodeQL     
-          sudo docker system prune -af    
-          sudo apt-get
-
       - name: "⬇️ Checkout lk_legal_docs"
         uses: actions/checkout@v4
         with:
@@ -80,9 +67,6 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
           python workflows/data_downloader.py --max_delta_t $MAX_DELTA_T --decade ${{ matrix.decade }}
-
-      - name: "🧪Check disk usage"
-        run: df -h
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
