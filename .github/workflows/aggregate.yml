@@ -1,0 +1,58 @@
+name: aggregate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 * * * *"
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "⬇️ Checkout lk_legal_docs"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+
+      - name: "🐍 Set up Python"
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: "🐍 Cache pip dependencies"
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-
+
+      - name: "🐍 Install dependencies"
+        run: |
+          sudo apt update
+          sudo apt install ghostscript
+          python -m pip install --upgrade pip
+          python -m pip install flake8 pytest
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install build
+
+      - name: "⚙️ Run aggregate"
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          python workflows/aggregate.py ${{ github.event.inputs.max_delta_t }}
+
+      - name: "⬆️ Push lk_legal_docs"
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [aggregate.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin main --rebase
+          git push origin main

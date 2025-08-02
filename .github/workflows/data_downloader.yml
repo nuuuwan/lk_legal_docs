@@ -81,28 +81,6 @@ jobs:
           python workflows/data_downloader.py --max_delta_t "${{ github.event.inputs.max_delta_t }}" --decade "${{ github.event.inputs.decade }}"
           rm -rf __pycache__ */__pycache__
 
-      - name: "⚙️ Run aggregate"
-        run: |
-          export PYTHONPATH="$PYTHONPATH:./src"
-
-          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
-          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-
-          git pull origin main --rebase
-          python workflows/aggregate.py
-          rm -rf __pycache__ */__pycache__
-
-      - name: "⬆️ Push lk_legal_docs"
-        run: |
-          git add .
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "🤖 [data_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin main --rebase
-          git push origin main
-
       - name: "🧪Check disk usage"
         run: df -h
 
