@@ -7,8 +7,8 @@ on:
         description: "max_delta_t"
         required: false
         default: "1"
-  schedule:
-    - cron: "*/20 * * * *"
+  # schedule:
+  #   - cron: "*/20 * * * *"
 
 jobs:
   data_scraper:
