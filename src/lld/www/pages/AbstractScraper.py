@@ -30,10 +30,8 @@ class AbstractScraper:
 
     def run_metadata_scraper(self, max_delta_t, traverse_random):
         log.debug("-" * 80)
-        log.info(
-            f'🤖 Running metadata_scraper for "{
-                self.get_metadata_scraper_name()}".'
-        )
+        scraper_name = self.get_metadata_scraper_name()
+        log.info(f'🤖 Running metadata_scraper for "{scraper_name}".')
         n_hot = 0
         t_start = time.time()
         for doc in self.gen_docs(traverse_random):
