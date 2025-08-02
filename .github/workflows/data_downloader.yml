@@ -66,7 +66,8 @@ jobs:
 
       - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
         run: |
-          DECADE="${{ github.event.inputs.decade }}" || DECADE="2020s"
+          DECADE="${{ github.event.inputs.decade }}"
+          [ -z "$DECADE" ] && DECADE="2020s"
           BRANCH="data_${DECADE}"
           echo "BRANCH=$BRANCH"
           git clone --branch $BRANCH --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
@@ -107,7 +108,8 @@ jobs:
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
-          DECADE="${{ github.event.inputs.decade }}" || DECADE="2020s"
+          DECADE="${{ github.event.inputs.decade }}"
+          [ -z "$DECADE" ] && DECADE="2020s"
           BRANCH="data_${DECADE}"
           cd /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
