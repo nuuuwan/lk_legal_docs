@@ -69,7 +69,7 @@ def cleanup_legacy():
 
 def build_summary(decade):
     cleanup_legacy()
-    DocFactory.write_all()
+    DocFactory.write_all(decade)
     DocFactory.write_temp_data_summary(decade)
 
 

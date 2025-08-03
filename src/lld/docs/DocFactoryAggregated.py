@@ -22,8 +22,13 @@ class DocFactoryAggregated:
     )
 
     @classmethod
-    def write_all(cls):
+    def list_all_for_decade(cls, decade):
         doc_list = cls.list_all()
+        return [doc for doc in doc_list if doc.decade == decade]
+
+    @classmethod
+    def write_all(cls, decade):
+        doc_list = cls.list_all_for_decade(decade)
         data_list = [doc.to_minimal_dict() for doc in doc_list]
 
         for json_file_path, n in [
@@ -39,9 +44,9 @@ class DocFactoryAggregated:
 
     @classmethod
     def get_temp_data_summary(cls, decade):
-        doc_list = cls.list_all()
+        doc_list = cls.list_all_for_decade(decade)
         temp_data_summary = dict(
-            n_docs=len([d for d in doc_list if d.decade == decade]),
+            n_docs=len(doc_list),
             n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
             n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,

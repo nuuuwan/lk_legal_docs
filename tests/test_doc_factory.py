@@ -12,7 +12,7 @@ class TestCase(unittest.TestCase):
 
     def test_write_all(self):
         shutil.rmtree(DocFactory.DOCS_ALL_JSON_PATH, ignore_errors=True)
-        DocFactory.write_all()
+        DocFactory.write_all("2020s")
         self.assertTrue(os.path.exists(DocFactory.DOCS_ALL_JSON_PATH))
 
     def test_list_all_first_doc(self):
