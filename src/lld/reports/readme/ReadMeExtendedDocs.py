@@ -68,7 +68,7 @@ class ReadMeExtendedDocs:
                 decade=json_data["decade"],
                 n_docs=f"{n_docs:,}",
                 n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
-                p_progress=f"{p_progress:.1%}{complete_emoji}",
+                p_progress=f"{complete_emoji}{p_progress:.1%}",
                 n_pdfs=f'{json_data["n_pdfs"]:,}',
                 total_file_size_g=f"{total_file_size_g:,.2f} GB",
             )
