@@ -1,5 +1,6 @@
 import argparse
 import os
+import random
 import time
 from multiprocessing import Pool, cpu_count
 
@@ -21,6 +22,8 @@ def worker(doc):
 def get_doc_list(decade):
     doc_list = DocFactory.list_all()
     doc_list_for_decade = [doc for doc in doc_list if doc.decade == decade]
+    if random.random() < 0.5:
+        random.shuffle(doc_list_for_decade)
     return doc_list_for_decade
 
 
