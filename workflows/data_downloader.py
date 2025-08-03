@@ -67,10 +67,10 @@ def cleanup_legacy():
             log.debug(f"Removed legacy file: {file_path}")
 
 
-def build_summary():
+def build_summary(decade):
     cleanup_legacy()
     DocFactory.write_all()
-    DocFactory.write_temp_data_summary()
+    DocFactory.write_temp_data_summary(decade)
 
 
 def main(max_delta_t, decade):
@@ -80,7 +80,7 @@ def main(max_delta_t, decade):
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     download(max_delta_t, decade)
-    build_summary()
+    build_summary(decade)
 
 
 def get_options():

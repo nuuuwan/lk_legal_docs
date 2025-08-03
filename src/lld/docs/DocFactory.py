@@ -104,10 +104,10 @@ class DocFactory:
             log.debug(f"Wrote {json_file_path} ({file_size_k:,.0f} KB)")
 
     @staticmethod
-    def get_temp_data_summary():
+    def get_temp_data_summary(decade):
         doc_list = DocFactory.list_all()
         temp_data_summary = dict(
-            n_docs=len(doc_list),
+            n_docs=len([d for d in doc_list if d.decade == decade]),
             n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
             n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
@@ -116,8 +116,8 @@ class DocFactory:
         return temp_data_summary
 
     @staticmethod
-    def write_temp_data_summary():
-        temp_data_summary = DocFactory.get_temp_data_summary()
+    def write_temp_data_summary(decade):
+        temp_data_summary = DocFactory.get_temp_data_summary(decade)
         json_file_path = DocFactory.DOCS_TEMP_DATA_SUMMARY_JSON_PATH
         JSONFile(json_file_path).write(temp_data_summary)
         log.debug(f"Wrote {json_file_path} ({temp_data_summary})")
