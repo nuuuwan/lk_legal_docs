@@ -21,7 +21,6 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeExtendedDocs):
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
         self.max_date = max(dates)
-        self.temp_data_summary = DocFactory.get_temp_data_summary()
 
     def get_lines_for_app(self):
         return [
@@ -70,9 +69,9 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeExtendedDocs):
                 "#Legal #OpenData #GovTech",
                 "",
             ]
-            + self.get_lines_for_extended_docs()
             + self.get_lines_for_app()
             + self.get_lines_summary_statistics()
+            + self.get_lines_for_extended_docs()
             + self.get_lines_summary_charts()
             + self.get_lines_for_recent_docs()
         )

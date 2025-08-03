@@ -51,6 +51,13 @@ class DocFactory(DocFactoryAggregated):
         return file_path_lists
 
     @staticmethod
+    def get_total_data_size():
+        total_size = 0
+        for file_path in DocFactory.__get_metadata_file_path_lists__():
+            total_size += os.path.getsize(file_path)
+        return total_size
+
+    @staticmethod
     @cache
     def list_all():
         doc_list = []

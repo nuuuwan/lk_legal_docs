@@ -3,9 +3,15 @@ from functools import cached_property
 
 class AbstractDocRemoteData:
     @cached_property
+    def remote_branch(self):
+        return f"data_{self.decade}"
+
+    @cached_property
     def remote_data_url(self):
         return (
-            "https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data"
+            "https://github.com"
+            + "/nuuuwan/lk_legal_docs_data"
+            + f"/tree/{self.remote_branch}/data"
             + f"/{self.get_doc_type_name()}/{self.year}/{self.id}"
         )
 
