@@ -121,7 +121,7 @@ class ReadMeExtendedDocs:
     def get_lines_for_extended_docs(self):
         return (
             [
-                "## Extended Data",
+                "## Summary of Extended Data",
                 "",
             ]
             + self.get_lines_for_extended_data_table()
