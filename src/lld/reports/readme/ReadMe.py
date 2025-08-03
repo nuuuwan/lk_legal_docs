@@ -2,22 +2,21 @@ from utils import File, Log, Time, TimeFormat
 
 from lld.docs import DocFactory
 from lld.reports.readme.ReadMeDocs import ReadMeDocs
+from lld.reports.readme.ReadMeExtendedDocs import ReadMeExtendedDocs
 from lld.reports.readme.ReadMeSummary import ReadMeSummary
 from lld.www_common import WebPage
 
 log = Log("ReadMe")
 
 
-class ReadMe(ReadMeDocs, ReadMeSummary):
+class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeExtendedDocs):
     PATH = "README.md"
 
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -71,6 +70,7 @@ class ReadMe(ReadMeDocs, ReadMeSummary):
                 "#Legal #OpenData #GovTech",
                 "",
             ]
+            + self.get_lines_for_extended_docs()
             + self.get_lines_for_app()
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
