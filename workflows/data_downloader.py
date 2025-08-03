@@ -69,7 +69,6 @@ def cleanup_legacy():
 
 
 def build_summary(decade):
-    cleanup_legacy()
     DocFactory.write_all(decade)
     DocFactory.write_temp_data_summary(decade)
 
@@ -80,6 +79,7 @@ def main(max_delta_t, decade):
     log.debug(f"{N_BATCH=}")
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
+    cleanup_legacy()
     download(max_delta_t, decade)
     build_summary(decade)
 
