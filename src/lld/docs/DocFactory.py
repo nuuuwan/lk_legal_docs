@@ -17,6 +17,9 @@ class DocFactory:
     DOCS_LATEST_JSON_PATH = os.path.join(
         AbstractDoc.DIR_DATA, f"latest-{N_LATEST}.json"
     )
+    DOCS_TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
+        AbstractDoc.DIR_TEMP_DATA, "temp_data_summary.json"
+    )
 
     @staticmethod
     def cls_list_all():
@@ -85,19 +88,6 @@ class DocFactory:
         return Directory(AbstractDoc.DIR_DATA).size
 
     @staticmethod
-    @cache
-    def get_temp_data_summary():
-        doc_list = DocFactory.list_all()
-        temp_data_summary = dict(
-            n_docs=len(doc_list),
-            n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
-            n_pdfs=sum(d.n_pdfs for d in doc_list),
-            total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
-        )
-        log.debug(f"{temp_data_summary=}")
-        return temp_data_summary
-
-    @staticmethod
     def write_all():
         doc_list = DocFactory.list_all()
         data_list = [doc.to_minimal_dict() for doc in doc_list]
@@ -112,3 +102,22 @@ class DocFactory:
             JSONFile(json_file_path).write(data_list[:n])
             file_size_k = os.path.getsize(json_file_path) / 1000
             log.debug(f"Wrote {json_file_path} ({file_size_k:,.0f} KB)")
+
+    @staticmethod
+    def get_temp_data_summary():
+        doc_list = DocFactory.list_all()
+        temp_data_summary = dict(
+            n_docs=len(doc_list),
+            n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
+            n_pdfs=sum(d.n_pdfs for d in doc_list),
+            total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
+        )
+        log.debug(f"{temp_data_summary=}")
+        return temp_data_summary
+
+    @staticmethod
+    def write_temp_data_summary():
+        temp_data_summary = DocFactory.get_temp_data_summary()
+        json_file_path = DocFactory.DOCS_TEMP_DATA_SUMMARY_JSON_PATH
+        JSONFile(json_file_path).write(temp_data_summary)
+        log.debug(f"Wrote {json_file_path} ({temp_data_summary})")

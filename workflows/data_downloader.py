@@ -27,12 +27,7 @@ def get_doc_list(decade):
     return doc_list_for_decade
 
 
-def main(max_delta_t, decade):
-    log.debug(f"{max_delta_t=:,.1f}s")
-    log.debug(f"{decade=}")
-    log.debug(f"{N_BATCH=}")
-    assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
-
+def download(max_delta_t, decade):
     t_start = time.time()
     doc_list = get_doc_list(decade)
     n_doc_list = len(doc_list)
@@ -59,6 +54,32 @@ def main(max_delta_t, decade):
             )
             return
     log.info("⛔️🛑 Downloaded ALL pdfs.")
+
+
+def cleanup_legacy():
+    for file_path in [
+        "all.json",
+        "latest-100.json",
+        "temp_data_summary.json",
+    ]:
+        if os.path.exists(file_path):
+            os.remove(file_path)
+            log.debug(f"Removed legacy file: {file_path}")
+
+
+def build_summary():
+    cleanup_legacy()
+    DocFactory.write_all()
+    DocFactory.write_temp_data_summary()
+
+
+def main(max_delta_t, decade):
+    log.debug(f"{max_delta_t=:,.1f}s")
+    log.debug(f"{decade=}")
+    log.debug(f"{N_BATCH=}")
+    assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
+
+    download(max_delta_t, decade)
 
 
 def get_options():
