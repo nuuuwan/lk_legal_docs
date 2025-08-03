@@ -48,6 +48,9 @@ class DocFactoryAggregated:
         temp_data_summary = dict(
             n_docs=len(doc_list),
             n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
+            n_docs_with_pdfs_fail=len(
+                [d for d in doc_list if d.n_pdfs_fail > 0]
+            ),
             n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
         )

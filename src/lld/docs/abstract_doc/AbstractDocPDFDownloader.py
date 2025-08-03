@@ -59,3 +59,12 @@ class AbstractDocPDFDownloader:
             if os.path.exists(pdf_path):
                 n_pdfs += 1
         return n_pdfs
+
+    @cached_property
+    def n_pdfs_fail(self):
+        n_pdfs_fail = 0
+        for lang in Lang.list_all():
+            fail_pdf_path = self.get_fail_pdf_path(lang.code)
+            if os.path.exists(fail_pdf_path):
+                n_pdfs_fail += 1
+        return n_pdfs_fail
