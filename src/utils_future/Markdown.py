@@ -3,8 +3,9 @@ class Markdown:
     @staticmethod
     def get_sep(key: str) -> str:
         for num_prefix in ["n", "p", "total"]:
-            if key.startswith(num_prefix + "_"):
+            if key.startswith(num_prefix + "_") or key == num_prefix:
                 return "--:"
+
         return ":--"
 
     @staticmethod
