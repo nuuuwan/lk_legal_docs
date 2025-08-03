@@ -16,6 +16,8 @@ jobs:
     strategy:
       matrix:
         decade: ["1980s", "1990s", "2000s", "2010s", "2020s"]
+    env:
+      BRANCH: data_${{ matrix.decade }}
 
     steps:
       - name: "⬇️ Checkout lk_legal_docs (READ-ONLY)"
@@ -50,18 +52,16 @@ jobs:
 
       - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
         run: |
-          BRANCH="data_${{ matrix.decade }}"
           echo "BRANCH=$BRANCH"
           git clone --branch $BRANCH --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
 
       - name: "⚙️ Run data_downloader"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
+
           MAX_DELTA_T="${{ github.event.inputs.max_delta_t }}"
           [ -z "$MAX_DELTA_T" ] && MAX_DELTA_T="1200"
-
           echo "MAX_DELTA_T=$MAX_DELTA_T"
-          echo "matrix.decade=${{ matrix.decade }}"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
@@ -70,7 +70,6 @@ jobs:
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
-          BRANCH="data_${{ matrix.decade }}"
           cd /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
