@@ -1,8 +1,9 @@
 import argparse
 import os
 import time
+from multiprocessing import Pool, cpu_count
 
-from utils import Log, Parallel
+from utils import Log
 
 from lld import AbstractDoc, DocFactory
 
@@ -10,14 +11,11 @@ log = Log("data_downloader")
 N_BATCH = 8
 
 
-def get_worker(doc):
-    def worker(doc=doc):
-        is_hot = doc.download_all_data()
-        if is_hot:
-            log.info(f"✅ {doc.id}")
-        return is_hot
-
-    return worker
+def worker(doc):
+    is_hot = doc.download_all_data()
+    if is_hot:
+        log.info(f"✅ {doc.id}")
+    return is_hot
 
 
 def get_doc_list(decade):
@@ -32,20 +30,19 @@ def download(max_delta_t, decade):
     n_doc_list = len(doc_list)
     log.debug(f"{n_doc_list=:,}")
 
+    n_cpu = cpu_count()
+    log.debug(f"{n_cpu=:,}")
     i_doc = 0
     while i_doc < n_doc_list:
-        workers = []
+        docs_for_processing = []
         for _ in range(N_BATCH):
             if i_doc >= n_doc_list:
                 break
             doc = doc_list[i_doc]
             i_doc += 1
-            workers.append(get_worker(doc=doc))
+            docs_for_processing.append(doc)
 
-        Parallel.run(
-            workers,
-            max_threads=N_BATCH,
-        )
+        Pool(n_cpu).map(worker, docs_for_processing)
         delta_t = time.time() - t_start
         if delta_t > max_delta_t:
             log.warning(
