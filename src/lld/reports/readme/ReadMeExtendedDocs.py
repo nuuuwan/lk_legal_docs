@@ -103,8 +103,8 @@ class ReadMeExtendedDocs:
                 n_docs=f"{n_docs:,}",
                 n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
                 p_progress=format_percent(p_progress),
-                n_pdfs=f'{json_data["n_pdfs"]:,}',
-                total_file_size_g=f"{total_file_size_g:,.2f} GB",
+                n_pdfs=f"{json_data['n_pdfs']:,}",
+                total_file_size_g=f"{total_file_size_g:,.1f} GB",
             )
 
             if json_data["decade"] == "Total":
