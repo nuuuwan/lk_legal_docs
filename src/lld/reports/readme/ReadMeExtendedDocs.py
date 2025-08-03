@@ -4,7 +4,10 @@ from utils_future import Markdown
 def format_percent(p: float) -> str:
     if 0.995 < p < 1.0:
         return ">99%"
-    return f"{p:,.0%}"
+    if p == 1.0:
+        return "100%"
+
+    return f"{p:,.2%}"
 
 
 class ReadMeExtendedDocs:
