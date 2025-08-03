@@ -9,8 +9,8 @@ log = Log("AbstractDocDataDownloader")
 
 
 class AbstractDocDataDownloader:
-
-    DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
+    DIR_TEMP = tempfile.gettempdir()
+    DIR_TEMP_DATA = os.path.join(DIR_TEMP, "lk_legal_docs_data")
 
     @cached_property
     def dir_data(self):

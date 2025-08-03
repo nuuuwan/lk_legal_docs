@@ -17,6 +17,9 @@ class DocFactoryAggregated:
     DOCS_TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
         AbstractDoc.DIR_TEMP_DATA, "temp_data_summary.json"
     )
+    LEGACY_DOCS_TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
+        AbstractDoc.DIR_TEMP_DATA, "data", "temp_data_summary.json"
+    )
 
     @classmethod
     def write_all(cls):
@@ -52,3 +55,6 @@ class DocFactoryAggregated:
         json_file_path = cls.DOCS_TEMP_DATA_SUMMARY_JSON_PATH
         JSONFile(json_file_path).write(temp_data_summary)
         log.debug(f"Wrote {json_file_path} ({temp_data_summary})")
+
+        if os.path.exists(cls.LEGACY_DOCS_TEMP_DATA_SUMMARY_JSON_PATH):
+            os.remove(cls.LEGACY_DOCS_TEMP_DATA_SUMMARY_JSON_PATH)
