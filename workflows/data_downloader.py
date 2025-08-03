@@ -16,6 +16,7 @@ def worker(doc):
     is_hot = doc.download_all_data()
     if is_hot:
         log.info(f"✅ {doc.id}")
+        log.debug("-" * 32)
     return is_hot
 
 
