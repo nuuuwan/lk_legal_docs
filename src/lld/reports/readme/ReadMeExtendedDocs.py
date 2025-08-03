@@ -2,12 +2,13 @@ from utils_future import Markdown
 
 
 def format_percent(p: float) -> str:
-    if 0.995 < p < 1.0:
-        return ">99%"
+    if 0.999 < p < 1.0:
+        return ">99.9%"
+
     if p == 1.0:
         return "100%"
 
-    return f"{p:,.2%}"
+    return f"{p:,.1%}"
 
 
 class ReadMeExtendedDocs:
