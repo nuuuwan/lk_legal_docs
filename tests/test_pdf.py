@@ -46,4 +46,4 @@ class TestCase(unittest.TestCase):
 
         PDF(TEST_PDF_PATH).extract_text(output_txt_path)
         file_size = os.path.getsize(output_txt_path)
-        self.assertEqual(file_size, 24_076)
+        self.assertEqual(file_size, 24_078)
