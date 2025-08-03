@@ -74,7 +74,9 @@ class ReadMeExtendedDocs:
             if not json_data:
                 continue
             json_data_list.append(
-                dict(decade=decade, remote_dir_url=remote_dir_url, **json_data)
+                dict(
+                    decade=decade, remote_dir_url=remote_dir_url, **json_data
+                )
             )
         self.add_totals(json_data_list)
         return json_data_list
