@@ -1,4 +1,4 @@
-name: aggregate
+name: build_readme
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "55 * * * *"
 
 jobs:
-  aggregate:
+  build_readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -38,13 +38,13 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install build
 
-      - name: "⚙️ Run aggregate"
+      - name: "⚙️ Run build_readme"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/aggregate.py ${{ github.event.inputs.max_delta_t }}
+          python workflows/build_readme.py ${{ github.event.inputs.max_delta_t }}
 
       - name: "⬆️ Push lk_legal_docs"
         run: |
@@ -53,6 +53,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [aggregate.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [build_readme.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
