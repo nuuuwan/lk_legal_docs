@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-03 06:58:34**.*
+*Last Updated **2025-08-03 09:05:47**.*
 
-**44,205** documents (51.1 MB), from 1981-01-22 to 2025-08-01.
+**44,205** documents (24.2 MB), from 1981-01-22 to 2025-08-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -25,11 +25,22 @@ For best results, use a desktop browser.
 ## Summary Statistics
 
 | doc_type | n | min_date | max_date |
-| :-- | --: | :-- | :-- |
+| :-- | :-- | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 34,900 | 2010-01-01 | 2025-08-01 |
 | 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
+
+## Extended Data
+
+| decade | n_docs | n_docs_with_pdfs | p_progress | n_pdfs | total_file_size_g |
+| :-- | --: | --: | --: | --: | --: |
+| 2020s | 17,996 | 17,990 | 100.0% | 51,491 | 21.08 GB |
+| 2010s | 24,451 | 18,240 | 74.6% | 51,726 | 16.96 GB |
+| 2000s | 1,015 | 1,015 | 100.0%✅ | 2,923 | 1.82 GB |
+| 1990s | 339 | 339 | 100.0%✅ | 655 | 0.22 GB |
+| 1980s | 404 | 404 | 100.0%✅ | 603 | 0.27 GB |
+| **Total** | **44,205** | **37,988** | **85.9%** | **107,398** | **40.35 GB** |
 
 ## Summary Charts
 
@@ -45,18 +56,18 @@ For best results, use a desktop browser.
 
 **15** Documents
 
-- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-61)
-- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-52)
-- 📢 [2025-08-01] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-legal-section)
-- 📢 [2025-08-01] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-land-section)
-- 📢 [2025-08-01] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iv-b-local-government)
-- 📢 [2025-08-01] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iv-a-provincial-councils)
-- 📢 [2025-08-01] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iii-trade-marks-and-patent-notices)
-- 📢 [2025-08-01] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iib-advertising)
-- 📢 [2025-08-01] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-iia-advertising)
-- 📢 [2025-08-01] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-08-01-i-general)
-- ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/624-2025)
-- 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-28)
-- 🚨 [2025-07-29] [Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-24)
-- 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-02)
-- 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2447-01)
+- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-61)
+- 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-52)
+- 📢 [2025-08-01] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-legal-section)
+- 📢 [2025-08-01] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-land-section)
+- 📢 [2025-08-01] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iv-b-local-government)
+- 📢 [2025-08-01] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iv-a-provincial-councils)
+- 📢 [2025-08-01] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iii-trade-marks-and-patent-notices)
+- 📢 [2025-08-01] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iib-advertising)
+- 📢 [2025-08-01] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iia-advertising)
+- 📢 [2025-08-01] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-i-general)
+- ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/624-2025)
+- 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-28)
+- 🚨 [2025-07-29] [Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-24)
+- 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-02)
+- 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-01)
