@@ -1,6 +1,12 @@
 from utils_future import Markdown
 
 
+def format_percent(p: float) -> str:
+    if 0.995 < p < 1.0:
+        return ">99%"
+    return f"{p:,.0%}"
+
+
 class ReadMeExtendedDocs:
 
     DECADES = ["2020s", "2010s", "2000s", "1990s", "1980s"]
@@ -72,7 +78,7 @@ class ReadMeExtendedDocs:
                 decade=json_data["decade"] + complete_emoji,
                 n_docs=f"{n_docs:,}",
                 n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
-                p_progress=f"{p_progress:.1%}",
+                p_progress=format_percent(p_progress),
                 n_pdfs=f'{json_data["n_pdfs"]:,}',
                 total_file_size_g=f"{total_file_size_g:,.2f} GB",
             )
