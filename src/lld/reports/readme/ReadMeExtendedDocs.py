@@ -69,10 +69,10 @@ class ReadMeExtendedDocs:
             total_file_size_g = json_data["total_file_size"] / 1_000_000_000
             complete_emoji = "✅" if n_docs == n_docs_with_pdfs else ""
             data = dict(
-                decade=json_data["decade"],
+                decade=json_data["decade"] + complete_emoji,
                 n_docs=f"{n_docs:,}",
                 n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
-                p_progress=f"{complete_emoji}{p_progress:.1%}",
+                p_progress=f"{p_progress:.1%}",
                 n_pdfs=f'{json_data["n_pdfs"]:,}',
                 total_file_size_g=f"{total_file_size_g:,.2f} GB",
             )
@@ -89,7 +89,11 @@ class ReadMeExtendedDocs:
         return Markdown.table(data_list) + [""]
 
     def get_lines_for_extended_docs(self):
-        return [
-            "## Extended Data",
-            "",
-        ] + self.get_lines_for_extended_data_table()
+        return (
+            [
+                "## Extended Data",
+                "",
+            ]
+            + self.get_lines_for_extended_data_table()
+            + ["", "(✅ = All published documents have been downloaded.)"]
+        )
