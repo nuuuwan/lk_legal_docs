@@ -95,5 +95,5 @@ class ReadMeExtendedDocs:
                 "",
             ]
             + self.get_lines_for_extended_data_table()
-            + ["", "(✅ = All published documents have been downloaded.)"]
+            + ["(✅ = All published documents have been downloaded.)", ""]
         )
