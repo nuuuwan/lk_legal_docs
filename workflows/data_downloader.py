@@ -80,6 +80,7 @@ def main(max_delta_t, decade):
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     download(max_delta_t, decade)
+    build_summary()
 
 
 def get_options():
