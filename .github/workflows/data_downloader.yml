@@ -18,7 +18,7 @@ jobs:
         decade: ["1980s", "1990s", "2000s", "2010s", "2020s"]
 
     steps:
-      - name: "⬇️ Checkout lk_legal_docs"
+      - name: "⬇️ Checkout lk_legal_docs (READ-ONLY)"
         uses: actions/checkout@v4
         with:
           ref: "main"
