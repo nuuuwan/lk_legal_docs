@@ -49,19 +49,33 @@ class ReadMeExtendedDocs:
             }
         )
 
+    def get_raw_remote_dir_url(self, decade: str) -> str:
+        return (
+            "https://raw.githubusercontent.com"
+            + "/nuuuwan/lk_legal_docs_data"
+            + f"/refs/heads/data_{decade}"
+        )
+
+    def get_remote_dir_url(self, decade: str) -> str:
+        return (
+            "https://github.com"
+            + "/nuuuwan/lk_legal_docs_data"
+            + f"/tree/data_{decade}/data"
+        )
+
     def get_json_data_list(self):
         json_data_list = []
         for decade in self.DECADES:
-            url = (
-                "https://raw.githubusercontent.com"
-                + "/nuuuwan/lk_legal_docs_data"
-                + f"/refs/heads/data_{decade}"
-                + "/temp_data_summary.json"
-            )
+            raw_remote_dir_url = self.get_raw_remote_dir_url(decade)
+            url = raw_remote_dir_url + "/temp_data_summary.json"
+            remote_dir_url = self.get_remote_dir_url(decade)
+
             json_data = self.get_json_data_from_url(url)
             if not json_data:
                 continue
-            json_data_list.append(dict(decade=decade, **json_data))
+            json_data_list.append(
+                dict(decade=decade, remote_dir_url=remote_dir_url, **json_data)
+            )
         self.add_totals(json_data_list)
         return json_data_list
 
@@ -78,8 +92,14 @@ class ReadMeExtendedDocs:
             p_progress = n_docs_with_pdfs / n_docs
             total_file_size_g = json_data["total_file_size"] / 1_000_000_000
             complete_emoji = "✅" if n_docs == n_docs_with_pdfs else ""
+
+            decade_md = json_data["decade"]
+            if decade_md != "Total":
+                remote_dir_url = json_data["remote_dir_url"]
+                decade_md = f"[{decade_md}]({remote_dir_url})"
+
             data = dict(
-                decade=json_data["decade"] + complete_emoji,
+                decade=decade_md + complete_emoji,
                 n_docs=f"{n_docs:,}",
                 n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
                 p_progress=format_percent(p_progress),
