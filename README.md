@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-04 11:24:09**.*
+*Last Updated **2025-08-04 11:40:20**.*
 
-**44,205** documents (24.2 MB), from 1981-01-22 to 2025-08-01.
+**44,207** documents (24.2 MB), from 1981-01-22 to 2025-08-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,900 | 2010-01-01 | 2025-08-01 |
+| 🚨 Extraordinary Gazettes | 34,902 | 2010-01-01 | 2025-08-01 |
 | 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
@@ -36,11 +36,11 @@ For best results, use a desktop browser.
 | decade | n_docs | n_docs_with_pdfs | p_progress | n_pdfs | total_file_size_g |
 | :-- | --: | --: | --: | --: | --: |
 | [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 17,996 | 17,990 | >99.9% | 51,491 | 21.1 GB |
-| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 19,705 | 80.6% | 56,094 | 18.5 GB |
+| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 19,739 | 80.7% | 56,196 | 18.5 GB |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data)✅ | 1,015 | 1,015 | 100% | 2,923 | 1.8 GB |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data)✅ | 339 | 339 | 100% | 655 | 0.2 GB |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data)✅ | 404 | 404 | 100% | 603 | 0.3 GB |
-| **Total** | **44,205** | **39,453** | **89.3%** | **111,766** | **41.8 GB** |
+| **Total** | **44,205** | **39,487** | **89.3%** | **111,868** | **41.9 GB** |
 
 (✅ = All published documents have been downloaded.)
 
@@ -56,7 +56,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**16** Documents
 
 - 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-61)
 - 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-52)
@@ -70,6 +70,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-01] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-i-general)
 - ✍️ [2025-07-31] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/624-2025)
 - 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-28)
+- 🚨 [2025-07-29] [Sri Lanka Ports Authority- Certificate under and Interms of Section 42 A (1) of the Sri Lanka Ports Authority - ABCC Phoenix Shipping (Pvt) Limited](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-25)
 - 🚨 [2025-07-29] [Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-24)
 - 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-02)
 - 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-01)
