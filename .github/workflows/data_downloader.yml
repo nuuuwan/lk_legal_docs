@@ -68,7 +68,7 @@ jobs:
               
           cd /tmp/lk_legal_docs_data/
           git pull origin $BRANCH --rebase
-          cd ~
+          cd -
           python workflows/data_downloader.py --max_delta_t $MAX_DELTA_T --decade ${{ matrix.decade }}
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
