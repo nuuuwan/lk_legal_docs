@@ -29,9 +29,13 @@ jobs:
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
       - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
-        run: |
-          echo "BRANCH=$BRANCH"
-          git clone --branch $BRANCH --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
+        uses: actions/checkout@v4
+        with:
+          repository: nuuuwan/lk_legal_docs_data
+          ref: ${{ env.BRANCH }}
+          path: /tmp/lk_legal_docs_data
+          token: ${{ secrets.REPO_DATA_TOKEN }}
+          fetch-depth: 1
 
       - name: "⚙️ Run data_downloader"
         run: |
