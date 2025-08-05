@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-06 00:21:56**.*
+*Last Updated **2025-08-06 00:36:40**.*
 
-**44,214** documents (24.2 MB), from 1981-01-22 to 2025-08-04.
+**44,215** documents (24.2 MB), from 1981-01-22 to 2025-08-05.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,909 | 2010-01-01 | 2025-08-04 |
+| 🚨 Extraordinary Gazettes | 34,910 | 2010-01-01 | 2025-08-05 |
 | 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
@@ -56,8 +56,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**17** Documents
 
+- 🚨 [2025-08-05] [Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-17)
 - 🚨 [2025-08-04] [Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-01)
 - 🚨 [2025-08-02] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of member of the Horana Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-81)
 - 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-61)
