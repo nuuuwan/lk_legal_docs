@@ -48,7 +48,6 @@ def download(max_delta_t, decade):
 
         Pool(n_cpu).map(worker, docs_for_processing)
         delta_t = time.time() - t_start
-        log.debug(f"⏰ {delta_t=:,.1f}s")
         if delta_t > max_delta_t:
             log.warning(
                 f"⛔️ Stopping after. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
