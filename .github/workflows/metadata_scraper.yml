@@ -13,6 +13,8 @@ on:
 jobs:
   metadata_scraper:
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nuuuwan/lk-legal-docs-downloader:latest
 
     steps:
       - name: "⬇️ Checkout lk_legal_docs"
@@ -20,28 +22,6 @@ jobs:
         with:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
-
-      - name: "🐍 Set up Python"
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.12"
-
-      - name: "🐍 Cache pip dependencies"
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            pip-${{ runner.os }}-
-
-      - name: "🐍 Install dependencies"
-        run: |
-          sudo apt update
-          sudo apt install ghostscript
-          python -m pip install --upgrade pip
-          python -m pip install flake8 pytest
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          pip install build
 
       - name: "⚙️ Run metadata_scraper"
         run: |
