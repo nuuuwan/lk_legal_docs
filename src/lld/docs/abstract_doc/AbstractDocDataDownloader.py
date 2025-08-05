@@ -1,6 +1,5 @@
 import os
 import shutil
-import tempfile
 from functools import cached_property
 
 from utils import Log
@@ -9,8 +8,7 @@ log = Log("AbstractDocDataDownloader")
 
 
 class AbstractDocDataDownloader:
-    DIR_TEMP = tempfile.gettempdir()
-    DIR_TEMP_DATA = os.path.join(DIR_TEMP, "lk_legal_docs_data")
+    DIR_TEMP_DATA = os.path.join("lk_legal_docs_data")
 
     @cached_property
     def dir_data(self):
