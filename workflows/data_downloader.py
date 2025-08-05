@@ -91,7 +91,7 @@ def get_options():
     parser.add_argument(
         "--max_delta_t",
         type=int,
-        default=900,
+        default=1200,
         help="Maximum time to run the downloader in seconds.",
     )
     parser.add_argument(
