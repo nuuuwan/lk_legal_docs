@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-05 05:15:57**.*
+*Last Updated **2025-08-05 05:50:27**.*
 
 **44,214** documents (24.2 MB), from 1981-01-22 to 2025-08-04.
 
@@ -36,11 +36,11 @@ For best results, use a desktop browser.
 | decade | n_docs | n_docs_with_pdfs | p_progress | n_pdfs | total_file_size_g |
 | :-- | --: | --: | --: | --: | --: |
 | [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 18,005 | 17,995 | >99.9% | 51,502 | 21.1 GB |
-| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 20,846 | 85.3% | 59,429 | 19.5 GB |
+| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 20,880 | 85.4% | 59,525 | 19.5 GB |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data)✅ | 1,015 | 1,015 | 100% | 2,923 | 1.8 GB |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data)✅ | 339 | 339 | 100% | 655 | 0.2 GB |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data)✅ | 404 | 404 | 100% | 603 | 0.3 GB |
-| **Total** | **44,214** | **40,599** | **91.8%** | **115,112** | **42.8 GB** |
+| **Total** | **44,214** | **40,633** | **91.9%** | **115,208** | **42.9 GB** |
 
 (✅ = All published documents have been downloaded.)
 
@@ -56,7 +56,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**16** Documents
 
 - 🚨 [2025-08-04] [Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-01)
 - 🚨 [2025-08-02] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of member of the Horana Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-81)
@@ -74,5 +74,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-30] [Election Commission - Notice under Section 66 A(1) Filling of a Vacancy in the office of members of the Walikaman West Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-28)
 - 🚨 [2025-07-29] [Sri Lanka Ports Authority- Certificate under and Interms of Section 42 A (1) of the Sri Lanka Ports Authority - ABCC Phoenix Shipping (Pvt) Limited](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-25)
 - 🚨 [2025-07-29] [Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-24)
-- 🚨 [2025-07-28] [Land Title Settlement Dept. - Kendaliyaddapaluwa, Mahara D/S Division, Gampaha District (7846)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-02)
-- 🚨 [2025-07-28] [Sri Lanka Customs - Rates of Exchange from 28.07.2025 to 03.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-01)
