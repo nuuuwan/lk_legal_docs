@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-06 11:20:01**.*
+*Last Updated **2025-08-06 11:37:02**.*
 
-**44,218** documents (24.2 MB), from 1981-01-22 to 2025-08-05.
+**44,219** documents (24.2 MB), from 1981-01-22 to 2025-08-05.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,913 | 2010-01-01 | 2025-08-05 |
+| 🚨 Extraordinary Gazettes | 34,914 | 2010-01-01 | 2025-08-05 |
 | 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 | 🏛️ Acts | 1,650 | 1981-01-22 | 2025-07-23 |
@@ -35,12 +35,12 @@ For best results, use a desktop browser.
 
 | decade | n_docs | n_docs_with_pdfs | p_progress | n_pdfs | total_file_size_g |
 | :-- | --: | --: | --: | --: | --: |
-| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 18,009 | 18,000 | >99.9% | 51,513 | 21.1 GB |
-| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 22,655 | 92.7% | 64,651 | 21.2 GB |
+| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 18,009 | 18,001 | >99.9% | 51,515 | 21.1 GB |
+| [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 22,705 | 92.9% | 64,789 | 21.2 GB |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data)✅ | 1,015 | 1,015 | 100% | 2,923 | 1.8 GB |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data)✅ | 339 | 339 | 100% | 655 | 0.2 GB |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data)✅ | 404 | 404 | 100% | 603 | 0.3 GB |
-| **Total** | **44,218** | **42,413** | **95.9%** | **120,345** | **44.5 GB** |
+| **Total** | **44,218** | **42,464** | **96.0%** | **120,485** | **44.6 GB** |
 
 (✅ = All published documents have been downloaded.)
 
@@ -56,8 +56,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**17** Documents
 
+- 🚨 [2025-08-05] [2448/18](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-18)
 - 🚨 [2025-08-05] [Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-17)
 - 🚨 [2025-08-04] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of members of the Panadura Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-05)
 - 🚨 [2025-08-04] [Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-01)
