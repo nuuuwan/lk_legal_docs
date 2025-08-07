@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-07 15:17:19**.*
+*Last Updated **2025-08-07 15:34:44**.*
 
-**44,229** documents (24.2 MB), from 1981-01-22 to 2025-08-05.
+**44,232** documents (24.2 MB), from 1981-01-22 to 2025-08-05.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,21 +26,21 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,923 | 2010-01-01 | 2025-08-05 |
+| 🚨 Extraordinary Gazettes | 34,925 | 2010-01-01 | 2025-08-05 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
-| 📢 Gazettes | 6,299 | 2006-03-03 | 2025-08-01 |
+| 📢 Gazettes | 6,300 | 2006-03-03 | 2025-08-01 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 
 ## Summary of Extended Data
 
 | decade | n_docs | n_docs_with_pdfs | p_progress | n_pdfs | total_file_size_g |
 | :-- | --: | --: | --: | --: | --: |
-| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 18,020 | 18,004 | >99.9% | 51,522 | 21.1 GB |
+| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 18,020 | 18,014 | >99.9% | 51,539 | 21.1 GB |
 | [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 24,451 | 23,683 | 96.9% | 67,592 | 22.0 GB |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data)✅ | 1,015 | 1,015 | 100% | 2,923 | 1.8 GB |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data)✅ | 339 | 339 | 100% | 655 | 0.2 GB |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data)✅ | 404 | 404 | 100% | 603 | 0.3 GB |
-| **Total** | **44,229** | **43,445** | **98.2%** | **123,295** | **45.3 GB** |
+| **Total** | **44,229** | **43,455** | **98.3%** | **123,312** | **45.3 GB** |
 
 (✅ = All published documents have been downloaded.)
 
@@ -56,7 +56,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**17** Documents
+**19** Documents
 
 - 🚨 [2025-08-05] [2448/18](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-18)
 - 🚨 [2025-08-05] [Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-17)
@@ -66,6 +66,8 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-02] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of member of the Horana Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-81)
 - 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (2) Walakulu Gamage Ariyawathi Elected as a member of the Thawalama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-61)
 - 🚨 [2025-08-01] [Election Commission - Notice under Section 66A (1) Elected Chamaika Dilani Fernando as a member of Chilaw Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-52)
+- 🚨 [2025-08-01] [Department of Labour Special Allowance Payable to Workers June 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-51)
+- 📢 [2025-08-01] [List of Jurors](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-list-of-jurors)
 - 📢 [2025-08-01] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-legal-section)
 - 📢 [2025-08-01] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-land-section)
 - 📢 [2025-08-01] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-01-iv-b-local-government)
