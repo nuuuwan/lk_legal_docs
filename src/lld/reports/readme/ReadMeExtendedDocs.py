@@ -1,4 +1,8 @@
+from utils import Log
+
 from utils_future import Markdown
+
+log = Log("ReadMeExtendedDocs")
 
 
 def format_percent(p: float) -> str:
@@ -22,6 +26,7 @@ class ReadMeExtendedDocs:
         response = requests.get(url)
         if response.status_code == 200:
             return response.json()
+        log.error(f"Failed to fetch data from {url}: {response.status_code}")
         return None
 
     @staticmethod
