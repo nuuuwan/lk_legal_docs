@@ -68,3 +68,21 @@ class AbstractDocPDFDownloader:
             if os.path.exists(fail_pdf_path):
                 n_pdfs_fail += 1
         return n_pdfs_fail
+
+    # docs are classified as, 1) all pdfs downloaded, 2) some pdfs downloaded,
+    # 3) no pdfs downloaded or 4) download not attempted
+    @cached_property
+    def is_all_pdfs_downloaded(self):
+        return self.n_pdfs > 0 and self.n_pdfs_fail == 0
+
+    @cached_property
+    def is_some_pdfs_downloaded(self):
+        return self.n_pdfs > 0 and self.n_pdfs_fail > 0
+
+    @cached_property
+    def is_no_pdfs_downloaded(self):
+        return self.n_pdfs == 0 and self.n_pdfs_fail > 0
+
+    @cached_property
+    def is_download_not_attempted(self):
+        return self.n_pdfs == 0 and self.n_pdfs_fail == 0
