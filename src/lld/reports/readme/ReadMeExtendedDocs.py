@@ -32,12 +32,15 @@ class ReadMeExtendedDocs:
     @staticmethod
     def add_totals(json_data_list):
         total_n_docs = sum(data["n_docs"] for data in json_data_list)
-        total_n_docs_with_pdfs = sum(
-            data["n_docs_with_pdfs"] for data in json_data_list
+        total_all_downloaded = sum(
+            data["n_all_downloaded"] for data in json_data_list
         )
-        total_n_docs_with_pdfs_fail = sum(
-            data["n_docs_with_pdfs_fail"] for data in json_data_list
+        total_some_failed = sum(
+            data["n_some_failed"] for data in json_data_list
         )
+        total_all_failed = sum(data["n_all_failed"] for data in json_data_list)
+        total_queued = sum(data["n_queued"] for data in json_data_list)
+
         total_n_pdfs = sum(data["n_pdfs"] for data in json_data_list)
         total_file_size = sum(
             data["total_file_size"] for data in json_data_list
@@ -47,8 +50,10 @@ class ReadMeExtendedDocs:
             {
                 "decade": "Total",
                 "n_docs": total_n_docs,
-                "n_docs_with_pdfs": total_n_docs_with_pdfs,
-                "n_docs_with_pdfs_fail": total_n_docs_with_pdfs_fail,
+                "n_all_downloaded": total_all_downloaded,
+                "n_some_failed": total_some_failed,
+                "n_all_failed": total_all_failed,
+                "n_queued": total_queued,
                 "n_pdfs": total_n_pdfs,
                 "total_file_size": total_file_size,
             }
@@ -79,9 +84,7 @@ class ReadMeExtendedDocs:
             if not json_data:
                 continue
             json_data_list.append(
-                dict(
-                    decade=decade, remote_dir_url=remote_dir_url, **json_data
-                )
+                dict(decade=decade, remote_dir_url=remote_dir_url, **json_data)
             )
         self.add_totals(json_data_list)
         return json_data_list
@@ -95,10 +98,15 @@ class ReadMeExtendedDocs:
         data_list = []
         for json_data in self.get_json_data_list():
             n_docs = json_data["n_docs"]
-            n_docs_with_pdfs = json_data["n_docs_with_pdfs"]
-            p_progress = n_docs_with_pdfs / n_docs
+            n_all_downloaded = json_data["n_all_downloaded"]
+            n_some_failed = json_data["n_some_failed"]
+            n_all_failed = json_data["n_all_failed"]
+            n_queued = json_data["n_queued"]
+
+            n_complete = n_all_downloaded + n_some_failed + n_all_failed
+            p_complete = n_complete / n_docs
+
             total_file_size_g = json_data["total_file_size"] / 1_000_000_000
-            complete_emoji = "✅" if n_docs == n_docs_with_pdfs else ""
 
             decade_md = json_data["decade"]
             if decade_md != "Total":
@@ -106,10 +114,13 @@ class ReadMeExtendedDocs:
                 decade_md = f"[{decade_md}]({remote_dir_url})"
 
             data = dict(
-                decade=decade_md + complete_emoji,
+                decade=decade_md,
+                p_complete=format_percent(p_complete),
                 n_docs=f"{n_docs:,}",
-                n_docs_with_pdfs=f"{n_docs_with_pdfs:,}",
-                p_progress=format_percent(p_progress),
+                n_all_downloaded=f"{n_all_downloaded:,}",
+                n_some_failed=f"{n_some_failed:,}",
+                n_all_failed=f"{n_all_failed:,}",
+                n_queued=f"{n_queued:,}",
                 n_pdfs=f"{json_data['n_pdfs']:,}",
                 total_file_size_g=f"{total_file_size_g:,.1f} GB",
             )
@@ -126,11 +137,7 @@ class ReadMeExtendedDocs:
         return Markdown.table(data_list) + [""]
 
     def get_lines_for_extended_docs(self):
-        return (
-            [
-                "## Summary of Extended Data",
-                "",
-            ]
-            + self.get_lines_for_extended_data_table()
-            + ["(✅ = All published documents have been downloaded.)", ""]
-        )
+        return [
+            "## Summary of Extended Data",
+            "",
+        ] + self.get_lines_for_extended_data_table()

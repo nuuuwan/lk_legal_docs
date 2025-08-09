@@ -55,6 +55,7 @@ class DocFactoryAggregated:
             ),
             n_all_failed=len([d for d in doc_list if d.is_no_pdfs_downloaded]),
             n_queued=len([d for d in doc_list if d.is_download_not_attempted]),
+            n_pdfs=sum([d.n_pdfs for d in doc_list]),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
         )
         log.debug(f"{temp_data_summary=}")
