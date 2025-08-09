@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-09 18:01:48**.*
+*Last Updated **2025-08-09 18:26:48**.*
 
-**44,241** documents (24.2 MB), from 1981-01-22 to 2025-08-08.
+**44,243** documents (24.2 MB), from 1981-01-22 to 2025-08-08.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,305 | 2006-03-03 | 2025-08-08 |
+| 📢 Gazettes | 6,307 | 2006-03-03 | 2025-08-08 |
 | 🚨 Extraordinary Gazettes | 34,929 | 2010-01-01 | 2025-08-05 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
@@ -54,11 +54,13 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**14** Documents
 
+- 📢 [2025-08-08] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-legal-section)
 - 📢 [2025-08-08] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-land-section)
 - 📢 [2025-08-08] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iv-b-local-government)
 - 📢 [2025-08-08] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iv-a-provincial-councils)
+- 📢 [2025-08-08] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iii-trade-marks-and-patent-notices)
 - 📢 [2025-08-08] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iib-advertising)
 - 📢 [2025-08-08] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iia-advertising)
 - 🚨 [2025-08-05] [Dept. of Government- Eastern Province Declared Vice Chairman of Lahugala Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-19)
