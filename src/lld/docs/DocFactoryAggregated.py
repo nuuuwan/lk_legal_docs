@@ -47,11 +47,10 @@ class DocFactoryAggregated:
         doc_list = cls.list_all_for_decade(decade)
         temp_data_summary = dict(
             n_docs=len(doc_list),
-            n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
-            n_docs_with_pdfs_fail=len(
-                [d for d in doc_list if d.n_pdfs_fail > 0]
-            ),
-            n_pdfs=sum(d.n_pdfs for d in doc_list),
+            n_all_downloaded=len([d for d in doc_list if d.is_all_downloaded]),
+            n_some_failed=len([d for d in doc_list if d.is_some_failed]),
+            n_all_failed=len([d for d in doc_list if d.is_all_failed]),
+            n_queued=len([d for d in doc_list if d.is_download_not_attempted]),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
         )
         log.debug(f"{temp_data_summary=}")
