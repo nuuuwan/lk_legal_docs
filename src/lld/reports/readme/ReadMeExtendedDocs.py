@@ -117,12 +117,12 @@ class ReadMeExtendedDocs:
                 decade=decade_md,
                 p_complete=format_percent(p_complete),
                 n_docs=f"{n_docs:,}",
+                n_pdfs=f"{json_data['n_pdfs']:,}",
+                total_file_size_g=f"{total_file_size_g:,.1f} GB",
                 n_all_downloaded=f"{n_all_downloaded:,}",
                 n_some_failed=f"{n_some_failed:,}",
                 n_all_failed=f"{n_all_failed:,}",
                 n_queued=f"{n_queued:,}",
-                n_pdfs=f"{json_data['n_pdfs']:,}",
-                total_file_size_g=f"{total_file_size_g:,.1f} GB",
             )
 
             if json_data["decade"] == "Total":
