@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-10 05:14:11**.*
+*Last Updated **2025-08-10 05:48:46**.*
 
 **44,243** documents (24.2 MB), from 1981-01-22 to 2025-08-08.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**13** Documents
 
 - 📢 [2025-08-08] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-legal-section)
 - 📢 [2025-08-08] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-land-section)
@@ -69,4 +69,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-04] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of members of the Panadura Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-05)
 - 🚨 [2025-08-04] [Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-01)
 - 🏛️ [2025-08-04] [Companies (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/12-2025)
-- 🚨 [2025-08-02] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of member of the Horana Urban Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2447-81)
