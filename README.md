@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-11 22:18:29**.*
+*Last Updated **2025-08-11 22:35:54**.*
 
-**44,264** documents (24.2 MB), from 1981-01-22 to 2025-08-08.
+**44,266** documents (24.2 MB), from 1981-01-22 to 2025-08-11.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,8 +26,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| 🚨 Extraordinary Gazettes | 34,952 | 2010-01-01 | 2025-08-11 |
 | 📢 Gazettes | 6,307 | 2006-03-03 | 2025-08-08 |
-| 🚨 Extraordinary Gazettes | 34,950 | 2010-01-01 | 2025-08-05 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
 | ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 
@@ -54,8 +54,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**15** Documents
 
+- 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
+- 🚨 [2025-08-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.08.2025 to 17.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-01)
 - 📢 [2025-08-08] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-legal-section)
 - 📢 [2025-08-08] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-land-section)
 - 📢 [2025-08-08] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iv-b-local-government)
