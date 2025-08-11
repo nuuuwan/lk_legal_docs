@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-11 11:36:34**.*
+*Last Updated **2025-08-11 12:01:18**.*
 
 **44,243** documents (24.2 MB), from 1981-01-22 to 2025-08-08.
 
