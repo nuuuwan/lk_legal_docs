@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-12 05:14:03**.*
+*Last Updated **2025-08-12 05:46:12**.*
 
 **44,266** documents (24.2 MB), from 1981-01-22 to 2025-08-11.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**12** Documents
 
 - 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
 - 🚨 [2025-08-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.08.2025 to 17.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-01)
@@ -68,6 +68,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-05] [Dept. of Government- Eastern Province Declared Vice Chairman of Lahugala Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-19)
 - 🚨 [2025-08-05] [2448/18](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-18)
 - 🚨 [2025-08-05] [Elections Commission - Notice under Section 66 A(1) (a) Filling of a vacancy in the Office of  Member of the Manmunai Pattu Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-17)
-- 🚨 [2025-08-04] [Election Commission - Notice under Section 66A (1) Filling of a Vacancy in the office of members of the Panadura Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-05)
-- 🚨 [2025-08-04] [Sri Lanka Customs- Rates of Exchange with effect from 04.08.2025 to 10.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-01)
-- 🏛️ [2025-08-04] [Companies (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/12-2025)
