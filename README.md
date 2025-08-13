@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-13 15:16:05**.*
+*Last Updated **2025-08-13 15:34:26**.*
 
 **44,280** documents (24.2 MB), from 1981-01-22 to 2025-08-11.
 
@@ -35,12 +35,12 @@ For best results, use a desktop browser.
 
 | decade | p_complete | n_docs | n_pdfs | total_file_size_g | n_all_downloaded | n_some_failed | n_all_failed | n_queued |
 | :-- | --: | --: | --: | --: | --: | --: | --: | --: |
-| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,071 | 51,619 | 21.1 GB | 14,135 | 3,926 | 10 | 0 |
+| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,071 | 51,620 | 21.1 GB | 14,135 | 3,927 | 9 | 0 |
 | [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 100% | 24,451 | 68,286 | 22.1 GB | 22,589 | 1,334 | 528 | 0 |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data) | 100% | 1,015 | 2,923 | 1.8 GB | 945 | 70 | 0 | 0 |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data) | 100% | 339 | 655 | 0.2 GB | 322 | 17 | 0 | 0 |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data) | 100% | 404 | 603 | 0.3 GB | 391 | 13 | 0 | 0 |
-| **Total** | **100%** | **44,280** | **124,086** | **45.5 GB** | **38,382** | **5,360** | **538** | **0** |
+| **Total** | **100%** | **44,280** | **124,087** | **45.5 GB** | **38,382** | **5,361** | **537** | **0** |
 
 ## Summary Charts
 
