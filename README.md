@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-13 14:18:09**.*
+*Last Updated **2025-08-13 14:35:49**.*
 
-**44,278** documents (24.2 MB), from 1981-01-22 to 2025-08-11.
+**44,280** documents (24.2 MB), from 1981-01-22 to 2025-08-11.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -27,9 +27,9 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 34,964 | 2010-01-01 | 2025-08-11 |
-| 📢 Gazettes | 6,307 | 2006-03-03 | 2025-08-08 |
+| 📢 Gazettes | 6,308 | 2006-03-03 | 2025-08-08 |
+| ✍️ Bills | 1,357 | 2010-05-10 | 2025-08-07 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
-| ✍️ Bills | 1,356 | 2010-05-10 | 2025-07-31 |
 
 ## Summary of Extended Data
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**11** Documents
+**13** Documents
 
 - 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
 - 🚨 [2025-08-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.08.2025 to 17.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-01)
@@ -65,5 +65,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-08] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iii-trade-marks-and-patent-notices)
 - 📢 [2025-08-08] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iib-advertising)
 - 📢 [2025-08-08] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iia-advertising)
+- 📢 [2025-08-08] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-i-general)
+- ✍️ [2025-08-07] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/627-2025)
 - 🚨 [2025-08-06] [2448/34](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-34)
 - 🚨 [2025-08-06] [2448/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-26)
