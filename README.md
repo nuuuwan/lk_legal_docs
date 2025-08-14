@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-14 05:14:32**.*
+*Last Updated **2025-08-14 05:46:21**.*
 
 **44,287** documents (24.2 MB), from 1981-01-22 to 2025-08-13.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**13** Documents
 
 - 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
 - 🚨 [2025-08-13] [Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-14)
@@ -69,5 +69,3 @@ For best results, use a desktop browser.
 - 📢 [2025-08-08] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iia-advertising)
 - 📢 [2025-08-08] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-i-general)
 - ✍️ [2025-08-07] [PresidentsÃ¢â¬â¢ Entitlements (Repeal) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/627-2025)
-- 🚨 [2025-08-06] [2448/34](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-34)
-- 🚨 [2025-08-06] [2448/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2448-26)
