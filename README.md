@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-15 12:19:30**.*
+*Last Updated **2025-08-15 12:35:12**.*
 
-**44,291** documents (24.2 MB), from 1981-01-22 to 2025-08-13.
+**44,304** documents (24.2 MB), from 1981-01-22 to 2025-08-15.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,9 +26,9 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,975 | 2010-01-01 | 2025-08-13 |
-| 📢 Gazettes | 6,308 | 2006-03-03 | 2025-08-08 |
-| ✍️ Bills | 1,357 | 2010-05-10 | 2025-08-07 |
+| 📢 Gazettes | 6,311 | 2006-03-03 | 2025-08-15 |
+| 🚨 Extraordinary Gazettes | 34,984 | 2010-01-01 | 2025-08-13 |
+| ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
 
 ## Summary of Extended Data
@@ -54,9 +54,14 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**18** Documents
 
+- 📢 [2025-08-15] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-land-section)
+- 📢 [2025-08-15] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iv-a-provincial-councils)
+- 📢 [2025-08-15] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iia-advertising)
 - 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
+- 🚨 [2025-08-13] [Election Ãâ¡ommission - Notice Under Section 66 A (1) (a) Filling of a Vacancy in the office of member of the Matara Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-25)
+- 🚨 [2025-08-13] [2449/15](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-15)
 - 🚨 [2025-08-13] [Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-14)
 - 🚨 [2025-08-11] [Dept. of L.G. Central Province - Notice Under Section 66 C (1) Elected Deputy Chairman of a Ukuwela Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-03)
 - 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
