@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-15 11:15:32**.*
+*Last Updated **2025-08-15 11:35:54**.*
 
-**44,287** documents (24.2 MB), from 1981-01-22 to 2025-08-13.
+**44,291** documents (24.2 MB), from 1981-01-22 to 2025-08-13.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,971 | 2010-01-01 | 2025-08-13 |
+| 🚨 Extraordinary Gazettes | 34,975 | 2010-01-01 | 2025-08-13 |
 | 📢 Gazettes | 6,308 | 2006-03-03 | 2025-08-08 |
 | ✍️ Bills | 1,357 | 2010-05-10 | 2025-08-07 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
@@ -54,10 +54,11 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**13** Documents
 
 - 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
 - 🚨 [2025-08-13] [Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-14)
+- 🚨 [2025-08-11] [Dept. of L.G. Central Province - Notice Under Section 66 C (1) Elected Deputy Chairman of a Ukuwela Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-03)
 - 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
 - 🚨 [2025-08-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.08.2025 to 17.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-01)
 - 📢 [2025-08-08] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-legal-section)
