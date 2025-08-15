@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-15 18:01:56**.*
+*Last Updated **2025-08-15 18:27:19**.*
 
-**44,309** documents (24.2 MB), from 1981-01-22 to 2025-08-15.
+**44,311** documents (24.2 MB), from 1981-01-22 to 2025-08-15.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,311 | 2006-03-03 | 2025-08-15 |
+| 📢 Gazettes | 6,313 | 2006-03-03 | 2025-08-15 |
 | 🚨 Extraordinary Gazettes | 34,989 | 2010-01-01 | 2025-08-13 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
 | 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
@@ -54,10 +54,12 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**20** Documents
 
+- 📢 [2025-08-15] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-legal-section)
 - 📢 [2025-08-15] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-land-section)
 - 📢 [2025-08-15] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iv-a-provincial-councils)
+- 📢 [2025-08-15] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iib-advertising)
 - 📢 [2025-08-15] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iia-advertising)
 - 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
 - 🚨 [2025-08-13] [Election Ãâ¡ommission - Notice Under Section 66 A (1) (a) Filling of a Vacancy in the office of member of the Matara Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-25)
