@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-16 05:14:10**.*
+*Last Updated **2025-08-16 05:45:36**.*
 
 **44,311** documents (24.2 MB), from 1981-01-22 to 2025-08-15.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**20** Documents
+**12** Documents
 
 - 📢 [2025-08-15] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-legal-section)
 - 📢 [2025-08-15] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-land-section)
@@ -68,11 +68,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-11] [Dept. of L.G. Central Province - Notice Under Section 66 C (1) Elected Deputy Chairman of a Ukuwela Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-03)
 - 🚨 [2025-08-11] [2449/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-02)
 - 🚨 [2025-08-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.08.2025 to 17.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-01)
-- 📢 [2025-08-08] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-legal-section)
-- 📢 [2025-08-08] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-land-section)
-- 📢 [2025-08-08] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iv-b-local-government)
-- 📢 [2025-08-08] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iv-a-provincial-councils)
-- 📢 [2025-08-08] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iii-trade-marks-and-patent-notices)
-- 📢 [2025-08-08] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iib-advertising)
-- 📢 [2025-08-08] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-iia-advertising)
-- 📢 [2025-08-08] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-08-i-general)
