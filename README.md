@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-19 18:26:26**.*
+*Last Updated **2025-08-19 18:43:11**.*
 
-**44,346** documents (24.3 MB), from 1981-01-22 to 2025-08-18.
+**44,347** documents (24.3 MB), from 1981-01-22 to 2025-08-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -28,8 +28,8 @@ For best results, use a desktop browser.
 | :-- | --: | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 35,021 | 2010-01-01 | 2025-08-18 |
 | 📢 Gazettes | 6,316 | 2006-03-03 | 2025-08-15 |
+| 🏛️ Acts | 1,652 | 1981-01-22 | 2025-08-15 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
-| 🏛️ Acts | 1,651 | 1981-01-22 | 2025-08-04 |
 
 ## Summary of Extended Data
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**19** Documents
 
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
 - 🚨 [2025-08-15] [2449/63](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-63)
@@ -68,6 +68,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-15] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iib-advertising)
 - 📢 [2025-08-15] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iia-advertising)
 - 📢 [2025-08-15] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-i-general)
+- 🏛️ [2025-08-15] [Bills of Exchange (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/13-2025)
 - 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
 - 🚨 [2025-08-13] [Election Ãâ¡ommission - Notice Under Section 66 A (1) (a) Filling of a Vacancy in the office of member of the Matara Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-25)
 - 🚨 [2025-08-13] [2449/16](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-16)
