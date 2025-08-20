@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-21 00:17:56**.*
+*Last Updated **2025-08-21 00:33:32**.*
 
-**44,369** documents (24.3 MB), from 1981-01-22 to 2025-08-20.
+**44,370** documents (24.3 MB), from 1981-01-22 to 2025-08-20.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,043 | 2010-01-01 | 2025-08-20 |
+| 🚨 Extraordinary Gazettes | 35,044 | 2010-01-01 | 2025-08-20 |
 | 📢 Gazettes | 6,316 | 2006-03-03 | 2025-08-15 |
 | 🏛️ Acts | 1,652 | 1981-01-22 | 2025-08-15 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
@@ -54,10 +54,11 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**21** Documents
+**22** Documents
 
 - 🚨 [2025-08-20] [Presidential- Appointed of the Inspector General of Police](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-28)
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
+- 🚨 [2025-08-16] [M/of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-72)
 - 🚨 [2025-08-15] [2449/63](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-63)
 - 🚨 [2025-08-15] [2449/62](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-62)
 - 🚨 [2025-08-15] [2449/61](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-61)
