@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-20 05:13:26**.*
+*Last Updated **2025-08-20 05:45:20**.*
 
 **44,347** documents (24.3 MB), from 1981-01-22 to 2025-08-18.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**19** Documents
+**18** Documents
 
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
 - 🚨 [2025-08-15] [2449/63](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-63)
@@ -74,4 +74,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-13] [2449/16](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-16)
 - 🚨 [2025-08-13] [2449/15](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-15)
 - 🚨 [2025-08-13] [Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-14)
-- 🚨 [2025-08-12] [2449/12](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-12)
