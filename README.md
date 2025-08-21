@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-21 05:13:35**.*
+*Last Updated **2025-08-21 05:44:34**.*
 
 **44,370** documents (24.3 MB), from 1981-01-22 to 2025-08-20.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**22** Documents
+**16** Documents
 
 - 🚨 [2025-08-20] [Presidential- Appointed of the Inspector General of Police](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-28)
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
@@ -72,9 +72,3 @@ For best results, use a desktop browser.
 - 📢 [2025-08-15] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-i-general)
 - 🏛️ [2025-08-15] [Bills of Exchange (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/13-2025)
 - 🚨 [2025-08-14] [2449/44](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-44)
-- 🚨 [2025-08-13] [Ministry of Defence - The Navy Act (Chapter 358) Order Under Section 21](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-27)
-- 🚨 [2025-08-13] [2449/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-26)
-- 🚨 [2025-08-13] [Election Ãâ¡ommission - Notice Under Section 66 A (1) (a) Filling of a Vacancy in the office of member of the Matara Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-25)
-- 🚨 [2025-08-13] [2449/16](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-16)
-- 🚨 [2025-08-13] [2449/15](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-15)
-- 🚨 [2025-08-13] [Dept. of Local Government- Southern Province - Notice Under Section 66 C (1) Elected Chairman and Vice Chairman Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-14)
