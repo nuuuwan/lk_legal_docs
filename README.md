@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-22 05:13:24**.*
+*Last Updated **2025-08-22 05:45:23**.*
 
-**44,389** documents (24.3 MB), from 1981-01-22 to 2025-08-21.
+**44,390** documents (24.3 MB), from 1981-01-22 to 2025-08-21.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,063 | 2010-01-01 | 2025-08-21 |
+| 🚨 Extraordinary Gazettes | 35,064 | 2010-01-01 | 2025-08-21 |
 | 📢 Gazettes | 6,316 | 2006-03-03 | 2025-08-15 |
 | 🏛️ Acts | 1,652 | 1981-01-22 | 2025-08-15 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
@@ -61,6 +61,7 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-20] [Presidential Secretariat- Establishment of a Presidential Task Force for the Implementation of the Sri Lanka Tourism Development Programme](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-27)
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
 - 🚨 [2025-08-16] [M/of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-72)
+- 🚨 [2025-08-16] [M/ of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-71)
 - 🚨 [2025-08-15] [2449/63](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-63)
 - 🚨 [2025-08-15] [2449/62](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-62)
 - 🚨 [2025-08-15] [2449/61](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-61)
@@ -73,4 +74,3 @@ For best results, use a desktop browser.
 - 📢 [2025-08-15] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iia-advertising)
 - 📢 [2025-08-15] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-i-general)
 - 🏛️ [2025-08-15] [Bills of Exchange (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/13-2025)
-- 🚨 [2025-08-14] [2449/44](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-44)
