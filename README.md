@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-23 16:13:51**.*
+*Last Updated **2025-08-23 16:33:39**.*
 
-**44,401** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
+**44,402** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -27,7 +27,7 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 35,069 | 2010-01-01 | 2025-08-22 |
-| 📢 Gazettes | 6,321 | 2006-03-03 | 2025-08-22 |
+| 📢 Gazettes | 6,322 | 2006-03-03 | 2025-08-22 |
 | 🏛️ Acts | 1,653 | 1981-01-22 | 2025-08-18 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
 
@@ -54,12 +54,13 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**14** Documents
 
 - 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
 - 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
 - 📢 [2025-08-22] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iv-b-local-government)
 - 📢 [2025-08-22] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iii-trade-marks-and-patent-notices)
+- 📢 [2025-08-22] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iib-advertising)
 - 📢 [2025-08-22] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iia-advertising)
 - 📢 [2025-08-22] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-i-general)
 - 🚨 [2025-08-21] [Ministry of Defence - Amendment to the Consolidated List under Regulation 4 (2) (B) United Nations Regulations No. 2 of 2012](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-39)
