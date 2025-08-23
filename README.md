@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-23 05:12:56**.*
+*Last Updated **2025-08-23 05:45:06**.*
 
 **44,401** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**25** Documents
+**13** Documents
 
 - 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
 - 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
@@ -69,15 +69,3 @@ For best results, use a desktop browser.
 - 🏛️ [2025-08-18] [Sri Lanka Electricity (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/14-2025)
 - 🚨 [2025-08-16] [M/of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-72)
 - 🚨 [2025-08-16] [M/ of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-71)
-- 🚨 [2025-08-15] [2449/63](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-63)
-- 🚨 [2025-08-15] [2449/62](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-62)
-- 🚨 [2025-08-15] [2449/61](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-61)
-- 📢 [2025-08-15] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-legal-section)
-- 📢 [2025-08-15] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-land-section)
-- 📢 [2025-08-15] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iv-b-local-government)
-- 📢 [2025-08-15] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iv-a-provincial-councils)
-- 📢 [2025-08-15] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iii-trade-marks-and-patent-notices)
-- 📢 [2025-08-15] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iib-advertising)
-- 📢 [2025-08-15] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-iia-advertising)
-- 📢 [2025-08-15] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-15-i-general)
-- 🏛️ [2025-08-15] [Bills of Exchange (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/13-2025)
