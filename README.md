@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-24 05:13:05**.*
+*Last Updated **2025-08-24 05:47:20**.*
 
 **44,404** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**14** Documents
 
 - 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
 - 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
@@ -70,5 +70,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-20] [Presidential Secretariat- Establishment of a Presidential Task Force for the Implementation of the Sri Lanka Tourism Development Programme](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-27)
 - 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
 - 🏛️ [2025-08-18] [Sri Lanka Electricity (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/14-2025)
-- 🚨 [2025-08-16] [M/of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-72)
-- 🚨 [2025-08-16] [M/ of Public Administration- Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2449-71)
