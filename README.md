@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-26 01:12:57**.*
+*Last Updated **2025-08-26 01:34:21**.*
 
-**44,417** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
+**44,427** documents (24.3 MB), from 1981-01-22 to 2025-08-25.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,084 | 2010-01-01 | 2025-08-22 |
+| 🚨 Extraordinary Gazettes | 35,094 | 2010-01-01 | 2025-08-25 |
 | 📢 Gazettes | 6,322 | 2006-03-03 | 2025-08-22 |
 | 🏛️ Acts | 1,653 | 1981-01-22 | 2025-08-18 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
@@ -54,8 +54,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**18** Documents
 
+- 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
+- 🚨 [2025-08-25] [Sri Lanka Customs - Rates of Exchange with effect from 25.08.2025 to 31.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-01)
 - 🚨 [2025-08-22] [Election Commission - Notice under Section 66A (1) (a) Filling of a Vacancy in the Office of Member of the Nagoda Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-57)
 - 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
 - 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
@@ -64,6 +66,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-22] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iib-advertising)
 - 📢 [2025-08-22] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iia-advertising)
 - 📢 [2025-08-22] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-i-general)
+- 🚨 [2025-08-21] [M/ of Youth Affairs and Sports- Sports Act, No. 25 of 1973 Amended Extra Ordinary Gazette Notification](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-42)
 - 🚨 [2025-08-21] [M/ of Education, Higher Education and Vocational Education- Universities Act, No. 16 of 1978 Sri Lanka Technology Campus (PVT) Limited](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-41)
 - 🚨 [2025-08-21] [M/ of Education, Higher Education and Vocational Education- Universities Act, No. 16 of 1978 Degree Awarding Institute Order (SLIIT)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-40)
 - 🚨 [2025-08-21] [Ministry of Defence - Amendment to the Consolidated List under Regulation 4 (2) (B) United Nations Regulations No. 2 of 2012](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-39)
