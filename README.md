@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-25 12:19:31**.*
+*Last Updated **2025-08-25 12:34:57**.*
 
-**44,404** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
+**44,417** documents (24.3 MB), from 1981-01-22 to 2025-08-22.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,071 | 2010-01-01 | 2025-08-22 |
+| 🚨 Extraordinary Gazettes | 35,084 | 2010-01-01 | 2025-08-22 |
 | 📢 Gazettes | 6,322 | 2006-03-03 | 2025-08-22 |
 | 🏛️ Acts | 1,653 | 1981-01-22 | 2025-08-18 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**15** Documents
 
+- 🚨 [2025-08-22] [Election Commission - Notice under Section 66A (1) (a) Filling of a Vacancy in the Office of Member of the Nagoda Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-57)
 - 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
 - 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
 - 📢 [2025-08-22] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iv-b-local-government)
