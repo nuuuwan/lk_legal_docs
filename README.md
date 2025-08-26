@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-26 05:13:20**.*
+*Last Updated **2025-08-26 05:45:26**.*
 
 **44,427** documents (24.3 MB), from 1981-01-22 to 2025-08-25.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**16** Documents
 
 - 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
 - 🚨 [2025-08-25] [Sri Lanka Customs - Rates of Exchange with effect from 25.08.2025 to 31.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-01)
@@ -72,5 +72,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-21] [Ministry of Defence - Amendment to the Consolidated List under Regulation 4 (2) (B) United Nations Regulations No. 2 of 2012](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-39)
 - 🚨 [2025-08-20] [Presidential- Appointed of the Inspector General of Police](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-28)
 - 🚨 [2025-08-20] [Presidential Secretariat- Establishment of a Presidential Task Force for the Implementation of the Sri Lanka Tourism Development Programme](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-27)
-- 🚨 [2025-08-18] [Sri Lanka Customs- Rates of Exchange with effect from 18.08.2025 to 24.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-01)
-- 🏛️ [2025-08-18] [Sri Lanka Electricity (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/14-2025)
