@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-27 17:12:36**.*
+*Last Updated **2025-08-27 17:36:27**.*
 
-**44,443** documents (24.3 MB), from 1981-01-22 to 2025-08-25.
+**44,445** documents (24.3 MB), from 1981-01-22 to 2025-08-27.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,110 | 2010-01-01 | 2025-08-25 |
+| 🚨 Extraordinary Gazettes | 35,112 | 2010-01-01 | 2025-08-27 |
 | 📢 Gazettes | 6,322 | 2006-03-03 | 2025-08-22 |
 | 🏛️ Acts | 1,653 | 1981-01-22 | 2025-08-18 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**17** Documents
 
+- 🚨 [2025-08-27] [Presidential Secretariat - Public Security Ordinance (Chapter 40) Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-15)
 - 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
 - 🚨 [2025-08-25] [Sri Lanka Customs - Rates of Exchange with effect from 25.08.2025 to 31.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-01)
 - 🚨 [2025-08-22] [Election Commission - Notice under Section 66A (1) (a) Filling of a Vacancy in the Office of Member of the Nagoda Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-57)
