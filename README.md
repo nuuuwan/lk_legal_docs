@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-28 05:12:48**.*
+*Last Updated **2025-08-28 05:45:25**.*
 
 **44,447** documents (24.3 MB), from 1981-01-22 to 2025-08-27.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**19** Documents
+**17** Documents
 
 - 🚨 [2025-08-27] [Presidential Secretariat - Public Security Ordinance (Chapter 40) Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-15)
 - 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
@@ -73,5 +73,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-21] [M/ of Education, Higher Education and Vocational Education- Universities Act, No. 16 of 1978 Sri Lanka Technology Campus (PVT) Limited](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-41)
 - 🚨 [2025-08-21] [M/ of Education, Higher Education and Vocational Education- Universities Act, No. 16 of 1978 Degree Awarding Institute Order (SLIIT)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-40)
 - 🚨 [2025-08-21] [Ministry of Defence - Amendment to the Consolidated List under Regulation 4 (2) (B) United Nations Regulations No. 2 of 2012](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-39)
-- 🚨 [2025-08-20] [Presidential- Appointed of the Inspector General of Police](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-28)
-- 🚨 [2025-08-20] [Presidential Secretariat- Establishment of a Presidential Task Force for the Implementation of the Sri Lanka Tourism Development Programme](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-27)
