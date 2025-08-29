@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-29 15:13:49**.*
+*Last Updated **2025-08-29 15:34:36**.*
 
-**44,456** documents (24.3 MB), from 1981-01-22 to 2025-08-27.
+**44,459** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,8 +26,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,119 | 2010-01-01 | 2025-08-27 |
-| 📢 Gazettes | 6,324 | 2006-03-03 | 2025-08-22 |
+| 📢 Gazettes | 6,325 | 2006-03-03 | 2025-08-29 |
+| 🚨 Extraordinary Gazettes | 35,121 | 2010-01-01 | 2025-08-27 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
 
@@ -35,12 +35,12 @@ For best results, use a desktop browser.
 
 | decade | p_complete | n_docs | n_pdfs | total_file_size_g | n_all_downloaded | n_some_failed | n_all_failed | n_queued |
 | :-- | --: | --: | --: | --: | --: | --: | --: | --: |
-| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,247 | 51,955 | 21.3 GB | 14,189 | 4,046 | 12 | 0 |
+| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,247 | 51,962 | 21.3 GB | 14,189 | 4,052 | 6 | 0 |
 | [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 100% | 24,451 | 68,286 | 22.1 GB | 22,589 | 1,334 | 528 | 0 |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data) | 100% | 1,015 | 2,923 | 1.8 GB | 945 | 70 | 0 | 0 |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data) | 100% | 339 | 655 | 0.2 GB | 322 | 17 | 0 | 0 |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data) | 100% | 404 | 603 | 0.3 GB | 391 | 13 | 0 | 0 |
-| **Total** | **100%** | **44,456** | **124,422** | **45.7 GB** | **38,436** | **5,480** | **540** | **0** |
+| **Total** | **100%** | **44,456** | **124,429** | **45.7 GB** | **38,436** | **5,486** | **534** | **0** |
 
 ## Summary Charts
 
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**19** Documents
 
+- 📢 [2025-08-29] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iii-trade-marks-and-patent-notices)
 - 🚨 [2025-08-27] [Presidential Secretariat - Public Security Ordinance (Chapter 40) Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-15)
 - 🚨 [2025-08-26] [Public Utilities Sri Lanka Electricity Act, No. 20 of 2009 (Amended) issuance of Certificate of Exemption](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-14)
 - 🚨 [2025-08-26] [2451/13](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-13)
