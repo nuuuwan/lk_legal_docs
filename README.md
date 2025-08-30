@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-08-30 05:12:29**.*
+*Last Updated **2025-08-30 05:44:39**.*
 
 **44,464** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**24** Documents
+**12** Documents
 
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
 - 📢 [2025-08-29] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iv-b-local-government)
@@ -68,15 +68,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-26] [Ministry of Energy - Sri Lanka Electricity Act, no 36 of 2024 Regulation](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-11)
 - 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
 - 🚨 [2025-08-25] [Sri Lanka Customs - Rates of Exchange with effect from 25.08.2025 to 31.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-01)
-- 🚨 [2025-08-22] [Election Commission - Notice under Section 66A (1) (a) Filling of a Vacancy in the Office of Member of the Nagoda Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-57)
-- 🚨 [2025-08-22] [Dept. of Census and Statistics- National Consumer Price Index- July 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2450-43)
-- 📢 [2025-08-22] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-legal-section)
-- 📢 [2025-08-22] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-land-section)
-- 📢 [2025-08-22] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iv-b-local-government)
-- 📢 [2025-08-22] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iv-a-provincial-councils)
-- 📢 [2025-08-22] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iii-trade-marks-and-patent-notices)
-- 📢 [2025-08-22] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iib-advertising)
-- 📢 [2025-08-22] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-iia-advertising)
-- 📢 [2025-08-22] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-22-i-general)
-- 🏛️ [2025-08-22] [Rubber Control (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/16-2025)
-- 🏛️ [2025-08-22] [Samurdhi (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/15-2025)
