@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-01 12:19:28**.*
+*Last Updated **2025-09-01 12:34:50**.*
 
-**44,467** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
+**44,468** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -27,7 +27,7 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | 📢 Gazettes | 6,330 | 2006-03-03 | 2025-08-29 |
-| 🚨 Extraordinary Gazettes | 35,124 | 2010-01-01 | 2025-08-27 |
+| 🚨 Extraordinary Gazettes | 35,125 | 2010-01-01 | 2025-08-28 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 | ✍️ Bills | 1,358 | 2010-05-10 | 2025-08-07 |
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**13** Documents
 
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
 - 📢 [2025-08-29] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iv-b-local-government)
@@ -62,6 +62,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-29] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iib-advertising)
 - 📢 [2025-08-29] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iia-advertising)
 - 📢 [2025-08-29] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-i-general)
+- 🚨 [2025-08-28] [2451/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-27)
 - 🚨 [2025-08-27] [Presidential Secretariat - Public Security Ordinance (Chapter 40) Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-15)
 - 🚨 [2025-08-26] [Public Utilities Sri Lanka Electricity Act, No. 20 of 2009 (Amended) issuance of Certificate of Exemption](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-14)
 - 🚨 [2025-08-26] [2451/13](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-13)
