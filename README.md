@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-02 05:12:46**.*
+*Last Updated **2025-09-02 05:45:31**.*
 
 **44,490** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**13** Documents
 
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
 - 📢 [2025-08-29] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iv-b-local-government)
@@ -69,5 +69,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-08-26] [2451/13](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-13)
 - 🚨 [2025-08-26] [Coast Conservation and Coastal Resource Management Department- Environmental Impact Assessment Report Proposed Project on 220 Units of appartments](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-12)
 - 🚨 [2025-08-26] [Ministry of Energy - Sri Lanka Electricity Act, no 36 of 2024 Regulation](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-11)
-- 🚨 [2025-08-25] [Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 & 33 of Sports Law No. 25 of 1973](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-09)
-- 🚨 [2025-08-25] [Sri Lanka Customs - Rates of Exchange with effect from 25.08.2025 to 31.08.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-01)
