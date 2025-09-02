@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-02 10:15:23**.*
+*Last Updated **2025-09-02 10:34:38**.*
 
-**44,490** documents (24.3 MB), from 1981-01-22 to 2025-08-29.
+**44,494** documents (24.3 MB), from 1981-01-22 to 2025-09-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,8 +26,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| 🚨 Extraordinary Gazettes | 35,150 | 2010-01-01 | 2025-09-01 |
 | 📢 Gazettes | 6,330 | 2006-03-03 | 2025-08-29 |
-| 🚨 Extraordinary Gazettes | 35,146 | 2010-01-01 | 2025-08-28 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 | ✍️ Bills | 1,359 | 2010-05-10 | 2025-08-19 |
 
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**16** Documents
 
+- 🚨 [2025-09-01] [Sri Lanka Customs - Rates of Exchange with effect from 01.09.2025 to 07.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-01)
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
 - 📢 [2025-08-29] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iv-b-local-government)
 - 📢 [2025-08-29] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iii-trade-marks-and-patent-notices)
@@ -63,6 +64,8 @@ For best results, use a desktop browser.
 - 📢 [2025-08-29] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iia-advertising)
 - 📢 [2025-08-29] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-i-general)
 - 🚨 [2025-08-28] [2451/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-27)
+- 🚨 [2025-08-27] [M/of Youth Affairs and Sports- Appointed the Secretary to the Ministry of Youth Affairs and Sports as the Competent Authority](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-25)
+- 🚨 [2025-08-27] [M/of Youth Affairs and Sports- Under Section 32 and 33 of Sports Law No. 25 of 1973 Temporarily Suspend the registration of Karate and Appointed a Woring Task Force](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-24)
 - 🚨 [2025-08-27] [M/of Public Administration P.C and L.G - Appointments Under the Notaries Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-17)
 - 🚨 [2025-08-27] [Presidential Secretariat - Public Security Ordinance (Chapter 40) Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-15)
 - 🚨 [2025-08-26] [Public Utilities Sri Lanka Electricity Act, No. 20 of 2009 (Amended) issuance of Certificate of Exemption](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-14)
