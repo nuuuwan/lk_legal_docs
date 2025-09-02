@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-02 17:12:53**.*
+*Last Updated **2025-09-02 17:36:57**.*
 
-**44,503** documents (24.3 MB), from 1981-01-22 to 2025-09-01.
+**44,505** documents (24.3 MB), from 1981-01-22 to 2025-09-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,159 | 2010-01-01 | 2025-09-01 |
+| 🚨 Extraordinary Gazettes | 35,161 | 2010-01-01 | 2025-09-01 |
 | 📢 Gazettes | 6,330 | 2006-03-03 | 2025-08-29 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 | ✍️ Bills | 1,359 | 2010-05-10 | 2025-08-19 |
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**17** Documents
 
 - 🚨 [2025-09-01] [Sri Lanka Customs - Rates of Exchange with effect from 01.09.2025 to 07.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-01)
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
@@ -63,6 +63,7 @@ For best results, use a desktop browser.
 - 📢 [2025-08-29] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iib-advertising)
 - 📢 [2025-08-29] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iia-advertising)
 - 📢 [2025-08-29] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-i-general)
+- 🚨 [2025-08-28] [Land Title Settlement Dept. - Magammana, Homagama D/S Division, Colombo District (25/5514134)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-32)
 - 🚨 [2025-08-28] [2451/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-27)
 - 🚨 [2025-08-27] [M/of Youth Affairs and Sports- Appointed the Secretary to the Ministry of Youth Affairs and Sports as the Competent Authority](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-25)
 - 🚨 [2025-08-27] [M/of Youth Affairs and Sports- Under Section 32 and 33 of Sports Law No. 25 of 1973 Temporarily Suspend the registration of Karate and Appointed a Woring Task Force](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-24)
