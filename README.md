@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-02 16:15:18**.*
+*Last Updated **2025-09-02 16:33:58**.*
 
-**44,494** documents (24.3 MB), from 1981-01-22 to 2025-09-01.
+**44,503** documents (24.3 MB), from 1981-01-22 to 2025-09-01.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,150 | 2010-01-01 | 2025-09-01 |
+| 🚨 Extraordinary Gazettes | 35,159 | 2010-01-01 | 2025-09-01 |
 | 📢 Gazettes | 6,330 | 2006-03-03 | 2025-08-29 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 | ✍️ Bills | 1,359 | 2010-05-10 | 2025-08-19 |
@@ -35,12 +35,12 @@ For best results, use a desktop browser.
 
 | decade | p_complete | n_docs | n_pdfs | total_file_size_g | n_all_downloaded | n_some_failed | n_all_failed | n_queued |
 | :-- | --: | --: | --: | --: | --: | --: | --: | --: |
-| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,285 | 51,986 | 21.3 GB | 14,202 | 4,052 | 31 | 0 |
+| [2020s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data) | 100% | 18,285 | 51,992 | 21.3 GB | 14,202 | 4,055 | 28 | 0 |
 | [2010s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2010s/data) | 100% | 24,451 | 68,286 | 22.1 GB | 22,589 | 1,334 | 528 | 0 |
 | [2000s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2000s/data) | 100% | 1,015 | 2,923 | 1.8 GB | 945 | 70 | 0 | 0 |
 | [1990s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1990s/data) | 100% | 339 | 655 | 0.2 GB | 322 | 17 | 0 | 0 |
 | [1980s](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_1980s/data) | 100% | 404 | 603 | 0.3 GB | 391 | 13 | 0 | 0 |
-| **Total** | **100%** | **44,494** | **124,453** | **45.7 GB** | **38,449** | **5,486** | **559** | **0** |
+| **Total** | **100%** | **44,494** | **124,459** | **45.7 GB** | **38,449** | **5,489** | **556** | **0** |
 
 ## Summary Charts
 
