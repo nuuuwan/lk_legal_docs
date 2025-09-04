@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-04 16:13:53**.*
+*Last Updated **2025-09-04 16:33:54**.*
 
-**44,522** documents (24.3 MB), from 1981-01-22 to 2025-09-04.
+**44,534** documents (24.3 MB), from 1981-01-22 to 2025-09-04.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -27,7 +27,7 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
-| 🚨 Extraordinary Gazettes | 35,176 | 2010-01-01 | 2025-09-01 |
+| 🚨 Extraordinary Gazettes | 35,188 | 2010-01-01 | 2025-09-01 |
 | 📢 Gazettes | 6,330 | 2006-03-03 | 2025-08-29 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 
@@ -54,10 +54,12 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**10** Documents
+**12** Documents
 
 - ✍️ [2025-09-04] [Convention against Doping in Sport (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/631-2025)
+- 🚨 [2025-09-01] [Dept. of Local Governtment- Eastern Province Elected and declared New Vice Chairman of Manmunaipattu Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-02)
 - 🚨 [2025-09-01] [Sri Lanka Customs - Rates of Exchange with effect from 01.09.2025 to 07.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-01)
+- 🚨 [2025-08-30] [Land Aquisition - Thissawewawaththa, Nuwaragampalatha Central D/S Division, Anuradhapura District Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-41)
 - 📢 [2025-08-29] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-legal-section)
 - 📢 [2025-08-29] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iv-b-local-government)
 - 📢 [2025-08-29] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iii-trade-marks-and-patent-notices)
