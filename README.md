@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-05 17:12:54**.*
+*Last Updated **2025-09-05 17:36:35**.*
 
-**44,538** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
+**44,542** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 | :-- | --: | :-- | :-- |
 | 📢 Gazettes | 6,334 | 2006-03-03 | 2025-09-05 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
-| 🚨 Extraordinary Gazettes | 35,188 | 2010-01-01 | 2025-09-01 |
+| 🚨 Extraordinary Gazettes | 35,192 | 2010-01-01 | 2025-09-04 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 
 ## Summary of Extended Data
@@ -54,13 +54,16 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**17** Documents
 
 - 📢 [2025-09-05] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-legal-section)
 - 📢 [2025-09-05] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-land-section)
 - 📢 [2025-09-05] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iia-advertising)
 - 📢 [2025-09-05] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-i-general)
 - ✍️ [2025-09-04] [Convention against Doping in Sport (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/631-2025)
+- 🚨 [2025-09-04] [Election Commission - Filling of a vacancy in the office of member of the Medawachchiya Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-41)
+- 🚨 [2025-09-04] [2452/38](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-38)
+- 🚨 [2025-09-03] [Coast Conservation and Costal Resource Management Department- Environmental Impact Assessment Report Proposed Projection on 288 units of Apartment Project](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-21)
 - 🚨 [2025-09-01] [Dept. of Local Governtment- Eastern Province Elected and declared New Vice Chairman of Manmunaipattu Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-02)
 - 🚨 [2025-09-01] [Sri Lanka Customs - Rates of Exchange with effect from 01.09.2025 to 07.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-01)
 - 🚨 [2025-08-30] [Land Aquisition - Thissawewawaththa, Nuwaragampalatha Central D/S Division, Anuradhapura District Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-41)
