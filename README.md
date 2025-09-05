@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-05 05:12:27**.*
+*Last Updated **2025-09-05 05:45:23**.*
 
 **44,537** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**13** Documents
 
 - 📢 [2025-09-05] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-legal-section)
 - 📢 [2025-09-05] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-land-section)
@@ -69,5 +69,3 @@ For best results, use a desktop browser.
 - 📢 [2025-08-29] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iib-advertising)
 - 📢 [2025-08-29] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-iia-advertising)
 - 📢 [2025-08-29] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-08-29-i-general)
-- 🚨 [2025-08-28] [Land Title Settlement Dept. - Magammana, Homagama D/S Division, Colombo District (25/5514134)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-32)
-- 🚨 [2025-08-28] [2451/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-27)
