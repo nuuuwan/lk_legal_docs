@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-07 05:12:45**.*
+*Last Updated **2025-09-07 05:46:20**.*
 
 **44,542** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**11** Documents
+**10** Documents
 
 - 📢 [2025-09-05] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-legal-section)
 - 📢 [2025-09-05] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-land-section)
@@ -66,4 +66,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-09-03] [Coast Conservation and Costal Resource Management Department- Environmental Impact Assessment Report Proposed Projection on 288 units of Apartment Project](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-21)
 - 🚨 [2025-09-01] [Dept. of Local Governtment- Eastern Province Elected and declared New Vice Chairman of Manmunaipattu Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-02)
 - 🚨 [2025-09-01] [Sri Lanka Customs - Rates of Exchange with effect from 01.09.2025 to 07.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-01)
-- 🚨 [2025-08-30] [Land Aquisition - Thissawewawaththa, Nuwaragampalatha Central D/S Division, Anuradhapura District Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2451-41)
