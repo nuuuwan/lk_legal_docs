@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-08 11:13:46**.*
+*Last Updated **2025-09-08 11:36:24**.*
 
-**44,542** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
+**44,543** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,334 | 2006-03-03 | 2025-09-05 |
+| 📢 Gazettes | 6,335 | 2006-03-03 | 2025-09-05 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
 | 🚨 Extraordinary Gazettes | 35,192 | 2010-01-01 | 2025-09-04 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
@@ -54,10 +54,11 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**10** Documents
+**11** Documents
 
 - 📢 [2025-09-05] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-legal-section)
 - 📢 [2025-09-05] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-land-section)
+- 📢 [2025-09-05] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iii-trade-marks-and-patent-notices)
 - 📢 [2025-09-05] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iia-advertising)
 - 📢 [2025-09-05] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-i-general)
 - ✍️ [2025-09-04] [Convention against Doping in Sport (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/631-2025)
