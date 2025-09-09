@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-09 11:13:53**.*
+*Last Updated **2025-09-09 11:35:46**.*
 
-**44,545** documents (24.3 MB), from 1981-01-22 to 2025-09-05.
+**44,547** documents (24.4 MB), from 1981-01-22 to 2025-09-08.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,9 +26,9 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| 🚨 Extraordinary Gazettes | 35,195 | 2010-01-01 | 2025-09-08 |
 | 📢 Gazettes | 6,336 | 2006-03-03 | 2025-09-05 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
-| 🚨 Extraordinary Gazettes | 35,193 | 2010-01-01 | 2025-09-04 |
 | 🏛️ Acts | 1,655 | 1981-01-22 | 2025-08-22 |
 
 ## Summary of Extended Data
@@ -54,8 +54,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**10** Documents
+**12** Documents
 
+- 🚨 [2025-09-08] [Election Commission - L. A. E. O. Notice Under Section 66A (1) Filling of a Vacancy in the office of members of the Akkaraipattu M/C](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-14)
+- 🚨 [2025-09-08] [Sri Lanka Customs - Rates of Exchange with effect from 08.09.2025 to 14.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-01)
 - 📢 [2025-09-05] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-legal-section)
 - 📢 [2025-09-05] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-land-section)
 - 📢 [2025-09-05] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iv-b-local-government)
