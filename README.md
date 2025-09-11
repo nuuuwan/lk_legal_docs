@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-11 05:12:58**.*
+*Last Updated **2025-09-11 05:45:20**.*
 
 **44,552** documents (24.4 MB), from 1981-01-22 to 2025-09-08.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**13** Documents
 
 - 🚨 [2025-09-08] [Election Commission - L. A. E. O. Notice Under Section 66A (1) Filling of a Vacancy in the office of members of the Akkaraipattu M/C](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-14)
 - 🚨 [2025-09-08] [Sri Lanka Customs - Rates of Exchange with effect from 08.09.2025 to 14.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-01)
@@ -69,5 +69,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-09-04] [Election Commission - Filling of a vacancy in the office of member of the Medawachchiya Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-41)
 - 🚨 [2025-09-04] [2452/38](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-38)
 - 🚨 [2025-09-04] [Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/55050)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-31)
-- 🚨 [2025-09-03] [Coast Conservation and Costal Resource Management Department- Environmental Impact Assessment Report Proposed Projection on 288 units of Apartment Project](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-21)
-- 🏛️ [2025-09-03] [Gambling Regulatory Authority](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/17-2025)
