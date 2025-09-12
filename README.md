@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-12 13:12:54**.*
+*Last Updated **2025-09-12 13:35:42**.*
 
-**44,589** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
+**44,596** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,8 +26,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,338 | 2006-03-03 | 2025-09-12 |
-| 🚨 Extraordinary Gazettes | 35,234 | 2010-01-01 | 2025-09-10 |
+| 📢 Gazettes | 6,339 | 2006-03-03 | 2025-09-12 |
+| 🚨 Extraordinary Gazettes | 35,240 | 2010-01-01 | 2025-09-10 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
 | 🏛️ Acts | 1,656 | 1981-01-22 | 2025-09-03 |
 
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**13** Documents
 
+- 📢 [2025-09-12] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-legal-section)
 - 📢 [2025-09-12] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iii-trade-marks-and-patent-notices)
 - 🚨 [2025-09-10] [2453/22](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-22)
 - 🚨 [2025-09-09] [Public Utilities Commission of Sri Lanka - Revised Expenditure Budget - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-16)
