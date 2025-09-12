@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-12 05:12:57**.*
+*Last Updated **2025-09-12 05:45:26**.*
 
 **44,562** documents (24.4 MB), from 1981-01-22 to 2025-09-09.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**10** Documents
 
 - 🚨 [2025-09-09] [Public Utilities Commission of Sri Lanka - Revised Expenditure Budget - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-16)
 - 🚨 [2025-09-08] [Election Commission - L. A. E. O. Notice Under Section 66A (1) Filling of a Vacancy in the office of members of the Akkaraipattu M/C](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-14)
@@ -66,7 +66,3 @@ For best results, use a desktop browser.
 - 📢 [2025-09-05] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iib-advertising)
 - 📢 [2025-09-05] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-iia-advertising)
 - 📢 [2025-09-05] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-05-i-general)
-- ✍️ [2025-09-04] [Convention against Doping in Sport (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/631-2025)
-- 🚨 [2025-09-04] [Election Commission - Filling of a vacancy in the office of member of the Medawachchiya Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-41)
-- 🚨 [2025-09-04] [2452/38](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-38)
-- 🚨 [2025-09-04] [Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/55050)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2452-31)
