@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-12 11:12:54**.*
+*Last Updated **2025-09-12 11:35:42**.*
 
-**44,562** documents (24.4 MB), from 1981-01-22 to 2025-09-09.
+**44,589** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,8 +26,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 35,208 | 2010-01-01 | 2025-09-09 |
-| 📢 Gazettes | 6,337 | 2006-03-03 | 2025-09-05 |
+| 📢 Gazettes | 6,338 | 2006-03-03 | 2025-09-12 |
+| 🚨 Extraordinary Gazettes | 35,234 | 2010-01-01 | 2025-09-10 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
 | 🏛️ Acts | 1,656 | 1981-01-22 | 2025-09-03 |
 
@@ -54,8 +54,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**10** Documents
+**12** Documents
 
+- 📢 [2025-09-12] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iii-trade-marks-and-patent-notices)
+- 🚨 [2025-09-10] [2453/22](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-22)
 - 🚨 [2025-09-09] [Public Utilities Commission of Sri Lanka - Revised Expenditure Budget - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-16)
 - 🚨 [2025-09-08] [Election Commission - L. A. E. O. Notice Under Section 66A (1) Filling of a Vacancy in the office of members of the Akkaraipattu M/C](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-14)
 - 🚨 [2025-09-08] [Sri Lanka Customs - Rates of Exchange with effect from 08.09.2025 to 14.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-01)
