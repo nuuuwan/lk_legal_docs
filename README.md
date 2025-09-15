@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-15 10:15:10**.*
+*Last Updated **2025-09-15 10:34:32**.*
 
-**44,625** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
+**44,626** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -27,7 +27,7 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 35,265 | 2010-01-01 | 2025-09-12 |
-| 📢 Gazettes | 6,343 | 2006-03-03 | 2025-09-12 |
+| 📢 Gazettes | 6,344 | 2006-03-03 | 2025-09-12 |
 | ✍️ Bills | 1,361 | 2010-05-10 | 2025-09-04 |
 | 🏛️ Acts | 1,656 | 1981-01-22 | 2025-09-03 |
 
@@ -54,13 +54,14 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**12** Documents
+**13** Documents
 
 - 🚨 [2025-09-12] [Office of the Public Service Commission - Service Minute of the Sri Lanka Education Administrative Service 6th Amenmdent](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-34)
 - 📢 [2025-09-12] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-legal-section)
 - 📢 [2025-09-12] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-land-section)
 - 📢 [2025-09-12] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iv-b-local-government)
 - 📢 [2025-09-12] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iii-trade-marks-and-patent-notices)
+- 📢 [2025-09-12] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iib-advertising)
 - 📢 [2025-09-12] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iia-advertising)
 - 📢 [2025-09-12] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-i-general)
 - 🚨 [2025-09-11] [2453/24](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-24)
