@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-16 05:13:00**.*
+*Last Updated **2025-09-16 05:44:41**.*
 
 **44,630** documents (24.4 MB), from 1981-01-22 to 2025-09-12.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**13** Documents
+**11** Documents
 
 - 🚨 [2025-09-12] [Office of the Public Service Commission - Service Minute of the Sri Lanka Education Administrative Service 6th Amenmdent](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-34)
 - 📢 [2025-09-12] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-legal-section)
@@ -67,5 +67,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-09-11] [2453/24](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-24)
 - 🚨 [2025-09-10] [2453/22](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-22)
 - 🚨 [2025-09-09] [Public Utilities Commission of Sri Lanka - Revised Expenditure Budget - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-16)
-- 🚨 [2025-09-08] [Election Commission - L. A. E. O. Notice Under Section 66A (1) Filling of a Vacancy in the office of members of the Akkaraipattu M/C](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-14)
-- 🚨 [2025-09-08] [Sri Lanka Customs - Rates of Exchange with effect from 08.09.2025 to 14.09.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-01)
