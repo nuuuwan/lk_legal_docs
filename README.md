@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-18 17:12:40**.*
+*Last Updated **2025-09-18 17:36:13**.*
 
-**44,665** documents (24.4 MB), from 1981-01-22 to 2025-09-17.
+**44,666** documents (24.4 MB), from 1981-01-22 to 2025-09-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -26,7 +26,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| ✍️ Bills | 1,362 | 2010-05-10 | 2025-09-17 |
+| ✍️ Bills | 1,363 | 2010-05-10 | 2025-09-18 |
 | 🚨 Extraordinary Gazettes | 35,300 | 2010-01-01 | 2025-09-15 |
 | 📢 Gazettes | 6,344 | 2006-03-03 | 2025-09-12 |
 | 🏛️ Acts | 1,659 | 1981-01-22 | 2025-09-10 |
@@ -54,8 +54,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**15** Documents
 
+- ✍️ [2025-09-18] [Rent (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/633-2025)
 - ✍️ [2025-09-17] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/632-2025)
 - 🚨 [2025-09-15] [2454/13](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2454-13)
 - 🚨 [2025-09-15] [2454/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2454-04)
