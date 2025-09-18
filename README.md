@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-18 05:12:59**.*
+*Last Updated **2025-09-18 05:44:51**.*
 
 **44,662** documents (24.4 MB), from 1981-01-22 to 2025-09-17.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**13** Documents
 
 - ✍️ [2025-09-17] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/632-2025)
 - 🚨 [2025-09-15] [2454/13](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2454-13)
@@ -69,5 +69,3 @@ For best results, use a desktop browser.
 - 📢 [2025-09-12] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iia-advertising)
 - 📢 [2025-09-12] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-i-general)
 - 🚨 [2025-09-11] [2453/24](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-24)
-- 🚨 [2025-09-10] [2453/22](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-22)
-- 🏛️ [2025-09-10] [PresidentsÃ¢â¬â¢ Entitlements (Repeal)](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/acts/2025/18-2025)
