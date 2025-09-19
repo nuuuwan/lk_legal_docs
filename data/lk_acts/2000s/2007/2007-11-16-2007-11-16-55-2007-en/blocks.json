@@ -1,0 +1,937 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      280.18,
+      432.6,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      394.62,
+      456.41,
+      430.81
+    ],
+    "text": "LOCAL AUTHORITIES (SPECIAL PROVISIONS)ACT, No. 55 OF 2007",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      514.57,
+      373.16,
+      526.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.49,
+      477.16,
+      377.97,
+      491.01
+    ],
+    "text": "[Certified on 16th November, 2007]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      635.18,
+      404.13,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.69,
+      671.49
+    ],
+    "text": "Price : Rs. 7.00Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.64,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 16, 2007",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.49,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "1Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      682.22,
+      255.27,
+      692.89
+    ],
+    "text": "2\u2014PL 002528\u2014 4,350 (10/2007)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.65,
+      200.71,
+      340.15,
+      214.05
+    ],
+    "text": "[Certified on 16th November, 2007]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      221.23,
+      226.68,
+      234.57
+    ],
+    "text": "L. D. \u2014 O. 48/2007",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      241.63,
+      383.85,
+      254.97
+    ],
+    "text": "AN ACT TO PROVIDE FOR CALLING OF FRESH NOMINATIONS AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      253.15,
+      383.85,
+      301.05
+    ],
+    "text": "THE HOLDING OF ELECTIONS IN RESPECT OF ONE MUNICIPALCOUNCIL, FIVE URBAN COUNCILS AND TWENTY SEVENPRADESHIYA SABHAS IN THE NORTHERN PROVINCE WHEREELECTIONS TO SUCH COUNCIL AND SABHAS HAVE BEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      299.23,
+      383.87,
+      312.57
+    ],
+    "text": "POSTPONED DUE TO UNFORSEEN AND URGENT CIRCUMSTANCES;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      310.63,
+      383.73,
+      323.97
+    ],
+    "text": "AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      322.15,
+      236.23,
+      335.49
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      342.67,
+      384.01,
+      401.97
+    ],
+    "text": "WHEREAS Notices were published under section 26 ofthe Local Authorities Elections Ordinance thatnominations will be received in respect of elections to allMunicipal Council, Urban Councils and Pradeshiya Sabhasin the Northern Province:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      409.15,
+      383.89,
+      491.49
+    ],
+    "text": "AND WHEREAS the dates of polls fixed for the holdingof elections for the aforesaid Municipal Council, fiveUrban Councils and twenty seven Pradeshiya Sabhas, outof the aforesaid local authorities, were postponed fromtime to time due to urgent and unforeseen circumstancesby Orders made under subsection (3) of section 38 of theLocal Authorities Elections Ordinance:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      498.67,
+      384.08,
+      615.45
+    ],
+    "text": "AND WHEREAS persons who have tendered theirnominations have either died or been displaced or havechanged their party or due to the fact that a considerablenumber of persons who have tendered their nominationshave gone abroad or where persons who were below theage of thirty-five at the time of tendering nominations arenow over the age of thirty-five, it has become necessaryto provide for the calling of fresh nominations in respectof the aforesaid Municipal Council, Urban Councils andPradeshiya Sabhas:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      622.63,
+      384.01,
+      671.01
+    ],
+    "text": "AND WHEREAS due to the period of time that has elapsedsince the submission of nominations in respect of theaforesaid Municipal Council, five Urban Councils andtwenty seven Pradeshiya Sabhas, it has become necessary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      343.82,
+      427.62,
+      354.49
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      165.55,
+      412.43,
+      190.78
+    ],
+    "text": "2Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      200.71,
+      451.2,
+      260.01
+    ],
+    "text": "to provide for the calling of fresh nominations in respectof such Municipal Council, Urban Councils andPradeshiya Sabhas and to make provision for the holdingof fresh elections in respect of the aforesaid Council andSabhas.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      269.71,
+      451.02,
+      294.57
+    ],
+    "text": "NOW THEREFORE BE it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      304.15,
+      450.96,
+      329.01
+    ],
+    "text": "1.This Act may be cited as the Local Authorities(Special Provisions) Act, No. 55 of 2007.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      338.71,
+      451.36,
+      455.49
+    ],
+    "text": "2.(1) Nomination papers submitted, under section 28of the Local Authorites Elections Ordinance (Chapter 262)(hereinafter referred to as \u201cthe principal enactment\u201d) inrespect of elections to the Municipal Council, UrbanCouncils and the Pradeshiya Sabhas specified respectivelyin Schedules I, II and III to this Act, in response to theNotices published under section 26 of the principalenactment are hereby deemed to be of no force and effectand as if such nomination papers had never beensubmitted.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      465.19,
+      451.39,
+      524.49
+    ],
+    "text": "(2) The Notices published under subsection (3) ofsection 38 of the principal enactment in respect ofelections to the Municipal Council, Urban Councils andthe Pradeshiya Sabhas specified respectively in SchedulesI, II and III to this Act, are hereby revoked.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      534.19,
+      451.37,
+      674.37
+    ],
+    "text": "(3) Deposits made under section 29 of the principalenactment in respect of candidates nominated by anindependent group for election to the Municipal Council theUrban Councils or the Pradeshiya Sabhas specifiedrespectively in Schedules I, II and III to this Act, shallnotwithstanding anything to the contrary in section 30 ofthe principal enactment, be refunded, on the production bythe person who made the deposit, of the receipt issued tosuch person under subsection (3) of section 29 of the principalenactment, together with interest on such deposit at the rateof twelve per centum, per annum, from the date of deposit tothe date of refund.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      341.18,
+      199.17,
+      441.85
+    ],
+    "text": "Provisionsrelating tonominations anddeposits in respectof elections to aMunicipalCouncil, andcertain UrbanCouncils andPradeshiyaSabhas.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      305.78,
+      173.31,
+      316.45
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182.49,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "3Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      200.83,
+      384.03,
+      249.21
+    ],
+    "text": "3.Steps shall be commenced under the principalenactment, for the holding of elections to the MunicipalCouncil, Urban Councils and the Pradeshiya Sabhasspecified respectively in Schedules I, II and III to this Act:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      252.67,
+      384.1,
+      324.45
+    ],
+    "text": "Provided that the notice of nomination in terms of theprincipal enactment shall be published on such date asthe Minister may determine by Order published in theGazette. Such date shall however, be a date not later thansix months from the date of the coming into operation ofthis Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      328.87,
+      384.06,
+      494.25
+    ],
+    "text": "4.(1) Notwithstanding the provisions of any otherlaw, any registered elector who reasonably fears that dueto conditions prevailing in the area within which hispolling station is situate, that he is unable to cast his votefreely at such polling station at an election held to electmembers to the Municipal Council, five Urban Councilsand twenty seven Pradeshiya Sabhas as specifiedrespectively in Schedules I, II and III to this Act, may makean application in such format as specified by theCommissioner of Elections (hereinafter referred to as the\u201cCommissioner\u201d) within one week of notice ofnominations, requesting that he be allowed to cast his voteat another polling station as may be determined by theCommissioner in his absolute discretion.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      497.59,
+      384.18,
+      546.09
+    ],
+    "text": "(2) The Commissioner shall within a week of receiptof an application, inform such elector whether suchapplication is accepted or rejected. The decision of theCommissioner shall be final and conclusive.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      549.43,
+      383.99,
+      597.81
+    ],
+    "text": "(3) Upon the Commissioner deciding to accept theapplication of a registered elector made in terms ofsubsection (1) he shall forthwith inform such elector ofthe polling station at which he is eligible to cast his vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      601.27,
+      383.99,
+      673.29
+    ],
+    "text": "(4) The Commissioner shall cause to be published alist of the names of the registered electors whoseapplications have been accepted in accordance with theprovisions of subsection (2), by making copies thereofavailable for inspection at his office and at the relevantdistrict offices.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      330.02,
+      428.23,
+      350.29
+    ],
+    "text": "Displacedpersons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      203.54,
+      445.64,
+      243.01
+    ],
+    "text": "Steps to becommenced forholding ofelections.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      165.55,
+      412.43,
+      190.78
+    ],
+    "text": "4Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      308.95,
+      300.98,
+      353.37,
+      311.65
+    ],
+    "text": "SCHEDULE I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.71,
+      320.25,
+      362.74,
+      331.33
+    ],
+    "text": "Municipal Council",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.15,
+      339.38,
+      342.53,
+      350.05
+    ],
+    "text": "1.Jaffna Municipal Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      307.75,
+      358.58,
+      354.52,
+      369.25
+    ],
+    "text": "SCHEDULE II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      304.75,
+      377.85,
+      357.53,
+      388.93
+    ],
+    "text": "Urban Councils",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.15,
+      397.94,
+      361.81,
+      452.65
+    ],
+    "text": "1.Velvetithurai Urban Council2.Point Pedro Urban Council3.Chavakachcheri Urban Council4.Vavuniya Urban Council5.Mannar Urban Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.55,
+      462.26,
+      355.79,
+      472.93
+    ],
+    "text": "SCHEDULE III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.11,
+      481.65,
+      363.34,
+      492.73
+    ],
+    "text": "Pradeshiya Sabhas",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.95,
+      501.74,
+      411.44,
+      644.41
+    ],
+    "text": "1.Karinagar Pradeshiya Sabha2.Kayts Pradeshiya Sabha3.Delft Pradeshiya Sabha4.Velanei Pradeshiya Sabha5.Velikamam (West) Pradeshiya Sabha6.Velikamam (North) Pradeshiya Sabha7.Velikamam (South-West) Pradeshiya Sabha8.Velikamam (South) Pradeshiya Sabha9.Velikamam (East) Pradeshiya Sabha10.Vadamarachchi (South-West) Pradeshiya Sabha11.Point Pedro Pradeshiya Sabha12.Chavakachcheri Pradeshiya Sabha13.Nallur Pradeshiya Sabha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      201.07,
+      451.36,
+      238.41
+    ],
+    "text": "(5) Where such vote is cast, such vote shall be countedalong with the votes of the relevant local authority inwhich such elector is registered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      248.47,
+      451.35,
+      285.21
+    ],
+    "text": "5.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      250.58,
+      194.34,
+      280.45
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.49,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "5Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189.57,
+      202.46,
+      356.06,
+      356.17
+    ],
+    "text": "14.Pachchilaipalli Pradeshiya Sabha15.Karachchi Pradeshiya Sabha16.Poonakari Pradeshiya Sabha17.Mannar Pradeshiya Sabha18.Nanththan Pradeshiya Sabha19.Musali Pradeshiya Sabha20.Manthai West Pradeshiya Sabha21.Vavuniya North Pradeshiya Sabha22.Vengalacheddikulam Pradeshiya Sabha23.Vavuniya South Tamil Pradeshiya Sabha24.Vavuniya South Sinhala Pradeshiya Sabha25.Manthai (East) Pradeshiya Sabha26.Thunukkai Pradeshiya Sabha27.Muhudubadapattu Pradeshiya Sabha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      165.55,
+      412.43,
+      190.78
+    ],
+    "text": "6Local Authorities (Special Provisions)Act, No. 55 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      138.91,
+      629.78,
+      451.03,
+      669.25
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
