@@ -1,0 +1,4009 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      282.48,
+      439.75,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.85,
+      391.73,
+      407.83,
+      407.22
+    ],
+    "text": "NATIONAL POLICE ACADEMY",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.57,
+      408.53,
+      368.03,
+      424.02
+    ],
+    "text": "ACT, No. 44 OF 2011",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      518.17,
+      373.29,
+      529.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      480.61,
+      373.77,
+      491.68
+    ],
+    "text": "[Certified on 21st November, 2011]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 13.00Postage : Rs. 15.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 25, 2011",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.21,
+      167.17,
+      383.81,
+      178.24
+    ],
+    "text": "1National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.81,
+      688.15,
+      265.54,
+      697.22
+    ],
+    "text": "2\u2014PL 006260\u20144,090 (09/2011)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.13,
+      202.97,
+      336.58,
+      214.31
+    ],
+    "text": "[Certified on 21st November, 2011]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.97,
+      219.58,
+      238.31
+    ],
+    "text": "L.D.\u2014O. 39/2010.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      250.97,
+      383.85,
+      274.31
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A NATIONAL POLICEACADEMY; TO IDENTIFY THE OBJECTIVE AND FUNCTIONS OF, AND TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      274.97,
+      383.85,
+      298.31
+    ],
+    "text": "PROVIDE FOR THE MANAGEMENT AND ADMINISTRATION OF THENATIONAL POLICE ACADEMY; AND TO PROVIDE FOR MATTERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      298.97,
+      320.11,
+      310.31
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      322.97,
+      383.89,
+      346.31
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      358.97,
+      383.87,
+      382.31
+    ],
+    "text": "1.This Act may be cited as the National Police AcademyAct, No. 44 of 2011.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.77,
+      394.97,
+      280.05,
+      406.31
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.13,
+      418.97,
+      354.57,
+      430.31
+    ],
+    "text": "ESTABLISHMENT OF THE NATIONAL POLICE ACADEMY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      442.97,
+      383.88,
+      478.31
+    ],
+    "text": "2.(1) There shall be established an academy, whichshall be called the \u201cNational Police Academy\u201d (hereinafterreferred to as \u201cthe Academy\u201d).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      490.97,
+      383.89,
+      538.31
+    ],
+    "text": "(2) The Academy shall, by the name assigned to it bysubsection (1) be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued insuch name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      548.93,
+      383.91,
+      608.27
+    ],
+    "text": "3.The Secretary to the Ministry of the Minister assignedthe administration of the Police Department, shall be chargedwith the responsibility of ensuring the efficient managementand administration of the Academy in order to achieve theobjective for which the Academy is established.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      635.21,
+      383.9,
+      671.03
+    ],
+    "text": "4.The objective of the Academy shall be to developthe professional knowledge and skills of police officers andother law-enforcement officers selected for training at the",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      360.55,
+      432.58,
+      369.62
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      444.19,
+      449.13,
+      482.06
+    ],
+    "text": "Establishmentof the NationalPoliceAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      550.75,
+      454.3,
+      634.58
+    ],
+    "text": "The Academy tobe theresponsibility ofthe Secretary tothe Ministry ofthe Ministerassigned theadministrationof the PoliceDepartment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      637.75,
+      452.86,
+      655.82
+    ],
+    "text": "Objective of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 20112",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      203.09,
+      451.16,
+      226.79
+    ],
+    "text": "Academy in order to prepare and equip them for appointmentto appropriate positions in their respective professions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.15,
+      240.05,
+      419.01,
+      251.39
+    ],
+    "text": "5.The functions of the Academy shall be to\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      264.65,
+      451.18,
+      300.59
+    ],
+    "text": "(a)provide advanced training and education onpolicing, law-enforcement and related subjects tostudent officers;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      313.85,
+      451.18,
+      337.43
+    ],
+    "text": "(b)conduct research and studies on issues directlyrelated to policing and law-enforcement; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      350.69,
+      451.18,
+      398.99
+    ],
+    "text": "(c)disseminate and share professional knowledge onpolicing and law-enforcement for the benefit ofthose concerned through relevant programmes andpublications.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      412.25,
+      451.17,
+      448.19
+    ],
+    "text": "6.(1) The Academy shall have the power to do all suchacts as may be necessary for the discharge of any or all of itsfunctions specified in section 5 of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      461.45,
+      451.19,
+      485.03
+    ],
+    "text": "(2) Without prejudice to the generality of the powersconferred on it by subsection (1), the Academy may\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      498.29,
+      451.15,
+      521.99
+    ],
+    "text": "(a)admit student officers to follow the courses of studyat the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      535.25,
+      451.17,
+      558.83
+    ],
+    "text": "(b)levy such fees, where necessary, from studentofficers as are prescribed;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      572.09,
+      451.18,
+      608.03
+    ],
+    "text": "(c)conduct examinations for the purpose of evaluatingthe proficiency of student officers admitted forselected courses of study;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      621.29,
+      451.19,
+      669.59
+    ],
+    "text": "(d)issue certificates and grant and confer the post-nominal title \u201cnpa\u201d (national police academy) onstudent officers on the successful completion ofthe courses of study;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      241.99,
+      196.87,
+      260.66
+    ],
+    "text": "Functions of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      414.91,
+      187.15,
+      433.58
+    ],
+    "text": "Powers of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.21,
+      167.17,
+      383.81,
+      178.24
+    ],
+    "text": "3National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      203.33,
+      383.93,
+      252.47
+    ],
+    "text": "(e)award, subject to the approval of the relevanteducational authorities, diplomas, certificates andother academic distinctions on subjects related topolicing and law-enforcement;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      266.33,
+      383.89,
+      302.87
+    ],
+    "text": "(f)affiliate to any University, subject to the approvalof the University Grants Commission and therelevant local or foreign University;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      316.73,
+      383.9,
+      353.27
+    ],
+    "text": "(g)publish and disseminate journals and similardocuments to facilitate the functions of theAcademy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      367.13,
+      383.9,
+      403.67
+    ],
+    "text": "(h)conduct research programmes on policing and law-enforcement to facilitate the functions of theAcademy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      417.53,
+      383.88,
+      454.07
+    ],
+    "text": "(i)erect, equip and maintain for the purposes of theAcademy, libraries, laboratories and otherbuildings;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      467.93,
+      383.87,
+      491.87
+    ],
+    "text": "(j)create lectureship and other posts as may be requiredfor the efficient functioning of the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      505.73,
+      383.89,
+      529.67
+    ],
+    "text": "(k)appoint such employees and agents as are necessaryfor the administration of the affairs of the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      543.53,
+      383.86,
+      567.47
+    ],
+    "text": "(l)receive grants, gifts or donations, whether from localor foreign sources;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.13,
+      581.33,
+      383.88,
+      617.87
+    ],
+    "text": "(m)borrow or raise money for the purpose of theAcademy in such manner and upon such securityas the Board may think fit;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      631.73,
+      383.89,
+      668.27
+    ],
+    "text": "(n)take or hold any movable or immovable propertywhich may become vested in it by this Act or byvirtue of any purchase, grant, gift, testamentary",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 20114",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      202.61,
+      451.19,
+      248.39
+    ],
+    "text": "disposition or otherwise, and to sell, mortgage,lease, grant, convey, devise, assign, exchange orotherwise dispose of any such movable orimmovable property;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      257.57,
+      451.18,
+      314.99
+    ],
+    "text": "(o)enter into and perform or carry out, whether directlyor through any officer or agent authorised in thatbehalf by the Academy, all such contracts oragreements as may be necessary for the attainmentof the objectives of the Academy; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      324.05,
+      451.18,
+      346.91
+    ],
+    "text": "(p)invest its funds in such a manner as the Board maythink fit.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.71,
+      357.05,
+      347.71,
+      368.39
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      256.51,
+      377.57,
+      405.79,
+      388.91
+    ],
+    "text": "BOARD OF MANAGEMENT OF THE ACADEMY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      399.05,
+      451.16,
+      444.95
+    ],
+    "text": "7.(1) The management and the administration of theaffairs of the Academy shall be vested in a Board ofmanagement (in this Act referred to as \u201cthe Board\u201d) whichshall consist of\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      454.13,
+      428.37,
+      465.47
+    ],
+    "text": "(a)the following ex-officio members, namely\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      255.55,
+      474.53,
+      451.17,
+      508.91
+    ],
+    "text": "(i) the Secretary to the Ministry of the Ministerassigned the administration of the PoliceDepartment who shall be the Chairman;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      252.55,
+      518.09,
+      451.17,
+      563.87
+    ],
+    "text": "(ii) a senior official of the rank of DeputySecretary to the Treasury nominated by theSecretary to the Ministry of the Minister towhom the subject of Finance is assigned;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249.55,
+      573.05,
+      451.19,
+      618.95
+    ],
+    "text": "(iii) an Additional Secretary to the Ministry ofthe Minister assigned the administration ofthe Police Department, nominated by theSecretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250.27,
+      628.13,
+      418.17,
+      639.47
+    ],
+    "text": "(iv) the Inspector-General of Police; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.27,
+      648.53,
+      451.18,
+      671.75
+    ],
+    "text": "(v) the Executive Director of the Academyappointed under section 13;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      400.15,
+      194.59,
+      438.02
+    ],
+    "text": "Constitution ofthe Board ofManagement ofthe Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171.21,
+      167.17,
+      383.81,
+      178.24
+    ],
+    "text": "5National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.65,
+      202.97,
+      384.84,
+      250.31
+    ],
+    "text": "(b)two members appointed by the Minister inconsultation with the Secretary; having provenability in the fields of national security, publicsecurity, law, and public administration.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      262.97,
+      384.94,
+      358.31
+    ],
+    "text": "(2) The Chairman shall preside at all meetings of the Boardand in the absence of the Chairman from any such meetingof the Board, a person from among members of the Boardreferred to in subparagraph (ii) of paragraph (a) of subsection(1) and subparagraph (iii) of paragraph (a) of subsection (1)and paragraph (b) of subsection (1), who has been dulynominated by the Chairman, shall preside at any suchmeeting.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      370.97,
+      384.85,
+      394.31
+    ],
+    "text": "(3) The Principal Administrative Officer of the Academyshall function as Secretary to the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      406.97,
+      384.82,
+      430.31
+    ],
+    "text": "8.(1) The seal of the Academy shall be in the custodyof such person as the Board may decide from time to time.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      442.97,
+      384.86,
+      466.31
+    ],
+    "text": "(2) The seal of the Academy may be altered in such manneras may be determined by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      478.97,
+      384.88,
+      538.31
+    ],
+    "text": "(3) The seal of the Academy shall not be affixed to anyinstrument or document except in the presence of theChairman and one other member of the Board, both of whomshall sign the instrument or document in token of theirpresence:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      550.97,
+      384.84,
+      622.31
+    ],
+    "text": "Provided that where the Chairman is unable to be presentat the time when the seal of the Academy is affixed to anyinstrument or document, any other member of the Boardauthorised in writing by the Chairman in that behalf, shallbe competent to sign such instrument or document inaccordance with the preceding provisions of this subsection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      634.97,
+      384.85,
+      670.31
+    ],
+    "text": "(4) The Academy shall maintain a register of allinstruments or documents to which the seal of the Academyis affixed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      408.91,
+      433.3,
+      427.58
+    ],
+    "text": "Seal of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 20116",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      202.61,
+      451.18,
+      225.47
+    ],
+    "text": "9.The Academy shall consist of such Branches as arefrom time to time deemed necessary, by the Board.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      235.61,
+      451.2,
+      269.99
+    ],
+    "text": "10.(1) Subject to the other provisions of this Act, theBoard may regulate its procedure in regard to the meetingsof the Board and the transaction of business at such meetings.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      280.13,
+      451.17,
+      302.99
+    ],
+    "text": "(2) Five members shall form a quorum at any meeting ofthe Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      313.13,
+      451.18,
+      358.91
+    ],
+    "text": "11.No act, decision or proceeding of the Board shall beinvalidated by reason only of the existence of a vacancyamong its members or any defect in the appointment of itsmembers.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      369.05,
+      451.2,
+      437.87
+    ],
+    "text": "12.The Board shall as soon as may be practicable,submit through the Secretary to the Ministry of the Ministerto whom the administration of the Police Department isassigned the annual estimates or supplementary estimates,as the case may be, to the Treasury for the purpose of securingthe necessary budgetary allocation for the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      313.15,
+      448.13,
+      349.15,
+      459.47
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      289.51,
+      469.61,
+      372.79,
+      480.95
+    ],
+    "text": "STAFF OF THE ACADEMY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      491.09,
+      451.2,
+      548.39
+    ],
+    "text": "13.(1) There shall be appointed by the Minister a personto be the Executive Director of the Academy (hereinafterreferred to as \u201cthe Executive Director\u201d) who shall be a qualifiedsenior officer holding the rank of Senior Deputy InspectorGeneral of Police or Deputy Inspector General of Police.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      558.53,
+      451.22,
+      604.43
+    ],
+    "text": "(2) The Executive Director shall hold office for a periodof three years from the date of his appointment and shall beeligible for reappointment, unless he vacates his office earlierby retirement, death, resignation or removal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      614.57,
+      451.19,
+      672.23
+    ],
+    "text": "(3) The Executive Director may resign his office asExecutive Director by written communication in that behalfaddressed to the Minister, forwarded through the Secretaryto the Ministry of the Minister to whom the administrationof the Police Department is assigned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      204.19,
+      196.15,
+      222.86
+    ],
+    "text": "Branches withinthe Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      236.11,
+      193.88,
+      273.98
+    ],
+    "text": "Meetings andquorum atmeetings of theBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      314.35,
+      196.15,
+      361.82
+    ],
+    "text": "Vacancy amongmembers not toinvalidateproceedings ofthe Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      369.55,
+      172.88,
+      388.22
+    ],
+    "text": "Annualestimates.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      491.59,
+      190.16,
+      510.26
+    ],
+    "text": "The ExecutiveDirector.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      171.21,
+      167.17,
+      383.81,
+      178.24
+    ],
+    "text": "7National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      202.97,
+      383.88,
+      238.31
+    ],
+    "text": "(4) The Minister may, if he thinks it expedient to do so,by Order published in the Gazette, remove the ExecutiveDirector from office for reasons assigned.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      250.97,
+      383.89,
+      298.31
+    ],
+    "text": "(5) The Executive Director, in respect of whom an Orderunder subsection (4) is made, shall vacate is office on thedate of publication of such Order in the Gazette, or on suchother date as may be specified in such Order.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      310.97,
+      383.9,
+      334.31
+    ],
+    "text": "(6) In the event of the person appointed as ExecutiveDirector\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.29,
+      342.89,
+      383.92,
+      450.23
+    ],
+    "text": "( a)vacating his office or ceasing to be a member of thePolice Department of which he was a member priorto the expiry of his term of office as ExecutiveDirector, the Minister shall having regard to theprovisions of subsection (1), appoint a qualifiedofficer as Executive Director, and he shall, unlesshe earlier vacates office, hold office for a period ofthree years from the date of his appointment andshall be eligible for reappiontment; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      458.93,
+      383.9,
+      542.27
+    ],
+    "text": "(b)being temporarily unable to discharge the functionsof his office by reason of ill health, absence fromSri Lanka or any other reason, the Minister shallhaving regard to the provisions of subsection (1),appoint the person holding the position of PrincipalAdministrative Officer of the Academy, to act inhis place as Executive Director during such period.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      554.93,
+      383.9,
+      626.27
+    ],
+    "text": "14.(1) The Executive Director shall, subject to thegeneral direction and control of the Board, be charged withthe direction of the affairs of the Academy and the dischargeof the functions of the Academy. He shall also be chargedwith the overall administrative and disciplinary control ofthe employees and student officers of the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      635.93,
+      383.9,
+      671.27
+    ],
+    "text": "(2) The Executive Director may in writing, with theapproval of the Board, delegate to any employee of theAcademy such of his duties as he may from time to time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      555.67,
+      440.86,
+      583.94
+    ],
+    "text": "Duties of theExecutiveDirector.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 20118",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      202.97,
+      451.22,
+      274.31
+    ],
+    "text": "consider necessary. Any employee to whom such functionsare so delegated shall exercise them subject to the general orspecial direction of the Executive Director. Notwithstandingsuch delegation it shall be competent for the ExecutiveDirector, where necessary, to continue to discharge suchfunctions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      283.97,
+      451.19,
+      319.31
+    ],
+    "text": "(3) The Executive Director may in consultation with theBoard decide on the medical, welfare and recreationalfacilities to be provided for student officers by the Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      328.97,
+      451.2,
+      364.31
+    ],
+    "text": "(4) The Executive Director may take necessary measuresfor the security and the protection of the Academy with theapproval of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      376.97,
+      451.18,
+      436.31
+    ],
+    "text": "15.(1) The Board shall appoint an officer holding therank of Deputy Inspector General of Police or SeniorSuperintendent of Police to serve as the PrincipalAdministrative Officer of the Academy for such period asmay be determined by the Board.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      445.97,
+      451.21,
+      505.31
+    ],
+    "text": "(2) The Principal Administrative Officer of the Academyshall be responsible to the Executive Director for supervising,coordinating and facilitating the affairs of the Academy inaccordance with instructions issued by the ExecutiveDirector for that purpose.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      517.97,
+      451.19,
+      541.31
+    ],
+    "text": "16.The Board may, subject to the provisions of thisAct\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.19,
+      549.89,
+      451.19,
+      609.23
+    ],
+    "text": "( a)appoint such officers and servants as it considersnecessary for the discharge of the functions of theAcademy and formulate policies to exercisedisciplinary control over, or dismiss, such officersor servants;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.35,
+      617.93,
+      451.18,
+      641.27
+    ],
+    "text": "(b)fix the rates at which such officers and servantsshall be remunerated;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      228.19,
+      649.97,
+      451.17,
+      673.31
+    ],
+    "text": "(c)determine the terms and conditions of service ofsuch officers or servants; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      379.15,
+      190.87,
+      417.02
+    ],
+    "text": "The PrincipalAdministrativeOfficer of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      518.11,
+      190.88,
+      555.98
+    ],
+    "text": "Appointmentand conditionsof the staff ofthe Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171.21,
+      167.17,
+      383.81,
+      178.24
+    ],
+    "text": "9National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.05,
+      202.97,
+      384.83,
+      250.31
+    ],
+    "text": "(d)establish and regulate provident funds or schemes,where applicable, for the benefit of such officers orservants and make contributions to any such fundsor schemes.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      262.97,
+      384.97,
+      334.31
+    ],
+    "text": "17.(1) At the request of the Board, any officer in thepublic service may, with the consent of that officer and ofthe Secretary to the relevant Ministry, be temporarilyappointed to the staff of the Academy for such period as maybe determined by the Board, or with like consent bepermanently appointed to such staff.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      342.89,
+      384.87,
+      402.23
+    ],
+    "text": "(2) Where any officer in the public service is temporarilyappointed to the staff of the Academy the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to him.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      410.57,
+      384.86,
+      468.23
+    ],
+    "text": "(3) Where any officer in the public service is permanentlyappointed to the staff of the Academy the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to him.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      480.53,
+      384.85,
+      549.83
+    ],
+    "text": "(4) Where the Academy employs any person who hasentered into a contract with the Government to serve theGovernment for a specified period, any period of service tothe Academy by such person shall be regarded as service tothe Government, for the purpose of discharging theobligations of such contract.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      558.05,
+      384.86,
+      673.31
+    ],
+    "text": "(5) At the request of the Board, any officer or servant ofany Higher Educational Institution may, with the consent ofsuch officer or servant and the principal executive officer ofthat Higher Educational Institution, be temporarilyappointed to the staff of the Academy for such period asmay be determined by the Board or with like consent bepermanently appointed to such staff, on such conditions,including those relating to pension and provident fundrights, as may be agreed upon by the Board and such principalexecutive officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      264.19,
+      455.13,
+      302.06
+    ],
+    "text": "Appointment ofpublic officersetc. to the staffof the Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201110",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      203.81,
+      451.19,
+      254.99
+    ],
+    "text": "(6) Where any officer or servant of any Higher EducationalInstitution is temporarily appointed to the staff of theAcademy, he shall be subject to the same disciplinary controlas any other member of such staff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      312.79,
+      270.29,
+      349.5,
+      281.63
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      222.79,
+      296.93,
+      439.51,
+      321.59
+    ],
+    "text": "THE BOARD OF STUDIES AND THE BOARD OF DISCIPLINE OF THEACADEMY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      336.77,
+      451.19,
+      374.75
+    ],
+    "text": "18.(1) The affairs of the Academy relating to academicand professional studies shall be vested in the Board ofStudies. The Board of Studies shall consist of\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      390.05,
+      342.93,
+      401.39
+    ],
+    "text": "(a)the Executive Director;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      416.57,
+      451.18,
+      441.23
+    ],
+    "text": "(b)the Principal Administrative Officer of theAcademy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      456.53,
+      400.64,
+      467.87
+    ],
+    "text": "(c)two persons nominated by the Board;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      483.05,
+      451.17,
+      521.03
+    ],
+    "text": "(d)a representative nominated by the Vice-Chancellorof the University to which the Academy may beaffiliated; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      536.33,
+      438.93,
+      547.67
+    ],
+    "text": "(e)the heads of various Branches in the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      562.85,
+      451.17,
+      614.15
+    ],
+    "text": "(2) The Board of Studies shall discharge the functionsassigned to, or conferred on it, subject to the general directionand control of the Board and any rules which may be madein that behalf by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      629.33,
+      451.18,
+      667.31
+    ],
+    "text": "(3) The Board of Studies shall have control and generaldirection over the instruction, training, research andexamination of the Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      338.71,
+      187.16,
+      366.98
+    ],
+    "text": "The Board ofStudies of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171.21,
+      167.17,
+      383.85,
+      178.24
+    ],
+    "text": "11National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      203.09,
+      383.9,
+      239.03
+    ],
+    "text": "(4) The Board of Studies shall be charged with the exercise,performance and discharge of the following powers, dutiesand functions:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      252.29,
+      383.88,
+      288.23
+    ],
+    "text": "(a)to identify and recommend to the Board, the coursesof study and the curricula of such courses whichare to be offered by the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      301.49,
+      383.89,
+      337.43
+    ],
+    "text": "(b)to decide on the degrees, diplomas, certificates andother academic distinctions which shall be awardedfor the courses of study offered at the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      350.69,
+      383.91,
+      411.23
+    ],
+    "text": "(c)to identify the training to be followed, theexaminations to be passed and the other conditionsto be satisfied by students who wish to qualify forsuch degrees, diplomas, certificates and otheracademic distinctions;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      424.49,
+      383.88,
+      448.19
+    ],
+    "text": "(d)to consider and report on any matter referred to itby the Board;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      461.45,
+      383.89,
+      509.63
+    ],
+    "text": "(e)to present recommendations and reports to the Boardon matters connected with the courses of study,teaching programmes, research programmes orexaminations being conducted by the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      522.89,
+      383.91,
+      571.19
+    ],
+    "text": "(f)to appoint committees, which may include personsnot being members of the Board of Studies for thepurpose of considering and reporting on any specialsubject or subjects;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      584.45,
+      301.79,
+      595.79
+    ],
+    "text": "(g)to recommend to the Board\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.37,
+      609.05,
+      383.87,
+      632.63
+    ],
+    "text": "(i) the requirements for the admission of studentsto courses of study and examination;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185.37,
+      645.89,
+      383.86,
+      669.59
+    ],
+    "text": "(ii) the persons who are suitable for recognitionas teachers or examiners;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201112",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      249.67,
+      202.97,
+      451.16,
+      262.31
+    ],
+    "text": "(iii) the persons who, having passed theprescribed examinations and having satisfiedother prescribed conditions, are eligible forthe award of diplomas, certificates and otheracademic distinctions;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      274.97,
+      451.17,
+      310.31
+    ],
+    "text": "(h)to identify the mode and conditions of competitionfor fellowships, scholarships, exhibitions, bursaries,medals and other prizes; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      322.97,
+      451.19,
+      358.31
+    ],
+    "text": "(i)to name the persons suitable for the award offellowships, scholarships, exhibitions, bursaries,medals and other prizes.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      370.97,
+      451.17,
+      406.31
+    ],
+    "text": "19.The Board shall, in consultation with the ExecutiveDirector, appoint a Board of Discipline consisting of thefollowing\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      418.97,
+      451.18,
+      442.31
+    ],
+    "text": "(a)the Principal Administrative Officer of theAcademy; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      454.97,
+      451.18,
+      490.31
+    ],
+    "text": "(b)any other officers who in the opinion of theExecutive Director is required for the effectivesettlement of the particular misconduct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      502.97,
+      451.2,
+      538.31
+    ],
+    "text": "20.(1) Every student officer shall be subject to the Codeof Discipline of the Academy. The Code of Discipline shallbe as prescribed by regulations.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      550.97,
+      451.19,
+      634.31
+    ],
+    "text": "(2) Any student officer found to be in breach of suchCode or who is found guilty of any breach by the Board ofDiscipline, may on recommendation being made by theBoard of Discipline to the effect that the conduct of thestudent officer is not conducive to the best interest of theAcademy, be liable to be withdrawn from the course of study,by the Executive Director.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      646.97,
+      451.17,
+      670.31
+    ],
+    "text": "(3) Every act of misconduct of student officers shall bereported to the respective Head of Institution of such officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      372.91,
+      176.6,
+      391.58
+    ],
+    "text": "Board ofDiscipline.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      504.19,
+      189.44,
+      542.06
+    ],
+    "text": "Code ofDiscipline andapplication ofthe code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171.21,
+      167.17,
+      383.85,
+      178.24
+    ],
+    "text": "13National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      202.97,
+      383.89,
+      238.31
+    ],
+    "text": "by the Executive Director in order that disciplinary actionas is deemed necessary in terms of the respective laws andregulations applicable to such institution, be initiated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      250.97,
+      383.89,
+      298.31
+    ],
+    "text": "(4) Any student officer who is found to be responsible forcausing damage to government property, wilfully ornegligently, shall be liable to indemnify the Academy forsuch damage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      310.97,
+      383.9,
+      358.31
+    ],
+    "text": "21.(1) The disciplinary control of the staff of theAcademy shall be exercised by the Executive Director orany other officer of the Academy, authorised in that behalfby the Executive Director.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      370.97,
+      383.87,
+      406.31
+    ],
+    "text": "(2) The maintenance of disciplinary control of the staff ofthe Academy shall be in accordance with the procedure asspecified by rules made by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      247.05,
+      418.97,
+      280.76,
+      430.31
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      249.21,
+      442.97,
+      278.49,
+      454.31
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      466.97,
+      383.9,
+      502.31
+    ],
+    "text": "22.(1) There shall be established a Fund called \u201ctheNational Police Academy Fund\u201d (hereinafter referred to as\u201cthe Fund\u201d).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      514.97,
+      383.86,
+      538.31
+    ],
+    "text": "(2) The Board shall have the power to manage, controland operate the Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      550.97,
+      323.86,
+      562.31
+    ],
+    "text": "23.There shall be paid into the Fund\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.41,
+      574.97,
+      383.87,
+      610.31
+    ],
+    "text": "(a)all such sums of money as may be voted from timeto time by Parliament for the management andadministration of the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.41,
+      622.97,
+      383.92,
+      670.31
+    ],
+    "text": "(b)all such sums of money as may be received by theAcademy by way of donations, gifts or grants fromany source whatsoever, whether within or outsideSri Lanka;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      312.67,
+      443.86,
+      350.54
+    ],
+    "text": "Disciplinarycontrol of thestaff of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      467.95,
+      437.13,
+      486.62
+    ],
+    "text": "Fund of theAcademy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      552.19,
+      455.85,
+      570.86
+    ],
+    "text": "Payment into theFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201114",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      228.43,
+      203.33,
+      451.19,
+      239.87
+    ],
+    "text": "(c)all moneys received by way of fees in respect of thecourses of study being provided by the Academy;and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      253.73,
+      451.18,
+      290.27
+    ],
+    "text": "(d)all such sums of money as may be received by theAcademy in the exercise, performance and dischargeof its powers, duties and functions.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      304.13,
+      398.74,
+      315.47
+    ],
+    "text": "24.There shall be paid out of the Fund\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      329.33,
+      451.14,
+      353.27
+    ],
+    "text": "(a)expenses necessary for the establishment, workingand maintenance of the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      367.13,
+      444.92,
+      378.47
+    ],
+    "text": "(b)the payment of fees to the visiting lecturers; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      228.43,
+      392.33,
+      451.16,
+      428.87
+    ],
+    "text": "(c)all such other payments as are approved by theBoard as being necessary for the purpose of carryingout the objective of the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      442.73,
+      451.18,
+      491.87
+    ],
+    "text": "25.(1) The Board shall direct the Accountant appointedin terms of section 26, to keep proper books of accounts andaccounts of all income and expenditure, assets and liabilitiesand all other financial transactions of the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      505.73,
+      451.18,
+      542.27
+    ],
+    "text": "(2) The provisions of Article 154 of the Constitutionrelating to the audit of accounts of public corporations shallapply to the audit of accounts of the Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      556.13,
+      451.18,
+      580.07
+    ],
+    "text": "(3) The financial year of the Academy shall be the calendaryear.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      593.93,
+      451.19,
+      630.47
+    ],
+    "text": "(4) The annual accounts of the Academy shall be preparedby the Accountant who shall cause the same to be forwardedto the Board through the Executive Director.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      644.33,
+      451.17,
+      668.27
+    ],
+    "text": "26.(1) The Board shall appoint an Accountant for theAcademy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      304.63,
+      193.16,
+      323.3
+    ],
+    "text": "Payment out ofthe Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      444.19,
+      174.43,
+      462.86
+    ],
+    "text": "Audit ofAccounts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      645.19,
+      195.44,
+      663.86
+    ],
+    "text": "Appointment ofan Accountant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      171.21,
+      167.17,
+      383.85,
+      178.24
+    ],
+    "text": "15National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      203.33,
+      384.86,
+      252.47
+    ],
+    "text": "(2) The Accountant shall be responsible to the ExecutiveDirector of the Academy for the administration and controlof the Fund of the Academy established under section 22 ofthis Act and the other financial matters of the Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      266.33,
+      384.97,
+      315.47
+    ],
+    "text": "27.(1) All student officers and the staff of the Academyshall be entitled to such emoluments and allowances as maybe stipulated in the relevant institutional pay regulationsapplicable to them.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      329.33,
+      384.85,
+      378.47
+    ],
+    "text": "(2) All personnel in the Academy referred to above shallbe entitled to any additional allowances as may be paid tothose appointed to training establishments presently undertheir respective institutions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      392.33,
+      384.87,
+      454.07
+    ],
+    "text": "(3) All personnel of the Academy referred to above mayin addition be entitled to such other additional allowancesas may be determined by the Board from time to time withthe concurrence of the Minister in charge of the subject ofFinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      467.93,
+      384.84,
+      504.47
+    ],
+    "text": "(4) The period of training of a student officer in theAcademy shall be deemed to be reckonable service for thepurpose of pension, gratuity and allowances.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      518.33,
+      384.86,
+      567.47
+    ],
+    "text": "28.The Board may with the concurrence of the Ministerand the Minister in charge of the subject of Finacne, borrowsuch sums of money as may be necessary to effectivelydischarge the functions assigned to it.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      246.45,
+      581.33,
+      283.16,
+      592.67
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      249.09,
+      606.53,
+      280.53,
+      617.87
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      631.73,
+      384.87,
+      668.27
+    ],
+    "text": "29.(1) The Board may make rules in respect of thecourses of study to be provided for student officers by theAcademy on the recommendation of the Executive Director.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      267.91,
+      440.86,
+      286.58
+    ],
+    "text": "Payment ofemoluments.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      519.67,
+      443.85,
+      547.94
+    ],
+    "text": "Borrowingpowers of theBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      633.91,
+      447.57,
+      652.58
+    ],
+    "text": "Board to makerules.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201116",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      203.57,
+      451.2,
+      240.95
+    ],
+    "text": "(2) Every rule made under subsection (1) shall beapproved by the Minister upon the making thereof, and shallbe published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      255.65,
+      451.19,
+      318.95
+    ],
+    "text": "30.(1) The Minister may make regulations for thepurpose of giving effect to the principles and provisions ofthis Act and in respect of matters required by this Act to beprescribed or in respect of which regulations are authorisedor required to be made.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      333.65,
+      451.19,
+      370.91
+    ],
+    "text": "(2) Without prejudice to the generality of the powersconferred by subsection (1), the Minister may makeregulations in respect of all or any of the following matters\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.39,
+      385.61,
+      451.18,
+      409.91
+    ],
+    "text": "(a)the management and administration of the affairsof the Academy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.39,
+      424.61,
+      389.37,
+      435.95
+    ],
+    "text": "(b)setting out the Code of Discipline;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.11,
+      450.53,
+      451.18,
+      513.95
+    ],
+    "text": "(c)any other matter which is to be or may be prescribedor in respect of which this Act makes no provisionor makes insufficient provision which in the opinionof the Minister, is necessary for the properimplementation of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      528.53,
+      451.19,
+      578.87
+    ],
+    "text": "(3) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication or on such later date as may bespecified in the regulations.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      593.57,
+      451.23,
+      669.95
+    ],
+    "text": "(4) Every regulation made by the Minister shall, as soonas convenient after its publication in the Gazette, be broughtbefore Parliament for approval. Any regulation which is notso approved shall be deemed to be rescinded as from thedate of such disapproval, but without prejudice to anythingpreviously done thereunder.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      256.51,
+      182.59,
+      265.58
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      171.21,
+      167.17,
+      383.85,
+      178.24
+    ],
+    "text": "17National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      202.97,
+      383.88,
+      226.31
+    ],
+    "text": "(5) Notification of the date on which any regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      155.85,
+      238.97,
+      327.59,
+      250.31
+    ],
+    "text": "31.(1) No suit or prosecution shall lie\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      171.09,
+      262.97,
+      383.87,
+      298.31
+    ],
+    "text": "(a)against the Academy for any act which in goodfaith is done or purported to be done by theAcademy under this Act; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      171.09,
+      308.93,
+      383.88,
+      356.27
+    ],
+    "text": "(b)against any member, officer, servant or agent ofthe Academy for any act which in good faith isdone or purported to be done by him under thisAct or on the direction of the Academy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      368.93,
+      383.9,
+      416.27
+    ],
+    "text": "(2) Any expenses incurred by the Academy in any suit orprosecution brought by or against the Academy and anycosts paid to, or recovered by the Academy in any such suitor prosecution shall be credited to the Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      428.93,
+      383.89,
+      524.27
+    ],
+    "text": "(3) Any expenses incurred by any such person as is referredto in subsection (1) of this section in any suit or prosecutionbrought against him before any court in respect of any actwhich is done or purported to be done by him under this Actor on the diretion of the Academy shall, if the court holdsthat such act was done in good faith, be paid out of the Fund,unless such expense is recovered by him in such suit orprosecution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      536.93,
+      383.91,
+      572.27
+    ],
+    "text": "32.The members of the Board and all officers andservants of the Academy shall be deemed to be public officerswithin the meaning and for the purpose of the Penal Code.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      608.93,
+      383.87,
+      656.27
+    ],
+    "text": "33.The Academy shall be deemed to be a ScheduledInstitution within the meaning and for the purpose of theBribery Act and the provisions of such Act shall be construedaccordingly.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      240.19,
+      455.85,
+      287.66
+    ],
+    "text": "Protection foraction takenunder this Act oron the directionof the Academy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      538.15,
+      451.29,
+      604.82
+    ],
+    "text": "Members of theBoard andofficers andservants of theAcademydeemed to bepublic officers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      610.63,
+      449.14,
+      671.9
+    ],
+    "text": "Academydeemed to be aScheduledInstitutionwithin themeaning of theBribery Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201118",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      203.45,
+      451.16,
+      240.11
+    ],
+    "text": "34.The provisions of the Universities Act, No. 16 of1978, shall not apply to, or in relation to, the Academyestablished by this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      254.21,
+      451.18,
+      290.99
+    ],
+    "text": "35.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      304.97,
+      451.19,
+      316.31
+    ],
+    "text": "36.In this Act unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      330.41,
+      451.17,
+      367.19
+    ],
+    "text": "\u201cBranch\u201d means a section of the Academy that isresponsible for conducting specialised trainingpertaining to a particular subject or field;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      381.17,
+      451.18,
+      430.67
+    ],
+    "text": "\u201cHigher Educational Institution\u201d means a University,Campus, Open University or University Collegeestablished or deemed to be established under theUniversities Act, No. 16 of 1978;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      444.65,
+      451.2,
+      481.43
+    ],
+    "text": "\u201claw-enforcement officers\u201d mean an officer of anyorganisation that is statutorily vested with theresponsibility of enforcing laws assigned to them;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      495.53,
+      451.19,
+      532.19
+    ],
+    "text": "\u201cPolice Department\u201d means the Sri Lanka PoliceDepartment established under the Police Ordinance,(Chapter II);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      546.29,
+      406.19,
+      557.63
+    ],
+    "text": "\u201cprincipal executive officer\u201d in relation to\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      238.15,
+      571.73,
+      451.18,
+      595.67
+    ],
+    "text": "(i) a University, means the Vice-Chancellor of thatUniversity;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      235.15,
+      609.77,
+      451.19,
+      633.83
+    ],
+    "text": "(ii) an Open University, means the Vice-Chancellorof that Open University; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      232.15,
+      647.93,
+      451.17,
+      671.87
+    ],
+    "text": "(iii) a University College, means the Director of thatUniversity College; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      202.63,
+      190.15,
+      240.5
+    ],
+    "text": "Provisions ofAct, No. 16 of1978 not toapply.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      253.15,
+      199.15,
+      281.42
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      303.91,
+      190.16,
+      312.98
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      171.21,
+      167.17,
+      383.85,
+      178.24
+    ],
+    "text": "19National Police Academy Act, No. 44 of 2011",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      173.85,
+      202.97,
+      401.94,
+      274.31
+    ],
+    "text": "\u201cstudent officers\u201d mean and include officers from thePolice Department, public officers, officers of otherlaw-enforcement agencies of Sri Lanka and officersfrom police services and law-enforcement agenciesoutside Sri Lanka who are admitted to the Academyfor training and education.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      167.17,
+      423.81,
+      178.24
+    ],
+    "text": "National Police Academy Act, No. 44 of 201120",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.99,
+      632.47,
+      451.99,
+      671.41
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
