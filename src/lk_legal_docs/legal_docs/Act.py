@@ -1,3 +1,4 @@
+import sys
 from dataclasses import dataclass
 from typing import Generator
 
@@ -51,9 +52,7 @@ class Act(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(
-                " ", "_"
-            )
+            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
             num = f"{date_str}-{doc_number_cleaned}-{lang}"
             yield cls(
                 num=num,
@@ -102,3 +101,19 @@ class Act(AbstractPDFDoc):
     def gen_docs(cls) -> Generator["Act", None, None]:
         for url_year in cls.gen_url_years():
             yield from cls.gen_docs_for_year(url_year)
+
+    @classmethod
+    def run_pipeline(cls, max_dt=None):
+        max_dt = (
+            max_dt
+            or (float(sys.argv[2]) if len(sys.argv) > 2 else None)
+            or cls.MAX_DT
+        )
+        log.debug(f"{max_dt=}s")
+        cls.cleanup_all()
+        cls.scrape_all_metadata(max_dt)
+        cls.scrape_all_extended_data(max_dt)
+        cls.build_summary()
+        cls.build_doc_class_readme()
+        cls.build_and_upload_to_hugging_face()
+        cls.build_global_readme()
