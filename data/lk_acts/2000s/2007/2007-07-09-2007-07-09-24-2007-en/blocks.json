@@ -1,0 +1,4293 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      280.18,
+      432.51,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.85,
+      394.62,
+      368.89,
+      430.81
+    ],
+    "text": "COMPUTER CRIMEACT, No. 24 OF 2007",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      514.57,
+      373.16,
+      526.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.29,
+      477.16,
+      361.26,
+      491.01
+    ],
+    "text": "[Certified on 09th July, 2007]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      635.18,
+      404.13,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.68,
+      671.49
+    ],
+    "text": "Price : Rs. 14.00Postage : Rs. 7.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.82,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of July 13, 2007",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.57,
+      165.55,
+      383.45,
+      178.89
+    ],
+    "text": "1Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.57,
+      201.67,
+      322.91,
+      215.01
+    ],
+    "text": "[Certified on 09th July 2007]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      224.23,
+      218.88,
+      237.57
+    ],
+    "text": "L. D.\u2014O. 72/2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      246.67,
+      383.86,
+      260.01
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE IDENTIFICATION OF COMPUTER CRIME AND TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      258.19,
+      383.85,
+      271.53
+    ],
+    "text": "PROVIDE THE PROCEDURE FOR THE INVESTIGATION AND PREVENTION OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      269.71,
+      383.87,
+      283.05
+    ],
+    "text": "SUCH CRIMES ; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      281.23,
+      242.11,
+      294.57
+    ],
+    "text": "AND INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      303.67,
+      383.91,
+      328.53
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      337.63,
+      384.09,
+      385.53
+    ],
+    "text": "1.This Act may be cited as the Computer Crime Act,No.24 of 2007 and shall come into operation on such date asthe Minister may by Order published in the Gazette appoint(hereinafter referred to as the \u201cappointed date\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      395.23,
+      373.97,
+      409.17
+    ],
+    "text": "2.(1) The provisions of this Act shall apply where\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      418.15,
+      383.94,
+      443.01
+    ],
+    "text": "(a)a person commits an offence under this Act whilebeing present in Sri Lanka or outside Sri Lanka ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      452.71,
+      384.01,
+      500.49
+    ],
+    "text": "(b)the computer, computer system or informationaffected or which was to be affected, by the act whichconstitutes an offence under this Act, was at thematerial time in Sri Lanka or outside Sri Lanka ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.29,
+      510.19,
+      384.0,
+      569.49
+    ],
+    "text": "(c)the facility or service, including any computerstorage, or data or information processing service,used in the commission of an offence under thisAct was at the material time situated in Sri Lanka oroutside Sri Lanka ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      579.19,
+      383.96,
+      626.97
+    ],
+    "text": "(d)the loss or damage is caused within or outside SriLanka by the commission of an offence under thisAct, to the State or to a person resident in Sri Lankaor outside Sri Lanka.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      636.67,
+      383.87,
+      673.05
+    ],
+    "text": "(2) For the purposes of paragraph (d) of subsection (1)\u201cperson\u201d includes a body of persons corporate orunincorporate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      339.74,
+      431.87,
+      350.41
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      396.62,
+      447.06,
+      416.89
+    ],
+    "text": "Application ofthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "2Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      316.51,
+      201.55,
+      345.8,
+      214.89
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.71,
+      223.51,
+      362.72,
+      236.85
+    ],
+    "text": "COMPUTER CRIME",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      245.47,
+      451.28,
+      270.81
+    ],
+    "text": "3.Any person who intentionally does any act, in orderto secure for himself or for any other person, access to\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      279.55,
+      320.71,
+      292.89
+    ],
+    "text": "(a) any computer ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      301.51,
+      402.45,
+      314.85
+    ],
+    "text": "(b)any information held in any computer,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      323.47,
+      451.34,
+      396.81
+    ],
+    "text": "knowing or having reason to believe that he has no lawfulauthority to secure such access, shall be guilty of an offenceand shall on conviction be liable to a fine not exceeding onehundred thousand rupees, or to imprisonment of eitherdescription for a term which may extend to five years, or bothsuch fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      407.47,
+      451.36,
+      432.81
+    ],
+    "text": "4.Any person who intentionally does any act, in orderto secure for himself or for any other person, access to\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      443.47,
+      320.71,
+      456.81
+    ],
+    "text": "(a) any computer ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      465.55,
+      402.45,
+      478.89
+    ],
+    "text": "(b)any information held in any computer,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      488.47,
+      451.34,
+      585.81
+    ],
+    "text": "knowing or having reason to believe that he has no lawfulauthority to secure such access and with the intention ofcommitting an offence under this Act or any other law for thetime being in force, shall be guilty of an offence and shall onconviction be liable to a fine not exceeding two hundredthousand rupees or to imprisonment of either description fora term which may extend to five years or to both such fineand imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      594.98,
+      411.28,
+      615.25
+    ],
+    "text": "Explanation 1\u2014 for the purposes of paragraph (a)the mere turning on of a computer is sufficient.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      626.06,
+      389.71,
+      636.73
+    ],
+    "text": "Explanation 2\u2014 for the purposes of paragraph (b)-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      648.38,
+      451.04,
+      659.05
+    ],
+    "text": "(a)there should be an intention to sccure any programme or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      660.62,
+      342.38,
+      671.29
+    ],
+    "text": "data held in any computer ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      408.02,
+      199.13,
+      466.69
+    ],
+    "text": "Doing any act tosecureunauthorisedaccess in order tocommit anoffence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      246.98,
+      184.17,
+      296.05
+    ],
+    "text": "Securingunauthorisedaccess to acomputer anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      165.55,
+      383.45,
+      178.89
+    ],
+    "text": "3Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      204.26,
+      381.55,
+      214.93
+    ],
+    "text": "(b)the access intended to be sccured, should be unauthorised;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.13,
+      230.3,
+      383.67,
+      240.97
+    ],
+    "text": "(c)it is not necessary to have access directed at any particular",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      243.26,
+      286.2,
+      253.93
+    ],
+    "text": "programme, data or computer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      267.19,
+      384.03,
+      384.57
+    ],
+    "text": "5.Any person who, intentionally and without lawfulauthority causes a computer to perform any function knowingor having reason to believe that such function will result inunauthorised modification or damage or potential damageto any computer or computer system or computer programmeshall be guilty of an offence and shall on conviction be liableto a fine not exceeding three hundred thousand rupees or toimprisonment of either description for as term which mayextend to five years or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245.49,
+      397.15,
+      294.23,
+      410.49
+    ],
+    "text": "Illustrations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.85,
+      425.3,
+      383.7,
+      435.97
+    ],
+    "text": "For any unauthorised modification or damage or potential",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.85,
+      438.26,
+      384.0,
+      448.93
+    ],
+    "text": "damage to any computer or computer system or computer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.85,
+      451.22,
+      383.75,
+      461.89
+    ],
+    "text": "programme to take place, any one of the following may occur:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.29,
+      477.26,
+      383.97,
+      487.93
+    ],
+    "text": "(a)impairing the operation of any computer, computer",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      490.22,
+      383.81,
+      500.89
+    ],
+    "text": "system or the reliability of any data or information",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      503.3,
+      290.19,
+      513.97
+    ],
+    "text": "held in any computer; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.29,
+      529.22,
+      384.03,
+      539.89
+    ],
+    "text": "(b)destroying, deleting or corrupting, or adding, moving",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      542.3,
+      376.95,
+      552.97
+    ],
+    "text": "or altering any information held in any computer;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.13,
+      568.22,
+      383.85,
+      578.89
+    ],
+    "text": "(c)makes use of a computer service involving computer",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      581.3,
+      383.94,
+      591.97
+    ],
+    "text": "time and data processing for the storage or retrieval",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      594.26,
+      230.13,
+      604.93
+    ],
+    "text": "of data;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.29,
+      620.3,
+      384.03,
+      630.97
+    ],
+    "text": "(d)introduces a computer program which will have the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      633.26,
+      383.83,
+      643.93
+    ],
+    "text": "effect of malfunctioning of a computer or falsifies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      646.22,
+      383.98,
+      656.89
+    ],
+    "text": "the data or any information held in any computer or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      659.3,
+      264.53,
+      669.97
+    ],
+    "text": "computer system.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      266.54,
+      453.56,
+      325.21
+    ],
+    "text": "Causing acomputer toperform afunction withoutlawful authorityan offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "4Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      271.15,
+      203.54,
+      451.24,
+      249.01
+    ],
+    "text": "Explanation- for the purposes of paragraphs (a) to(d) above, it is immaterial whether the consequencesreferred to therein were of a temporary or permanentnature.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      260.23,
+      451.34,
+      309.57
+    ],
+    "text": "6.(1) Any person who intentionally causes a computerto perform any function, knowing or having reason to believethat such function will result in danger or imminent dangerto\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      320.23,
+      320.63,
+      333.57
+    ],
+    "text": "(a)national security ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      344.23,
+      351.44,
+      357.57
+    ],
+    "text": "(b)the national economy ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.71,
+      368.23,
+      298.19,
+      381.57
+    ],
+    "text": "(c)public order,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      392.23,
+      451.2,
+      429.57
+    ],
+    "text": "shall be guilty of an offence and shall on conviction bepunishable with imprisonment of either description for a termnot exceeding five years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      440.23,
+      451.42,
+      573.57
+    ],
+    "text": "(2) In a prosecution for an offence under paragraphs (a) or(c) of subsection (1), a Certificate under the hand of theSecretary to the Ministry of the Minister in charge of thesubject of Defence or, in a prosecution for an offence underparagraph (b) of subsection (1), a Certificate under the handof the Secretary to the Ministry of the Minister in charge ofthe subject of Finance, stating respectively, that the situationenvisaged in subsection (1) did in fact exist in relation tonational security or public order, or the national economy, asthe case may be, shall be admissible in evidence and shall beprima facie evidence of the facts stated therein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      584.23,
+      451.33,
+      633.57
+    ],
+    "text": "7.Any person who, knowing or having reason to believethat any other person has without lawful authority obtainedinformation from a computer or a storage medium of acomputer,\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      644.23,
+      451.26,
+      669.57
+    ],
+    "text": "(a)buys, receives, retains, sells, or in any manner dealswith ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      262.58,
+      193.11,
+      302.05
+    ],
+    "text": "Offencescommittedagainst nationalsecurity &c.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      587.06,
+      183.46,
+      636.13
+    ],
+    "text": "Dealing withdata &c.,unlawfullyobtained anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189.57,
+      165.55,
+      383.45,
+      178.89
+    ],
+    "text": "5Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      201.79,
+      383.99,
+      215.13
+    ],
+    "text": "(b)offers to buy or sell, or in any manner deals with ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      226.63,
+      383.79,
+      252.33
+    ],
+    "text": "(c)downloads, uploads, copies or acquires thesubstance or meaning of,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      263.83,
+      384.04,
+      339.09
+    ],
+    "text": "any such information shall be guilty of an offence and shallon conviction be liable to a fine not less than one hundredthousand rupees and not exceeding three hundred thousandrupees or to imprisonment of either description for a term notless than six months and not exceeding three years, or toboth such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.85,
+      352.7,
+      349.17,
+      363.37
+    ],
+    "text": "Explanation .\u2014For the purposes of sections 9 and 10\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      233.37,
+      377.54,
+      383.73,
+      388.21
+    ],
+    "text": "(a)It is immaterial that the offender had",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      251.85,
+      389.9,
+      383.91,
+      400.57
+    ],
+    "text": "authority to access the computer or had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      251.85,
+      402.26,
+      371.83,
+      412.93
+    ],
+    "text": "authority to perform the function ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      233.37,
+      427.1,
+      383.89,
+      437.77
+    ],
+    "text": "(b)The offender need not have intended",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      251.85,
+      439.46,
+      383.92,
+      450.13
+    ],
+    "text": "to cause or have had the knowledge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      251.85,
+      451.82,
+      383.82,
+      462.49
+    ],
+    "text": "that he is likely to cause, loss or damage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      251.85,
+      464.3,
+      383.03,
+      474.97
+    ],
+    "text": "to any particular person or institution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      486.91,
+      383.98,
+      512.73
+    ],
+    "text": "8.Any person, who, knowingly or without lawfulauthority intercepts\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      524.11,
+      383.93,
+      549.93
+    ],
+    "text": "(a)any subscriber information or traffic data or anycommunication, to, from or within a computer ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      561.31,
+      384.01,
+      587.13
+    ],
+    "text": "(b)any electromagnetic emissions from a computer thatcarries any information,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      598.51,
+      384.09,
+      673.89
+    ],
+    "text": "shall be guilty of an offence and shall on conviction be liableto a fine not less than one hundred thousand rupees and notexceeding three hundred thousand rupees or to imprisonmentof either description for a term not less than six months andnot exceeding three years, or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      489.5,
+      451.23,
+      519.37
+    ],
+    "text": "Illegalinterception ofdata an offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "6Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      201.55,
+      451.05,
+      238.89
+    ],
+    "text": "9.Any person who, without lawful authority produces,sells, procures for use, imports, exports, distributes or otherwisemakes available\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      247.51,
+      451.25,
+      272.85
+    ],
+    "text": "(a)any device, including a computer or computerprogram ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      281.47,
+      451.23,
+      318.81
+    ],
+    "text": "(b)a computer password, access code or similarinformation by which the whole or any part of acomputer is capable of being accessed,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      327.55,
+      451.87,
+      424.89
+    ],
+    "text": "with the intent that it be used by any person for the purposeof committing an offence under this Act shall be guilty of anoffence and shall on conviction be liable to a fine not lessthan one hundred thousand rupees and not exceedingthree hundred thousand rupees or to imprisonment ofeither description for a term not less than six months andnot exceeding three years, or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      433.51,
+      451.34,
+      554.85
+    ],
+    "text": "10.Any person who, being entrusted with informationwhich enables him to access any service provided by meansof a computer, discloses such information without any expressauthority to do so or in breach of any contract expressed orimplied, shall be guilty of an offence and shall on convictionbe liable to a fine not less than one hundred thousand rupeesand not exceeding three hundred thousand rupees or toimprisonment of either description for a term not less thansix months and not exceeding three years or to both such fineand imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      563.47,
+      451.37,
+      673.29
+    ],
+    "text": "11.Any person who attempts to commit an offence undersections 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 of this Act orto cause such an offence to be committed, shall be guilty ofan offence and shall on conviction be liable to a fine notexceeding one half of the maximum fine provided for each ofsuch offences, or to imprisonment of either description for aterm not exceeding one half of the maximum term providedfor each of such offences, or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      203.06,
+      192.49,
+      232.93
+    ],
+    "text": "Using of illegaldevices anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      435.02,
+      192.49,
+      493.69
+    ],
+    "text": "Unauthoriseddisclosure ofinformationenabling accessto a service, anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      566.06,
+      196.17,
+      586.33
+    ],
+    "text": "Attempts tocommit offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.57,
+      165.55,
+      383.45,
+      178.89
+    ],
+    "text": "7Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      201.67,
+      383.97,
+      239.61
+    ],
+    "text": "12.(1) Any person who abets the commission of anoffence under this Act shall be guilty of the offence ofabetment and shall on conviction\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      251.47,
+      383.91,
+      289.41
+    ],
+    "text": "(a)if the offence abetted is committed in consequenceof the abetment, be liable to the same punishmentas is provided for the offence; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      300.67,
+      383.91,
+      326.25
+    ],
+    "text": "(b)if the offence is not committed in consequence ofthe abetment, be liable \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.85,
+      337.51,
+      383.93,
+      437.01
+    ],
+    "text": "(i)where the maximum fine or term ofimprisonment is provided for, to a fine notexceeding one fourth of the maximum fineprovided for the offence or to imprisonmentof either description for a term not exceedingone fourth of the maximum term provided forthe offence, or to both such fine andimprisonment; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182.85,
+      448.27,
+      384.0,
+      535.41
+    ],
+    "text": "(ii)where the maximum fine or imprisonment isnot provided for or the maximum term ofimprisonment is life, to a fine not exceedingtwo hundred and fifty thousand rupees or toimprisonment of either description for a termnot exceeding five years, or to both such fineand imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      546.67,
+      384.07,
+      609.21
+    ],
+    "text": "(2) The term \u2018abet\u2019 shall have the same meaning as insections 100 and 101 of the Penal Code (Chapter 19) and theprovisions of sections 101A, 103, 104, 105, 106 and 107 ofthe Penal Code (Chapter 19) shall mutatis mutandis apply inrelation to the abetment of any offence under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      620.95,
+      383.9,
+      671.13
+    ],
+    "text": "13.(1) Any person who conspires to commit an offenceunder this Act shall be guilty of an offence and shall, onconviction be liable to be punished with the punishmentprescribed for abetting the commission of that offence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      204.02,
+      449.8,
+      224.29
+    ],
+    "text": "Abetment of anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      623.54,
+      443.13,
+      653.41
+    ],
+    "text": "Conspiring tocommit anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "8Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      201.79,
+      451.27,
+      264.69
+    ],
+    "text": "(2)The term \u201cconspire\u201d shall have the same meaning asin subsection (2) of section 113A of the Penal Code (Chapter19) and the provisions of that section shall mutatis mutandisapply in relation to conspiracy to commit any offence underthis Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      276.19,
+      451.22,
+      314.37
+    ],
+    "text": "14.(1) Where a person is convicted of an offence underthis Act, and where it is established that as a result of thecommission of such offence\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      325.75,
+      450.97,
+      351.57
+    ],
+    "text": "(a)loss or damage was caused to any person orinstitution; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      362.95,
+      451.23,
+      388.77
+    ],
+    "text": "(b)monetary gain accrued to the offender or any otherperson,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      400.15,
+      451.26,
+      438.33
+    ],
+    "text": "the court shall, in addition to any other punishment that maybe imposed on the offender, make order for the payment bythe offender\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      229.15,
+      449.71,
+      451.32,
+      475.53
+    ],
+    "text": "(i)of compensation, to the person or institution thatincurred loss or damage; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.15,
+      486.91,
+      451.03,
+      512.73
+    ],
+    "text": "(ii)of a sum equivalent to the value of the monetarygain so accrued, to the State, as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      524.11,
+      451.31,
+      574.65
+    ],
+    "text": "(2) An order made under subsection (1) for payment, shallbe enforced as if such order was a decree entered by the DistrictCourt in favour of the person or institution which sufferedthe loss or damage or the State, as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      586.15,
+      451.38,
+      673.89
+    ],
+    "text": "(3) A Certificate under the hand of an expert containing arecord of the quantum of compensation as computed by thevictim and a statement whether in the opinion of the expert,the quantum of compensation is proportionate to the loss ordamage caused or the monetary value of the gain accruedshall be admissible in evidence and shall be prime facie proofof the facts stated therein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      272.54,
+      197.62,
+      321.61
+    ],
+    "text": "Compensation tobe awarded forloss or damageconsequent to anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      189.57,
+      165.55,
+      383.45,
+      178.89
+    ],
+    "text": "9Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      201.55,
+      384.07,
+      250.89
+    ],
+    "text": "(4) An order under subsection (1) for the payment ofcompensation in favour of any person shall not debar orprejudice any right of that person to a civil remedy for therecovery of damages :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      260.47,
+      383.96,
+      321.81
+    ],
+    "text": "Provided however that the time limit specified in thePrescription Ordinance (Chapter 68) for the commencementof any action relating to a civil remedy, shall, for the purposesof this Act, be computed only from the date on which anorder under subsection (1) is made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      247.77,
+      331.51,
+      279.96,
+      344.85
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237.57,
+      354.55,
+      290.0,
+      367.89
+    ],
+    "text": "INVESTIGATIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      377.47,
+      383.91,
+      426.81
+    ],
+    "text": "15.Except as otherwise provided by this Act, all offencesunder this Act shall be investigated, tried or otherwise dealtwith in accordance with the provisions of the Code of CriminalProcedure Act, No. 15 of 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      438.55,
+      383.98,
+      475.89
+    ],
+    "text": "16. Every offence under this Act shall be a cognizableoffence within the meaning of, and for the purpose of, theCode of Criminal Procedure Act, No. 15 of 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      489.55,
+      384.14,
+      586.89
+    ],
+    "text": "17.(1) The Minister in charge of the subject of Scienceand Technology may, in consultation with the Minister incharge of the subject of Justice, appoint by Order puiblishedin the Gazette any public officer having the requiredqualification and experience in electronic engineering orsoftware technology (hereinafter referred to as\u201can expert\u201d) toassist any police officer in the investigation of an offenceunder this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      155.85,
+      597.55,
+      379.47,
+      610.89
+    ],
+    "text": "(2)For the purposes of this section \u201cexpert\u201d includes-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      159.57,
+      621.55,
+      383.96,
+      670.89
+    ],
+    "text": "(a)any member of the staff of any University whopossesses the prescribed qualification and, who isnominated by the Vice-Chancellor of the relevantUniversity ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      380.06,
+      455.89,
+      480.01
+    ],
+    "text": "Offences underthis Act to beinvestigatedunder theprovisions of theCode of CriminalProcedure.Offence underthe Act to becognizableoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      491.06,
+      451.27,
+      520.93
+    ],
+    "text": "Appointment ofa panel ofexperts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "10Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      201.55,
+      451.33,
+      250.05
+    ],
+    "text": "(b)any public institution which in the opinion ofthe relevant University possesses the prescribedqualification and is nominated by theVice-Chancellor of such University :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      247.15,
+      260.11,
+      451.35,
+      332.01
+    ],
+    "text": "Provided that where an \u201cexpert\u201d cannot beidentified in terms of paragraph (a) or (b) above theMinister may, in consultation with the Vice-Chancellor of the relevant University appoint anyother institution which satisfies the prescribedqualification ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      342.07,
+      451.18,
+      367.05
+    ],
+    "text": "(c)University shall mean any University establishedunder the Universities Act, No. 16 of 1978.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      377.11,
+      451.31,
+      449.01
+    ],
+    "text": "(3) The qualifications and experience (having regard tothe specific areas of expertise in electronic engineering orsoftware technology) required to be fulfilled by an officerappointed under subsection (1) and the manner and mode ofappointment and the conditions of appointment of suchofficer shall be as prescribed by regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      459.07,
+      451.21,
+      495.81
+    ],
+    "text": "(4) For the purpose of an investigation under this Act, anexpert called upon to assist any police officer shall, have thepower to\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      505.87,
+      451.24,
+      530.85
+    ],
+    "text": "(a)enter upon any premises along with a police officernot below the rank of a sub-inspector ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      540.91,
+      451.29,
+      589.41
+    ],
+    "text": "(b)access any information system, computer orcomputer system or any programme, data orinformation held in such computer to perform anyfunction or to do any such other thing ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      599.47,
+      436.24,
+      612.81
+    ],
+    "text": "(c)require any person to disclose any traffic data ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      622.87,
+      359.7,
+      636.21
+    ],
+    "text": "(d)orally examine any person ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      646.27,
+      451.27,
+      671.49
+    ],
+    "text": "(e)do such other things as may be reasonably required,for the purposes of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189.57,
+      165.55,
+      383.61,
+      178.89
+    ],
+    "text": "11Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      201.55,
+      384.94,
+      238.89
+    ],
+    "text": "(5) An expert shall be paid such remuneration as may bedetermined by the Minister in consultation with the Ministerin charge of the subject of Finance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      249.55,
+      384.99,
+      358.89
+    ],
+    "text": "(6) An expert may be called upon to assist any policeofficer in the investigation of an offence under this Act and itshall be duty of the officer to render all such assistance asmay be required for the purposes of such investigation. Whereany proceedings have been commenced consequent to thefindings of an investigation, it shall be the duty of the officerto make available for the purposes of such proceedings, anyinformation, data, material or other matter that may beobtained by him in the course of such investigation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      369.55,
+      384.98,
+      418.89
+    ],
+    "text": "18.(1) An expert or a police officer may, for the purposesof an investigation under this Act under the authority of awarrant issued in that behalf by a Magistrate on applicationmade for such purpose,\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      429.55,
+      384.91,
+      466.89
+    ],
+    "text": "(i)obtain any information including subscriberinformation and traffic data in the possession of anyservice provider;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.81,
+      477.55,
+      384.84,
+      514.89
+    ],
+    "text": "(ii)intercept any wire or electronic communicationincluding subscriber information and traffic data, atany stage of such communication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      525.55,
+      385.01,
+      562.89
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1), anexpert or a police officer may without a warrant exercise allor any of the powers referred to in that subsection, if\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.65,
+      573.55,
+      384.92,
+      598.89
+    ],
+    "text": "(a)the investigation needs to be conducted urgently;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.65,
+      609.55,
+      384.93,
+      634.89
+    ],
+    "text": "(b)there is a likelihood of the evidence being lost,destroyed, modified or rendered inaccessible; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.37,
+      645.55,
+      384.81,
+      670.89
+    ],
+    "text": "(c)there is a need to maintain confidentiality regardingthe investigation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      371.78,
+      454.3,
+      401.65
+    ],
+    "text": "Powers of searchand seizure withwarrant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "12Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      202.03,
+      452.26,
+      239.97
+    ],
+    "text": "(3) The provisions of sections 36, 37 and 38 of the Code ofCriminal Procedure Act, No. 15 of 1979 shall not apply inrelation to the arrest of a person for an offence under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      251.23,
+      452.35,
+      313.77
+    ],
+    "text": "(4) The Minister may by regulation prescribe the mannerin which and the procedures required to be followed in respectof, the retention and interception of data and informationincluding traffic data, for the purposes of any investigationunder this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      325.03,
+      452.25,
+      436.65
+    ],
+    "text": "19.(1) Where an expert or a police officer is satisfiedthat any information stored in a computer is reasonablyrequired for the purposes of an investigation under this Actand that there is a risk that such information may be lost,destroyed, modified or rendered inaccessible, he may bywritten notice require the person in control of such computeror computer system to ensure that the information be preservedfor such period not exceeding seven (07) days as may bespecified in such notice.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      447.91,
+      452.34,
+      498.21
+    ],
+    "text": "(2) On an application made to a Magistrate havingjurisdiction, the period for which the information is to bepreserved may be extended for such further period, which inthe aggregate shall not exceed upto ninety days.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      509.47,
+      452.43,
+      621.21
+    ],
+    "text": "20.Every police officer and every expert who conductsany search, inspection or does any other thing in the courseof an investigation, shall make every endeavour to ensurethat the ordinary course of legitimate business for which anycomputer may be used is not hampered by such search,inspection or investigation and shall not seize any computer,computer system or part thereof, if such seizure will prejudicethe conduct of the ordinary course of business for which thecomputer is used, unless\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      632.47,
+      452.29,
+      670.41
+    ],
+    "text": "(a)it is not possible to conduct the inspection on thepremises where such computer, computer system orpart thereof is located; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      326.06,
+      191.61,
+      346.33
+    ],
+    "text": "Preservation ofinformation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      512.3,
+      194.61,
+      542.17
+    ],
+    "text": "Normal use ofcomputer not tobe hampered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      189.57,
+      165.55,
+      383.61,
+      178.89
+    ],
+    "text": "13Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      201.67,
+      384.02,
+      264.21
+    ],
+    "text": "(b)seizure of such computer, computer system or partthereof is essential to prevent the commission of theoffence or the continuance of the offence or to obtaincustody of any information which would otherwisebe lost, destroyed, modified or rendered inaccessible.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      275.47,
+      384.12,
+      325.77
+    ],
+    "text": "21.(1) Any police officer may, in the course of aninvestigation under this Act, exercise powers of arrest, search,or seizure of any information accessible within any premises,in the manner provided for by law:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      337.03,
+      383.97,
+      424.17
+    ],
+    "text": "Provided that a police officer making an arrest without awarrant of person suspected of committing an offence underthis Act, shall without unnecessary delay and within twenty-four hours of such arrest, exclusive of the time taken for thejourney from the place of arrest to the presence of theMagistrate, produce such person before the Magistrate of theCourt nearest to the place that the suspect is arrested.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      435.43,
+      384.16,
+      510.21
+    ],
+    "text": "(2) No police officer shall access any computer for thepurpose of an investigation under this Act unless the InspectorGeneral of Police has certified in writing that such policeofficer possesses adequate knowledge and skill in the fieldof information communication technology and is therebypossessed of the required expertise to perform such a function.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      521.47,
+      383.97,
+      596.37
+    ],
+    "text": "22.(1) Where any item or data has been seized orrendered inaccessible in the course of an investigation, thepolice officer conducting the search shall issue a completelist of such items and data including the date and time ofsuch seizure or of rendering it inaccessible to the owner orperson in charge of the computer or computer system.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      607.63,
+      384.04,
+      670.17
+    ],
+    "text": "(2) Subject to the provisions of subsection (3), a policeofficer may upon application made by the owner or person incontrol of the computer or computer system, permit a personnominated by such owner or person to issue such person acopy of such data.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      276.98,
+      453.62,
+      306.85
+    ],
+    "text": "Power of policeofficer to arrest,search and seize.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      523.58,
+      451.31,
+      563.05
+    ],
+    "text": "Police officer torecord andafford access toseized data.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "14Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      201.55,
+      451.22,
+      250.89
+    ],
+    "text": "(3) A police officer shall not grant permission or give suchcopies under subsection (2) if it appears that such permissionwould be prejudicial to any criminal investigation orproceeding.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      262.51,
+      451.33,
+      299.85
+    ],
+    "text": "23.(1) Any person who is required to make any disclosureor to assist in an investigation under this Act, shall complywith such requirement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      310.51,
+      451.38,
+      407.85
+    ],
+    "text": "(2) A person who obstructs the lawful exercise of the powersconferred on an expert or a police officer or fails to complywith such request made by such expert or police officer duringan investigation shall be guilty of an offence and shall onconviction be liable to a fine not exceeding two hundredthousand rupees or to imprisonment of either description fora period not less than one year and not exceeding two yearsor to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      419.47,
+      451.32,
+      504.81
+    ],
+    "text": "24.(1) Every person engaged in an investigation underthis Act shall maintain strict confidentiality with regard toall information as may come to his knowledge in the courseof such investigations and he shall not disclose to any personor utilize for any purpose whatsoever any information soobtained other than in the discharge of his duties under thisAct.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      515.47,
+      451.35,
+      612.81
+    ],
+    "text": "(2) Every service provider from whom any informationhas been requested or obtained and any person to whom awritten notice has been issued for the preservation of anyinformation shall maintain strict confidentiality in relationto such information and the fact that such information hasbeen requested, obtained or required to be preserved, andshall not make any disclosure in regard to such matters otherthan with lawful authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      623.47,
+      451.26,
+      672.81
+    ],
+    "text": "(3) A service provider shall not be held liable under thecivil or criminal law for the disclosure of any data or otherinformation for the purposes of an investigation under thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      264.5,
+      185.61,
+      284.77
+    ],
+    "text": "Duty to assistinvestigation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      420.02,
+      190.85,
+      469.09
+    ],
+    "text": "Confidentialityof informationobtained in thecourse of aninvestigation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      189.57,
+      165.55,
+      383.61,
+      178.89
+    ],
+    "text": "15Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      201.19,
+      384.18,
+      272.01
+    ],
+    "text": "(4) Any person who contravenes the provisions ofsubsections (1) and (2) shall commit an offence and shall onconviction be liable to a fine not exceeding three hundredthousand rupees or to imprisonment of either description fora term not exceeding two years or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      246.21,
+      279.19,
+      281.51,
+      292.53
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      235.77,
+      299.71,
+      292.09,
+      313.05
+    ],
+    "text": "MISCELLANEOUS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      320.23,
+      384.0,
+      344.97
+    ],
+    "text": "25.The jurisdiction to hear, try and determine alloffences under this Act shall be vested with the High Court :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      352.15,
+      384.05,
+      411.57
+    ],
+    "text": "Provided however that where the provisions of theExtradition Law, No. 8 of 1977 is applicable in relation tothe commission of an offence under this Act, the High Courtholden at Colombo shall have exclusive jurisdiction to hear,try and determine such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      419.71,
+      384.08,
+      479.01
+    ],
+    "text": "26.(1) Every document duly signed and issued by anexpert or a police officer, as the case may be, and dulyauthenticated by an expert in the prescribed manner, shall beadmissible in evidence and shall be prima facie evidence ofthe facts stated therein.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      486.19,
+      383.9,
+      522.45
+    ],
+    "text": "(2) for the purposes, of this section the expression\u201cdocument\u201d shall include a certificate, declaration,information, data, report or any other similar document.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      530.71,
+      383.91,
+      566.97
+    ],
+    "text": "27.The Schedule to the Extradition Law, No. 8 of 1977is hereby amended by the insertion immediately before PartB thereof, of the following new item :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      150.81,
+      575.11,
+      383.72,
+      600.33
+    ],
+    "text": "\u201c(49)An offence committed in terms of the ComputerCrimes Act, No. 24 of 2007.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      609.07,
+      384.08,
+      670.41
+    ],
+    "text": "28.No civil or criminal action shall be instituted againstan expert or a police officer appointed for the purpose of thisAct, for any lawful act which is done or purported to be donein good faith by such expert or police officer as the case maybe, in pursuance of his duties under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      420.98,
+      455.15,
+      460.45
+    ],
+    "text": "Proof ofdocument issuedby an expert or aPolice Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      321.74,
+      437.87,
+      332.41
+    ],
+    "text": "Jurisdiction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      531.98,
+      449.08,
+      581.05
+    ],
+    "text": "Amendment ofthe Schedule tothe ExtraditionLaw, No. 8 of1977.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      610.58,
+      449.9,
+      640.45
+    ],
+    "text": "Immunity fromlegalproceedings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "16Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      201.55,
+      450.75,
+      226.89
+    ],
+    "text": "29.Every expert shall, in the discharge of his dutiesunder this Act, be deemed to be\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      237.55,
+      451.36,
+      274.89
+    ],
+    "text": "(a)a \u201cpeace officer\u201d within the meaning and for thepurposes of the Code of Criminal Procedure Act,No. 15 of 1979; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      285.55,
+      451.22,
+      310.89
+    ],
+    "text": "(b)a \u201cpublic officer\u201d within the meaning and for thepurposes of the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      321.55,
+      451.2,
+      346.89
+    ],
+    "text": "30.Where an offence under this Act is committed by abody of persons, then if that body of person is\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      357.55,
+      451.21,
+      382.89
+    ],
+    "text": "(a)a body corporate, every director and officer of thatbody corporate; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      393.55,
+      388.85,
+      406.89
+    ],
+    "text": "(b)a firm, every partner of that firm; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      417.55,
+      451.21,
+      454.89
+    ],
+    "text": "(c)a body unincorporated other than a firm, everyofficer of that body responsible for its managementand control,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      465.55,
+      394.95,
+      478.89
+    ],
+    "text": "shall be deemed to be guilty of such offence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      489.55,
+      451.3,
+      538.89
+    ],
+    "text": "Provided that no such person shall be deemed to be guiltyof such offence if he proves that such offence was committedwithout his knowledge or that he exercised all due diligenceto prevent the commission of such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      549.55,
+      451.34,
+      586.89
+    ],
+    "text": "31.For the purposes of the application of the provisionsof the Penal Code (Chapter 19) in relation to an offencecommitted under this Act\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      597.55,
+      451.26,
+      634.89
+    ],
+    "text": "(a)an offence under this Act committed outside theterritory of Sri Lanka shall be deemed to have beencommitted in Sri Lanka; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      645.55,
+      451.24,
+      670.89
+    ],
+    "text": "(b)any information referred to in this Act shall bedeemed to be property.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      552.02,
+      187.88,
+      562.69
+    ],
+    "text": "Presumptions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      204.02,
+      194.59,
+      243.49
+    ],
+    "text": "Experts deemedto be peaceofficer andpublic officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      324.5,
+      181.18,
+      354.37
+    ],
+    "text": "Offences bybodies ofpersons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      189.57,
+      165.55,
+      383.61,
+      178.89
+    ],
+    "text": "17Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      201.55,
+      384.05,
+      262.89
+    ],
+    "text": "32.(1) The Minister may make regulations under thisAct for the any matter authorized or required to be madeunder this Act, or which in required to be prescribed underthis Act, or for the purpose of carrying out or giving effect tothe principles and provisions of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      271.51,
+      383.94,
+      320.85
+    ],
+    "text": "(2) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication or on such later date as may bespecified in the regulation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      329.47,
+      384.01,
+      402.81
+    ],
+    "text": "(3) Every regulation made by the Minister shall as soonas convenient after its publication in the Gazette be broughtbefore Parliament for its approval. Any regulation which isnot so approved shall be deemed to be rescinded as from thedate of disapproval but without prejudice to anythingpreviously done thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      411.55,
+      383.93,
+      436.89
+    ],
+    "text": "(4) Notification of the date on which a regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      445.99,
+      384.08,
+      543.33
+    ],
+    "text": "33.Where a request is made to the Government of SriLanka, by or on behalf of another Government for theextradition of any person accused or convicted of an offenceunder this Act, the Minister shall on behalf of the Governmentof Sri Lanka, forthwith notify the Government of therequesting State of the measures which the Government ofSri Lanka has taken, or proposes to take, for the prosecutionor extradition of that person for that offence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      552.55,
+      383.99,
+      589.89
+    ],
+    "text": "34.Where a person who is not a citizen of Sri Lanka isarrested for an offence under this Act, such person shall beentitled\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      598.51,
+      384.11,
+      671.85
+    ],
+    "text": "(a)to communicate without delay, with the nearestappropriate representative of the State of which heis a national or which is otherwise entitled to protecthis rights or if he is a stateless person, with the nearestappropriate representative of the State in the territoryof which he was habitually resident ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      203.06,
+      438.54,
+      213.73
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      447.98,
+      455.13,
+      525.85
+    ],
+    "text": "Minister tonotify requestingState, ofmeasures takenagainst personsfor whoseextraditionrequest is made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      553.82,
+      452.84,
+      593.29
+    ],
+    "text": "Rights of certainpersons arrestedfor offencesunder this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "18Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      201.55,
+      449.71,
+      214.89
+    ],
+    "text": "(b)to be visited by a representative of that State ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      227.71,
+      222.19,
+      451.32,
+      247.05
+    ],
+    "text": "(c)be informed of his rights under paragraphs(a) and (b).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      254.23,
+      451.32,
+      371.01
+    ],
+    "text": "35.(1) The provisions of the Mutual Assistance inCriminal Matters Act, No. 25 of 2002 shall, wherever it isnecessary for the investigation and prosecution of an offenceunder this Act, be applicable in respect of the providing ofassistance as between the Government of Sri Lanka and otherStates who are either Commonwealth countries specifiedby the Minister by Order under section 2 of the aforesaidAct or Non-Commonwealth countries with which theGovernment of Sri Lanka entered into an agreement in termsof the aforesaid Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      378.19,
+      451.31,
+      506.49
+    ],
+    "text": "(2) In the case of a country which is neither aCommonwealth country specified by the Minister by Orderunder section 2 of the aforesaid Act nor a Non-Commonwealthcountry with which the Government of Sri Lanka enteredinto an agreement in terms of the aforesaid Act, then it shallbe the duty of the Government to afford all such assistanceto, and may through the Minister request all such assistancefrom, a convention country, as may be necessary for theinvestigation and prosecution of an offence under this Act(including assistance relating to the taking of evidence andstatements, the serving of process and the conduct of searches).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      513.67,
+      451.28,
+      550.05
+    ],
+    "text": "(3) The grant of assistance in terms of this section may bemade subject to such terms and conditions as the Ministerthinks fit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      557.11,
+      451.34,
+      674.37
+    ],
+    "text": "36.Notwithstanding anything in the Extradition Law,No. 8 of 1977, an offence specified in the Schedule to thatLaw and in this Act, shall for the purposes of that law bedeemed not to be an offence of a political character or anoffence connected with a political offence or an offenceinspired by political motives, for the purposes only of theextradition of any person accused or convicted of any suchoffence, as between the Government of Sri Lanka and anyrequesting State, or of affording assistance to a requestingState under section 35.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      557.54,
+      198.42,
+      625.81
+    ],
+    "text": "Offences underthis Act, not tobe politicaloffences &c., forthe purposes ofthe ExtraditionLaw.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      255.5,
+      183.45,
+      285.37
+    ],
+    "text": "Assistance toConventionStates &c.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      189.57,
+      165.55,
+      383.61,
+      178.89
+    ],
+    "text": "19Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      201.55,
+      383.89,
+      226.89
+    ],
+    "text": "37.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      242.47,
+      383.95,
+      256.41
+    ],
+    "text": "38.In this Act, unless the context otherwise requires,\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      264.07,
+      383.9,
+      289.41
+    ],
+    "text": "\u201ccomputer\u201d means an electronic or similar device havinginformation processing capabilities;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      297.55,
+      383.92,
+      346.89
+    ],
+    "text": "\u201cstorage medium\u201d means any [electronic or similar device]from which information is capable of beingreproduced, with or without the aid of any otherarticle or device;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      355.03,
+      383.95,
+      416.37
+    ],
+    "text": "\u201ccomputer programme\u201d means a set of instructionsexpressed in words, codes, schemes or any otherform, which is capable when incorporated in amedium that the computer can read, of causing acomputer to perform or achieve a particular task ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      424.51,
+      383.89,
+      449.85
+    ],
+    "text": "\u201ccomputer system\u201d means a computer or group of inter-connected computers, including the internet;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      457.99,
+      327.65,
+      471.33
+    ],
+    "text": "\u201cdocument\u201d includes an electronic record;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      478.99,
+      383.93,
+      516.33
+    ],
+    "text": "\u201celectronic record\u201d means, information, record or datagenerated, stored, received or sent in an electronicform or microfilm, or by any other similar means;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      523.99,
+      383.9,
+      573.33
+    ],
+    "text": "\u201cfunction\u201d in relation to a computer, includes logic, controlor carrying out of an arithmetical process, deletion,storage and retrieval and communication to or withina computer;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      580.99,
+      383.94,
+      606.33
+    ],
+    "text": "\u201cinformation\u201d includes data, text, images, sound, codes,computer programmes, databases or microfilm;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      155.85,
+      613.99,
+      267.62,
+      627.33
+    ],
+    "text": "\u201cservice provider\u201d means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      183.57,
+      635.47,
+      383.94,
+      673.05
+    ],
+    "text": "(a)a public or private entity which provides theability for its customers to communicate bymeans of a computer system; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      204.02,
+      445.31,
+      238.69
+    ],
+    "text": "Sinhala text toprevail in theevent ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      396.81,
+      243.74,
+      446.27,
+      254.41
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      165.55,
+      406.45,
+      178.89
+    ],
+    "text": "20Computer Crime Act, No. 24 of 2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.87,
+      203.71,
+      451.26,
+      241.65
+    ],
+    "text": "(b)any other entity that processes or storescomputer data or information on behalf of thatentity or its customers;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.15,
+      252.91,
+      451.28,
+      303.21
+    ],
+    "text": "\u201csubscriber information\u201d means any information,contained in the form of computer data or any otherform that is held by a service provider, relating tosubscribers of its services;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.15,
+      314.47,
+      332.63,
+      327.81
+    ],
+    "text": "\u201ctraffic data\u201d means data\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.87,
+      339.07,
+      451.28,
+      377.01
+    ],
+    "text": "(a)that relates to the attributes of acommunication by means of a computersystem;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.87,
+      388.27,
+      451.23,
+      413.85
+    ],
+    "text": "(b)data generated by a computer system that ispart of a service provider; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      251.71,
+      425.11,
+      451.1,
+      463.05
+    ],
+    "text": "(c)which shows communications origin,destination, route, time, data, size, durationor details of subscriber information.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      138.91,
+      630.86,
+      451.03,
+      670.33
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA AVENUE, POLHENGODA, COLOMBO 05 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
