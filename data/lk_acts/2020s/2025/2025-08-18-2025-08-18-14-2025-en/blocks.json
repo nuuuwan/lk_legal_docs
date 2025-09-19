@@ -1,0 +1,5689 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      77.47,
+      159.4,
+      342.31,
+      208.5
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.16,
+      466.43,
+      364.16,
+      475.29
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.6,
+      477.1,
+      302.68,
+      482.64
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.16,
+      489.04,
+      362.16,
+      501.09
+    ],
+    "text": "Price : Rs. 100.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.16,
+      538.42,
+      236.67,
+      547.28
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.17,
+      236.93,
+      333.83,
+      267.54
+    ],
+    "text": "SRI LANKA ELECTRICITY (AMENDMENT) ACT, No. 14 OF 2025",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.1,
+      303.74,
+      279.61,
+      314.82
+    ],
+    "text": "[Certi\ufb01 ed on 18th of August, 2025]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      5.829999923706055,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.87,
+      350.74,
+      280.86,
+      361.82
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.55,
+      407.75,
+      352.98,
+      432.82
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of August 22, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "1Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.53,
+      197.21,
+      353.71,
+      206.39
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.53,
+      233.41,
+      374.7,
+      271.39
+    ],
+    "text": "Amendment ofthe Long title to Act, No. 36 of 2024",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.53,
+      337.41,
+      365.08,
+      375.39
+    ],
+    "text": "General amendment to the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.9,
+      75.96,
+      256.11,
+      87.43
+    ],
+    "text": "[Certified on 18th of August, 2025]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.0,
+      99.96,
+      129.16,
+      111.43
+    ],
+    "text": "L.D.-O 17/2025",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.09,
+      123.96,
+      250.91,
+      147.43
+    ],
+    "text": "An Act amend the Sri LankaElectricity Act, No. 36 of 2024",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.0,
+      159.96,
+      307.51,
+      183.43
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.0,
+      195.7,
+      307.52,
+      219.43
+    ],
+    "text": "1. This Act may be cited as the Sri Lanka Electricity (Amendment) Act, No. 14 of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.0,
+      231.7,
+      307.52,
+      327.43
+    ],
+    "text": "2. The Long title to the Sri Lanka Electricity Act, No. 36 of 2024 (hereinafter referred to as the \u201cprincipal enactment\u201d) is hereby amended by the substitution for the words \u201cTO PROVIDE FOR THE ESTABLISHMENT OF THE NATIONAL ELECTRICITY ADVISORY COUNCIL;\u201d, of the words \u201cTO PROVIDE FOR THE FORMULATION OF THE NATIONAL ELECTRICITY POLICY AS PART OF THE NATIONAL POLICY ON ENERGY;\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.0,
+      336.7,
+      303.45,
+      348.72
+    ],
+    "text": "3. (1) In the principal enactment, there shall be substituted -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.0,
+      359.7,
+      307.52,
+      432.43
+    ],
+    "text": "(a) for the expression \u201cWholesale Electricity Market\u201d, wherever such expression appears, other than in paragraph (c) of section 2, subsection (4) of section 29 and subsections (1), (2) and (4) of section 30, of the expression \u201cNational Electricity Market\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.0,
+      440.7,
+      307.53,
+      501.43
+    ],
+    "text": "(b) for the word \u201cCouncil\u201d wherever such word appears with reference to the National Electricity Advisory Council established under section 3, of the expression, \u201ccommittee appointed by the Minister\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.0,
+      510.96,
+      307.51,
+      534.43
+    ],
+    "text": "(2) Save as provided in subsection (1), every reference to the \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "2Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      74.71,
+      356.51,
+      111.44
+    ],
+    "text": "(a) \u201cWholesale Electricity Market\u201d shall be read and construed as a reference to the \u201cNational Electricity Market\u201d; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      122.71,
+      356.52,
+      183.44
+    ],
+    "text": "(b) \u201cCouncil\u201d with reference to the National Electricity Advisory Council established under section 3 of the principal enactment, shall be read and construed as a reference to the \u201ccommittee appointed by the Minister\u201d,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.0,
+      195.97,
+      356.51,
+      231.44
+    ],
+    "text": "in any notice, notification, contract, communication or other document issued pursuant to the provisions of the principal enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.0,
+      243.41,
+      356.51,
+      266.84
+    ],
+    "text": "4. Section 1 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.0,
+      278.77,
+      356.51,
+      325.34
+    ],
+    "text": "(1) by the substitution for the words and figures \u201csection 4, section 9,\u201d, wherever such words and figures appear in that section, of the words and figures \u201csection 4, section 5, section 9,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.0,
+      337.27,
+      271.81,
+      348.74
+    ],
+    "text": "(2) in subsection (2) of that section -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.0,
+      359.41,
+      356.51,
+      430.64
+    ],
+    "text": "(a) by the repeal of the first proviso to that subsection and the substitution therefor, of the following proviso: - \u201cProvided that, prior to making such Order, the Minister shall be satisfied that \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200.0,
+      441.31,
+      356.5,
+      477.44
+    ],
+    "text": "(a) the Preliminary Transfer Plan has been prepared by the Power Sector Reforms Secretariat;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200.0,
+      488.11,
+      356.51,
+      535.94
+    ],
+    "text": "(b) the national electricity policy as part of the national policy on energy including the national tariff policy have been prepared",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.47,
+      245.42,
+      90.46,
+      283.4
+    ],
+    "text": "Amendment of section 1 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "3Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.0,
+      75.96,
+      307.5,
+      99.13
+    ],
+    "text": "by the Minister and approved by the Cabinet of Ministers; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.0,
+      109.8,
+      307.51,
+      251.23
+    ],
+    "text": "(c) the Annual Power Procurement Plan and the Long Term Generation Expansion Plan and Long Term Transmission Development Plan have been prepared by the Ceylon Electricity Board which shall be applicable until the Long Term Power System Development Plan prepared by the National System Operator comes into effect.\u201d;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.0,
+      261.9,
+      305.01,
+      275.2
+    ],
+    "text": "(b) by the repeal of second proviso to that subsection;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.0,
+      286.86,
+      307.53,
+      322.33
+    ],
+    "text": "(3) by the repeal of paragraph (b) of subsection (4) of that section and the substitution therefor, of the following paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.0,
+      334.26,
+      307.52,
+      380.83
+    ],
+    "text": "\u201c(b) the dates from which each Electricity Market specified in subsection (2) of section 30 shall come into operation under subsection (1) of section 30.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.0,
+      392.76,
+      307.52,
+      427.63
+    ],
+    "text": "(4) in subsection (5) of that section, by the substitution for all the words from \u201cbe placed before Parliament:\u201d to the end of that subsection, of the following words: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.0,
+      439.56,
+      255.01,
+      451.03
+    ],
+    "text": "\u201cbe placed before Parliament.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.0,
+      462.96,
+      307.51,
+      486.13
+    ],
+    "text": "(5) by the addition immediately after subsection (5) of that section, of the following subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      103.0,
+      498.06,
+      307.52,
+      532.93
+    ],
+    "text": "\u201c(6) Notwithstanding the provisions of subsection (2), if no appointed date is published in the Gazette as required by that subsection",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "4Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.53,
+      75.96,
+      357.05,
+      267.03
+    ],
+    "text": "even though the Minister is satisfied that the requirements in the proviso to that subsection have been met, the provisions of this Act, other than the provisions of this section, section 2, section 3, section 4, section 5, section 9, subsection (1) of section 10, paragraph (b) of subsection (2) of section 10, subsection (3) of section 10, subsection (5) of section 10, section 14, section 15, section 17, section 18, section 38, section 39 and the sections specified in subsection (4) of this section shall come into operation immediately upon the expiry of four months from the date on which this subsection comes into operation.\u201d. 5. Section 2 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.53,
+      279.56,
+      357.04,
+      327.03
+    ],
+    "text": "(1) in paragraph (a) of that section, by the substitution for the words \u201celectricity supply\u201d, of the words \u201ccontinuous and reliable electricity supply\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.53,
+      339.56,
+      357.04,
+      387.03
+    ],
+    "text": "(2) in paragraph (c) of that section, by the substitution for the words \u201cWholesale Electricity Market;\u201d, of the words \u201cunbundled electricity sector and National Electricity Market;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.53,
+      399.56,
+      357.05,
+      459.03
+    ],
+    "text": "(3) in paragraph (g) of that section, by the substitution for the words \u201cdangers arising from the\u201d and \u201cby improved safety standards,\u201d, of the words \u201crisks associated with the\u201d and \u201cthrough enhanced safety standards,\u201d respectively; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.53,
+      471.56,
+      357.05,
+      507.03
+    ],
+    "text": "(4) by the repeal of paragraph (i) of that section and the substitution therefor, of the following paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174.53,
+      519.56,
+      357.04,
+      543.03
+    ],
+    "text": "\u201c(i) to minimize the carbon footprint of the Sri Lankan electricity industry with the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42.0,
+      245.12,
+      92.22,
+      283.1
+    ],
+    "text": "Amendment of section 2 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "5Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149.53,
+      75.96,
+      308.04,
+      159.43
+    ],
+    "text": "view of achieving the Government\u2019s international commitments for decarbonisation, promoting renewable energy, and optimizing the integration of indigenous energy resources in line with the national policies of Sri Lanka.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.53,
+      171.4,
+      308.05,
+      207.13
+    ],
+    "text": "6. The heading of PART II, of the principal enactment is hereby repealed and the following heading is substituted therefor: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.53,
+      231.4,
+      308.03,
+      279.42
+    ],
+    "text": "\u201cNATIONAL ELECTRICITY POLICY AS PART OF THE NATIONAL POLICY ON ENERGY AND THE ISSUE OF POLICY GUIDELINES\u201d.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.53,
+      291.4,
+      308.05,
+      351.13
+    ],
+    "text": "7. Section 3 of the principal enactment is hereby repealed without prejudice to anything duly done in terms of the provisions of section 3, by the National Electricity Advisory Council established by that section, prior to the date of coming into operation of this section.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.53,
+      363.4,
+      308.04,
+      387.13
+    ],
+    "text": "8. Section 4 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.53,
+      399.66,
+      308.04,
+      447.13
+    ],
+    "text": "(1) in subsection (1) of that section, by the substitution for the words \u201cthe policy of the Government\u201d, of the words \u201cthe National Energy Policy and Strategies of Sri Lanka,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.53,
+      459.66,
+      308.04,
+      495.13
+    ],
+    "text": "(2) by the repeal of subsection (2) of that section and the substitution therefor of the following subsections: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.53,
+      507.66,
+      308.05,
+      543.13
+    ],
+    "text": "\u201c(2) Upon the coming into operation of this section, the Minister shall, with a view to enabling Sri Lanka to meet the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      317.53,
+      173.37,
+      369.96,
+      220.95
+    ],
+    "text": "Replacement of heading of the PART II of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      317.53,
+      294.05,
+      375.07,
+      322.43
+    ],
+    "text": "Repeal of section 3 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      317.53,
+      365.19,
+      367.74,
+      403.16
+    ],
+    "text": "Amendment of section 4 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "6Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.53,
+      75.96,
+      357.05,
+      255.43
+    ],
+    "text": "increasing future demands for electricity, appoint a committee with the approval of the Cabinet of Ministers, consisting of not more than eight persons (hereinafter referred to as the \u201ccommittee appointed by the Minister\u201d) having at least fifteen years of expertise in one or more of the following fields, to formulate the draft national electricity policy as part of the national policy on energy, after consultation with the Regulator, National System Operator, licensees, consumer organisations and other relevant stakeholders and in compliance with all relevant national policies and policy guidelines: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.53,
+      264.7,
+      320.02,
+      278.0
+    ],
+    "text": "(a) energy policy making;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.53,
+      284.7,
+      275.58,
+      298.0
+    ],
+    "text": "(b) economics;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.53,
+      304.7,
+      262.24,
+      318.0
+    ],
+    "text": "(c) finance;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.53,
+      324.7,
+      344.74,
+      338.0
+    ],
+    "text": "(d) energy system planning; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.53,
+      344.7,
+      357.03,
+      367.43
+    ],
+    "text": "(e) renewable energy and energy transition.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.52,
+      379.96,
+      357.04,
+      427.43
+    ],
+    "text": "(2A) A person shall be disqualified from being appointed or continued to be a member of the committee appointed by the Minister, if such person \u2013",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.52,
+      439.96,
+      357.04,
+      463.43
+    ],
+    "text": "(i) is not or ceases to be a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.52,
+      475.96,
+      357.04,
+      547.43
+    ],
+    "text": "(ii) is or has been within three years prior to being appointed, a member of Parliament, a Provincial Council or a Local Authority;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "7Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      75.96,
+      307.51,
+      171.43
+    ],
+    "text": "(iii) is a connected person having any financial or other interest amounting to a conflict of interest directly or indirectly in any entity in the Electricity Industry or any matter performed by such person;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      183.96,
+      307.51,
+      231.43
+    ],
+    "text": "(iv) is under any written law in force in Sri Lanka found or declared to be of unsound mind;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      243.96,
+      307.52,
+      327.43
+    ],
+    "text": "(v) is a person who has been declared an insolvent or bankrupt under any written law in Sri Lanka or in any other country, is undischarged insolvent or bankrupt;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      339.96,
+      307.51,
+      387.43
+    ],
+    "text": "(vi) has been convicted of any criminal offence by any court in Sri Lanka or in any other country; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      399.96,
+      307.51,
+      495.43
+    ],
+    "text": "(vii) is subject to any mental or physical disability which precludes such person from discharging the responsibilities assigned to such person as a member of the committee appointed by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.0,
+      507.96,
+      307.51,
+      543.43
+    ],
+    "text": "(2B) The Minister shall, after informing the Cabinet of Ministers in writing the reasons therefor, remove any member of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "8Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.53,
+      75.96,
+      357.04,
+      111.83
+    ],
+    "text": "committee appointed by the Minister, if such member is subject to any disqualification specified in subsection (2A).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.52,
+      124.76,
+      357.05,
+      172.83
+    ],
+    "text": "(2C) The members of the committee appointed by the Minister shall hold office for a period of three years unless removed from the office by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.52,
+      185.76,
+      357.04,
+      209.43
+    ],
+    "text": "(2D) The Minister may reappoint any member for a further term of three years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.52,
+      222.36,
+      357.04,
+      294.83
+    ],
+    "text": "(2E) The committee appointed by the Minister shall be deemed to be a scheduled institution within the meaning of the Anti-Corruption Act, No. 9 of 2023 and the provisions of that Act shall be construed accordingly.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.52,
+      307.76,
+      357.03,
+      368.03
+    ],
+    "text": "(3) in subsection (3) of that section, by the substitution for the words and figures \u201cin compliance with the direction of the Minister under subsection (2), proceed\u201d, of the word \u201cproceed\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.52,
+      380.96,
+      357.04,
+      429.03
+    ],
+    "text": "(4) in subsection (9) of that section, by the substitution for the words and figures \u201csubsections (1) to (7)\u201d, of the words and figures \u201csubsections (4) to (7)\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.52,
+      441.96,
+      357.04,
+      477.83
+    ],
+    "text": "(5) by the repeal of the marginal note of that section and the substitution therefor of the following marginal note: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      181.53,
+      489.76,
+      255.54,
+      537.33
+    ],
+    "text": "\u201cFormulation of the national electricity policy as part of the national policy on energy\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "9Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      317.53,
+      147.51,
+      380.53,
+      185.48
+    ],
+    "text": "Amendment ofsection 10 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.0,
+      75.7,
+      307.52,
+      135.43
+    ],
+    "text": "9. Section 5 of the principal enactment is hereby amended in subsection (3) of that section, in paragraph (l) of that subsection, by the substitution for the words \u201cleast cost economic dispatch\u201d, of the words \u201csecurity constrained economic dispatch\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.0,
+      147.7,
+      307.51,
+      171.43
+    ],
+    "text": "10. Section 10 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      95.0,
+      183.96,
+      246.32,
+      195.43
+    ],
+    "text": "(1) in subsection (1) of that section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101.0,
+      206.7,
+      307.53,
+      255.43
+    ],
+    "text": "(a) in paragraph (b) of that subsection, by the substitution for all the words from \u201cshall consist of \u2013\u201d to the end of that paragraph, of the following words: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      149.0,
+      267.16,
+      307.5,
+      289.83
+    ],
+    "text": "\u201cshall consist of the following five members: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      300.76,
+      307.51,
+      368.23
+    ],
+    "text": "(i) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      379.16,
+      307.5,
+      401.83
+    ],
+    "text": "(ii) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      412.76,
+      307.51,
+      457.83
+    ],
+    "text": "(iii) one person who has at least fifteen years of experience in power system operation and planning;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      468.76,
+      307.51,
+      502.63
+    ],
+    "text": "(iv) one person who has at least fifteen years of experience in procurement; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      513.56,
+      307.51,
+      536.23
+    ],
+    "text": "(v) one person who has at least fifteen years of experience",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      317.53,
+      76.37,
+      366.63,
+      114.35
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "10Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      241.53,
+      75.96,
+      357.04,
+      100.03
+    ],
+    "text": "in any one or more of the following fields: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      252.53,
+      113.76,
+      299.46,
+      125.23
+    ],
+    "text": "A. finance;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      252.53,
+      138.96,
+      312.25,
+      150.43
+    ],
+    "text": "B. economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      252.53,
+      164.16,
+      324.19,
+      175.63
+    ],
+    "text": "C. accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      252.53,
+      189.36,
+      333.9,
+      200.83
+    ],
+    "text": "D. commercial law,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198.53,
+      214.56,
+      357.03,
+      238.63
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      150.53,
+      251.1,
+      357.04,
+      289.03
+    ],
+    "text": "(b) by the addition immediately after paragraph (e) of that subsection, of the following new paragraphs: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199.53,
+      302.76,
+      357.04,
+      352.03
+    ],
+    "text": "\u201c(f) The members of the Board of Directors shall hold office for a period of three years unless removed from the office by the Minister.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.53,
+      365.76,
+      357.04,
+      415.03
+    ],
+    "text": "(g) The Minister may reappoint any member for a further term of three years.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.53,
+      415.06,
+      357.05,
+      465.43
+    ],
+    "text": "(2) in paragraph (a) of subsection (2) of that section, by the substitution for the words \u201cof Sri Lanka;\u201d, of the words \u201cof Sri Lanka, ensuring continuous and reliable electricity supply;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.53,
+      479.16,
+      357.04,
+      541.03
+    ],
+    "text": "(3) in subsection (5) of that section, by the substitution for the words \u201cshall, in every two years\u201d, of the words \u201cshall, within one year from the appointed date and thereafter, in every two years\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "11Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.0,
+      75.96,
+      307.5,
+      111.83
+    ],
+    "text": "(4) in subsection (12) of that section, by the substitution for the words \u201cpersons who are\u201d, of the words \u201ccompanies which are\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.0,
+      124.76,
+      307.51,
+      160.63
+    ],
+    "text": "(5) by the addition immediately after subsection (14) of that section, of the following new subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.0,
+      173.56,
+      307.52,
+      258.23
+    ],
+    "text": "\u201c(15) The National System Operator shall draft, implement and maintain the grid code and other technical and operational codes and standards in relation to the National Grid of Sri Lanka in accordance with the provisions of paragraph (h) of subsection (4) of section 15.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.0,
+      270.9,
+      307.51,
+      294.83
+    ],
+    "text": "11. Section 11 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.0,
+      307.76,
+      305.03,
+      319.23
+    ],
+    "text": "(1) in paragraph (a) of subsection (1) of that section \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      101.0,
+      330.9,
+      307.52,
+      380.23
+    ],
+    "text": "(a) by the substitution for the words and figures \u201cmentioned in subsection (3),\u201d, of the words and figures \u201cspecified by an Order made under subsection (3),\u201d;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      101.0,
+      391.9,
+      307.52,
+      538.83
+    ],
+    "text": "(b) in sub-paragraph (i) of that paragraph by the substitution for the words and figures \u201cspecified under subsection (3),\u201d, of the words and figures \u201cspecified by an Order made under subsection (3),\u201d; and (c) by the repeal of all the words from \u201ccompetitive and transparent procurement process:\u201d to the end of that paragraph and the substitution therefor, of the words \u201ccompetitive and transparent procurement process;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      317.53,
+      272.43,
+      370.63,
+      310.41
+    ],
+    "text": "Amendment ofsection 11 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "12Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      145.36,
+      75.96,
+      357.04,
+      139.43
+    ],
+    "text": "(2) in subsection (2) of that section, by the substitution for the words \u201cat its earliest convenience,\u201d, of the words \u201cwithin thirty working days of the date of receipt of any recommendation,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      145.36,
+      153.96,
+      357.05,
+      321.43
+    ],
+    "text": "(3) in subsection (3) of that section, by the substitution for all the words from \u201cThe Minister\u201d to \u201cNational System Operator:\u201d, of the words \u201cThe Minister may by Order published in the Gazette, specify the maximum capacity of each renewable energy technology based power plant along with storage or ancillary services directly associated with such power plant, which may be permitted to enter into standardized power purchase agreements with the National System Operator and distribution licensees in accordance with the provisions of subsection (4) of section 30: \u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      145.36,
+      335.96,
+      357.07,
+      360.43
+    ],
+    "text": "(4) by the addition immediately after subsection (3) of that section, of the following new subsections: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      181.36,
+      374.96,
+      357.04,
+      529.43
+    ],
+    "text": "\u201c(4) The National System Operator may forego the requirement to submit a tender in respect of procuring any new generation plant or the expansion of any existing generation plant to meet any emergency situation as determined by the Cabinet of Ministers during a national calamity or a long term forced outage of a major generation plant, where the potential benefit of procuring emergency capacity required to be provided by any person at least cost outweighs protracted bid inviting process.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "13Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      317.53,
+      309.01,
+      370.63,
+      346.99
+    ],
+    "text": "Amendment ofsection 14 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.0,
+      75.96,
+      307.51,
+      196.23
+    ],
+    "text": "(5) Such period of emergency power purchasing from generation plants without submission of a tender shall not extend beyond one year from the relevant determination from the Cabinet of Ministers unless a prior approval of the Cabinet of Ministers is obtained as required with the existence of the emergency situation more than one year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.0,
+      211.96,
+      307.51,
+      291.43
+    ],
+    "text": "(6) On and after the date on which the competitive Ancillary Services Market commences operations as specified by an Order made under section 30, the provisions of subsections (4) and (5) shall cease to be in operation.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.0,
+      306.9,
+      307.52,
+      332.23
+    ],
+    "text": "12. Section 14 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      95.0,
+      347.96,
+      307.51,
+      400.23
+    ],
+    "text": "(1) in subsection (1) of that section, by the substitution for the words \u201cmore than fifty per centum\u201d, of the words \u201cone hundred per centum\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      95.0,
+      415.96,
+      307.52,
+      481.83
+    ],
+    "text": "(2) in subsection (2) of that section, by the substitution for the words \u201cAny person who\u201d, of the words and figures \u201cAny company incorporated in terms of the Companies Act, No. 07 of 2007, which\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      95.0,
+      497.56,
+      307.51,
+      536.23
+    ],
+    "text": "(3) in subsection (3) of that section, by the substitution for the words \u201ca person who\u201d, of the words \u201ca company, which\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "14Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      114.53,
+      75.7,
+      357.05,
+      100.43
+    ],
+    "text": "13. Section 17 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      144.53,
+      114.96,
+      295.34,
+      126.43
+    ],
+    "text": "(1) in subsection (2) of that section -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      150.53,
+      137.7,
+      357.04,
+      234.43
+    ],
+    "text": "(a) in paragraph (a) of that subsection, by the substitution for the words \u201climited companies incorporated\u201d and \u201cthe transfer plan\u201d, of the words and figures \u201climited companies referred to in items (a), (e), (f), (g), (h)(i) and (h)(ii) of Schedule I, incorporated\u201d and \u201cthe preliminary transfer plan\u201d respectively;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      150.53,
+      245.7,
+      357.04,
+      282.43
+    ],
+    "text": "(b) by the insertion immediately after paragraph (a) of that subsection, of the following new paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      200.53,
+      294.96,
+      357.04,
+      488.83
+    ],
+    "text": "\u201c(aa) within a period of one year from the date of publishing the final transfer plan in the Gazette as specified in section 18, the activities and all assets and liabilities of the companies referred to in items (a) and (g) of Schedule I along with their respective duties and functions shall further unbundle as designed by the final transfer plan and vest in the limited companies referred to in items (i)(i) and (i)(ii) of Schedule I, incorporated in terms of subsection (1).\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      150.53,
+      501.3,
+      357.04,
+      539.23
+    ],
+    "text": "(c) by the repeal of paragraph (b) of that subsection, and the substitution therefor of the following paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      42.0,
+      76.37,
+      95.1,
+      114.35
+    ],
+    "text": "Amendment ofsection 17 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "15Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      151.0,
+      75.96,
+      307.52,
+      282.43
+    ],
+    "text": "\u201c(b) the Secretary to the Treasury shall be initially allotted one hundred per centum of the shares in the successor companies incorporated under this section other than the companies referred to in items (a), (e), (f), (g) and (h)(ii) of Schedule I and the company referred to in item (i)(i) of Schedule I relating to the hydropower generation in which the Secretary to the Treasury shall be permanently allotted one hundred per centum of the shares. \u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      95.0,
+      296.96,
+      307.51,
+      334.43
+    ],
+    "text": "(2) by the addition immediately after subsection (3) of that section, of the following new subsections:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      127.0,
+      348.96,
+      307.52,
+      425.43
+    ],
+    "text": "\u201c(4) The administration and management of the affairs of the company referred to in item (a) of Schedule I shall be vested in a Board of Directors appointed by the Minister which shall consist of the following five members:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      151.0,
+      438.7,
+      307.51,
+      503.43
+    ],
+    "text": "(a) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      151.0,
+      516.7,
+      307.5,
+      542.43
+    ],
+    "text": "(b) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "16Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      200.53,
+      74.71,
+      357.05,
+      123.44
+    ],
+    "text": "(c) one person who has at least fifteen years of experience in management of electricity generation systems;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      200.53,
+      134.71,
+      357.03,
+      171.44
+    ],
+    "text": "(d) one person who has at least fifteen years of experience in procurement;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      200.53,
+      182.31,
+      357.04,
+      229.84
+    ],
+    "text": "(e) one person who has at least fifteen years of experience in any one or more of the following fields: -",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.53,
+      241.57,
+      347.4,
+      253.04
+    ],
+    "text": "(i) financial management;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.53,
+      264.77,
+      304.08,
+      276.24
+    ],
+    "text": "(ii) economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.53,
+      287.97,
+      311.02,
+      299.44
+    ],
+    "text": "(iii) accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.53,
+      311.17,
+      320.18,
+      322.64
+    ],
+    "text": "(iv) commercial law,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.53,
+      334.37,
+      357.04,
+      357.44
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.53,
+      369.17,
+      357.04,
+      438.64
+    ],
+    "text": "(5) The administration and management of the affairs of the company referred to in item (e) of Schedule I shall be vested in a Board of Directors appointed by the Minister which shall consist of following five members: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      200.53,
+      449.11,
+      357.04,
+      508.24
+    ],
+    "text": "(a) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      200.53,
+      518.71,
+      357.03,
+      543.04
+    ],
+    "text": "(b) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "17Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      151.0,
+      74.71,
+      307.52,
+      122.24
+    ],
+    "text": "(c) one person who has at least fifteen years of experience in management of electricity transmission systems;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      151.0,
+      132.71,
+      307.5,
+      168.64
+    ],
+    "text": "(d) one person who has at least fifteen years of experience in procurement;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      151.0,
+      179.11,
+      307.51,
+      226.64
+    ],
+    "text": "(e) one person who has at least fifteen years of experience in any one or more of the following fields: -",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      174.0,
+      238.37,
+      297.87,
+      249.84
+    ],
+    "text": "(i) financial management;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      174.0,
+      261.57,
+      254.55,
+      273.04
+    ],
+    "text": "(ii) economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      174.0,
+      284.77,
+      261.49,
+      296.24
+    ],
+    "text": "(iii) accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      174.0,
+      307.97,
+      270.65,
+      319.44
+    ],
+    "text": "(iv) commercial law,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      131.0,
+      331.17,
+      307.51,
+      354.24
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      131.0,
+      365.97,
+      307.52,
+      435.44
+    ],
+    "text": "(6) The administration and management of the affairs of the company referred to in item (g) of Schedule I shall be vested in a Board of Directors appointed by the Minister which shall consist of following five members: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      151.0,
+      445.91,
+      307.51,
+      505.04
+    ],
+    "text": "(a) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      151.0,
+      515.51,
+      307.5,
+      539.84
+    ],
+    "text": "(b) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "18Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      200.53,
+      74.71,
+      357.05,
+      125.24
+    ],
+    "text": "(c) one person who has at least fifteen years of experience in management of electricity distribution systems;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      200.53,
+      137.71,
+      357.03,
+      175.64
+    ],
+    "text": "(d) one person who has at least fifteen years of experience in procurement;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      200.53,
+      188.11,
+      357.04,
+      238.64
+    ],
+    "text": "(e) one person who has at least fifteen years of experience in any one or more of the following fields: -",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.53,
+      252.37,
+      347.4,
+      263.84
+    ],
+    "text": "(i) financial management;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.53,
+      277.57,
+      304.08,
+      289.04
+    ],
+    "text": "(ii) economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.53,
+      302.77,
+      311.02,
+      314.24
+    ],
+    "text": "(iii) accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.53,
+      327.97,
+      320.18,
+      339.44
+    ],
+    "text": "(iv) commercial law,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      174.53,
+      353.17,
+      357.04,
+      377.24
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      174.53,
+      390.97,
+      357.05,
+      452.84
+    ],
+    "text": "(7) The administration and management of the affairs of the company referred to in item (h)(i) of Schedule I shall be vested in a Board of Directors appointed by the Minister which shall consist of following five members:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      200.53,
+      466.57,
+      357.04,
+      528.44
+    ],
+    "text": "(a) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "19Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      151.0,
+      75.96,
+      307.5,
+      101.03
+    ],
+    "text": "(b) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      151.0,
+      116.76,
+      307.51,
+      169.03
+    ],
+    "text": "(c) one person who has at least fifteen years of experience in the electricity sector corporate management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      151.0,
+      184.76,
+      307.5,
+      223.43
+    ],
+    "text": "(d) one person who has at least fifteen years of experience in procurement;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      151.0,
+      239.16,
+      307.51,
+      318.63
+    ],
+    "text": "(e) one person who has at least fifteen years of experience in any one or more of the following fields: - (i) financial management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174.0,
+      334.36,
+      252.05,
+      345.83
+    ],
+    "text": "(ii) economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174.0,
+      361.56,
+      261.49,
+      373.03
+    ],
+    "text": "(iii) accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174.0,
+      388.76,
+      270.65,
+      400.23
+    ],
+    "text": "(iv) commercial law,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      131.0,
+      415.96,
+      307.51,
+      441.03
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      131.0,
+      456.76,
+      307.52,
+      536.23
+    ],
+    "text": "(8) The administration and management of the affairs of the company referred to in item (h)(ii) of Schedule I shall be vested in a Board of Directors appointed by the Minister which shall consist of following nine members: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "20Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      200.53,
+      74.71,
+      357.04,
+      136.24
+    ],
+    "text": "(a) a representative from the Ministry of the Minister holding a post not below an Additional Secretary or an equivalent position in that Ministry;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      200.53,
+      147.91,
+      357.03,
+      172.84
+    ],
+    "text": "(b) a Deputy Secretary to the Treasury;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      200.53,
+      184.51,
+      357.04,
+      233.84
+    ],
+    "text": "(c) three persons who have at least fifteen years of experience in any one or more of the following fields: -",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.53,
+      246.77,
+      347.4,
+      258.24
+    ],
+    "text": "(i) financial management;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.53,
+      271.17,
+      304.08,
+      282.64
+    ],
+    "text": "(ii) economics;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.53,
+      295.57,
+      311.02,
+      307.04
+    ],
+    "text": "(iii) accounting; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.53,
+      319.97,
+      320.46,
+      331.44
+    ],
+    "text": "(iv) commercial law;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      200.53,
+      344.37,
+      357.05,
+      416.84
+    ],
+    "text": "(d) four persons from employees serving in the Ceylon Electricity Board on the day preceding the appointed date and former employees of the Ceylon Electricity Board,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      180.53,
+      429.77,
+      357.04,
+      453.44
+    ],
+    "text": "and one of whom shall be appointed as the Chairperson by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      180.53,
+      466.37,
+      357.04,
+      538.84
+    ],
+    "text": "(9) (a) The members of the Boards of Directors of the companies referred to in subsections (4), (5), (6), (7) and (8) including the Chairperson, shall hold office for a period of three years unless removed from the office by the Minister.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "21Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      131.0,
+      74.71,
+      307.52,
+      126.44
+    ],
+    "text": "(b) The Minister may re-appoint any such member including the member appointed as the Chairperson for a further term of three years.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      131.0,
+      140.97,
+      307.52,
+      243.44
+    ],
+    "text": "(c) The Board of Directors of the companies referred to in subsections (4), (5), (6), (7) and (8) and the companies referred to in items (i)(i) and (i)(ii) of Schedule I shall submit to the Minister, a general disclosure of their interests as at the date of their appointment before assuming office as a Director of the Board of Directors.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      131.0,
+      257.97,
+      307.52,
+      399.44
+    ],
+    "text": "(d) Any Director of the companies referred to in subsections (4), (5), (6), (7) and (8) and the companies referred to in items (i)(i) and (i)(ii) of Schedule I who has, directly or indirectly, any interest in any matter that is to be taken up before the Board of Directors shall disclose the nature of such interest to the Board of Directors and shall not take part in any deliberation or decision of the Board of Directors with regard to that matter.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      131.0,
+      413.97,
+      307.52,
+      490.44
+    ],
+    "text": "(e) Any person other than a representative from the Ministry of the Minister or the Treasury, shall not be appointed as a member of two or more Boards of Directors of the companies referred to in items (a), (e), (f), (g), (h)(i), (i)(i) and (i)(ii) of Schedule I.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      131.0,
+      504.97,
+      307.52,
+      542.44
+    ],
+    "text": "(10) The Boards of Directors of the companies referred to in subsections (4), (5), (6), (7) and (8), shall \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "22Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      200.53,
+      74.71,
+      357.03,
+      112.24
+    ],
+    "text": "(a) formulate the draft of the following policies, from time to time: -",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      125.57,
+      349.34,
+      137.04
+    ],
+    "text": "(i) Enterprise Management",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      248.53,
+      137.97,
+      276.87,
+      149.44
+    ],
+    "text": "Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      162.77,
+      356.03,
+      186.64
+    ],
+    "text": "(ii) Investment and Procurement Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      199.97,
+      357.03,
+      223.84
+    ],
+    "text": "(iii) Enterprise Risk Management Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      237.17,
+      357.03,
+      261.04
+    ],
+    "text": "(iv) Financial Management Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      274.37,
+      322.14,
+      285.84
+    ],
+    "text": "(v) Disclosure Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      299.17,
+      346.87,
+      310.64
+    ],
+    "text": "(vi) Anti-Corruption Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      323.97,
+      357.03,
+      347.84
+    ],
+    "text": "(vii) Human Resources Policy; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      220.53,
+      361.17,
+      357.06,
+      385.04
+    ],
+    "text": "(viii) Strategic Communications Policy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      200.53,
+      397.11,
+      357.03,
+      434.64
+    ],
+    "text": "(b) submit the draft policies to the Minister to obtain the approval of the Cabinet of Ministers; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      200.53,
+      446.71,
+      357.04,
+      533.84
+    ],
+    "text": "(c) upon the approval being granted by the Cabinet of Ministers to the draft policies, comply with such policies in respect of all matters on the administration and management of the affairs of the company.\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "23Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      65.53,
+      75.7,
+      308.05,
+      100.43
+    ],
+    "text": "14. Section 18 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      95.53,
+      113.96,
+      242.34,
+      125.43
+    ],
+    "text": "(1) in subsection (2) of that section -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      101.53,
+      125.96,
+      308.04,
+      173.43
+    ],
+    "text": "(a) in paragraph (b), by the substitution for the words \u201cnot later than two years\u201d, of the words \u201cnot later than one year\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      101.53,
+      185.96,
+      208.88,
+      197.43
+    ],
+    "text": "(b) in paragraph (c) \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      151.53,
+      209.96,
+      308.03,
+      269.43
+    ],
+    "text": "(i) by the substitution for the words \u201cin items (a), (f) and (h)(ii) of Schedule I\u201d, of the words and figures \u201cin items (a), (e), (f), (g) and (h)(ii) of Schedule I\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      151.53,
+      281.96,
+      308.03,
+      341.43
+    ],
+    "text": "(ii) by the substitution for all the words from \u201cin terms of paragraph (b):\u201d to the end of that subsection, of the words \u201cin terms of paragraph (b).\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      95.53,
+      353.96,
+      241.34,
+      365.43
+    ],
+    "text": "(2) in subsection (3) of that section -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      65.53,
+      376.7,
+      308.05,
+      497.43
+    ],
+    "text": "(a) by the repeal of paragraph (b) of that subsection and the substitution therefor of the following paragraph: - \u201c(b) specify the proportions in which the existing financial liabilities of the Ceylon Electricity Board, including the supplier liabilities shall be allocated amongst the successor companies;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      101.53,
+      509.96,
+      308.04,
+      533.43
+    ],
+    "text": "(b) in sub-paragraph (ii) of paragraph (e) of that subsection, by the substitution for the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      317.53,
+      76.37,
+      370.63,
+      114.35
+    ],
+    "text": "Amendment of section 18 of theprincipalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "24Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      186.53,
+      75.96,
+      357.03,
+      111.43
+    ],
+    "text": "words \u201cProvident Fund obligations\u201d, of the words \u201cProvident Fund and Pension Fund obligations\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      150.53,
+      123.9,
+      357.05,
+      215.83
+    ],
+    "text": "(c) in paragraph (f) of that subsection, by the substitution for the words \u201cwithin four months of this section comes into operation;\u201d, wherever such words appear in that paragraph, of the words \u201cwithin fourteen months of this section comes into operation;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      150.53,
+      229.56,
+      357.04,
+      277.03
+    ],
+    "text": "(d) in paragraph (g) of that subsection, by the substitution for the word and figures \u201csection 17.\u201d, of the word and figures \u201csection 17;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      150.53,
+      289.56,
+      357.04,
+      325.03
+    ],
+    "text": "(e) by the insertion immediately after paragraph (g) of that subsection, of the following new paragraphs: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      189.53,
+      337.56,
+      357.04,
+      445.03
+    ],
+    "text": "\u201c(h) ensure that all officers and servants of the Generation Company referred to in item (a) of Schedule I (in this paragraph referred to as \u201cGeneration Company\u201d) holding office in the Generation Company on the day preceding one year from the date of publishing the final transfer plan in the Gazette shall be-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      219.53,
+      457.56,
+      357.04,
+      481.03
+    ],
+    "text": "(i) duly identified by the Generation Company;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      219.53,
+      493.56,
+      357.04,
+      541.03
+    ],
+    "text": "(ii) notified by the Generation Company of their proposed assignation to the respective successor companies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "25Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      190.53,
+      75.96,
+      308.04,
+      135.43
+    ],
+    "text": "referred to in item (i)(i) of Schedule I within four months from the date of publishing the final transfer plan in the Gazette; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      170.53,
+      147.96,
+      308.04,
+      267.43
+    ],
+    "text": "(iii) required to notify the Generation Company within two months of the receipt of the notice referred to in sub-paragraph (ii), whether they opt to be assigned to such respective successor companies referred to in item (i)(i) of Schedule I or not,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.53,
+      279.96,
+      308.05,
+      543.43
+    ],
+    "text": "and shall with effect from the date succeeding one year from the date of publishing the final transfer plan in the Gazette shall be assigned to such successor companies referred to in item (i)(i) of Schedule I under the final transfer plan on terms and conditions not less favourable than those enjoyed by them on the day preceding the appointed date under the contract of employment with the Ceylon Electricity Board. Where an employee does not opt to be assigned to a successor company referred to in item (i)(i) of Schedule I under the final transfer plan, such employee shall be entitled to a voluntary retirement scheme and the terms and conditions of such scheme shall be prescribed within four months from the date of publishing the final transfer plan in the Gazette; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "26Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      192.53,
+      75.96,
+      357.04,
+      182.63
+    ],
+    "text": "(i) ensure that all officers and servants of the Distribution Company referred to in item (g) of Schedule I (in this paragraph referred to as \u201cDistribution Company\u201d) holding office in the Distribution Company on the day preceding one year from the date of publishing the final transfer plan in the Gazette shall be-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.53,
+      194.96,
+      357.03,
+      218.33
+    ],
+    "text": "(i) duly identified by the Distribution Company;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.53,
+      230.66,
+      357.04,
+      337.33
+    ],
+    "text": "(ii) notified by the Distribution Company of their proposed assignation to the respective successor companies referred to in item (i)(ii) of Schedule I within four months from the date of publishing the final transfer plan in the Gazette; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.53,
+      349.66,
+      357.04,
+      468.23
+    ],
+    "text": "(iii) required to notify the Distribution Company within two months of the receipt of the notice referred to in sub-paragraph (ii), whether they opt to be assigned to such respective successor companies referred to in item (i)(ii) of Schedule I or not,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      210.53,
+      481.86,
+      357.05,
+      532.93
+    ],
+    "text": "and shall with effect from the date succeeding one year from the date of publishing the final transfer plan in the Gazette shall be assigned to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "27Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.0,
+      75.96,
+      307.52,
+      321.43
+    ],
+    "text": "such successor companies referred to in item (i)(ii) of Schedule I under the final transfer plan on terms and conditions not less favourable than those enjoyed by them on the day preceding the appointed date under the contract of employment with the Ceylon Electricity Board. Where an employee does not opt to be assigned to a successor company referred to in item (i)(ii) of Schedule I under the final transfer plan, such employee shall be entitled to a voluntary retirement scheme and the terms and conditions of such scheme shall be prescribed within four months from the date of publishing the final transfer plan in the Gazette.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      65.0,
+      335.7,
+      307.52,
+      360.43
+    ],
+    "text": "15. Section 20 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      95.0,
+      374.96,
+      307.51,
+      412.43
+    ],
+    "text": "(1) by the repeal of subsection (3) of that section and the substitution therefor, of the following subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      131.0,
+      426.96,
+      307.51,
+      477.43
+    ],
+    "text": "\u201c(3) (a) Only a limited company incorporated under the Companies Act, No. 07 of 2007 in which the Government of Sri Lanka holds -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      151.0,
+      491.96,
+      307.51,
+      542.43
+    ],
+    "text": "(i) one hundred per centum of its shares shall be eligible to apply for the issue of the national system operator licence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      317.53,
+      338.03,
+      367.74,
+      376.0
+    ],
+    "text": "Amendment of section 20 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "28Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      200.53,
+      75.96,
+      357.04,
+      143.43
+    ],
+    "text": "(ii) one hundred per centum of its shares shall be eligible to apply for the issue of the national transmission network service provider licence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      180.53,
+      158.7,
+      357.04,
+      185.43
+    ],
+    "text": "(b) For the avoidance of doubt, it is hereby stated that \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      200.53,
+      201.96,
+      357.04,
+      227.43
+    ],
+    "text": "(i) there shall be only one national system operator licence; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      200.53,
+      243.96,
+      357.04,
+      283.43
+    ],
+    "text": "(ii) there shall be only one national transmission network service provider licence,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      143.53,
+      299.96,
+      278.4,
+      311.43
+    ],
+    "text": "granted under this Act.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      144.53,
+      327.96,
+      357.05,
+      381.43
+    ],
+    "text": "(2) in subsection (5) of that section, by the substitution for the words \u201cany person,\u201d, of the words and figures \u201cany company incorporated under the Companies Act, No. 07 of 2007,\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      144.53,
+      397.96,
+      357.04,
+      437.43
+    ],
+    "text": "(3) by the repeal of subsection (6) of that section and the substitution therefor, of the following subsections: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      180.53,
+      453.96,
+      357.04,
+      535.43
+    ],
+    "text": "\u201c(6) (a) A holder of a generation licence, other than the Government of Sri Lanka, who holds more than five per centum of shares of a single company, directly or indirectly, shall not be issued a distribution licence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "29Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      131.0,
+      74.71,
+      306.68,
+      226.04
+    ],
+    "text": "(b) A holder of a distribution licence, other than the Government of Sri Lanka, who holds more than five per centum of shares of a single company, directly or indirectly, shall not be issued a generation licence. (c) A person, other than the Government of Sri Lanka, who holds more than five per centum of shares of a single company, directly or indirectly, shall not be issued more than one distribution licence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      131.0,
+      238.51,
+      306.68,
+      314.24
+    ],
+    "text": "(d) Any person or company other than the Government of Sri Lanka shall not simultaneously hold, directly or indirectly, more than five per centum of the shares of two companies issued with a combination of the following licences: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      151.0,
+      327.97,
+      306.66,
+      352.04
+    ],
+    "text": "(i) a generation licence and a distribution licence; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      151.0,
+      365.77,
+      306.67,
+      389.84
+    ],
+    "text": "(ii) more than one distribution licence.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      65.0,
+      403.31,
+      306.67,
+      427.64
+    ],
+    "text": "16. Section 24 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      95.0,
+      441.37,
+      306.69,
+      478.04
+    ],
+    "text": "(1) by the substitution for the words \u201cA generation licensee shall be entitled to -\u201d, of the words \u201cA generation licensee shall \u2013\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      95.0,
+      491.77,
+      306.67,
+      541.04
+    ],
+    "text": "(2) in paragraph (g) of that section, by the substitution for the words \u201cnational system operator licensee\u201d, of the words \u201cNational System Operator\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      317.53,
+      406.37,
+      367.74,
+      444.35
+    ],
+    "text": "Amendment of section 24 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "30Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      114.53,
+      75.7,
+      357.05,
+      163.03
+    ],
+    "text": "17. Section 28 of the principal enactment is hereby amended in subsection (1), by the substitution for the words \u201cin the generation and distribution of electricity, and the capacity or amount of electricity so generated\u201d, of the words \u201cin the generation, distribution or supply of electricity and the capacity or amount of electricity so generated, distributed or supplied\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      114.53,
+      176.5,
+      357.05,
+      200.83
+    ],
+    "text": "18. Section 29 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      144.53,
+      214.56,
+      295.85,
+      226.03
+    ],
+    "text": "(1) in subsection (3) of that section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      150.53,
+      238.5,
+      357.05,
+      301.63
+    ],
+    "text": "(a) by the substitution for the words \u201cin accordance with the national tariff policy:-\u201d, of the words \u201cin consultation with the Ministry of Finance, in accordance with the national tariff policy:-\u201d;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      150.53,
+      314.1,
+      357.04,
+      377.23
+    ],
+    "text": "(b) in paragraph (a) of that subsection, by the substitution for the words \u201cNational System Operator\u201d, of the words \u201cNational System Operator and distribution licensees\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      144.53,
+      390.96,
+      357.05,
+      478.03
+    ],
+    "text": "(2) in the proviso to subsection (4) of that section, by the substitution for the words and figures \u201cthe Wholesale Electricity Market\u201d and \u201cin terms of part IX\u201d, of the words and figures \u201cthe competitive Wholesale Electricity Market\u201d and \u201cin terms of sub-paragraph (ii) of paragraph (b) of subsection (2) of section 30\u201d respectively.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      42.62,
+      491.6,
+      357.05,
+      532.05
+    ],
+    "text": "19. Section 30 of the principal enactment is hereby amended as follows: -Amendment of section 30 of the principal enactment",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      42.0,
+      76.37,
+      92.22,
+      114.35
+    ],
+    "text": "Amendment of section 28 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      42.0,
+      177.0,
+      92.22,
+      214.97
+    ],
+    "text": "Amendment of section 29 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "31Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      95.0,
+      75.96,
+      308.05,
+      161.23
+    ],
+    "text": "(1) in subsection (1) of that section, by the substitution for the words \u201cspecify the date from which Wholesale Electricity Market shall commence operations,\u201d, of the words and figures \u201cspecify the dates from which each Electricity Market specified in subsection (2) shall commence operations,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      95.0,
+      174.36,
+      308.04,
+      210.43
+    ],
+    "text": "(2) by the repeal of subsection (2) of that section and the substitution therefor of the following subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      131.0,
+      223.56,
+      308.04,
+      271.93
+    ],
+    "text": "\u201c(2) (a) The National Electricity Market shall be a competitive market and the procedures to be adopted in the operation thereof shall be as prescribed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      131.0,
+      283.8,
+      308.05,
+      333.43
+    ],
+    "text": "(b) The National Electricity Market shall consist of any one of the following or a combination of two or more of the following: \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      151.0,
+      346.56,
+      308.04,
+      419.53
+    ],
+    "text": "(i) a competitive Wholesale Electricity Spot Market that facilitates short term power procurement of day-ahead and intra day requirements of the National System Operator;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      151.0,
+      432.66,
+      308.04,
+      505.63
+    ],
+    "text": "(ii) a competitive Wholesale Electricity Market that facilitates the trading of long-term electricity supply contracts between generation licensees and distribution licensees;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      151.0,
+      518.66,
+      308.04,
+      542.43
+    ],
+    "text": "(iii) a competitive Ancillary Services Market that includes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "32Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      114.0,
+      75.96,
+      357.04,
+      165.43
+    ],
+    "text": "frequency control ancillary services, reactive power ancillary services and black-start support services for the National system Operator; and (iv) Retail Electricity Market.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      144.0,
+      179.96,
+      357.03,
+      204.43
+    ],
+    "text": "(3) by the insertion immediately after subsection (3) of that section, of the following new subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      180.0,
+      218.96,
+      357.04,
+      360.43
+    ],
+    "text": "\u201c(3A) Upon the coming into operation of this subsection, the Minister shall, with a view to enabling National System Operator to operate the National Electricity Market, order the National System Operator to formulate the market models not later than three years from the appointed date, with implementation timeline including required terms and conditions necessary for facilitating the efficient operation of the National Electricity Market.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      144.0,
+      374.96,
+      357.04,
+      464.43
+    ],
+    "text": "(4) in subsection (4) of that section, by the substitution for the words \u201cWholesale Electricity Market.\u201d, of the words and figures \u201cNational Electricity Market, where interconnection capacity shall not exceed 10 MW with the tariff prescribed in terms of the provisions of paragraph (a) of subsection (3) of section 29.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      114.0,
+      478.7,
+      357.04,
+      542.43
+    ],
+    "text": "20. Section 40 of the principal enactment is hereby amended by the substitution for the words \u201capply to or in relation to the provisions of this Act.\u201d, of the words \u201capply to or in relation to any person or body of persons to whom the provisions of this Act shall apply.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      42.0,
+      481.6,
+      92.22,
+      519.58
+    ],
+    "text": "Amendment of section 40 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "33Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      66.36,
+      75.7,
+      308.03,
+      101.03
+    ],
+    "text": "21. Section 52 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      96.36,
+      116.76,
+      308.04,
+      155.43
+    ],
+    "text": "(1) by the insertion immediately after the definition of the expression \u201cMinister\u201d of that section, of the following new definition: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      132.36,
+      171.16,
+      308.04,
+      277.83
+    ],
+    "text": "\u201c\u201cNational Energy Policy and Strategies of Sri Lanka\u201d means, the National Energy Policy and Strategies of Sri Lanka published in Gazette Extraordinary No. 2135/61 dated August 9, 2019 and its subsequent revisions and updates published in the Gazette;\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      96.36,
+      293.56,
+      308.04,
+      345.83
+    ],
+    "text": "(2) by the insertion immediately after the definition of the expression \u201cregional transmission network\u201d of that section, of the following new definition: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      132.36,
+      360.96,
+      308.04,
+      541.43
+    ],
+    "text": "\u201c\u201csecurity constrained economic dispatch\u201d means, the process that determines the most cost-effective optimal allocation of available generation units to meet the electricity demand while ensuring that all system operating limits in terms of network stability, reliability and security of the electrical power system such as generator capabilities, minimum and maximum output levels, ramp rates, reserve requirements, transmission line limits, voltage limits, and stability limits are respected;\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      317.53,
+      76.37,
+      367.74,
+      114.35
+    ],
+    "text": "Amendment of section 52 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "34Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      114.0,
+      75.7,
+      357.03,
+      100.03
+    ],
+    "text": "22. Schedule I to the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      144.0,
+      113.76,
+      357.05,
+      137.83
+    ],
+    "text": "(1) by the repeal of item (a) of that Schedule and the substitution therefor, of the following item: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      165.0,
+      150.3,
+      357.05,
+      251.23
+    ],
+    "text": "\u201c(a) one company (hereinafter referred to as the \u201cGeneration Company\u201d) of which one hundred per centum of the shares are held by the Secretary to the Treasury to take over the assets, liabilities and functions of the Ceylon Electricity Board, as referred to in the preliminary transfer plan, relating to \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.0,
+      264.96,
+      351.53,
+      276.43
+    ],
+    "text": "(i) the hydropower generation;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.0,
+      290.16,
+      357.04,
+      339.43
+    ],
+    "text": "(ii) Norochcholei Lakvijaya Coal Power Plant and Lanka Coal Company (Pvt) Limited;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.0,
+      353.16,
+      357.04,
+      389.83
+    ],
+    "text": "(iii) the thermal power generation other than coal power generation;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.0,
+      403.56,
+      357.04,
+      427.63
+    ],
+    "text": "(iv) the Mannar Thambapavani Wind Power Plant; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.0,
+      441.36,
+      357.04,
+      465.43
+    ],
+    "text": "(v) Trincomalee Power Company Limited;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      144.0,
+      479.16,
+      357.02,
+      503.23
+    ],
+    "text": "(2) by the repeal of items (b), (c) and (d) of that Schedule;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      144.0,
+      516.96,
+      357.04,
+      541.03
+    ],
+    "text": "(3) by the repeal of item (e) of that Schedule and the substitution therefor, of the following item: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      42.0,
+      76.37,
+      92.44,
+      114.35
+    ],
+    "text": "Amendment of the Schedule I to the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      109.14,
+      39.16,
+      305.53,
+      63.2
+    ],
+    "text": "35Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      116.0,
+      75.96,
+      308.05,
+      170.23
+    ],
+    "text": "\u201c(e) one company of which one hundred per centum of the shares are held by the Secretary to the Treasury to take over the assets, liabilities and functions of the Ceylon Electricity Board, as referred to in the preliminary transfer plan, relating to \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      151.0,
+      186.36,
+      308.05,
+      239.23
+    ],
+    "text": "(i) the development, maintenance and operation of the physical infrastructure that makes up the National Grid of Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      150.0,
+      255.36,
+      308.04,
+      280.63
+    ],
+    "text": "(ii) other selected assets, functions and activities; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      150.0,
+      296.76,
+      308.03,
+      322.03
+    ],
+    "text": "(iii) LTL Holdings Limited and Sri Lanka Energies (Pvt) Limited;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      95.0,
+      338.16,
+      308.04,
+      363.43
+    ],
+    "text": "(4) by the repeal of item (g) of that Schedule and the substitution therefor, of the following item: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      125.0,
+      379.56,
+      308.05,
+      487.63
+    ],
+    "text": "\u201c(g) one company (hereinafter referred to as the \u201cDistribution Company\u201d) of which one hundred per centum of the shares are held by the Secretary to the Treasury to take over the assets, liabilities and functions of the Ceylon Electricity Board, as referred to in the preliminary transfer plan, relating to \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      147.0,
+      503.76,
+      308.03,
+      542.83
+    ],
+    "text": "(i) the distribution divisions namely Division 1, Division 2, Division 3 and Division 4;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      113.06,
+      39.16,
+      308.31,
+      63.2
+    ],
+    "text": "36Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      196.0,
+      75.96,
+      357.03,
+      100.83
+    ],
+    "text": "(ii) other selected assets, functions and activities; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      196.0,
+      116.16,
+      357.03,
+      141.03
+    ],
+    "text": "(iii) Lanka Electricity Company (Pvt) Limited;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      144.0,
+      156.36,
+      357.04,
+      181.23
+    ],
+    "text": "(5) by the addition immediately after item (h) of that Schedule, of the following new item: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      168.0,
+      196.56,
+      357.04,
+      248.23
+    ],
+    "text": "\u201c(i) (i) such number of companies to take over the generation functions of the Generation Company as referred to in the final transfer plan;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      174.0,
+      262.16,
+      357.04,
+      321.63
+    ],
+    "text": "(ii) such number of companies to take over the distribution functions of the distribution divisions of the Distribution Company as referred to in the final transfer plan.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      42.0,
+      333.9,
+      357.04,
+      374.07
+    ],
+    "text": "23. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      71.17,
+      532.17,
+      372.81,
+      550.95
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPrakashana Piyasa\u201d, Department of Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
