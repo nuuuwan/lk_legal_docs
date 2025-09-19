@@ -1,0 +1,1800 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      236.98,
+      442.53,
+      293.53
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      262.17,
+      325.45,
+      328.16,
+      341.32
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      299.21,
+      330.68,
+      310.55
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      565.37,
+      195.45,
+      576.71
+    ],
+    "text": "[Bill No. 297]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      548.81,
+      330.68,
+      560.15
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.81,
+      478.97,
+      427.54,
+      490.31
+    ],
+    "text": "Presented by the Minister of Finance on 06th of September, 2019",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.45,
+      502.97,
+      388.92,
+      514.31
+    ],
+    "text": "(Published in the Gazette on August 22, 2019)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      526.97,
+      369.36,
+      538.31
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      413.57,
+      451.19,
+      447.95
+    ],
+    "text": "to amend the Finance Act, No. 35 of 2018; to provide for the imposition of aForeign Commercial Transactions Levy; and to provide for the mattersconnected therewith and incidental thereto",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      354.27,
+      299.27,
+      367.88
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      378.75,
+      309.81,
+      392.36
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      582.91,
+      394.65,
+      591.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      592.51,
+      398.61,
+      601.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      615.29,
+      451.15,
+      626.63
+    ],
+    "text": "Price : Rs. 17.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.17,
+      458.33,
+      322.16,
+      469.67
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      663.07,
+      340.89,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.25,
+      168.89,
+      396.89,
+      180.23
+    ],
+    "text": "1Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.29,
+      328.87,
+      440.02,
+      337.94
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.45,
+      368.86,
+      151.52,
+      379.21
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.61,
+      553.78,
+      151.05,
+      564.13
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.89,
+      460.78,
+      151.17,
+      471.13
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      193.61,
+      230.62,
+      204.95
+    ],
+    "text": "L.D.\u2014O. 15/2019",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      220.25,
+      396.69,
+      231.59
+    ],
+    "text": "AN ACT TO AMEND THE FINANCE ACT, NO. 35 OF 2018; TO PROVIDE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      233.45,
+      396.69,
+      258.11
+    ],
+    "text": "FOR THE IMPOSITION OF A FOREIGN COMMERCIAL TRANSACTIONSLEVY; AND TO PROVIDE FOR THE MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      260.09,
+      259.15,
+      271.43
+    ],
+    "text": "AND INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      286.73,
+      396.72,
+      311.39
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      326.57,
+      396.61,
+      351.23
+    ],
+    "text": "1.This Act may be cited as the Finance Act, No. of2019.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.85,
+      366.53,
+      293.13,
+      377.87
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      393.05,
+      392.01,
+      404.39
+    ],
+    "text": "AMENDMENT OF PART VII OF THE FINANCE ACT, NO. 35 OF 2018",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      419.69,
+      396.74,
+      470.87
+    ],
+    "text": "2.Section 23 of the Finance Act, No. 35 of 2018 ishereby amended by the substitution for the definition of theexpression \u201cspecified motor vehicle\u201d of the followingdefinition:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      486.17,
+      291.36,
+      497.51
+    ],
+    "text": "\u201c \u201cspecified motor vehicle\u201d\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.89,
+      512.81,
+      396.73,
+      671.03
+    ],
+    "text": "(a)in relation to a vehicle of which the firstregistration falls prior to July 1, 2019, meansany assembled or unassembled diesel motorvehicle of which the cylinder capacity exceeds2,300 CC or a petrol motor vehicle of which thecylinder capacity exceeds 1,800 CC or an electricvehicle of which motor power of the engineexceeds 200 Kw, but shall not include a dualpurpose petrol motor vehicle the cylindercapacity of which does not exceed 2,200 CC,a dual purpose electric motor vehicle, a van,a single cab or a wagon;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      402.69,
+      421.39,
+      448.42,
+      468.86
+    ],
+    "text": "Amendmentof section 23of Act,No. 35 of2018.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.13,
+      623.14,
+      152.13,
+      633.49
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.19,
+      169.09,
+      298.63,
+      180.71
+    ],
+    "text": "2Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.11,
+      245.14,
+      156.18,
+      255.49
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.39,
+      404.62,
+      155.83,
+      414.97
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.79,
+      306.58,
+      156.07,
+      316.93
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.55,
+      478.66,
+      156.55,
+      489.01
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.31,
+      564.58,
+      155.59,
+      574.93
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.83,
+      638.62,
+      155.11,
+      648.97
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.55,
+      194.09,
+      402.13,
+      329.03
+    ],
+    "text": "(b)in relation to a vehicle of which the firstregistration falls on or after July 1, 2019, meansany assembled or unassembled motor vehicle,but does not include a van, a single cab, a motorcycle, a motor tricycle, a motor ambulance,a motor hearse, a lorry, a tractor, a hand tractor,a trailer or any motor vehicle for transport ofgoods (other than a double cab), as identifiedunder the harmonized commodity descriptionand coding system numbers provided in termsof the Customs Ordinance (Chapter 235).\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.43,
+      342.29,
+      299.71,
+      353.63
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      366.89,
+      394.14,
+      378.23
+    ],
+    "text": "IMPOSITION OF A LEVY ON FOREIGN COMMERCIAL TRANSACTIONS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.83,
+      391.49,
+      402.21,
+      439.79
+    ],
+    "text": "3.(1) This Part of this Act shall come into operation onsuch date as the Minister may by Order published in theGazette appoint (hereinafter in this Part referred to as the\u201cappointed date\u201d).",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.83,
+      453.05,
+      402.19,
+      488.99
+    ],
+    "text": "(2) The Order under subsection (1) shall, not later thanthree months from the date of publication in the Gazette, beplaced before Parliament for its approval.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.83,
+      502.25,
+      402.08,
+      525.83
+    ],
+    "text": "(3) Notification of the date of the approval undersubsection (2) shall be published in the Gezette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.83,
+      539.09,
+      402.27,
+      624.23
+    ],
+    "text": "4.(1) From and after the appointed date, there shall becharged, a levy to be called the \u201cLevy on ForeignCommercial Transactions\u201d (hereinafter in this Part referredto as the \u201cLevy\u201d) from every person who has completeda transaction through a payment card with a person outsideSri Lanka, to purchase any goods or services from such personoutside Sri Lanka.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.83,
+      637.49,
+      402.19,
+      673.43
+    ],
+    "text": "(2) The rate of the Levy shall be 3.5 per centum on thesum remitted outside Sri Lanka for any transaction undersubsection (1).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.19,
+      539.95,
+      456.19,
+      587.42
+    ],
+    "text": "Imposition ofa Levy onforeigncommercialtransactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.19,
+      392.95,
+      451.63,
+      421.22
+    ],
+    "text": "Date ofoperation ofthis Part.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260.25,
+      168.89,
+      396.89,
+      180.23
+    ],
+    "text": "3Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.57,
+      255.58,
+      151.64,
+      265.93
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.61,
+      391.06,
+      151.05,
+      401.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      330.1,
+      151.17,
+      340.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      477.1,
+      151.89,
+      487.45
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.77,
+      550.06,
+      151.05,
+      560.41
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.69,
+      475.99,
+      443.13,
+      513.86
+    ],
+    "text": "Exemptionfrom thepayment ofthe Levy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      192.89,
+      396.74,
+      241.19
+    ],
+    "text": "(3) The levy shall be collected at the time of the remittanceof the sum outside Sri Lanka for a transaction referred to insubsection (1), by every financial institution which transfersany such sum.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      254.45,
+      396.75,
+      314.99
+    ],
+    "text": "(4) The aggregate of the sums so collected undersubsection (3), by any financial institution within any monthshall be remitted to the Commissioner-General on or beforethe twentieth day of the month succeeding the relevantmonth.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      328.25,
+      396.73,
+      401.03
+    ],
+    "text": "(5) A financial institution shall in respect of each financialyear of such financial institution, furnish a return to theCommissioner-General within a period of six months fromthe end of that financial year, in such form, manner andcontaining such information together with such attachments,as may be specified by the Commissioner-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      414.29,
+      396.8,
+      462.59
+    ],
+    "text": "(6) The provisions which may be necessary for theimplemention of the provisions of this Part and collectionof the levy shall be prescribed by regulations made underthis Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      475.85,
+      396.73,
+      536.39
+    ],
+    "text": "5.The Minister may, having regard to the economicdevelopment of the country, by Order published in theGazette, exempt any transaction specified in such Order,subject to such conditions as may be specified in such Order,from the application of the provisions of section 4.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      549.65,
+      396.75,
+      597.83
+    ],
+    "text": "6.(1) Where any financial institution, which is liableto pay the levy under this Part fails to pay the levy as providedfor in section 4, such financial institution shall be deemedto be a defaulter under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      611.09,
+      396.72,
+      672.11
+    ],
+    "text": "(2) The provisions of Chapter IX, Chapter XI, ChapterXII, Chapter XIII, Chapter XIV, Chapter XV, Chapter XVI,Chapter XVII and Chapter XVIII of the Inland Revenue Act,No. 24 of 2017 shall, mutatis mutandis, apply to and inrelation to any such defaulter.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.69,
+      549.43,
+      443.13,
+      577.7
+    ],
+    "text": "Default inpayment ofthe Levy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      623.62,
+      151.17,
+      633.97
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162.19,
+      169.09,
+      298.63,
+      180.71
+    ],
+    "text": "4Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.11,
+      257.14,
+      156.18,
+      267.49
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.39,
+      408.1,
+      155.83,
+      418.45
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.43,
+      332.14,
+      155.71,
+      342.49
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.83,
+      484.06,
+      155.83,
+      494.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.43,
+      558.1,
+      155.71,
+      568.45
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.67,
+      636.58,
+      155.95,
+      646.93
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      193.13,
+      402.19,
+      217.07
+    ],
+    "text": "7.In this part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      230.93,
+      402.11,
+      280.07
+    ],
+    "text": "\u201cCommissioner-General\u201d means the Commissioner-General of Inland Revenue appointed or deemedto be appointed under the Inland Revenue Act,No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      293.93,
+      402.11,
+      368.27
+    ],
+    "text": "\u201ccharge card\u201d means, a payment card which involvesa line of credit granted by the issuer to thecardholder where the credit utilized by thecardholder must be settled fully on or beforea date specified by the issuer, without anyextended credit;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      382.13,
+      402.14,
+      456.47
+    ],
+    "text": "\u201ccredit card\u201d means, a payment card which involves aline of credit granted by the issuer to thecardholder where the credit utilized can be settledin full or in part on or before a specified date. Theissuer may charge interest or other charges on anyamount not settled on the specified date;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      470.33,
+      402.11,
+      532.07
+    ],
+    "text": "\u201cdebit card\u201d means, a payment card that may be usedto withdraw cash or execute payments forpurchase of goods and services, or for both suchpurposes, by directly debiting from thecardholder\u2019s account;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      545.93,
+      402.1,
+      582.47
+    ],
+    "text": "\u201cfinance company\u201d means, a finance companylicensed under the Finance Business Act, No. 42of 2011;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.83,
+      596.33,
+      402.14,
+      671.03
+    ],
+    "text": "\u201cfinancial institution\u201d means, a licensed commercialbank, a licensed specialized bank, or a financecompany engaged in the business as an issuer ofpayment cards or financial acquirer of paymentcards under the authority of a licence issued byCentral Bank of Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      408.43,
+      195.07,
+      456.92,
+      204.14
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      260.25,
+      168.89,
+      396.89,
+      180.23
+    ],
+    "text": "5Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.45,
+      240.58,
+      151.52,
+      250.93
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.65,
+      390.1,
+      150.09,
+      400.45
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.13,
+      310.06,
+      151.41,
+      320.41
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141.81,
+      474.1,
+      150.81,
+      484.45
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.65,
+      542.14,
+      150.93,
+      552.49
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.05,
+      638.14,
+      150.33,
+      648.49
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      192.53,
+      396.72,
+      285.83
+    ],
+    "text": "\u201cfinancial acquirer\u201d means, any person who makesarrangements with third parties to accept paymentcards of cardholders as a means of payment andreimburses those third parties with the value ofthe goods or services purchased by the cardholder,or who reimburses such third parties for cashadvances obtained by the card holders or performsboth such functions;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      297.89,
+      396.74,
+      332.63
+    ],
+    "text": "\u201cissuer\u201d means, an entity that issues a payment cardand thereby enters into a contractual relationshipwith the cardholder;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      344.69,
+      396.72,
+      379.43
+    ],
+    "text": "\u201clicensed commercial bank\u201d means, a commercialbank licensed under the Banking Act, No. 30 of1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      391.49,
+      396.73,
+      426.23
+    ],
+    "text": "\u201clicensed specialized bank\u201d means, a specializedbank licensed under the Banking Act, No. 30 of1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      438.29,
+      396.72,
+      461.27
+    ],
+    "text": "\u201cpayment card\u201d means, a debit card, credit card,charge card or stored-value card;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      473.33,
+      396.73,
+      508.07
+    ],
+    "text": "\u201cperson\u201d shall have the same meaning assigned tosuch expression under the Inland Revenue Act,No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.17,
+      520.13,
+      396.74,
+      578.27
+    ],
+    "text": "\u201cstored-value card\u201d means, a payment card or anyother device with access to a stored value that canbe used as a means of payment and does notinclude a card that can be used only to settlepayment obligations to the issuer of such card.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      257.37,
+      590.33,
+      296.37,
+      601.67
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261.09,
+      613.73,
+      292.65,
+      625.07
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.17,
+      637.13,
+      396.77,
+      671.87
+    ],
+    "text": "8.(1) The Minister may make regulations in respect ofall matters which are required to be prescribed or for whichregulations are authorized to be made under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      403.65,
+      637.99,
+      447.09,
+      647.06
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.19,
+      169.09,
+      298.63,
+      180.71
+    ],
+    "text": "6Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150.43,
+      252.1,
+      154.5,
+      262.45
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146.95,
+      310.9,
+      155.23,
+      321.25
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.83,
+      192.41,
+      402.2,
+      238.91
+    ],
+    "text": "(2) Every regulation made by the Minister undersubsection (1) shall be published in the Gazette and shallcome into operation on the date of its publication or on suchlater date as may be specified therein.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.83,
+      250.97,
+      402.11,
+      320.75
+    ],
+    "text": "(3) Every regulation made by the Minister shall withinthree months from its publication in the Gazette, be broughtbefore Parliament for approval. Every regulation which isnot so approved shall be deemed to be rescinded from thedate of disapproval but without prejudice to anything dulydone thereunder.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.83,
+      333.05,
+      402.17,
+      356.39
+    ],
+    "text": "(4) Notification of the date on which any regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.83,
+      369.05,
+      402.2,
+      392.39
+    ],
+    "text": "9.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      407.95,
+      370.51,
+      456.43,
+      408.38
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      260.25,
+      168.89,
+      396.89,
+      180.23
+    ],
+    "text": "7Finance",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231.69,
+      622.15,
+      360.7,
+      631.22
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
