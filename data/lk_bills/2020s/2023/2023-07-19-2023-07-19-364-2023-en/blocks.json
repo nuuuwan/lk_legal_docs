@@ -1,0 +1,904 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      163.05,
+      168.92,
+      437.49,
+      220.76
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.89,
+      237.72,
+      358.91,
+      249.72
+    ],
+    "text": "Part II of July 14, 2023",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.33,
+      267.48,
+      342.33,
+      279.48
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.61,
+      295.68,
+      355.06,
+      307.68
+    ],
+    "text": "(Issued on 19.07.2023)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.53,
+      431.16,
+      423.83,
+      443.16
+    ],
+    "text": "CIVIL PROCEDURE CODE (AMENDMENT)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      559.31,
+      441.58,
+      581.31
+    ],
+    "text": "Ordered to be published by the Minister of Justice, Prison Affairs andConstitutional Reforms",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      194.49,
+      522.83,
+      405.2,
+      532.83
+    ],
+    "text": "to amend the Civil Procedure Code ( Chapter 101)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.33,
+      616.79,
+      456.32,
+      626.79
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.21,
+      493.32,
+      314.49,
+      505.32
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.33,
+      590.34,
+      393.33,
+      598.34
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.05,
+      599.94,
+      404.61,
+      607.94
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.09,
+      662.61,
+      402.09,
+      670.7
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.29,
+      465.84,
+      303.95,
+      477.84
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.07,
+      295.77,
+      362.35,
+      303.77
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.15,
+      315.93,
+      451.13,
+      334.1
+    ],
+    "text": "Clause 2 : This clause amends section 205 of the Civil Procedure Code (Chapter 101)and the legal effect of this section as amended is to provide for-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.67,
+      346.17,
+      451.17,
+      374.42
+    ],
+    "text": "(a)the issuance of one certified copy of the judgement or final decree of an actionto each party free of charge, where the respective parties to such action applyfor the same; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.67,
+      386.37,
+      451.17,
+      414.74
+    ],
+    "text": "(b)the recongnition of a document issued or transmitted by a court electronically,as signed and sealed documents and the electronic signature of the Registrar,court and other authorized officers.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      209.49,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Civil Procedure Code (Amendment)1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.89,
+      342.57,
+      150.89,
+      352.57
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.85,
+      425.25,
+      153.93,
+      435.25
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      206.37,
+      230.85,
+      216.37
+    ],
+    "text": "L.D.\u2013O. 44/2017",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.77,
+      233.73,
+      394.05,
+      243.73
+    ],
+    "text": "AN ACT TO AMEND THE CIVIL PROCEDURE CODE (CHAPTER 101)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      261.21,
+      401.84,
+      284.89
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      302.15,
+      401.86,
+      325.93
+    ],
+    "text": "1. This Act may be cited as the Civil Procedure Code(Amendment) Act, No. of 2023.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      343.31,
+      401.86,
+      380.77
+    ],
+    "text": "2. The Civil Procedure Code (Chapter 101) is herebyamended by the repeal of section 205 thereof and substitutiontherefor of the following section:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.85,
+      398.03,
+      401.85,
+      462.97
+    ],
+    "text": "205. (1) The Registrar of the court shall,where the respective parties to an action applyfor a certified copy of the judgement or finaldecree of the action, issue one certified copyof the same to each such party free of charge.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.85,
+      480.33,
+      401.89,
+      517.81
+    ],
+    "text": "(2) Subject to the provisions of subsection(1), the Registrar of the court shall, upon anyperson-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      237.57,
+      535.07,
+      401.86,
+      668.41
+    ],
+    "text": "(a) making an application accompaniedby such fee as may be determinedfrom time to time by the Secretary tothe Ministry of the Minister assignedthe subject of Justice by Notificationpublished in the Gazette andsupplying the necessary stamps,furnish to such person copies of thejudgement, decree or proceedings inan action or any part thereof; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      303.9,
+      441.57,
+      311.9
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      343.62,
+      451.29,
+      380.42
+    ],
+    "text": "Amendmentof section205 ofChapter 101",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.13,
+      505.89,
+      153.57,
+      515.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.81,
+      590.37,
+      155.25,
+      600.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.09,
+      661.17,
+      154.53,
+      671.17
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      397.98,
+      208.53,
+      473.18
+    ],
+    "text": "\u201cPersons tobe entitled tocertifiedcopies ofjudgement,decree orproceedingsin any action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      168.35,
+      349.52,
+      178.45
+    ],
+    "text": "2Civil Procedure Code (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232.87,
+      206.51,
+      397.16,
+      264.73
+    ],
+    "text": "(b) making an application andproducing the necessary stamps,examine and certify to the correctnessof any such copies made by suchperson:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      278.61,
+      397.16,
+      348.13
+    ],
+    "text": "Provided that, a person other than a party toa matrimonial action, an adoption applicationor a custody application shall not be entitledto obtain certified copies of any proceedingsor documents of such action or application,except the judgement, order or decree thereof:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      361.89,
+      397.16,
+      455.17
+    ],
+    "text": "Provided further that, upon being satisfiedas to the requirement of an applicant who isnot a party to such matrimonial action,adoption application or custody application,the court may direct the Registrar of such courtto issue to such applicant, certified copies ofthe proceedings or documents of such actionor application.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      468.93,
+      397.16,
+      562.21
+    ],
+    "text": "(3) Notwithstanding anything to thecontrary in section 76 of the EvidenceOrdinance (Chapter 14) or any other writtenlaw, a document issued or transmittedelectronically by a court shall be deemed forthe purposes of authentication and verification,to have been signed, sealed and dated by court,where such document\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      232.87,
+      575.99,
+      397.16,
+      669.61
+    ],
+    "text": "(a)if originally created in electronicform, contains the electronicsignature and electronic seal of theRegistrar or such other officerauthorized by law to place thesignature together with his nameand official title, the electronic sealof the court, and the date; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.35,
+      256.17,
+      145.35,
+      266.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.31,
+      326.85,
+      148.75,
+      336.85
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.71,
+      398.49,
+      148.15,
+      408.49
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.39,
+      470.01,
+      149.83,
+      480.01
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.67,
+      529.77,
+      149.11,
+      539.77
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.99,
+      599.97,
+      150.43,
+      609.97
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.35,
+      661.89,
+      150.79,
+      671.89
+    ],
+    "text": "35",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209.49,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Civil Procedure Code (Amendment)3",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      407.85,
+      339.9,
+      455.13,
+      376.7
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      237.57,
+      206.87,
+      401.86,
+      324.97
+    ],
+    "text": "(b)if originally created in paper formand converted into an electroniccopy in portable document format(PDF) or by similar file convertertechnology, contains the signatureand seal of the Registrar or suchother officer authorized by law toplace the signature, together with hisname and official title, the seal ofthe court, and the date.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.85,
+      338.87,
+      401.87,
+      360.97
+    ],
+    "text": "3. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.85,
+      256.41,
+      151.85,
+      266.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.81,
+      317.13,
+      155.25,
+      327.13
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      168.35,
+      349.52,
+      178.45
+    ],
+    "text": "4Civil Procedure Code (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      226.51,
+      645.3,
+      355.5,
+      653.3
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
