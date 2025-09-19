@@ -49,7 +49,7 @@ jobs:
           git config --global --add safe.directory /__w/${{ env.REPO_MAIN }}/${{ env.REPO_MAIN }}
 
           git pull origin main --rebase
-          python workflows/pipeline.py ${{ github.event.inputs.max_dt }}
+          python workflows/pipeline.py ${{ github.event.inputs.max_dt }} lk_acts
 
       - name: "⬆️ Push main"
         run: |
