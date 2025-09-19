@@ -2,12 +2,15 @@ import sys
 
 from utils import Log
 
-from scraper.abstract_doc.pipeline.AbstractDocPipelineCleanupMixin import \
-    AbstractDocPipelineCleanupMixin  # noqa: E501
-from scraper.abstract_doc.pipeline.AbstractDocPipelineExtendedDataMixin import \
-    AbstractDocPipelineExtendedDataMixin  # noqa: E501
-from scraper.abstract_doc.pipeline.AbstractDocPipelineMetadataMixin import \
-    AbstractDocPipelineMetadataMixin  # noqa: E501
+from scraper.abstract_doc.pipeline.AbstractDocPipelineCleanupMixin import (  # noqa: E501
+    AbstractDocPipelineCleanupMixin,
+)
+from scraper.abstract_doc.pipeline.AbstractDocPipelineExtendedDataMixin import (  # noqa: E501
+    AbstractDocPipelineExtendedDataMixin,
+)
+from scraper.abstract_doc.pipeline.AbstractDocPipelineMetadataMixin import (  # noqa: E501
+    AbstractDocPipelineMetadataMixin,
+)
 
 log = Log("AbstractDocPipelineMixin")
 
@@ -23,7 +26,7 @@ class AbstractDocPipelineMixin(
     def run_pipeline(cls, max_dt=None):
         max_dt = (
             max_dt
-            or (float(sys.argv[2]) if len(sys.argv) > 2 else None)
+            or (float(sys.argv[1]) if len(sys.argv) > 1 else None)
             or AbstractDocPipelineMixin.MAX_DT
         )
         log.debug(f"{max_dt=}s")
