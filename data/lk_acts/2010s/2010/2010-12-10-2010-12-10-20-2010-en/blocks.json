@@ -1,0 +1,8871 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      280.18,
+      439.78,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.57,
+      389.58,
+      431.18,
+      408.97
+    ],
+    "text": "APPROPRIATION ACT, NO. 20 OF 2010",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.800000190734863,
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      501.49,
+      373.16,
+      513.7
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      462.16,
+      373.77,
+      476.01
+    ],
+    "text": "[Certified on 10th December, 2010]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      635.18,
+      404.13,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.79,
+      671.49
+    ],
+    "text": "Price : Rs. 37.00Postage : Rs. 20.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.64,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of December 10, 2010",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.77,
+      165.07,
+      383.69,
+      178.41
+    ],
+    "text": "Appropriation Act, No. 20 of 20101",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.85,
+      189.31,
+      335.87,
+      202.65
+    ],
+    "text": "[Certified on 10th December, 2010]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      212.71,
+      221.14,
+      226.05
+    ],
+    "text": "L.D.\u2014O. 31 /2010.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      236.11,
+      383.85,
+      249.45
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE SERVICE OF THE FINANCIAL YEAR 2011 ; TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      247.87,
+      383.85,
+      261.21
+    ],
+    "text": "AUTHORISE THE RAISING OF LOANS IN OR OUTSIDE SRI LANKA, FOR THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      259.51,
+      383.86,
+      272.85
+    ],
+    "text": "PURPOSE OF SUCH SERVICE ; TO MAKE FINANCIAL PROVISION IN RESPECT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      271.27,
+      383.85,
+      284.61
+    ],
+    "text": "OF CERTAIN ACTIVITIES OF THE GOVERNMENT DURING THAT FINANCIAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      282.91,
+      383.85,
+      308.01
+    ],
+    "text": "YEAR ; TO ENABLE THE PAYMENT BY WAY OF ADVANCES OUT OF THECONSOLIDATED FUND OR ANY OTHER FUND OR MONEYS, OF OR AT THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      306.31,
+      383.86,
+      319.65
+    ],
+    "text": "DISPOSAL OF THE GOVERNMENT, OF MONEYS REQUIRED DURING THAT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      318.07,
+      383.86,
+      331.41
+    ],
+    "text": "FINANCIAL YEAR FOR EXPENDITURE ON SUCH ACTIVITIES ; TO PROVIDE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      329.71,
+      383.85,
+      343.05
+    ],
+    "text": "FOR THE REFUND OF SUCH MONEYS TO THE CONSOLIDATED FUND AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      341.47,
+      383.85,
+      354.81
+    ],
+    "text": "TO MAKE PROVISION FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      353.11,
+      227.11,
+      366.45
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      376.51,
+      383.69,
+      401.61
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      411.67,
+      383.9,
+      436.65
+    ],
+    "text": "1.This Act may be cited as the AppropriationAct, No. 20 of 2010.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      446.71,
+      384.1,
+      542.01
+    ],
+    "text": "2.(1) Without prejudice to any other law authorising anyexpenditure and subject to the provisions of subsection (4) ofthis section, the expenditure of the Government which it isestimated will be \u201crupees one thousand one hundred and thirtytwo billion five hundred and seventeen million seven hundredand sixty six thousand\u201d for the service of the period beginningon January 1, 2011 and ending on December 31, 2011 (in thisAct referred to as the \u201cfinancial year 2011\u201d), shall be met \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.57,
+      552.07,
+      383.85,
+      600.45
+    ],
+    "text": "(a) from payments which are hereby authorised to be madeout of the Consolidated Fund or any other fund ormoneys of or at the disposal of the Government ;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.57,
+      610.51,
+      384.07,
+      670.65
+    ],
+    "text": "(b) from the proceeds of loans which are hereby authorisedto be raised whether in or outside Sri Lanka, for and onbehalf of the Government, so however that theaggregate of such proceeds does not exceed rupeesnine hundred ninety seven billion.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      412.94,
+      431.87,
+      423.61
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      447.02,
+      445.31,
+      476.89
+    ],
+    "text": "Appropriationfor financialyear, 2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      165.07,
+      401.23,
+      178.41
+    ],
+    "text": "2Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      399.98,
+      199.13,
+      468.25
+    ],
+    "text": "Financialprovisions inrespect of certainactivities of theGovernment forthe financial year2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      189.67,
+      451.38,
+      239.37
+    ],
+    "text": "(2)The sum of \u201crupees one thousand one hundred andthirty two billion five hundred and seventeen million sevenhundred and sixty six thousand\u201d referred to in subsection (1),may be expended as specified in the First Schedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      249.07,
+      451.35,
+      285.45
+    ],
+    "text": "(3)The provisions of subsection (1) shall have effect withoutprejudice to the provisions of any other written law, authorisingthe raising of loans for and on behalf of the Government.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      295.03,
+      451.02,
+      388.89
+    ],
+    "text": "(4) The estimated expenditure of the Governmentauthorized by law to be charged on the Consolidated Fund,will be rupees eight hundred and thirty five billion five hundredthirteen million four hundred and sixty two thousand for theservice of the period beginning on January 1, 2011 and endingon December 31, 2011. The expenditure Heads and the lawunder which such expenditure is authorized to be made, are asspecified in the Second Schedule to the Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      398.59,
+      451.34,
+      503.85
+    ],
+    "text": "3.(1) The receipts of the Government during thefinancial year 2011, from each activity specified in ColumnI of the Third Schedule to this Act shall be credited to theaccount of such activity, but the aggregate of receipts socredited shall not be less than the minimum limit specified inthe corresponding entry in Column III of that Schedule. Thenet surplus, if any, of such activity, shall be paid to theConsolidated Fund before the expiry of six months after theclose of the financial year 2011.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      510.07,
+      451.36,
+      546.45
+    ],
+    "text": "(2)For the purpose of determining the net surplus undersubsection (1), the following charges shall be set off againstthe revenue of each activity :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.87,
+      552.55,
+      451.35,
+      588.93
+    ],
+    "text": "(a) the working, establishment and other expenses ofthe activity whether paid or accrued, properlychargeable to the revenue of the activity ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.87,
+      595.03,
+      450.97,
+      619.89
+    ],
+    "text": "(b) provision to cover the depreciation of the movableand immovable property of the activity.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      626.11,
+      451.3,
+      674.13
+    ],
+    "text": "(3) The expenditure incurred by the Government duringthe financial year 2011 on each activity specified inColumn I of the Third Schedule to this Act, shall be paid outof the receipts of the Government from such activity during",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.77,
+      165.07,
+      383.69,
+      178.41
+    ],
+    "text": "Appropriation Act, No. 20 of 20103",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      522.38,
+      455.86,
+      646.21
+    ],
+    "text": "Power to transferunexpendedmoneys allocatedto RecurrentExpenditure, toanotherallocation withinthe sameProgramme or toanotherProgrammeunder the sameHead ofexpenditure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      189.19,
+      384.02,
+      225.57
+    ],
+    "text": "that financial year, but such expenditure shall not exceed themaximum limit specified in the corresponding entry inColumn II of that Schedule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      235.15,
+      383.93,
+      329.01
+    ],
+    "text": "(4) The debit balance outstanding at the end of thefinancial year 2011 of any activity specified in Column I ofthe Third Schedule to this Act, shall not exceed the maximumlimit specified in the corresponding entry in Column IVof that Schedule and the total liabilities of that activity at theend of that financial year, shall not exceed the maximumlimit specified in the corresponding entry in Column V ofthat Schedule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      338.71,
+      384.03,
+      501.45
+    ],
+    "text": "4.Whenever at any time during the financial year 2011,the receipts of the Government from any activity specified inColumn I of the Third Schedule to this Act are insufficient tomeet the expenditure incurred by the Government on suchactivity, the Minister may from time to time by Order, directthat such sums as he may deem necessary to meet suchexpenditure shall be payable by way of advances, out of theConsolidated Fund or any other fund or moneys of or at thedisposal of the Government, so however that the aggregateof the sums so advanced shall not exceed the maximum limitof expenditure specified in the corresponding entry in ColumnII of that Schedule. Any sum so advanced in respect of suchactivity shall be refunded to the Consolidated Fund in suchmanner, as the Minister may by Order direct.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      522.67,
+      384.06,
+      674.13
+    ],
+    "text": "5.(1) Any moneys which by virtue of the provisions ofthe First Schedule to this Act, have been allocated toRecurrent Expenditure under any Programme appearingunder any Head specified in that Schedule, but have notbeen expended or are not likely to be expended, may betransferred to the allocation of Capital Expenditure withinthat Programme or to the allocation of Recurrent Expenditureor Capital Expenditure under any other Programme withinthat Head, by Order of the Secretary to the Treasury or byOrder either of a Deputy Secretary to the Treasury or theDirector General of the National Budget Department, whomay be authorized in that behalf by the Secretary to theTreasury.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      339.5,
+      455.83,
+      464.53
+    ],
+    "text": "Payment fromthe ConsolidatedFund or anyother fund ormoneys of or atthe disposal ofthe Government,of advances forexpenditure onthe activitiesreferred to insection 3, duringthe financial year2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      165.07,
+      401.23,
+      178.41
+    ],
+    "text": "4Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      189.79,
+      451.16,
+      249.93
+    ],
+    "text": "(2) No moneys allocated to Capital Expenditure underany Programme appearing under any Head specified in theFirst Schedule to this Act, shall be transferred out of thatProgramme or to any allocation of Recurrent Expenditure ofthat Programme.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      259.99,
+      451.38,
+      448.89
+    ],
+    "text": "6.(1) Any money allocated to Recurrent Expenditureor Capital Expenditure under the \u201cDevelopment Activities\u201dProgramme appearing under the Head \u201cDepartment ofNational Budget\u201d specified in the First Schedule, may betransferred subject to guidelines stipulated in printed BudgetEstimates approved by Parliament for the relevent year, toany other Programme under any other Head in the Schedule,by Order of the Secretary to the Treasury or by Order either ofa Deputy Secretary to the Treasury or the Director General ofthe National Budget Department, who may be authorized inthat behalf by the Secretary to the Treasury. The money sotransferred shall be deemed to be a supplementary allocationmade to the particular Ministry, and a report containing theamount of money so transferred and the reasons for the transfer,shall be submitted to Parliament within two months of thedate of the said transfer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      458.95,
+      451.37,
+      519.09
+    ],
+    "text": "(2) Details of all transfers made under subsection (1),including the reasons for such transfers, shall be incorporatedin the reports relating to the Government\u2019s fiscal performance,which are required to be tabled in Parliament under the FiscalManagement (Responsibility) Act, No. 3 of 2003.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      529.15,
+      375.55,
+      543.09
+    ],
+    "text": "7.Where the Minister is satisfied \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.87,
+      552.55,
+      451.3,
+      589.29
+    ],
+    "text": "(a) that receipts from taxes and other sources will be lessthan the amounts anticipated to finance authorisedexpenditure ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.87,
+      599.35,
+      451.27,
+      624.33
+    ],
+    "text": "(b) that amounts originally appropriated for a particularpurpose or purposes are no longer required,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      634.87,
+      451.09,
+      672.81
+    ],
+    "text": "he may with the approval of the Government, withdraw inwhole or in part any amounts previously released forexpenditure under the authority of a warrant issued by him,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      530.06,
+      194.63,
+      579.13
+    ],
+    "text": "Power ofMinister to limitexpenditurepreviouslyauthorized.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      260.3,
+      196.9,
+      357.37
+    ],
+    "text": "Money allocatedto the\u201cDevelopmentActivities\u201dProgramme maybe transferred toany otherProgrammeunder any otherHead.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193.77,
+      165.07,
+      383.69,
+      178.41
+    ],
+    "text": "Appropriation Act, No. 20 of 20105",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      239.54,
+      451.32,
+      315.25
+    ],
+    "text": "Power ofMinister to varythe maximumand minimumlimits specifiedin the ThirdSchedule to thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      454.58,
+      453.53,
+      502.33
+    ],
+    "text": "Power ofParliament toamend the ThirdSchedule to thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      189.67,
+      384.02,
+      227.13
+    ],
+    "text": "from the Consolidated Fund or from any other fund or moneysof or at the disposal of the Government, to meet any authorizedexpenditure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      237.79,
+      383.64,
+      263.13
+    ],
+    "text": "8.(1) The Minister with the approval of the Governmentmay, on or before May 31, 2012, by Order vary or alter\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.57,
+      273.79,
+      384.02,
+      299.13
+    ],
+    "text": "(a) any of the maximum limits specified in Column II,Column IV and Column V ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.57,
+      309.79,
+      351.72,
+      323.13
+    ],
+    "text": "(b) the minimum limits specified in Column III,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      333.79,
+      278.26,
+      347.13
+    ],
+    "text": "of the Third Schedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      357.79,
+      383.79,
+      383.13
+    ],
+    "text": "(2)No Order made under subsection (1) shall have effect,unless it has been approved by Parliament by resolution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      393.79,
+      383.8,
+      443.13
+    ],
+    "text": "(3)Any Order made under subsection (1) shall, if soexpressed therein, be deemed to have had effect from suchdate prior to the date of making such Order, as may be specifiedtherein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      453.79,
+      383.73,
+      491.13
+    ],
+    "text": "9.Parliament may by Resolution amend the ThirdSchedule to this Act, by adding to the appropriate Columnsof that Schedule any activity and providing for \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153.57,
+      501.79,
+      383.81,
+      527.13
+    ],
+    "text": "(a)all or any of the maximum limits relating to suchactivity;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797959327697754,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153.57,
+      537.79,
+      350.79,
+      551.13
+    ],
+    "text": "(b)the minimum limit relating to such activity.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      561.79,
+      383.89,
+      587.13
+    ],
+    "text": "10.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      563.06,
+      453.59,
+      589.93
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      446.15,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      432.41,
+      339.39,
+      453.09,
+      485.66
+    ],
+    "text": "FIRST SCHEDULE \u2014 Estimate \u2014 2011 Sums Payable for General Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      374.57,
+      177.99,
+      385.65,
+      220.92
+    ],
+    "text": "Head 1 - 22",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      346.01,
+      189.99,
+      368.61,
+      505.99
+    ],
+    "text": "Recurrent8,096,318,000 Capital3,039,205,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324.89,
+      169.95,
+      335.56,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      278.57,
+      169.95,
+      312.4,
+      654.86
+    ],
+    "text": "Head1His Excellency the PresidentProgramme 01Operational Activities2,246,230,000702,000,000Programme 02Development Activities\u20141,387,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      243.77,
+      169.95,
+      266.08,
+      654.93
+    ],
+    "text": "Head2Office of the Prime MinisterProgramme 01Operational Activities162,660,00045,680,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      208.97,
+      169.95,
+      231.28,
+      654.93
+    ],
+    "text": "Head3Secretariat for Special Functions (Senior Ministers)Programme 01Operational Activities150,000,00050,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174.17,
+      169.95,
+      196.48,
+      654.69
+    ],
+    "text": "Head4Judges of the Superior CourtsProgramme 01Operational Activities58,421,000\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.37,
+      169.95,
+      161.68,
+      654.8
+    ],
+    "text": "Head5Office of the Cabinet of MinistersProgramme 01Operational Activities46,970,0003,350,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      393.74,
+      172.59,
+      422.71,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.39,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "7Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      429.41,
+      169.01,
+      451.72,
+      654.1
+    ],
+    "text": "Head6Public Service CommissionProgramme 01Operational Activities113,955,0008,280,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      397.61,
+      169.01,
+      418.0,
+      653.98
+    ],
+    "text": "Head7Judicial Service CommissionProgramme 01Operational Activities34,603,0001,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      368.57,
+      169.01,
+      388.96,
+      654.01
+    ],
+    "text": "Head8National Police CommissionProgramme 01Operational Activities33,782,000500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      339.41,
+      169.01,
+      359.8,
+      654.01
+    ],
+    "text": "Head9Administrative Appeals TribunalProgramme 01Operational Activities12,325,000280,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      310.37,
+      169.01,
+      330.76,
+      653.99
+    ],
+    "text": "Head10 Commission to Investigate Allegations of Bribery or CorruptionProgramme 01Operational Activities121,020,00089,150,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      281.21,
+      169.01,
+      301.6,
+      654.0
+    ],
+    "text": "Head11 Office of the Finance CommissionProgramme 01Operational Activities35,975,00061,430,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252.17,
+      169.01,
+      272.56,
+      653.98
+    ],
+    "text": "Head12 National Education CommissionProgramme 01Operational Activities28,300,0006,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223.01,
+      169.01,
+      243.4,
+      654.1
+    ],
+    "text": "Head13 Human Rights Commission of Sri LankaProgramme 01Operational Activities112,300,0005,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193.97,
+      169.01,
+      214.36,
+      653.99
+    ],
+    "text": "Head14 Department of Attorney GeneralProgramme 01Operational Activities419,000,00014,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      164.81,
+      169.01,
+      185.2,
+      654.0
+    ],
+    "text": "Head15 Department of Legal DraftsmanProgramme 01Operational Activities48,750,00037,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      135.77,
+      169.01,
+      156.16,
+      654.03
+    ],
+    "text": "Head16 ParliamentProgramme 01Operational Activities1,516,530,000107,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      446.15,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.89,
+      169.95,
+      411.16,
+      654.8
+    ],
+    "text": "Head17 Office of the Leader of the House of ParliamentProgramme 01Operational Activities23,650,0002,150,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      362.09,
+      169.95,
+      382.36,
+      654.8
+    ],
+    "text": "Head18 Office of the Chief Govt. Whip of ParliamentProgramme 01Operational Activities27,675,0002,200,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      333.29,
+      169.95,
+      353.56,
+      654.8
+    ],
+    "text": "Head19 Office of the Leader of the Opposition of ParliamentProgramme 01Operational Activities59,190,0001,370,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      304.49,
+      169.95,
+      324.76,
+      655.03
+    ],
+    "text": "Head20 Department of ElectionsProgramme 01Operational Activities2,192,877,00052,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      275.69,
+      169.95,
+      295.96,
+      654.95
+    ],
+    "text": "Head21 Auditor GeneralProgramme 01Operational Activities645,755,000461,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      246.89,
+      169.95,
+      267.16,
+      655.01
+    ],
+    "text": "Head22 Office of the Parliamentary Commissioner for AdministrationProgramme 01Operational Activities6,350,000215,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      198.41,
+      217.95,
+      228.69,
+      505.97
+    ],
+    "text": "Ministry of Buddha Sasana and Religious AffairsRecurrent762,551,000Capital823,663,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      179.69,
+      169.95,
+      190.36,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.29,
+      169.95,
+      171.16,
+      654.9
+    ],
+    "text": "Head101 Minister of Buddha Sasana and Religious AffairsProgramme 01Operational Activities85,920,000253,475,000Programme 02Development Activities\u2014265,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.39,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "9Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      421.25,
+      168.05,
+      451.96,
+      653.99
+    ],
+    "text": "Head201 Department of Buddhist AffairsProgramme 01Operational Activities28,312,000103,170,000Programme 02Development Activitie457,340,000\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.25,
+      168.05,
+      411.88,
+      654.0
+    ],
+    "text": "Head202 Department of Muslim Religious and Cultural AffairsProgramme 02Development Activities46,499,00083,272,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      361.25,
+      168.05,
+      381.88,
+      654.0
+    ],
+    "text": "Head203 Department of Christian Religious and Cultural AffairsProgramme 02Development Activities54,453,00012,480,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      331.25,
+      168.05,
+      351.88,
+      653.99
+    ],
+    "text": "Head204 Department of Hindu Religious and Cultural AffairsProgramme 02Development Activities61,361,000105,091,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      301.25,
+      168.05,
+      321.88,
+      653.98
+    ],
+    "text": "Head205 Department of Public TrusteeProgramme 01Operational Activities28,666,0001,175,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      260.81,
+      216.05,
+      291.81,
+      504.02
+    ],
+    "text": "Ministry of Finance and PlanningRecurrent58,082,698,000Capital46,650,767,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      241.25,
+      168.05,
+      251.92,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      201.29,
+      168.05,
+      231.88,
+      654.08
+    ],
+    "text": "Head102 Minister of Finance and PlanningProgramme 01Operational Activities511,775,000511,455,000Programme 02Development Activities\u20141,677,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171.29,
+      168.05,
+      191.92,
+      653.99
+    ],
+    "text": "Head237 Department of National PlanningProgramme 01Operational Activities49,625,000121,400,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141.29,
+      168.05,
+      161.92,
+      654.03
+    ],
+    "text": "Head238 Department of Fiscal PolicyProgramme 01Operational Activities134,600,000550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      388.85,
+      169.95,
+      410.32,
+      654.93
+    ],
+    "text": "Head239 Department of External ResourcesProgramme 01Operational Activities159,380,00011,690,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      345.65,
+      169.95,
+      377.92,
+      654.93
+    ],
+    "text": "Head240 Department of National BudgetProgramme 01Operational Activities64,070,0003,150,000Programme 02Development Activities41,663,698,00013,821,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      313.25,
+      169.95,
+      334.72,
+      654.8
+    ],
+    "text": "Head241 Department of Public EnterprisesProgramme 01Operational Activities35,425,0001,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      280.85,
+      169.95,
+      302.32,
+      654.8
+    ],
+    "text": "Head242 Department of Management ServicesProgramme 01Operational Activities28,800,0001,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      237.65,
+      169.95,
+      269.92,
+      654.97
+    ],
+    "text": "Head243 Department of Development FinanceProgramme 01Operational Activities413,775,000500,000Programme 02Development Activities\u20141,014,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      205.25,
+      169.95,
+      226.72,
+      654.97
+    ],
+    "text": "Head244 Department of Trade Tariff and Investment PolicyProgramme 01Operational Activities820,290,000768,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.85,
+      169.95,
+      194.32,
+      654.94
+    ],
+    "text": "Head245 Department of Public FinanceProgramme 01Operational Activities127,300,0002,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.45,
+      169.95,
+      161.92,
+      655.03
+    ],
+    "text": "Head246 Department of Inland RevenueProgramme 01Operational Activities1,373,287,00022,850,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "11Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      431.57,
+      168.05,
+      452.56,
+      654.03
+    ],
+    "text": "Head247 Sri Lanka CustomsProgramme 01Operational Activities1,443,280,000348,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      400.37,
+      168.05,
+      421.36,
+      654.03
+    ],
+    "text": "Head248 Department of ExciseProgramme 01Operational Activities394,645,00018,125,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      358.73,
+      168.05,
+      390.16,
+      654.01
+    ],
+    "text": "Head249 Department of Treasury OperationsProgramme 01Operational Activities9,992,166,00020,454,950,000Programme 02Development Activities\u20146,570,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      327.53,
+      168.05,
+      348.64,
+      653.98
+    ],
+    "text": "Head250 Department of State AccountsProgramme 01Operational Activities29,160,0001,090,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      296.33,
+      168.05,
+      317.44,
+      654.07
+    ],
+    "text": "Head251 Department of ValuationProgramme 01Operational Activities219,150,0004,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      265.13,
+      168.05,
+      286.24,
+      653.92
+    ],
+    "text": "Head252 Department of Census and StatisticsProgramme 01Operational Activities507,250,0002,042,300,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      233.93,
+      168.05,
+      255.04,
+      654.0
+    ],
+    "text": "Head280 Department of Foreign Aid and Budget MonitoringProgramme 02Development Activities57,008,00020,850,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      202.73,
+      168.05,
+      223.84,
+      654.01
+    ],
+    "text": "Head296 Department of Import and Export ControlProgramme 01Operational Activities35,223,000275,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171.53,
+      168.05,
+      192.64,
+      654.07
+    ],
+    "text": "Head323 Department of Legal AffairsProgramme 01Operational Activities8,040,000314,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.33,
+      168.05,
+      161.44,
+      654.01
+    ],
+    "text": "Head324 Department of Management AuditProgramme 01Operational Activities14,751,000350,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      382.13,
+      217.95,
+      411.45,
+      505.96
+    ],
+    "text": "Ministry of DefenceRecurrent203,569,320,000Capital13,262,580,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      364.49,
+      169.95,
+      375.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      328.01,
+      169.95,
+      356.92,
+      654.85
+    ],
+    "text": "Head103 Minister of DefenceProgramme 01Operational Activities7,127,980,0001,508,230,000Programme 02Development Activities445,000,0002,311,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      300.77,
+      169.95,
+      320.56,
+      654.92
+    ],
+    "text": "Head222 Sri Lanka ArmyProgramme 01Operational Activities106,751,920,0002,543,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273.41,
+      169.95,
+      293.2,
+      654.83
+    ],
+    "text": "Head223 Sri Lanka NavyProgramme 01Operational Activities27,600,900,0003,065,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      246.17,
+      169.95,
+      265.96,
+      654.83
+    ],
+    "text": "Head224 Sri Lanka Air ForceProgramme 01Operational Activities18,942,070,0001,752,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      218.81,
+      169.95,
+      238.6,
+      654.83
+    ],
+    "text": "Head225 Department of PoliceProgramme 01Operational Activities33,148,360,0001,129,050,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      191.57,
+      169.95,
+      211.36,
+      654.95
+    ],
+    "text": "Head226 Department of Immigration and EmigrationProgramme 01Operational Activities554,100,000415,450,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      164.21,
+      169.95,
+      184.0,
+      654.93
+    ],
+    "text": "Head227 Department of Registration of PersonsProgramme 01Operational Activities193,260,00039,850,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.21,
+      169.95,
+      156.88,
+      654.95
+    ],
+    "text": "Head291 Department of Coast ConservationProgramme 01Operational Activities121,110,000291,150,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "13Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      434.93,
+      168.05,
+      454.0,
+      654.03
+    ],
+    "text": "Head320 Department of Civil SecurityProgramme 01Operational Activities8,664,620,000110,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      409.73,
+      168.05,
+      428.8,
+      654.0
+    ],
+    "text": "Head325 Department of Sri Lanka Coast GuardProgramme 01Operational Activities20,000,00095,950,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      375.65,
+      216.05,
+      403.53,
+      504.02
+    ],
+    "text": "Ministry of Economic DevelopmentRecurrent19,890,550,000Capital63,660,860,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      359.33,
+      168.05,
+      370.0,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      325.73,
+      168.05,
+      353.2,
+      654.01
+    ],
+    "text": "Head105 Minister of Economic DevelopmentProgramme 01Operational Activities59,650,0003,200,000Programme 02Development Activities8,378,230,00062,536,670,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      300.53,
+      168.05,
+      319.6,
+      654.09
+    ],
+    "text": "Head218 Department of Commissioner General of SamurdhiProgramme 01Operational Activities11,142,425,0003,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      275.33,
+      168.05,
+      294.4,
+      654.08
+    ],
+    "text": "Head294 Department of National Zoological GardensProgramme 02Development Activities136,830,000677,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      250.13,
+      168.05,
+      269.2,
+      653.98
+    ],
+    "text": "Head305 Department of Up-Country Peasantry RehabilitationProgramme 02Development Activities14,655,0001,075,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      224.93,
+      168.05,
+      244.0,
+      654.08
+    ],
+    "text": "Head322 Department of National Botanical GardensProgramme 02Development Activities158,760,000438,115,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190.85,
+      216.05,
+      218.73,
+      504.07
+    ],
+    "text": "Ministry of Disaster ManagementRecurrent568,820,000Capital457,600,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      174.53,
+      168.05,
+      185.2,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.93,
+      168.05,
+      168.4,
+      654.08
+    ],
+    "text": "Head106 Minister of Disaster ManagementProgramme 01Operational Activities87,920,00045,900,000Programme 02Development Activities325,000,000371,750,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      390.29,
+      169.95,
+      410.92,
+      654.93
+    ],
+    "text": "Head304 Department of MeteorologyProgramme 02Development Activities155,900,00039,950,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      349.73,
+      217.95,
+      380.85,
+      505.97
+    ],
+    "text": "Ministry of Postal ServicesRecurrent7,178,205,000Capital251,350,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      330.29,
+      169.95,
+      340.96,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      290.21,
+      169.95,
+      320.92,
+      654.94
+    ],
+    "text": "Head108 Minister of Postal ServicesProgramme 01Operational Activities68,705,00010,350,000Programme 02Development Activities8,000,00055,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      260.21,
+      169.95,
+      280.96,
+      654.85
+    ],
+    "text": "Head308 Department of PostsProgramme 01Operational Activities7,101,500,000186,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      219.77,
+      217.95,
+      250.89,
+      505.97
+    ],
+    "text": "Ministry of JusticeRecurrent3,142,367,000Capital913,770,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      200.21,
+      169.95,
+      210.88,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      170.21,
+      169.95,
+      190.96,
+      654.93
+    ],
+    "text": "Head110 Minister of JusticeProgramme 01Operational Activities291,035,00076,095,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.21,
+      169.95,
+      160.96,
+      654.85
+    ],
+    "text": "Head228 Courts AdministrationProgramme 01Operational Activities2,681,320,000644,950,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "15Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      432.05,
+      168.05,
+      452.8,
+      654.07
+    ],
+    "text": "Head231 Department of Debt Concileation BoardProgramme 01Operational Activities7,232,000200,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      401.69,
+      168.05,
+      422.56,
+      653.99
+    ],
+    "text": "Head233 Department of Government AnalystProgramme 01Operational Activities77,255,000185,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      371.45,
+      168.05,
+      392.2,
+      653.98
+    ],
+    "text": "Head234 Registrar of Supreme CourtProgramme 01Operational Activities76,270,0006,275,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      341.09,
+      168.05,
+      361.96,
+      654.08
+    ],
+    "text": "Head235 Department of Law CommissionProgramme 01Operational Activities9,255,0001,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      300.29,
+      216.05,
+      331.53,
+      504.07
+    ],
+    "text": "Ministry of HealthRecurrent48,476,412,000Capital14,432,994,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      280.61,
+      168.05,
+      291.28,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      240.17,
+      168.05,
+      271.0,
+      654.03
+    ],
+    "text": "Head111 Minister of HealthProgramme 01Operational Activities43,542,238,000746,300,000Programme 02Development Activities4,934,174,00013,686,694,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      199.25,
+      216.05,
+      230.61,
+      504.07
+    ],
+    "text": "Ministry of External AffairsRecurrent5,541,227,000Capital831,550,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      179.57,
+      168.05,
+      190.24,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.13,
+      168.05,
+      170.08,
+      654.03
+    ],
+    "text": "Head112 Minister of External AffairsProgramme 01Operational Activities97,860,0007,000,000Programme 02Development Activities5,443,367,000824,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "16",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      376.61,
+      217.95,
+      410.01,
+      505.97
+    ],
+    "text": "Ministry of TransportRecurrent14,192,219,000Capital30,183,200,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      354.65,
+      169.95,
+      365.32,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      309.89,
+      169.95,
+      342.88,
+      654.93
+    ],
+    "text": "Head114 Minister of TransportProgramme 01Operational Activities121,670,00014,200,000Programme 02Development Activities3,850,000,0008,580,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      276.29,
+      169.95,
+      298.12,
+      654.95
+    ],
+    "text": "Head306 Department of Sri Lanka RailwaysProgramme 02Development Activities9,503,199,00020,766,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      242.69,
+      169.95,
+      264.52,
+      654.95
+    ],
+    "text": "Head307 Department of Motor TrafficProgramme 02Development Activities717,350,000822,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      197.33,
+      217.95,
+      230.85,
+      505.97
+    ],
+    "text": "Ministry of Petroleum IndustriesRecurrent92,210,000Capital2,025,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      175.49,
+      169.95,
+      186.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141.89,
+      169.95,
+      163.72,
+      654.8
+    ],
+    "text": "Head115 Minister of Petroleum IndustriesProgramme 01Operational Activities92,210,0002,025,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "17Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      422.45,
+      216.05,
+      453.69,
+      504.07
+    ],
+    "text": "Ministry of Co-operatives and Internal TradeRecurrent555,147,000Capital932,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      402.77,
+      168.05,
+      413.44,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      362.33,
+      168.05,
+      393.16,
+      654.08
+    ],
+    "text": "Head116 Minister of Co-operatives and Internal TradeProgramme 01Operational Activities359,460,000386,010,000Programme 02Development Activities\u201430,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      332.09,
+      168.05,
+      352.84,
+      654.0
+    ],
+    "text": "Head298 Department of Measurement Units, Standards and ServicesProgramme 01Operational Activities56,175,00035,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      301.73,
+      168.05,
+      322.48,
+      654.0
+    ],
+    "text": "Head300 Department of Food CommissionerProgramme 01Operational Activities83,340,00017,360,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      271.49,
+      168.05,
+      292.24,
+      653.99
+    ],
+    "text": "Head301 Department of Co-operative Development (Registrar of Co-operative Societies)Programme 01Operational Activities46,075,000463,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      241.13,
+      168.05,
+      261.88,
+      654.01
+    ],
+    "text": "Head302 Co-operative Employees CommissionProgramme 01Operational Activities10,097,000130,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      200.33,
+      216.05,
+      231.57,
+      504.06
+    ],
+    "text": "Ministry of Ports and HighwaysRecurrent177,910,000Capital128,484,275,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.53,
+      168.05,
+      191.2,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      140.21,
+      168.05,
+      171.04,
+      654.07
+    ],
+    "text": "Head117 Minister of Ports and HighwaysProgramme 01Operational Activities177,910,0006,905,000Programme 02Development Activities\u2014128,477,370,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "18",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      380.21,
+      217.95,
+      410.97,
+      506.01
+    ],
+    "text": "Ministry of AgricultureRecurrent2,170,347,000Capital2,998,965,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      361.13,
+      169.95,
+      371.8,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      321.89,
+      169.95,
+      352.24,
+      652.93
+    ],
+    "text": "Head118 Minister of AgricultureProgramme 01Operational Activities147,170,00017,750,000Programme 02Development Activities285,257,0001,985,130,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      282.77,
+      169.95,
+      313.0,
+      652.93
+    ],
+    "text": "Head285 Department of AgricultureProgramme 01Operational Activities197,000,00025,400,000Programme 02Development Activities1,540,920,000970,685,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      243.05,
+      217.95,
+      273.81,
+      505.97
+    ],
+    "text": "Ministry of Power and EnergyRecurrent1,409,990,000Capital32,704,650,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.97,
+      169.95,
+      234.64,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      184.73,
+      169.95,
+      215.08,
+      652.93
+    ],
+    "text": "Head119 Minister of Power and EnergyProgramme 01Operational Activities1,409,990,0002,284,650,000Programme 02Development Activities\u2014 30,420,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      145.13,
+      217.95,
+      175.77,
+      505.97
+    ],
+    "text": "Ministry of Child Development and Women\u2019s AffairsRecurrent677,000,000Capital310,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "19Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      442.49,
+      168.05,
+      453.16,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      404.57,
+      168.05,
+      434.2,
+      654.08
+    ],
+    "text": "Head120 Minister of Child Development and Women\u2019s AffairsProgramme 01Operational Activities233,175,00075,500,000Programme 02Development Activities298,280,000229,200,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      366.53,
+      168.05,
+      396.16,
+      654.07
+    ],
+    "text": "Head217 Department of Probation and Child Care ServicesProgramme 01Operational Activities12,290,000500,000Programme 02Development Activities133,255,0004,800,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      328.01,
+      216.05,
+      358.17,
+      504.06
+    ],
+    "text": "Ministry of Public Administration and Home AffairsRecurrent101,738,475,000Capital2,500,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      309.53,
+      168.05,
+      320.2,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      281.09,
+      168.05,
+      301.24,
+      654.08
+    ],
+    "text": "Head121 Minister of Public Adminsitration and Home AffairsProgramme 01Operational Activities415,200,000454,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      252.53,
+      168.05,
+      272.68,
+      654.09
+    ],
+    "text": "Head253 Department of PensionsProgramme 01Operational Activities92,101,400,00026,300,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      224.09,
+      168.05,
+      244.24,
+      654.03
+    ],
+    "text": "Head254 Department of Registrar GeneralProgramme 01Operational Activities530,475,00062,050,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.53,
+      168.05,
+      215.68,
+      654.08
+    ],
+    "text": "Head255 District Secretariat, ColomboProgramme 01Operational Activities413,900,000191,050,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      167.09,
+      168.05,
+      187.24,
+      654.03
+    ],
+    "text": "Head256 District Secretariat, GampahaProgramme 01Operational Activities547,025,00049,300,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      138.53,
+      168.05,
+      158.68,
+      654.03
+    ],
+    "text": "Head257 District Secretariat, KalutaraProgramme 01Operational Activities453,600,00065,050,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      391.37,
+      169.95,
+      411.4,
+      655.89
+    ],
+    "text": "Head258 District Secretariat, KandyProgramme 01Operational Activities606,050,00069,200,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      363.53,
+      169.95,
+      383.44,
+      655.89
+    ],
+    "text": "Head259 District Secretariat, MataleProgramme 01Operational Activities314,800,00022,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      335.57,
+      169.95,
+      355.6,
+      655.89
+    ],
+    "text": "Head260 District Secretariat, Nuwara-Eliya.Programme 01Operational Activities256,150,00072,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      307.73,
+      169.95,
+      327.64,
+      655.89
+    ],
+    "text": "Head261 District Secretariat, GalleProgramme 01Operational Activities558,075,00066,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      279.77,
+      169.95,
+      299.8,
+      656.03
+    ],
+    "text": "Head262 District Secretariat ,MataraProgramme 01Operational Activities455,600,000135,400,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      251.93,
+      169.95,
+      271.84,
+      655.89
+    ],
+    "text": "Head263 District Secretariat , HambantotaProgramme 01Operational Activities346,400,00091,075,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      223.97,
+      169.95,
+      244.0,
+      655.89
+    ],
+    "text": "Head264 District Secretariat/ Kachcheri - JaffnaProgramme 01Operational Activities316,950,00078,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      196.13,
+      169.95,
+      216.04,
+      655.9
+    ],
+    "text": "Head265 District Secretariat/ Kachcheri - MannarProgramme 01Operational Activities96,675,00048,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      168.17,
+      169.95,
+      188.2,
+      655.89
+    ],
+    "text": "Head266 District Secretariat/ Kachcheri - VavuniyaProgramme 01Operational Activities102,025,00045,750,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.33,
+      169.95,
+      160.24,
+      655.9
+    ],
+    "text": "Head267 District Secretariat/ Kachcheri - MullaitivuProgramme 01Operational Activities71,550,00061,075,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "21Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      434.09,
+      168.05,
+      453.64,
+      654.0
+    ],
+    "text": "Head268 District Secretariat/ Kachcheri - KillinochchiProgramme 01Operational Activities79,600,00065,400,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.33,
+      168.05,
+      426.88,
+      654.03
+    ],
+    "text": "Head269 District Secretariat/ Kachcheri - BatticaloaProgramme 01Operational Activities267,400,00061,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      380.69,
+      168.05,
+      400.24,
+      654.03
+    ],
+    "text": "Head270 District Secretariat, AmparaProgramme 01Operational Activities442,325,00089,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      353.93,
+      168.05,
+      373.48,
+      654.03
+    ],
+    "text": "Head271 District Secretariat/ Kachcheri - TrincomaleeProgramme 01Operational Activities186,125,00094,450,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      327.29,
+      168.05,
+      346.84,
+      654.03
+    ],
+    "text": "Head272 District Secretariat, KurunegalaProgramme 01Operational Activities853,425,00064,150,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      300.53,
+      168.05,
+      320.08,
+      654.08
+    ],
+    "text": "Head273 District Secretariat, PuttalamProgramme 01Operational Activities350,300,000115,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      273.89,
+      168.05,
+      293.44,
+      654.03
+    ],
+    "text": "Head274 District Secretariat, AnuradhapuraProgramme 01Operational Activities451,900,00057,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      247.13,
+      168.05,
+      266.68,
+      654.03
+    ],
+    "text": "Head275 District Secretariat - PolonnaruwaProgramme 01Operational Activities207,150,00049,350,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      220.49,
+      168.05,
+      240.04,
+      654.03
+    ],
+    "text": "Head276 District Secretariat - BadullaProgramme 01Operational Activities359,450,00065,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      193.73,
+      168.05,
+      213.28,
+      654.08
+    ],
+    "text": "Head277 District Secretariat, MoneragalaProgramme 01Operational Activities245,800,000143,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      167.09,
+      168.05,
+      186.64,
+      654.03
+    ],
+    "text": "Head278 District Secretariat, RatnapuraProgramme 01Operational Activities381,200,00075,300,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      140.33,
+      168.05,
+      159.88,
+      654.03
+    ],
+    "text": "Head279 District Secretariat, KegalleProgramme 01Operational Activities327,925,00080,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "22",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      398.21,
+      217.95,
+      409.29,
+      368.65
+    ],
+    "text": "Ministry of Mass Media and Information",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      385.97,
+      233.91,
+      397.05,
+      505.94
+    ],
+    "text": "Recurrent1,518,372,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      373.61,
+      233.91,
+      384.69,
+      505.97
+    ],
+    "text": "Capital686,125,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      349.49,
+      169.95,
+      360.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      324.41,
+      169.95,
+      335.56,
+      367.9
+    ],
+    "text": "Head122 Minister of Mass Media and Information",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      312.65,
+      217.95,
+      323.32,
+      655.9
+    ],
+    "text": "Programme 01Operational Activities97,567,00062,000,000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      300.29,
+      217.95,
+      310.96,
+      656.03
+    ],
+    "text": "Programme 02Development Activities197,000,000345,500,000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      275.21,
+      169.95,
+      286.36,
+      320.05
+    ],
+    "text": "Head210 Department of Information",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      263.45,
+      217.95,
+      274.12,
+      656.03
+    ],
+    "text": "Programme 01Operational Activities132,790,000155,375,000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      238.37,
+      169.95,
+      249.52,
+      349.86
+    ],
+    "text": "Head211 Department of Government Printer",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      226.49,
+      217.95,
+      237.16,
+      655.93
+    ],
+    "text": "Programme 01Operational Activities1,091,015,000123,250,000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      201.41,
+      217.95,
+      212.49,
+      393.52
+    ],
+    "text": "Ministry of Construction, Engineering Services,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      189.17,
+      225.99,
+      200.25,
+      346.86
+    ],
+    "text": "Housing and Common Amenities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      176.81,
+      241.95,
+      187.89,
+      505.97
+    ],
+    "text": "Recurrent630,920,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      164.57,
+      241.95,
+      175.65,
+      505.91
+    ],
+    "text": "Capital1,993,070,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.45,
+      169.95,
+      151.12,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "23Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      420.29,
+      168.05,
+      452.8,
+      654.07
+    ],
+    "text": "Head123 Minister of Construction, Engineering Services, Housing and Common AmenitiesProgramme 01Operational Activities163,660,0005,150,000Programme 02Development Activities85,500,0001,939,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      376.73,
+      168.05,
+      409.24,
+      654.03
+    ],
+    "text": "Head309 Department of BuildingsProgramme 01Operational Activities62,370,0003,150,000Programme 02Development Activities135,880,00018,150,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      333.17,
+      168.05,
+      365.56,
+      654.0
+    ],
+    "text": "Head310 Government FactoryProgramme 01Operational Activities24,660,0006,000,000Programme 02Development Activities21,000,00011,520,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      289.61,
+      168.05,
+      322.0,
+      654.07
+    ],
+    "text": "Head311 Department of National Physical PlanningProgramme 01Operational Activities137,850,0003,100,000Programme 02Development Activities\u20147,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      245.45,
+      216.05,
+      278.37,
+      504.07
+    ],
+    "text": "Ministry of Social ServicesRecurrent895,595,000Capital122,900,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      224.81,
+      168.05,
+      235.48,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      182.81,
+      168.05,
+      214.48,
+      654.03
+    ],
+    "text": "Head124 Minister of Social ServicesProgramme 01Operational Activities152,745,00015,850,000Programme 02Development Activities456,380,00072,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      140.81,
+      168.05,
+      172.48,
+      654.03
+    ],
+    "text": "Head216 Department of Social ServicesProgramme 01Operational Activities85,500,00016,000,000Programme 02Development Activities200,970,00018,800,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "24",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      381.65,
+      217.95,
+      411.33,
+      506.01
+    ],
+    "text": "Ministry of EducationRecurrent26,857,106,000Capital4,618,984,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      363.53,
+      169.95,
+      374.2,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      326.33,
+      169.95,
+      355.6,
+      655.91
+    ],
+    "text": "Head126 Minister of EducationProgramme 01Operational Activities478,620,00075,500,000Programme 02Development Activities24,802,725,0004,388,546,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      298.37,
+      169.95,
+      318.4,
+      655.99
+    ],
+    "text": "Head212 Department of ExaminationsProgramme 02Development Activities1,549,375,00062,583,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      270.53,
+      169.95,
+      290.44,
+      655.9
+    ],
+    "text": "Head213 Department of Educational PublicationsProgramme 02Development Activities26,386,00092,355,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      232.85,
+      217.95,
+      262.53,
+      505.97
+    ],
+    "text": "Ministry of Labour and Labour RelationsRecurrent948,256,000Capital222,651,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      214.73,
+      169.95,
+      225.4,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      177.53,
+      169.95,
+      206.8,
+      655.89
+    ],
+    "text": "Head127 Minister of Labour and Labour RelationsProgramme 01Operational Activities102,441,00038,515,000Programme 02Development Activities48,875,0006,406,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.33,
+      169.95,
+      169.6,
+      655.89
+    ],
+    "text": "Head221 Department of LabourProgramme 01Operational Activities427,815,00078,000,000Programme 02Development Activities369,125,00099,730,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "25Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      424.61,
+      216.05,
+      453.57,
+      504.07
+    ],
+    "text": "Ministry of Traditional Industries and Small Enterprises DevelopmentRecurrent501,950,000Capital498,600,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      407.33,
+      168.05,
+      418.0,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      371.69,
+      168.05,
+      400.24,
+      654.08
+    ],
+    "text": "Head128 Minister of Traditional Industries and Small Enterprises DevelopmentProgramme 01Operational Activities501,950,00079,600,000Programme 02Development Activities\u2014419,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      335.69,
+      216.05,
+      364.53,
+      504.07
+    ],
+    "text": "Ministry of Local Government and Provincial CouncilsRecurrent90,172,610,000Capital30,651,800,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      318.29,
+      168.05,
+      328.96,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      282.77,
+      168.05,
+      311.2,
+      654.03
+    ],
+    "text": "Head130 Minister of Local Government and Provincial CouncilsProgramme 01Operational Activities172,610,00046,650,000Programme 02Development Activities\u20144,313,600,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      247.13,
+      168.05,
+      275.68,
+      653.92
+    ],
+    "text": "Head312 Western Provincial CouncilProgramme 01Operational Activities7,170,479,000\u2014Programme 02Development Activities\u20142,136,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      211.61,
+      168.05,
+      240.04,
+      653.92
+    ],
+    "text": "Head313 Central Provincial CouncilProgramme 01Operational Activities13,269,516,000\u2014Programme 02Development Activities\u20142,864,750,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      175.97,
+      168.05,
+      204.4,
+      653.92
+    ],
+    "text": "Head314 Southern Provincial CouncilProgramme 01Operational Activities11,171,940,000\u2014Programme 02Development Activities\u20141,860,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      140.33,
+      168.05,
+      168.88,
+      653.92
+    ],
+    "text": "Head315 Northern Provincial CouncilProgramme 01Operational Activities9,152,741,000\u2014Programme 02Development Activities\u20143,343,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "26",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      382.13,
+      169.95,
+      411.4,
+      655.94
+    ],
+    "text": "Head316 North Western Provincial CouncilProgramme 01Operational Activities12,656,574,000\u2014Programme 02Development Activities \u20141,841,750,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      344.93,
+      169.95,
+      374.2,
+      655.94
+    ],
+    "text": "Head317 North Central Provincial CouncilProgramme 01Operational Activities7,385,670,000\u2014Programme 02Development Activities\u20143,083,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      307.73,
+      169.95,
+      337.0,
+      655.94
+    ],
+    "text": "Head318 Uva Provincial CouncilProgramme 01Operational Activities8,897,287,000\u2014Programme 02Development Activities\u20143,469,300,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      270.53,
+      169.95,
+      299.8,
+      655.94
+    ],
+    "text": "Head319 Sabaragamuwa Provincial CouncilProgramme 01Operational Activities9,822,717,000\u2014Programme 02Development Activities\u20142,363,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      233.33,
+      169.95,
+      262.6,
+      655.94
+    ],
+    "text": "Head321 Eastern Provincial CouncilProgramme 01Operational Activities10,473,076,000\u2014Programme 02Development Activities\u20145,329,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      195.65,
+      217.95,
+      225.33,
+      506.01
+    ],
+    "text": "Ministry of Technology and ResearchRecurrent1,084,780,000Capital2,618,955,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      177.53,
+      169.95,
+      188.2,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.33,
+      169.95,
+      169.6,
+      656.02
+    ],
+    "text": "Head133 Minister of Technology and ResearchProgramme 01Operational Activities144,925,0008,700,000Programme 02Development Activities939,855,0002,610,255,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "27Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      424.61,
+      216.05,
+      453.57,
+      504.07
+    ],
+    "text": "Ministry of National Languages and Social IntegrationRecurrent220,745,000Capital302,410,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.33,
+      168.05,
+      418.0,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      371.69,
+      168.05,
+      400.24,
+      654.08
+    ],
+    "text": "Head134 Minister of National Languages and Social IntegrationProgramme 01Operational Activities107,925,000184,810,000Programme 02Development Activities55,750,000101,800,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      345.05,
+      168.05,
+      364.6,
+      654.0
+    ],
+    "text": "Head236 Department of Official LanguagesProgramme 01Operational Activities57,070,00015,800,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      308.93,
+      216.05,
+      337.89,
+      503.99
+    ],
+    "text": "Ministry of Plantation IndustriesRecurrent1,947,720,000Capital1,215,250,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      291.65,
+      168.05,
+      302.32,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      256.01,
+      168.05,
+      284.56,
+      654.0
+    ],
+    "text": "Head135 Minister of Plantation IndustriesProgramme 01Operational Activities98,290,00014,750,000Programme 02Development Activities916,570,0001,100,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      229.37,
+      168.05,
+      248.92,
+      654.08
+    ],
+    "text": "Head293 Department of Rubber DevelopmentProgramme 02Development Activities932,860,000100,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.25,
+      216.05,
+      222.21,
+      504.05
+    ],
+    "text": "Ministry of SportsRecurrent482,140,000Capital1,308,580,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      175.97,
+      168.05,
+      186.64,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      140.33,
+      168.05,
+      168.88,
+      654.08
+    ],
+    "text": "Head136 Minister of SportsProgramme 01Operational Activities104,410,00054,700,000Programme 02Development Activities111,225,000118,930,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "28",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      383.69,
+      169.95,
+      411.76,
+      655.93
+    ],
+    "text": "Head219 Department of Sports DevelopmentProgramme 01Operational Activities76,230,0008,950,000Programme 02Development Activities190,275,0001,126,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      348.41,
+      217.95,
+      376.89,
+      505.97
+    ],
+    "text": "Ministry of Indigenous MedicineRecurrent787,317,000Capital288,960,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      331.49,
+      169.95,
+      342.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      296.69,
+      169.95,
+      324.76,
+      655.93
+    ],
+    "text": "Head138 Minister of Indigenous MedicineProgramme 01Operational Activities169,750,00069,100,000Programme 02Development Activities\u201480,010,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      261.89,
+      169.95,
+      289.96,
+      656.03
+    ],
+    "text": "Head220 Department of AyurvedaProgramme 01Operational Activities184,438,0007,200,000Programme 02Development Activities433,129,000132,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      226.61,
+      217.95,
+      255.09,
+      506.01
+    ],
+    "text": "Ministry of Fisheries and Aquatic Resources DevelopmentRecurrent768,550,000Capital3,649,170,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      209.69,
+      169.95,
+      220.36,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      166.25,
+      169.95,
+      194.32,
+      655.93
+    ],
+    "text": "Head139 Minister of Fisheries and Aquatic Resources DevelopmentProgramme 01Operational Activities127,460,00061,000,000Programme 02Development Activities433,000,0003,558,620,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.09,
+      169.95,
+      159.52,
+      655.89
+    ],
+    "text": "Head290 Department of Fisheries and Aquatic ResourcesProgramme 01Operational Activities208,090,00029,550,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "29Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      421.49,
+      216.05,
+      452.73,
+      504.05
+    ],
+    "text": "Ministry of Livestock and Rural Community DevelopmentRecurrent444,802,000Capital1,777,410,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      401.69,
+      168.05,
+      412.36,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      361.37,
+      168.05,
+      392.2,
+      654.03
+    ],
+    "text": "Head140 Minister of Livestock and Rural Community DevelopmentProgramme 01Operational Activities129,962,00014,510,000Programme 02Development Activities18,525,0001,193,200,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      320.93,
+      168.05,
+      351.76,
+      654.08
+    ],
+    "text": "Head292 Department of Animal Production and HealthProgramme 01Operational Activities74,133,00016,700,000Programme 02Development Activities222,182,000553,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      280.13,
+      216.05,
+      311.37,
+      504.07
+    ],
+    "text": "Ministry of National HeritageRecurrent751,017,000Capital552,894,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      260.33,
+      168.05,
+      271.0,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      220.01,
+      168.05,
+      250.84,
+      654.07
+    ],
+    "text": "Head142 Minister of National HeritageProgramme 01Operational Activities160,563,0009,200,000Programme 02Development Activities86,234,000199,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.57,
+      168.05,
+      210.4,
+      654.03
+    ],
+    "text": "Head207 Department of ArchaeologyProgramme 01Operational Activities40,298,00010,165,000Programme 02Development Activities332,038,00089,175,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      139.13,
+      168.05,
+      170.08,
+      654.01
+    ],
+    "text": "Head208 Department of National MuseumsProgramme 01Operational Activities13,318,000958,000Programme 02Development Activities70,710,00018,935,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      381.29,
+      169.95,
+      411.16,
+      655.89
+    ],
+    "text": "Head209 Department of National ArchivesProgramme 01Operational Activities18,698,0004,340,000Programme 02Development Activities29,158,000221,121,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      342.41,
+      217.95,
+      372.69,
+      505.95
+    ],
+    "text": "Ministry of Parliamentary AffairsRecurrent335,145,000Capital53,900,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      323.69,
+      169.95,
+      334.36,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      294.89,
+      169.95,
+      315.16,
+      655.89
+    ],
+    "text": "Head143 Minister of Parliamentary AffairsProgramme 01Operational Activities335,145,00053,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      256.01,
+      217.95,
+      286.29,
+      506.01
+    ],
+    "text": "Ministry of Re-settlementRecurrent390,265,000Capital1,358,340,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      237.29,
+      169.95,
+      247.96,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      198.89,
+      169.95,
+      228.76,
+      656.02
+    ],
+    "text": "Head145 Minister of Re-settlementProgramme 01Operational Activities137,195,0006,840,000Programme 02Development Activities253,070,0001,351,500,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      160.01,
+      217.95,
+      190.29,
+      506.01
+    ],
+    "text": "Ministry of Industry and CommerceRecurrent715,500,000Capital1,748,185,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      141.29,
+      169.95,
+      151.96,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "31Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      421.13,
+      168.05,
+      452.56,
+      654.03
+    ],
+    "text": "Head149 Minister of Industry and CommerceProgramme 01Operational Activities165,890,00012,350,000Programme 02Development Activities371,705,0001,210,110,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      379.49,
+      168.05,
+      411.04,
+      654.08
+    ],
+    "text": "Head295 Department of CommerceProgramme 01Operational Activities81,820,0008,925,000Programme 02Development Activities\u2014492,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      348.29,
+      168.05,
+      369.4,
+      653.75
+    ],
+    "text": "Head297 Department of the Registrar of CompaniesProgramme 01Operational Activities23,670,000\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      317.09,
+      168.05,
+      338.2,
+      588.03
+    ],
+    "text": "Head299 National Intellectual Property Office of Sri LankaProgramme 01Operational Activities16,560,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      286.01,
+      168.05,
+      307.0,
+      654.0
+    ],
+    "text": "Head303 Department of Textile IndustriesProgramme 02Development Activities55,855,00024,100,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      243.89,
+      216.05,
+      275.73,
+      504.07
+    ],
+    "text": "Ministry of Irrigation and Water Resources ManagementRecurrent3,252,950,000Capital21,009,570,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      223.61,
+      168.05,
+      234.28,
+      249.68
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      181.97,
+      168.05,
+      213.4,
+      654.01
+    ],
+    "text": "Head152 Minister of Irrigation and Water Resources ManagementProgramme 01Operational Activities79,220,00013,800,000Programme 02Development Activities1,919,605,00014,774,340,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      140.33,
+      168.05,
+      171.88,
+      654.03
+    ],
+    "text": "Head282 Department of IrrigationProgramme 01Operational Activities306,845,00037,600,000Programme 02Development Activities947,280,0006,183,830,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "32",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      380.21,
+      217.95,
+      410.97,
+      506.01
+    ],
+    "text": "Ministry of Land and Land DevelopmentRecurrent2,281,166,000Capital2,924,358,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      361.13,
+      169.95,
+      371.8,
+      251.58
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      321.89,
+      169.95,
+      352.24,
+      655.94
+    ],
+    "text": "Head153 Minister of Land and Land DevelopmentProgramme 01Operational Activities111,969,00011,450,000Programme 02Development Activities\u20142,420,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      292.61,
+      169.95,
+      313.0,
+      656.03
+    ],
+    "text": "Head286 Department of Land CommissionerProgramme 02Development Activities177,300,000305,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      263.21,
+      169.95,
+      283.6,
+      656.02
+    ],
+    "text": "Head287 Department of Land SettlementProgramme 02Development Activities175,401,0006,600,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      223.97,
+      169.95,
+      254.2,
+      655.99
+    ],
+    "text": "Head288 Department of Surveyor GeneralProgramme 01Operational Activities140,990,00031,518,000Programme 02Development Activities1,536,046,00096,890,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.57,
+      169.95,
+      215.08,
+      655.89
+    ],
+    "text": "Head327 Department of Land Use Policy PlanningProgramme 02Development Activities139,460,00052,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.85,
+      217.95,
+      186.93,
+      506.01
+    ],
+    "text": "Ministry of Yourth Affairs and Skills DevelopmentRecurrent3,574,655,000Capital5,000,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      141.29,
+      169.95,
+      151.96,
+      251.58
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "33Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      421.13,
+      168.05,
+      452.56,
+      654.03
+    ],
+    "text": "Head156 Minister of Youth Affairs and Skills DevelopmentProgramme 01Operational Activities105,250,00026,720,000Programme 02Development Activities2,449,745,0004,694,130,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      379.49,
+      168.05,
+      411.04,
+      654.08
+    ],
+    "text": "Head215 Department of Technical Education and TrainingProgramme 01Operational Activities108,350,00014,500,000Programme 02Development Activities911,310,000264,650,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      337.49,
+      216.05,
+      369.33,
+      503.99
+    ],
+    "text": "Ministry of EnvironmentRecurrent1,351,765,000Capital1,886,675,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      317.09,
+      168.05,
+      327.76,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      275.57,
+      168.05,
+      307.0,
+      654.03
+    ],
+    "text": "Head160 Minister of EnvironmentProgramme 01Operational Activities174,395,00015,600,000Programme 02Development Activities355,000,0001,483,825,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      244.37,
+      168.05,
+      265.48,
+      654.08
+    ],
+    "text": "Head283 Department of ForestsProgramme 01Operational Activities822,370,000387,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      202.25,
+      216.05,
+      234.21,
+      504.07
+    ],
+    "text": "Ministry of Water Supply and DrainageRecurrent150,200,000Capital29,451,050,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      181.97,
+      168.05,
+      192.64,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      140.33,
+      168.05,
+      171.88,
+      654.09
+    ],
+    "text": "Head166 Minister of Water Supply and DrainageProgramme 01Operational Activities103,950,0008,150,000Programme 02Development Activities46,250,00029,442,900,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "34",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      379.73,
+      217.95,
+      410.85,
+      506.01
+    ],
+    "text": "Ministry of Higher EducationRecurrent13,198,557,000Capital9,965,513,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      360.29,
+      169.95,
+      370.96,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      320.21,
+      169.95,
+      350.92,
+      656.02
+    ],
+    "text": "Head171 Minister of Higher EducationProgramme 01Operational Activities121,057,0006,295,000Programme 02Development Activities477,500,0002,859,218,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      290.21,
+      169.95,
+      310.96,
+      655.91
+    ],
+    "text": "Head214 University Grants CommissionProgramme 02Development Activities12,600,000,0007,100,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      249.77,
+      217.95,
+      280.89,
+      505.95
+    ],
+    "text": "Ministry of Public Management ReformsRecurrent111,325,000Capital75,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      230.21,
+      169.95,
+      240.88,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      200.21,
+      169.95,
+      220.96,
+      655.89
+    ],
+    "text": "Head173 Minister of Public Management ReformsProgramme 01Operational Activities111,325,00075,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      159.77,
+      217.95,
+      190.89,
+      505.97
+    ],
+    "text": "Ministry of Rehabilitation and Prison ReformsRecurrent3,564,040,000Capital585,290,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.21,
+      169.95,
+      150.88,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "35Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      431.09,
+      168.05,
+      452.44,
+      654.08
+    ],
+    "text": "Head174 Minister of Rehabilitation and Prison ReformsProgramme 01Operational Activities178,245,000253,460,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      398.93,
+      168.05,
+      420.28,
+      654.03
+    ],
+    "text": "Head232 Department of PrisonsProgramme 01Operational Activities3,323,620,000325,950,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      366.89,
+      168.05,
+      388.24,
+      653.98
+    ],
+    "text": "Head326 Department of Community Based CorrectionsProgramme 01Operational Activities62,175,0005,880,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      323.57,
+      216.05,
+      356.01,
+      504.07
+    ],
+    "text": "Ministry of State Resources and Enterprise DevelopmentRecurrent109,130,000Capital108,900,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      302.69,
+      168.05,
+      313.36,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      249.17,
+      168.05,
+      281.2,
+      654.03
+    ],
+    "text": "Head175 Minister of State Resources and Enterprise DevelopmentProgramme 01Operational Activities109,130,00028,900,000Programme 02Development Activities\u201480,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      205.85,
+      216.05,
+      238.41,
+      504.05
+    ],
+    "text": "Ministry of Civil AviationRecurrent100,000,000Capital1,711,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      184.97,
+      168.05,
+      195.64,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      142.13,
+      168.05,
+      174.28,
+      654.03
+    ],
+    "text": "Head176 Minister of Civil AviationProgramme 01Operational Activities100,000,00010,000,000Programme 02Development Activities\u20141,701,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "36",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      382.13,
+      217.95,
+      411.45,
+      506.01
+    ],
+    "text": "Ministry of Culture and the ArtsRecurrent574,009,000Capital1,601,651,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      364.49,
+      169.95,
+      375.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      328.01,
+      169.95,
+      356.92,
+      655.93
+    ],
+    "text": "Head177 Minister of Culture and the ArtsProgramme 01Operational Activities25,000,00010,000,000Programme 02Development Activities322,534,0001,506,700,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      291.65,
+      169.95,
+      320.56,
+      655.89
+    ],
+    "text": "Head206 Department of Cultural AffairsProgramme 01Operational Activities52,495,0005,445,000Programme 02Development Activities173,980,00079,506,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      254.81,
+      217.95,
+      284.01,
+      506.01
+    ],
+    "text": "Ministry of Coconut Development and Janatha Estate DevelopmentRecurrent520,000,000Capital1,110,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      237.05,
+      169.95,
+      247.72,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      191.57,
+      169.95,
+      220.48,
+      655.93
+    ],
+    "text": "Head178 Minister of Coconut Development and Janatha Estate DevelopmentProgramme 01Operational Activities25,000,00010,000,000Programme 02Development Activities495,000,0001,100,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      154.97,
+      217.95,
+      184.05,
+      506.01
+    ],
+    "text": "Ministry of Agrarian Services & WildlifeRecurrent23,422,132,000Capital1,021,550,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      139.49,
+      169.95,
+      150.16,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "37Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      422.81,
+      168.05,
+      452.32,
+      654.09
+    ],
+    "text": "Head179 Minister of Agrarian Services & WildlifeProgramme 01Operational Activities73,378,00010,600,000Programme 02Development Activities20,018,369,00040,360,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      385.25,
+      168.05,
+      414.76,
+      654.03
+    ],
+    "text": "Head281 Department of Agrarian DevelopmentProgramme 01Operational Activities182,000,00035,500,000Programme 02Development Activities2,735,000,000421,800,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      357.05,
+      168.05,
+      377.08,
+      654.08
+    ],
+    "text": "Head284 Department of Wildlife ConservationProgramme 01Operational Activities413,385,000513,290,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      319.01,
+      216.05,
+      348.81,
+      504.07
+    ],
+    "text": "Ministry of Minor Export Crop PromotionRecurrent358,061,000Capital335,510,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      300.65,
+      168.05,
+      311.32,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      263.09,
+      168.05,
+      292.48,
+      654.0
+    ],
+    "text": "Head180 Department of Minor Export Crop PromotionProgramme 01Operational Activities59,556,00010,910,000Programme 02Development Activities40,000,00042,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      234.89,
+      168.05,
+      254.92,
+      654.08
+    ],
+    "text": "Head289 Department of Export AgricultureProgramme 02Development Activities258,505,000282,600,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      196.73,
+      216.05,
+      226.65,
+      504.05
+    ],
+    "text": "Ministry of Productivity PromotionRecurrent221,015,000Capital46,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      178.49,
+      168.05,
+      189.16,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      140.81,
+      168.05,
+      170.32,
+      654.0
+    ],
+    "text": "Head181 Minister of Productivity PromotionProgramme 01Operational Activities25,000,00010,000,000Programme 02Development Activities31,510,00018,050,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      440.95,
+      663.09,
+      451.15,
+      676.43
+    ],
+    "text": "38",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      422.42,
+      172.59,
+      451.39,
+      646.92
+    ],
+    "text": "HeadRecurrentCapitalNo.ExpenditureExpenditureRs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      224.24,
+      663.21,
+      364.4,
+      675.42
+    ],
+    "text": "Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      388.25,
+      169.95,
+      408.28,
+      655.89
+    ],
+    "text": "Head328 Department of Man Power and EmploymentProgramme 01Operational Activities164,505,00017,950,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      351.65,
+      217.95,
+      380.73,
+      505.97
+    ],
+    "text": "Ministry of Foreign Employment Promotion and WelfareRecurrent49,750,000Capital212,250,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      338.09,
+      169.95,
+      348.76,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      302.09,
+      169.95,
+      330.76,
+      655.9
+    ],
+    "text": "Head182 Minister of Foreign Employment Promotion and WelfareProgramme 01Operational Activities25,000,00010,000,000Programme 02Development Activities24,750,000202,250,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      269.57,
+      217.95,
+      298.65,
+      505.93
+    ],
+    "text": "Ministry of Public Relations and Public AffairsRecurrent25,000,000Capital10,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      256.13,
+      169.95,
+      266.8,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      229.13,
+      169.95,
+      248.8,
+      655.9
+    ],
+    "text": "Head183 Minister of Public Relations and Public AffairsProgramme 01Operational Activities25,000,00010,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      192.65,
+      217.95,
+      221.73,
+      505.97
+    ],
+    "text": "Ministry of Private Transport ServicesRecurrent532,500,000Capital150,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      179.09,
+      169.95,
+      189.76,
+      251.61
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      138.05,
+      169.95,
+      166.72,
+      656.03
+    ],
+    "text": "Head184 Minister of Private Transport ServicesProgramme 01Operational Activities25,000,00010,000,000Programme 02Development Activities507,500,000140,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      139.11,
+      661.18,
+      364.79,
+      674.52
+    ],
+    "text": "39Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      422.81,
+      216.05,
+      453.09,
+      504.03
+    ],
+    "text": "Ministry of Telecommunications and Information TechnologyRecurrent25,000,000Capital10,000,000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      404.09,
+      168.05,
+      414.76,
+      249.71
+    ],
+    "text": "Made up as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      375.29,
+      168.05,
+      395.56,
+      654.15
+    ],
+    "text": "Head185 Minister of Telecommunications and Information TechnologyProgramme 01Operational Activities25,000,00010,000,000\u201d;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      225.07,
+      663.1,
+      451.1,
+      676.44
+    ],
+    "text": "Appropriation Act, No. 20 of 201040",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      443.19,
+      358.59,
+      452.89,
+      461.34
+    ],
+    "text": "Second Schedule \u2014 Estimate 2011",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      426.39,
+      267.51,
+      436.09,
+      552.73
+    ],
+    "text": "Expenditure of the Government, Authorised by Law and to be Charged on the Consolidated Fund",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      387.29,
+      174.51,
+      412.64,
+      633.76
+    ],
+    "text": "Spending Ministry/Department/Law under which expenditureHeadInstituteis allocatedExpenditure ProgrammeRecurrentCapitalTotalNo.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      364.17,
+      184.23,
+      381.31,
+      649.98
+    ],
+    "text": "1His Excellency the PresidentArticle 36 of the ConstitutionProgramme 01-1,470,000\u20141,470,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      340.77,
+      184.23,
+      357.91,
+      649.92
+    ],
+    "text": "4Judges of the Superior CourtsArticle 108 of the ConstitutionProgramme 01-28,000,000\u201428,000,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      317.37,
+      180.51,
+      334.51,
+      649.96
+    ],
+    "text": "16ParliamentArticle 65 of the ConstitutionProgramme 01-970,000\u2014970,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      293.97,
+      184.23,
+      311.11,
+      649.98
+    ],
+    "text": "6Public Service CommissionArticle 54 of the ConstitutionProgramme 01-3,660,000\u20143,660,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      270.57,
+      184.23,
+      287.71,
+      649.98
+    ],
+    "text": "7Judicial Service CommissionArticle 111 of the ConstitutionProgramme 01-1,227,000\u20141,227,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      247.17,
+      184.23,
+      264.31,
+      649.98
+    ],
+    "text": "8National Police CommissionArticle 155 of the ConstitutionProgramme 01-3,113,000\u20143,113,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      215.97,
+      180.51,
+      240.91,
+      649.98
+    ],
+    "text": "10Commission to InvestigateBribery or CorruptionProgramme 01-2,400,000\u20142,400,000Allegations of Bribery orCommission Act No. 19 of 1994Operational ActivitiesCorruption",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      192.57,
+      180.51,
+      209.71,
+      649.98
+    ],
+    "text": "20Department of ElectionsArticle 103 of the ConstitutionProgramme 01-3,098,000\u20143,098,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      169.17,
+      180.51,
+      186.31,
+      649.96
+    ],
+    "text": "21Auditor GeneralArticle 153 of the ConstitutionProgramme 01-742,000\u2014742,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      137.97,
+      180.51,
+      162.91,
+      649.96
+    ],
+    "text": "22Office of the ParliamentaryArticle 156 of the ConstitutionProgramme 01-780,000\u2014780,000Commissioner forOperational ActivitiesAdministration",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      139.13,
+      661.18,
+      365.23,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201041",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      434.13,
+      174.77,
+      451.87,
+      647.94
+    ],
+    "text": "111Ministry of HealthMedical Ordinance (Chp. 105)Programme 01-2,000\u20142,000Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      408.93,
+      174.77,
+      426.67,
+      647.96
+    ],
+    "text": "239Department of External ResourcesThe Bretton Woods Agreement ofProgramme 01-378,000,000460,000,000838,000,000No. 10, 1978 (Special Provisions)Operational Activities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      324.93,
+      174.77,
+      393.07,
+      648.04
+    ],
+    "text": "249Department of Treasury OperationsCeylon Development Loans ActProgramme 01-350,000,000,000465,000,000,000 815,000,000,000(Chp. 407), National DevelopmentOperational ActivitiesLoan Ordinance 1945 (Chp. 408),National Development Loan1950 Act (Chp. 409), RegisteredStock and Securities Ordinance1937 Act (as Amended) ForeignLoans Act (as Amended)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      7.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      232.53,
+      174.77,
+      317.47,
+      648.07
+    ],
+    "text": "253Department of PensionsWidow\u2019s and Orphan\u2019s PensionProgramme 01-19,630,000,000\u201419,630,000,000Fund Ordinance (Chp. 431)Operational ActivitiesNo. 01 of 1898 and subsequentamendments, Widowers andOrphans Pensions Act No. 24 of1983, Widowers and OrphansPension Scheme(Armed Forces)Act No. 18 of 1970, SchoolTeacher\u2019s Pensions Act (Chp. 432)No. 44 of 1953",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "42Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      442.49,
+      358.23,
+      453.16,
+      512.76
+    ],
+    "text": "THIRD SCHEDULE \u2014 ESTIMATE \u20142011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      423.29,
+      355.95,
+      433.96,
+      514.87
+    ],
+    "text": "Limits of Advance Account Activities \u20142011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      333.98,
+      172.23,
+      414.67,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      306.05,
+      174.51,
+      316.72,
+      638.82
+    ],
+    "text": "1His Excellency the President00101 Advances to Public Officers19,625,00012,000,00090,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      291.05,
+      174.51,
+      301.72,
+      654.03
+    ],
+    "text": "2Office of the Prime Minister00201 Advances to Public Officers4,710,0003,200,00022,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      276.05,
+      174.51,
+      286.72,
+      638.73
+    ],
+    "text": "3Secretariat for Special00301 Advances to Public Officers1,000,000300,0002,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      261.05,
+      193.95,
+      271.72,
+      292.27
+    ],
+    "text": "Functions (Senior Ministers)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      246.05,
+      172.23,
+      256.72,
+      638.74
+    ],
+    "text": "4Judges of the Superior Courts00401 Advances to Public Officers 1,727,0001,200,00010,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      231.05,
+      174.51,
+      241.72,
+      638.74
+    ],
+    "text": "5Office of the Cabinet of00501 Advances to Public Officers 1,256,0001,500,00015,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      216.05,
+      193.95,
+      226.72,
+      225.39
+    ],
+    "text": "Ministers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      201.05,
+      174.51,
+      211.72,
+      638.91
+    ],
+    "text": "6Public Service Commission00601 Advances to Public Officers5,588,0003,000,00032,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      186.05,
+      174.51,
+      196.72,
+      638.91
+    ],
+    "text": "7Judicial Service Commission00701 Advances to Public Officers3,140,0001,200,00017,500,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      171.05,
+      174.51,
+      181.72,
+      638.91
+    ],
+    "text": "8National Police Commission00801 Advances to Public Officers1,963,0001,600,00012,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      156.05,
+      174.51,
+      166.72,
+      638.73
+    ],
+    "text": "9Administrative Appeals00901 Advances to Public Officers1,963,000200,0003,500,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      141.05,
+      193.95,
+      151.72,
+      223.97
+    ],
+    "text": "Tribunal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201043",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      138.53,
+      168.05,
+      453.04,
+      637.01
+    ],
+    "text": "10Commission to Investigate01001 Advances to Public Officers7,850,0003,000,00035,000,000\u2014Allegations of Bribery orCorruption11Commission to Investigate01002Advancing monies to be used7,000,0001,500,0007,500,000\u2014Allegations of Bribery orin bribery detection as bribesCorruption12Office of the Finance01101 Advances to Public Officers4,553,0003,000,00022,000,000\u2014Commission13National Education01201 Advances to Public Officers1,570,000600,0006,000,000\u2014Commission14Human Rights Commission01301 Advances to Public Officers1,962,000292,0004,500,000\u2014of Sri Lanka15Department of Attorney01401 Advances to Public Officers19,625,00011,000,00088,000,000\u2014General16Department of Legal01501 Advances to Public Officers6,280,0002,000,00024,000,000\u2014Draftsman17Parliament01601 Advances to Public Officers29,045,00020,000,000165,000,000\u201418Office of the Leader of the01701 Advances to Public Officers1,178,000900,0005,000,000\u2014House of Parliament19Office of the Chief Govern-01801 Advances to Public Officers1,178,000950,0007,500,000\u2014ment Whip of Parliament20Office of the Leader of the01901 Advances to Public Officers1,570,0001,000,00010,000,000\u2014Opposition of Parliament 21Department of Elections02001 Advances to Public Officers23,550,00016,000,00080,000,000\u201422Auditor-General02101 Advances to Public Officers57,305,00037,000,000300,000,000\u201423Office of the Parliamentary02201 Advances to Public Officers785,000200,0004,000,000\u2014Commissionerfor Administration24Minister of Buddha Sasana10101 Advances to Public Officers5,495,0001,900,00019,000,000\u2014and Religious Affairs25Minister of Finance and10201 Advances to Public Officers21,980,00011,000,00090,000,000\u2014Planning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "44Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      139.61,
+      169.95,
+      368.56,
+      638.91
+    ],
+    "text": "26Minister of Defence10301 Advances to Public Officers48,670,00017,600,000200,000,000\u201427Minister of Economic10501 Advances to Public Officers90,275,00051,000,000358,000,000\u2014Development28Minister of Disaster10601 Advances to Public Officers3,500,0002,000,00010,000,000\u2014Management29Minister of Postal Services10801 Advances to Public Officers7,850,0002,400,00030,000,000\u201430Minister of Justice11001 Advances to Public Officers11,775,0006,000,00057,000,000\u201431Minister of Health11101 Advances to Public Officers829,250,000655,000,0002,064,000,000\u201432Minister of External Affairs11201 Advances to Public Officers27,475,00017,000,000110,000,000\u201433Minister of Transport11401 Advances to Public Officers10,205,0004,500,00029,500,000\u201434Minister of Petroleum11501 Advances to Public Officers4,710,0001,300,00015,000,000\u2014Industries35Minister of Co-operatives11601 Advances to Public Officers6,600,0003,800,00030,000,000\u2014and Internal Trade36Minister of Ports and11701 Advances to Public Officers8,100,0003,900,00025,000,000\u2014Highways37Minister of Agriculture11801 Advances to Public Officers15,700,0008,500,00080,000,000\u201438Minister of Power and11901 Advances to Public Officers5,800,0002,500,00031,000,000\u2014Energy39Minister of Child12001 Advances to Public Officers31,000,0006,000,00087,000,000\u2014Development and Women'sAffairs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201045",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      141.29,
+      168.05,
+      452.44,
+      637.01
+    ],
+    "text": "40Minister of Public12101 Advances to Public Officers28,260,00013,000,000105,000,000\u2014Administration andHome Affairs41Minister of Mass Media and12201 Advances to Public Officers7,850,0003,600,00030,000,000\u2014Information42Minister of Construction,12301 Advances to Public Officers19,625,0004,000,00070,000,000\u2014Engineering Services,Housing and CommonAmenities43Minister of Social Services12401 Advances to Public Officers 11,775,0003,300,00048,000,000\u201444Minister of Education12601 Advances to Public Officers721,500,000710,000,0002,300,000,000\u201445Minister of Labour and12701 Advances to Public Officers27,475,0008,500,00090,000,000\u2014Labour Relations46Minister of Traditional12801 Advances to Public Officers6,280,0002,200,00040,000,000\u2014Industries and SmallEnterprises Development47Minister of Local13001 Advances to Public Officers7,850,0003,900,00035,000,000\u2014Government and ProvincialCouncils48Minister of Technology13301 Advances to Public Officers24,335,0008,500,00050,000,000\u2014and Research49Minister of National13401 Advances to Public Officers9,420,0003,300,00051,000,000\u2014Languages andSocial Integration50Minister of Plantation13501 Advances to Public Officers6,600,0003,200,00028,000,000\u2014Industries51Minister of Sports13601 Advances to Public Officers7,065,0002,400,00024,000,000\u201452Minister of Indigenous13801 Advances to Public Officers10,990,0003,200,00034,000,000\u2014Medicine",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "46Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      140.69,
+      170.07,
+      367.96,
+      638.91
+    ],
+    "text": "53Minister of Fisheries and13901 Advances to Public Officers6,280,0004,000,00038,000,000\u2014Aquatic ResourcesDevelopment54Minister of Livestock and14001 Advances to Public Officers7,850,0004,000,00032,000,000\u2014Rural CommunityDevelopment55Minister of National Heritage14201 Advances to Public Officers23,550,00012,000,00080,000,000\u201456Minister of Parliamentary14301 Advances to Public Officers6,280,0001,500,00018,000,000\u2014Affairs57Minister of Resettlement14501 Advances to Public Officers7,850,0004,000,00026,000,000\u201458Minister of Industry and14901 Advances to Public Officers11,775,0008,000,00060,000,000\u2014Commerce59Minister of Irrigation and15201 Advances to Public Officers8,635,0007,000,00034,000,000\u2014Water ResourcesManagement60Minister of Land and Land15301 Advances to Public Officers19,625,0005,000,00044,000,000\u2014Development61Minister of Youth Affairs and15601 Advances to Public Officers23,550,0008,800,00085,000,000\u2014Skills Development62Minister of Environment16001 Advances to Public Officers10,205,0004,900,00045,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201047",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      141.77,
+      168.05,
+      452.2,
+      637.01
+    ],
+    "text": "63Minister of Water Supply16601 Advances to Public Officers4,710,0002,300,00022,000,000\u2014and Drainage64Minister of Higher Education17101 Advances to Public Officers3,925,0004,900,00017,000,000\u201465Minister of Public17301 Advances to Public Officers1,570,000900,0002,500,000\u2014Management Reforms66Minister of Rehabilitation17401 Advances to Public Officers2,355,0001,000,000 12,000,000\u2014and Prison Reforms67Minister of State Resources17501 Advances to Public Officers5,495,0001,100,00023,000,000\u2014and Enterprise Development68Minister of Civil Aviation17601 Advances to Public Officers4,565,0003,300,00020,000,000\u201469Minister of Culture and the17701 Advances to Public Officers1,000,000300,0002,000,000\u2014Arts70Minister of Coconut17801 Advances to Public Officers1,000,000300,0002,000,000\u2014Development and JanathaEstate Development71Minister of Agrarian Services17901 Advances to Public Officers1,000,000300,0002,000,000\u2014and Wildlife72Minister of Minor Export18001 Advances to Public Officers1,000,000300,0002,000,000\u2014Crop Promotion73Minister of Productivity18101 Advances to Public Officers1,000,000300,0002,000,000\u2014Promotion74Minister of Foreign18201 Advances to Public Officers1,000,000300,0002,000,000\u2014Employment PromotionWelfare75Minister of Public Relations18301 Advances to Public Officers1,000,000300,0002,000,000\u2014and Public Affairs76Minister of Private Transport18401 Advances to Public Officers1,000,000300,0002,000,000\u2014Service",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "48Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      140.81,
+      170.07,
+      368.08,
+      653.89
+    ],
+    "text": "77Minister of Telecommunication 18501 Advances to Public Officers1,000,000300,0002,000,000\u2014and Information Technology78Department of Buddhist20101 Advances to Public Officers17,270,0008,000,00060,000,000\u2014Affairs79Department of Muslim20201 Advances to Public Officers2,355,000900,00012,000,000\u2014Religious and CulturalAffairs80Department of Christian20301 Advances to Public Officers785,000500,0005,200,000\u2014Religious Affairs81Department of Hindu20401 Advances to Public Officers3,925,0001,300,00011,500,000\u2014Religious and CulturalAffairs82Department of Public20501 Advances to Public Officers4,600,0001,600,00019,000,000\u2014Trustee83Department of Cultural20601 Advances to Public Officers27,475,0007,800,00072,000,000\u2014Affairs84Department of Archaeology20701 Advances to Public Officers43,175,00020,000,000115,000,000\u201485Department of National20801 Advances to Public Officers9,420,0005,900,00047,000,000\u2014Museums86Department of National20901 Advances to Public Officers6,280,0002,200,00024,600,000\u2014Archives87Department of Information21001 Advances to Public Officers10,205,0005,200,00045,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201049",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      140.09,
+      168.05,
+      452.56,
+      655.78
+    ],
+    "text": "88Department of Government21101 Advances to Public Officers62,800,00037,000,000285,000,000\u2014 Printer89Department of Examinations21201 Advances to Public Officers21,195,00013,500,000113,000,000 \u201490Department of Educational21301 Advances to Public Officers6,280,0003,600,00028,000,000 \u2014Publications91Department of Educational21302 Printing, Publicity and2,900,000,0002,900,000,0004,000,000,000500,000,000Publications Sales of Publications92Department of Technical21501 Advances to Public Officers65,700,00042,000,000280,000,000Education and Training93Department of Social21601 Advances to Public Officers21,980,00011,200,00098,000,000 \u2014Services94Department of Probation21701 Advances to Public Officers14,915,0006,200,00063,000,000 \u2014and Child Care Services95Department of Commissioner21801 Advances to Public Officers17,800,0009,000,00082,000,000 \u2014General of Samurdhi96Department of Sports21901 Advances to Public Officers7,850,0003,900,00033,000,000 \u2014Development97Department of Ayurveda22001 Advances to Public Officers47,100,00017,000,000155,000,000 \u201498Department of Labour22101 Advances to Public Officers84,780,00046,000,000160,000,000 \u201499Sri Lanka Army22201 Advances to Public Officers 2,134,500,0001,650,000,0005,000,000,000 \u2014100 Sri Lanka Navy22301 Advances to Public Officers593,890,000210,000,0001,000,000,000 \u2014101 Sri Lanka Navy22302 Stores Advance Account386,000,000400,000,000380,000,000 \u2014 (Explosive items)102 Sri Lanka Air Force22401 Advances to Public Officers549,500,000450,000,0001,550,000,000 \u2014103 Department of Police22501 Advances to Public Officers 1,686,297,0001,100,000,0004,500,000,000 \u2014104 Department of Immigration22601 Advances to Public Officers23,550,00018,000,000142,000,000 \u2014and Emigration105 Department of Registration22701 Advances to Public Officers21,195,00014,000,00080,000,000 \u2014of Persons106 Courts Administration22801 Advances to Public Officers176,625,000160,000,000735,000,000 \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "50Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 50,
+    "bbox": [
+      138.89,
+      170.07,
+      368.32,
+      655.38
+    ],
+    "text": "107 Department of Debt23101 Advances to Public Officers785,000230,0003,400,000\u2014Conciliation Board108 Department of Prisons23201 Advances to Public Officers 125,600,00095,000,000422,000,000\u2014109 Department of Prisons23202 Prisons Industrial and120,000,000135,000,00030,000,00012,000,000Agricultural undertakings110 Department of Government23301 Advances to Public Officers7,850,0003,200,00034,000,000\u2014Analyst111 Registrar of Supreme Court23401 Advances to Public Officers10,205,0006,000,00042,000,000\u2014112 Law Commission of23501 Advances to Public Officers1,570,000300,0003,000,000\u2014Sri Lanka113 Department of Official23601 Advances to Public Officers11,775,0003,000,00035,000,000\u2014Languages114 Department of National23701 Advances to Public Officers7,065,0002,600,00030,000,000\u2014Planning115 Department of Fiscal Policy23801 Advances to Public Officers3,140,0001,200,0008,000,000\u2014116 Department of External23901 Advances to Public Officers5,800,000 2,500,00032,000,000\u2014Resources117 Department of National24001 Advances to Public Officers9,420,0003,500,00041,000,000\u2014Budget118 Department of Public24101 Advances to Public Officers4,300,0001,300,00018,000,000\u2014Enterprises",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 51,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201051",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 51,
+    "bbox": [
+      139.97,
+      168.05,
+      451.48,
+      651.97
+    ],
+    "text": "119 Department of Management24201 Advances to Public Officers5,100,0002,000,00021,000,000 \u2014Services120 Department of Development24301 Advances to Public Officers3,100,000650,00021,000,000\u2014Finance121 Department of Trade Tariff24401 Advances to Public Officers2,355,000 1,800,00014,000,000\u2014and Investment Policy122 Department of Public24501 Advances to Public Officers5,100,000 1,900,00023,000,000\u2014Finance 123 Department of Inland24601 Advances to Public Officers65,155,00047,000,000295,000,000\u2014Revenue124 Sri Lanka Customs24701 Advances to Public Officers67,510,00035,000,000368,000,000\u2014125 Sri Lanka Customs24702 Expenses in connection with5,000,0001,000,00015,000,000\u2014 Seized and Forfeited Goods 126 Department of Excise24801 Advances to Public Officers41,605,00020,500,000190,000,000\u2014127 Department of Treasury24901 Advances to Public Officers5,588,0002,800,00034,000,000\u2014Operations128 Department of State Accounts25001 Advances to Public Officers 7,065,0002,000,00030,000,000\u2014 129 Department of State Accounts25002 Advances for Payments on4,600,0004,600,0003,500,000\u2014 behalf of other Governments130 Department of State Accounts25003 Miscellaneous Advances50,000,00030,000,000620,000,000\u2014131 Department of Valuation25101 Advances to Public Officers12,560,00010,000,00028,000,000\u2014132 Department of Census and25201 Advances to Public Officers43,175,00020,500,000194,000,000\u2014Statistics133 Department of Pensions25301 Advances to Public Officers31,400,00013,500,000156,000,000\u2014134 Department of Registrar25401 Advances to Public Officers62,800,00029,000,000201,000,000\u2014 General135 District Secretariat, Colombo25501 Advances to Public Officers47,100,00034,000,000180,000,000\u2014136 District Secretariat, Gampaha25601 Advances to Public Officers54,950,00064,000,000 234,000,000\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800000190734863,
+      8.0
+    ]
+  },
+  {
+    "page_number": 52,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "52Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 52,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 52,
+    "bbox": [
+      138.65,
+      169.95,
+      367.96,
+      653.88
+    ],
+    "text": "137 District Secretariat, Kalutara25701 Advances to Public Officers58,875,00035,000,000 270,000,000\u2014138 District Secretariat, Kandy25801 Advances to Public Officers54,950,00037,000,000250,000,000\u2014139 District Secretariat, Matale25901 Advances to Public Officers31,400,00023,000,000150,000,000\u2014140 District Secretariat,26001 Advances to Public Officers35,325,00016,000,000115,000,000\u2014Nuwara-Eliya 141 District Secretariat, Galle26101 Advances to Public Officers47,100,00044,000,000205,000,000\u2014142 District Secretariat, Matara26201 Advances to Public Officers39,250,00035,000,000180,000,000\u2014 143 District Secretariat,26301 Advances to Public Officers35,325,000 23,000,000 147,000,000\u2014Hambantota144 District Secretariat/Kachcheri,26401 Advances to Public Officers39,250,00023,000,000110,000,000\u2014Jaffna145 District Secretariat/Kachcheri,26501 Advances to Public Officers11,775,0006,000,00050,000,000\u2014Mannar146 District Secretariat/Kachcheri,26601 Advances to Public Officers10,600,0007,500,00042,000,000\u2014Vavuniya 147 District Secretariat/Kachcheri,26701 Advances to Public Officers10,676,0002,800,00038,000,000\u2014Mullaitivu148 District Secretariat/Kachcheri,26801 Advances to Public Officers10,990,000 3,000,00044,000,000\u2014Killinochchi149 District Secretariat/ Kachcheri, 26901 Advances to Public Officers 34,540,00019,000,00067,000,000\u2014Batticaloa150 District Secretariat, Ampara27001 Advances to Public Officers47,100,00035,000,000188,000,000\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201053",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      140.33,
+      168.05,
+      452.56,
+      637.03
+    ],
+    "text": "151 District Secretariat/Kachcheri,27101 Advances to Public Officers29,830,00012,000,000105,000,000\u2014Trincomalee152 District Secretariat, Kurunegala 27201 Advances to Public Officers86,350,00065,000,000 330,000,000\u2014153 District Secretariat, Puttalam27301 Advances to Public Officers41,300,00027,000,000180,000,000\u2014154 District Secretariat,27401 Advances to Public Officers60,000,00032,000,000210,000,000\u2014Anuradhapura155 District Secretariat,27501 Advances to Public Officers23,550,00013,500,000103,000,000\u2014Polonnaruwa156 District Secretariat, Badulla27601 Advances to Public Officers36,110,00030,000,000145,000,000\u2014157 District Secretariat,27701 Advances to Public Officers31,400,00020,000,000114,000,000\u2014Monaragala158 District Secretariat, Ratnapura27801 Advances to Public Officers41,605,00027,000,000165,000,000\u2014159 District Secretariat, Kegalle27901 Advances to Public Officers47,100,00032,500,000165,000,000\u2014160 Department of Foreign Aid28001 Advances to Public Officers4,710,0002,000,00018,000,000\u2014and Budget Monitoring161 Department of Agrarian28101 Advances to Public Officers300,000,000130,000,000830,000,000\u2014Development162 Department of Irrigation28201 Advances to Public Officers141,300,000 103,000,000480,000,000\u2014163 Department of Forests28301 Advances to Public Officers61,230,00040,000,000328,000,000\u2014164 Department of Wild Life28401 Advances to Public Officers39,250,00024,000,000120,000,000\u2014 Conservation165 Department of Agriculture28501 Advances to Public Officers 149,150,000100,399,000500,000,000\u2014166 Department of Agriculture28502 Maintenance of Agricultural300,000,000270,000,00050,000,000\u2014 Farms and Seed Sales167 Department of Land28601 Advances to Public Officers20,410,00010,000,00088,000,000\u2014Commissioner General168 Department of Land28701 Advances to Public Officers13,000,0004,900,00035,000,000\u2014Settlement169 Department of Surveyor28801 Advances to Public Officers125,600,000100,000,000485,000,000\u2014General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "54Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      139.61,
+      169.95,
+      368.56,
+      639.87
+    ],
+    "text": "170 Department of Export28901 Advances to Public Officers25,120,00018,000,000116,000,000\u2014Agriculture171 Department of Fisheries and29001 Advances to Public Officers22,000,000 12,000,000112,000,000\u2014Aquatic Resources172 Department of Coast29101 Advances to Public Officers19,625,0007,000,000 69,000,000\u2014Conservation173 Department of Animal29201 Advances to Public Officers27,475,000 13,000,000105,000,000\u2014Production and Health174 Department of Rubber29301 Advances to Public Officers18,055,00010,000,00052,000,000\u2014Development175 Department of National29401 Advances to Public Officers13,345,000 7,500,00060,000,000\u2014Zoological Gardens176 Department of Commerce29501 Advances to Public Officers3,925,0002,000,000 20,000,000\u2014177 Department of Import and29601 Advances to Public Officers4,500,000 2,000,00020,000,000\u2014Export178 Department of the Registrar29701 Advances to Public Officers3,600,0002,000,000 30,000,000\u2014of Companies179 Department of Measurement29801 Advances to Public Officers9,420,0003,000,00036,000,000\u2014Units, Standards andServices180 National Intellectual Property29901 Advances to Public Officers3,140,0001,300,00015,000,000\u2014Office of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      139.15,
+      661.18,
+      365.35,
+      674.52
+    ],
+    "text": "Appropriation Act, No. 20 of 201055",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      140.93,
+      168.05,
+      451.6,
+      654.81
+    ],
+    "text": "181 Department of Food30001 Advances to Public Officers7,850,0003,400,00046,000,000\u2014Commissioner182 Department of Co-operative30101 Advances to Public Officers4,710,0002,000,00022,000,000\u2014Development (Registrarof Co-operative Societies)183 Co-operative Employees30201 Advances to Public Officers1,570,000300,0006,000,000\u2014Commission 184 Department of Textile30301 Advances to Public Officers7,040,0003,200,00032,000,000\u2014Industries185 Department of Meteorology30401 Advances to Public Officers10,990,0005,900,00050,000,000\u2014186 Department of Up-Country30501 Advances to Public Officers2,355,000800,0008,000,000\u2014Peasantry Rehabilitation187 Department of Sri Lanka30601 Advances to Public Officers529,090,000300,000,0002,100,000,000\u2014Railways188 Department of Sri Lanka30602 Railway Stores Advance1,000,000,000800,000,000 4,838,000,000500,000,000Railways Account189 Department of Motor Traffic30701 Advances to Public Officers24,000,00015,000,000110,000,000\u2014190 Department of Posts30801 Advances to Public Officers557,350,000525,000,0001,997,000,000\u2014191 Department of Buildings30901 Advances to Public Officers18,055,00012,000,00095,000,000\u2014192 Government Factory31001 Advances to Public Officers27,475,00018,000,000122,000,000\u2014193 Government Factory31002 Government Factory Stores120,000,000120,000,00010,000,000 15,000,000 Advance Account194 Government Factory31003Government Factory Work260,000,000280,000,000180,000,000 2,000,000 Done Advance Account195 Department of National31101 Advances to Public Officers 14,130,0007,400,000106,000,000\u2014 Physical Planning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      225.19,
+      663.1,
+      451.15,
+      676.44
+    ],
+    "text": "56Appropriation Act, No. 20 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      372.38,
+      172.23,
+      453.07,
+      653.92
+    ],
+    "text": "IIIIIIIVVSRLMinistry / DepartmentItemActivities of the GovernmentMaximumMinimumMaximumMaximumNo.No.Limits ofLimits ofLimits ofLimits ofExpenditureReceipts to beDebit BalancesLiabilitiesof ActivitiesCredited to theof Activitiesof Activities of theAccounts ofof theof theGovernmentActivities ofGovernmentGovernmentthe GovernmentRs.Rs.Rs.Rs.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.84856653213501,
+      8.0
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      268.25,
+      170.07,
+      368.92,
+      638.93
+    ],
+    "text": "196 Department of Civil Security32001 Advances to Public Officers141,300,00050,000,000275,000,000\u2014197 Department of National32201 Advances to Public Officers15,700,0008,300,00057,000,000\u2014Botanical Gardens198 Department of Legal Affairs32301 Advances to Public Officers392,000100,0002,000,000\u2014199 Department of Management32401 Advances to Public Officers2,000,0001,200,00011,000,000\u2014Audit200 Department of Community32601 Advances to Public Officers2,355,0002,000,00017,000,000\u2014Based Correction201 Department of Land Use32701 Advances to Public Officers14,130,0006,500,00042,803,000\u2014Policy Planning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      247.73,
+      176.67,
+      258.88,
+      661.01
+    ],
+    "text": "Total17,077,921,000 13,070,921,000 47,169,503,000 1,029,000,000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      193.89,
+      165.55,
+      383.85,
+      190.78
+    ],
+    "text": "11Default Taxes (Special Provisions)Act, No. 16 of 2010",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      143.85,
+      630.38,
+      455.85,
+      670.97
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
