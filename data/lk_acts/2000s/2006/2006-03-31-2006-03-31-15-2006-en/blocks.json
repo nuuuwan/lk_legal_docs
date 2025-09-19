@@ -1,0 +1,971 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      49.63,
+      135.18,
+      315.01,
+      192.79
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.55,
+      249.62,
+      274.27,
+      285.81
+    ],
+    "text": "BANKING (AMENDMENT )ACT, No. 15 OF 2006",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.79,
+      369.57,
+      255.66,
+      381.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      116.35,
+      332.16,
+      248.47,
+      346.01
+    ],
+    "text": "[Certified on 31st March, 2006]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.07,
+      480.58,
+      274.63,
+      491.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.79,
+      490.18,
+      285.79,
+      500.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      512.64,
+      338.18,
+      526.49
+    ],
+    "text": "Price : Rs. 29.75Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.47,
+      425.55,
+      324.32,
+      451.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of March 31, 2006",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.87,
+      20.55,
+      267.39,
+      33.89
+    ],
+    "text": "1Banking (Amendment) Act, No. 15 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.27,
+      56.07,
+      210.61,
+      69.41
+    ],
+    "text": "[Certified on 31st March, 2006]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      78.87,
+      99.13,
+      92.21
+    ],
+    "text": "L.D.\u2014O. 14/2006",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.27,
+      101.67,
+      243.42,
+      115.01
+    ],
+    "text": "AN ACT TO AMEND THE BANKING ACT, NO. 30 OF 1988",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      124.47,
+      266.44,
+      149.21
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      158.67,
+      266.54,
+      183.41
+    ],
+    "text": "1. This Act may be cited as the Banking (Amendment)Act, No. 15 of 2006.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      192.87,
+      266.53,
+      240.41
+    ],
+    "text": "2. Section 19 of the Banking Act, No. 30 of 1988(hereinafter referred to as \u201cthe principal enactment\u201d) is herebyamended by the repeal of subsection (3)(a) of that sectionand the substitution therefor of the following :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.35,
+      249.87,
+      266.52,
+      308.81
+    ],
+    "text": "\u201c(3) (a) The Monetary Board may, vary from timeto time the amounts specified as the minimumamounts required to be maintained by a licensedcommercial bank as equity capital under subsection(1) of this section, having regard to \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.35,
+      318.27,
+      266.44,
+      365.81
+    ],
+    "text": "(i)the deposit liabilities or to the total liabilitiesincluding contingent liabilities or to the totalassets or to any specified category of assets,of a licensed commercial bank; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.35,
+      375.27,
+      266.4,
+      411.41
+    ],
+    "text": "(ii)the viability and stability of the bankingsystem and the interest of the nationaleconomy.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      420.87,
+      266.35,
+      468.41
+    ],
+    "text": "3. Section 46 of the principal enactment is herebyamended in subsection (1) thereof by the substitution forclause (c) of subparagraph (ii) of paragraph (d) thereof, thefollowing new clause:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      477.87,
+      266.28,
+      525.89
+    ],
+    "text": "\u201c(c) companies in each of which an individual orcompany as the case may be, has either directly,indirectly or beneficially a substantial interest orsignificant management interest.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      161.02,
+      314.37,
+      171.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      194.5,
+      330.82,
+      233.97
+    ],
+    "text": "Amendment ofsection 19 of Act, No.30of 1988.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      422.5,
+      336.12,
+      461.97
+    ],
+    "text": "Amendment ofsection 46 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      299.15,
+      33.89
+    ],
+    "text": "2Banking (Amendment) Act, No. 15 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94.61,
+      56.55,
+      334.71,
+      81.89
+    ],
+    "text": "4. Section 76G of the principal enactment is herebyrepealed and the following section substituted therefor :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.61,
+      92.55,
+      334.91,
+      201.89
+    ],
+    "text": "76G. (1) Subject to the provisions ofsubsection (3), every licensed specialized bankshall at all times maintain an equity capital inan amount not less than fifty million rupees orsuch other amount as the Monetary Board may,with the concurrence of the Minister, from timeto time determine, having regard to the viabilityand stability of the banking system and theinterest of the national economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.61,
+      212.55,
+      334.67,
+      249.89
+    ],
+    "text": "(2) For the purpose of this section \u201cequitycapital\u201d shall have the same meaning as isassigned to it in subsection (2) of section 19.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.61,
+      260.55,
+      334.85,
+      333.89
+    ],
+    "text": "(3) (a) The Monetary Board may, vary fromtime to time the amounts specified as theminimum amounts required to be maintainedby a licensed specialized bank as equity capitalunder subsection (1) of this section, havingregard to -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166.61,
+      344.55,
+      334.72,
+      405.89
+    ],
+    "text": "(i)the deposit liabilities or to the totalliabilities including contingentliabilities or to the total assets or toany specified category of assets, of alicensed specialized bank; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163.61,
+      416.55,
+      334.65,
+      453.89
+    ],
+    "text": "(ii)the viability and stability of thebanking system and the interest of thenational economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.61,
+      464.55,
+      334.84,
+      525.89
+    ],
+    "text": "(b) For the purpose of computing theminimum required equity capital, when suchamount is prescribed with reference to liabilitiesor assets both capital and liabilities or assetsshall be of such kind and computed in such",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      56.98,
+      137.71,
+      153.09
+    ],
+    "text": "Replacement ofsection 76Gof theprincipalenactment.\u201cEquitycapital to bemaintainedby a licensedspecializedbank.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.87,
+      20.55,
+      267.39,
+      33.89
+    ],
+    "text": "3Banking (Amendment) Act, No. 15 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      56.55,
+      266.42,
+      93.89
+    ],
+    "text": "manner as the Monetary Board may from timeto time determine having regard to the interestof national economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      104.55,
+      266.39,
+      165.89
+    ],
+    "text": "(c) The Monetary Board shall, in writing,communicate to all licensed specialized banksany variation made by it in respect of the equitycapital required to be maintained by a licensedspecialized bank.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      176.55,
+      266.45,
+      261.89
+    ],
+    "text": "(d) Where any licensed specialized bank isrequired by such variation to augment its equitycapital, it shall upon application to theMonetary Board, be afforded a period of twelvemonths, or such longer period as may be grantedby the Monetary Board, in which to complywith that requirement.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      272.55,
+      266.48,
+      345.89
+    ],
+    "text": "(4) In the case of licensed specialized bankincorporated or established in Sri Lanka by orunder any written law, the limit of foreignparticipation in the capital of such bank, shallat no time exceed the limit, established fromtime to time, by the Monetary Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      356.55,
+      266.32,
+      393.89
+    ],
+    "text": "(5) A licensed specialized bank shall notreduce its equity capital without the prior writtenapproval of the Monetary Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      404.55,
+      266.47,
+      465.89
+    ],
+    "text": "(6) A licensed specialized bank shall notcreate any charge upon any unpaid capital ofsuch bank and any such charge created incontravention of these provisions shall be nulland void.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.35,
+      476.55,
+      266.5,
+      525.89
+    ],
+    "text": "(7) (a) Every licensed specialized bank shallat all times maintain a capital adequacy ratioas may be determined by the Monetary Board,which shall in determining such ratio to be",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      299.15,
+      33.89
+    ],
+    "text": "4Banking (Amendment) Act, No. 15 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.65,
+      57.27,
+      333.81,
+      96.77
+    ],
+    "text": "maintained, as far as practicable adopt theguidelines for capital adequacy set out by Bankfor International Settlements in Basle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.65,
+      109.71,
+      333.75,
+      240.89
+    ],
+    "text": "(b) Any variation in the capital adequacyratio referred to in paragraph (a) shall becommunicated to every licensed specializedbank by the Monetary Board in writing,provided that every licensed specialized bankwhich is required by such variation to augmentits capital, shall be afforded a period of twelvemonths or such longer period as may be grantedby the Monetary Board, in which to complywith such requirement.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.65,
+      253.83,
+      333.84,
+      332.57
+    ],
+    "text": "(8) Where the equity capital or capital fundsof a licensed specialized bank have becomedeficient in terms of the provisions of thepreceding subsections, the Monetary Boardmay, grant a reasonable period of time for therectification of such deficiency.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      345.51,
+      333.86,
+      398.09
+    ],
+    "text": "5. Nothing contained in section 76G of the principalenactment shall be construed as being applicable to aRegional Development Bank established under the RegionalDevelopment Banks Act, No. 6 of 1997:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      410.91,
+      333.83,
+      463.61
+    ],
+    "text": "Provided however the Monetary Board may from time totime determine the applicable limits of the capitalrequirements in relation to such Regional DevelopmentBanks.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      476.43,
+      333.9,
+      516.05
+    ],
+    "text": "6.Section 76J of the principal enactment as amendedby Act, No. 2 of 2005 is hereby further amended in subsection(1) thereof, as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      344.98,
+      68.11,
+      413.25
+    ],
+    "text": "Provisions ofsection 76Gnot to beapplicable toa RegionalDevelopmentBank.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      477.58,
+      68.94,
+      526.65
+    ],
+    "text": "Amendmentofsection 76J ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.87,
+      20.55,
+      267.39,
+      33.89
+    ],
+    "text": "5Banking (Amendment) Act, No. 15 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      57.03,
+      266.39,
+      82.97
+    ],
+    "text": "(1) by the repeal of sub-paragraph (ii) (b) (hh) of paragraph(q) ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      95.07,
+      266.38,
+      133.85
+    ],
+    "text": "(2) by the insertion immediately after clause (b) of sub-paragraph (ii) of paragraph (q) thereof, of thefollowing :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.35,
+      145.83,
+      266.47,
+      210.05
+    ],
+    "text": "\u201c(c) companies in each of which an individual ora company as the case may be, has eitherdirectly, indirectly or beneficially asubstantial interest or significantmanagement interest.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      220.95,
+      266.44,
+      318.29
+    ],
+    "text": "7. Any determination, decision or direction made orissued at any time prior to the coming into operation of thisAct, under section 19 or section 76G of the principal enactmentshall be deemed for all purposes to have been validly madeor issued in terms of sections 19 or 76G respectively of theprincipal enactment as amended by this Act, and any actiontaken under any such determination, decision or directionshall accordingly be deemed to be valid.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      328.95,
+      266.11,
+      354.29
+    ],
+    "text": "8. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      223.18,
+      324.84,
+      243.45
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      331.54,
+      326.29,
+      390.21
+    ],
+    "text": "Sinhala texttoprevail incaseofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      26.35,
+      486.58,
+      338.34,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

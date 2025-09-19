@@ -1,0 +1,3011 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      89.71,
+      484.06,
+      277.03,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.27,
+      499.66,
+      287.47,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      27.31,
+      516.08,
+      339.38,
+      528.55
+    ],
+    "text": "Price : Rs. 12.25 Postage : Rs. 7.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.31,
+      128.14,
+      328.44,
+      188.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.75,
+      438.51,
+      322.01,
+      464.45
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 07, 2005",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.19,
+      407.38,
+      219.7,
+      418.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.19,
+      287.62,
+      219.7,
+      298.29
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      124.03,
+      325.56,
+      241.82,
+      339.41
+    ],
+    "text": "[Certified on 3rd October, 2005]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.99,
+      364.53,
+      251.68,
+      376.74
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.11,
+      200.38,
+      218.62,
+      211.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      34.27,
+      228.9,
+      330.51,
+      267.67
+    ],
+    "text": "PREVENTION OF DOMESTIC VIOLENCEACT, No. 34 OF 2005",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.99,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 20051",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.55,
+      49.83,
+      223.14,
+      63.17
+    ],
+    "text": "[Certified on 3rd October, 2005]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      71.91,
+      108.12,
+      85.25
+    ],
+    "text": "L.D.\u2014 O. 8/2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      93.87,
+      278.34,
+      107.21
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE PREVENTION OF ANY ACT OF DOMESTIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      104.91,
+      278.22,
+      118.25
+    ],
+    "text": "VIOLENCE AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.07,
+      118.99,
+      172.51,
+      128.33
+    ],
+    "text": "THERETO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      135.87,
+      278.41,
+      160.25
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      168.87,
+      278.39,
+      193.25
+    ],
+    "text": "1.This Act may be cited as the Prevention of DomesticViolence Act, No. 34 of 2005.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      201.87,
+      278.54,
+      259.25
+    ],
+    "text": "2.(1) A person, in respect of whom an act of domesticviolence has been, is, or is likely to be, committed (hereinafterreferred to as \u201can aggrieved person\u201d) may make an applicationto the Magistrate\u2019s Court for a Protection Order, for theprevention of such act of domestic violence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      267.87,
+      278.56,
+      281.21
+    ],
+    "text": "(2)An application under subsection (1) may be made\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.07,
+      287.91,
+      173.98,
+      301.25
+    ],
+    "text": "(a)by an aggrieved person ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.07,
+      307.83,
+      278.46,
+      332.21
+    ],
+    "text": "(b)where the aggrieved person is a child, on behalf ofsuch child by \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.35,
+      340.83,
+      227.39,
+      354.17
+    ],
+    "text": "(i)a parent or guardian of the child ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.35,
+      360.87,
+      244.64,
+      374.21
+    ],
+    "text": "(ii)a person with whom the child resides;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.35,
+      380.91,
+      278.53,
+      427.25
+    ],
+    "text": "(iii)a person authorised in writing by the NationalChild Protection Authority established underthe National Child Protection Authority Act,No. 50 of 1998; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.79,
+      435.87,
+      278.15,
+      449.21
+    ],
+    "text": "(c)by a police officer on behalf of an aggrieved person.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      457.83,
+      278.75,
+      526.85
+    ],
+    "text": "(3)An application under subsection (1) shall be madein duplicate and shall be substantially in the form set out inSchedule II hereto and shall be made to the Magistrate\u2019s Courtwithin whose jurisdiction the aggrieved person or the relevantperson temporarily or permanently resides, or the act ofdomestic violence has been or is likely to be committed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      137.38,
+      326.37,
+      148.05
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      170.26,
+      343.62,
+      200.13
+    ],
+    "text": "An aggrievedperson to makean application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "2Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      50.07,
+      345.79,
+      85.97
+    ],
+    "text": "(4)Affidavits of any person who has knowledge of theaforesaid acts of domestic violence may be attached affidavitsto the application, in support thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      95.31,
+      345.91,
+      131.21
+    ],
+    "text": "3.Upon an application being made in accordance withthe provisions of this Act, the Court shall forthwith considerthe application.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      140.43,
+      345.8,
+      165.17
+    ],
+    "text": "4.(1) Upon the consideration of the application and theaffidavits, if any, the court shall \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.37,
+      174.39,
+      345.83,
+      278.09
+    ],
+    "text": "(a)where it is satisfied that it is necessary to issue anInterim Protection Order (hereinafter referred to asan \u201cInterim Order\u201d), until the conclusion of theinquiry into the application, forthwith issue anInterim Order having regard to the provisions ofsubsection (2), and shall also make an Order for theholding of an inquiry in respect of such applicationon a date not later than fourteen days from the dateof the application; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.37,
+      287.31,
+      345.84,
+      345.89
+    ],
+    "text": "(b)where it is satisfied that it is not necessary to issuean Interim Order in the circumstances, make an Orderfor the holding of an inquiry in respect of suchapplication, on a date not later than fourteen daysfrom the date of the application :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      355.11,
+      345.94,
+      402.41
+    ],
+    "text": "Provided however, that the court may, where it considers itnecessary, examine on oath prior to the issue of such InterimOrder, any person referred to in subsection (2) of section 2 or anyother material witness, as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      411.63,
+      345.77,
+      458.93
+    ],
+    "text": "(2)In determining the issue of an Interim Order thecourt shall take into consideration the urgent need to preventthe commission of any act of domestic violence, and theneed to ensure the safety of the aggrieved person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      468.15,
+      345.89,
+      527.21
+    ],
+    "text": "(3)Upon the issuing of an Order under paragraph (a) orparagraph (b) of subsection (1), as the case may be, the courtshall cause Notice to be issued on the respondent, to showcause on the date specified therein, why a Protection Ordershould not be issued against him.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      96.7,
+      88.34,
+      116.97
+    ],
+    "text": "Considering theapplication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      141.46,
+      92.87,
+      190.53
+    ],
+    "text": "Procedure forthe issue orrefusal of anInterimProtection Order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.99,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 20053",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.31,
+      50.07,
+      279.55,
+      153.77
+    ],
+    "text": "(4)An Interim Order made under paragraph (a) ofsubsection (1), together with the Order made under paragraph(a) or paragraph (b) of subsection (1) as the case may be, shallbe served on the respondent along with the Notice issuedunder subsection (3). Where service of such documentscannot, by the exercise of due diligence be effected by thefiscal or other authorized officer, such documents shall bedeemed to be served on such respondent if it is posted in aconspicuous place at his usual place of residence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.31,
+      163.11,
+      159.21,
+      177.05
+    ],
+    "text": "5.(1) An Interim Order\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.15,
+      185.67,
+      279.44,
+      221.57
+    ],
+    "text": "(a)shall, pending the issue of a Protection Orderprohibit the respondent from committing or causingthe commission of any act of domestic violence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.15,
+      230.91,
+      279.58,
+      334.61
+    ],
+    "text": "(b)may, contain any other prohibition or conditionspecified in sub-paragraphs (a) to (l) of subsection(1) of section 11 where the Court is satisfied, that byreason of the circumstances of the case, and uponevidence given on oath by the aggrieved person orany other person on behalf of the aggrieved person,or any material witness, that such prohibition orcondition is necessary to prevent any act of domesticviolence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.31,
+      343.83,
+      279.16,
+      368.45
+    ],
+    "text": "(2) Where an Interim Order has been made, the Court maywhere it is satisfied that it is\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.15,
+      377.79,
+      279.52,
+      424.97
+    ],
+    "text": "(a)in the interest of the parties to do so, order a socialworker or a family counselor to counsel the partiesand order the parties to attend such counselingsessions.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.15,
+      434.31,
+      279.51,
+      527.45
+    ],
+    "text": "(b)reasonably necessary to protect and provide for theimmediate safety of the aggrieved person, order asocial worker, family counselor, probation officer,family health worker or child rights promotionofficer to monitor the observance of the Order andsubmit to Court a report on the date specified for theinquiry into the application in terms of subsection(1) of section 4.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      166.42,
+      339.86,
+      177.09
+    ],
+    "text": "Interim Order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "4Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      49.95,
+      345.74,
+      85.49
+    ],
+    "text": "(3)An Interim Order shall remain in force until aProtection Order is issued by the court or such Interim Orderis vacated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      94.35,
+      345.83,
+      174.29
+    ],
+    "text": "6.(1) Where, on the date specified in the Notice issuedunder subsection (3) of section 4, the respondent is present inCourt, the Court shall proceed to inquire into the application,and consider any evidence previously received along withsuch further affidavits or oral evidence as it may deemnecessary which shall form part of the record of theproceedings.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      183.15,
+      345.83,
+      218.69
+    ],
+    "text": "(2)Where the respondent is not represented by a legalrepresentative, the Court may of its own accord or on therequest of the aggrieved person, order \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.37,
+      227.55,
+      345.75,
+      263.09
+    ],
+    "text": "(a)that the examination of witnesses including theaggrieved person shall not be conducted by therespondent ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.37,
+      269.79,
+      345.74,
+      305.33
+    ],
+    "text": "(b)the respondent to state the questions to Court so asto enable the Court to repeat the question accuratelyto the aggrieved person or witness.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      314.19,
+      346.04,
+      349.73
+    ],
+    "text": "(3)After the inquiry where the Court is satisfied that it isnecessary to issue a Protection Order, issue a Protection Orderhaving regard to the provisions of section 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      358.59,
+      345.84,
+      416.33
+    ],
+    "text": "(4)Where on the date specified in the Notice issuedunder subsection (3) of section 4 the respondent appears anddoes not admit to the act or acts of violence, but does notobject to the issue of a Protection Order, the court shall issuea Protection Order having regard to the provisions of section 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      425.19,
+      345.9,
+      527.69
+    ],
+    "text": "7.(1) Where on the date specified in the Notice issuedunder subsection (3) of section 4 the respondent does notappear and the Court is satisfied that the Notice has beenserved on the respondent, the court shall proceed to considerthe application on the evidence previously received and suchfurther evidence by way of affidavits or any oral evidencerecorded in the absence of the respondent as it may deemnecessary, which shall form part of the record of theproceedings.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      427.06,
+      92.89,
+      466.53
+    ],
+    "text": "Issue ofprotection orderwhen respondentdoes not appear.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      97.54,
+      91.31,
+      146.61
+    ],
+    "text": "Issue ofProtection Orderwhere therespondentappears.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.99,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 20055",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      49.95,
+      278.44,
+      96.53
+    ],
+    "text": "(2)The Court may upon being satisfied on aconsideration of the evidence before it, that it is necessary toissue a Protection Order, issue a Protection Order having regardto the provisions of section 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      105.39,
+      278.47,
+      152.09
+    ],
+    "text": "8.In determining whether a Protection Order should beissued or not, the court shall take into consideration the needto prevent the commission of any act of domestic violenceand the need to ensure the safety of the aggrieved person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      160.95,
+      278.13,
+      185.33
+    ],
+    "text": "9.Upon the issuing of a Protection Order the Court shallforthwith cause \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.07,
+      194.19,
+      262.71,
+      207.53
+    ],
+    "text": "(a)such order to be served on the respondent; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.07,
+      216.39,
+      278.26,
+      229.73
+    ],
+    "text": "(b)certified copies of such Order, to be served on the\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.35,
+      238.59,
+      167.39,
+      251.93
+    ],
+    "text": "(i)aggrieved person ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.35,
+      258.75,
+      278.19,
+      283.13
+    ],
+    "text": "(ii)applicant, where the applicant is not theaggrieved person ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.35,
+      289.95,
+      278.4,
+      325.49
+    ],
+    "text": "(iii)officers in charge of the police stations withinwhose jurisdiction the respondent and theaggrieved person reside.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      50.35,
+      334.35,
+      177.26,
+      348.29
+    ],
+    "text": "10.(1) A Protection Order \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.07,
+      356.55,
+      278.48,
+      392.09
+    ],
+    "text": "(a)shall, prohibit the respondent from committing orcausing the commission of, any act of domesticviolence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.07,
+      400.95,
+      278.5,
+      526.85
+    ],
+    "text": "(b)may, contain any other prohibition specified insubparagraph, (a) to (l) of subsection (1) of section11, or any supplementary order specified insubsection (1) of section 12 where the court issatisfied that by reason of the circumstances of thecase, and upon evidence given on oath by theaggrieved person or any other person on behalf ofthe aggrieved person as the case may be, or anyother material witness, that it is necessary to do soto ensure the safety and well being of the aggrievedperson.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      107.98,
+      347.98,
+      154.65
+    ],
+    "text": "Matters to betaken intoconsideration inissuing aprotection order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      162.58,
+      348.01,
+      193.53
+    ],
+    "text": "Protection Orderto be served onthe respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      336.58,
+      349.57,
+      347.25
+    ],
+    "text": "Protection Order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "6Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      50.31,
+      345.76,
+      75.17
+    ],
+    "text": "(2)A Protection Order shall remain in force for a periodnot exceeding 12 months as specified therein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      85.11,
+      345.64,
+      109.97
+    ],
+    "text": "11.(1) The Court may, by means of an Interim Order orProtection Order prohibit the respondent from :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.37,
+      119.91,
+      345.83,
+      144.77
+    ],
+    "text": "(a)entering a residence or any specified part thereof,shared by the aggrieved person and the respondent;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.37,
+      154.71,
+      280.34,
+      168.05
+    ],
+    "text": "(b)entering the aggrieved person\u2019s \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.65,
+      177.87,
+      254.2,
+      214.37
+    ],
+    "text": "(i)residence;(ii)place of employment;(iii)school;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.21,
+      224.31,
+      345.79,
+      249.17
+    ],
+    "text": "(c)entering any shelter in which the aggrieved personmay be temporarily accommodated;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.37,
+      259.11,
+      345.72,
+      307.25
+    ],
+    "text": "(d)preventing the aggrieved person who ordinarily livesor has lived in a shared residence from entering orremaining in the shared residence or a specified partof the shared residence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.21,
+      317.07,
+      274.46,
+      330.41
+    ],
+    "text": "(e)occupying the shared residence ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.65,
+      340.23,
+      345.76,
+      400.01
+    ],
+    "text": "(f)having contact with any child of the aggrievedperson or having contact with such child other thanon the satisfaction of such conditions as it mayconsider appropriate, where the Court is satisfiedthat it is in the best interest of such child ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.37,
+      409.83,
+      345.67,
+      434.81
+    ],
+    "text": "(g)preventing the aggrieved person from using orhaving access to shared resources ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.37,
+      444.63,
+      345.71,
+      469.61
+    ],
+    "text": "(h)contacting or attempting to establish contact withthe aggrieved person in any manner whatsoever ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.65,
+      479.43,
+      345.78,
+      527.81
+    ],
+    "text": "(i)committing acts of violence against any otherperson, whether it be a relative, friend, social workeror medical officer, who may be assisting theaggrieved person ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      33.65,
+      86.02,
+      92.05,
+      135.09
+    ],
+    "text": "Prohibitions thatan Interim Orderor ProtectionOrder maycontain.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.99,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 20057",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.35,
+      50.43,
+      278.5,
+      75.77
+    ],
+    "text": "(j)following the aggrieved person around as to cause anuisance ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.79,
+      86.19,
+      278.56,
+      147.17
+    ],
+    "text": "(k)engaging in such other conduct as in the opinion ofthe Court will be detrimental to the safety, health orwell being of the aggrieved person or other personwho may require protection from the respondent asthe Court may specify in the Protection Order ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.35,
+      157.59,
+      278.38,
+      194.69
+    ],
+    "text": "(l)selling, transferring, alienating or encumbering thematrimonial home so as to place the aggrievedperson in a destitute position.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      205.23,
+      278.46,
+      230.45
+    ],
+    "text": "(2)In imposing any prohibition referred to in subsection(1) the Court shall have regard to\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.07,
+      240.87,
+      278.57,
+      277.97
+    ],
+    "text": "(a)the need for the accommodation of the aggrievedperson or the children (if any) of the aggrievedperson and the children (if any) of the respondent ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.07,
+      288.51,
+      278.49,
+      325.61
+    ],
+    "text": "(b)any hardship that may be caused to the respondentor to any other person as a result of the making ofthe Order.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      336.03,
+      278.41,
+      385.13
+    ],
+    "text": "12.(1) Where a Protection Order has been made andwhere the Court is satisfied that it is reasonably necessary toprotect and provide for the immediate safety, health or welfareof the aggrieved person the Court may order\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.07,
+      395.55,
+      278.45,
+      420.77
+    ],
+    "text": "(a)the police to seize any weapons that the respondentmay have in his or her possession ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.07,
+      431.31,
+      278.51,
+      468.41
+    ],
+    "text": "(b)the police to accompany the aggrieved person toany place to assist with the collection of personalproperty of such person and of any children ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.79,
+      478.83,
+      278.38,
+      527.93
+    ],
+    "text": "(c)the respondent and the aggrived person to attendmandatory counseling sessions, psychotherapy orother forms of rehabilitative therapy as may beavailable ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      338.5,
+      342.82,
+      358.77
+    ],
+    "text": "SupplementaryOrders.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "8Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      121.37,
+      50.43,
+      345.8,
+      99.77
+    ],
+    "text": "(d)the aggrieved person if such person so requests, beplaced in a shelter or provided with temporaryaccommodation the location and other details ofwhich shall be kept confidential if necessary ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      122.21,
+      110.79,
+      345.81,
+      172.97
+    ],
+    "text": "(e)a social worker, family counsellor, probation officeror family health worker to monitor the observanceof the Protection Order between the aggrieved personand the respondent and submit to Court a reportrelating thereto, once in every three months.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.65,
+      183.99,
+      345.65,
+      221.69
+    ],
+    "text": "(f)the respondent to provide urgent monetaryassistance to any person, where such respondent hasa duty to support such person ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      121.37,
+      232.83,
+      345.81,
+      343.73
+    ],
+    "text": "(g)the respondent to make such payments and providesuch facilities, or make such payments or providesuch facilities as the case may be, as are necessary toenable the aggrieved party to continue in occupationof any residence in which such aggrieved party willreside during the period of operation of such Order,notwithstanding that the respondent has beenprohibited from entering or remaining in suchresidence by an Order made under section 11.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105.65,
+      354.75,
+      345.74,
+      404.69
+    ],
+    "text": "(2) An Order under paragraphs (f) and (g) of subsection(1) shall only be made after due inquiry and having regard tothe financial needs and other resources of the aggrievedperson and the respondent :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105.65,
+      415.71,
+      345.63,
+      441.29
+    ],
+    "text": "Provided however such an Order shall not affect the rightsof any person under the Maintenance Act, No. 37 of 1999.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105.65,
+      452.31,
+      345.81,
+      527.09
+    ],
+    "text": "(3)The Court may, on the failure of the respondent tomake any payment ordered under paragraph (f) of subsection(1) direct an employer of the respondent, to directly pay tothe aggrieved person a part or the whole of the remunerationdue to the respondent as financial relief that the Court mayhave ordered.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      91.99,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 20059",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      50.67,
+      279.62,
+      112.85
+    ],
+    "text": "13.The Court may, with the consent of the parties to theproceedings, make any Order under this Act without proof oradmission of guilt and such Order shall not be construed ashaving been made consequent to an admission of guilt orupon proof of guilt.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      123.87,
+      279.49,
+      198.17
+    ],
+    "text": "14. (1) A Protection Order may be altered, modified,varied, extended or revoked, on an application made eitherby the aggrieved person or the respondent, and where theCourt is satisfied that there is a change of circumstances thatrequire such alteration, modification, variation, extention,or revocation :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      209.31,
+      279.39,
+      247.01
+    ],
+    "text": "Provided however, no such alteration, modification,variation, extention or revocation, shall be made withouthearing both the aggrieved person and the respondent :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      258.03,
+      279.45,
+      295.85
+    ],
+    "text": "Provided further that the Court shall not grant such anapplication to the aggrieved person unless it is satisfied thatthe application is made freely and voluntarily.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      306.87,
+      279.47,
+      381.17
+    ],
+    "text": "15.The provisions of Chapter V and VI of the Code ofCrimianl Procedure Act, No. 15 of 1979 shall be applicablefor compelling the attendance of the respondent and anyperson required by the applicant to give evidence, and forrequiring the production of any document necessary, for thepurposes of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      392.31,
+      279.38,
+      417.77
+    ],
+    "text": "16.In any proceedings under this Act a spouse shall bea competent witness against the other spouse.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      39.31,
+      428.91,
+      279.4,
+      528.05
+    ],
+    "text": "17.Any person who is dissatisfied with an Order madeby a Magistrate under section 6 or section 7 may prefer anappeal to the High Court established under Article 154P ofthe Constitution in like manner as if the Order was a finalOrder pronounced by a Magistrate\u2019s Court in a criminal caseor matter, and sections 320 to 330 (both inclusive) and sections357 and 358 of the Code of Criminal Procedure Act, No. 15of 1979 shall, mutatis mutandis, apply to such appeal :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.83,
+      52.06,
+      344.06,
+      81.93
+    ],
+    "text": "Orders madewith consent ofparties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.35,
+      124.78,
+      349.57,
+      154.65
+    ],
+    "text": "Variation orrevocation of aProtection Order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.35,
+      308.98,
+      343.63,
+      340.65
+    ],
+    "text": "Attendance ofrespondent andwitnesses.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.35,
+      392.02,
+      340.62,
+      421.89
+    ],
+    "text": "Spouse to be acompetentwitness.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.35,
+      430.78,
+      347.33,
+      441.45
+    ],
+    "text": "Right of Appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "10Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      51.03,
+      345.82,
+      115.61
+    ],
+    "text": "Provided however, that notwithstanding anything to thecontrary in section 323 of the Code of Criminal ProcedureAct, No. 15 of 1979 an Order under section 6 or section 7shall not be stayed by reason of such appeal, unless the HighCourt for reasons to be recorded directs otherwise :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      127.83,
+      345.88,
+      166.85
+    ],
+    "text": "Provided further that the Magistrate in forwarding therecord to the High Court shall retain a copy of his Order forpurposes of enforcement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      179.07,
+      345.86,
+      282.05
+    ],
+    "text": "18.Where respondent against whom an Interim Order ora Protection Order, as the case may be, has been issued andhas failed to comply with such Order, such respondent shallbe guilty of an offence and shall be liable on conviction aftersummary trial before a Migistrate to a fine not exceeding tenthousand rupees or to imprisonment of either description fora term not exceeding one year or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      294.27,
+      345.94,
+      346.01
+    ],
+    "text": "19.Notwithstanding anything contained in the Code ofCriminal Procedure Act, No. 15 of 1979, the Court may adopta procedure as it may seem expedient in respect of the framingof charges.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117.65,
+      358.23,
+      293.05,
+      372.17
+    ],
+    "text": "20.Any person who prints or publishes\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      121.37,
+      383.91,
+      345.81,
+      422.81
+    ],
+    "text": "(a)the name or any matter which may make known theidentity of an applicant or a respondent in anapplication under this Act; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      121.37,
+      435.03,
+      345.71,
+      474.05
+    ],
+    "text": "(b)any matter other than a judgment of the SupremeCourt or Court of Appeal, in relation to anyproceeding under this Act, in any Court,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      486.27,
+      345.81,
+      525.17
+    ],
+    "text": "shall be punished with imprisonment of either descriptionfor a term which may extend to two years or to a fine or toboth such imprisonment and fine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      33.65,
+      295.54,
+      92.13,
+      325.41
+    ],
+    "text": "Court to adoptprocedure inframing charges.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      33.65,
+      180.82,
+      88.38,
+      201.09
+    ],
+    "text": "Enforcement ofOrder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      33.65,
+      359.02,
+      89.87,
+      408.09
+    ],
+    "text": "Persons printingor publishingany matter incertain cases tobe punished.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.99,
+      20.55,
+      278.35,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 200511",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38.35,
+      50.43,
+      278.51,
+      87.29
+    ],
+    "text": "21.Nothing in this Act shall be construed as deprivingan aggrieved person of a right if any, to institute a separatecivil action or criminal proceeding.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38.35,
+      97.59,
+      278.39,
+      122.69
+    ],
+    "text": "22.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      50.35,
+      144.75,
+      278.45,
+      158.69
+    ],
+    "text": "23.In this Act unless the context otherwise requires \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.35,
+      168.39,
+      278.55,
+      193.49
+    ],
+    "text": "\u201cchild\u201d means a person who is under the age of 18years ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.35,
+      203.79,
+      186.12,
+      217.13
+    ],
+    "text": "\u201cdomestic violence\u201d means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87.07,
+      227.43,
+      278.3,
+      252.53
+    ],
+    "text": "(a)an act which constitutes an offencespecified in Schedule I ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      87.07,
+      262.83,
+      195.69,
+      276.17
+    ],
+    "text": "(b)any emotional abuse,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.35,
+      286.35,
+      278.49,
+      335.09
+    ],
+    "text": "committed or caused by a relevant person within theenvironment of the home or outside and arising out ofthe personal relationship between the aggrievedperson and the relevant person ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62.35,
+      345.39,
+      278.44,
+      382.25
+    ],
+    "text": "\u201cemotional abuse\u201d means a pattern of cruel, inhuman,degrading or humiliating conduct of a seriousnature directed towards an aggrieved person ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62.35,
+      392.55,
+      278.48,
+      441.29
+    ],
+    "text": "\u201cshared resources\u201d means movable or immovableproperty which both the aggrieved person and therespondent have habitually used or have had accessto ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62.35,
+      451.59,
+      278.43,
+      476.69
+    ],
+    "text": "\u201crelevant person\u201d in relation to an aggrieved personmeans,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.07,
+      486.99,
+      170.38,
+      500.33
+    ],
+    "text": "(a) (i) the spouse ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      104.35,
+      510.51,
+      168.01,
+      523.85
+    ],
+    "text": "(ii) ex-spouse ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      291.31,
+      50.98,
+      350.33,
+      71.25
+    ],
+    "text": "Other actions notbarred.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      290.35,
+      99.22,
+      349.58,
+      129.09
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      290.35,
+      147.46,
+      336.79,
+      158.13
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "12Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      168.65,
+      50.43,
+      269.22,
+      63.77
+    ],
+    "text": "(iii) cohabiting partner ,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      141.65,
+      70.95,
+      239.01,
+      84.29
+    ],
+    "text": "of an aggrieved person ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      160.37,
+      94.83,
+      345.69,
+      120.17
+    ],
+    "text": "(b) (i)the father, mother, grandfather,grandmother, stepfather, stepmother ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      174.65,
+      130.83,
+      345.7,
+      156.17
+    ],
+    "text": "(ii)the son, daughter, grandson, granddaughter, stepson, stepdaughter ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      171.65,
+      166.83,
+      345.8,
+      192.17
+    ],
+    "text": "(iii)the brother, sister, half-brother, half-sister, step brother, step-sister ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      172.37,
+      202.83,
+      278.15,
+      216.17
+    ],
+    "text": "(iv)siblings of a parent ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      175.37,
+      226.83,
+      284.93,
+      240.17
+    ],
+    "text": "(v)the child of a sibling ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      172.37,
+      250.83,
+      311.85,
+      264.17
+    ],
+    "text": "(vi)child of a sibling of a parent,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      141.65,
+      274.83,
+      345.72,
+      312.17
+    ],
+    "text": "of an aggrieved person or of the spouse, formerspouse or cohabiting partner of the aggrievedperson ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.65,
+      322.83,
+      345.8,
+      360.17
+    ],
+    "text": "\u201c\u2018respondent\u2019 in relation to a Protection Order or anInterim Order means the relevant person againstwhom such Order is sought or made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      91.99,
+      20.55,
+      278.35,
+      45.78
+    ],
+    "text": "Prevention of Domestic ViolenceAct, No. 34 of 200513",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      121.99,
+      50.98,
+      272.72,
+      62.13
+    ],
+    "text": "SCHEDULE ISection 22",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.35,
+      70.18,
+      271.83,
+      80.85
+    ],
+    "text": "1.All offences contained in Chapter XVI of the Penal Code",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.35,
+      83.86,
+      215.42,
+      94.53
+    ],
+    "text": "2.Extortion-Section 372 of the Penal Code",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.35,
+      97.42,
+      257.33,
+      108.09
+    ],
+    "text": "3.Criminal Intimidation-Section 483 of the Penal Code",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.35,
+      110.98,
+      231.81,
+      121.65
+    ],
+    "text": "4.Attempt to commit any of the above offences",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      120.43,
+      143.86,
+      275.69,
+      155.01
+    ],
+    "text": "SCHEDULE IISection 2(3)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.71,
+      163.06,
+      175.99,
+      173.73
+    ],
+    "text": "APPLICATION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      50.35,
+      182.26,
+      199.57,
+      192.93
+    ],
+    "text": "In the Magistrates Court of.........................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      38.35,
+      202.42,
+      278.45,
+      257.01
+    ],
+    "text": "A.B. of........................(name, description and address of the aggrievedperson, and if he/she sues in any repesentative capacity, state the capacity-e. g., if the aggrieved person is a minor or person of unsound mindappearing by his/her guardian or next friend, say \u201ca minor, by C. D.of..............his/her next friend\u201d)...................(Aggrieved person).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.87,
+      266.83,
+      170.7,
+      276.6
+    ],
+    "text": "Against",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      38.35,
+      285.82,
+      278.43,
+      307.05
+    ],
+    "text": "Y.Z., of............................(name, description and addresses of therespondent)......................Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      50.35,
+      317.38,
+      188.29,
+      328.05
+    ],
+    "text": "The.............day of...................20...............",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      38.35,
+      338.38,
+      278.64,
+      370.05
+    ],
+    "text": "The application of the above-named aggrieved person (and if thecase is so add: appearing by C. H, his/her registered attorney) states asfollows :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      50.35,
+      380.38,
+      199.73,
+      391.05
+    ],
+    "text": "(Here set out the circumstances of the case)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      38.35,
+      401.38,
+      278.47,
+      435.33
+    ],
+    "text": "Wherefore the aggrieved person (or aggrieved persons) prays for aProtection Order against the respondent with effect from the...............dayof ....................20................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179.35,
+      453.7,
+      269.33,
+      473.97
+    ],
+    "text": "........................................Signature of Applicant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105.65,
+      20.55,
+      292.16,
+      45.78
+    ],
+    "text": "14Prevention of Domestic ViolenceAct, No. 34 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      33.65,
+      496.18,
+      345.65,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign),payable to the SUPERINTENDENT, GOVERNM ENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE, LOTUSROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
