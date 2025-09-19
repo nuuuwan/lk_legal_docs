@@ -51,9 +51,7 @@ class Act(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(
-                " ", "_"
-            )
+            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
             num = f"{date_str}-{doc_number_cleaned}-{lang}"
             yield cls(
                 num=num,
@@ -86,5 +84,5 @@ class Act(AbstractPDFDoc):
     @classmethod
     def gen_docs(cls) -> Generator["Act", None, None]:
         current_year = int(TimeFormat("%Y").format(Time.now()))
-        for year in range(current_year, 1945, -1):
+        for year in range(current_year, 1980, -1):
             yield from cls.gen_docs_for_year(year)
