@@ -1,0 +1,3469 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.29,
+      390.53,
+      442.39,
+      423.18
+    ],
+    "text": "LAND (RESTRICTIONS ON ALIENATION)ACT, No. 38 OF 2014",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.29,
+      478.45,
+      370.31,
+      489.52
+    ],
+    "text": "[Certified on 29th October, 2014]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 18.00Postage : Rs. 50.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 31, 2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.57,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "1Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.21,
+      203.57,
+      332.51,
+      214.91
+    ],
+    "text": "[Certified on 29th October, 2014]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      229.61,
+      219.58,
+      240.95
+    ],
+    "text": "L.D.\u2014O. 23/2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      255.65,
+      383.85,
+      279.95
+    ],
+    "text": "AN ACT TO MAKE PROVSIONS TO STIPULATE RESTRICTIONS ON THEALIENATION OF LANDS IN SRI LANKA TO FOREIGNERS, FOREIGN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      281.57,
+      383.87,
+      292.91
+    ],
+    "text": "COMPANIES AND CERTAIN INSTITUTIONS WITH FOREIGN SHAREHOLDING;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      294.65,
+      383.73,
+      305.99
+    ],
+    "text": "TO SPECIFY THE CIRCUMSTANCES WHERE THE EXEMPTIONS ARE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      307.61,
+      383.85,
+      318.95
+    ],
+    "text": "GRANTED; TO IMPOSE A LAND LEASE TAX FOR LEASING OF LANDS TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      320.57,
+      383.73,
+      331.91
+    ],
+    "text": "FOREIGNERS, FOREIGN COMPANIES AND CERTAIN INSTITUTIONS WITH",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      333.65,
+      383.73,
+      344.99
+    ],
+    "text": "FOREIGN SHAREHOLDING; FOR THE GRANTING OF CONCESSIONS TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      346.61,
+      383.85,
+      370.91
+    ],
+    "text": "CERTAIN DEVELOPMENT PROJECTS; FOR THE REPEAL OF PART VI OF THEFINANCE ACT, NO. 11 OF 1963; AND TO PROVIDE FOR MATTERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      372.65,
+      320.11,
+      383.99
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      398.57,
+      383.9,
+      461.87
+    ],
+    "text": "WHEREAS in furtherance of the development policies beingpromoted by the Government in the backdrop of a globallyintegrated environment, it is deemed expedient and necessaryto ensure the prudent use of land which is a limited resource,in a manner that preserves the national interest:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      476.57,
+      383.9,
+      552.95
+    ],
+    "text": "AND WHEREAS it is the National Policy to regulate the useof lands, in a sustainable manner, having imposed restrictionson the alienation of lands to foreigners, foreign companiesand certain institutions with foreign shareholding and havinggranted concessions to citizens of Sri Lanka for certaindevelopment projects, as specified in this Act:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      567.53,
+      383.9,
+      591.95
+    ],
+    "text": "NOW THEREFORE be it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      606.53,
+      383.88,
+      630.95
+    ],
+    "text": "1.(1) This Act may be cited as the Land (Restrictionson Alienation) Act, No. 38 of 2014.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      645.53,
+      383.86,
+      670.43
+    ],
+    "text": "(2) The provisions of this Act shall be deemed to havecome into operation with effect from January 1, 2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      608.11,
+      446.14,
+      636.38
+    ],
+    "text": "Short title anddate ofoperation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      399.07,
+      431.14,
+      408.14
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 20142",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      203.45,
+      451.2,
+      252.83
+    ],
+    "text": "2.(1) Notwithstanding any provision to thecontrary in any other written law, the transfer of title ofany land situated in Sri Lanka, shall be prohibited if suchtransfer is\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      266.93,
+      315.44,
+      278.27
+    ],
+    "text": "(a)to a foreigner; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      292.25,
+      451.18,
+      341.75
+    ],
+    "text": "(b)to a company incorporated in Sri Lanka under theCompanies Act where any foreign shareholding insuch company, either direct or indirect, is fifty percent or above; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      355.85,
+      336.44,
+      367.19
+    ],
+    "text": "(c)to a foreign company,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      381.17,
+      382.15,
+      392.51
+    ],
+    "text": "unless exempted as provided in section 3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      406.61,
+      451.2,
+      494.15
+    ],
+    "text": "(2) (a) For the purpose of maintaining the legal validityof a transfer of land to a company incorporated in Sri Lankaunder the Companies Act, with less than fifty per centof foreign shareholding, the foreign shareholding ofsuch company shall remain less than fifty per cent, for aminimum period of consecutive twenty (20) years from thedate of such transfer.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      508.13,
+      451.18,
+      557.63
+    ],
+    "text": "(b) Where the foreign shareholding of a companyreferred to in paragraph (a) reaches or exceeds fifty per cent,contrary to the provisions of paragraph (a), in consequentto\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.15,
+      571.73,
+      451.18,
+      595.67
+    ],
+    "text": "(i)the change of ownership of shares directly orindirectly; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.15,
+      609.77,
+      451.18,
+      671.87
+    ],
+    "text": "(ii)the death of a shareholder of such company andthe shares of the deceased shareholder devolving,in accordance with the applicable laws ofsuccession of Sri Lanka, on his next of kin who is aforeigner,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      204.19,
+      196.16,
+      222.86
+    ],
+    "text": "Restriction ontransfer of land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.57,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "3Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      202.73,
+      383.9,
+      237.47
+    ],
+    "text": "the transfer of land referred to therein shall be void and shallhave no effect in law, with effect from the date of increase ofthe foreign shareholding:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      249.53,
+      383.86,
+      272.63
+    ],
+    "text": "Provided however, where a company referred to inparagraph (a),\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      284.69,
+      383.88,
+      366.23
+    ],
+    "text": "(i)listed in the Colombo Stock Exchange (witha minimum number of two hundred shareholdersin the case of a Diri Savi Board and one thousandshareholders in the case of a Main Board), takes stepsto reduce its foreign shareholding to less than fiftyper cent, within a period of twelve months from thedate of increase of its foreign shareholding; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.85,
+      378.29,
+      383.87,
+      424.67
+    ],
+    "text": "(ii)other than a company referred to in sub-paragraph(i), takes steps to reduce its foreign shareholding toless than fifty per cent, within a period of six monthsfrom the date of increase of its foreign shareholding,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      436.73,
+      383.91,
+      494.87
+    ],
+    "text": "in compliance with the provisions of that paragraph, thetransfer of land referred to in paragraph (a), shall be deemedto be legally valid, with effect from the date of restoring theforeign shareholding of such company to less than fifty percent.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      506.93,
+      383.9,
+      611.87
+    ],
+    "text": "(c) For the purposes of this section the expressions \u201cDiriSavi Board\u201d and \u201cMain Board\u201d shall be read and construedin accordance with the provisions of the Listing Rules of theColombo Stock Exchange issued under its listingrequirements, in terms of the Securities and ExchangeCommission of Sri Lanka Rules, 2001, made under section53 of the Securitites and Exchange Commission of Sri LankaAct, No. 36 of 1987 and published in Gazette ExtraordinaryNo. 1215/2 of December 18, 2001.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.85,
+      623.93,
+      382.45,
+      635.27
+    ],
+    "text": "3.(1) The provisions of section 2 shall not apply to\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      647.33,
+      383.88,
+      670.55
+    ],
+    "text": "(a)any land the title of which is transferred to aDiplomatic Mission of another State within the",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      624.19,
+      455.85,
+      662.06
+    ],
+    "text": "Exemption fromthe applicationof the provisionsof section 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 20144",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      202.61,
+      451.17,
+      236.99
+    ],
+    "text": "meaning of the Diplomatic Privileges Act or to anInternational, Multilateral or Bilateral Orgnizationrecognized in terms of that Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      248.57,
+      451.2,
+      317.39
+    ],
+    "text": "(b)a condominium parcel situated on or above thefourth floor of a building specified under theApartment Ownership Law, (excluding the groundlevel floor and floors which accommodates onlycommon element or elements within the meaningof Apartment Ownership Law):",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      329.09,
+      451.18,
+      363.47
+    ],
+    "text": "Provided that, the entire value shall be paid upfront through an inward foreign remittance prior tothe execution of the relevant deed of transfer;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.71,
+      375.05,
+      451.19,
+      478.43
+    ],
+    "text": "(c)any land the title of which is transferred to a foreigninvestor in consequent to a decision of the Cabinetof Ministers taken prior to January 1, 2013,involving direct investment of foreign currency, asper the related agreements on such investmentstructured on the basis of any written law governingthe tax regime prior to January 1, 2013, and hasensured compliance by making inward remittancesto Sri Lanka;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      490.13,
+      451.18,
+      547.43
+    ],
+    "text": "(d)any land the title of which is transferred byintestacy, gift or testamentary disposition to a nextof kin (who is a foreigner) of the owner of suchland, in accordance with the applicable law ofsuccession of Sri Lanka;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.71,
+      559.13,
+      451.2,
+      593.39
+    ],
+    "text": "(e)any land the title of which is transferred to a dualcitizen of Sri Lanka within the meaning of theCitizenship Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      229.15,
+      605.09,
+      451.18,
+      639.47
+    ],
+    "text": "(f)any land the title of which is transferred to anybank licensed under the Banking Act, in which anyforeign shareholing is fifty per cent or above\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.15,
+      649.61,
+      451.17,
+      672.47
+    ],
+    "text": "(i)at an auction conducted by such Bank interms of the Recovery of Loans by Banks",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195.57,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "5Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      203.85,
+      202.73,
+      383.85,
+      237.47
+    ],
+    "text": "(Special Provisions) Act, No. 4 of 1990 orMortgage Act (Chapter 89), in the dischargeof a mortgage of such land to such Bank;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.85,
+      246.89,
+      383.89,
+      269.87
+    ],
+    "text": "(ii)in execution of a decree of court to enforcethe recovery of a loan given by such bank;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      279.29,
+      383.87,
+      314.03
+    ],
+    "text": "(g)any land the title of which is transferred to anyFinance Leasing Institution in which any foreignshareholding is fifty per cent or above\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.85,
+      326.09,
+      383.88,
+      360.83
+    ],
+    "text": "(i)where such land has been mortgaged to suchFinance Leasing Institution as a security fora lease;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.85,
+      372.89,
+      383.89,
+      395.87
+    ],
+    "text": "(ii)in order to execute a lease and an agreementto sell or a loan and an agreement to sell;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      405.29,
+      383.88,
+      440.03
+    ],
+    "text": "(iii)in execution of a decree of court to enforcethe recovery of a loan given by suchInstitution;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      449.33,
+      383.91,
+      554.27
+    ],
+    "text": "(h)any land, the title of which was transferred to acompany referred to in section 2(1)(b), during theperiod commencing from January1, 2013 andending on the date on which the certificate of thespeaker is endorsed in respect of this Act, providedsuch company has been in active operation in SriLanka for a period of not less than ten (10)consecutive years prior to the date of transfer ofsuch land.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      566.33,
+      383.91,
+      671.87
+    ],
+    "text": "(2) The Minister may in consultation with the Minister towhom the subject of lands has been assigned and with theprior written approval of the Cabinet of Ministers, by Orderpublidhed in the Gazette, exempt any foreign entity engagedin the banking, financial, insurance, maritime, aviation,advanced technology or infrastructure development projectidentified as a Strategic Development Project, in terms of theprovisions of the Strategic Development Projects Act, No. 14of 2008, from the application of the provisions of section 2.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 20146",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      202.97,
+      451.19,
+      298.31
+    ],
+    "text": "(3) The Minister may in consultation with the Minister towhom the subject of Lands has been assigned and with theprior written approval of the Cabinet of Ministers, by Orderpublidhed in the Gazette, exempt any foreign companyengaged in international commercial operations, from theapplication of the provisions of section 2, where the land ispurchased to locate or relocate its global or regionaloperations or to set up a branch office.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      310.97,
+      451.2,
+      346.31
+    ],
+    "text": "(4) Where the transfer of title of a land is effected in termsof this section, the provisions of this Act shall also apply toevery subsequent transfer of title of such land or part thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      358.97,
+      451.21,
+      418.31
+    ],
+    "text": "4.(1) The Registrar of Lands shall not register aninstrument effecting any transfer of title referred to in section2, under the provisions of the Registration of DocumentsOrdinance, unless such registrar of lands is satisfied that suchtransfer is in compliance with the provisions of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      430.97,
+      451.26,
+      526.31
+    ],
+    "text": "(2) (a) Notwithstading the provisions of subsection (1),an instrument effecting, the transfer of title of a land to anext of kin (who is a foreigner) of an owner of such land,shall be registered by the Registrar of Lands, where thenotary public attesting such instrument of transfer certifiesin his attestation that the transferee is the next of kin of theowner of the land transferred, as recongized by the applicablelaws of succession of Sri Lanka.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      538.97,
+      451.21,
+      610.31
+    ],
+    "text": "(b) Where any question arises whether a person is thenext of kin of the owner of the land or which law is applicableto the succession, the Registrar of Lands shall refer the matterto the District Court having jurisdiction over the area inwhich the relevant land is situated, for a determinationthrough summary proceeding.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      622.97,
+      451.21,
+      669.95
+    ],
+    "text": "(3) Where the title of a land is transferred to a companyincorporated in Sri Lanka under the Companies Act, withless than fifty per cent of foreign shareholding, it shall bethe duty of the Registrar of Lands to confirm himself whether",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      360.55,
+      192.43,
+      417.62
+    ],
+    "text": "Conditions forthe registrationof instrumentsrelating to thetransfer of titleof lands.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195.57,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "7Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      202.61,
+      383.91,
+      259.91
+    ],
+    "text": "the foreign shareholding of such company is less than fiftyper cent, by requiring the secretary of such company tosubmit documentary proof to the effect that the foreignshareholding of such company is less than fifty per cent ofthe total number of shares issued for the time being.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      270.05,
+      383.9,
+      350.39
+    ],
+    "text": "(4) (a) The secretary to the relevant company shall informthe Registrar of Lands in writing in every six months periodcommencing from the date of the registration of the relevantdeed of transfer, that the foreign shareholding of suchcompany has not exceeded fifity per cent of the total numberof shares issued by such company, during the said period ofsix months.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      360.65,
+      383.89,
+      406.43
+    ],
+    "text": "(b) Where the foreing shareholding of a company referredto in paragraph (a) reaches or exceeds fifty per cent therelevant Registrar of Land shall make a note to that effect inthe relevant folio.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      416.57,
+      383.9,
+      462.47
+    ],
+    "text": "(5) For the purposes of this section \u201cRegistrar of Lands\u201dmeans the respective Registrar of Lands of the land registry,to whom the instrument of transfer is presented forregistration.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      473.57,
+      383.85,
+      496.43
+    ],
+    "text": "5.(1) Notwithstanding any provision to the contrary inany other written law, the leasing of a land\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      506.57,
+      248.13,
+      517.91
+    ],
+    "text": "(a)to a foreigner; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      528.05,
+      383.88,
+      573.95
+    ],
+    "text": "(b)to a company incorporated in Sri Lanka under theCompanies Act, where any foreign shareholding insuch company, either direct or indirect, is fifty percent or above; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.29,
+      584.09,
+      269.14,
+      595.43
+    ],
+    "text": "(c)to a foreign company,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      605.57,
+      383.88,
+      628.43
+    ],
+    "text": "shall be effected subject to the payment of the Land LeaseTax imposed under section 6:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      638.57,
+      383.86,
+      661.43
+    ],
+    "text": "Provided however, the maximum tenure of any suchlease shall not exceed ninety nine years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      475.15,
+      448.3,
+      513.02
+    ],
+    "text": "Restrictions onthe leasing oflands toforeigners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 20148",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      203.21,
+      451.18,
+      239.39
+    ],
+    "text": "(2) Any State land so leased shall be re-vested on theState free of encumbrances upon the lapse of the period oflease.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      252.77,
+      451.18,
+      301.31
+    ],
+    "text": "(3) Any state land so leased shall not be sub-let or sub-leased violating the provisions of relevant indenture of leaseor without obtaining the prior written approval from theMinister to whom the subject of lands has been assigned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      314.81,
+      451.19,
+      363.35
+    ],
+    "text": "6.(1) There shall be a Land Lease Tax payable up-frontby the Lessee, for every lease of land, in terms of section5(1), at the execution of the indenture of lease or prior tosuch execution unless exempted under section 7.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      376.85,
+      451.15,
+      412.91
+    ],
+    "text": "(2) The rate of such Land Lease Tax shall be fifteen percent of the total rental payable for the entire duration of thelease.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      426.41,
+      451.17,
+      462.47
+    ],
+    "text": "(3) Notwithstanding the provisions of subsection (2), theLand Lease Tax shall be 7.5 per cent of the total rentalpayable for the entire duration of the lease in respect of \u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      475.97,
+      451.2,
+      536.87
+    ],
+    "text": "(a)any land leased to a company referred to in section5(1)(b), provided that such company has been inactive operation in Sri Lanka for a consecutiveperiod of not less than ten years, immediately priorto the date of the indenture of lease;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      550.37,
+      451.19,
+      673.31
+    ],
+    "text": "(b)any land leased to a subsidiary of a holdingcompany incorporated in Sri Lanka under theCompanies Act, in which the shareholding of theholding company in such subsidiary is fifty percent or above and any foreign shareholding in theholding company is fifty per cent or above,provided that such holding company has been inactive operation in Sri Lanka for a period of notless than ten (10) consecutive years, immediatelyprior to the date of indenture of lease:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      315.19,
+      198.43,
+      343.46
+    ],
+    "text": "Tax on the landsleased out toforeigners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195.57,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "9Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179.85,
+      202.73,
+      383.89,
+      272.63
+    ],
+    "text": "Provided however, where the shareholding ofthe holding company in the subsidiary, becomesless than fifty per cent the Land Lease Taxapplicable in respect of such lease shall be fifteenper cent for the balance period of lease, with effectfrom the date of reduction of the shareholding;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.29,
+      284.69,
+      383.88,
+      331.07
+    ],
+    "text": "(c)a condominium parcel situated on or above thefourth floor of a building specified under theprovisions of the Apartment Ownership Law, wherethe period of lease is less than thirty five years;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      159.57,
+      343.13,
+      383.9,
+      389.63
+    ],
+    "text": "(d)a condominium parcel situated below the fourthfloor of a building specified under the provisionsof the Apartment Ownership Law, where the periodof lease is not more than ninety nine years;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.29,
+      401.69,
+      383.89,
+      424.67
+    ],
+    "text": "(e)the lease of any land in terms of section 5, situatedwithin\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.85,
+      436.73,
+      383.87,
+      471.47
+    ],
+    "text": "(i)a Licensed Zone declared under the Boardof Investment of Sri Lanka Law, No. 4 of1978; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182.85,
+      483.53,
+      383.88,
+      518.27
+    ],
+    "text": "(ii)a Tourist Development Area declared underthe Tourism Act, No. 38 of 2005 or TouristDevelopment Act, No. 14 of 1968; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179.85,
+      530.33,
+      383.87,
+      565.07
+    ],
+    "text": "(iii)an Industrial Estate established under theIndustrial Development Act, No. 36 of1969; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180.57,
+      577.13,
+      383.88,
+      611.87
+    ],
+    "text": "(iv)an area declared by the Minister byregulations as an area, for which the reducedtax rate is applicable;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      623.93,
+      383.89,
+      670.43
+    ],
+    "text": "(f)any land leased to a company referred to in section5(1)(b), where the Cabinet of Ministers decideshaving taken into consideration that a substantialforeign envestment has already been realized by",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 201410",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      247.15,
+      202.61,
+      451.17,
+      248.39
+    ],
+    "text": "such company into the related sector that suchreduced tax rate is justifiable in order to ensurelevel playing field among its competitors in therelated sector.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      259.61,
+      451.2,
+      328.43
+    ],
+    "text": "(4) The Lessee referred to in subsection (1) shall be liablein addition to the Land Lease Tax, to pay the applicablestamp duty under the Stamp Duty Act, No. 43 of 1982 andany other tax or charge payable in respect of any suchtransaction under any applicable written law in force for thetime being.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      338.57,
+      451.12,
+      361.43
+    ],
+    "text": "(5) The Land Lease Tax shall be paid in a manner as maybe prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      372.65,
+      451.17,
+      395.39
+    ],
+    "text": "7.(1) The Land Lease Tax payable under section 6,shall not be applicable on the lease of\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      406.61,
+      451.2,
+      452.39
+    ],
+    "text": "(a)any land a Diplomatic Mission of another Statewithin the meaning of the Diplomatic PrivilegesAct or to an International, Multilateral or BilateralOrganization recognized in terms of that Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      463.61,
+      451.18,
+      589.91
+    ],
+    "text": "(b)a condominium parcel situated on or above thefourth floor of a building specified under theprovisions of the Apartment Ownership Law(excluding the ground level floor and floors whichaccommodate any common element or elementswithin the meaning of Apartment Ownership Law)where the period of lease is thirty five years orabove and the lease rental for the full period oflease is paid through inward remittance of foreigncurrency on or prior to the date of the execution ofthe relevant indenture of lease;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      601.13,
+      451.17,
+      623.87
+    ],
+    "text": "(c)any land to a dual citizen of Sri Lanka within themeaning of the Citizenship Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      635.09,
+      451.18,
+      669.95
+    ],
+    "text": "(d)any land to a foreign investor in consequent to adecision of the Cabinet of Ministers taken prior toJanuary 1, 2013, involving direct investment of",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      373.87,
+      197.6,
+      402.14
+    ],
+    "text": "Exemption fromthe Land LeaseTax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      195.57,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "11Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179.85,
+      202.61,
+      383.89,
+      259.91
+    ],
+    "text": "foreign currency as per the related agreements onsuch investment, and structured on the basis of anywritten law governing the tax regime prior toJanuary 1, 2013, and has ensured compliance bymaking inward foreign remittances to Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      270.05,
+      383.88,
+      292.91
+    ],
+    "text": "(e)any land situated within a Bonded Area or a FreePort declared under the Finance Act, No. 12 of 2012.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      304.61,
+      383.91,
+      419.39
+    ],
+    "text": "(2) The Minister may in consultation with the Minister towhom the subject of lands has been assigned and with theprior written approval of the Cabinet of Ministers, by Orderpublished in the Gazette, exempt any foriegn entity engagedin the banking, financial, insurance, maritime, aviation,advanced technology or infrastructure development projectidentified as a Strategic Development Project, in terms ofthe povisions of the Strategic Development Projects Act,No.14 of 2008, from the application of the provisions ofsection 6.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      431.09,
+      383.9,
+      522.95
+    ],
+    "text": "(3) The Minister may in consultation with the Minster towhom the subject of Lands has been assigned and with theprior written approval of the Cabinet of Ministers, by Orderpublished in the Gazette, exempt any foreign companyengaged in international commercial operations, from theapplication of the provisions of section 6, where the land isleased to locate or relocate its global or regional operationsor to set up a branch office.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      534.53,
+      383.91,
+      614.87
+    ],
+    "text": "8.(1) An indenture of lease effecting a lease of anyland to a person or a company referred to in section 5(1),shall not be registered under the provisions of theRegistration of Documents Ordinance, unless the Registrarof Lands is satisfied that the Land Lease Tax in respect ofthe lease has been paid in accordance with the provisionsof this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      625.13,
+      383.89,
+      670.91
+    ],
+    "text": "(2) For the purposes of this section \u201cRegistrar ofLands\u201d means the respective Registrar of Lands of the landregistry, to which the indenture of lease is presented forregistration.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      534.79,
+      449.13,
+      572.66
+    ],
+    "text": "Conditions onthe registrationof instrumentsof lease.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 201412",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      202.73,
+      451.18,
+      237.47
+    ],
+    "text": "9.(1) The Commissioner General of Inland Revenueshall charge, levy and collect the Land Lease Tax imposedunder section 6.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      249.53,
+      451.18,
+      284.27
+    ],
+    "text": "(2) The provisions of Inland Revenue Act, shall mutatismutandis apply to and in relation to the enforcement of theLand Lease Tax payable under this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      296.33,
+      451.2,
+      331.07
+    ],
+    "text": "10.The Land Lease Tax charged, levied or collectedunder section 9, by the Commissioner General of InlandRevenue shall be credited to the Consolidated Fund.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      343.13,
+      451.19,
+      424.67
+    ],
+    "text": "11.(1) Any land transferred or leased to a person or acompany referred to in section 2(1) or 5(1), after the date onwhich the certificate of the speaker is endorsed in respect ofthis Act, shall not for any purpose be mortgaged or pledgedto any bank licensed under the Banking Act, for a period offive years with effect from the execution of the relevantinstrument of transfer or lease.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      436.73,
+      451.16,
+      459.83
+    ],
+    "text": "(2) Any mortgage or pledge executed in contravention ofsubsection (1), shall be void.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      471.89,
+      451.2,
+      530.03
+    ],
+    "text": "12.The provisions of the Land Reform Law, No. 1 of1972, on the maximum extent of land that can be owned byany person, shall continue to apply in respect of any transferof title or lease of a land exempted from the application ofthe provisions of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.15,
+      542.09,
+      444.45,
+      553.43
+    ],
+    "text": "13.(1) For the purposes of this Act, the land value\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      242.95,
+      565.49,
+      451.18,
+      588.47
+    ],
+    "text": "(a) of any State land, shall be as determined by theGovernment chief valuer; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      242.95,
+      600.53,
+      451.17,
+      623.63
+    ],
+    "text": "(b) of any private land, shall be as determined by alicensed valuer.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      635.69,
+      451.18,
+      670.43
+    ],
+    "text": "(2) The total lease rental, pertaining to a lease referred toin section 5, shall be calculated based on the valuation ofthe land made under subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      203.11,
+      188.12,
+      212.18
+    ],
+    "text": "Enforcement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      297.79,
+      199.39,
+      333.86
+    ],
+    "text": "Land Lease Taxto be credited tothe ConsolidatedFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      473.71,
+      192.43,
+      530.78
+    ],
+    "text": "Land ReformAct to apply inrespect ofexemptedtransfers andleases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      542.11,
+      176.84,
+      551.18
+    ],
+    "text": "Valuation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      343.39,
+      192.56,
+      419.66
+    ],
+    "text": "Restrictions onmortgaginglands of whichtitle has passedor has beenleased to aforeignnational.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.57,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "13Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      202.61,
+      383.88,
+      248.39
+    ],
+    "text": "14.(1) Where any person liable to pay the Land LeaseTax under this Act, fails to pay such tax, as provided for inthis Act, shall be deemed to be a defaulter of tax under thisAct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      260.09,
+      383.88,
+      317.39
+    ],
+    "text": "(2) Any such defaulter commits and offence under thisAct, and the provisions of the Inland Revenue Act shallmutatis mutandis, be applicable to and in relation to theprosecution against any such defaulter and for the recoveryof such tax and to the punishment thereof.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      329.09,
+      383.89,
+      351.95
+    ],
+    "text": "15.Where an offence under this Act is committed by abody of persons, if that body of persons is-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      363.65,
+      383.89,
+      386.39
+    ],
+    "text": "(a)a body corporate, every director and officer of thatbody corporate; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      398.09,
+      323.15,
+      409.43
+    ],
+    "text": "(b)a firm, every partner of that firm; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.29,
+      421.13,
+      383.89,
+      455.39
+    ],
+    "text": "(c)a body unincorporated other than a firm, everyofficer of that body responsible for its managementand control,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      467.09,
+      329.87,
+      478.43
+    ],
+    "text": "shall be deemed to be guilty of such offence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      490.13,
+      383.85,
+      535.91
+    ],
+    "text": "Provided that, no such person shall be deemed to beguilty of such offence, if he proves that such offence wascommitted without his knowledge and that he exercised alldue diligence to prevent the commission of such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      547.61,
+      383.89,
+      616.43
+    ],
+    "text": "16.Where a State land is transferred or leased to a projectapproved by the Cabinet of Ministers as a DevelopmentProject to which freehold right or leasehold right of the Stateland to be transferred, such project shall be granted adeduction amounting to twenty-five per cent of the landvalue or total lease rental, determined under section 13:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      628.13,
+      383.87,
+      650.87
+    ],
+    "text": "Provided that, any such Development Project shall beimplemented by\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      662.57,
+      281.17,
+      673.91
+    ],
+    "text": "(a)a citizen of Sri Lanka; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      203.11,
+      442.29,
+      221.78
+    ],
+    "text": "Offences andpunishment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      329.83,
+      438.57,
+      358.1
+    ],
+    "text": "Offences bybodies ofpersons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      549.19,
+      452.13,
+      577.46
+    ],
+    "text": "Concessions forDevelopmentProjects.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 201414",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      203.09,
+      451.16,
+      239.03
+    ],
+    "text": "(b)a company incorporated in Sri Lanka under theCompanies Act, where fifty per cent or above of itsshareholding is held by citizens of Sri Lanka.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      252.29,
+      451.21,
+      288.23
+    ],
+    "text": "17.(1) The Minister may make regulations for thematters required by this Act to be prescribed and for mattersin respect of which regulations are authorized to be made.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      301.49,
+      451.17,
+      349.79
+    ],
+    "text": "(2) Every such regulation shall be published in the Gazetteand shall come into operation on the date of suchpublication or on such later date as may be specified in suchregulation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      363.05,
+      451.21,
+      435.83
+    ],
+    "text": "(3) Every such regulation shall, as soon as convenientafter its publication in the Gazette, be brought beforeParliament for approval. Any such regulation that is not soapproved shall be deemed to be rescinded as from the dateof disapproval, but without prejudice to anything previouslydone thereunder.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      449.09,
+      451.17,
+      472.79
+    ],
+    "text": "(4) Notification of the date on which a regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      486.05,
+      451.24,
+      521.99
+    ],
+    "text": "18.Any alienation of land effected in contravention ofthe provisions of this Act, shall be void and shall have noeffect in law.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      535.25,
+      451.2,
+      571.19
+    ],
+    "text": "19.Part VI (Imposition of tax on transfers of propertyunder certain conditions) of the Finance Act, No. 11 of 1963,is hereby repealed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      584.45,
+      451.18,
+      608.03
+    ],
+    "text": "20.For the avoidance of doubts, it is hereby declaredthat\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      621.29,
+      451.2,
+      669.59
+    ],
+    "text": "(a)any instrument effecting a transfer of ownership ofa land in Sri Lanka to a person or a company referredto in section 2(1), which was executed prior toJanuary 1, 2013 and pending registration in",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      252.55,
+      182.59,
+      261.62
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      487.51,
+      198.43,
+      531.38
+    ],
+    "text": "Alienation ofland incontravention ofthis Act to bevoid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      537.79,
+      188.59,
+      564.86
+    ],
+    "text": "Repeal of PartVI of Act No.11 of 1963.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      586.15,
+      187.16,
+      604.82
+    ],
+    "text": "Avoidance ofdoubts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      195.57,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "15Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      179.85,
+      203.09,
+      383.89,
+      263.63
+    ],
+    "text": "accordance with the provisions of Registration ofDocuments Ordinance shall, notwithstanding therepeal of Part VI of the Finance Act, No. 11 of 1963,be registered subject to the provisions of repealedPart VI of that Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.57,
+      276.89,
+      383.9,
+      398.99
+    ],
+    "text": "(b)any instrument effecting alienation of land inSri Lanka, to a person or a company referred to insection 2(1) or 5(1), executed within the periodcommencing from January 1, 2013 and ending onthe date on which the certificate of the Speakeris endorsed in respect of this Act, shall be registeredby the relevant Registrar of Lands in accordancewith the provisions of the Registration ofDocuments Ordinance, subject to the provisions ofthis Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      412.25,
+      383.95,
+      546.59
+    ],
+    "text": "21.The Commissioner General of Inland Revenue whocharges or collects the Land Lease Tax as provided for inthis Act, for the period commencing from January 1, 2013and ending on the date on which the certificate of the Speakeris endorsed in respect of this Act, shall be deemed, to haveacted and to be acting with due authority and such charge orcollection shall be deemed, to have been and to be validlymade. The Commissioner General of Inland Revenue ishereby indemnified from any action civil or criminal, inrespect of the charge or collection of the Land Lease Tax forthe aforesaid period.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      559.85,
+      383.9,
+      669.59
+    ],
+    "text": "22.Where the amount of the Land Lease Tax chargedor collected by the Commissioner General of Inland Revenueunder section 21, is less than the actual amount of the LandLease Tax payable by a Lessee under section 6, theCommissioner General shall by notice in writing requiresuch Lessee, to pay not later than six months from the dateof the notice, the difference between the actual amountpayable as the Land Lease Tax and the sum already collectedor charged, to the Commissioner-General.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      414.55,
+      434.86,
+      423.62
+    ],
+    "text": "Validation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      561.19,
+      455.13,
+      627.86
+    ],
+    "text": "Recovery of anydifferencebetween theactual amountand the amountpaid as the LandLease Tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 201416",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      202.73,
+      451.2,
+      284.27
+    ],
+    "text": "23.(1) Where the amount of the Land Lease Tax chargedor collected by the Commissioner General of Inland Revenueunder section 21, is in excess of the actual amount of theLand Lease Tax payable by a Lessee under section 6, theCommissioner General shall on a written application madeby the person who has paid the excess amount, refund theexcess amount so paid to that person.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      296.33,
+      451.18,
+      331.07
+    ],
+    "text": "(2) The excess amount referred to in subsection (1) shallbe paid to the applicant within six months of the receipt ofthe application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      343.13,
+      451.18,
+      377.87
+    ],
+    "text": "24.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.15,
+      389.93,
+      451.19,
+      401.27
+    ],
+    "text": "25.In this Act unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      413.33,
+      451.16,
+      436.43
+    ],
+    "text": "\u201calienation\u201d means transfer, lease or mortgage oflands situated within Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      448.49,
+      451.18,
+      471.47
+    ],
+    "text": "\u201cApartment Ownership Law\u201d means the ApartmentOwnership Law, No. 11 of 1973;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      483.53,
+      451.18,
+      506.63
+    ],
+    "text": "\u201cBanking Act\u201d means the Banking Act, No. 30 of1988;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      518.69,
+      451.2,
+      541.67
+    ],
+    "text": "\u201cCitizenship Act\u201d means Citizenship Act (Chapter349);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      553.73,
+      451.17,
+      576.83
+    ],
+    "text": "\u201ccitizen of Sri Lanka\u201d means a citizen of Sri Lankain terms of Citizenship Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      588.89,
+      451.17,
+      611.87
+    ],
+    "text": "\u201cCompanies Act\u201d means the Companies Act, No. 7of 2007;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      623.93,
+      451.19,
+      670.43
+    ],
+    "text": "\u201cCommissioner General of Inland Revenue\u201d meansthe Commissioner General of Inland Revenueappointed or deemed to be appointed underthe Inland Revenue Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      203.11,
+      191.12,
+      240.98
+    ],
+    "text": "Refund ofexcess amountpaid as LandLease Tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      344.23,
+      199.15,
+      372.5
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      389.71,
+      190.16,
+      398.78
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "17Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      202.97,
+      383.86,
+      226.31
+    ],
+    "text": "\u201cDiplomatic Privileges Act\u201d means the DiplomaticPrivileges Act, No. 9 of 1996;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      238.97,
+      383.87,
+      262.31
+    ],
+    "text": "\u201cforeigner\u201d means a person who is not a citizen ofSri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      274.97,
+      383.88,
+      310.31
+    ],
+    "text": "\u201cforeign company\u201d means a company or a body ofpersons incorporated under the laws of anycountry other than Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      322.97,
+      383.9,
+      346.31
+    ],
+    "text": "\u201cFinance Leasing Act\u201d means the Finance LeasingAct, No. 56 of 2000;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      358.97,
+      383.87,
+      394.31
+    ],
+    "text": "\u201cFinance Leasing Institution\u201d means a FinanceLeasing Establishment registered under theFinance Leasing Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      406.97,
+      383.88,
+      430.31
+    ],
+    "text": "\u201cholding company\u201d has the same meaning assignedto such expression under the Companies Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      442.97,
+      383.88,
+      466.31
+    ],
+    "text": "\u201cInland Revenue Act\u201d means the Inland RevenueAct, No. 10 of 2006;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      478.97,
+      383.89,
+      502.31
+    ],
+    "text": "\u201cland\u201d means any State or private land andincludes\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207.57,
+      514.97,
+      325.3,
+      526.31
+    ],
+    "text": "(a)any interest in the land;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207.57,
+      538.97,
+      363.57,
+      550.31
+    ],
+    "text": "(b)any land covered with water; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      208.29,
+      562.97,
+      383.85,
+      586.31
+    ],
+    "text": "(c)any house or building stands on thatland;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      598.97,
+      383.89,
+      622.31
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom the subjectof Finance has been assigned;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      634.97,
+      383.88,
+      670.31
+    ],
+    "text": "\u201ctransfer\u201d means any sale, donation, gift or anyconveyance by or under which the title ofsuch land passes to another person;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      167.17,
+      399.32,
+      190.24
+    ],
+    "text": "Land (Restrictions on Alienation)Act, No. 38 of 201418",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      247.15,
+      202.97,
+      451.16,
+      226.31
+    ],
+    "text": "\u201cperson\u201d includes a body of persons incorporate orunincorporated;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      247.15,
+      238.97,
+      451.19,
+      274.31
+    ],
+    "text": "\u201cRegistration of Documents Ordinance\u201d means theRegistration of Documents Ordinance(Chapter 117);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      247.15,
+      286.97,
+      451.18,
+      310.31
+    ],
+    "text": "\u201csubsidiary\u201d has the same meaning assigned to suchexpression under the Companies Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "19Land (Restrictions on Alienation)Act, No. 38 of 2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
