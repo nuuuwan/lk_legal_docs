@@ -1,0 +1,1376 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.06,
+      148.82,
+      356.01,
+      186.87
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "*Times New Roman-Bold-5299"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.87,
+      185.3,
+      258.32,
+      205.5
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "*Times New Roman-Bold-5299"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.82,
+      216.3,
+      217.92,
+      224.55
+    ],
+    "text": "/",
+    "fonts": [
+      "*Calibri-5301"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.41,
+      255.18,
+      369.92,
+      291.46
+    ],
+    "text": "COMMISSIONS OF INQUIRY (AMENDMENT) ACT, No. 16 OF 2008",
+    "fonts": [
+      "*Times New Roman-Bold-5298"
+    ],
+    "sizes": [
+      14.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.1,
+      347.17,
+      281.71,
+      361.31
+    ],
+    "text": "[Certified on OSth March, 2008]",
+    "fonts": [
+      "*Cambria-5302",
+      "*Times New Roman-Bold-5296"
+    ],
+    "sizes": [
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.93,
+      382.44,
+      288.61,
+      395.22
+    ],
+    "text": "Printed 011 the Order of Govemme11t",
+    "fonts": [
+      "*Cambria-Italic-5303",
+      "*Minion Pro-BoldItalic-5304"
+    ],
+    "sizes": [
+      7.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.91,
+      438.86,
+      356.64,
+      464.57
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of March 07, 2008",
+    "fonts": [
+      "*Cambria-5302",
+      "*Times New Roman-Bold-5296"
+    ],
+    "sizes": [
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.87,
+      505.98,
+      318.66,
+      514.23
+    ],
+    "text": "TO DE l'URCIIASED ATlllE GO\\'[R.>,'ME.'-T PUBLICATIONS BUREAU, COLO6IDO 5",
+    "fonts": [
+      "*Calibri-5301"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.27,
+      526.18,
+      371.81,
+      540.65
+    ],
+    "text": "Price : Rs. 7 .00 Postage : Rs. 5.00",
+    "fonts": [
+      "*Cambria-5302",
+      "*Times New Roman-Bold-5296"
+    ],
+    "sizes": [
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.53,
+      42.98,
+      245.5,
+      68.74
+    ],
+    "text": "Co111111issio11s of Inquiry ( A111e11d111e111) Act, No. /6 nf 2008",
+    "fonts": [
+      "*Times New Roman-BoldItalic-146",
+      "*Times New Roman-Italic-14693"
+    ],
+    "sizes": [
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.88,
+      80.22,
+      233.36,
+      92.83
+    ],
+    "text": "[Ccrt_ified on 05th Marc\u0148. 2008]",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45.11,
+      98.21,
+      121.77,
+      110.82
+    ],
+    "text": "L.D.-0. I 7/'2007.",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.34,
+      116.4,
+      270.63,
+      140.96
+    ],
+    "text": "AN Arr TO M11::--o rn1; Co:-.1M1ss10:--s OF lNQvlRY ACT (CHAl'l\"l;R 393)",
+    "fonts": [
+      "*Microsoft Sans Serif-14695",
+      "*Microsoft Sans Serif-14696",
+      "*Minion Pro-14698",
+      "*Minion Pro-Bold-14699"
+    ],
+    "sizes": [
+      6.0,
+      8.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.53,
+      148.47,
+      289.42,
+      173.08
+    ],
+    "text": ". BE it enacted by the Democratic Socialist Republic of Sri Lanka as follows :-",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      45.41,
+      180.63,
+      287.14,
+      205.47
+    ],
+    "text": "1.This Act may be cited as the Commissions oflilquiry(Amendment) Act. No. 16 of 2008.",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.53,
+      212.89,
+      287.48,
+      249.67
+    ],
+    "text": "2.Section'.! of the Commis\u0149ions of Inquiry Act, (Chapter\u00b7 393) (hereinafier referred lo as '\"the principal enactment\") is. hereby amended as follows :-",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.51,
+      257.44,
+      288.12,
+      294.36
+    ],
+    "text": "(I) in subsection (I) thereof, by the substitution for thewords \u00b7\u2022an inquiry\" of the words \"an investigationor inquiry or both where appropriate\" ;",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.15,
+      300.02,
+      133.53,
+      312.63
+    ],
+    "text": "(2)by the repeal",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.69,
+      324.67,
+      290.41,
+      349.38
+    ],
+    "text": "of paragraphs (a).(/,) and (c) of subsection (1) thereof, and the substitution rherefor of the following :-",
+    "fonts": [
+      "*Cambria-BoldItalic-14697",
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.51,
+      354.91,
+      290.67,
+      403.83
+    ],
+    "text": ". \"(a) thC: administr:1tion, management and functions of any department of Government. any statutory body. any public or local authority or any other instirution ; or",
+    "fonts": [
+      "*Cambria-BoldItalic-14697",
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.15,
+      409.31,
+      287.62,
+      446.31
+    ],
+    "text": "(b)the conduct of any public officer, an employeeof a statutory body. any public or localauthority or any instirution\u00b7; or",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.45,
+      451.8,
+      288.25,
+      513.0
+    ],
+    "text": "(c)any m.attcr or incident in respect of which aninvestigation or inquiry or both aninvestigation and inquiry, as the case may be,will in his opinion, be in the national interestor ti.)r public safety or wellbeing.\";",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.35,
+      518.63,
+      288.63,
+      555.84
+    ],
+    "text": "(3)in subsection t 1) thereof, by the substitution for thewords \"to inquire into and report upon suchadministration, conduct or matter.\" of the words \"to",
+    "fonts": [
+      "*Microsoft Sans Serif-14695"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      44.82,
+      563.6,
+      154.49,
+      575.05
+    ],
+    "text": "2-PL 002601--4.250 (11/2007!",
+    "fonts": [
+      "*Times New Roman-14691"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.76,
+      181.46,
+      335.26,
+      192.91
+    ],
+    "text": "Shon title.",
+    "fonts": [
+      "*Times New Roman-14691"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.76,
+      214.45,
+      350.83,
+      243.0
+    ],
+    "text": "Amendment of section 2 of Chapter 393 .",
+    "fonts": [
+      "*Microsoft Sans Serif-Bold-1469"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.09,
+      42.45,
+      324.47,
+      57.67
+    ],
+    "text": "2 :\u00b7 'Co111111issio11s of Inquiry (A111e11d111e11t)",
+    "fonts": [
+      "*Cambria-Italic-9506",
+      "*Minion Pro-9508",
+      "*Times New Roman-Italic-9501"
+    ],
+    "sizes": [
+      9.5,
+      10.5,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201.07,
+      56.79,
+      285.04,
+      69.57
+    ],
+    "text": "\u00b7 Act, No. /6 of 2008",
+    "fonts": [
+      "*Cambria-Italic-9506"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.04,
+      80.53,
+      370.54,
+      132.68
+    ],
+    "text": "investigate or inquire or to both investigate and inquire, as the case may be, and report .upon such administration, management, functions, conduct, matter or incident ;",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.28,
+      143.08,
+      368.12,
+      171.49
+    ],
+    "text": "(4)by the addition immediately after subsection (2)\u00b7' \u00b7 ' thereof. of the following subsections :-",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153.77,
+      179.51,
+      372.47,
+      229.73
+    ],
+    "text": ".. \"(3) A member of the Commission appointed by \u00b7 Warrant issued under subsection (1) shall beremoved, only-if the President is satisfied that such\u00b7 -\u00b7\u00b7member:-",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.23,
+      239.63,
+      369.03,
+      254.53
+    ],
+    "text": ". (a) has abused or misused his office as a inember",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.09,
+      251.67,
+      371.79,
+      290.14
+    ],
+    "text": "... ; or has abused or misused the powers confe1Tedon him under this Act or by the Warrant appointing the Commission ;",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166.41,
+      300.61,
+      351.4,
+      314.75
+    ],
+    "text": "(b)has engaged in bribe(y or corruption ; or",
+    "fonts": [
+      "*Minion Pro-Italic-9507",
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      9.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167.08,
+      324.82,
+      368.69,
+      339.25
+    ],
+    "text": "(c)is suffering from mental or physical infirmity.",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.63,
+      349.08,
+      369.08,
+      399.4
+    ],
+    "text": "(4) Upon the removal of a member in terms of\u00b7 subsection (3) the President shall forthwith reportsuch fact to Parliament stating therein the reasonsfor the removal of such member.",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.69,
+      408.14,
+      371.56,
+      423.87
+    ],
+    "text": ".'\u00b7:\u00b7 \u00b7, , (5) Where the Commission consists of more than",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.19,
+      421.35,
+      371.93,
+      496.36
+    ],
+    "text": "one member, not less than one half of the total number of members -present, (which shall include the Chairman of the Commission) may, hot,vithstandinf, any vacancy in the membership of the Commission, exercise\u00b7 the powers of the.. -\u00b7 Commission under this Act.",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159.24,
+      506.59,
+      371.95,
+      557.01
+    ],
+    "text": "\u00b7\u00b7(6) The reports of the Commission shall containthe views of all the members of the Commis\u00bcon, including dissenting views if any and such reports . shall be signed by all the members save and except",
+    "fonts": [
+      "*Times New Roman-9499"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      10.46,
+      552.43,
+      19.72,
+      570.28
+    ],
+    "text": "2-",
+    "fonts": [
+      "*Courier New-9124"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.49,
+      30.24,
+      278.3,
+      53.39
+    ],
+    "text": "Co111111issio11s of lnqui,y (J\\111e11d111e11t} 3 Act, No. 16 o/2008",
+    "fonts": [
+      "*Minion Pro-Italic-9127",
+      "*Times New Roman-Italic-9122"
+    ],
+    "sizes": [
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.15,
+      66.13,
+      278.05,
+      112.63
+    ],
+    "text": "where a member of the Commission dies, resigns, , desires to be discharged, refuses or becomes unable to act as a member of the Commission or to place his signature in such report.\".",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.72,
+      125.57,
+      274.22,
+      148.09
+    ],
+    "text": "3.Section 5 of the principal enactment is hereby repealedand the following is substituted therefor:-\u00b7",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.18,
+      155.93,
+      78.66,
+      185.95
+    ],
+    "text": "''Alteration or revocation of warrant.",
+    "fonts": [
+      "*Cambria-Bold-9125"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.36,
+      157.06,
+      273.32,
+      179.41
+    ],
+    "text": "5. The President may, at any time alter orrevoke any warr\u00b7ant issued under this Act.\".",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285.43,
+      125.76,
+      340.85,
+      165.5
+    ],
+    "text": "Replacement of section 5 of the principal enactment.",
+    "fonts": [
+      "*Cambria-Bold-9125"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.42,
+      191.46,
+      336.96,
+      215.18
+    ],
+    "text": "4.Section 7 of the principal enactment is hereby Amendment ofamended as follows :-section 7 of the",
+    "fonts": [
+      "*Cambria-Bold-9125",
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      8.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.71,
+      223.22,
+      272.41,
+      245.63
+    ],
+    "text": "(J)by the re-numbering of that section as subsection( 1) of that section ;",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.42,
+      253.26,
+      272.39,
+      288.53
+    ],
+    "text": "(2)by the insertion immediat\u0089ly after paragraph (b) ofthe re-numbered subsection (l) of that section ofthe following new paragraphs :-",
+    "fonts": [
+      "*Calibri-Italic-9123",
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.71,
+      296.4,
+      277.63,
+      366.94
+    ],
+    "text": "\"(bb) to make an application to any Court of 1' .. w. or any tribunal to obtain certified copies of any proceedings of any case, any document or any certified copy of such document or of any other material filed or recorded in such court of law or tribunal ;",
+    "fonts": [
+      "*Calibri-Italic-9123",
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.71,
+      374.25,
+      276.07,
+      421.17
+    ],
+    "text": "(bbb) to require any person to produce any document, a certified copy thereof or any other material which is in his possession or custody;",
+    "fonts": [
+      "*Calibri-Italic-9123",
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.34,
+      428.78,
+      273.97,
+      464.41
+    ],
+    "text": "(bbbb) to require any person to provide to the Commission any information in writing which he is likely to possess;'! .",
+    "fonts": [
+      "*Calibri-Italic-9123",
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.52,
+      473.15,
+      273.86,
+      507.45
+    ],
+    "text": ".(3) by the addition immediately after the re-numbered subsection ( 1) of that section, of the following new subsection :-",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.27,
+      516.6,
+      273.57,
+      539.2
+    ],
+    "text": "\u00b7 \"(2) Where any report is rendered in terms ofany Warrant issued to a Commission appointed",
+    "fonts": [
+      "*Minion Pro-9126"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      284.17,
+      210.95,
+      322.23,
+      231.37
+    ],
+    "text": "principal enactment.",
+    "fonts": [
+      "*Cambria-Bold-9125"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      57.96,
+      178.88,
+      119.49,
+      228.74
+    ],
+    "text": "lnscnion of sections 23, 24, 25 and 26 in lhe principal enaclment.",
+    "fonts": [
+      "*Times New Roman-Bold-14762"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.07,
+      32.79,
+      328.24,
+      58.42
+    ],
+    "text": "4 Commissions of Inquiry ( A111e11dme11t) Act, No. /6 o/2008",
+    "fonts": [
+      "*Arial-Bold-14766",
+      "*Cambria-Italic-14767",
+      "*Cambria-Italic-14768",
+      "*Cambria-Italic-14769"
+    ],
+    "sizes": [
+      8.0,
+      9.5,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.13,
+      71.0,
+      373.15,
+      166.19
+    ],
+    "text": "'under this Act, such Commission may make recommendations to the relevant disciplinary authority with r\u00dcgard to the action that it considers necessary to be taken in respect of any person whose conduce is the subject of the inquiry or investigation or who is in any way implicated or concerned in the matter which such Commission was warranted to investigate or inquire into''.",
+    "fonts": [
+      "*Minion Pro-14770"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.31,
+      179.93,
+      373.44,
+      226.61
+    ],
+    "text": "S; The following new sections are hereby inserted immediately after section 22 of the principal enactment and shall have effect as sections 23. 24, 25 and 26 of that enactment :-",
+    "fonts": [
+      "*Minion Pro-14770"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.26,
+      239.65,
+      179.88,
+      289.71
+    ],
+    "text": "\"Assistance of public officers in investigations or inquiries.",
+    "fonts": [
+      "*Times New Roman-Bold-14762"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.96,
+      504.97,
+      174.72,
+      535.89
+    ],
+    "text": "lns1i1u1ion of Criminal\u00b7 Proceedings.",
+    "fonts": [
+      "*Times New Roman-Bold-14762"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      183.44,
+      240.52,
+      373.62,
+      395.95
+    ],
+    "text": "23. Where a Commission of Inquiryappointed in terms of this Act, has been required by the President to conduct an investigation or inquiry or both an investigation and inquiry into any matter or incident. notwithstanding the generality of the powers conferred on such Commission, it shall be entitled to obtain the assistance of a public officer selected by the Commission. \u00b7Nith the concurrence of the relevant appointing authority. and through such officer cause the conduct of investigations into any relevant matter or incident under its direction and supervision",
+    "fonts": [
+      "*Minion Pro-14770"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      183.79,
+      409.55,
+      373.65,
+      492.8
+    ],
+    "text": "Provided however. the Commission shall not arrive at any conclusion on such matter or incident investigated into, unless the Commission has examined the material collected in the course of such investigation and inquired into such matter or incident. observing the rules of natural justice.",
+    "fonts": [
+      "*Minion Pro-14770"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178.66,
+      506.94,
+      372.51,
+      541.99
+    ],
+    "text": "24. Notwithstanding anything to thecontrary in the Code of Criminal Procedure Act, \u00b7 No. 15 of 1979 or any other Jaw, it shall be",
+    "fonts": [
+      "*Minion Pro-14770"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.98,
+      31.07,
+      303.5,
+      57.65
+    ],
+    "text": "Commissions of !11q11ily ( A111e11d111e.111) \u00b7 5: \u00b7 Act; No. /6 of 2008",
+    "fonts": [
+      "*Cambria-Italic-13544",
+      "*Minion Pro-Italic-13548",
+      "*Times New Roman-13541"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.66,
+      70.77,
+      297.11,
+      155.28
+    ],
+    "text": "-lawful for the Allorney-General to instill!tecriminal proceedings in a court of law in resp.::ctof any offence, based on material collected inthe course of an investigation or inquiry or bothan investigation and inquiry. as the case maybe, by a Commission of Inquiry appointed under this Act.",
+    "fonts": [
+      "*Minion Pro-13546"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      52.58,
+      165.55,
+      296.5,
+      249.04
+    ],
+    "text": "Commission 25. ( l) A Commission oflnquiry appointed10 make rules. under this Act, shall subject to the provisions of this Act and any other law, with the approval of the Minister, have the power to make rules relating to the organizational structure, mandates of subordinate structures and functions of officers of the Commission.",
+    "fonts": [
+      "*Calibri-Bold-13542",
+      "*Cambria-Bold-13543",
+      "*Minion Pro-13546",
+      "*Times New Roman-Bold-13540"
+    ],
+    "sizes": [
+      6.0,
+      8.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.09,
+      382.54,
+      98.51,
+      412.29
+    ],
+    "text": "Powers of !he Attorney\u00b7 General.",
+    "fonts": [
+      "*Cambria-Bold-13543"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.66,
+      259.26,
+      296.49,
+      294.28
+    ],
+    "text": "(2) The Commission shall subject to the rulesmade under subs\u00ebtion (I) and be governed by such rules.",
+    "fonts": [
+      "*Minion Pro-13546"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.97,
+      302.56,
+      296.62,
+      327.8
+    ],
+    "text": "(3) The Commission may from time to time amend the rules made under subsection (I).",
+    "fonts": [
+      "*Minion Pro-13546",
+      "*Minion Pro-13547"
+    ],
+    "sizes": [
+      7.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.63,
+      338.17,
+      296.75,
+      373.13
+    ],
+    "text": "(4) The rules made by the Commission shallas soon as practicable be published in the Gazetre.",
+    "fonts": [
+      "*Minion Pro-13546"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.89,
+      383.86,
+      296.85,
+      418.66
+    ],
+    "text": "26. (I) In the conduct of an inquiry orinvestigation under th\u00ec provisions of this Act, the Attorney-General rnay-",
+    "fonts": [
+      "*Minion Pro-13546"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.82,
+      428.86,
+      271.01,
+      440.33
+    ],
+    "text": "(a)appear before any Comrnission ;",
+    "fonts": [
+      "*Minion Pro-13546",
+      "*Tahoma-Italic-13545"
+    ],
+    "sizes": [
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.92,
+      450.03,
+      294.61,
+      508.65
+    ],
+    "text": "(b)place before the Commission anyevidence or other material. which inthe opinion of the Attorney-Generalis relevant to the investigation or\u00b7inquiry as the case may be ;",
+    "fonts": [
+      "*Minion Pro-13546",
+      "*Tahoma-Italic-13545"
+    ],
+    "sizes": [
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.62,
+      518.96,
+      292.78,
+      541.91
+    ],
+    "text": "(c)examine any witness summoned by theCommission if it appears to him that",
+    "fonts": [
+      "*Minion Pro-13546",
+      "*Tahoma-Italic-13545"
+    ],
+    "sizes": [
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      36.75,
+      235.77,
+      94.78,
+      266.01
+    ],
+    "text": "Sinhal:t text 10 prevail in case of inconsistency.",
+    "fonts": [
+      "*Times New Roman-Bold-6222"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109.05,
+      29.09,
+      307.86,
+      55.51
+    ],
+    "text": "6 Commissions of Inquiry ( A111e11d111ellf) Act, No. 16 of 2008",
+    "fonts": [
+      "*Cambria-Italic-6224",
+      "*Minion Pro-6226",
+      "*Times New Roman-BoldItalic-622"
+    ],
+    "sizes": [
+      6.5,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      196.64,
+      68.09,
+      352.54,
+      114.79
+    ],
+    "text": "the evidence of such witness is material to, or has disclosed information relevant to, the investigation or inquiry as the case may be.",
+    "fonts": [
+      "*Minion Pro-6225"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170.89,
+      128.53,
+      353.53,
+      223.28
+    ],
+    "text": "(2) On a request made by the Attorney\u00adGe nera-1. the Commission shall make available to the Attorney-General copies of all statements and testimonies re<:orded and any other material collected or received by such Commission in the course of the \u00b7 conduct of such inquiry or investigation asthe case may be.\".",
+    "fonts": [
+      "*Cambria-6223",
+      "*Minion Pro-6225"
+    ],
+    "sizes": [
+      10.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109.14,
+      237.08,
+      350.35,
+      259.69
+    ],
+    "text": "6.ln the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "*Minion Pro-6225"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      47.51,
+      504.91,
+      364.44,
+      535.14
+    ],
+    "text": "Annual \u00c9ubscription of English Bills and Acts of the Parliament Rs. 885 {Local), Rs. 1.180(Foreign), Payabk lo lhc Sl/1'\u00a3Rl:-0'TE.''DE:-O,, GOVEl<NME.VT Pl!IJUCA110NS Bl!Rf,\\U, DlirAKTMr.,, OF GovERNMe., 11'-FORMATION, No. 16\u00ca. K1RULAPONA MAwArn ... PoutEl'.GODA.COL<:iMuoOS befon: 15th",
+    "fonts": [
+      "*Arial-4171",
+      "*Times New Roman-Bold-4164"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      112.94,
+      533.83,
+      299.02,
+      544.61
+    ],
+    "text": "December each year in respect of lhc year following.",
+    "fonts": [
+      "*Times New Roman-Bold-4164"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
