@@ -1,0 +1,28 @@
+{
+  "doc_class_label": "lk_bills",
+  "doc_class_emoji": "\u2696\ufe0f",
+  "doc_class_description": "A Bill in Sri Lanka is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
+  "time_updated": "2025-09-19 16:57:06",
+  "n_docs": 1,
+  "n_docs_with_pdfs": 1,
+  "n_docs_with_text": 1,
+  "date_str_min": "2025-09-18",
+  "date_str_max": "2025-09-18",
+  "dataset_size": 822845,
+  "url_source": "https://documents.gov.lk/view/bills/bl_2025.html",
+  "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills",
+  "langs": [
+    "en"
+  ],
+  "latest_doc_d": {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-09-18-2025-09-18-633-2025-en",
+    "num": "2025-09-18-633-2025-en",
+    "date_str": "2025-09-18",
+    "description": "Rent (Repeal) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/9/633-2025_E.pdf",
+    "doc_number": "633/2025"
+  }
+}
