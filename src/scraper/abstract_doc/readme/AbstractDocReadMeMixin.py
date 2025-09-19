@@ -47,15 +47,17 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
 
     @classmethod
     def get_line_for_blurb_item_lang(cls, summary) -> list[str]:
-        lang = summary["latest_doc_d"]["lang"]
+        langs = summary["langs"]
         blurb_langs = []
         for lang_i, lang_label in [
             ["si", "සිංහල"],
             ["ta", "தமிழ்"],
             ["en", "English"],
         ]:
-            if lang_i in lang:
-                blurb_langs.append(f"**{lang_label}**")
+            for lang in langs:
+                if lang_i in lang:
+                    blurb_langs.append(f"**{lang_label}**")
+                    break
 
         return "- In " + Format.and_list(blurb_langs)
 
