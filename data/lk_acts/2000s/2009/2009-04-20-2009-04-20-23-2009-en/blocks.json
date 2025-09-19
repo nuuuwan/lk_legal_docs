@@ -1,0 +1,3325 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      280.18,
+      432.51,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      150.57,
+      394.62,
+      449.27,
+      447.61
+    ],
+    "text": "INSTITUTE OF CERTIFIED MANAGEMENTACCOUNTANTS OF SRI LANKAACT, No. 23 OF 2009",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      514.57,
+      373.16,
+      526.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.49,
+      477.16,
+      363.14,
+      491.01
+    ],
+    "text": "[Certified on 20th April, 2009]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      635.18,
+      404.13,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.68,
+      671.49
+    ],
+    "text": "Price : Rs. 14.00Postage : Rs. 7.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.82,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of April 24, 2009",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.85,
+      165.55,
+      383.69,
+      190.78
+    ],
+    "text": "1Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      680.06,
+      261.47,
+      690.73
+    ],
+    "text": "2\u2014PL 003704\u20144,200 (02/2009)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.21,
+      201.19,
+      326.46,
+      214.53
+    ],
+    "text": "[Certified on 20th April, 2009]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      222.67,
+      217.24,
+      236.01
+    ],
+    "text": "L.D.\u2014O 46/2006.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      244.15,
+      383.85,
+      257.49
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE INSTITUTE OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      255.67,
+      383.86,
+      269.01
+    ],
+    "text": "CERTIFIED MANAGEMENT ACCOUNTANTS OF SRI LANKA AND OF A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      267.19,
+      383.85,
+      280.53
+    ],
+    "text": "COUNCIL OF THE INSTITUTE WHICH SHALL BE RESPONSIBLE FOR THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      278.71,
+      383.73,
+      292.05
+    ],
+    "text": "MANAGEMENT OF ITS AFFAIRS; TO PROVIDE FOR THE REGISTRATION OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      290.23,
+      383.84,
+      303.57
+    ],
+    "text": "MEMBERS OF THE INSTITUTE AND TO SPECIFY CRITERIA FOR AND THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      301.63,
+      383.85,
+      314.97
+    ],
+    "text": "MAINTENANCE OF PROFESSIONAL STANDARDS AND DISCIPLINE BY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      313.15,
+      383.87,
+      326.49
+    ],
+    "text": "MEMBERS OF THE INSTITUTE; AND TO PROVIDE FOR MATTERS CONNECTED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      324.67,
+      278.11,
+      338.01
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      346.15,
+      383.87,
+      371.01
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      379.15,
+      383.85,
+      404.01
+    ],
+    "text": "1.This Act may be cited as the Institute of CertifiedManagement Accountants of Sri Lanka Act, No. 23 of 2009.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.21,
+      412.15,
+      278.49,
+      425.49
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146.13,
+      433.63,
+      381.56,
+      446.97
+    ],
+    "text": "CONSTITUTION, OBJECTS AND POWERS OF THE INSTITUTE OF CERTIFIED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.13,
+      445.15,
+      339.56,
+      458.49
+    ],
+    "text": "MANAGEMENT ACCOUNTANTS OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      466.63,
+      384.04,
+      548.97
+    ],
+    "text": "2.(1) There shall be established an Institute which shallbe called the \u201cInstitute of Certified Management Accountantsof Sri Lanka\u201d (hereinafter referred to as the \u201cInstitute\u201d)consisting of the persons who are for the time being membersof the Society of Certified Management Accountants of SriLanka incorporated under the Societies Ordinance (Chapter123).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      557.11,
+      384.08,
+      605.01
+    ],
+    "text": "(2) The Institute shall, by the name assigned to it bysubsection (1), be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued insuch name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      613.15,
+      383.71,
+      638.01
+    ],
+    "text": "3.The general objects for which the Institute isconstituted are hereby declared\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      646.51,
+      383.86,
+      671.85
+    ],
+    "text": "(a)to provide for a professional organization formanagement accountants;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      379.46,
+      432.57,
+      390.13
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      467.42,
+      455.17,
+      526.09
+    ],
+    "text": "Establishment ofthe Institute ofCertifiedManagementAccountants ofSri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      613.7,
+      450.53,
+      633.97
+    ],
+    "text": "General objectsof the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "2Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      201.55,
+      451.34,
+      262.89
+    ],
+    "text": "(b)to promote and develop the study of managementAccountancy; to establish and issue managementAccountancy Standards; and to encourage theapplication of correct principles, techniques andpractices of Management Accountancy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      268.75,
+      451.29,
+      318.09
+    ],
+    "text": "(c)to take necessary steps to promote the profession ofManagement Accountancy in its practice toindustry, commerce, education, finance, publicservice and information technology;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      323.95,
+      451.23,
+      373.29
+    ],
+    "text": "(d)to conduct a Certified Management AccountingProgram leading to the Professional ManagementAccounting qualification and to take steps toemphasize the importance of such a qualification;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      379.15,
+      451.27,
+      416.49
+    ],
+    "text": "(e)to provide for a post management accountingqualification for the professional developmentof members at both Masters and Doctorate levels;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.15,
+      422.35,
+      451.12,
+      447.69
+    ],
+    "text": "(f)to monitor the admission of members to themembership of the Institution;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      453.55,
+      451.29,
+      514.89
+    ],
+    "text": "(g)to undertake and regulate the professionaleducation and practical training of persons who arekeen to qualify in Management Accountancy andto approve a Practical Training Scheme to befollowed by the students;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      520.75,
+      451.29,
+      570.09
+    ],
+    "text": "(h)to prescribe and approve courses of study beingconducted by the Institute, taking intoconsideration its functions in relation to education,training and examination;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.15,
+      575.95,
+      451.36,
+      673.29
+    ],
+    "text": "(i)to conduct examinations for the grant of therequired professional qualifications and tocollaborate with recognized local and foreignprofessional and educational Institutions topromote studies in such institution and to obtainexemptions and recognition in the field ofManagement Accountancy for members of theInstitute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.85,
+      165.55,
+      383.69,
+      190.78
+    ],
+    "text": "3Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      201.67,
+      383.9,
+      239.61
+    ],
+    "text": "(j)to promote, collaborate and assist in the study ofManagement Accountancy, at Universities andother Higher Educational Institutions;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      250.87,
+      384.01,
+      301.17
+    ],
+    "text": "(k)to prescribe the qualifications and disqualificationsapplicable for membership to the Institute and toestablish standards of professional conduct andethics for members of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      312.43,
+      384.01,
+      350.37
+    ],
+    "text": "(l)to organize, supervise and regulate continuingprofessional education for the benefit of themembers;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.13,
+      361.63,
+      383.96,
+      424.17
+    ],
+    "text": "(m)to maintain a library of both print and electronicmedia, books and periodicals, relating toManagement Accountancy and related subjects forthe use of members, students and those interestedin the field of Management Accountancy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      435.43,
+      383.93,
+      461.01
+    ],
+    "text": "(n)to encourage the publication of books andperiodicals relating to Management Accountancy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      472.27,
+      383.96,
+      510.21
+    ],
+    "text": "(o)to grant scholarships, awards and prizes for thosewho excel in the field of ManagementAccountancy; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      521.47,
+      383.94,
+      559.41
+    ],
+    "text": "(p)to award Diplomas and Certificates to the membersof the Institute and to those who fulfill theconditions prescribed by the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      570.67,
+      383.73,
+      596.37
+    ],
+    "text": "4.The following persons shall be eligible formembership of the Institute:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      607.63,
+      384.0,
+      670.17
+    ],
+    "text": "(a)any person who passes the qualifying examinationsfor membership of the Institute to be conducted bythe Council under this Act and who possess suchpractical training as may, from time to time beprescribed by the Council; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      572.42,
+      449.89,
+      602.29
+    ],
+    "text": "Eligibility forMembership ofthe Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "4Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      201.55,
+      451.32,
+      274.89
+    ],
+    "text": "(b)any person who is a member of any professionalbody of Accountants by whatever name called andwhich is approved by rules made by the Councilfor the time being, and such Association is, in theopinion of the Council, an Association of equivalentstatus to the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      285.55,
+      451.15,
+      310.89
+    ],
+    "text": "5.(1) The members of the Institute shall comprise FellowMembers and Associate Members.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      321.55,
+      451.38,
+      430.89
+    ],
+    "text": "(2) A student on completion of all examinations of theInstitute and acquiring a minimum of three years of practicalexperience in an approved sector as prescribed by theCouncil upon application being made to the Council andpayment to the Council of the prescribed fee shall be eligiblefor registration as an Associate of the Institute by theCouncil. Such member shall upon registration by the Councilas an Associate of the Institute be entitled to use the addition\u201cACMA\u201d after his name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      441.55,
+      451.39,
+      598.89
+    ],
+    "text": "(3) Any Member of the Institute who satisfies the Councilthat he has been an Accountant, Management Consultant ora lecturer in a university established under the UniversitiesAct, No. 16 of 1978 for not less than five years with aminimum of three years Senior Managerial or equivalentexperience and who has fulfilled such requirements as maybe prescribed by the Council shall be eligible for registrationas a Fellow of the Institute by the Council. Any person eligiblefor registration may forward an application to the Councilfor registration along with the prescribed fee. A membershall, upon registration by the Council as a Fellow of theInstitute, be entitled to use the addition \u201cFCMA\u201d after hisname.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      609.55,
+      451.32,
+      670.89
+    ],
+    "text": "(4) Every member of the Institute who is not registeredunder subsection (3) as a Fellow of the Institute shall be anAssociate Member and shall have the right to use the additionof \u201cACMA\u201d after his name to indicate that he is an AssociateMember.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      287.3,
+      196.14,
+      307.57
+    ],
+    "text": "Classification ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167.85,
+      165.55,
+      383.69,
+      190.78
+    ],
+    "text": "5Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      201.55,
+      383.85,
+      226.89
+    ],
+    "text": "(5) Every Member of the Institute shall be entitled to takeand use the title \u201cCertified Management Accountant (CMA)\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      237.55,
+      384.04,
+      286.89
+    ],
+    "text": "(6) No person, not being a Member of the Institute shalltake or use the title \u201cCertified Management Accountant(CMA)\u201d or any addition mentioned in subsections (3) and(4) above.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      297.55,
+      384.03,
+      346.89
+    ],
+    "text": "6.(1) No person shall take or use any title either bydescription or abbreviation or the logo of the Institute, unlesssuch person is eligible under section 5 and has beenauthorized in writing by the Council of the Institute to do so.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      357.55,
+      383.64,
+      382.89
+    ],
+    "text": "(2) Any person who contravenes the provisions ofsubsection (1) shall be guilty of an offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      393.55,
+      383.99,
+      430.89
+    ],
+    "text": "7.The Institute shall have such powers, duties andfunctions as may reasonably be necessary to carry out itsobjects and in particular may\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      441.55,
+      384.03,
+      490.89
+    ],
+    "text": "(a) acquire in any manner whatsoever and hold, takeor give on lease or hire, mortgage, pledge, sell orotherwise dispose of, any movable or immovableproperty;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      501.55,
+      383.8,
+      526.89
+    ],
+    "text": "(b)establish and operate management training andeducation centres;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      537.55,
+      383.96,
+      562.89
+    ],
+    "text": "(c)conduct, assist, co-ordinate and encourage researchinto all aspects of management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      573.55,
+      383.71,
+      598.89
+    ],
+    "text": "(d)appoint, employ, remunerate and exercisedisciplinary control over its officers and servants;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      609.55,
+      383.91,
+      634.89
+    ],
+    "text": "(e)levy fees or charges for any service rendered by theInstitute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      645.55,
+      383.97,
+      671.13
+    ],
+    "text": "(f)pay fees or charges for any services rendered to theInstitute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      299.78,
+      452.86,
+      320.05
+    ],
+    "text": "Use of titles andlogo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      395.42,
+      448.29,
+      415.69
+    ],
+    "text": "Powers &c., ofthe Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "6Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      202.03,
+      451.26,
+      253.41
+    ],
+    "text": "(g)import equipment required for the purposes of theInstitute, and receive equipment, funds, and anyother assistance for carrying out the objects of theInstitute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      265.51,
+      450.95,
+      291.57
+    ],
+    "text": "(h)obtain the services of personnel to carry out theobjects of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      229.15,
+      303.55,
+      451.23,
+      342.33
+    ],
+    "text": "(i)establish work performance standards for its ownpersonnel, evaluate such performance and takereasonable action thereupon;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      229.15,
+      354.43,
+      451.16,
+      380.37
+    ],
+    "text": "(j)establish and maintain welfare and recreationalfacilities for its employees;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227.71,
+      392.47,
+      451.32,
+      443.85
+    ],
+    "text": "(k)make rules in relation to its officers and servantsincluding the appointment, training, promotion,remuneration, disciplinary control, conduct andgrant of leave;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      229.15,
+      455.95,
+      451.14,
+      482.01
+    ],
+    "text": "(l)make rules in respect of the general administrationof the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.43,
+      494.11,
+      451.22,
+      520.05
+    ],
+    "text": "(m)to issue guidelines and standards in ManagementAccounting for the members of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      532.15,
+      451.17,
+      558.21
+    ],
+    "text": "(n)to open and operate bank accounts, to borrow money,to receive grants and donations, and to invest funds;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      570.31,
+      451.38,
+      596.25
+    ],
+    "text": "(o)to defend the intellectual property rights of theInstitute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      608.35,
+      451.26,
+      672.45
+    ],
+    "text": "(p)to make rules, not inconsistent with the provisionsof this Act for the management of the Institute andaccomplishment of its objects. These rules whenmade may be altered, added, amended or rescinded,in the manner provided for herein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167.85,
+      165.55,
+      383.69,
+      190.78
+    ],
+    "text": "7Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      201.19,
+      384.01,
+      237.57
+    ],
+    "text": "8.(1) There shall be a Governing Council (hereinafterreferred to as the \u201cCouncil\u201d) responsible for the management,control and administration of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.85,
+      246.67,
+      294.7,
+      260.01
+    ],
+    "text": "(2) The Council shall consist of\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      269.23,
+      383.86,
+      293.97
+    ],
+    "text": "(a)President and Vice-President elected by themembers of the Institute among its membership;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      303.19,
+      331.29,
+      316.53
+    ],
+    "text": "(b)the following ex-officio members :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.85,
+      325.63,
+      383.76,
+      350.49
+    ],
+    "text": "(i)the Governor of the Central Bank of Sri Lankaor his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      182.85,
+      359.71,
+      384.02,
+      407.49
+    ],
+    "text": "(ii)the President of the Institute of CharteredAccountants of Sri Lanka or his nominee whois a current member of the Council of theInstitute;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.85,
+      416.71,
+      383.96,
+      452.97
+    ],
+    "text": "(iii)the Head of the Department of Accounting ofthe University of Sri Jayawardanapura or hisnominee; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.29,
+      462.19,
+      383.94,
+      487.05
+    ],
+    "text": "(c)three members elected by the members of theInstitute among its membership.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      496.63,
+      383.94,
+      567.45
+    ],
+    "text": "(3) The members of the Council of the Society of CertifiedManagement Accountants of Sri Lanka holding office onthe day immediately preceding the date of the coming intooperation of this Act, shall be the members of the first Councilof the Institute established herein, and shall hold office for aperiod of four years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      577.15,
+      384.1,
+      613.53
+    ],
+    "text": "(4) Elections for the election of members in terms ofparagraphs (a) and (c) of subsection (2) shall be conductedin accordance with the rules of the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      623.11,
+      384.08,
+      671.85
+    ],
+    "text": "9.(1) Every member of the Council shall, unless heearlier vacates office, hold office for a period of two yearsfrom the date of his appointment or election as the casemay be:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      204.02,
+      449.11,
+      224.29
+    ],
+    "text": "Constitution ofthe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      624.02,
+      447.58,
+      653.89
+    ],
+    "text": "Term of officeof members ofthe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "8Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      201.31,
+      451.29,
+      261.45
+    ],
+    "text": "Provided however, that the members appointed undersubsection (3) of section 8 holding office at the expirationof period of four years from the date referred to in thatsubsection shall thereupon vacate office, but shall be eligiblefor re-election.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      269.83,
+      451.17,
+      306.57
+    ],
+    "text": "(2) A member of the Council shall vacate office byresignation therefrom or if he ceases to be a member of theInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      314.95,
+      451.34,
+      386.73
+    ],
+    "text": "(3) In the event of the death of, or vacation of office by amember of the Council, another person shall, in accordancewith the provisions of section 7, be appointed or elected, asthe case may be, in place of such member, and shall holdoffice during the remaining part of the term of office of suchmember.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      395.11,
+      451.11,
+      431.85
+    ],
+    "text": "(4) Any member of the Council who vacates office byeffluxion of time shall be eligible for reappointment orre-election as a member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      440.23,
+      451.15,
+      488.61
+    ],
+    "text": "(5) A member of the Council shall be deemed to havevacated office on failure to attend three consecutive meetingsof the Council unless excused by the Council or upon suchmember ceasing to be a member of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      498.67,
+      451.3,
+      547.17
+    ],
+    "text": "10.No act or proceeding of the Institute shall be deemedto be invalid by reason only of the existence of any vacancyin the Council or defect in the appointment of any memberof the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      597.67,
+      451.32,
+      670.41
+    ],
+    "text": "11.It shall be lawful for the Council to appoint anAdvisory Board consisting of not more than ten eminentpersons for a period not exceeding two years. The Councilmay, at its discretion, seek the views and advice of theAdvisory Board, but it shall in no way be bound to accept orexecute any such advice.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      499.58,
+      193.18,
+      591.25
+    ],
+    "text": "Acts orproceedings ofthe Institutedeemed not tobe invalid byreason of anyvacancy ordefect in theappointment ofa member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      598.58,
+      195.41,
+      628.45
+    ],
+    "text": "Appointment ofan AdvisoryBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167.85,
+      165.55,
+      383.69,
+      190.78
+    ],
+    "text": "9Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      201.55,
+      384.62,
+      262.89
+    ],
+    "text": "12.The Council may from time to time invitedistinguished local or foreign persons of eminence having aprofessional background to serve as Patrons of the Institute.They shall not be required to pay any entrance fees or annualsubscriptions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      273.55,
+      383.57,
+      310.89
+    ],
+    "text": "13.All or any of the members of the Council may bepaid such remuneration out of the funds of the Institute asmay be determined by the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      321.55,
+      383.54,
+      346.89
+    ],
+    "text": "14.(1) The meetings of the Council shall be held atleast once a month.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      357.55,
+      384.02,
+      406.89
+    ],
+    "text": "(2) At least seven days notice of every meeting of theCouncil shall be given in writing to each of the members,and such notice shall specify the business to be dealt with atsuch meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      417.55,
+      384.01,
+      454.89
+    ],
+    "text": "(3) The President shall summon a special meeting of theCouncil within seven days after being requested in writingto do so by five members of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      465.55,
+      383.97,
+      490.89
+    ],
+    "text": "(4) The quorum for a general meeting of the Council shallbe three members present in person or by proxy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      501.55,
+      383.94,
+      550.89
+    ],
+    "text": "(5) Every member who attends a meeting of the Councilshall be paid a fee or re-imbursement of any expenses incurredin attending such meeting, in such amount as may bedetermined by the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      561.55,
+      383.98,
+      610.89
+    ],
+    "text": "(6) The President shall preside at meetings of the Counciland in the absence of the President from any meeting of theCouncil a member chosen by the majority of members presentshall preside at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      621.55,
+      384.04,
+      670.89
+    ],
+    "text": "(7) If the President is by reason of illness or other infirmityor absence from Sri Lanka, temporarily unable to performthe duties of his office the Council may appoint one of themembers to act in his place.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      203.06,
+      444.58,
+      223.33
+    ],
+    "text": "Patrons of theInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      273.98,
+      455.88,
+      294.25
+    ],
+    "text": "Remuneration ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      323.42,
+      451.31,
+      343.69
+    ],
+    "text": "Meetings of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "10Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      201.55,
+      451.25,
+      238.89
+    ],
+    "text": "(8) Where three is an equality of votes on any matter orthing decided at a meeting of the Council, the President atsuch meeting shall, in addition to his vote, have a casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      247.15,
+      451.32,
+      284.49
+    ],
+    "text": "(9) Subject to the provisions herein contained, theCouncil may determine its own procedure for the transactionof business of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      314.71,
+      292.75,
+      347.69,
+      306.09
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      229.15,
+      314.35,
+      433.17,
+      327.69
+    ],
+    "text": "APPOINTMENT OF OFFICERS AND SERVANTS OF THE INSTITUTE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      335.95,
+      451.26,
+      373.29
+    ],
+    "text": "15.(1) The Council may appoint to the staff of theInstitute, a Chief Executive Officer, who shall administerthe affairs of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      381.55,
+      451.37,
+      418.89
+    ],
+    "text": "(2) The Chief Executive Officer shall exercise, performand discharge such powers, duties and functions as may bedelegated to him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      427.15,
+      451.01,
+      452.49
+    ],
+    "text": "(3) The Council may remove from office the ChiefExecutive Officer appointed under subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      460.75,
+      451.04,
+      486.09
+    ],
+    "text": "(4) The Chief Executive Officer may be paid suchremuneration as may be determined by the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      496.75,
+      451.16,
+      522.09
+    ],
+    "text": "16.(1) Subject to the other provisions of this Act, theCouncil may\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      530.35,
+      451.25,
+      567.69
+    ],
+    "text": "(a)appoint to the staff of the Institute such other officersand servants as may be necessary for the purposesof the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      575.95,
+      451.2,
+      601.29
+    ],
+    "text": "(b)dismiss and exercise disciplinary control over thestaff of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.71,
+      609.55,
+      451.18,
+      634.89
+    ],
+    "text": "(c)fix the wages or salaries or other remuneration ofthe staff;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      643.15,
+      451.18,
+      668.49
+    ],
+    "text": "(d)determine the terms and conditions of service ofsuch staff; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      336.98,
+      195.41,
+      386.05
+    ],
+    "text": "Appointment ofthe ChiefExecutiveOfficer of theInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      498.5,
+      196.19,
+      557.17
+    ],
+    "text": "Powers of theInstitute inregard toappointments tothe staff of theInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      167.85,
+      165.55,
+      383.85,
+      190.78
+    ],
+    "text": "11Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      201.55,
+      384.04,
+      238.05
+    ],
+    "text": "(e)establish and regulate provident funds and schemesfor the benefit of such staff and make contributionsto any such fund or scheme.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      246.19,
+      383.84,
+      271.05
+    ],
+    "text": "(2) Rules may be made in respect of any one or all mattersspecified in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      279.19,
+      384.06,
+      373.05
+    ],
+    "text": "17.(1) The Council may delegate to the ChiefExecutive Officer any of its powers relating to theappointment of other officers or servants to the staff of theInstitute. The conditions of employment includingremuneration of any of the members of the professional staffappointed by the Chief Executive Officer under the powersdelegated to him, shall be determined with the approval ofthe Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      381.19,
+      383.94,
+      428.97
+    ],
+    "text": "(2) The dismissal, by the Chief Executive Officer or anyofficer or servant or any member of the professional staffof the Institute shall not take effect unless it is approved bythe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      437.11,
+      383.53,
+      473.49
+    ],
+    "text": "18.The Chief Executive Officer with the concurrenceof the Council shall determine the duties of the officers andservants of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155.85,
+      483.19,
+      371.56,
+      497.13
+    ],
+    "text": "19.(1) The Council may make rules in respect of\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      504.67,
+      383.91,
+      552.45
+    ],
+    "text": "(a)the classification of membership, fees payable byeach class of member, their admission, withdrawal,expulsion for non payment of membership fees orresignation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      558.67,
+      384.01,
+      629.49
+    ],
+    "text": "(b)appointment, employment and dismissal of variousofficers, agents and servants of the Institute, theirpowers, duties, functions and conduct andthe payment of remuneration and the regulationof provident funds and other schemes for theirbenefit;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      635.71,
+      383.97,
+      671.97
+    ],
+    "text": "(c)fixing of the student registration fees, annualsubscription, exam fees, lecture fees, prices of studytexts and other publications;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      280.94,
+      455.83,
+      339.61
+    ],
+    "text": "Delegation ofpowers of theCouncil of theChief ExecutiveOfficer in regardto appointments.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      437.78,
+      446.1,
+      458.05
+    ],
+    "text": "Determinationof duties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      483.98,
+      417.55,
+      494.65
+    ],
+    "text": "Rules.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "12Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      201.55,
+      451.73,
+      261.81
+    ],
+    "text": "(d)appointment of committees and sub-committees ofthe Council consisting of members of the Counciland the membership of the Institute to deal withspecific subjects and the regulation of the functionsof such committees;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      227.71,
+      271.87,
+      451.22,
+      296.85
+    ],
+    "text": "(e)the administration and management of the propertyof the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      306.91,
+      451.33,
+      355.41
+    ],
+    "text": "(f)election of, or vacation of or removal fromoffice of, the members of the Council and theirresignation, from office, office-bearers and theirpowers, duties and conduct;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      365.47,
+      451.31,
+      437.25
+    ],
+    "text": "(g)the procedure to be observed at the summoningand holding of meetings, Annual General Meetingsand Extraordinary Meetings of the Council and theInstitute, filling of vacancies, notices and agendaof such meeting, the quorum thereof and theconduct of business thereat;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      447.31,
+      451.33,
+      472.41
+    ],
+    "text": "(h)the qualifications and disqualifications formembership of the Council and the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      482.47,
+      451.77,
+      542.61
+    ],
+    "text": "(i)the setting up of disciplinary committees andformulation of code of ethics and the exercise ofdisciplinary control over the members, disciplinaryprocedure and expulsion of members or suspensionof membership; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      552.67,
+      451.15,
+      589.41
+    ],
+    "text": "(j)the entry criteria for admission of students for theCertified Management Accountancy (CMA)Programme.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      599.47,
+      451.29,
+      636.21
+    ],
+    "text": "(2) Every rule made by the Council under paragraphs (f)to (j) of subsection (1) of section 19 shall be approved by theMinister.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      646.27,
+      451.29,
+      671.85
+    ],
+    "text": "(3) Every rule made under this section shall be publishedin the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      167.85,
+      165.55,
+      383.85,
+      190.78
+    ],
+    "text": "13Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      246.21,
+      201.19,
+      281.49,
+      214.53
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      249.21,
+      224.23,
+      278.5,
+      237.57
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      247.15,
+      346.13,
+      261.09
+    ],
+    "text": "20.(1) The Institute shall have its own Fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      270.19,
+      383.89,
+      317.97
+    ],
+    "text": "(2) There shall be credited to the Fund of the Institute allsums of money received by the Institute in the exercise,discharge and performance of its powers, functions andduties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      327.67,
+      383.97,
+      364.05
+    ],
+    "text": "(3) The Council may invest moneys of the fund in anysecurities issued or guaranteed by the Government ofSri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      373.63,
+      383.68,
+      410.01
+    ],
+    "text": "(4) The Council may maintain, in any approved Bank orBanks in Sri Lanka, Call, Current, Savings or DepositAccounts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      419.71,
+      383.9,
+      467.49
+    ],
+    "text": "(5) All sums of money required to defray any expenditureincurred by the Institute in the exercise, performance anddischarge of its powers, duties and functions shall be chargedon the Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      477.19,
+      383.92,
+      502.05
+    ],
+    "text": "21.The financial year of the Institute shall be thecalendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      511.63,
+      383.71,
+      548.01
+    ],
+    "text": "22.(1) The Institute shall cause proper accounts to bekept of its income and expenditure, assets and liabilitiesand all other transactions of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      557.71,
+      383.99,
+      582.45
+    ],
+    "text": "(2) The accounts of the Institute shall be audited annuallyby a qualified auditor appointed by the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      592.15,
+      345.65,
+      605.49
+    ],
+    "text": "(3) In this section \u201cqualified auditor\u201d means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      614.71,
+      383.99,
+      674.85
+    ],
+    "text": "(a)an individual who, being a member of the Instituteof Chartered Accountants of Sri Lanka, or of anyother Institute established by law, possesses acertificate to practice as an Accountant issued bythe Council of such Institute; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      248.78,
+      440.12,
+      269.05
+    ],
+    "text": "The Fund ofInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      477.98,
+      455.9,
+      498.25
+    ],
+    "text": "Financial year ofthe Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      513.02,
+      428.85,
+      533.29
+    ],
+    "text": "Audit ofaccounts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "14Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      201.19,
+      451.2,
+      272.01
+    ],
+    "text": "(b)a firm of Accountants, each of the resident partnersof which being a member of the Institute ofChartered Accountants of Sri Lanka or of any otherInstitute established by law, possesses a certificateto practice as an Accountant issued by the Councilof such Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      279.19,
+      451.24,
+      304.05
+    ],
+    "text": "23.(1) Any contract entered with on behalf of theInstitute may be made as follows:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      310.15,
+      451.32,
+      358.05
+    ],
+    "text": "(a)if made between private persons, would by law berequired to be in writing, may be made on behalf ofthe Institute in writing under the common seal ofthe Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      364.15,
+      451.32,
+      423.57
+    ],
+    "text": "(b)if made between private persons, would by law berequired to be in writing, signed by the parties to becharged therewith, may be made on behalf of theInstitute in writing signed by any person or personsduly authorized thereto by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      429.67,
+      451.32,
+      488.97
+    ],
+    "text": "(c)if made between private persons, would by law bevalid though made orally and not reduced intowriting, may be made orally on behalf of the Instituteby any person or persons duly authorized theretoby the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      495.19,
+      451.25,
+      531.45
+    ],
+    "text": "(2) A contract made according to this section shall beeffectual in law and shall bind the Institute and all personsthereto and their legal representatives.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      538.63,
+      451.35,
+      598.05
+    ],
+    "text": "24.Any expense incurred by the Institute in any suit orprosecution brought by or against the Institute before anycourt shall be paid out of the funds of the Institute and anycost paid to be recovered by the Institute in any suit orprosecution shall be credited to the Fund of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      605.11,
+      451.17,
+      629.97
+    ],
+    "text": "25.(1) No civil or criminal proceedings shall beinstituted\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      636.19,
+      451.36,
+      672.81
+    ],
+    "text": "(a)against the Institute for any lawful act which ingood faith is done or purported to be done by theInstitute under this Act; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      540.02,
+      193.84,
+      579.49
+    ],
+    "text": "Recovery ofexpensesincurred by theInstitute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      279.98,
+      174.41,
+      290.65
+    ],
+    "text": "Contracts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      606.98,
+      196.85,
+      656.05
+    ],
+    "text": "Protection ofacts done underthis Act or onthe directions ofthe Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      167.85,
+      165.55,
+      383.85,
+      190.78
+    ],
+    "text": "15Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      359.06,
+      452.67,
+      408.13
+    ],
+    "text": "No writ to issueagainst personor property of amember of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      411.5,
+      442.27,
+      431.77
+    ],
+    "text": "Offences andpenalties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      483.98,
+      455.09,
+      513.85
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.57,
+      201.55,
+      384.0,
+      262.89
+    ],
+    "text": "(b)against any member, officer, servant or agent forany act which in good faith is done or purported tobe done by such member, officer, servant or agentunder this Act or on the directions of the Council,as the case may be.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      273.55,
+      384.02,
+      346.89
+    ],
+    "text": "(2) Any expense incurred by any person specified insubsection (1) in any suit or prosecution brought againstsuch person before any Court for any act done under this Actor on the direction of the Institute shall if the Courtdetermines that such act was done in good faith be paid outof the Fund of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      357.55,
+      384.05,
+      394.89
+    ],
+    "text": "26.No writ against person or property shall be issuedagainst a member of the Council in any action broughtagainst the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      410.47,
+      384.02,
+      471.81
+    ],
+    "text": "27.Every person who commits an offence under thisAct shall on conviction after trial before a Magistrate beliable to imprisonment of either description for a period notexceeding six months or to a fine not exceeding five hundredrupees or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      482.47,
+      383.81,
+      519.81
+    ],
+    "text": "28.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      165.55,
+      427.24,
+      190.78
+    ],
+    "text": "16Institute of Certified Management Accountantsof Sri Lanka Act, No. 23 of 2009",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      632.42,
+      451.15,
+      671.89
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
