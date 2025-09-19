@@ -1,3 +1,4 @@
+from dataclasses import dataclass
 from typing import Generator
 
 from utils import Log, Time, TimeFormat
@@ -8,7 +9,9 @@ from utils_future import WWW
 log = Log("Act")
 
 
+@dataclass
 class Act(AbstractPDFDoc):
+    act_number: str
 
     URL_BASE = "https://documents.gov.lk/view/acts"
 
@@ -33,7 +36,7 @@ class Act(AbstractPDFDoc):
         tds = tr.find_all("td")
         if len(tds) != 4:
             return
-        num = tds[0].text.strip()
+        act_number = tds[0].text.strip()
         date_str = tds[1].text.strip()
         assert len(date_str) == 10  # YYYY-MM-DD
         description = tds[2].text.strip()
@@ -41,10 +44,11 @@ class Act(AbstractPDFDoc):
         for a in tds[3].find_all("a"):
             lang = a.text.strip().lower()[:2]
             assert lang in ("si", "ta", "en")
-            url_pdf = cls.URL_BASE + a["href"]
+            url_pdf = f'{cls.URL_BASE}/{a["href"]}'
             assert url_pdf.endswith(".pdf")
             lang_to_url_pdf[lang] = url_pdf
 
+        num = act_number.replace("/", "-").replace(" ", "-") + "-" + lang
         for lang, url_pdf in lang_to_url_pdf.items():
             yield cls(
                 num=num,
@@ -53,6 +57,7 @@ class Act(AbstractPDFDoc):
                 url_metadata=url_metadata,
                 lang=lang,
                 url_pdf=url_pdf,
+                act_number=act_number,
             )
 
     @classmethod
