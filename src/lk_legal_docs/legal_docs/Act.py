@@ -25,7 +25,7 @@ class Act(AbstractPDFDoc):
     def get_doc_class_description(cls) -> str:
         return "\n\n".join(
             [
-                "A legal act in Sri Lanka is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",  # noqa: E501
+                "A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",  # noqa: E501
             ]
         )
 

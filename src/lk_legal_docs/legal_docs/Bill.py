@@ -18,7 +18,7 @@ class Bill(Act):
     def get_doc_class_description(cls) -> str:
         return "\n\n".join(
             [
-                "A Bill in Sri Lanka is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",  # noqa: E501
+                "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",  # noqa: E501
             ]
         )
 
