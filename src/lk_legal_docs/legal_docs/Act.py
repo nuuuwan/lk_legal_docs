@@ -31,6 +31,8 @@ class Act(AbstractPDFDoc):
     @classmethod
     def __parse_tr__(cls, tr, url_metadata) -> "Act":
         tds = tr.find_all("td")
+        if len(tds) != 4:
+            return
         num = tds[0].text.strip()
         date_str = tds[1].text.strip()
         assert len(date_str) == 10  # YYYY-MM-DD
@@ -65,7 +67,7 @@ class Act(AbstractPDFDoc):
             "table", class_="table table-bordered table-striped table-hover"
         )
         for tr in table.find_all("tr"):
-            yield cls.__parse_tr__(tr, url_metadata=url_for_year)
+            yield from cls.__parse_tr__(tr, url_metadata=url_for_year)
 
     @classmethod
     def gen_docs(cls) -> Generator["Act", None, None]:
