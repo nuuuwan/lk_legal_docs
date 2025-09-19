@@ -1,0 +1,6027 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      380.07,
+      439.78,
+      393.68
+    ],
+    "text": "AYURVEDA (AMENDMENT) ACT, No. 19 OF 2023",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      11.515207290649414,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      224.49,
+      452.69,
+      376.75,
+      464.03
+    ],
+    "text": "[Certified on 09th of October, 2023]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 60.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 13, 2023",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.81,
+      167.17,
+      384.29,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20231",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      299.35,
+      428.01,
+      308.42
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      334.63,
+      457.17,
+      362.9
+    ],
+    "text": "Amendment of theLong Title to Act,No. 31 of 1961",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.69,
+      203.45,
+      337.67,
+      214.79
+    ],
+    "text": "[Certified on 09th of October, 2023]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.61,
+      225.65,
+      212.86,
+      236.99
+    ],
+    "text": "L.D.\u2013O. 39/2022",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.29,
+      247.85,
+      373.05,
+      259.19
+    ],
+    "text": "AN ACT TO AMEND THE AYURVEDA ACT, NO. 31 OF 1961",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.61,
+      266.09,
+      383.66,
+      289.67
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.61,
+      296.45,
+      383.74,
+      320.03
+    ],
+    "text": "1. This Act may be cited as the Ayurveda (Amendment)Act, No. 19 of 2023.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.61,
+      332.93,
+      383.75,
+      405.23
+    ],
+    "text": "2. The long title of the Ayurveda Act, No. 31 of 1961(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended by the substitution for the words commencing from\u201cFOR THE REGISTRATION OF AYURVEDAHOSPITALS\u201d to the words \u201cDISPENSARIES ATTACHEDTHERETO;\u201d of the following: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.61,
+      412.37,
+      383.62,
+      675.49
+    ],
+    "text": "\u201cFOR THE REGISTRATION OF AYURVEDA HOSPITALS,AYURVEDA PHARMACIES, AYURVEDADISPENSARIES, AYURVEDA STORES, HERBALCULTIVATIONS AND HERBAL GARDENS FORRESEARCH AND EXTENTION; FOR THEESTABLISHMENT OF AN AYURVEDA MEDICALCOUNCIL TO REGISTER AYURVEDA PRACTITIONERS,AYURVEDA PHARMACISTS, AYURVEDA NURSES ANDAYURVEDA MASSAGE THERAPISTS AND TO DEALWITH MATTERS RELATING TO THEIR PROFESSIONALCONDUCT; FOR THE ESTABLISHMENT OF ANAYURVEDA EDUCATION AND HOSPITAL BOARD TODISCHARGE CERTAIN FUNCTIONS IN RELATION TOTHE AWARD OF DIPLOMAS, CERTIFICATES, DEGREESAND POSTGRATUATE DEGREES IN RELATION TO THEEDUCATION AND TRAINING IN AYURVEDA AND TODEAL WITH MATTERS RELATING TO THE AYURVEDANATIONAL HOSPITAL, AYURVEDA TEACHINGHOSPITALS, AYURVEDA RESEARCH HOSPITALS ANDTHE PHARMACIES, HERBARIA AND DISPENSARIESATTACHED THERETO;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20232",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.99,
+      202.97,
+      452.08,
+      395.87
+    ],
+    "text": "3. (1) In the principal enactment and in any other writtenlaw, there shall be substituted for the words the\u201cCommissioner for Ayurveda\u201d, \u201cAyurvedic MedicalCouncil\u201d, \u201cayurvedic hospitals\u201d, \u201cayurvedic pharmacy\u201d,\u201cayurvedic pharmacies\u201d, \u201cayurvedic dispensary\u201d, \u201cayurvedicdispensaries\u201d, \u201cayurvedic store\u201d , \u201cayurvedic stores\u201d,\u201cayurvedic practitioners\u201d, \u201cayurvedic pharmacists\u201d,\u201cayurvedic nurses\u201d, \u201cthe Central Hospital of Ayurveda\u201d andthe \u201cAyurvedic Research Committee\u201d, of the words\u201cCommissioner-General for Ayurveda\u201d, \u201cAyurveda MedicalCouncil\u201d, \u201cAyurveda hospitals\u201d, \u201cAyurveda pharmacy\u201d,\u201cAyurveda pharmacies\u201d, \u201cAyurveda dispensary\u201d, \u201cAyurvedadispensaries\u201d, \u201cAyurveda store\u201d , \u201cAyurveda stores\u201d,\u201cAyurveda practitioners\u201d, \u201cAyurveda pharmacists\u201d,\u201cAyurveda nurses\u201d, \u201cthe Ayurveda National Hospital\u201d andthe \u201cAyurveda Research Committee\u201d, respectively.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.99,
+      406.61,
+      452.04,
+      599.39
+    ],
+    "text": "(2) Every reference to the \u201cCommissioner for Ayurveda\u201d,\u201cAyurvedic Medical Council\u201d, \u201cayurvedic hospitals\u201d,\u201cayurvedic pharmacy\u201d, \u201cayurvedic pharmacies\u201d, \u201cayurvedicdispensary\u201d, \u201cayurvedic dispensaries\u201d, \u201cayurvedic store\u201d ,\u201cayurvedic stores\u201d, \u201cayurvedic practitioners\u201d, \u201cayurvedicpharmacists\u201d, \u201cayurvedic nurses\u201d, \u201cthe Central Hospital ofAyurveda\u201d and the \u201cAyurvedic Research Committee\u201d ,appearing in any notice, notification or other document shallbe read and construed as a reference to the \u201cCommissioner-General for Ayurveda\u201d, \u201cAyurveda Medical Council\u201d,\u201cAyurveda hospitals\u201d, \u201cAyurveda pharmacy\u201d, \u201cAyurvedapharmacies\u201d, \u201cAyurveda dispensary\u201d, \u201cAyurvedadispensaries\u201d, \u201cAyurveda store\u201d , \u201cAyurveda stores\u201d,\u201cAyurveda practitioners\u201d, \u201cAyurveda pharmacists\u201d,\u201cAyurveda nurses\u201d, \u201cthe Ayurveda National Hospital\u201d andthe \u201cAyurveda Research Committee\u201d, respectively.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.99,
+      610.13,
+      452.04,
+      657.83
+    ],
+    "text": "(3) Every reference to the \u201cCommissioner\u201d in sections 3,4, 6,8, 9,10, 11, 13, 15, 22, 23, 24, 26, 33, 34, 35, 37, and 75in the principal enactment shall be read and construed as areference to \u201cthe Commissioner-General of Ayurveda\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.75,
+      203.59,
+      177.19,
+      222.26
+    ],
+    "text": "GeneralAmendments",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.81,
+      167.17,
+      384.29,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20233",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      203.93,
+      384.38,
+      254.75
+    ],
+    "text": "(4) Every reference to the \u201cCouncil\u201d in sections 11 to 21,42, 50 to 63, 71 and 81 in the principal enactment shall beread and construed as a reference to \u201cthe Ayurveda MedicalCouncil\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      266.45,
+      384.38,
+      343.31
+    ],
+    "text": "4. Section 3 of the principal enactment is hereby amendedin subsection (2) thereof, by the substitution for the words,\u201cDeputy Commissioners for Ayurveda,\u201d of the words\u201cAdditional Commissioner-Generals for Ayurveda,Commissioners for Ayurveda, Deputy Commissioners forAyurveda,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      355.13,
+      384.38,
+      418.79
+    ],
+    "text": "5. Section 4 of the principal enactment is hereby amendedby the substitution for the words, \u201cDeputy Commissionersfor Ayurveda,\u201d of the words \u201cAdditional Commissioner-Generals for Ayurveda, Commissioners for Ayurveda,Deputy Commissioners for Ayurveda,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      430.61,
+      384.38,
+      494.27
+    ],
+    "text": "6. Section 5 of the principal enactment is hereby amendedby the substitution for the words, \u201cDeputy Commissionersfor Ayurveda,\u201d of the words \u201cAdditional Commissioner-Generals for Ayurveda, Commissioners for Ayurveda,Deputy Commissioners for Ayurveda,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      506.09,
+      384.38,
+      530.51
+    ],
+    "text": "7. Section 7 of the principal enactment is hereby repealedand the following section is substituted therefor:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      542.33,
+      340.58,
+      553.67
+    ],
+    "text": "7. The objects of the Act shall be -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199.29,
+      565.37,
+      284.97,
+      576.71
+    ],
+    "text": "(a) the provision of-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230.85,
+      588.53,
+      384.34,
+      626.03
+    ],
+    "text": "(i) establishments and servicesnecessary for the treatment ofdiseases; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.97,
+      637.73,
+      343.66,
+      649.07
+    ],
+    "text": "(ii) the primary health care,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      661.13,
+      314.05,
+      672.47
+    ],
+    "text": "according to ayurveda;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      267.07,
+      461.15,
+      295.34
+    ],
+    "text": "Amendment ofsection 3 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      358.39,
+      461.15,
+      386.66
+    ],
+    "text": "Amendment ofsection 4 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      431.11,
+      461.15,
+      459.38
+    ],
+    "text": "Amendment ofsection 5 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      508.15,
+      461.15,
+      536.42
+    ],
+    "text": "Replacement ofsection 7 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      542.11,
+      191.85,
+      562.46
+    ],
+    "text": "\u201cObjects of theAct",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20234",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      204.65,
+      450.59,
+      313.31
+    ],
+    "text": "(b) the encouragement of the study of, andresearch in, ayurveda by the grant ofscholarships and other facilities to personsemployed or proposed to be employed inthe Department and by the grant offinancial aid and other assistance toinstitutions providing courses of study orengaged in research in ayurveda;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      325.85,
+      450.6,
+      378.95
+    ],
+    "text": "(c) the taking, development or encouragementof measures for the investigation ofdiseases, and for the improvement ofpublic health, according to ayurveda;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      391.49,
+      450.57,
+      416.75
+    ],
+    "text": "(d) the management of any herbariumestablished under section 8;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      429.29,
+      450.59,
+      482.27
+    ],
+    "text": "(e) the provision for the wellbeing of peopleby creating and maintaining orderly andefficient practices of Ayurveda medicineand surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      494.93,
+      450.58,
+      547.91
+    ],
+    "text": "(f)the assurance of high professionalstandards by regulating performance andactivities of registered Ayurvedaprofessionals; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.51,
+      560.45,
+      450.58,
+      682.07
+    ],
+    "text": "(g) the provision of quality Ayurveda articles,substances, and drugs and the managementof any Herbal Gardens for Research andExtension or herbal cultivation byimplementing provisions of the Codereferred to in section 77, by theDepartment or through any Bodyestablished under Part VI of the Act forthat purpose.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.81,
+      167.17,
+      384.29,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20235",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.33,
+      203.33,
+      384.39,
+      239.87
+    ],
+    "text": "8. The following new section is hereby insertedimmediately after section 7 of the principal enactment andshall have effect as section 7A:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199.29,
+      251.09,
+      384.37,
+      287.63
+    ],
+    "text": "7A. (1) The moneys granted from theConsolidated Fund from time to time shall beutilized in carrying out the objects of the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      199.29,
+      298.97,
+      384.45,
+      373.31
+    ],
+    "text": "(2) All such sums of money as may bereceived, levied, or collected under this Act byway of fees or otherwise in carrying out theobjects specified in the Act and in the dischargeof the functions of the Department shall becredited to the Consolidated Fund.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.33,
+      384.53,
+      384.39,
+      408.47
+    ],
+    "text": "9. Section 8 of the principal enactment is hereby amendedas follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.45,
+      419.69,
+      384.37,
+      494.03
+    ],
+    "text": "(1)by the substitution for the words, \u201cIn carrying outthe objects specified in section 7, theCommissioner\u201d of the words, \u201cThe Commissioner-General shall have the power to carry out the objectsspecified in paragraphs (a) to (e) of section 7 andin doing so the Commissioner-General\u201d; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.45,
+      505.37,
+      384.35,
+      541.91
+    ],
+    "text": "(2)by the substitution for the words, \u201cAyurvedichospitals\u201d of the words \u201cAyurveda hospitals, HerbalGardens for Research and Extension Services\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.33,
+      553.13,
+      384.36,
+      577.07
+    ],
+    "text": "10. Section 10 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.45,
+      588.29,
+      384.36,
+      624.83
+    ],
+    "text": "(1)by the substitution for the words, \u201cayurvedichospitals\u201d, wherever those words appear, of thewords \u201cAyurveda hospitals, herbal cultivation,\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.45,
+      636.17,
+      384.36,
+      671.87
+    ],
+    "text": "(2)by the substitution for the words, \u201cayurvedichospitals\u201d wherever those words appear, of thewords \u201cAyurveda hospitals, herbal cultivation\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      204.07,
+      461.15,
+      232.34
+    ],
+    "text": "Insertion of newsection 7A in theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      253.39,
+      195.68,
+      339.26
+    ],
+    "text": "\u201cUtilization ofmoneys grantedfrom theConsolidatedFund andcrediting ofmoneys to theConsolidatedFund",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      387.31,
+      461.15,
+      415.58
+    ],
+    "text": "Amendment ofsection 8 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      555.19,
+      461.15,
+      583.46
+    ],
+    "text": "Amendment ofsection 10 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20236",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.39,
+      204.65,
+      451.3,
+      244.79
+    ],
+    "text": "(3)by the substitution for the words, \u201chospitals\u201dwherever those words appear, of the words\u201chospitals, herbal cultivation\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.27,
+      257.81,
+      451.3,
+      283.55
+    ],
+    "text": "11. Section 11 of the principal enactment is herebyamended in subsection (1) thereof, as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.39,
+      296.69,
+      451.3,
+      336.83
+    ],
+    "text": "(1)by the repeal of paragraph (b) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      259.27,
+      349.85,
+      451.3,
+      490.79
+    ],
+    "text": "\u201c(b) the Dean of the Faculty of IndigenousMedicine of the University of Colombo,Sri Lanka, the Dean of the Faculty ofIndigenous Medicine of GampahaWickramarachchi University ofIndigenous Medicine, Sri Lanka, the Headof the Unit of Siddha Medicine of theUniversity of Jaffna, Sri Lanka and theDean of the Faculty of Siddha Medicineof the Eastern University, Sri Lanka;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.39,
+      503.81,
+      451.3,
+      543.95
+    ],
+    "text": "(2)by the repeal of paragraph (c) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      260.23,
+      557.09,
+      342.08,
+      568.43
+    ],
+    "text": "\u201c(c) five members-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      281.23,
+      581.45,
+      451.3,
+      650.63
+    ],
+    "text": "(i)two of them each representingAyurveda and Unani systems ofmedicine of the Faculty of IndigenousMedicine of the University ofColombo, Sri Lanka and elected from",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      301.27,
+      654.65,
+      416.49,
+      665.99
+    ],
+    "text": "among the Senior Lecturers;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      133.75,
+      257.11,
+      199.05,
+      285.38
+    ],
+    "text": "Amendment ofsection 11 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.81,
+      167.17,
+      384.29,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20237",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211.53,
+      205.25,
+      384.35,
+      272.63
+    ],
+    "text": "(ii)one of them elected from among theSenior Lecturers of the Faculty ofIndigenous Medicine of the GampahaWickramarachchi University ofIndigenous Medicine, Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      208.65,
+      285.17,
+      384.35,
+      338.27
+    ],
+    "text": "(iii)one of them elected from among theSenior Lecturers of the Unit of SiddhaMedicine of the University of Jaffna,Sri Lanka ; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      209.25,
+      350.81,
+      384.36,
+      403.79
+    ],
+    "text": "(iv)one of them elected from among theSenior Lecturers of the Faculty ofSiddha Medicine of the EasternUniversity, Sri Lanka.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.45,
+      416.33,
+      384.36,
+      455.51
+    ],
+    "text": "(3)by the repeal of paragraph (f) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193.29,
+      468.05,
+      384.34,
+      493.31
+    ],
+    "text": "\u201c(f)not more than twelve members appointedby the Minister of whom-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      207.81,
+      505.85,
+      384.36,
+      545.03
+    ],
+    "text": "(i) three shall be so appointed from amongpersons who are not registered Ayurvedapractitioners;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205.05,
+      557.57,
+      384.36,
+      596.75
+    ],
+    "text": "(ii) three shall be so appointed from a panelof ten nominated by the All CeylonAyurvedic Practitioners\u2019 Congress; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      202.17,
+      609.29,
+      384.35,
+      669.35
+    ],
+    "text": "(iii) two shall be so appointed from amongregistered Ayurveda practitioners whoare not members of the All CeylonAyurvedic Practitioners\u2019 Congress; and\u201d;and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20238",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.39,
+      216.65,
+      451.28,
+      242.63
+    ],
+    "text": "(4)by the addition, immediately after paragraph (f), thefollowing new paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      260.23,
+      255.89,
+      451.3,
+      325.67
+    ],
+    "text": "\u201c(g) one member shall be so appointed asnominated by the Secretary to the Ministryof the Minister assigned the subject ofFinance or Treasury, as the case maybe .\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.27,
+      338.93,
+      451.33,
+      394.07
+    ],
+    "text": "12. Section 12 of the principal enactment is herebyamended by the substitution for the words, commencing from\u201cEach member of the Council\u201d to \u201cor reappointment:\u201d ofthe following:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.27,
+      407.33,
+      451.32,
+      564.59
+    ],
+    "text": "\u201cEach member of the Council, other than theCommissioner-General, the Dean of the Faculty ofIndigenous Medicine of the University of Colombo,Sri Lanka, the Dean of the Faculty of Indigenous Medicineof the Gampaha Wickramarachchi University of IndigenousMedicine, Sri Lanka, the Head of the Unit of SiddhaMedicine of the University of Jaffna, Sri Lanka and theDean of the Faculty of Siddha Medicine of the EasternUniversity, Sri Lanka, shall, unless he vacates office earlier,hold office for a term of three years and shall be eligiblefor re-election or reappointment, as the case may be:\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.27,
+      577.85,
+      451.3,
+      603.83
+    ],
+    "text": "13. Section 13 of the principal enactment is herebyrepealed and the following section is substituted therefor: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      266.23,
+      617.09,
+      451.31,
+      672.23
+    ],
+    "text": "13. (1) A member of the Council, otherthan the Commissioner-General, the Dean ofthe Faculty of Indigenous Medicine of theUniversity of Colombo, Sri Lanka, the Dean",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133.75,
+      580.15,
+      199.05,
+      608.42
+    ],
+    "text": "Replacement ofsection 13 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      616.75,
+      253.39,
+      654.62
+    ],
+    "text": "\u201cVacation ofoffice bymembers ofthe Council",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133.75,
+      338.83,
+      182.95,
+      347.9
+    ],
+    "text": "Amendment of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133.75,
+      351.79,
+      188.36,
+      360.86
+    ],
+    "text": "section 12 of the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133.75,
+      364.87,
+      199.05,
+      373.94
+    ],
+    "text": "principal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.81,
+      167.17,
+      384.29,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 20239",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.97,
+      216.05,
+      383.04,
+      322.55
+    ],
+    "text": "of the Faculty of Indigenous Medicine of theGampaha Wickramarachchi University ofIndigenous Medicine, Sri Lanka, the Head ofthe Unit of Siddha Medicine of the Universityof Jaffna, Sri Lanka and the Dean of the Facultyof Siddha Medicine of the Eastern University,Sri Lanka, shall be deemed to have vacatedoffice\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      224.13,
+      334.85,
+      382.91,
+      386.99
+    ],
+    "text": "(a)where he is not a public officer,on sending his resignation inwriting to the President of theCouncil;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      224.13,
+      399.17,
+      382.92,
+      464.87
+    ],
+    "text": "(b)where he is not a public officer,on being absent without excusesufficient in the opinion of theCouncil, from three consecutivemeetings of the Council;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      224.73,
+      477.17,
+      382.92,
+      556.55
+    ],
+    "text": "(c)on his ceasing to be a registeredAyurveda practitioner, or on thetaking effect of an order made bythe Council under this Actsuspending his registration as anAyurveda practitioner; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      224.13,
+      568.73,
+      382.91,
+      607.31
+    ],
+    "text": "(d)on his being convicted of anyoffence under the Penal Code(Chapter 19).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196.89,
+      619.61,
+      382.92,
+      644.51
+    ],
+    "text": "(2) The Commissioner-General shall bedeemed to have vacated office as a member of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196.89,
+      648.53,
+      382.93,
+      672.95
+    ],
+    "text": "the Council on his ceasing to hold office as theCommissioner-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202310",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.27,
+      204.29,
+      451.3,
+      384.83
+    ],
+    "text": "(3) The Dean of the Faculty of IndigenousMedicine of the University of Colombo, SriLanka, the Dean of the Faculty of IndigenousMedicine of the Gampaha WickramarachchiUniversity of Indigenous Medicine, Sri Lanka,the Head of the Unit of Siddha Medicine of theUniversity of Jaffna, Sri Lanka or the Dean ofthe Faculty of Siddha Medicine of the EasternUniversity, Sri Lanka, as the case may be, shallbe deemed to have vacated office as a memberof the Council on him ceasing to hold office asthe Dean or the Head of any of the aforesaidrespective Institutions as the case may be.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.27,
+      397.61,
+      451.3,
+      437.15
+    ],
+    "text": "14. Section 16 of the principal enactment is herebyamended, by the substitution for the words, \u201cshall be six.\u201d,of the words \u201cshall be thirteen.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.27,
+      449.93,
+      451.3,
+      475.43
+    ],
+    "text": "15. Section 18 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.39,
+      488.09,
+      451.24,
+      513.59
+    ],
+    "text": "(1)by the insertion immediately after paragraph (d)thereof, the following new paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      249.79,
+      526.37,
+      451.29,
+      551.75
+    ],
+    "text": "\u201c(da) the registration of persons as Ayurvedamassage therapists;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.39,
+      564.53,
+      451.29,
+      604.07
+    ],
+    "text": "(2)in paragraph (e) thereof, by the substitution for thewords, \u201cregistration; and\u201d of the words,\u201cregistration;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.39,
+      616.85,
+      451.29,
+      670.07
+    ],
+    "text": "(3)in paragraph (f) thereof, in subparagraph (i), by thesubstitution for the words \u201cand ayurvedic nurses;and\u201d of the words \u201cand Ayurveda nurses, andAyurveda massage therapist; and\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      133.75,
+      398.71,
+      199.05,
+      426.98
+    ],
+    "text": "Amendment ofsection 16 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      133.75,
+      452.59,
+      199.05,
+      480.86
+    ],
+    "text": "Amendment ofsection 18 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174.81,
+      167.17,
+      384.33,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202311",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      203.21,
+      383.88,
+      226.31
+    ],
+    "text": "16. Section 22 of the principal enactment is herebyamended in subsection (1) thereof, as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.97,
+      236.69,
+      383.85,
+      259.67
+    ],
+    "text": "(1)by the insertion, immediately after paragraph (a),the following new paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182.37,
+      270.05,
+      383.88,
+      304.79
+    ],
+    "text": "\u201c(aa) a representative of the Secretary to theMinistry of Finance or the Secretary to theTreasury;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.97,
+      315.17,
+      383.88,
+      349.91
+    ],
+    "text": "(2)by the repeal of paragraph (b) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      187.53,
+      360.29,
+      383.89,
+      476.87
+    ],
+    "text": "\u201c(b) the Dean of the Faculty of IndigenousMedicine of the University of Colombo,Sri Lanka, the Dean of the Faculty ofIndigenous Medicine of the GampahaWickramarachchi University of IndigenousMedicine, Sri Lanka, the Head of the Unitof Siddha Medicine of the University ofJaffna, Sri Lanka and the Dean of the Facultyof Siddha Medicine of the EasternUniversity, Sri Lanka;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.97,
+      487.25,
+      383.82,
+      510.23
+    ],
+    "text": "(3)by the insertion, immediately after paragraph (b)thereof, the following new paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182.37,
+      520.61,
+      383.87,
+      543.71
+    ],
+    "text": "\u201c(ba) the Head of the National Institute ofTraditional Medicine;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.97,
+      554.09,
+      383.88,
+      588.83
+    ],
+    "text": "(4)by the repeal of paragraph (c) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.13,
+      599.09,
+      383.85,
+      622.19
+    ],
+    "text": "\u201c(c) the Head of the Ayurveda NationalHospital;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.97,
+      633.53,
+      383.88,
+      671.27
+    ],
+    "text": "(5)by the repeal of paragraph (d) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      204.55,
+      461.15,
+      232.82
+    ],
+    "text": "Amendment ofsection 22 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202312",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      254.23,
+      202.37,
+      450.58,
+      269.15
+    ],
+    "text": "\u201c(d) an officer of the rank of a Senior AssistantSecretary or of a higher rank of the Ministryof the Minister assigned the subject ofHigher Education appointed by the Ministeron recommendation of the Minister assignedthe subject of Higher Education;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      225.67,
+      278.93,
+      450.58,
+      312.47
+    ],
+    "text": "(6)by the repeal of paragraph (e) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      254.83,
+      322.25,
+      450.57,
+      355.79
+    ],
+    "text": "\u201c(e) five members appointed by the Minister onthe recommendation of the Ministerassigned the subject of Higher Education-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      275.95,
+      365.57,
+      450.57,
+      421.31
+    ],
+    "text": "(i)two of them each representingAyurveda and Unani systems ofmedicine of the Faculty of IndigenousMedicine of the University of Colombo,Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      273.19,
+      431.09,
+      450.56,
+      475.67
+    ],
+    "text": "(ii)one of them from the Faculty ofIndigenous Medicine of the GampahaWickramarachchi University ofIndigenous Medicine, Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      270.43,
+      485.45,
+      450.61,
+      518.99
+    ],
+    "text": "(iii)one of them from the Unit of SiddhaMedicine of University of Jaffna, SriLanka; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      270.91,
+      528.77,
+      450.56,
+      562.31
+    ],
+    "text": "(iv)one of them from the Faculty of SiddhaMedicine of the Eastern University, SriLanka,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      276.55,
+      572.09,
+      450.57,
+      594.47
+    ],
+    "text": "from among the lecturers of each Faculty orUnit;\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      225.67,
+      604.25,
+      450.58,
+      637.79
+    ],
+    "text": "(7)by the repeal of paragraph (f) thereof, and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      256.51,
+      647.57,
+      450.57,
+      669.95
+    ],
+    "text": "\u201c(f) five members, other than the membersappointed under paragraph (e)-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      174.81,
+      167.17,
+      384.33,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202313",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      223.29,
+      205.13,
+      383.88,
+      268.79
+    ],
+    "text": "(i) two of them each representingAyurveda and Unani systems ofmedicine of the Faculty ofIndigenous Medicine of theUniversity of Colombo, Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      220.53,
+      280.37,
+      383.86,
+      291.71
+    ],
+    "text": "(ii) one of them from the Faculty of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      238.89,
+      293.21,
+      383.87,
+      343.31
+    ],
+    "text": "Indigenous Medicine of theGampaha WickramarachchiUniversity of Indigenous Medicine,Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      217.65,
+      354.89,
+      383.86,
+      392.03
+    ],
+    "text": "(iii) one of them from the Unit of SiddhaMedicine of University of Jaffna, SriLanka; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      218.25,
+      403.49,
+      383.87,
+      440.63
+    ],
+    "text": "(iv) one of them from the Faculty ofSiddha Medicine of the EasternUniversity, Sri Lanka,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      200.85,
+      452.21,
+      383.85,
+      476.51
+    ],
+    "text": "and elected by the lecturers of each Faculty orthe Unit from among themselves;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      156.45,
+      488.09,
+      383.88,
+      525.23
+    ],
+    "text": "(8)by the repeal of paragraph (i), thereof and thesubstitution therefor, of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      177.81,
+      536.69,
+      383.88,
+      612.59
+    ],
+    "text": "\u201c(i) not more than eight members appointed by theMinister from among registered Ayurvedapractitioners of whom not more than two shallbe so appointed from a panel of six nominatedby the All Ceylon Ayurvedic Practitioners\u2019Congress; and\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      624.17,
+      383.9,
+      671.03
+    ],
+    "text": "17. Section 23 of the principal enactment is herebyamended by the substitution for the words from \u201cEachmember of the Board\u201d to \u201cor reappointment:\u201d of thefollowing: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      626.11,
+      461.15,
+      654.38
+    ],
+    "text": "Amendment ofsection 23 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      210.55,
+      167.17,
+      420.08,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202314",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      203.09,
+      451.2,
+      373.07
+    ],
+    "text": "\u201cEach member of the Board, other than theCommissioner-General, the Dean of the Faculty ofIndigenous Medicine of the University of Colombo,Sri Lanka, the Dean of the Faculty of Indigenous Medicineof the Gampaha Wickramarachchi University ofIndigenous Medicine, Sri Lanka, the Head of the Facultyof Siddha Medicine of the University of Jaffna, Sri Lanka,the Dean of the Faculty of Siddha Medicine of the EasternUniversity, Sri Lanka, the Head of the Ayurveda NationalHospital and the Head of the National Institute ofTraditional Medicine, shall, unless such member vacateshis office earlier, hold office for a term of three years andshall be eligible for re-election or reappointment, as thecase may be:\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      383.93,
+      451.18,
+      407.39
+    ],
+    "text": "18. Section 24 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.27,
+      418.25,
+      451.19,
+      588.23
+    ],
+    "text": "(1)in subsection (1) thereof, by the substitution for thewords from \u201cA member of the Board\u201d to \u201cHospitalof Ayurveda\u201d, of the words, \u201cA member of theBoard, other than the Commissioner-General, theDean of the Faculty of Indigenous Medicine of theUniversity of Colombo, Sri Lanka the Dean of theFaculty of Indigenous Medicine of the GampahaWickramarachchi University of IndigenousMedicine, Sri Lanka, the Head of the Unit of SiddhaMedicine of University of Jaffna, Sri Lanka, theDean of the Faculty of Siddha Medicine of theEastern University, Sri Lanka, the Head of theAyurveda National Hospital and the Head of theNational Institute of Traditional Medicine,\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.27,
+      599.09,
+      451.15,
+      622.67
+    ],
+    "text": "(2)by the repeal of subsection (3) thereof, and thesubstitution therefor of the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      262.15,
+      633.53,
+      451.17,
+      669.47
+    ],
+    "text": "\u201c(3) The Dean of the Faculty of IndigenousMedicine of the University of Colombo,Sri Lanka, the Dean of the Faculty of Indigenous",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133.75,
+      385.03,
+      199.05,
+      413.3
+    ],
+    "text": "Amendment ofsection 24 of theprincipal enactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202315",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      195.33,
+      203.57,
+      384.36,
+      422.99
+    ],
+    "text": "Medicine of the Gampaha WickramarachchiUniversity of Indigenous Medicine, Sri Lanka,the Head of the Unit of Siddha Medicine of theUniversity of Jaffna, Sri Lanka or the Dean ofthe Faculty of Siddha Medicine of the EasternUniversity, Sri Lanka, shall be deemed to havevacated office as a member of the Board on hisceasing to hold the office of the Dean of theFaculty of Indigenous Medicine of theUniversity of Colombo, Sri Lanka, the Dean ofthe Faculty of Indigenous Medicine of theGampaha Wickramarachchi University ofIndigenous Medicine, Sri Lanka, the Head ofthe Unit of Siddha Medicine of University ofJaffna, Sri Lanka or the Dean of the Faculty ofSiddha Medicine of Eastern University,Sri Lanka, as the case may be.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.45,
+      434.57,
+      384.36,
+      458.87
+    ],
+    "text": "(3)by the repeal of subsection (4) thereof, and thesubstitution therefor, of the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      216.33,
+      470.57,
+      384.37,
+      533.87
+    ],
+    "text": "\u201c(4) The Head of the Ayurveda NationalHospital shall be deemed to have vacatedoffice as a member of the Board on hisceasing to hold the office of the Head ofthe Ayurveda National Hospital.\u201d .",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      545.57,
+      384.36,
+      582.95
+    ],
+    "text": "19. Section 27 of the principal enactment is herebyamended, by the substitution for the words, \u201cshall be six.\u201d,of the words \u201cshall be fourteen.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      594.53,
+      384.36,
+      618.95
+    ],
+    "text": "20. Section 30 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.45,
+      630.53,
+      384.36,
+      667.91
+    ],
+    "text": "(1)by the repeal of paragraph (a), thereof, and thesubstitution therefor, of the following newparagraph: -",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      401.73,
+      546.31,
+      450.93,
+      584.18
+    ],
+    "text": "Amendment ofsection 27 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      401.73,
+      597.79,
+      450.93,
+      635.66
+    ],
+    "text": "Amendment ofsection 30 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202316",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      242.35,
+      203.69,
+      322.16,
+      215.03
+    ],
+    "text": "\u201c(a)to determine-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      261.19,
+      226.97,
+      447.83,
+      264.71
+    ],
+    "text": "(i)the qualifications required for the awardof postgraduate degrees, basic degrees,diplomas, and certificates under this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      258.43,
+      276.53,
+      447.86,
+      340.67
+    ],
+    "text": "(ii)the standards of the courses conferringbasic degrees, diplomas and certificates,conducted by local or foreign universitiesor degree-awarding institutions, to beconsidered for registration under the Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      255.55,
+      352.49,
+      447.82,
+      416.63
+    ],
+    "text": "(iii)and to hold examinations for the holdersof basic degrees, diplomas and certificatesconferred by local or foreign universitiesor degree-awarding institutions, to beconsidered for registration under the Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      256.15,
+      428.57,
+      447.86,
+      505.91
+    ],
+    "text": "(iv)the standards and period of internship ortraining required by holders of basicdegrees, diplomas and certificatesconferred by local or foreign universitiesor degree awarding institutions, to beconsidered for registration under the Act;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      222.91,
+      517.73,
+      447.81,
+      568.67
+    ],
+    "text": "(2)in paragraph (b) thereof, by the substitution for thewords \u201cenable persons to obtain\u201d of the words\u201cenable persons to obtain postgraduate degrees orbasic degrees or\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      222.91,
+      580.49,
+      447.81,
+      631.43
+    ],
+    "text": "(3)in paragraph (c) thereof, by the substitution for thewords \u201cenable persons to obtain\u201d of the words\u201cenable persons to obtain postgraduate degrees orbasic degrees or\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      222.91,
+      643.37,
+      447.76,
+      667.91
+    ],
+    "text": "(4)by the insertion, immediately after paragraph (c)thereof, of the following new paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202317",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      173.85,
+      203.57,
+      383.64,
+      266.99
+    ],
+    "text": "\u201c(ca)to make recommendations to the Minister inrespect of any fees to be prescribed, wherenecessary, for the award of postgraduatedegrees, basic degrees, diplomas, andcertificates under this Act;\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.61,
+      278.57,
+      383.65,
+      315.95
+    ],
+    "text": "21. Section 33 of the principal enactment is herebyamended by the repeal of subsection (1) thereof, and thesubstitution therefor of the following:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      167.61,
+      327.65,
+      383.66,
+      377.99
+    ],
+    "text": "\u201c(1) There shall be a Committee which shall becalled the Ayurveda Research Committee, (hereinafterin this Part referred to as \u201cthe Committee\u201d) which shallconsist of fourteen members, namely-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182.85,
+      389.57,
+      315.82,
+      400.91
+    ],
+    "text": "(a)the Commissioner-General;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182.85,
+      412.61,
+      383.63,
+      423.95
+    ],
+    "text": "(b)the Head of the Ayurveda National Hospital;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      183.45,
+      435.53,
+      383.64,
+      459.95
+    ],
+    "text": "(c)the Head of the Bandaranayake MemorialAyurveda Research Institute;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182.85,
+      471.53,
+      383.65,
+      547.91
+    ],
+    "text": "(d)four Professors of traditional medicine, eachrepresenting the University of Colombo, SriLanka, the Gampaha WickramarachchiUniversity of Indigenous Medicine, theUniversity of Jaffna, and the Faculty of SiddhaMedicine of Eastern University, Sri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      183.45,
+      559.61,
+      383.73,
+      609.95
+    ],
+    "text": "(e)one member duly appointed by the NationalScience Foundation established under theScience and Technology Development Act,No. 11 of 1994;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      185.13,
+      621.53,
+      383.77,
+      671.87
+    ],
+    "text": "(f)one member duly appointed by the NationalIntellectual Property Office of Sri Lankaestablished under the Intellectual PropertyAct, No. 36 of 2003;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      402.45,
+      279.91,
+      451.65,
+      317.78
+    ],
+    "text": "Amendment ofsection 33 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202318",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      244.39,
+      201.29,
+      445.31,
+      237.95
+    ],
+    "text": "(g)one member nominated by the Secretary tothe Ministry of the Minister assigned thesubject of Science;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      244.39,
+      249.17,
+      445.28,
+      285.71
+    ],
+    "text": "(h)one member appointed by the Minister fromamong persons who possess ten or more yearsof experience in the field of law;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      246.67,
+      297.05,
+      445.3,
+      333.59
+    ],
+    "text": "(i)two members appointed by the Minister, fromamong the Ayurveda Practitioners registeredin the special register; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      246.67,
+      344.81,
+      445.29,
+      393.95
+    ],
+    "text": "(j)one member not below the rank of SeniorAssistant Secretary appointed by the Secretaryto the Ministry of the Minister to whom thesubject of Finance is assigned.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      205.27,
+      405.17,
+      445.31,
+      441.71
+    ],
+    "text": "22. Section 38 of the principal enactment is herebyamended, by the substitution for the words, \u201cshall be three.\u201d,of the words \u201cshall be five.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      205.27,
+      452.93,
+      445.3,
+      476.87
+    ],
+    "text": "23. Section 41 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      220.39,
+      488.21,
+      445.31,
+      537.35
+    ],
+    "text": "(1)in paragraph (c) of subsection (1) thereof, by thesubstitution for the words \u201cayurvedic clinicaltreatment\u201d of the words \u201cayurveda clinicaltreatment and Ayurveda Primary Health Care\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      220.39,
+      548.57,
+      445.29,
+      585.11
+    ],
+    "text": "(2)in subsection (2) thereof, by the insertionimmediately after paragraph (d), the following newparagraph: -",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      248.83,
+      596.33,
+      445.28,
+      632.87
+    ],
+    "text": "\u201c(da) the charging of any prescribed fees inrespect of any matters referred to inparagraphs (a) to (d);\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      220.39,
+      644.21,
+      445.33,
+      669.23
+    ],
+    "text": "(3)by the addition, immediately after subsection (2)thereof, of the following new subsection:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      406.75,
+      189.07,
+      444.62
+    ],
+    "text": "Amendment ofsection 38 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      453.43,
+      192.32,
+      493.58
+    ],
+    "text": "Amendment ofsection 41of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202319",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      179.85,
+      204.53,
+      383.88,
+      241.55
+    ],
+    "text": "\u201c(3) Formulating one or more sub-committees tocarry out duties and responsibilities specified in subsections (1) and (2).\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      252.89,
+      383.88,
+      302.03
+    ],
+    "text": "24. Section 51 of the principal enactment is herebyamended in subsection (1) thereof, by the addition,immediately after paragraph (c), of the following newparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      205.53,
+      313.25,
+      383.87,
+      337.19
+    ],
+    "text": "\u201c(d)a register for the registration ofAyurveda massage therapists.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      348.41,
+      383.89,
+      410.15
+    ],
+    "text": "25. Section 53 of the principal enactment is herebyamended by the substitution for the words \u201cayurvedicpharmacist or ayurvedic nurse\u201d wherever they appear in thatsection, of the words \u201cAyurveda pharmacist, Ayurveda nurseor Ayurveda massage therapist\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      421.49,
+      383.89,
+      483.23
+    ],
+    "text": "26. Section 54 of the principal enactment is herebyamended by the substitution for the words \u201cayurvedicpharmacist or ayurvedic nurse\u201d wherever they appear in thatsection, of the words \u201cAyurveda pharmacist, Ayurveda nurseor Ayurveda massage therapist\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      494.45,
+      383.91,
+      619.19
+    ],
+    "text": "27. Section 55 of the principal enactment is herebyamended in paragraph (c) of subsection (1) thereof, by thesubstitution for the words \u201cThe institute of Ayurveda of theUniversity of Ceylon; or\u201d of the words \u201cthe Faculty ofIndigenous Medicine of the University of Colombo, SriLanka, the Faculty of Indigenous Medicine of the GampahaWickramarachchi University of Indigenous Medicine, SriLanka, the Unit of Siddha Medicine of the University ofJaffna, Sri Lanka, the Faculty of Siddha Medicine of theEastern University, Sri Lanka; or\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      630.41,
+      383.88,
+      654.35
+    ],
+    "text": "28. Section 56 of the principal enactment is herebyrepealed and the following section is substituted therefor: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      401.73,
+      350.11,
+      450.93,
+      390.14
+    ],
+    "text": "Amendment ofsection 53 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      401.73,
+      422.11,
+      450.93,
+      462.14
+    ],
+    "text": "Amendment ofsection 54 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      401.73,
+      497.11,
+      450.93,
+      534.98
+    ],
+    "text": "Amendment ofsection 55 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      401.73,
+      632.71,
+      453.46,
+      670.58
+    ],
+    "text": "Replacement ofsection 56 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      401.73,
+      254.11,
+      450.93,
+      291.98
+    ],
+    "text": "Amendment ofsection 51 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202320",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      266.11,
+      204.29,
+      451.18,
+      257.63
+    ],
+    "text": "56. No person shall be entitled to beregistered as an Ayurveda pharmacist,Ayurveda nurse or Ayurveda massage therapistunless such person-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      266.11,
+      270.29,
+      397.16,
+      281.63
+    ],
+    "text": "(a) is a citizen of Sri Lanka; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      266.11,
+      294.29,
+      451.19,
+      403.67
+    ],
+    "text": "(b) satisfies the Council that such personpossesses sufficient knowledge,experience and skill in the science ofmanufacturing Ayurveda medicinesefficiently or sufficient experience inAyurveda nursing or professional skill asan Ayurveda massage therapist , as the casemay be.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      416.33,
+      451.18,
+      441.59
+    ],
+    "text": "29. Section 57 of the principal enactment is herebyamended as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.27,
+      454.25,
+      349.99,
+      465.59
+    ],
+    "text": "(1)in subsection (1) thereof-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.27,
+      478.25,
+      451.17,
+      531.59
+    ],
+    "text": "(a)in paragraph (a), by the substitution for thewords \u201cpharmacist, ayurvedic nurse\u201d of thewords \u201cpharmacist, Ayurveda nurse,Ayurveda massage therapist,\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.27,
+      544.25,
+      451.17,
+      597.59
+    ],
+    "text": "(b)in paragraph (b), by the substitution for thewords \u201cpharmacist, ayurvedic nurse\u201d of thewords \u201cpharmacist, Ayurveda nurse,Ayurveda massage therapist,\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.87,
+      610.25,
+      451.2,
+      659.75
+    ],
+    "text": "(c)in paragraph (c), by the substitution for thewords \u201cany diploma or certificate\u201d of thewords \u201cany postgraduate degree or basicdegree or diploma or certificate\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      417.91,
+      189.07,
+      455.78
+    ],
+    "text": "Amendment ofsection 57 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      205.27,
+      205.99,
+      253.28,
+      301.46
+    ],
+    "text": "\u201cQualificationsforregistration asAyurvedapharmacist,Ayurvedanurse orAyurvedamassagetherapist",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202321",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      158.97,
+      205.37,
+      383.87,
+      216.71
+    ],
+    "text": "(2)in subsection (2) thereof, by the substitution for the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      220.85,
+      383.87,
+      232.19
+    ],
+    "text": "words \u201cayurvedic pharmacist or ayurvedic nurse\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      236.09,
+      383.92,
+      247.43
+    ],
+    "text": "wherever those words appear in that subsection, of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      251.45,
+      383.85,
+      262.79
+    ],
+    "text": "the words \u201cAyurveda pharmacist or Ayurveda nurse",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      266.69,
+      317.49,
+      278.03
+    ],
+    "text": "or Ayurveda massage therapist\u201d; .",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      155.85,
+      292.01,
+      383.89,
+      303.35
+    ],
+    "text": "30. Section 58 of the principal enactment is hereby",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      307.37,
+      383.87,
+      318.71
+    ],
+    "text": "amended by the substitution for the words \u201cayurvedic",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      322.61,
+      383.86,
+      333.95
+    ],
+    "text": "pharmacist or ayurvedic nurse\u201d wherever they appear in that",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      337.97,
+      383.85,
+      349.31
+    ],
+    "text": "section, of the words \u201cAyurveda pharmacist or Ayurveda",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      353.21,
+      307.19,
+      364.55
+    ],
+    "text": "nurse or Ayurveda massage therapists,\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      155.85,
+      378.53,
+      383.89,
+      389.87
+    ],
+    "text": "31. Section 59 of the principal enactment is hereby",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      393.89,
+      230.49,
+      405.23
+    ],
+    "text": "amended as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      155.97,
+      419.09,
+      383.88,
+      430.43
+    ],
+    "text": "(1)in subsection (1) thereof, by the substitution for the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      434.45,
+      383.87,
+      445.79
+    ],
+    "text": "words \u201cayurvedic pharmacist or ayurvedic nurse\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      449.69,
+      383.88,
+      461.03
+    ],
+    "text": "and the words \u201cregister of ayurvedic nurses,\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      465.05,
+      383.84,
+      476.39
+    ],
+    "text": "wherever those words appear, of the words",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      480.29,
+      383.85,
+      491.63
+    ],
+    "text": "\u201cAyurveda pharmacist, Ayurveda nurse or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      495.65,
+      383.85,
+      506.99
+    ],
+    "text": "Ayurveda massage therapist\u201d and the words",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      510.89,
+      383.85,
+      522.23
+    ],
+    "text": "\u201cregister of Ayurveda nurses, the register of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      526.25,
+      361.92,
+      537.59
+    ],
+    "text": "Ayurveda massage therapists,\u201d, respectively;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      155.97,
+      551.57,
+      383.88,
+      562.91
+    ],
+    "text": "(2)in subsection (2) thereof, by the substitution for the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      566.81,
+      383.87,
+      578.15
+    ],
+    "text": "words \u201cayurvedic pharmacist or ayurvedic nurse\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      582.17,
+      383.88,
+      593.51
+    ],
+    "text": "and the words \u201cregister of ayurvedic nurses,\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      597.41,
+      383.84,
+      608.75
+    ],
+    "text": "wherever those words appear, of the words",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      612.77,
+      383.86,
+      624.11
+    ],
+    "text": "\u201cAyurveda pharmacist or Ayurveda nurse or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      628.01,
+      383.85,
+      639.35
+    ],
+    "text": "Ayurveda massage therapist\u201d and the words",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      643.37,
+      383.85,
+      654.71
+    ],
+    "text": "\u201cregister of Ayurveda nurses, the register of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      658.61,
+      379.35,
+      669.95
+    ],
+    "text": "Ayurveda massage therapists,\u201d, respectively; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      401.73,
+      294.31,
+      450.93,
+      334.46
+    ],
+    "text": "Amendment ofsection 58 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      401.73,
+      419.95,
+      450.93,
+      460.1
+    ],
+    "text": "Amendment ofsection 59 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202322",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.27,
+      203.45,
+      451.18,
+      291.47
+    ],
+    "text": "(3)in subsection (3) thereof, by the substitution for thewords \u201cayurvedic pharmacist or ayurvedic nurse\u201dand the words \u201cregister of ayurvedic nurses,\u201d of thewords \u201cAyurveda pharmacist or Ayurveda nurse orAyurveda massage therapist\u201d and the words\u201cregister of Ayurveda nurses, the register ofAyurveda massage therapists,\u201d, respectively.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      302.93,
+      451.19,
+      326.99
+    ],
+    "text": "32. Section 60 of the principal enactment is herebyrepealed and the following section is substituted therefor:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264.19,
+      338.33,
+      451.18,
+      413.75
+    ],
+    "text": "60.(1) The fee for registration as anAyurvedic practitioner, Ayurveda pharmacistor Ayurveda nurse or Ayurveda massagetherapist, shall be such sum as may beprescribed by rules made by the Council underthis Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264.19,
+      425.09,
+      451.18,
+      538.67
+    ],
+    "text": "(2) The Registrar shall not register the nameof any person in the register of Ayurvedapractitioners, the register of Ayurvedapharmacists, register of Ayurveda nurses, theregister of Ayurveda massage therapists, untilthe fee for registration as an Ayurvedapractitioner, Ayurveda pharmacist or Ayurvedanurse or Ayurveda massage therapist, as thecase may be, is paid by that person.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264.19,
+      550.01,
+      451.18,
+      612.11
+    ],
+    "text": "(3) The fees chargeable by the AyurvedaEducation and Hospital Board in the exercise,discharge and performance of its powers,functions, and duties under section 30 of thisAct, shall be as prescribed by regulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      264.19,
+      623.45,
+      451.19,
+      673.07
+    ],
+    "text": "(4) The fees chargeable by the AyurvedaResearch Committee for the performance of itsduties under section 41 of the Act, shall be asprescribed by regulation.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      303.43,
+      252.92,
+      444.98
+    ],
+    "text": "Replacement ofsection 60 ofthe principalenactment\u201cFees to becharged forthe purposesof section 18,in the exerciseof powersunder section30 and incarrying outduties undersection 41",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202323",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      203.21,
+      383.89,
+      263.39
+    ],
+    "text": "33. Section 61 of the principal enactment is herebyamended by the substitution for the words \u201cAyurvedicpharmacist or ayurvedic nurse\u201d of the words \u201cAyurvedapharmacist or Ayurveda nurse or Ayurveda massagetherapist\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      274.25,
+      383.89,
+      358.79
+    ],
+    "text": "34. Section 62 of the principal enactment is herebyamended by the substitution for the words \u201cregister ofAyurvedic nurses,\u201d and the words \u201cayurvedic pharmacist orAyurvedic nurse\u201d of the words \u201cregister of Ayurveda nurses,the register of Ayurveda massage therapists,\u201d and the words,\u201cAyurveda pharmacist or Ayurveda nurse or Ayurvedamassage therapist\u201d respectively.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      369.65,
+      383.89,
+      393.23
+    ],
+    "text": "35. Section 63 of the principal enactment is herebyamended as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.97,
+      404.09,
+      383.88,
+      452.03
+    ],
+    "text": "(1) in subsection (1) thereof, by the substitution for thewords \u201cayurvedic pharmacist or ayurvedic nurse\u201dof the words \u201cAyurveda pharmacist or Ayurvedanurse or Ayurveda massage therapist\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.97,
+      462.89,
+      383.94,
+      547.43
+    ],
+    "text": "(2) in subsection (3) thereof, by the substitution for thewords \u201cayurvedic pharmacist or ayurvedic nurse\u201dand the words \u201cregister of ayurvedic nurses,\u201d of thewords \u201cAyurveda pharmacist or Ayurveda nurse orAyurveda massage therapist\u201d and the words,\u201cregister of Ayurveda nurses, the register ofAyurveda massage therapists,\u201d respectively.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      558.29,
+      383.88,
+      581.87
+    ],
+    "text": "36. Section 66 of the principal enactment is herebyrepealed and the following section is substituted therefor: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      197.85,
+      592.73,
+      383.88,
+      666.47
+    ],
+    "text": "66. For the purposes of any written law, aregistered Ayurveda pharmacist, Ayurvedanurse or Ayurveda massage therapist shall bedeemed to be a legally or duly qualifiedAyurveda pharmacist, Ayurveda nurse orAyurveda massage therapist, respectively.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      401.73,
+      204.55,
+      450.93,
+      242.42
+    ],
+    "text": "Amendment ofsection 61 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      401.73,
+      277.03,
+      450.93,
+      314.9
+    ],
+    "text": "Amendment ofsection 62 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      401.73,
+      370.75,
+      450.93,
+      410.9
+    ],
+    "text": "Amendment ofsection 63 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      559.15,
+      453.46,
+      668.9
+    ],
+    "text": "Replacement ofsection 66 ofthe principalenactment\u201cAyurvedapharmacist,Ayurvedanurse orAyurvedamassagetherapist to betreated asduly qualified",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202324",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      203.93,
+      451.2,
+      255.47
+    ],
+    "text": "37. Section 69 of the principal enactment is herebyamended in subsection (2) thereof, by the substitution forthe words \u201cspecial register of ayurvedic practitioners,\u201d ofthe words \u201cin the Special register of Ayurveda practitioners,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      267.53,
+      451.18,
+      292.19
+    ],
+    "text": "38. Section 70 of the principal enactment is herebyrepealed and the following section is substituted therefor: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      264.19,
+      304.25,
+      451.18,
+      342.47
+    ],
+    "text": "70. (1) Every registered Ayurvedapharmacist shall be entitled to manufactureAyurveda medicines.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      264.19,
+      354.53,
+      451.21,
+      379.19
+    ],
+    "text": "(2) Every registered Ayurveda nurse shallbe entitled to practise ayurveda nursing.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      264.19,
+      391.25,
+      451.19,
+      429.47
+    ],
+    "text": "(3) Every registered Ayurveda massagetherapist shall be entitled to practise Ayurvedamassage techniques.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      441.53,
+      451.19,
+      466.19
+    ],
+    "text": "39. Section 71 of the principal enactment is herebyamended as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      226.27,
+      478.25,
+      451.18,
+      543.23
+    ],
+    "text": "(1)in subsection (1) thereof, by the substitution for thewords \u201cregistered ayurvedic nurse,\u201d wherever thosewords appear in that subsection, of the words\u201cregistered Ayurveda nurse or registered Ayurvedamassage therapist,\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      226.27,
+      555.29,
+      451.17,
+      580.07
+    ],
+    "text": "(2)by the repeal of subsection (2) thereof, and thesubstitution therefor, of the following subsection: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      271.15,
+      592.13,
+      451.18,
+      670.43
+    ],
+    "text": "\u201c(2) A person who is registered undersection 10 as the proprietor of a registeredAyurveda hospital, herbal cultivation,Ayurveda pharmacy, herbarium, Ayurvedasale centre or Ayurveda store may,notwithstanding that he is not a registered",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      133.75,
+      203.83,
+      188.36,
+      243.98
+    ],
+    "text": "Amendment ofsection 69 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      133.75,
+      268.27,
+      188.36,
+      306.14
+    ],
+    "text": "Replacement ofsection 70 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      133.75,
+      441.91,
+      188.36,
+      479.78
+    ],
+    "text": "Amendment ofsection 71 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      206.23,
+      304.75,
+      247.16,
+      421.82
+    ],
+    "text": "\u201cRegisteredAyurvedapharmacist,registeredAyurvedanurse orregisteredAyurvedamassagetherapistentitled tomanufactureor practice",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202325",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      203.85,
+      203.93,
+      389.76,
+      274.31
+    ],
+    "text": "Ayurveda pharmacist, use, for the purposes ofthe business of such Ayurveda hospital, herbalcultivation, pharmacy herbarium, Ayurvedasale centre or stores, any name, title, addition,or description which may be used by aregistered Ayurveda pharmacist, if-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      218.97,
+      284.69,
+      389.76,
+      389.63
+    ],
+    "text": "(a)he employs a registered Ayurvedapharmacist to personally superintendand manage the cultivation,distribution, sale or manufacturing ofmedicines, drugs or poisons at suchAyurveda hospital, herbal cultivation,pharmacy, herbarium, Ayurveda salecentre or Ayurveda store, as the casemay be; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      218.97,
+      399.89,
+      389.76,
+      434.63
+    ],
+    "text": "(b)the name of the pharmacist soemployed has been notified in writingto the Council.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      445.01,
+      389.82,
+      503.15
+    ],
+    "text": "40. Section 72 of the principal enactment is hereby amendedby the substitution for the words \u201cayurvedic pharmacist orayurvedic nurse\u201d wherever those words appear in that sectionof the words \u201cAyurveda pharmacist or Ayurveda nurse orAyurveda massage therapist\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      513.53,
+      389.76,
+      536.63
+    ],
+    "text": "41. Section 77 of the principal enactment is hereby amendedas follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      158.97,
+      546.89,
+      389.75,
+      569.99
+    ],
+    "text": "(1)by the repeal of subsection (1) thereof and thesubstitution therefor, of the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      197.85,
+      580.37,
+      389.79,
+      673.91
+    ],
+    "text": "\u201c(1) Regulations may be made under this Actprescribing an Ayurveda Code containing allsuch provisions in respect of all such matters asthe authority empowered to make suchregulations may deem necessary to prohibit,regulate or control the manufacture, preparation,importation, exportation, purchase, storage,advertising, transportation, quality control, sale,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      401.73,
+      445.03,
+      456.34,
+      482.9
+    ],
+    "text": "Amendment ofsection 72 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      401.73,
+      513.31,
+      456.34,
+      551.18
+    ],
+    "text": "Amendment ofsection 77 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202326",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      265.15,
+      203.09,
+      451.2,
+      284.75
+    ],
+    "text": "supply, distribution or dispensing of any article,substance or drug for the purpose of Ayurvedamedicine and surgery. Such Code may,without prejudice to the generality of thepowers hereinbefore conferred, make provisionin respect of all or any of the followingmatters:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      271.27,
+      295.13,
+      451.19,
+      341.63
+    ],
+    "text": "(a)the declaration of any article, substanceor drug as a poison, poisonous substanceor dangerous drug, as the case may be,for that purpose;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      271.27,
+      351.89,
+      451.18,
+      421.79
+    ],
+    "text": "(b)the prohibition, regulation or control of,the manufacture, preparation,importation, exportation, purchasing,storing, advertising, transportation,quality control, sale, supply, ordistribution of any Ayurveda product;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      271.87,
+      432.17,
+      451.16,
+      466.91
+    ],
+    "text": "(c)the registration and maintenance of anyherbal Garden for Research andExtension;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      271.27,
+      477.29,
+      451.17,
+      523.67
+    ],
+    "text": "(d)the registration of or issuance of licencesor permits for any herbal cultivation andfor any related activity, includingtransportation and storing of crop;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      271.87,
+      534.05,
+      451.2,
+      652.55
+    ],
+    "text": "(e)the introduction and operation of asystem of registration, licensing orissuance of permits for the purpose ofeffecting such regulation or control,including, but not limited to, the makingof application for such registration,licensing or issuance of permits, thegrant, refusal, suspension andcancellation of such registration, licenceor permit;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202327",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      206.25,
+      203.57,
+      383.88,
+      291.95
+    ],
+    "text": "(f)the precautions to be taken, and theconditions to be complied with, in suchherbal cultivation and in suchmanufacture, preparation, importation,exportation, purchase, storage,advertising, transportation, qualitycontrol, sale, supply, distribution ordispensing;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.97,
+      301.49,
+      383.88,
+      400.07
+    ],
+    "text": "(g)the books and records to be kept andmaintained, and the returns to befurnished, by persons engaged in suchherbal cultivation and in suchmanufacture, preparation, importation,exportation, purchase, storage,advertising, transportation, qualitycontrol, sale, supply, distribution ordispensing;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.97,
+      409.61,
+      383.89,
+      508.07
+    ],
+    "text": "(h)the inspection of the premises in whichsuch herbal cultivation is carried out andin which such manufacture, preparation,importation, exportation, purchase,storage, advertising, transportation,quality control, sale, supply, distributionor dispensing is carried on, and of therecords and books kept and maintainedfor that purpose;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      206.25,
+      517.73,
+      383.87,
+      550.79
+    ],
+    "text": "(i)the charging of fees, where necessary,in respect of any matter referred to inthis section;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      206.25,
+      560.33,
+      383.88,
+      593.51
+    ],
+    "text": "(j)the declaration of any medicinal plantwhich requires a licence or permit forcultivation; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      204.57,
+      603.05,
+      383.89,
+      625.31
+    ],
+    "text": "(k)any other matter incidental to orconnected with the matters aforesaid.\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.97,
+      634.85,
+      383.94,
+      669.47
+    ],
+    "text": "(2) in subsection (2) thereof, by the substitution for thewords \u201cthe Prime Minister.\u201d of the words \u201cthePresident.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202328",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.15,
+      203.57,
+      451.19,
+      292.91
+    ],
+    "text": "42. Section 79 of the principal enactment is herebyamended by the substitution for the words \u201cregisteredayurvedic hospital, any registered ayurvedic pharmacy,\u201d,wherever those words appear in that section, of the words\u201cregistered Ayurveda hospital, any registered Ayurvedapharmacy, any Ayurveda drug manufactory, any herbalcultivation,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.15,
+      304.61,
+      451.18,
+      328.91
+    ],
+    "text": "43. Section 80 of the principal enactment is herebyrepealed and the following section is substituted therefor: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      264.19,
+      340.61,
+      378.78,
+      351.95
+    ],
+    "text": "80. (1) Any person who \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      283.27,
+      363.65,
+      451.19,
+      426.95
+    ],
+    "text": "(a) resists or obstructs a personauthorized in that behalf under thisAct in the exercise by such person ofany powers conferred on him by orunder this Act;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      283.27,
+      438.53,
+      451.18,
+      475.91
+    ],
+    "text": "(b) fails without reasonable cause, tocomply with the requirements of anotice issued under this Act;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      283.87,
+      487.61,
+      451.15,
+      524.87
+    ],
+    "text": "(c) knowingly makes any false statementin any return or information furnishedby him under this Act; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      283.27,
+      536.57,
+      451.16,
+      599.87
+    ],
+    "text": "(d) willfully omits any material fact fromany return or information furnishedby him under this Act in respect ofwhich he is required to furnishinformation,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      266.11,
+      611.57,
+      451.2,
+      661.91
+    ],
+    "text": "commits an offence under this Act and shallbe liable on conviction after summary trialbefore a Magistrate, to a fine of not exceedingfifty thousand rupees or to imprisonment of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      139.87,
+      203.11,
+      189.07,
+      240.98
+    ],
+    "text": "Amendment ofsection 79 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      139.87,
+      304.39,
+      253.28,
+      360.02
+    ],
+    "text": "Replacement ofsection 80 ofthe principalenactment\u201coffencesand penalties",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202329",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      198.81,
+      203.57,
+      389.74,
+      227.27
+    ],
+    "text": "either description, for a term not exceeding sixmonths or to both such fine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      196.89,
+      237.89,
+      389.77,
+      357.23
+    ],
+    "text": "(2) Any person who contravenes theprovisions of this Act or any regulation madethereunder, while practicing Ayurveda under theAuthority of a licence issued under this Act,commits an offence under this Act and shall beliable on conviction after summary trial before aMagistrate, to a fine of not exceeding onehundred thousand rupees or to imprisonment ofeither description, for a term not exceeding oneyear or to both such fine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      196.89,
+      367.97,
+      389.77,
+      451.31
+    ],
+    "text": "(3) Any person who commits an offence undersection 79 of this Act, shall be liable onconviction after summary trial before aMagistrate, to a fine not exceeding one hundredthousand rupees or to imprisonment of eitherdescription, for a term not exceeding one year orto both such fine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      208.89,
+      461.93,
+      293.73,
+      473.27
+    ],
+    "text": "(4) Any person who-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      212.97,
+      483.89,
+      389.75,
+      519.23
+    ],
+    "text": "(a)carries out any activity without alicence or permit for which a licence orpermit is required under this Act; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      212.97,
+      529.97,
+      389.77,
+      589.31
+    ],
+    "text": "(b)fraudulently displays a logo or a markor a sign indicating that a premises,establishment, an article, a drug,substance or an Ayurveda product hasa valid licence issued under this Act,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      197.85,
+      599.93,
+      389.78,
+      671.87
+    ],
+    "text": "commits an offence under this Act and shall beliable on conviction after summary trial beforea Magistrate, to a fine not exceeding two hundredthousand rupees or to imprisonment of eitherdescription for a term not exceeding one year orto both such fine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202330",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      264.19,
+      202.97,
+      451.19,
+      311.15
+    ],
+    "text": "(5) Any person who acts in contraventionof any provision of this Act, (other than theprovisions referred to in subsections (1), (2),(3) and (4) of this section) or any requirementsimposed under any such provision, or anyregulations made under the Act, shall be guiltyof an offence under this Act and shall, onconviction after summary trial before aMagistrate, be liable \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      277.27,
+      321.89,
+      451.19,
+      502.67
+    ],
+    "text": "(a)where such person is not a bodycorporate, to a fine not less than rupeesfive thousand and not exceedingrupees fifty thousand or toimprisonment of either description fora term not exceeding one year or toboth such fine and imprisonment inthe case of a first offence, and to a finenot less than rupees ten thousand andnot exceeding rupees one hundredthousand or to an imprisonment ofeither description for a term notexceeding two years or to both suchfine and imprisonment in the case ofa subsequent offence ; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      277.27,
+      513.41,
+      451.18,
+      609.47
+    ],
+    "text": "(b)where such person is a body corporate,to a fine not less than rupees fiftythousand and not exceeding rupeesone million in the case of a firstoffence, and to a fine not less thanrupees one hundred thousand and notexceeding rupees two million in thecase of a subsequent offence.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.15,
+      620.21,
+      451.19,
+      670.19
+    ],
+    "text": "44. Section 83 of the principal enactment is herebyamended by the substitution for the words \u201cpharmacy ornursing,\u201d of the words \u201cayurveda drug manufacturing,nursing or Ayurveda massage therapy,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      139.87,
+      621.19,
+      189.07,
+      659.06
+    ],
+    "text": "Amendment ofsection 83 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202331",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      143.85,
+      203.57,
+      389.76,
+      227.99
+    ],
+    "text": "45. Section 89 of the principal enactment is hereby amendedas follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      158.97,
+      239.57,
+      389.77,
+      276.95
+    ],
+    "text": "(1)by the repeal of the definition of the expression\u201cAyurveda\u201d and the substitution therefor, of thefollowing:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      185.85,
+      288.65,
+      389.76,
+      377.99
+    ],
+    "text": "\u201c \u201cAyurveda\u201d includes the Ayurveda, Siddha, Unaniand Desiya Chikitsa systems of medicineand surgery and any other system ofmedicine indigenous to Asian countriesand recognized as such by theGovernments of such respectivecountries;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      158.97,
+      389.57,
+      389.79,
+      426.95
+    ],
+    "text": "(2)by the insertion, immediately after the definition ofthe expression \u201cayurveda pharmacy\u201d, the followingnew definition: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      182.85,
+      438.53,
+      389.75,
+      527.87
+    ],
+    "text": "\u201c \u201cAyurveda Product\u201d means any Ayurveda article,substance or drug which is manufacturedor refined for sale, and includes any locallymanufactured or imported medicinalextract or fraction, a health supplement, afood supplement, a cosmeceutical, or adevice;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      158.97,
+      539.57,
+      389.84,
+      576.95
+    ],
+    "text": "(3)by the insertion, immediately after the definition ofthe expression \u201cdispensary\u201d, the following newdefinitions:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      182.85,
+      588.53,
+      389.75,
+      664.91
+    ],
+    "text": "\u201c \u201cEastern University of Sri Lanka\u201d means theEastern University of Sri Lanka establishedunder Order made under section 21 of theUniversities Act, No.16 of 1978 andpublished in the Gazette ExtraordinaryNo. 420/25 of September 26, 1986;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      401.73,
+      203.11,
+      450.93,
+      240.98
+    ],
+    "text": "Amendment ofsection 89 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202332",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      244.27,
+      204.89,
+      451.18,
+      314.63
+    ],
+    "text": "\u201cFaculty of Indigenous Medicine of the Universityof Colombo, Sri Lanka\u201d means the Facultyof Indigenous Medicine of the Universityof Colombo, Sri Lanka established byOrder made under the Universities Act,No.16 of 1978 and published in the GazetteExtraordinary No. 2319/22 of February 13,2023;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      244.27,
+      327.29,
+      451.18,
+      436.67
+    ],
+    "text": "\u201cGampaha Wickramarachchi University ofIndigenous Medicine, Sri Lanka\u201d meansthe the Gampaha WickramarachchiUniversity of Indigenous Medicine, SriLanka established by Order made underthe Universities Act, No.16 of 1978 andpublished in the Gazette Extraordinary No.2199/12 of October 28, 2020;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      244.27,
+      449.33,
+      451.18,
+      530.63
+    ],
+    "text": "\u201cHerbal Cultivation\u201d means the cultivation of anymedicinal plants for Ayurveda purposesas prescribed in the Ayurveda Code andshall include crop harvest or residual ofsuch growth used for any commercialpurposes;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      244.27,
+      543.29,
+      451.17,
+      626.27
+    ],
+    "text": "\u201cHerbal Gardens for Research and Extension\u201dmeans a dedicated space devoted to growmedicinal plants for research purposes,either by the Department of Ayurveda ora person registered for such purposes underthis Act;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      220.39,
+      639.89,
+      451.21,
+      681.23
+    ],
+    "text": "(4)by the insertion, immediately after the definition ofthe expression \u201cHospital of Indigenous Medicine\u201d,the following new definitions:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202333",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      180.81,
+      203.09,
+      383.87,
+      263.63
+    ],
+    "text": "\u201c \u201cMedicinal plant\u201d means any plant which, in oneor more of its organs, contain substancesthat can be used for thereputic purposesor which are precursors for the synthesisof useful drugs;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      180.81,
+      274.61,
+      383.87,
+      310.55
+    ],
+    "text": "\u201cMinister\u201d means the Minister assigned the subjectof Ayurveda under Article 44 or 45 ofthe Constitution;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      180.81,
+      321.53,
+      383.88,
+      455.87
+    ],
+    "text": "\u201cPrimary Health Care\u201d means a whole-of-societyapproach to health that aims at ensuringthe highest possible level of health andwell-being and their equitabledistribution by focusing on people'sneeds and as early as possible along thecontinuum from health promotion anddisease prevention to treatment,rehabilitation and palliative care, and asclose as feasible to people's everydayenvironment;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      160.05,
+      466.85,
+      383.88,
+      502.79
+    ],
+    "text": "(5) by the repeal of the definition of the expression\u201cregister of Ayurveda practitioners\u201d and thesubstitution therefor, of the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      180.81,
+      513.77,
+      383.89,
+      635.75
+    ],
+    "text": "\u201c \u201cregister of Ayurveda practitioners\u201d means theGeneral register, or the Special registermaintained by the Ayurveda MedicalCouncil under this Act for the registrationof Ayurveda practitioners, and includesany register which is deemed to be aGeneral register of Ayurvedapractitioners or a Special register ofAyurveda practitioners under subsection(3) of section 51;\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      205.27,
+      167.17,
+      414.8,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202334",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      220.15,
+      204.29,
+      451.18,
+      243.59
+    ],
+    "text": "(6)by the insertion, immediately after the definition ofthe expression \u201cregistered ayurvedic practitioner\u201d, thefollowing new definitions:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      244.03,
+      256.25,
+      451.24,
+      295.67
+    ],
+    "text": "\u201c \u201cRegistered Ayurveda massage therapist\u201d meansany person registered as an Ayurvedamassage therapist under this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      244.03,
+      308.33,
+      451.18,
+      375.59
+    ],
+    "text": "\u201cRegister of Ayurveda massage therapist\u201d meansthe register maintained by the AyurvedaMedical Council for the registration ofAyurveda massage therapist under thisAct;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      244.03,
+      388.25,
+      451.17,
+      441.59
+    ],
+    "text": "\u201cUniversity of Colombo, Sri Lanka\u201d means theUniversity of Colombo, Sri Lankaestablished under section 139 of theUniversities Act, No.16 of 1978;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      244.03,
+      454.25,
+      451.18,
+      507.59
+    ],
+    "text": "\u201cUniversity of Jaffna, Sri Lanka\u201d means theUniversity of Jaffna, Sri Lanka establishedunder section 139 of the Universities Act,No.16 of 1978;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      205.03,
+      520.25,
+      451.21,
+      587.63
+    ],
+    "text": "46. For the avoidance of doubt, it is hereby declared thatthe provisions of this Act shall not affect or be deemed tohave affected any act previously done or any decisionpreviously made under the principal enactment prior to thedate of commencement of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      205.03,
+      600.29,
+      451.18,
+      625.67
+    ],
+    "text": "47. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      133.75,
+      521.71,
+      177.91,
+      540.38
+    ],
+    "text": "Avoidance ofdoubt",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      133.75,
+      600.07,
+      190.4,
+      628.34
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      174.33,
+      167.17,
+      383.85,
+      178.79
+    ],
+    "text": "Ayurveda (Amendment) Act, No. 19 of 202335",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      150.09,
+      641.95,
+      451.41,
+      660.62
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

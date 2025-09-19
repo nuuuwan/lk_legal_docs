@@ -1,0 +1,3785 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.29,
+      376.11,
+      433.26,
+      404.12
+    ],
+    "text": "NATIONAL EYE BANK TRUST OF SRI LANKAACT, No. 22 OF 2023",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      224.49,
+      452.69,
+      376.75,
+      464.03
+    ],
+    "text": "[Certified on 17th of October, 2023]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 36.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 20, 2023",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.49,
+      166.97,
+      383.69,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 20231",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      226.85,
+      213.81,
+      238.19
+    ],
+    "text": "L.D.\u2013O. 49/2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      250.73,
+      384.93,
+      273.95
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A TRUST CALLED THENATIONAL EYE BANK TRUST OF SRI LANKA; TO PROVIDE CORNEAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      274.49,
+      384.81,
+      285.83
+    ],
+    "text": "TISSUES, ARTIFICIAL DEVICES AND OTHER TISSUES REQUIRED FOR",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      286.37,
+      384.81,
+      297.71
+    ],
+    "text": "OPHTHALMIC SURGERY AND FOR SCIENTIFIC AND TECHNICAL RESEARCH",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      298.25,
+      384.81,
+      309.59
+    ],
+    "text": "AND EDUCATION; TO SHARE EXCESS CORNEAL TISSUES AND OTHER",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      310.25,
+      384.81,
+      321.59
+    ],
+    "text": "TISSUES REQUIRED FOR OPHTHALMIC SURGERY WITH OTHER COUNTRIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      322.13,
+      384.81,
+      333.47
+    ],
+    "text": "AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.89,
+      334.01,
+      187.05,
+      345.35
+    ],
+    "text": "THERTO .",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      357.77,
+      384.95,
+      440.51
+    ],
+    "text": "WHEREAS corneal blindness has been identified as one ofthe major causes for blindness worldwide with highestprevalence in Asia, and the Ministry of Health of Sri Lankahas established a National Eye Bank of Sri Lankaaccommodated in the Colombo National Eye Hospital sincethe Twenty Fourth day of February, Two Thousand andEleven with a view to alleviating corneal blindness;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      452.93,
+      384.93,
+      500.03
+    ],
+    "text": "AND WHEREAS now the Government of Sri Lanka isdesirous of incorporating the National Eye Bank of Sri Lankawith a view to alleviating blindness and for the preventionand control of avoidable blindness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      512.45,
+      384.86,
+      535.67
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      548.21,
+      384.83,
+      571.43
+    ],
+    "text": "1. This Act may be cited as the National Eye Bank Trustof Sri Lanka Act, No. 22 of 2023.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.93,
+      583.85,
+      279.93,
+      595.19
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.81,
+      607.73,
+      381.8,
+      619.07
+    ],
+    "text": "ESTABLISHMENT OF THE NATIONAL EYE BANK TRUST OF SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      631.49,
+      384.84,
+      666.71
+    ],
+    "text": "2. (1) There shall be established a Trust to be called theNational Eye Bank Trust of Sri Lanka (hereinafter referredto as \u201cthe Trust\u201d).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      550.39,
+      429.58,
+      559.46
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      359.59,
+      428.13,
+      368.66
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      633.67,
+      456.09,
+      671.54
+    ],
+    "text": "Establishment ofthe NationalEye Bank Trustof Sri Lanka",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.77,
+      203.45,
+      338.51,
+      214.79
+    ],
+    "text": "[Certified on 17th of October, 2023]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "2National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      202.73,
+      452.14,
+      237.23
+    ],
+    "text": "(2) The Trust shall, by the name assigned to it bysubsection (1), be a body corporate and shall have perpetualsuccession and by that name may sue and be sued.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      249.05,
+      386.13,
+      260.39
+    ],
+    "text": "3. The objects of the Trust shall be to \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      272.33,
+      452.13,
+      295.19
+    ],
+    "text": "(a)alleviate blindness from Sri Lanka and prevent andcontrol of avoidable blindness in Sri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      307.13,
+      452.15,
+      329.99
+    ],
+    "text": "(b)function as the National Eye Tissue Bank ofSri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.67,
+      341.93,
+      452.16,
+      422.87
+    ],
+    "text": "(c)harvest, process and distribute corneas and othertissues required for ophthalmic surgery, researchand education while adhering to medical andquality standards and ethics as shall be prescribedby regulations, relating to harvesting andtransplantation of corneal tissues and use of othertissues required for ophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      434.69,
+      452.15,
+      469.19
+    ],
+    "text": "(d)enhance public awareness in respect of the benefitsand values of donation of corneal tissues and othertissues required for ophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.67,
+      481.13,
+      452.14,
+      503.99
+    ],
+    "text": "(e)train Tissue Coordinators to harvest corneal tissuesand other tissues required for ophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230.11,
+      515.93,
+      452.14,
+      550.43
+    ],
+    "text": "(f)provide free of charge, corneal tissues and othertissues required for ophthalmic surgery toGovernment Hospitals for transplantations; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      562.25,
+      452.13,
+      608.39
+    ],
+    "text": "(g)provide corneal tissues and other tissues requiredfor ophthalmic surgery which are in excess to othercountries and recover from them the processing costas may be prescribed:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      248.11,
+      620.33,
+      452.14,
+      667.67
+    ],
+    "text": "Provided however, in providing corneal andother tissues in terms of this paragraph, priority shallbe given, in all instances, to requests made byGoverment hospitals and Sri Lankan citizens.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      249.07,
+      189.43,
+      267.74
+    ],
+    "text": "The objects ofthe Trust",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.49,
+      166.97,
+      383.69,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 20233",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252.81,
+      204.05,
+      285.81,
+      215.39
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      152.73,
+      227.09,
+      377.01,
+      238.43
+    ],
+    "text": "THE BOARD OF THE NATIONAL EYE BANK TRUST OF SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.81,
+      249.29,
+      384.83,
+      282.83
+    ],
+    "text": "4. The administration and management of the affairs ofthe Trust shall be vested in a Board of Trust (hereinafterreferred to as \u201cthe Board\u201d) consisting of \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.65,
+      293.69,
+      357.1,
+      305.03
+    ],
+    "text": "(a)the following ex-officio members, namely\u2013",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.81,
+      315.89,
+      384.84,
+      360.47
+    ],
+    "text": "(i) the Secretary to the Ministry of the Ministerassigned the subject of Health who shall serveas the Chairman (hereinafter referred to as \u201ctheChairman\u201d) of the Board;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      371.33,
+      362.26,
+      382.67
+    ],
+    "text": "(ii) the Director-General of Health Services;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.81,
+      393.53,
+      384.84,
+      427.07
+    ],
+    "text": "(iii) the Director of Colombo National Eye Hospitalor his representative not below the rank of aDeputy Director;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.65,
+      437.93,
+      384.85,
+      471.47
+    ],
+    "text": "(iv) a representative of the Treasury nominated bythe Secretary to the Ministry of the Ministerassigned the subject of Finance;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.65,
+      482.33,
+      384.82,
+      493.67
+    ],
+    "text": "(v) the Chief Judicial Medical Officer of Colombo;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.65,
+      504.53,
+      384.84,
+      527.03
+    ],
+    "text": "(vi) the Chief Accountant of the Ministry ofHealth;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.65,
+      537.89,
+      384.85,
+      571.43
+    ],
+    "text": "(b)the following members (hereinafter referred to asthe \u201cappointed members\u201d) appointed by theMinister:\u2013",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.81,
+      582.29,
+      384.88,
+      638.03
+    ],
+    "text": "(i) a representative nominated by the Council ofthe College of Ophthalmologists of Sri Lanka,established under the Council ofOphthalmologists of Sri Lanka (Incorporation)Act, No.12 of 2000;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      648.89,
+      384.84,
+      671.87
+    ],
+    "text": "(ii) a medical practitioner nominated by the SriLanka Medical Council established by the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      249.55,
+      455.14,
+      297.02
+    ],
+    "text": "Establishment ofthe National EyeBank TrustBoard of SriLanka",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "4National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      202.73,
+      451.18,
+      260.87
+    ],
+    "text": "Medical Ordinance (Chapter 105), from amongthe medical practitioners registered in the SriLanka Medical Council possessingqualifications and expertise in the field ofophthalmology; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      272.93,
+      451.19,
+      342.83
+    ],
+    "text": "(iii) a person who has proven experience and showncapacity in the fields of law or management. 5. (1) Every appointed member shall, unless he vacatesoffice earlier, hold office for a period of three years from thedate of his appointment:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      354.89,
+      451.18,
+      413.03
+    ],
+    "text": "Provided that, a member appointed by the Minister tofill a vacancy in the office of an appointed member of theBoard shall unless he vacates office earlier, hold office forthe unexpired portion of the term of office of the memberwhom he succeeds.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      425.09,
+      451.21,
+      471.47
+    ],
+    "text": "(2) Any appointed member of the Board who vacatesoffice shall, unless he has been removed from office undersection 6, be eligible for re-appointment for not more thanone further term of office, whether consecutive or otherwise.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      483.53,
+      451.18,
+      541.67
+    ],
+    "text": "6. (1) Any appointed member of the Board may at anytime, resign his office by letter in that behalf addressed tothe Minister and such resignation shall take effect from thedate on which the resignation is accepted in writing by theMinister.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      553.73,
+      451.18,
+      611.87
+    ],
+    "text": "(2) The Minister may, for reasons assigned thereforeremove any appointed member from office. An appointedmember who has been removed from office shall not beeligible for re-appointment as a member of the Board or toserve the Board in any other capacity.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      623.93,
+      451.19,
+      670.43
+    ],
+    "text": "(3) In the event of the vacation of office by death,resignation or removal of any appointed member, theMinister shall, subject to paragraph (b) of section 4, appointanother person to fill such vacancy.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      308.71,
+      190.88,
+      336.98
+    ],
+    "text": "Term of officeof appointedmembers",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      484.39,
+      193.16,
+      522.26
+    ],
+    "text": "Removal,resignation etc.of appointedmembers",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      203.49,
+      166.97,
+      383.69,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 20235",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      203.09,
+      383.89,
+      288.23
+    ],
+    "text": "(4) Where any appointed member of the Board istemporarily unable to perform the duties of his office onaccount of ill health or any other cause or if he is absentfrom Sri Lanka for a period of not less than three months, theMinister shall having regard to the provisions of paragraph(b) of section 4 appoint any other person to act in place ofsuch member during his absence.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      301.49,
+      383.89,
+      386.63
+    ],
+    "text": "(5) Where any appointed member of the Board fails toattend three consecutive meetings of the Board withoutobtaining prior approval for such absence from the Chairman,such member shall be deemed to have vacated his office atthe conclusion of the third meeting and the Minister shallappoint another person to fill such vacancy in the mannerprovided for in subsection (3).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.85,
+      399.89,
+      220.41,
+      411.23
+    ],
+    "text": "7. Any person \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      424.49,
+      383.86,
+      448.19
+    ],
+    "text": "(a)if such person is not or ceases to be a citizen of SriLanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      461.45,
+      383.86,
+      485.03
+    ],
+    "text": "(b)if such person is or becomes a member of Parliamentor a Provincial Council or any Local Authority;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      498.29,
+      383.87,
+      534.23
+    ],
+    "text": "(c)if such person has any financial or other interestwhich may affect the discharge by him of hisfunctions as a member of the Board;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      547.49,
+      383.87,
+      583.43
+    ],
+    "text": "(d)if such person is under any law in force in Sri Lankaor in any other country found or declared to be ofunsound mind;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      596.69,
+      383.89,
+      632.63
+    ],
+    "text": "(e)if such person is serving or has served a sentence ofimprisonment imposed by any court in Sri Lankaor any other country,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      645.89,
+      383.87,
+      669.59
+    ],
+    "text": "he shall be disqualified from being appointed or continuingto be a member of the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      401.59,
+      452.14,
+      429.86
+    ],
+    "text": "Disqualificationfor being amember",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "6National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      202.97,
+      452.16,
+      250.31
+    ],
+    "text": "8. (1) If the Chairman is present at a meeting of the Board,he shall preside at such meeting. In the absence of theChairman from any meeting, the Director-General of HealthServices shall preside such meeting.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      262.97,
+      452.14,
+      298.31
+    ],
+    "text": "(2) Subject to the other provisions of this Act, the Boardmay regulate the procedure in regard to its meetings and thetransaction of business at such meetings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      310.97,
+      452.09,
+      334.31
+    ],
+    "text": "(3) The quorum for a meeting of the Board shall be fivemembers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      346.97,
+      452.15,
+      370.31
+    ],
+    "text": "(4) Where there is an equality of votes, the Chairmanshall in addition to his vote have a casting vote.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      382.97,
+      452.14,
+      418.31
+    ],
+    "text": "9. No act or proceeding of the Board shall be invalid byreason only of any vacancy among its members or any defectin the appointment of any of its members.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      466.97,
+      452.16,
+      526.31
+    ],
+    "text": "10. The Minister may, from time to time, issue such specialor general directions to the Board relating to the exercise,performance and discharge of its powers, duties and functionsunder this Act, and it shall be the duty of the Board to giveeffect to such directions.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      314.23,
+      550.97,
+      350.23,
+      562.31
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      263.95,
+      574.97,
+      400.39,
+      586.31
+    ],
+    "text": "POWERS AND FUNCTIONS OF THE BOARD",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      598.97,
+      452.12,
+      622.31
+    ],
+    "text": "11. In giving effect to the objects of the Trust and otherprovisions of this Act the Board shall have the power\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227.95,
+      634.97,
+      452.15,
+      670.31
+    ],
+    "text": "(a)to harvest, process and distribute corneal tissuescollected from donors upon their death, through aTissue Coordinator appointed under section 22;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      205.51,
+      194.59,
+      224.18
+    ],
+    "text": "Meetings of theBoard",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      383.47,
+      197.6,
+      430.94
+    ],
+    "text": "Vacancy amongmembers not toinvalidate actsand proceedingsof the Board",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      468.67,
+      193.87,
+      516.14
+    ],
+    "text": "Special andgeneraldirections to beissued by theMinister",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      600.19,
+      195.43,
+      628.46
+    ],
+    "text": "Powers andfunctions of theBoard",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      203.49,
+      166.97,
+      383.69,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 20237",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158.61,
+      202.97,
+      382.92,
+      238.31
+    ],
+    "text": "(b)to preserve and store corneal tissues and othertissues required for ophthalmic surgery under suchconditions as may be prescribed;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.33,
+      250.97,
+      382.92,
+      286.31
+    ],
+    "text": "(c)to arrange to carry out, in consultation with theDirector-General of Health Services, anyophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158.61,
+      298.97,
+      382.93,
+      358.31
+    ],
+    "text": "(d)to obtain written consent of prospective donors fordonation of corneal tissues upon their death subjectto the provisions of the Transplantation of HumanTissues Act, No. 48 of 1987 and the Code ofCriminal Procedure Act, No.15 of 1979;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.33,
+      370.97,
+      382.91,
+      430.31
+    ],
+    "text": "(e)to recall or downgrade the corneal tissues or othertissues required for ophthalmic surgery where thequality of such tissues are not up to the standards asshall be prescribed by regulations to use for thepurpose of this Act;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.89,
+      442.97,
+      382.93,
+      502.31
+    ],
+    "text": "(f)to maintain in such manner as may be determinedin consultation with the Secretary to the Ministryof the Minister assigned the subject of Health, aregister and a database of the donors of any cornealor other tissues required for ophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158.61,
+      514.97,
+      382.91,
+      574.31
+    ],
+    "text": "(g)to advise the Minister in respect of fees to be leviedfrom the non-Sri Lankan Nationals in order to coverthe costs relating to transplanting and processingof corneal tissues and other tissues required forophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      158.61,
+      586.97,
+      382.91,
+      634.31
+    ],
+    "text": "(h)to share corneal tissues and other tissues requiredfor ophthalmic surgery free of processing chargesas an act of friendship to any foreign country whenso requested by the Minister;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.89,
+      646.97,
+      382.9,
+      670.31
+    ],
+    "text": "(i)to share expertise or technology relating to eyebanking with other countries;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "8National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      229.15,
+      202.97,
+      451.19,
+      237.83
+    ],
+    "text": "(j)to formulate a code of ethics relating to harvestingand transplanting of corneal tissues based onapplicable standards;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      249.89,
+      451.2,
+      331.43
+    ],
+    "text": "(k)to appoint, employ, dismiss or terminate the servicesof officers and employees and exercise disciplinarycontrol over them and to pay them suchremuneration in terms of the scheme of recruitmentprepared by the Board in consultation with theMinistry of Health in line with the policy applicabletherefore;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      229.15,
+      343.49,
+      451.2,
+      366.47
+    ],
+    "text": "(l)to design, maintain and use a logo for the NationalEye Bank of Sri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      378.53,
+      451.19,
+      436.67
+    ],
+    "text": "(m)to use where necessary, in letter heads or any otherdocuments of the National Eye Bank of Sri Lanka,symbols, signs, marks or letters of any institutionassisting or accrediting the National Eye Bank ofSri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      448.73,
+      451.19,
+      530.27
+    ],
+    "text": "(n)with the concurrence of the Minister, to enter intoagreements with foreign institutions which shallalso be State institutions and incorporated bodiesinvolved in quality assurance and development ofsystem relating to eye banking in order to trainpersons on quality assurance and development ofsystem relating to eye banking;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      542.33,
+      451.19,
+      600.47
+    ],
+    "text": "(o)to train the officials of the National Eye Bank of SriLanka in or outside Sri Lanka and to train eye bankofficials of other countries on eye banking andtransplantation, and to determine fees chargeablefrom foreign nationals for such training;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      612.53,
+      451.18,
+      670.91
+    ],
+    "text": "(p)to organize lectures, seminars, workshops or anyother programme on ophthalmic surgery anddonation of corneas and other tissues andprocedures to be followed in respect of suchdonations and surgeries;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203.49,
+      166.97,
+      383.69,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 20239",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      202.49,
+      384.83,
+      259.43
+    ],
+    "text": "(q)to hold, take or give on lease or hire, mortgage,pledge or sell or otherwise dispose of, any movableor immovable property belonging to the Trust andto construct buildings on any land belongingthereto;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.09,
+      270.89,
+      384.85,
+      327.83
+    ],
+    "text": "(r)to accept and receive, grants, gifts, donations andbequests both movable and immovable, fromsources in or outside Sri Lanka to the National EyeBank Trust Fund and apply them for the dischargeof its functions:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180.81,
+      339.29,
+      384.97,
+      384.83
+    ],
+    "text": "Provided that, the Board shall obtain prior writtenapproval of the Department of External Resourcesin respect of all foreign grants, gifts or donationsmade to the Trust;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.09,
+      396.29,
+      384.85,
+      441.83
+    ],
+    "text": "(s)to open and maintain current, savings or otherdeposit accounts in any State bank or banks as maybe determined by the Board and to close suchaccounts; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.81,
+      453.29,
+      384.85,
+      487.43
+    ],
+    "text": "(t)generally, to do such other acts and things as areauthorized by this Act to facilitate the properdischarge of the functions of the Board.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      498.89,
+      384.86,
+      555.83
+    ],
+    "text": "12. The Trust shall be capable in law to take and holdproperty, movable or immovable, which may become vestedin it by virtue of any purchase, grant, gift, testamentarydisposition or otherwise and all such property shall be heldby the Trust for the purposes of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      567.29,
+      384.86,
+      612.83
+    ],
+    "text": "13. The members of the Board may be remunerated insuch manner as may, from time to time, be determined by theMinister with the concurrence of the Minister to whom thesubject of Finance has been assigned.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      624.29,
+      384.85,
+      670.31
+    ],
+    "text": "14. (1) The seal of the Trust shall be in the custody ofsuch person as the Board may decide, from time to time, andmay be altered in such manner as may be determined by theBoard.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      500.11,
+      441.58,
+      528.38
+    ],
+    "text": "Power of theTrust to holdproperty",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      568.87,
+      455.86,
+      587.54
+    ],
+    "text": "Remuneration ofmembers",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      625.87,
+      454.3,
+      634.94
+    ],
+    "text": "Seal of the Trust",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "10National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      202.97,
+      451.19,
+      286.31
+    ],
+    "text": "(2) The seal of the Trust shall not be affixed to anyinstrument or document except in the presence of theChairman or in his absence any member authorized by theChairman in writing in that behalf, and one other member ofthe Board. Both such members shall sign the instrument ordocument in token of their presence and such signing shallbe independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      298.97,
+      451.2,
+      322.31
+    ],
+    "text": "(3) The Board shall maintain a register of every instrumentor document to which the seal of the Board is affixed.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      334.97,
+      451.2,
+      406.31
+    ],
+    "text": "15. (1) The Board may subject to such conditions as maybe specified in writing, delegate any of its powers, duties orfunctions under this Act to any member of the Board. Suchmember shall exercise, perform or discharge such power,duty or function subject to any special or general directionthat may be issued by the Board.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      418.97,
+      451.18,
+      454.31
+    ],
+    "text": "(2) Notwithstanding any delegation made undersubsection (1), the Board may exercise, perform or dischargesuch power, duty or function so delegated.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      312.79,
+      466.97,
+      349.5,
+      478.31
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      261.43,
+      490.97,
+      400.87,
+      502.31
+    ],
+    "text": "THE NATIONAL EYE BANK TRUST FUND",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      514.97,
+      451.2,
+      550.31
+    ],
+    "text": "16. (1) There shall be established a Fund called theNational Eye Bank Trust Fund (hereinafter referred to as\u201cthe Fund\u201d).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      562.97,
+      451.2,
+      586.31
+    ],
+    "text": "(2) The management, administration, control andoperation of the Fund shall be vested in the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      223.15,
+      598.97,
+      377.68,
+      610.31
+    ],
+    "text": "(3) There shall be paid into the Fund-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      622.97,
+      451.2,
+      670.31
+    ],
+    "text": "(a)all such sums of money as may be voted byParliament, from time to time, for the use of theTrust including the initial grant and the annualgrants of the National Eye Bank of Sri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      336.55,
+      187.15,
+      355.22
+    ],
+    "text": "Delegation ofpowers etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      516.31,
+      199.15,
+      544.58
+    ],
+    "text": "Establishment ofthe National EyeBank Trust Fund",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      203.49,
+      166.97,
+      383.85,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 202311",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      202.97,
+      383.88,
+      237.83
+    ],
+    "text": "(b)any fund raised, or grants, gifts or donationsreceived, or moneys realized or collected under theprovisions of this Act;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      249.89,
+      383.86,
+      272.87
+    ],
+    "text": "(c)the sum of money transferred to the Fund undersubsection (1) of section 30; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      284.93,
+      383.89,
+      308.03
+    ],
+    "text": "(d)any income from investments or other receipts dueto the Trust.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      155.85,
+      320.09,
+      316.3,
+      331.43
+    ],
+    "text": "(4) There shall be paid out of the Fund-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      343.49,
+      383.89,
+      366.47
+    ],
+    "text": "(a)all expenses which are necessary for the functioningand maintenance of the Trust;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      378.53,
+      383.87,
+      413.27
+    ],
+    "text": "(b)all such other payments as are approved by theBoard as being necessary for the purpose of carryingout the objects of the Trust.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      425.33,
+      383.9,
+      448.43
+    ],
+    "text": "17. (1) The financial year of the Trust shall be the calendaryear.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      460.49,
+      383.87,
+      495.23
+    ],
+    "text": "(2) The Board shall cause proper books of accounts to bekept of the income and expenditure and all other transactionsof the Trust.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      507.29,
+      383.89,
+      577.07
+    ],
+    "text": "(3) The Board shall cause its books of accounts to bebalanced as at the thirty-first day of December in each yearand shall, before the thirty-first day of March next, cause tobe prepared, an income and expenditure account and balancesheet containing a summary of the assets and liabilities ofthe Trust made up to the first-mentioned date.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      589.13,
+      383.91,
+      623.87
+    ],
+    "text": "(4) The income and expenditure account and the balancesheet shall be signed by the members of the Board authorizedto do so by a resolution passed by the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      635.93,
+      383.86,
+      670.91
+    ],
+    "text": "(5) The accounts of the Trust shall be audited by theAuditor-General annually in terms of Article 154 of theConstitution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      426.55,
+      443.86,
+      445.22
+    ],
+    "text": "Accounts andaudit",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "12National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      202.97,
+      452.22,
+      274.31
+    ],
+    "text": "18. (1) The Trust shall within six months of the end ofeach financial year submit to the Minister an annual reporton the activities carried out by the Trust together with a listof its assets and liabilities. The audited accounts of the Trustfor the year along with the Auditor-General\u2019s report shallalso be attached to such report.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      286.97,
+      452.17,
+      334.31
+    ],
+    "text": "(2) The Minister shall within three months from the dateof receipt of the annual report, table such report along withthe document specified in subsection (1) in Parliament forits consideration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      314.11,
+      346.97,
+      350.22,
+      358.31
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      288.31,
+      370.97,
+      376.03,
+      382.31
+    ],
+    "text": "THE STAFF OF THE TRUST",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      394.97,
+      452.15,
+      454.31
+    ],
+    "text": "19. (1) The Minister shall in consultation with the Boardappoint to the staff of the Trust, a person to be the ChiefExecutive Director. The Chief Executive Director shall havethe qualifications and experience as specified by rules madeunder this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      466.97,
+      452.15,
+      562.31
+    ],
+    "text": "(2) The Chief Executive Director shall, subject to thegeneral directions of the Board, be charged with theadministration of the affairs of the Trust, the exercise andperformance of the powers and duties as may be assigned tohim by the Board, and the administration and control of theemployees of the Trust. The Chief Executive Director shallbe responsible for the execution of all decisions of the Boardand shall function as the Secretary to the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      574.97,
+      452.16,
+      670.31
+    ],
+    "text": "(3) The Chief Executive Director may, with the approvalof the Board, whenever he considers it necessary to do so,delegate to any employee of the Trust, any power, duty orfunction conferred or imposed upon him by this Act, andsuch employee shall exercise, discharge and perform suchpower, duty or function subject to the general or specialdirections of the Chief Executive Director. The ChiefExecutive Director may, notwithstanding such delegation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      203.59,
+      188.6,
+      212.66
+    ],
+    "text": "Annual report",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      397.03,
+      190.88,
+      454.1
+    ],
+    "text": "The ChiefExecutiveDirector to bethe ChiefExecutiveOfficer",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203.49,
+      166.97,
+      383.85,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 202313",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      202.97,
+      383.86,
+      226.31
+    ],
+    "text": "exercise, discharge and perform any power, duty or functionso delegated under this subsection.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      238.97,
+      383.88,
+      286.31
+    ],
+    "text": "(4) The Minister may after assigning reasons therefore,remove the Chief Executive Director from office and havingregard to the provisions of subsection (1), appoint anotherperson to act in his place.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      298.97,
+      383.89,
+      358.31
+    ],
+    "text": "(5) The Chief Executive Director shall hold office for aperiod of three years from the date of his appointment andunless removed from office under subsection (4) shall beeligible for re-appointment, for not more than one furtherterm, whether consecutive or otherwise.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      370.97,
+      383.91,
+      442.31
+    ],
+    "text": "(6) The Medical Director of the National Eye Bank of SriLanka holding office on the day immediately preceding thedate of commencement of this Act, shall function as theChief Executive Director until the first Chief ExecutiveDirector is appointed in the manner provided for in subsection(1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      454.97,
+      383.9,
+      550.31
+    ],
+    "text": "20. The Minister, in consultation with the Secretary tothe Ministry of the Minister assigned the subject of Healthshall appoint a person who is an ophthalmologist havingcompleted a Corneal fellowship or has demonstratedexpertise in external eye diseases, corneal surgery, researchor teaching experience in cornea or external eye diseases orhas experience in corneal transplantations to be the MedicalDirector of the Trust.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      562.97,
+      383.89,
+      634.31
+    ],
+    "text": "21. (1) At the request of the Board, any officer in thepublic service may, with the consent of that officer and ofthe Public Service Commission be temporarily appointed tothe staff of the Trust for such period as may be determinedby the Board and with like consent be permanentlyappointed to such staff.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      646.97,
+      383.87,
+      670.31
+    ],
+    "text": "(2) Where any officer in the public service is temporarilyappointed to the staff of the Trust, the provisions of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      456.79,
+      455.86,
+      475.46
+    ],
+    "text": "Medical Directorof the Trust",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      564.07,
+      452.14,
+      592.34
+    ],
+    "text": "Appointment ofofficers andservants",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "14National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      203.33,
+      452.15,
+      239.87
+    ],
+    "text": "subsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to such officer.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      253.73,
+      452.16,
+      315.47
+    ],
+    "text": "(3) Where any officer in the public service is permanentlyappointed to the staff of the Trust the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to such officer.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      329.33,
+      452.14,
+      378.47
+    ],
+    "text": "22. There shall be appointed such number of TissueCoordinators as may be required for the purposes of this Actwhose qualifications, powers and functions shall bedetermined by rules made by the Board.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      392.33,
+      452.24,
+      428.87
+    ],
+    "text": "23. All officers and servants of the Trust shall be deemedto be public servants within the meaning and for the purposesof the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      493.13,
+      452.24,
+      554.87
+    ],
+    "text": "24. (1) Any expense incurred by the Trust in any suit orprosecution brought by, or against the Trust before any court,shall be paid out of the Fund, and any costs paid to, orrecovered by the Trust in any such suit or prosecution shallbe credited to the Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      568.73,
+      452.15,
+      668.27
+    ],
+    "text": "(2) Any expense incurred by any member of the Board orany officer, servant or agent of the Trust in any suit orprosecution brought against him in any court in respect ofany act which is done or purported to be done by him underthis Act or on the direction of the Board shall, if the courtholds that such act was done in good faith, be paid out of theFund unless such expense is recovered by him in such suitor prosecution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      331.03,
+      195.44,
+      359.3
+    ],
+    "text": "Appointment ofTissueCoordinators",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      393.55,
+      196.88,
+      460.22
+    ],
+    "text": "Officers andservants of theTrust deemed tobe publicservants underthe Penal Code(Chapter 19)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      494.59,
+      199.15,
+      542.06
+    ],
+    "text": "Protection foraction takenunder this Act oron the directionof the Board",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203.49,
+      166.97,
+      383.85,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 202315",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      202.73,
+      383.89,
+      237.47
+    ],
+    "text": "25. The Trust shall be deemed to be a scheduledinstitution within the meaning of the Bribery Act and theprovisions of that Act shall accordingly apply.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      245.49,
+      284.69,
+      282.2,
+      296.03
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      219.57,
+      308.09,
+      308.13,
+      319.43
+    ],
+    "text": "OFFENCES AND PENALTIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      331.49,
+      383.88,
+      377.87
+    ],
+    "text": "26. (1) No person shall buy, sell or in any manner disposeof, for a valuable consideration, any corneal tissue or anyother tissue required for ophthalmic surgery in violation ofthe provisions of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      389.93,
+      383.9,
+      459.83
+    ],
+    "text": "(2) Any person who contravenes the provisions ofsubsection (1) commits an offence under this Act and shallon conviction by a Magistrate be liable to a fine notexceeding fifty thousand rupees, or to imprisonment of eitherdescription for a term not more than two years or both suchfine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      244.05,
+      471.89,
+      283.77,
+      483.23
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      235.29,
+      495.29,
+      292.29,
+      506.63
+    ],
+    "text": "MISCELLANEOUS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      518.69,
+      383.89,
+      565.07
+    ],
+    "text": "27. (1) The Minister may make regulations in respect ofall matters which are stated or required by this Act to beprescribed or in respect of all matters for which regulationsare required or authorized to be made by this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      577.13,
+      383.89,
+      623.63
+    ],
+    "text": "(2) Without prejudice to the generality of the powersspecified in subsection (1), the Minister may, in consultationwith the Board make regulations in respect of all or any ofthe following :-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.57,
+      635.69,
+      383.88,
+      670.55
+    ],
+    "text": "(a)the procedure to be followed in the collection ofcorneal tissues and other tissues required forophthalmic surgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      203.11,
+      455.86,
+      250.58
+    ],
+    "text": "Trust deemed tobe a scheduledinstitution withinthe meaning ofthe Bribery Act",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      332.59,
+      452.86,
+      399.26
+    ],
+    "text": "Any sale,dealing ordisposal ofcorneal tissuesetc. in violationof this Act to bean offence",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      520.03,
+      437.14,
+      529.1
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "16National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      203.93,
+      451.19,
+      237.83
+    ],
+    "text": "(b)the quality of corneal tissues and other tissuesrequired for ophthalmic surgery that are suitablefor harvesting for the purpose;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      248.69,
+      451.18,
+      282.23
+    ],
+    "text": "(c)the procedure for medical and quality standards tobe adopted in harvesting and transplanting ofcorneal tissues;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      293.09,
+      451.18,
+      337.67
+    ],
+    "text": "(d)fees to be charged from non-Sri Lankan nationalsto cover the cost of transplantation and processingof corneas and other tissues required for ophthalmicsurgery;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      348.53,
+      451.16,
+      382.07
+    ],
+    "text": "(e)procedure to be followed in sharing corneas andother tissues required for ophthalmic surgery withother countries; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      229.15,
+      392.93,
+      451.2,
+      415.43
+    ],
+    "text": "(f)matters relating to the electronic submission ofrequests for corneal and other tissues.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      426.29,
+      451.2,
+      470.87
+    ],
+    "text": "(3) Every regulation made by the Minister under thissection shall be published in the Gazette and shall comeinto operation upon such publication or on such later dateas may be specified in the regulation.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      481.73,
+      451.21,
+      548.63
+    ],
+    "text": "(4) Every regulation made by the Minister under thissection shall within three months from its publication in theGazette, be brought before Parliament for approval. Anyregulation which is not so approved shall be deemed to berescinded from the date of such disapproval but withoutprejudice to anything previously done thereunder.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      559.49,
+      451.16,
+      581.87
+    ],
+    "text": "(5) Notice of the date from which a regulation is deemedto be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      592.73,
+      451.19,
+      626.27
+    ],
+    "text": "28. (1) The Board may make rules in respect of all or anymatter for which rules are authorized or required by this Actto be made.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      637.13,
+      451.19,
+      671.27
+    ],
+    "text": "(2) Without prejudice to the generality of the powersvested in the Board under subsection (1), the Board maymake rules for the following matters in particular\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      592.75,
+      158.83,
+      601.82
+    ],
+    "text": "Rules",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      203.49,
+      166.97,
+      383.85,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 202317",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      203.93,
+      383.88,
+      226.91
+    ],
+    "text": "(a)to determine the qualifications, powers andfunctions of the Tissue Coordinators;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      238.37,
+      383.89,
+      272.51
+    ],
+    "text": "(b)to determine the procedures relating to thedistribution of corneal tissues and other tissuesrequired for ophthalmic surgery to Sri Lankans;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.29,
+      283.97,
+      383.88,
+      306.71
+    ],
+    "text": "(c)to determine the procedure for the recruitment andtraining of Tissue Coordinators; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      318.17,
+      383.87,
+      340.91
+    ],
+    "text": "(d)to maintain registers which shall be kept andmaintained under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      352.37,
+      383.89,
+      375.11
+    ],
+    "text": "(3) Every rule made under this section shall come intoforce upon publication in the Gazette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      386.57,
+      383.9,
+      420.71
+    ],
+    "text": "(4) Every rule made under this section shall within aperiod of three months from the date of its publication in theGazette be brought before Parliament for approval.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      432.17,
+      383.9,
+      454.91
+    ],
+    "text": "(5) Any rule made under this section may be amended orrescinded when necessary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      466.37,
+      383.87,
+      511.91
+    ],
+    "text": "29. Sections 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17 and18 of the Transplantation of Human Tissues Act, No. 48 of1987 shall, mutatis mutandis, apply in relation to tissuesused under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      534.77,
+      383.9,
+      603.11
+    ],
+    "text": "30. (1) Notwithstanding the provisions contained in theNational Health Development Fund Act, No.13 of 1981, allsuch sums of money lying to the credit of the National EyeBank of Sri Lanka in the National Health Development Fundon the day immediately preceding the date of commencementof this Act shall be transferred to the Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      614.57,
+      383.94,
+      671.63
+    ],
+    "text": "(2) The officers and servants of the National Eye Bank ofSri Lanka holding office on the day immediately prior to thedate of commencement of this Act, shall, with the consent ofthe officers or servants concerned and the Board, be deemedto be officers or servants of the Trust.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      466.75,
+      453.57,
+      512.18
+    ],
+    "text": "Application ofTransplantationof HumanTissues Act, No.48 of 1987",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      536.59,
+      438.57,
+      564.86
+    ],
+    "text": "Savings andtransitionalprovisions",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      166.97,
+      392.48,
+      190.31
+    ],
+    "text": "18National Eye Bank Trust ofSri Lanka Act, No. 22 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      202.97,
+      451.22,
+      286.31
+    ],
+    "text": "(3) All officers and servants who have expressed theirconsent under subsection (2) shall be employed, subject tothe terms of the scheme of recruitment prepared by theMinistry of Health in accordance with the applicable policyand on terms not less favourable than the terms ofemployment applied to them immediately prior to the dateof commencement of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      298.97,
+      451.24,
+      382.31
+    ],
+    "text": "(4) Any request for corneal and other tissues made on orafter the date of commencement of this Act but prior to thedate of operation of any regulation made under this Act inrespect of electronics submission of requests for corneal andother tissues, shall be deemed, for the purposes of this Act,to be validly made under this Act and may be addressedaccordingly.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      394.97,
+      441.44,
+      406.31
+    ],
+    "text": "31. In this Act, unless the context otherwise requires-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      240.19,
+      418.97,
+      451.18,
+      454.31
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom the subjectof Health is assigned in terms of Article 43 or 44of the Constitution;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      240.19,
+      466.97,
+      451.19,
+      502.31
+    ],
+    "text": "\u201cTissue\u201d shall have the same meaning assigned to itunder the Transplantation of Human TissuesAct, No. 48 of 1987;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      240.19,
+      514.97,
+      451.19,
+      574.31
+    ],
+    "text": "\u201cTissue Coordinator\u201d means any nursing officerregistered under the Sri Lanka Medical Councilor the Sri Lanka Nursing Council and performsretrieval, counseling and tissue coordination inthe Eye Bank.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      586.97,
+      451.2,
+      610.31
+    ],
+    "text": "32. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      396.55,
+      187.16,
+      405.62
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      588.55,
+      196.88,
+      616.82
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      203.49,
+      166.97,
+      383.85,
+      190.31
+    ],
+    "text": "National Eye Bank Trust ofSri Lanka Act, No. 22 of 202319",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.89,
+      633.91,
+      454.17,
+      652.58
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTINGEnglish Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

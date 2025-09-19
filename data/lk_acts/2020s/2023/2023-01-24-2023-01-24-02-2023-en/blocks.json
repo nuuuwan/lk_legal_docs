@@ -1,0 +1,4589 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      283.4,
+      434.84,
+      335.24
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.05,
+      378.6,
+      391.76,
+      406.43
+    ],
+    "text": "BUREAU OF REHABILITATIONACT, No. 2 OF 2023",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      484.55,
+      375.36,
+      494.55
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      223.77,
+      454.07,
+      377.5,
+      464.07
+    ],
+    "text": "[Certified on 24th of January, 2023]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      583.02,
+      393.69,
+      591.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      592.62,
+      404.85,
+      600.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      612.47,
+      456.58,
+      622.47
+    ],
+    "text": "Price : Rs. 45.00Postage : Rs. 50.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      539.51,
+      442.53,
+      561.61
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of January 27, 2023",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      662.49,
+      345.55,
+      670.58
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.61,
+      167.17,
+      383.81,
+      178.35
+    ],
+    "text": "1Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.29,
+      204.81,
+      337.31,
+      214.81
+    ],
+    "text": "[Certified on 24th of January, 2023]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      228.09,
+      226.3,
+      238.09
+    ],
+    "text": "L.D.\u2014 O. 8/2018",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      250.05,
+      383.85,
+      260.05
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A BUREAU TO BE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      261.09,
+      383.85,
+      271.09
+    ],
+    "text": "CALLED AND KNOWN AS THE BUREAU OF REHABILITATION; TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      272.13,
+      383.85,
+      282.13
+    ],
+    "text": "REGULATE ITS POWERS, DUTIES AND FUNCTIONS AND TO PROVIDE FOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      283.05,
+      352.39,
+      293.05
+    ],
+    "text": "MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      305.13,
+      383.87,
+      359.05
+    ],
+    "text": "WHEREAS having regard to the need and the importance ofregulating the rehabilitation of those who have become drugdependant persons and such other persons as may beidentified in terms of any other law and it has become aserious problem and a national issue:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      371.13,
+      383.85,
+      414.13
+    ],
+    "text": "AND WHEREAS the office of the Commissioner-General ofRehabilitation has already been created under the provisionsof Public Security Ordinance (Chapter 40) and Preventionof Terrorism (Temporary Provisions) Act, No. 48 of 1979:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      426.09,
+      383.86,
+      458.05
+    ],
+    "text": "AND WHEREAS, it has become a matter of nationalimportance to establish a Bureau for the purpose ofrehabilitating the above said persons:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      470.01,
+      383.84,
+      491.05
+    ],
+    "text": "NOW THEREFORE BE it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      502.91,
+      383.86,
+      579.01
+    ],
+    "text": "1.This Act may be cited as the Bureau of RehabilitationAct, No. 2 of 2023, and the provisions of this Act other thanthis section shall come into operation on such date as theMinister may appoint by Order published in the Gazette(hereinafter referred to as the \u201cappointed date\u201d). Theprovisions of this section shall come into operation on thedate on which this Act becomes an Act of Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.85,
+      591.09,
+      278.85,
+      601.09
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.49,
+      613.05,
+      354.21,
+      623.05
+    ],
+    "text": "ESTABLISHMENT OF THE BUREAU OF REHABILITATION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      634.91,
+      383.84,
+      668.17
+    ],
+    "text": "2.(1) There shall be established a Bureau which shallbe called the \u201cBureau of Rehabilitation\u201d (hereinafter referredto as the \u201cBureau\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.89,
+      306.9,
+      427.89,
+      314.9
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.89,
+      504.78,
+      455.61,
+      522.38
+    ],
+    "text": "Short title anddate of operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.09,
+      636.06,
+      444.81,
+      672.86
+    ],
+    "text": "Establishmentof the BureauofRehabilitation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 20232",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      204.21,
+      452.11,
+      249.37
+    ],
+    "text": "(2) The Bureau shall, by the name assigned to it bysubsection (1), be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued insuch name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      262.67,
+      452.13,
+      342.97
+    ],
+    "text": "3.The objective of the Bureau shall be to rehabilitatedrug dependant persons or any other person as may beidentified by law as a person who requires rehabilitationand which may include treatment and adoption of varioustherapies in order to ensure effective reintegration andreconciliation, through developing socio-economicstandards.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      356.27,
+      452.11,
+      378.01
+    ],
+    "text": "4.The powers, duties and functions of the Bureau shallbe to \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230.95,
+      391.31,
+      452.12,
+      459.97
+    ],
+    "text": "(a) provide treatment and rehabilitation to drugdependant persons, who in terms of the DrugDependant Persons (Treatment and rehabilitation)Act, No. 54 of 2007 request treatment andrehabilitation or are required by such law to beprovided with treatment and rehabilitation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230.95,
+      473.27,
+      452.11,
+      518.41
+    ],
+    "text": "(b) provide rehabilitation to any person who in termsof a relevant law, requests rehabilitation or isrequired by such law to be provided withrehabilitation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.67,
+      531.71,
+      452.12,
+      565.21
+    ],
+    "text": "(c) enhance the employability of persons undergoingtreatments and rehabilitation, minimizing the riskof socio-economic marginalization;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      230.95,
+      578.51,
+      452.13,
+      623.77
+    ],
+    "text": "(d) engage in an organized manner, the potentials ofpersons who are undergoing treatments andrehabilitation to use them productively to enhancethe economy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.67,
+      637.07,
+      452.12,
+      670.57
+    ],
+    "text": "(e) advice the Minister with regard to programmes forrehabilitation, treatment and aftercare having regardto the basic norms of Human Rights;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      265.02,
+      196.15,
+      282.62
+    ],
+    "text": "Objective of theBureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      357.3,
+      189.43,
+      384.5
+    ],
+    "text": "Powers, dutiesand functionsof the Bureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.61,
+      167.17,
+      383.81,
+      178.35
+    ],
+    "text": "3Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.89,
+      204.47,
+      382.86,
+      239.17
+    ],
+    "text": "(f) review, monitor and provide any other assistanceto persons who have re-integrated into the societyafter treatments and rehabilitation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.61,
+      253.67,
+      377.74,
+      263.77
+    ],
+    "text": "(g) receive grants, gifts or donations in cash or kind:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.89,
+      278.37,
+      382.91,
+      337.57
+    ],
+    "text": "Provided however, the Bureau shall obtain theprior written approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreigngrants, gifts or donations made to the Bureau;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.61,
+      352.07,
+      382.88,
+      399.13
+    ],
+    "text": "(h) open and maintain any account with any bank as itmay think appropriate and such account shall beoperated in accordance with prevailing applicablewritten laws;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.89,
+      413.63,
+      382.77,
+      435.97
+    ],
+    "text": "(i) manage, control, administer and operate the Fundof the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.89,
+      450.47,
+      382.9,
+      485.17
+    ],
+    "text": "(j) invest such amount of money belonging to theBureau as are not immediately required for thepurposes of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.33,
+      499.67,
+      382.88,
+      534.37
+    ],
+    "text": "(k) acquire, hold, take or give on lease or hire,mortgage, pledge, sell or otherwise dispose of anymovable or immovable property;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.89,
+      548.87,
+      382.9,
+      608.17
+    ],
+    "text": "(l) enter into and perform either directly or indirectlythrough any officer or agent of the Bureau, all suchcontracts or agreements as may be necessary, forthe exercise of the powers and the carrying out ofits functions;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.05,
+      622.67,
+      382.76,
+      645.37
+    ],
+    "text": "(m) make rules in respect of the administration of theaffairs of the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.61,
+      660.47,
+      382.78,
+      670.57
+    ],
+    "text": "(n) establish and maintain Centers for Rehabilitation:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 20234",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      204.81,
+      451.17,
+      251.77
+    ],
+    "text": "Provided however, the centers established for therehabilitation of drug dependant persons to beestablished and maintained under the direction ofthe National Dangerous Drugs Control Board;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      229.87,
+      266.27,
+      451.16,
+      288.73
+    ],
+    "text": "(o) conduct training programs relating torehabilitation; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      229.87,
+      303.23,
+      451.16,
+      350.17
+    ],
+    "text": "(p) do all such other acts which may be incidental orconducive to the attainment of the objective of thisAct or the exercise of the powers assigned to theBureau under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.71,
+      364.77,
+      347.71,
+      374.77
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      389.37,
+      442.15,
+      399.37
+    ],
+    "text": "ADMINISTRATION AND MANAGEMENT OF AFFAIRS OF THE BUREAU",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      413.87,
+      451.16,
+      448.57
+    ],
+    "text": "5.(1) The administration, management and control ofthe affairs of the Bureau shall be vested in a GoverningCouncil (in this Act referred to as the \u201cCouncil\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      463.17,
+      451.17,
+      510.13
+    ],
+    "text": "(2) The Council shall, for the purpose of administeringthe affairs of the Bureau, exercise, perform and discharge thepowers, duties and functions conferred on, assigned to orimposed on the Bureau by this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      524.63,
+      361.15,
+      534.73
+    ],
+    "text": "6.The Council shall consist of\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.39,
+      549.23,
+      447.91,
+      559.33
+    ],
+    "text": "(a) the following ex-officio members, namely\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.63,
+      573.93,
+      451.14,
+      596.17
+    ],
+    "text": "(i) a representative of the NationalDangerous Drugs Control Board;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      283.63,
+      610.77,
+      451.16,
+      670.21
+    ],
+    "text": "(ii) the Secretary to the Ministry of theMinister assigned the subject ofDefence or his representative notbelow the rank of an AdditionalSecretary of that Ministry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.11,
+      416.34,
+      194.83,
+      472.34
+    ],
+    "text": "Administrationandmanagement ofthe Bureauvested in theCouncil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      527.1,
+      192.43,
+      544.7
+    ],
+    "text": "Constitution ofthe Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.61,
+      167.17,
+      383.81,
+      178.35
+    ],
+    "text": "5Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212.37,
+      204.81,
+      382.89,
+      290.41
+    ],
+    "text": "(iii) the Secretary to the Ministry of theMinister to whom the Bureau ofRehabilitation is assigned underArticle 44 or 45 of the Constitution orhis representative not below the rankof an Additional Secretary of thatMinistry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213.09,
+      305.61,
+      382.89,
+      366.01
+    ],
+    "text": "(iv) the Secretary to the Ministry of theMinister assigned the subject ofHealth or his representative not belowthe rank of an Additional Secretary ofthat Ministry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.09,
+      381.21,
+      382.89,
+      441.61
+    ],
+    "text": "(v) the Secretary to the Ministry of theMinister assigned the subject ofEducation or his representative notbelow the rank of an AdditionalSecretary of that Ministry; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      213.09,
+      456.81,
+      382.92,
+      504.61
+    ],
+    "text": "(vi) the Inspector General of Police or hisrepresentative not below the rank of aDeputy Inspector General of Police;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.61,
+      519.71,
+      382.91,
+      542.41
+    ],
+    "text": "(b) the following five members appointed by theMinister:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218.37,
+      557.61,
+      382.89,
+      605.41
+    ],
+    "text": "(i) two persons who shall possessacademic and professionalqualifications and have experience inthe fields of rehabilitation,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      215.37,
+      620.61,
+      382.89,
+      668.41
+    ],
+    "text": "(ii) two persons who shall possessacademic and professionalqualifications and have experience inthe field of social integration; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 20236",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      281.71,
+      204.81,
+      452.12,
+      250.21
+    ],
+    "text": "(iii) a person who shall possess academicand professional qualifications andhas experience in the field of law andorder,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      281.11,
+      263.61,
+      452.1,
+      285.37
+    ],
+    "text": "(hereinafter referred to as \u201cappointedmembers\u201d).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      298.67,
+      452.21,
+      320.41
+    ],
+    "text": "7. (1) The Minister shall appoint one of the appointedmembers to be the Chairperson of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      333.81,
+      452.13,
+      378.97
+    ],
+    "text": "(2) The Chairperson may resign from his office by letteraddressed to the Minister and such resignation shall beeffective from the date on which it is accepted by theMinister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      392.37,
+      452.09,
+      414.01
+    ],
+    "text": "(3) The Minister may for reasons assigned remove theChairperson from the office of Chairperson.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      427.41,
+      452.15,
+      460.81
+    ],
+    "text": "(4) Subject to the provisions of subsections (2) and (3),the term of office of the Chairperson shall be the period ofhis membership of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      474.21,
+      452.13,
+      542.77
+    ],
+    "text": "(5) Where the Chairperson is temporarily unable toexercise, perform and discharge the powers, duties andfunctions of his office due to ill health, other infirmity,absence from Sri Lanka or any other cause, the Minister mayappoint any other appointed member to act as the Chairpersonin addition to his normal duties as an appointed member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      556.07,
+      452.13,
+      577.81
+    ],
+    "text": "8.A person shall be disqualified from being appointedor continuing as a member of the Council, if he \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      230.95,
+      591.11,
+      452.22,
+      612.97
+    ],
+    "text": "(a) is or becomes a member of Parliament or of anyProvincial Council or of any local authority;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      230.95,
+      626.27,
+      425.73,
+      636.37
+    ],
+    "text": "(b) is not or ceases to be a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231.67,
+      649.67,
+      452.21,
+      671.41
+    ],
+    "text": "(c) is under any law in force in Sri Lanka or any othercountry found or declared to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      300.3,
+      191.59,
+      317.9
+    ],
+    "text": "Chairperson ofthe Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      555.54,
+      197.59,
+      592.34
+    ],
+    "text": "Disqualificationsfrom being amember of theCouncil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      167.17,
+      383.81,
+      178.35
+    ],
+    "text": "7Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.57,
+      204.83,
+      383.87,
+      240.25
+    ],
+    "text": "(d) is a person who having been declared insolvent orbankrupt under any law in force in Sri Lanka and isan undischarged insolvent or bankrupt;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      163.29,
+      255.59,
+      383.84,
+      291.13
+    ],
+    "text": "(e) is subject to an ongoing investigation in respect ofan offence involving dangerous drugs, narcoticdrugs or psychotropic substances or fraud;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      164.85,
+      306.35,
+      383.86,
+      341.89
+    ],
+    "text": "(f) is serving or has served a sentence of imprisonmentof more than six months imposed by any court inSri Lanka or any other country;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.57,
+      357.23,
+      383.84,
+      379.93
+    ],
+    "text": "(g) holds or enjoys any right or benefit under anycontract made by or on behalf of the Bureau; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.57,
+      395.27,
+      383.87,
+      430.81
+    ],
+    "text": "(h) has any financial or other interest as is likely toaffect prejudicially the discharge by him of hisfunctions as a member of the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      446.03,
+      383.87,
+      519.61
+    ],
+    "text": "9.Every appointed member of the Council shall, unlesshe vacates office earlier by resignation, death or removal,hold office for a period of three years from the date of hisappointment and unless removed from office shall be eligiblefor reappointment for not more than one further term, whetherconsecutive or otherwise.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      534.95,
+      383.86,
+      595.81
+    ],
+    "text": "10.(1) Any appointed member of the Council may atany time, resign from his office by a letter to that effect,addressed to the Minister, and such resignation shall beeffective from the date on which it is accepted by the Ministerin writing.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      611.25,
+      383.87,
+      672.01
+    ],
+    "text": "(2) Where any appointed member by reason of illness,infirmity or absence from Sri Lanka is temporarily unable todischarge the functions of his office, the Minister may,having regard to the provisions of paragraph (b) of section 6,appoint some other person to act in his place.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.89,
+      448.02,
+      446.61,
+      456.02
+    ],
+    "text": "Term of office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.89,
+      537.06,
+      451.89,
+      554.66
+    ],
+    "text": "Resignation andremoval",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 20238",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      204.45,
+      452.15,
+      262.45
+    ],
+    "text": "(3) The Minister may for reasons assigned, remove anappointed member from office. An appointed member whohas been removed from office shall not be eligible forreappointment as a member of the Council or to serve theCouncil in any other capacity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      276.45,
+      452.22,
+      346.45
+    ],
+    "text": "(4) Where an appointed member dies, resigns or isremoved from office, the Minister may having regard to theprovisions of paragraph (b) of section 6, appoint anotherperson in his place and the person so appointed shall holdoffice for the unexpired period of the term of office of themember whom he succeeds.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      360.35,
+      452.09,
+      394.45
+    ],
+    "text": "11.(1) The meetings of the Council shall be held atleast once in every month and the quorum for a meeting ofthe Council shall be seven members.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      408.45,
+      452.12,
+      454.45
+    ],
+    "text": "(2) The Chairperson shall preside at every meeting of theCouncil. In the absence of the Chairperson from any meetingof the Council, a member elected by the members presentshall preside at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      224.11,
+      468.45,
+      422.89,
+      478.45
+    ],
+    "text": "(3) A meeting of the Council may be held either-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.95,
+      492.35,
+      452.24,
+      526.45
+    ],
+    "text": "(a) by the number of members who constitute aquorum being assembled at the place, date andtime appointed for the meeting; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.95,
+      540.35,
+      452.22,
+      598.45
+    ],
+    "text": "(b) by means of audio-visual communication bywhich all members participating andconstituting a quorum can simultaneously seeand hear each participating member for theduration of the meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      612.45,
+      452.18,
+      671.29
+    ],
+    "text": "(4) All questions for a decision at any meeting of theCouncil shall be decided by the vote of the majority ofmembers present at such meeting. In the case of an equalityof votes, the Chairperson shall, in addition to his vote havea casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.11,
+      361.26,
+      194.83,
+      388.46
+    ],
+    "text": "Quorum andmeetings of theCouncil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.61,
+      167.17,
+      383.81,
+      178.35
+    ],
+    "text": "9Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      205.29,
+      384.82,
+      255.13
+    ],
+    "text": "(5) Subject to the preceding provisions of this section,the Council may regulate the procedure in relation to themeetings of the Council and the transaction of business atsuch meetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      271.67,
+      384.82,
+      334.93
+    ],
+    "text": "12.The Council may act notwithstanding any vacancyamong its members and any act or proceeding of the Councilshall not be or deemed to be invalid by reason only of theexistence of any vacancy among its members or any defectin the appointment of a member thereof.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      364.79,
+      384.82,
+      414.73
+    ],
+    "text": "13.The members of the Council shall be paidremuneration in such manner and at such rates as may bedetermined by the Minister, with the concurrence of theMinister assigned the subject of Finance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      431.27,
+      384.81,
+      454.69
+    ],
+    "text": "14.(1) The seal of the Bureau shall be in the custody ofsuch person as the Council may decide from time to time.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      471.21,
+      384.81,
+      494.53
+    ],
+    "text": "(2) The seal of the Bureau may be altered in such manneras may be determined by the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      511.17,
+      384.83,
+      574.33
+    ],
+    "text": "(3) The seal of the Bureau shall not be affixed to anyinstrument or document except with the sanction of theCouncil and in the presence of the Chairperson and oneother member of the Council who shall sign the instrumentor document in token of their presence:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      590.97,
+      384.83,
+      667.45
+    ],
+    "text": "Provided however, where the Chairperson is unable to bepresent at the time when the seal of the Bureau is affixed toany instrument or document, any other member of the Councilauthorised in writing by the Chairperson in that behalf shallbe competent to sign such instrument or document inaccordance with the preceding provision of this subsection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      272.7,
+      452.13,
+      332.9
+    ],
+    "text": "Acts orproceedings ofthe Commissiondeemed not tobe invalid byreason of anyvacancy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      394.29,
+      366.9,
+      454.29,
+      394.1
+    ],
+    "text": "Remuneration ofthe members ofthe Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      432.06,
+      433.29,
+      449.66
+    ],
+    "text": "Seal of theBureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202310",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      206.49,
+      451.15,
+      241.93
+    ],
+    "text": "(4) The Bureau shall maintain a register of the instrumentsand documents to which the seal of the Bureau has beenaffixed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      313.15,
+      257.13,
+      349.15,
+      267.13
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      229.51,
+      282.33,
+      432.79,
+      292.33
+    ],
+    "text": "CHIEF EXECUTIVE OFFICER AND THE STAFF OF THE BUREAU",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      307.43,
+      451.17,
+      443.53
+    ],
+    "text": "15.(1) There shall be a Chief Executive Officer of theBureau who shall be called and known as the Commissioner-General of Rehabilitation (hereinafter referred to as the\u201cCommissioner- General\u201d), appointed by the Council inconsultation with the Minister and on the recommendationof the Minister assigned the subject of Defence. TheCommissioner- General, unless he vacates office earlier bydeath, by operation of law, resignation or removal shall holdoffice for a term of two years and shall be eligible forreappointment subject to a maximum period of any two termsof office whether consecutive or otherwise.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      458.73,
+      451.16,
+      481.33
+    ],
+    "text": "(2) The Commissioner- General shall subject to thegeneral directions and supervision of the Council\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      229.39,
+      496.43,
+      451.17,
+      544.33
+    ],
+    "text": "(a) be charged with the administration of the affairs ofthe Bureau and all the Centres established under itincluding the administration and control of thestaff;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      229.39,
+      559.43,
+      451.15,
+      582.13
+    ],
+    "text": "(b) be responsible for the execution of all decisions ofthe Council; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      230.11,
+      597.23,
+      451.15,
+      619.93
+    ],
+    "text": "(c) carry out all such functions as may be assigned tohim by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      635.13,
+      451.17,
+      670.33
+    ],
+    "text": "(3) The Commissioner- General shall be present and speakat any meeting of the Council, but shall not be entitled tovote at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.11,
+      308.82,
+      196.39,
+      355.22
+    ],
+    "text": "Appointment ofthe ChiefExecutiveOfficer of theBureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "11Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      205.41,
+      384.82,
+      296.53
+    ],
+    "text": "(4) The Commissioner- General may, with the approvalof the Council, wherever he considers it necessary to do so,delegate in writing to any officer or employee of the Bureau,any of his powers, duties or functions conferred or imposedon, or assigned to him by this Act and the officer or employeeto whom any such power, duty or function is delegated shallexercise, perform or discharge them subject to the directionsof the Commissioner - General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      309.81,
+      384.79,
+      331.33
+    ],
+    "text": "(5) The Council may remove the Commissioner-Generalfrom office \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.05,
+      344.51,
+      384.81,
+      366.13
+    ],
+    "text": "(a) if he becomes permanently incapable of performinghis duties;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.05,
+      379.31,
+      384.82,
+      412.57
+    ],
+    "text": "(b) if he had done any act which the Council hasdecided to be of a fraudulent or illegal character oris prejudicial to the interests of the Bureau; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.89,
+      425.63,
+      384.81,
+      447.37
+    ],
+    "text": "(c) has failed to comply with any direction issued bythe Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      460.53,
+      384.79,
+      482.17
+    ],
+    "text": "(6) The Commissioner-General shall be paid suchremuneration as may be determined by the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      495.23,
+      384.83,
+      540.13
+    ],
+    "text": "16.(1) Subject to the provisions of this Act, the Bureaumay employ or appoint such officers and employees as maybe necessary for the efficient exercise, performance anddischarge of its powers, duties and functions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      553.41,
+      384.8,
+      574.93
+    ],
+    "text": "(2) The Council shall have the power subject to theprovision of the Act to \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.05,
+      588.11,
+      384.82,
+      621.37
+    ],
+    "text": "(a) exercise disciplinary control over and dismiss theofficers and employees of the Bureau appointedunder subsection (1);",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.05,
+      634.43,
+      384.82,
+      668.05
+    ],
+    "text": "(b) determine the terms and conditions of service ofofficers and employees of the Bureau appointedunder subsection (1); and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      497.1,
+      435.57,
+      514.7
+    ],
+    "text": "Staff of theBureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202312",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      230.11,
+      204.35,
+      451.16,
+      238.45
+    ],
+    "text": "(c) fix the rates at which such officers and employeesshall be remunerated with the concurrence of theMinister assigned the subject of Finance.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      252.45,
+      451.17,
+      322.45
+    ],
+    "text": "(3) All officers and employees of the Bureau shall, withinone month of employment, declare in writing to the Bureauof their personal direct or indirect interest to the affairs andtransactions of the Bureau including those of their closerelations or, concerns in which such officer or employee hasa substantial interest.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      336.45,
+      451.2,
+      406.45
+    ],
+    "text": "(4) The Bureau may establish and regulate pension andprovident funds and schemes for the benefit of theCommissioner- General and its officers and employees andtheir dependants and nominees with the concurrence of theMinister assigned the subject of Finance and may makecontributions to any such fund or scheme.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      420.45,
+      451.16,
+      478.45
+    ],
+    "text": "(5) The Bureau shall promote and sponsor the training ofits officers and employees and for this purpose, the Bureaushall be authorised to defray the costs of study, in Sri Lankaor abroad of the officers and employees of the Bureau whoare of proven merit as determined by the Bureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      492.45,
+      451.15,
+      526.45
+    ],
+    "text": "(6) The Bureau shall establish a code of conduct whichshall be applicable to the officers and employees of theBureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      540.45,
+      451.17,
+      562.45
+    ],
+    "text": "(7) The Bureau shall not appoint any person to the staffof the Bureau under subsection (1), where such person\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.91,
+      576.35,
+      451.16,
+      610.45
+    ],
+    "text": "(a) has been previously found guilty of seriousmisconduct by a court or tribunal or has been subjectto a disciplinary action by a regulatory body;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.91,
+      624.35,
+      432.92,
+      634.45
+    ],
+    "text": "(b) has been previously dismissed from office; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.63,
+      648.35,
+      451.15,
+      670.45
+    ],
+    "text": "(c) has committed a breach of the provisions of thisAct, regulations or rules made thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "13Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      204.21,
+      383.87,
+      272.77
+    ],
+    "text": "(8) At the request of the Bureau any officer in the publicservice may, with the consent of the officer and the PublicService Commission established by the Constitution betemporarily appointed to the Bureau for such period as maybe determined by the Bureau or with like consent, bepermanently appointed to such staff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      286.17,
+      383.86,
+      342.97
+    ],
+    "text": "(9) Where any officer in the public service is temporarilyappointed to the staff of the Bureau, the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991, shall mutatis mutandis,apply to and in relation to such officer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      356.37,
+      383.89,
+      413.17
+    ],
+    "text": "(10) Where any officer in the public service ispermanently appointed to the staff of the Commission, theprovisions of subsection (3) of section 14 of the NationalTransport Commission Act, No. 37 of 1991, shall mutatismutandis, apply to and in relation to such officer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      426.57,
+      383.87,
+      483.37
+    ],
+    "text": "(11) Where the Bureau employs any person who hasagreed to serve the Government for a specified period, anyperiod of service to the Bureau by that person shall beregarded as service to the Government for the purpose ofdischarging the obligations of such agreement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      496.77,
+      383.87,
+      576.97
+    ],
+    "text": "(12) The Bureau may with the consent of such officer oremployee propose secondment of its officers or employeesto other state institutions or regulatory authorities inSri Lanka or abroad for a period determined by the Bureauon an assignment agreed upon between such institution orthe authority and the Bureau. The period of secondmentshall be deemed to be considered as service to the Bureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      590.27,
+      383.87,
+      670.57
+    ],
+    "text": "17.The Services of any Medical Officer or any otherofficer or employee of the Department of Health or anyuniversity or any medical practitioner or any other competentperson engaged in a similar service, may be obtained, subjectto the approval of the Director-General of Health Services,or other relevant authority as the case may be, to assist in theCentres for Rehabilitation established under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      396.09,
+      592.5,
+      449.37,
+      629.3
+    ],
+    "text": "Use of servicesof officers ofDepartment ofHealth, etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202314",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      318.79,
+      204.45,
+      355.51,
+      214.45
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      316.51,
+      228.45,
+      345.79,
+      238.45
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      252.35,
+      451.16,
+      274.45
+    ],
+    "text": "18.(1) The Bureau shall have its own Fund (hereinafterreferred to as \u201cthe Fund\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      288.45,
+      451.17,
+      334.45
+    ],
+    "text": "(2) All money lying to the credit of the Commissioner -General of Rehabilitation on the day immediately precedingthe appointed date shall be transferred to the Fund witheffect from the appointed date.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      348.45,
+      387.41,
+      358.45
+    ],
+    "text": "(3) There shall be credited to the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      229.27,
+      372.35,
+      451.15,
+      394.45
+    ],
+    "text": "(a) all sums of money as may be voted from time totime by Parliament, for the use of the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      229.27,
+      408.35,
+      451.16,
+      442.45
+    ],
+    "text": "(b) all such sums of money as may be received by theBureau in the exercise and discharge of its powers,duties and functions under this Act; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      230.11,
+      456.35,
+      451.17,
+      502.45
+    ],
+    "text": "(c) all such sums of money as may be received by theBureau by way of income, fees, charges, grants, giftsor donations from any source whatsoever whetherwithin or outside Sri Lanka:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      247.15,
+      516.45,
+      451.17,
+      574.45
+    ],
+    "text": "Provided that, the Bureau shall obtain the priorwritten approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreigngrants, gifts or donations made to the Bureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      588.45,
+      388.16,
+      598.45
+    ],
+    "text": "(4) There shall be paid out of the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      253.87,
+      612.35,
+      451.17,
+      670.45
+    ],
+    "text": "(a) all such sums of money as are required todefray any expenditure incurred by theBureau in the exercise, performance anddischarge of its powers, duties and functionsunder this Act; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.11,
+      254.58,
+      181.39,
+      272.18
+    ],
+    "text": "Fund of theBureau",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "15Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      187.65,
+      204.47,
+      384.82,
+      226.93
+    ],
+    "text": "(b) all such sums of money as are required to bepaid out of the Fund by or under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      241.43,
+      384.82,
+      263.77
+    ],
+    "text": "19.(1) The financial year of the Bureau shall be thecalender year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      278.37,
+      384.81,
+      312.97
+    ],
+    "text": "(2) The Council shall cause proper books of accounts tobe kept of the income and expenditure, assets and liabilitiesand all other transactions of the Bureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      327.57,
+      384.81,
+      362.17
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitutionrelating to the audit of the accounts of public corporationsshall apply to the audit of accounts of the Bureau.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      376.77,
+      384.82,
+      448.33
+    ],
+    "text": "(4) The Council shall submit the audited statement ofaccounts together with the auditor\u2019s report to the Ministerwithin one hundred and fifty days of the end of the financialyear to which such report relates. The Minister shall placesuch statement and the report before Parliament within twomonths of the receipt thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      248.01,
+      462.93,
+      281.73,
+      472.93
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      249.09,
+      487.53,
+      280.53,
+      497.53
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      512.03,
+      384.83,
+      608.17
+    ],
+    "text": "20.(1) The Council may in writing and subject to suchconditions as may be specified therein, delegate to theCommissioner-General the powers, duties and functionsconferred on the Council under paragraphs (a) and (b) ofsubsection (2) of section 16 and subsection (2) of section 19and the Commissioner-General shall exercise, perform anddischarge such powers, duties and functions in the nameand on behalf of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      622.77,
+      384.84,
+      669.73
+    ],
+    "text": "(2) The Council may, notwithstanding any delegationmade under subsection (1), by itself exercise, perform ordischarge any power, duty or function so delegated and mayat any time revoke any such delegation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      394.89,
+      242.1,
+      444.33,
+      269.3
+    ],
+    "text": "Financial yearand audit ofaccounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      396.09,
+      513.06,
+      444.09,
+      540.26
+    ],
+    "text": "Delegation ofthe powers ofthe Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202316",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      204.35,
+      451.22,
+      274.45
+    ],
+    "text": "21.(1) A liability, whether civil or criminal, shall notbe attached to any officer of the Bureau or to any officerauthorised by such officer, for anything which in good faithis done in the exercise, performance or discharge of anypower, duty or function imposed or conferred on the Bureauunder this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      288.45,
+      451.17,
+      346.45
+    ],
+    "text": "(2) Any expense incurred by the Bureau in any suit orprosecution brought by or against the Bureau before anycourt shall be paid out of the Consolidated Fund, and anycosts paid to, or recovered by, the Bureau in any such suit orprosecution shall be credited to the Consolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      360.45,
+      451.17,
+      455.77
+    ],
+    "text": "(3) Any expense incurred by any such person in any suitor prosecution brought against him before any court inrespect of any act which is done or purported to be done byhim under this Act or any appropriate instrument, or on thedirection of the Bureau, shall, if the court holds that the actwas done in good faith, be paid out of the ConsolidatedFund, unless such expense is recovered by him in such suitor prosecution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      470.27,
+      451.17,
+      529.57
+    ],
+    "text": "22. (1) For the purposes of this Act, the Minister may, byOrder published in the Gazette, establish Centres forRehabilitation for the treatment and rehabilitation ofdrug dependant persons and such persons who are identifiedby law and whose rehabilitation is provided for by law:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      544.17,
+      451.17,
+      615.73
+    ],
+    "text": "Provided, the Treatment Centres established under thisAct to provide treatment and rehabilitation to drugdependant persons shall be published in the Gazette underthe provisions of section 2 of the Drug Dependant Persons(Treatment and Rehabilitation) Act, No. 54 of 2007 and shallbe subjected to the provisions of that Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      630.33,
+      451.16,
+      664.93
+    ],
+    "text": "(2) It shall be the duty of every Magistrate to visit everyCentre for Rehabilitation situated within the judicial divisionin respect of which he is appointed, at least once in every",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      205.02,
+      200.11,
+      241.82
+    ],
+    "text": "Protection ofofficers of theBureau from suitor prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      471.66,
+      188.83,
+      489.26
+    ],
+    "text": "Centres forRehabilitation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "17Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      203.13,
+      383.85,
+      249.13
+    ],
+    "text": "month to ensure that the persons undergoing rehabilitationat the Centre are protected to the extent provided for in theConvention Against Torture and other Cruel, Inhuman orDegrading Treatment or Punishment Act, No. 22 of 1994.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      263.13,
+      383.85,
+      285.13
+    ],
+    "text": "(3) For the purposes of subsection (2), the Magistrate whovisits the Centre for Rehabilitation shall-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      162.57,
+      299.03,
+      383.87,
+      357.13
+    ],
+    "text": "(a) personally see the person undergoingrehabilitation, and look into his well-being, welfareand conditions under which such person is kept atsuch Centre and may examine the records and logbooks maintained at the Centre; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      162.57,
+      371.03,
+      383.83,
+      393.13
+    ],
+    "text": "(b) record his observations and any complaint theperson undergoing rehabilitation may make.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      407.13,
+      383.87,
+      489.13
+    ],
+    "text": "(4) Where the Magisrate is of the opinion, that the personsundergoing rehabilitation may have been subjected totorture, the Magistrate may direct that the person undergoingrehabilitation be produced before a Judicial Medical Officeror a Goverment Medical Officer for medical examination,and a report be submitted by such Medical Officer to theMagistrate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      503.13,
+      383.87,
+      597.13
+    ],
+    "text": "(5) Where the report of such Medical Officer reveals thatthe person undergoing rehabilitation has been subjected totorture, the Magistrate shall make an appropriate orderincluding an order that such person be immediately admittedto a Government hospital for medical treatment and that theofficer-in-charge of such Centre immediately inform the courtthat made the order for the rehabilitation of such person ofthe findings of the Government Medical Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      611.13,
+      383.86,
+      669.37
+    ],
+    "text": "(6) The Magistrate shall also direct the Inspector Generalof Police to commence an investigation into the allegedtorture in order to enable the Attorney-General to institutecriminal proceedings against the person who is alleged tohave committed the torture.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202318",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.19,
+      204.21,
+      450.2,
+      284.41
+    ],
+    "text": "(7) The Human Rights Commission of Sri Lanka may onits own volition or on a complaint received, visit every Centreto ensure that the rights of the persons undergoingrehabilitation at the Centre are protected to the extentprovided by law, and make appropriate recommendationsin terms of the Human Rights Commission of Sri Lanka Act,No. 21 of 1996.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.19,
+      297.71,
+      450.25,
+      413.17
+    ],
+    "text": "23.Any person without authority introduces or attemptsto introduce into any Centre for Rehabilitation, or suppliesor attempts to supply any person in such Centre with adangerous drug, narcotic drug or psychotropic substance orany unauthorised article as may be prescribed, commits anoffence under this Act and shall be liable on convictionafter summary trial by a Magistrate to a fine not exceedingfive hundred thousand rupees or to imprisonment of eitherdescription for a period not exceeding two years or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.19,
+      426.47,
+      450.24,
+      530.17
+    ],
+    "text": "24.(1) Every member of the Council, the Commissioner-General and every officer or employee of the Bureau shall,before entering into the duties of his office sign a declarationthat he will not disclose any information received by him orcoming to his knowledge in the exercise, performance anddischarge of his powers, duties and functions under this Act,except for the purpose of giving effect to the provisions ofthis Act or the provisions of the Right to Information Act,No. 12 of 2016 .",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.19,
+      543.57,
+      450.18,
+      576.97
+    ],
+    "text": "(2) All records pertaining to such person in the custodyof a Centre for Rehabilitation shall be confidential and shallnot be released except-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      230.95,
+      590.27,
+      450.19,
+      623.77
+    ],
+    "text": "(a) upon request by such person or the next of kin ofsuch person or an Attorney-at-law representing suchperson; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      230.95,
+      637.07,
+      450.21,
+      671.17
+    ],
+    "text": "(b) on an order of court or in connection with aninvestigation in respect of the commission of anoffence:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      138.19,
+      298.86,
+      195.91,
+      306.86
+    ],
+    "text": "Supply of drugs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.63,
+      427.38,
+      170.35,
+      454.58
+    ],
+    "text": "Duty tomaintainsecrecy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "19Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      179.85,
+      204.45,
+      383.86,
+      298.45
+    ],
+    "text": "Provided that, such person or unless such personhas instructed not to share the information, the nextof kin of such person or an Attorney-at-Lawrepresenting such person shall be entitled to receiveinformation pertaining to the person in the custodyof the Rehabilitation Centre, including informationrelating to the treatment or rehabilitation of suchperson.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      312.45,
+      383.87,
+      382.45
+    ],
+    "text": "(3)Any person who contravenes the provisions ofsubsection (2) commits an offence under this Act, and shallbe liable on conviction after summary trial by a Magistrateto a fine not exceeding one hundred thousand rupees or toimprisonment of either description for a term not exceedingtwelve months or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      396.35,
+      383.86,
+      478.45
+    ],
+    "text": "25.Any person employed in a Centre for Rehabilitationwho strikes, wounds or willfully neglects any person underrehabilitation commits an offence under this Act and shallbe liable on conviction after summary trial by a Magistrateto a fine not exceeding two hundred thousand rupees orimprisonment of either description for a period not exceedingeighteen months or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      492.35,
+      383.87,
+      586.45
+    ],
+    "text": "26.Any person who unlawfully obstructs or attemptsto unlawfully obstruct any person employed in any Centrefor Rehabilitation in the performance of his lawful dutiesunder this Act, commits an offence under this Act and shallbe liable on conviction after summary trial by a Magistrateto a fine not exceeding fifty thousand rupees or toimprisonment of either description for a period not exceedingsix months or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      600.35,
+      383.86,
+      670.81
+    ],
+    "text": "27.(1) Where any person undergoing rehabilitation ina Centre for Rehabilitation established under the provisionsof this Act, escapes from such Centre, he may be apprehendedby any police officer, or any officer appointed under thisAct and immediately returned to the Centre forRehabilitation.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      396.33,
+      397.86,
+      449.61,
+      425.06
+    ],
+    "text": "Striking etc. ofpersons undertreatment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      396.81,
+      494.34,
+      447.81,
+      521.54
+    ],
+    "text": "Obstruction ofemployees anoffence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.37,
+      601.86,
+      444.81,
+      629.06
+    ],
+    "text": "Apprehensionof personsescaping",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202320",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      203.97,
+      450.21,
+      270.97
+    ],
+    "text": "(2) It shall be the duty of any person employed in a Centrefor Rehabilitation to preserve order and discipline amongthe persons undergoing rehabilitation in the Centre and forsuch purpose it shall be lawful for such person to useminimum force as may reasonably be necessary to compelobedience to any lawful directions given by him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      283.77,
+      450.2,
+      339.37
+    ],
+    "text": "(3) It shall be the duty of the Commissiner-General ofRehabilitation, or a person duly authorised by him toimmediately inform the Magistrate within the judicialdivision in which such Centre is located of any exercise ofpowers under subsections (1) and (2).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      352.07,
+      450.2,
+      441.97
+    ],
+    "text": "28. Where any person contravenes any provision ofthis Act or any regulation made thereunder and no penaltyhas been specified under this Act in respect of suchcontravention, such person shall, on conviction aftersummary trail by a Magistrate, be liable to a fine notexceeding fifty thousand rupees or to imprisonment of eitherdescription for a term not exceeding six months or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      454.67,
+      450.2,
+      544.57
+    ],
+    "text": "29.(1) The Bureau shall create, manage and maintain adatabase which will include all particulars of the rehabilitees.Such database shall also include details of previousrehabilitation assistance that each rehabilitee may havereceived from any other State Authority or agency, detailsrelating to the rehabilitation that a person has undergone aspart of the rehabilitation process and any other matter asmay be prescribed by regulations.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      557.37,
+      450.21,
+      590.17
+    ],
+    "text": "(2) The Bureau shall take all necessary steps includingtechnical safeguards to ensure the security of all its databasesand data.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      602.87,
+      450.2,
+      647.17
+    ],
+    "text": "30.The Bureau shall be deemed to be a ScheduledInstitution within the meaning of the Bribery Act(Chapter 26) and the provisions of that Act shall beconstrued accordingly.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      353.34,
+      195.43,
+      409.34
+    ],
+    "text": "Penalties forcontraventionsfor which nospecificprovisions havebeen made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.11,
+      455.82,
+      171.55,
+      463.82
+    ],
+    "text": "Database",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      141.19,
+      604.62,
+      195.91,
+      670.22
+    ],
+    "text": "Bureau deemedto be aScheduledInstitutionwithin themeaning of theBribery Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "21Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      203.75,
+      383.91,
+      247.45
+    ],
+    "text": "31.All members of the Council, the Commissioner-General and all officers and employees of the Bureau shallbe deemed to be public servants within the meaning and forthe purposes of the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      282.23,
+      383.85,
+      325.93
+    ],
+    "text": "32.The Minister may from time to time issue to theCouncil general or special directions as to the exercise,performance and discharge of the powers, duties andfunctions of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      338.15,
+      383.85,
+      370.69
+    ],
+    "text": "33.(1) Subject to the provisions of this Act, the Councilmay make rules in respect of all or any of the followingmatters:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.09,
+      383.03,
+      383.87,
+      404.29
+    ],
+    "text": "(a) all matters for which rules are authorised or requiredto be made under this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.09,
+      416.51,
+      383.85,
+      437.89
+    ],
+    "text": "(b) the meetings of the Council and the procedure tobe followed at such meeting;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.81,
+      450.11,
+      383.86,
+      493.81
+    ],
+    "text": "(c) the appointment, promotion, remuneration anddisciplinary control of officers and employees andthe grant of leave and other emoluments to officersand employees; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.09,
+      506.15,
+      383.84,
+      516.25
+    ],
+    "text": "(d) any matter connected with the affairs of the Bureau:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      179.85,
+      528.69,
+      383.87,
+      572.29
+    ],
+    "text": "Provided that, the Council shall not have thepower to make rules in respect of any matter forwhich regulations are required to be made in termsof this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      584.61,
+      383.86,
+      628.21
+    ],
+    "text": "(2) Every rule made by the Bureau shall be approved bythe Minister and published in the Gazette and shall comeinto operation on the date of its publication or on such laterdate as may be specified therein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      640.55,
+      383.86,
+      673.09
+    ],
+    "text": "34.(1) The Minister may make regulations for thepurpose of carrying out and giving effect to the provisionsof this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      394.89,
+      282.9,
+      440.61,
+      300.5
+    ],
+    "text": "Directions ofthe Minister",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.81,
+      339.9,
+      415.53,
+      347.9
+    ],
+    "text": "Rules",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.81,
+      204.66,
+      450.09,
+      276.38
+    ],
+    "text": "Members,Commissioner-General,officers andemployees ofthe Bureaudeemed to bepublic servants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.33,
+      640.86,
+      437.61,
+      648.86
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202322",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      204.45,
+      451.16,
+      238.45
+    ],
+    "text": "(2) In particular and without prejudice to the generalityof the powers conferred on subsection (1), the Minister maymake regulations in respect of the following:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      230.35,
+      252.35,
+      437.13,
+      262.45
+    ],
+    "text": "(a) the maintenance of Centres for Rehabilitation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      230.35,
+      276.35,
+      451.15,
+      322.45
+    ],
+    "text": "(b) the programmes for rehabilitation, treatment,aftercare and support services in respect of eachcategory of persons who will be rehabilitated bythe Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      231.19,
+      336.35,
+      451.16,
+      370.45
+    ],
+    "text": "(c) the terms and conditions relating to the release ofpersons admitted to a Centre for Rehabilitation;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      230.35,
+      384.35,
+      451.17,
+      406.45
+    ],
+    "text": "(d) the maintenance of a database, records and logbooks at Centres for Rehabilitation:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      247.15,
+      420.45,
+      451.17,
+      476.17
+    ],
+    "text": "Provided that, the Minister shall obtain theconcurrence of the National Dangerous DrugsControl Board, when any regulation in relation tothe Centres for Rehabilitation for the treatment andrehabilitation of drug dependant persons is made:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      247.15,
+      488.97,
+      451.17,
+      521.77
+    ],
+    "text": "Provided further, that the Minister shall obtainthe concurrence of the Council appointed underthis Act before making regulations under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      534.57,
+      451.17,
+      601.57
+    ],
+    "text": "(3) Every regulation made by the Minister shall bepublished in the Gazette and shall be brought beforeParliament for approval as soon as may be convenient. SuchRegulations shall come into force upon its approval byParliament or any subsequent date as may be specified byParliament.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      614.37,
+      451.14,
+      635.77
+    ],
+    "text": "(4) Notification of the date on which any regulation is sodisapproved shall be published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.11,
+      648.47,
+      451.13,
+      669.97
+    ],
+    "text": "35.Notwithstanding anything to the contrary in anyother written law\u2013Savings",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "23Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.01,
+      204.23,
+      382.91,
+      266.29
+    ],
+    "text": "(a) all movable and immovable property of theCommissioner-General of Rehabilitation on the dayimmediately preceding the appointed date shall onand after the appointed date be deemed to be themovable and immovable property of the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.01,
+      282.23,
+      382.89,
+      357.25
+    ],
+    "text": "(b) the Commissioner-General of Rehabilitationholding office immediately preceding theappointed date shall be deemed to have beenappointed as such under this Act and continue tohold office until the end of his tenure or until a newCommissioner- General is appointed under this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.73,
+      373.19,
+      382.9,
+      487.21
+    ],
+    "text": "(c) all officers and employees of the Commissioner-General of Rehabilitation holding office on the dayimmediately preceding the appointed date bedeemed to be the officers and employees of theBureau and such officers and employees shallcontinue to hold office in the Bureau on the sameterms and conditions enjoyed by them under theCommissioner-General of Rehabilitationimmediately preceeding the appointed date;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.01,
+      503.15,
+      382.95,
+      669.25
+    ],
+    "text": "(d) all contracts, deeds, bonds, agreements, guarantees,powers of attorney, grants of legal representationand other instruments of whatever nature of theCommissioner- General of Rehabilitation subsistingand having effect on the day immediately precedingthe appointed date and to which CommissionerGeneral of Rehabilitation is a party or which are infavour of the Commissioner-General ofRehabilitation on and after the appointed date bedeemed to be contracts, deeds, bonds, agreements,guarantees, powers of attorney, grants of legalrepresentation and other instruments entered intoby or granted in favour of the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202324",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      229.03,
+      205.19,
+      451.73,
+      313.81
+    ],
+    "text": "(e) unless specifically revoked or substituted in themanner provided for in any other law, all approvalsor licences granted to the Commissioner-General ofRehabilitation by any regulatory body or authority,Provincial Council or local authority subsisting orhaving effect on the day immediately precedingthe appointed date shall on and after the appointeddate be deemed to be approvals or licences grantedto the Bureau;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      230.59,
+      328.31,
+      451.74,
+      399.97
+    ],
+    "text": "(f) all Judgments, decrees or orders entered in favourof or against the Commissioner-General ofRehabilitation by any court in any action orproceeding shall on and after the appointed date bedeemed to be judgments, decrees or orders enteredin favour of or against the Bureau; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      228.31,
+      414.47,
+      451.74,
+      486.01
+    ],
+    "text": "(g) all Protective Accommodation and RehabilitationCentres approved and maintained under theCommissioner- General of Rehabilitation shall onand after the appointed date be deemed to be Centresfor Rehabilitation established under the provisionsof this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      222.19,
+      500.51,
+      447.77,
+      510.61
+    ],
+    "text": "36.In this Act, unless the context otherwise requires\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      255.19,
+      525.21,
+      451.65,
+      572.17
+    ],
+    "text": "\u201cdangerous drug\u201d means any drug, substance,article or preparation specified in Part I of theThird Schedule to Poisons, Opium andDangerous Drugs Ordinance (Chapter 218);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      255.19,
+      586.77,
+      451.62,
+      621.37
+    ],
+    "text": "\u201cdrug dependant person\u201d means a person to whomthe Drug Dependant Persons (Treatment andRehabilitation) Act, No. 54 of 2007 applies;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      255.19,
+      635.97,
+      451.64,
+      670.57
+    ],
+    "text": "\u201cMinister\u201d means the Minister assigned thesubject of the Bureau of Rehabilitation underArticle 44 or 45 of the Constitution;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.11,
+      500.22,
+      188.11,
+      508.22
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.61,
+      167.17,
+      383.85,
+      178.35
+    ],
+    "text": "25Bureau of Rehabilitation Act, No. 2 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      188.85,
+      207.57,
+      382.9,
+      256.57
+    ],
+    "text": "\u201cnarcotic drug\u201d shall include the drugs specifiedin the Third Schedule of the ConventionAgainst Illicit Traffic in Narcotic Drugs andPsychotropic Substances Act, No. 1 of 2008;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      188.85,
+      272.61,
+      382.91,
+      321.61
+    ],
+    "text": "\u201cNational Dangerous Drugs Control Board\u201dmeans the National Dangerous Drugs ControlBoard established by the National DangerousDrugs Control Board Act, No. 11 of 1984;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      188.85,
+      337.53,
+      382.89,
+      399.61
+    ],
+    "text": "\u201cpsychotropic substances\u201d shall include thesubstances specified in the Fourth Scheduleof the Convention Against Illicit Traffic inNarcotic Drugs and Psychotropic SubstancesAct, No. 1 of 2008;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      188.85,
+      415.53,
+      382.9,
+      477.61
+    ],
+    "text": "\u201crehabilitation\u201d means the procedures andprogrammes for rehabilitation, treatment,aftercare and support services that shall beprescribed by regulations made under thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      491.87,
+      382.86,
+      525.97
+    ],
+    "text": "37.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      396.81,
+      492.42,
+      454.53,
+      519.62
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      210.19,
+      167.17,
+      419.36,
+      178.35
+    ],
+    "text": "Bureau of Rehabilitation Act, No. 2 of 202326",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      141.31,
+      631.62,
+      449.71,
+      649.22
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.05,
+      371.07,
+      418.76,
+      413.48
+    ],
+    "text": "CONFERRING THE HONOUR OF SENIORINSTRUCTING ATTORNEYS-AT-LAW ACT, No. 26 OF 2023",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.41,
+      452.69,
+      380.84,
+      464.03
+    ],
+    "text": "[Certified on 01st of November, 2023]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 03, 2023",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.05,
+      166.97,
+      383.69,
+      192.23
+    ],
+    "text": "Conferring the Honour of Senior InstructingAttorneys-at-Law Act, No. 26 of 20231",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.81,
+      93.53,
+      172.53,
+      104.87
+    ],
+    "text": "WS 6",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.81,
+      117.53,
+      190.53,
+      128.87
+    ],
+    "text": "PL 13965",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      379.27,
+      431.85,
+      388.34
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      415.27,
+      447.58,
+      472.34
+    ],
+    "text": "Conferring thehonour ofSeniorInstructingAttorneys-at-Law",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.85,
+      202.61,
+      341.87,
+      213.95
+    ],
+    "text": "[Certified on 01st of November, 2023]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.01,
+      210.57,
+      237.35
+    ],
+    "text": "L.D.-O. 13/2023",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      249.41,
+      383.85,
+      272.51
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE CONFERMENT OF THE HONOUR OF SENIORINSTRUCTING ATTORNEYS-AT-LAW WITH A VIEW TO RECOGNIZING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      272.81,
+      383.85,
+      284.15
+    ],
+    "text": "AND APPRECIATING THE SERVICE RENDERED BY ATTORNEYS-AT-LAW",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      284.57,
+      383.85,
+      295.91
+    ],
+    "text": "PRACTICING AS INSTRUCTING ATTORNEYS WHO HAVE DEMONSTRATED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      296.21,
+      383.85,
+      307.55
+    ],
+    "text": "EMINENCE AND HIGH STANDARDS IN THE LEGAL PROFESSION; AND TO",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      307.97,
+      383.73,
+      319.31
+    ],
+    "text": "PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      319.61,
+      186.55,
+      330.95
+    ],
+    "text": "THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      343.01,
+      383.9,
+      366.11
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      378.17,
+      383.86,
+      401.15
+    ],
+    "text": "1. This Act may be cited as the Conferring the Honour ofSenior Instructing Attorneys-at-Law Act, No. 26 of 2023.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      413.21,
+      383.89,
+      494.75
+    ],
+    "text": "2. (1) His Exellency the President may, after obtainingobservations from the Chief Justice and the Minister assignedthe subject of Justice, and having regard to the guidelinesmade by the Minister assigned the subject of Justice undersection 3, confer the honour of Senior Instructing Attorney-at-Law on any Attorney-at-Law of the Supreme Court of theDemocratic Socialist Republic of Sri Lanka who-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      506.81,
+      383.89,
+      541.55
+    ],
+    "text": "(a)has been in active practice as an InstructingAttorney for a period not less than twenty years asat the date of conferring such honour;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      553.61,
+      383.88,
+      588.35
+    ],
+    "text": "(b)has reached eminence in the legal profession andhas maintained high standards of conduct andprofessional rectitude;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.29,
+      600.41,
+      383.89,
+      623.51
+    ],
+    "text": "(c)has not been found guilty of any criminal offenceunder any written law;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      635.57,
+      383.87,
+      670.31
+    ],
+    "text": "(d)has not been found guilty of any professionalmisconduct under the Supreme Court (Conduct ofand Etiquette for Attorneys-at-Law) Rules 1988 and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      429.07,
+      192.23
+    ],
+    "text": "2Conferring the Honour of Senior InstructingAttorneys-at-Law Act, No. 26 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      202.73,
+      451.11,
+      225.83
+    ],
+    "text": "the provisions of the Judicature Act, No. 2 of 1978;and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      237.89,
+      440.13,
+      249.23
+    ],
+    "text": "(e)has been a person of good character and repute.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      262.49,
+      451.2,
+      310.79
+    ],
+    "text": "(2) His Excellency the President shall, upon conferringthe honour of Senior Instructing Attorney-at-Law to anyInstructing Attorney, hand over a certificate to that effect tosuch Instructing Attorney.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      324.05,
+      451.16,
+      359.99
+    ],
+    "text": "(3) An Attorney-at-Law to whom a certificate has beenhanded over under subsection (2), may use the post-nominaltitle \u201cSIA\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      373.25,
+      451.22,
+      421.43
+    ],
+    "text": "3. (1) The Minister assigned the subject of Justice shall,from time to time, make guidelines relating to the confermentof the honour of Senior Instructing Attorneys-at-Law for thepurposes of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      434.69,
+      451.2,
+      482.99
+    ],
+    "text": "(2) The guidelines made by the Minister under subsection(1) shall be published in the Gazette and shall come intooperation on the date of such publication or on such laterdate as may be specified therein.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.15,
+      496.25,
+      436.9,
+      507.59
+    ],
+    "text": "4. In this Act, unless the context otherwise requires-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.15,
+      523.37,
+      451.2,
+      572.51
+    ],
+    "text": "\u201cInstructing Attorney\u201d means an Attorney-at-Lawwhose main practice is to instruct a Counselto appear in court on the instructions of suchAttorney-at-Law.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      587.21,
+      451.18,
+      612.11
+    ],
+    "text": "5. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      498.19,
+      187.16,
+      507.26
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      589.39,
+      196.88,
+      617.66
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      374.11,
+      199.16,
+      392.78
+    ],
+    "text": "Minister to makeguidelines",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.05,
+      166.97,
+      383.69,
+      192.23
+    ],
+    "text": "Conferring the Honour of Senior InstructingAttorneys-at-Law Act, No. 26 of 20233",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248.13,
+      632.23,
+      356.13,
+      641.3
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146.13,
+      652.15,
+      454.41,
+      670.82
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

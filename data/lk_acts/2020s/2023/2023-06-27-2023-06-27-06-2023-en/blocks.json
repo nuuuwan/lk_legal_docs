@@ -1,0 +1,5958 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.1,
+      441.55,
+      338.65
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      576.67,
+      392.13,
+      585.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      586.27,
+      404.13,
+      595.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      609.89,
+      455.84,
+      621.23
+    ],
+    "text": "Price : Rs. 48.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      528.89,
+      441.81,
+      552.23
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of June 30, 2023",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      659.95,
+      344.59,
+      669.02
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      223.29,
+      478.97,
+      370.29,
+      490.31
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.05,
+      452.93,
+      367.8,
+      464.27
+    ],
+    "text": "[Certified on 27th of June, 2023]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.57,
+      380.91,
+      407.01,
+      394.52
+    ],
+    "text": "PARLIAMENTARY BUDGET OFFICE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.13,
+      395.31,
+      357.57,
+      408.92
+    ],
+    "text": "ACT, No. 6 OF 2023",
+    "fonts": [
+      "Times-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.21,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "1Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      323.59,
+      429.81,
+      332.66
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      229.01,
+      205.28,
+      240.35
+    ],
+    "text": "L.D\u2013O. 2/2023",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      255.65,
+      383.85,
+      280.19
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE PARLIAMENTARYBUDGET OFFICE; TO SPECIFY THE POWERS, DUTIES AND FUNCTIONS OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      282.17,
+      383.85,
+      293.51
+    ],
+    "text": "THE PARLIAMENTARY BUDGET OFFICER AND FOR MATTERS CONNECTED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      295.49,
+      278.83,
+      306.83
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      322.13,
+      383.88,
+      373.31
+    ],
+    "text": "WHEREAS Parliament has been vested with full control overpublic finance under Article 148 of the Constitution and inparticular to implement and monitor the national budgetproposals to achieve the objectives of the budget:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      388.61,
+      383.88,
+      439.79
+    ],
+    "text": "AND WHEREAS it is considered essential for Parliament tomake responsible decisions to maintain a sustainable fiscalposition, effectively allocate public resources and ensurethe efficient delivery of public goods and services:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      455.09,
+      383.91,
+      519.59
+    ],
+    "text": "AND WHEREAS it is acknowledged that as part of thebroader commitment to Parliamentary fiscal transparency,the reports and proposals provided to Parliament for thepolicy making process shall include the relevant informationto make effective decisions:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      534.89,
+      383.9,
+      586.07
+    ],
+    "text": "AND WHEREAS it is recognised that Parliament\u2019sdeliberations and effective exercise of its public financeresponsibilities is aided by access to independent analysisof the proposals it is reviewing:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      601.37,
+      383.9,
+      665.87
+    ],
+    "text": "AND WHEREAS it is recognised that providing independentand non-partisan costing analyses related to policies inmanifestos of recognised political parties or independentgroups can lead to more transparent and affordable publicpolicy:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.77,
+      202.49,
+      331.04,
+      213.83
+    ],
+    "text": "[Certified on 27th of June, 2023]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "2Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      202.49,
+      452.16,
+      270.83
+    ],
+    "text": "AND WHEREAS it is necessary to establish an independentinstitution to provide Parliament with budget analyses andcostings that it can rely on when scrutinising spendingproposals and making public finance decisions and toprovide recognised political parties and independent groupswith costing analyses of proposals in their manifestos:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      282.29,
+      452.26,
+      305.03
+    ],
+    "text": "NOW THEREFORE, be it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      316.49,
+      452.15,
+      339.23
+    ],
+    "text": "1. This Act may be cited as the Parliamentary BudgetOffice Act, No. 6 of 2023.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.23,
+      350.69,
+      347.23,
+      362.03
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233.95,
+      373.49,
+      430.51,
+      384.83
+    ],
+    "text": "ESTABLISHMENT OF THE PARLIAMENTARY BUDGET OFFICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.67,
+      384.89,
+      354.67,
+      396.23
+    ],
+    "text": "AND ITS ROLE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      407.69,
+      452.15,
+      430.43
+    ],
+    "text": "2. (1) There shall be established an independent entitycalled the Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      441.89,
+      377.87,
+      453.23
+    ],
+    "text": "(2) The Parliamentary Budget Office -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.95,
+      464.69,
+      452.14,
+      476.03
+    ],
+    "text": "(a) shall be a body corporate with perpetual succession;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.95,
+      487.49,
+      368.12,
+      498.83
+    ],
+    "text": "(b) shall have a common seal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243.67,
+      510.29,
+      413.85,
+      521.63
+    ],
+    "text": "(c) may sue or be sued in such name; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.95,
+      533.09,
+      452.14,
+      555.83
+    ],
+    "text": "(d) may hold, acquire and dispose of any propertymovable or immovable.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      567.29,
+      452.14,
+      590.03
+    ],
+    "text": "(3) The Parliamentary Budget Office shall be anindependent body and accountable to Parliament.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      601.49,
+      452.15,
+      624.23
+    ],
+    "text": "(4) The independence of the Parliamentary Budget Officeshall be respected at all times.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      635.69,
+      452.16,
+      671.15
+    ],
+    "text": "(5) No person shall cause undue influence, or interferewith the operation and administration of the ParliamentaryBudget Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      317.59,
+      173.6,
+      326.66
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      409.51,
+      198.43,
+      447.38
+    ],
+    "text": "Establishment oftheParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204.21,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "3Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.85,
+      205.01,
+      383.87,
+      216.35
+    ],
+    "text": "3. The objectives of the Parliamentary Budget Office",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      220.13,
+      215.85,
+      231.47
+    ],
+    "text": "shall be to assist -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      250.25,
+      383.87,
+      261.59
+    ],
+    "text": "(a)Parliament in the performance of its public finance",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      265.37,
+      359.16,
+      276.71
+    ],
+    "text": "responsibilities under the Constitution; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      295.61,
+      383.87,
+      306.95
+    ],
+    "text": "(b)any recognised political party or any independent",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      310.73,
+      206.13,
+      322.07
+    ],
+    "text": "group,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      340.85,
+      383.85,
+      352.19
+    ],
+    "text": "through the provision of independent, non-partisan analyses",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      355.97,
+      383.89,
+      367.31
+    ],
+    "text": "related to the budget, the medium-term economic and fiscal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      371.09,
+      383.94,
+      382.43
+    ],
+    "text": "outlook, and the cost implications from a financial, revenue",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      386.21,
+      383.9,
+      397.55
+    ],
+    "text": "and expenditure perspective of policy proposals as provided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      401.33,
+      202.29,
+      412.67
+    ],
+    "text": "for in this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.85,
+      431.45,
+      383.88,
+      442.79
+    ],
+    "text": "4. Subject to the provisions of this Act, the Parliamentary",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      446.57,
+      360.59,
+      457.91
+    ],
+    "text": "Budget Office shall provide analytical assistance to -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      476.81,
+      383.89,
+      488.15
+    ],
+    "text": "(a)any Committee or Member of Parliament on matters",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      491.93,
+      383.87,
+      518.27
+    ],
+    "text": "related to public finance, including budgetproposals, economic and fiscal forecasts and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      522.05,
+      383.85,
+      533.39
+    ],
+    "text": "projections, and costing of proposed policies and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      537.17,
+      202.29,
+      548.51
+    ],
+    "text": "Bills;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      567.41,
+      383.87,
+      578.75
+    ],
+    "text": "(b)a recognised political party or an independent group",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      582.53,
+      383.89,
+      608.87
+    ],
+    "text": "to cost any proposal in its manifesto in the periodimmediately before an election; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      627.77,
+      383.88,
+      639.11
+    ],
+    "text": "(c)Parliament, generally, by providing analyses and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      642.89,
+      383.87,
+      654.23
+    ],
+    "text": "briefings on matters necessary for or conducive to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      658.13,
+      383.89,
+      669.47
+    ],
+    "text": "the objectives of the Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      205.15,
+      455.86,
+      233.42
+    ],
+    "text": "Objectives of theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      433.51,
+      444.58,
+      461.78
+    ],
+    "text": "Assistance forimplementingthe objectives",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "4Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.71,
+      203.57,
+      347.71,
+      214.91
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.15,
+      229.61,
+      445.15,
+      253.91
+    ],
+    "text": "THE APPOINTMENT OF THE PARLIAMENTARY BUDGET OFFICER,DEPUTY PARLIAMENTARY BUDGET OFFICER, ADVISORY COMMITTEE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235.15,
+      255.65,
+      427.15,
+      266.99
+    ],
+    "text": "AND THE STAFF OF THE PARLIAMENTARY BUDGET OFFICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      281.57,
+      451.22,
+      344.99
+    ],
+    "text": "5. Subject to the provisions of this Part, the ParliamentaryBudget Officer shall be appointed by the President on therecommendation of the Constitutional Council. TheParliamentary Budget Officer shall be the Chief ExecutiveOfficer of the Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      359.57,
+      451.16,
+      383.99
+    ],
+    "text": "6. A person who applies to the office of the ParliamentaryBudget Officer shall \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      398.57,
+      451.17,
+      422.99
+    ],
+    "text": "(a)be competent, honest, of high moral integrity andof good repute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      437.57,
+      451.2,
+      474.95
+    ],
+    "text": "(b)have at least fifteen years of experience ingovernment budgeting, financial policy, fiscalpolicy or macroeconomic analysis.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      489.53,
+      451.25,
+      526.91
+    ],
+    "text": "7. The term of office of the Parliamentary Budget Officershall be five years from the date of his appointment to suchoffice.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      554.57,
+      451.2,
+      617.87
+    ],
+    "text": "8. (1) The person appointed as the Parliamentary BudgetOfficer shall, on the recommendation of the Secretary-Generalof Parliament to the Constitutional Council, be eligible tobe considered for re-appointment for not more than onefurther term, unless removed from office under this Part.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      632.57,
+      451.18,
+      669.95
+    ],
+    "text": "(2) A re-appointment referred to in subsection (1) shall bemade by the President, on the recommendation of theConstitutional Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      283.51,
+      195.44,
+      321.38
+    ],
+    "text": "Appointment oftheParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      362.59,
+      195.44,
+      419.66
+    ],
+    "text": "Eligibilitycriteria to applyto the office oftheParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      491.59,
+      198.43,
+      519.86
+    ],
+    "text": "ParliamentaryBudget Officer\u2019sterm of office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      557.11,
+      198.44,
+      594.98
+    ],
+    "text": "ParliamentaryBudget Officer\u2019seligibility for re-appointment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.21,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "5Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      203.09,
+      384.97,
+      288.23
+    ],
+    "text": "9. Subject to the provisions of this Part, the DeputyParliamentary Budget Officer shall be appointed by thePresident, on the recommendation of the ConstitutionalCouncil. The Deputy Parliamentary Budget Officer shallassist the Parliamentary Budget Officer in the exercise,performance and discharge of his powers, duties andfunctions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      301.49,
+      384.83,
+      325.19
+    ],
+    "text": "10. A person who applies to the office of the DeputyParliamentary Budget Officer shall \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.65,
+      338.45,
+      384.83,
+      362.03
+    ],
+    "text": "(a)be competent, honest, of high moral integrity andof good repute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.65,
+      375.29,
+      384.85,
+      411.23
+    ],
+    "text": "(b)have at least ten years of experience in governmentbudgeting, financial policy, fiscal policy ormacroeconomic analysis.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      424.49,
+      384.86,
+      460.43
+    ],
+    "text": "11. The term of office of the Deputy Parliamentary BudgetOfficer shall be five years from the date of appointment tosuch office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      486.05,
+      384.87,
+      558.83
+    ],
+    "text": "12. (1) The person appointed as the Deputy ParliamentaryBudget Officer shall, on the recommendation of the Secretary-General of Parliament to the Constitutional Council, beeligible to be considered for re-appointment for not morethan one further term as the Deputy Parliamentary BudgetOfficer, unless removed from office under this Part.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      572.09,
+      384.84,
+      608.03
+    ],
+    "text": "(2) A re-appointment referred to in subsection (1) shall bemade by the President, on the recommendation of theConstitutional Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      621.29,
+      384.86,
+      669.59
+    ],
+    "text": "(3) The appointment or re-appointment of the DeputyParliamentary Officer shall not have a bearing on his or hereligibility to be appointed as the Parliamentary BudgetOfficer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      204.19,
+      452.14,
+      242.06
+    ],
+    "text": "Appointment ofthe DeputyParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      302.59,
+      452.14,
+      360.61
+    ],
+    "text": "Eligibilitycriteria to applyto the office ofthe DeputyParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      425.59,
+      455.13,
+      463.46
+    ],
+    "text": "DeputyParliamentaryBudget Officer\u2019sterm of office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      487.51,
+      455.14,
+      534.98
+    ],
+    "text": "DeputyParliamentaryBudget Officer\u2019seligibility for re-appointment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "6Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      203.33,
+      452.16,
+      239.87
+    ],
+    "text": "13. The office of the Parliamentary Budget Officer andthe office of the Deputy Parliamentary Budget Officer shallbe non-pensionable.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      253.73,
+      452.14,
+      302.87
+    ],
+    "text": "14. (1) The Secretary-General of Parliament shall inviteapplications for the office of the Parliamentary BudgetOfficer and the office of the Deputy Parliamentary BudgetOfficer by publishing a notice \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227.95,
+      316.73,
+      307.41,
+      328.07
+    ],
+    "text": "(a)in the Gazette;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227.95,
+      341.93,
+      452.16,
+      365.87
+    ],
+    "text": "(b)in one Sinhala, Tamil and English newspaper thatis published and circulated in Sri Lanka; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      228.67,
+      379.73,
+      398.14,
+      391.07
+    ],
+    "text": "(c)on the official website of Parliament.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      404.93,
+      452.14,
+      441.47
+    ],
+    "text": "(2) The Secretary-General of Parliament shall consult theAdvisory Committee referred to in section 15 when preparingthe invitation and notice referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      455.33,
+      452.13,
+      491.87
+    ],
+    "text": "(3) The notice referred to in subsection (1) shall specify aperiod of at least thirty days for applications to be submittedto the Secretary-General of Parliament.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      505.73,
+      452.27,
+      580.07
+    ],
+    "text": "(4) (a) The Secretary-General of Parliament shall, havingdue regard to gender, diversity of background, experienceand expertise of the person applied, forward to theConstitutional Council, a recommended list of names of thepersons to be appointed as the Parliamentary Budget Officerand the Deputy Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      593.93,
+      452.25,
+      668.27
+    ],
+    "text": "(b) Upon receipt of such list of names, the ConstitutionalCouncil shall forward its recommendation to the Presidentand the President shall proceed to appoint the persons sorecommended to the office of the Parliamentary BudgetOfficer and the office of the Deputy Parliamentary BudgetOfficer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      204.19,
+      181.16,
+      222.86
+    ],
+    "text": "Non-pensionable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      255.55,
+      194.59,
+      312.62
+    ],
+    "text": "Selection of theParliamentaryBudget Officerand DeputyParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204.21,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "7Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      202.97,
+      383.89,
+      250.31
+    ],
+    "text": "(5) Where the Constitutional Council does notrecommend to the President any person specified in the listof names referred to in paragraph (a) of subsection (4), theSecretary-General of Parliament shall, -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      262.97,
+      383.89,
+      334.31
+    ],
+    "text": "(a)subject to sections 6, 10 and 16 forward another listof names to the Constitutional Council fromamongst persons who have submitted applicationunder this section for the office of the ParliamentaryBudget Officer or the office of the DeputyParliamentary Budget Officer; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      346.97,
+      383.89,
+      406.31
+    ],
+    "text": "(b)invite fresh applications under this section, if anyperson who has applied for the office of theParliamentary Budget Officer or the office of theDeputy Parliamentary Budget Officer does notpossess the required qualifications.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      418.97,
+      383.88,
+      466.31
+    ],
+    "text": "15. There shall be an Advisory Committee comprisingthe Chair of the Committee on Public Finance, the Chair ofthe Committee on Ways and Means and the Deputy Speakerof Parliament, to assist -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      478.97,
+      383.88,
+      514.31
+    ],
+    "text": "(a)the Secretary-General of Parliament in the selectionprocess of the Parliamentary Budget Officer andthe Deputy Parliamentary Budget Officer; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      526.97,
+      383.89,
+      574.31
+    ],
+    "text": "(b)the Parliamentary Budget Officer in preparing anaction plan of the Parliamentary Budget Office foreach financial year in accordance with theprovisions of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      586.97,
+      383.89,
+      634.31
+    ],
+    "text": "16. A person shall be disqualified from being appointedor continuing in office as the Parliamentary Budget Officeror the office of the Deputy Parliamentary Budget Officer, ifsuch person \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      646.97,
+      383.89,
+      670.07
+    ],
+    "text": "(a)has an actual, potential or perceived conflict ofinterest on the date of his appointment or during",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      420.55,
+      434.14,
+      439.22
+    ],
+    "text": "AdvisoryCommittee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      587.59,
+      452.14,
+      635.06
+    ],
+    "text": "Disqualificationfrom beingappointed orcontinuing inoffice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "8Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      247.15,
+      203.09,
+      451.19,
+      226.79
+    ],
+    "text": "his tenure. A conflict of interest shall be inferred ifsuch person \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      253.15,
+      240.05,
+      451.19,
+      263.63
+    ],
+    "text": "(i)is or becomes a Member of Parliament, aProvincial Council or a local authority;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      250.15,
+      276.89,
+      451.18,
+      312.83
+    ],
+    "text": "(ii)holds or accepts a political office, as amember of a recognised political party or atrade union;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      247.15,
+      326.09,
+      451.17,
+      374.39
+    ],
+    "text": "(iii)directly or indirectly holds or enjoys anyrights or benefits under any agreement enteredinto by or on behalf of the ParliamentaryBudget Office; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      247.87,
+      387.65,
+      451.17,
+      423.59
+    ],
+    "text": "(iv)has any financial or other interests that arelikely to prejudicially affect the discharge ofhis duties;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      436.85,
+      428.6,
+      448.19
+    ],
+    "text": "(b)is not, or ceases to be, a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      461.45,
+      451.21,
+      497.39
+    ],
+    "text": "(c)becomes permanently incapable of carrying out hisduties due to ill health, physical or mental infirmityor such other cause;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      510.65,
+      451.18,
+      546.59
+    ],
+    "text": "(d)has been convicted of an offence which is of afraudulent or corrupt character or is prejudicial tothe interests of the Parliamentary Budget Office;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      559.85,
+      451.16,
+      583.43
+    ],
+    "text": "(e)has served a sentence of imprisonment imposed byany court in Sri Lanka or any other country;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      229.15,
+      596.69,
+      451.17,
+      620.39
+    ],
+    "text": "(f)has failed to carry out his duties in the mannerprovided for in this Act; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      633.65,
+      451.16,
+      669.59
+    ],
+    "text": "(g)has been declared as insolvent or bankrupt under acourt with competent jurisdiction and is anundischarged insolvent or is bankrupt.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204.21,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "9Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      202.73,
+      383.9,
+      296.03
+    ],
+    "text": "17. (1) Where the Secretary General of Parliament, onreceipt of a complaint or, has reason to believe that a personappointed to the office of the Parliamentary Budget Officeror the office of the Deputy Parliamentary Budget Officer,has become disqualified during the term of such office, theSecretary General of Parliament shall in writing request theCommittee on Public Finance to conduct an inquiry inrespect of such complaint.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      308.09,
+      383.88,
+      342.83
+    ],
+    "text": "(2) The Secretary General of Parliament shall forwardcopies of the request referred to in subsection (1) to thePresident and the Constitutional Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      354.89,
+      383.87,
+      413.03
+    ],
+    "text": "(3) Upon receipt of such copies, the President shall, onthe recommendation of the Constitutional Council,forthwith suspend the services of the person whose allegeddisqualification is being inquired, until a decision is takenfollowing such inquiry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      425.09,
+      383.91,
+      518.27
+    ],
+    "text": "(4) If the Committee on Public Finance finds that there isa basis for, and recommends disqualification, the SecretaryGeneral of Parliament shall notify the President and theConstitutional Council of the same and the President shall,on the recommendation of the Constitutional Council, afterassigning reasons therefor, remove the Parliamentary BudgetOfficer or the Deputy Parliamentary Budget Officer fromsuch office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      530.33,
+      383.88,
+      588.47
+    ],
+    "text": "(5) If the Committee on Public Finance finds that there isno basis for a disqualification, the Secretary General ofParliament shall notify the President and the ConstitutionalCouncil of the same and the President shall revoke thesuspension made under subsection (3).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      600.53,
+      383.94,
+      670.55
+    ],
+    "text": "18. The Parliamentary Budget Officer or the DeputyParliamentary Budget Officer may resign from office at anytime by letter addressed to the President and such resignationshall take effect on the date specified in the letter or on thedate such letter is received by the President, if no date isspecified.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      204.19,
+      452.85,
+      242.06
+    ],
+    "text": "Procedure whenadisqualificationis alleged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      601.51,
+      437.85,
+      620.18
+    ],
+    "text": "Resignationfrom Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "10Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      204.89,
+      452.16,
+      291.23
+    ],
+    "text": "19. (1) In the event of any vacation of office by theParliamentary Budget Officer or the Deputy ParliamentaryBudget Officer due to death, removal, resignation or on theexpiration of the term of office, the Secretary General ofParliament shall invite fresh applications for the respectiveoffices in terms of section 14.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      309.89,
+      452.08,
+      336.23
+    ],
+    "text": "(2) A person appointed pursuant to subsection (1) shallbe appointed for a term of five years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      354.89,
+      452.17,
+      441.23
+    ],
+    "text": "20. (1) Where the Parliamentary Budget Officer istemporarily unable to perform the duties of his office due toill health, absence from Sri Lanka or for any other reason,the Deputy Parliamentary Budget Officer may act in his placeuntil the Parliamentary Budget Officer is able to perform hisduties.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      459.89,
+      452.17,
+      561.23
+    ],
+    "text": "(2) Where the Deputy Parliamentary Budget Officer istemporarily unable to perform the duties of his office due toill health, or absence from Sri Lanka or for any other reason,the Parliamentary Budget Officer may appoint a person toact in his place taking in to consideration of sections 10 and16 until the Deputy Parliamentary Budget Officer is able toperform his duties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      579.89,
+      452.16,
+      666.23
+    ],
+    "text": "21. The salaries and other remunerations of theParliamentary Budget Officer and the Deputy ParliamentaryBudget Officer shall be determined by Parliament. Suchsalaries and other remunerations shall be charged on theConsolidated Fund and shall not be diminished during theirterms of office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      205.51,
+      198.43,
+      262.58
+    ],
+    "text": "Filling vacancyon theexpiration of theterm of office,death, removalor resignation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      356.59,
+      178.87,
+      375.26
+    ],
+    "text": "Temporaryabsence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      581.59,
+      188.6,
+      590.66
+    ],
+    "text": "Remuneration",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "11Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.89,
+      204.89,
+      280.89,
+      216.23
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.53,
+      229.25,
+      353.25,
+      240.59
+    ],
+    "text": "OPERATION OF THE PARLIAMENTARY BUDGET OFFICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      252.53,
+      382.85,
+      275.39
+    ],
+    "text": "22. The Parliamentary Budget Officer shall have powerto -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.61,
+      287.33,
+      382.93,
+      321.83
+    ],
+    "text": "(a)recruit and appoint officers and employees to thestaff of the Parliamentary Budget Office inaccordance with the rules made under section 45;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.61,
+      333.65,
+      382.93,
+      368.27
+    ],
+    "text": "(b)discipline and dismiss officers and employees ofthe Parliamentary Budget Office in accordance withthe rules made under section 45;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.33,
+      380.09,
+      382.93,
+      414.59
+    ],
+    "text": "(c)determine the salaries and other remunerations ofthe officers and employees of the ParliamentaryBudget Office;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.61,
+      426.53,
+      382.93,
+      495.83
+    ],
+    "text": "(d)obtain the services from any person who hasknowledge and experience in the governmentbudgeting, financial policy, fiscal policy,macroeconomic analysis or such other relevant fieldof expertise, to assist the Parliamentary BudgetOffice to perform its responsibilities under the Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.33,
+      507.65,
+      382.93,
+      553.79
+    ],
+    "text": "(e)enter into agreements with any person to assist inthe operation of the Parliamentary Budget Officeor to assist the Parliamentary Budget Office toperform its responsibilities under the Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.89,
+      565.73,
+      382.91,
+      588.59
+    ],
+    "text": "(f)appoint a secretary for the Parliamentary BudgetOffice;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.61,
+      600.53,
+      382.95,
+      670.07
+    ],
+    "text": "(g)request access to and make arrangements for thetimely examination and digital transfer in malleableformats of any written or electronic record, data,analysis, modelling, or other information possessedby any Public Institution, relating to the requestsmade under section 29;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      253.51,
+      451.3,
+      320.18
+    ],
+    "text": "The powers,duties andfunctions tooperationaliseand manage theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "12Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      203.09,
+      451.18,
+      251.39
+    ],
+    "text": "(h)request the methodology and assumptionsunderlying the budget and other fiscal proposalsprepared by Public Institutions and tabled inParliament by the Government;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      264.65,
+      451.2,
+      312.83
+    ],
+    "text": "(i)enter into arrangements with Public Institutions forthe automatic transmittal of budgeting and costingdata to the Parliamentary Budget Office at suchtime and duration as may be appropriate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.15,
+      326.09,
+      451.24,
+      362.03
+    ],
+    "text": "(j)make rules in respect of all matters for which rulesare authorised or required to be made under thisAct; and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      227.71,
+      375.29,
+      451.19,
+      423.59
+    ],
+    "text": "(k)generally, do all such acts and things as arenecessary for, or incidental or conducive to thecarrying out or attainment of the objectives of theParliamentary Budget Office.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      436.85,
+      451.23,
+      509.63
+    ],
+    "text": "23. (1) The Parliamentary Budget Officer shall, inconsultation with the Members of Parliament, Committee,the Advisory Committee referred to in section 15 and anyrelevant officer of the staff of Parliament, prepare an actionplan for the Parliamentary Budget Office for each financialyear.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.15,
+      522.89,
+      359.61,
+      534.23
+    ],
+    "text": "(2) The action plan shall include-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      547.49,
+      451.19,
+      571.19
+    ],
+    "text": "(a)the priorities of the Parliamentary Budget Officefor the financial year; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      584.45,
+      451.19,
+      620.39
+    ],
+    "text": "(b)the protocol for the allocation of the resources ofthe Parliamentary Budget Office during suchfinancial year to meet such priorities.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      633.65,
+      451.21,
+      669.11
+    ],
+    "text": "(3) The action plan for each financial year shall beprepared in line with the period specified in the budget callcirculars, as may be applicable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      437.59,
+      193.87,
+      485.06
+    ],
+    "text": "Prepare anAction Plan fortheParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "13Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      204.41,
+      384.85,
+      244.19
+    ],
+    "text": "(4) The first action plan for the Parliamentary BudgetOffice shall be prepared within three months from the dateof appointment of the Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      261.17,
+      384.85,
+      357.71
+    ],
+    "text": "24. (1) The Parliamentary Budget Officer may delegatein writing to the Deputy Parliamentary Budget Officer orany officer or employee of the Parliamentary Budget Officeany power, duty or function conferred or imposed on him bythis Act. Such officer or employee shall exercise, performand discharge such power, duty and function, subject to thedirection and control of the Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      374.81,
+      384.84,
+      442.91
+    ],
+    "text": "(2) The Parliamentary Budget Officer may,notwithstanding any delegation made under subsection (1),individually exercise, perform or discharge such power, dutyand function so delegated and in doing so may at any timerevoke any such delegation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      460.01,
+      384.85,
+      528.11
+    ],
+    "text": "25. The Parliamentary Budget Officer may designate acompetent authority from among the officers and employeesof the Parliamentary Budget Office to be a person who shallprocess information as directed by the Parliamentary BudgetOfficer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      246.45,
+      545.21,
+      283.16,
+      556.55
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.45,
+      573.53,
+      370.17,
+      599.15
+    ],
+    "text": "INDEPENDENCE AND ACCOUNTABILITY OF THE PARLIAMENTARYBUDGET OFFICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      616.13,
+      384.84,
+      670.07
+    ],
+    "text": "26. (1) No person shall cause any undue influence on theParliamentary Budget Officer, the Deputy ParliamentaryBudget Officer, or any officer or employee of theParliamentary Budget Office, any member of Advisory",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      263.59,
+      443.85,
+      282.26
+    ],
+    "text": "Delegation ofpowers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      462.55,
+      436.3,
+      490.82
+    ],
+    "text": "Designate acompetentauthority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      617.59,
+      455.85,
+      655.46
+    ],
+    "text": "Independence oftheParliamentaryBudget Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "14Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      202.49,
+      451.21,
+      282.23
+    ],
+    "text": "Committee referred to in section 15 or a member of anycommittee referred to in sub paragraph (d) of subsection (2)of section 29 or any person providing any service, to theParliamentary Budget Office in the exercise, performance,and discharge of their powers, duties and functions orinterfere with the activities of the Parliamentary BudgetOffice.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      293.69,
+      400.17,
+      305.03
+    ],
+    "text": "(2) The Parliamentary Budget Officer shall-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      316.49,
+      451.19,
+      350.63
+    ],
+    "text": "(a)exercise, perform and discharge his powers, dutiesand functions, objectively, transparently andimpartially; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      362.09,
+      451.19,
+      407.63
+    ],
+    "text": "(b)disclose to the public any agreement entered in towith any public institution and such other requests,findings and policy costings as required under thisAct.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      419.09,
+      451.19,
+      453.23
+    ],
+    "text": "27. (1) The Parliamentary Budget Officer shall provideinformation to Parliament on the operation of theParliamentary Budget Office as required by Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      464.69,
+      451.21,
+      521.63
+    ],
+    "text": "(2) The Parliamentary Budget Officer shall prepare anannual report on the operation and administration of theParliamentary Budget Office which shall be submitted tothe Committee on Public Finance within four months of thecommencement of its financial year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      533.09,
+      404.61,
+      544.43
+    ],
+    "text": "(3) The Committee on Public Finance shall -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      555.89,
+      451.16,
+      578.63
+    ],
+    "text": "(a)review the Parliamentary Budget Office\u2019s annualreport;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      590.09,
+      451.18,
+      624.23
+    ],
+    "text": "(b)assess the reasonableness of the draft estimate ofexpenditure, based on the action plan prepared bythe Parliamentary Budget Officer under section 23;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      635.69,
+      451.17,
+      670.91
+    ],
+    "text": "(c)consider the operation and sourcing resources ofthe Parliamentary Budget Office in relation to itsobjectives; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      420.55,
+      190.88,
+      439.22
+    ],
+    "text": "Accountabilityto Parliament",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "15Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      202.97,
+      384.86,
+      262.31
+    ],
+    "text": "(d)report to Parliament any matter related to theoperation of the Parliamentary Budget Office whichhas an impact on the ability of the ParliamentaryBudget Office to perform its responsibilities underthis Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      274.97,
+      384.96,
+      334.31
+    ],
+    "text": "28. (1) After the conclusion of an election, the Committeeon Public Finance may, within fourteen days of suchCommittee being constituted by Parliament, request theParliamentary Budget Officer to initiate an independentreview of the operation of the Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      156.81,
+      346.97,
+      355.58,
+      358.31
+    ],
+    "text": "(2) A request under subsection (1) shall include -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      370.97,
+      384.82,
+      382.31
+    ],
+    "text": "(a)the preferred person or body to conduct the review;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      394.97,
+      277.55,
+      406.31
+    ],
+    "text": "(b)the scope of the review;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.37,
+      418.97,
+      355.54,
+      430.31
+    ],
+    "text": "(c)the way the review is to be conducted; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      442.97,
+      384.82,
+      478.31
+    ],
+    "text": "(d)the matters which shall be included in the report onthe review to be submitted to the Committee onPublic Finance.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      490.97,
+      384.82,
+      526.31
+    ],
+    "text": "(3) The independent review shall be completed withinnine months from the date of the request for such review bythe Committee on Public Finance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      538.97,
+      384.86,
+      574.31
+    ],
+    "text": "(4) The Committee on Public Finance shall cause suchreport to be tabled in Parliament as soon as practicable afterreceiving such report.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      586.97,
+      384.86,
+      670.31
+    ],
+    "text": "(5) If an independent review has not been requested bythe Committee on Public Finance within the last five years,the Parliamentary Budget Officer shall request any person,within or outside Sri Lanka (including similar institutionsin other jurisdictions or international organizations), toconduct an independent external or peer review of theperformance of the Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      276.55,
+      445.29,
+      314.42
+    ],
+    "text": "Independentreview of theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "16Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      314.35,
+      203.57,
+      348.07,
+      214.91
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      231.07,
+      229.61,
+      431.34,
+      240.95
+    ],
+    "text": "PROVISIONS TO FACILITATE SCRUTINY AND TRANSPARENCY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      255.65,
+      451.19,
+      318.95
+    ],
+    "text": "29. (1) The Parliamentary Budget Office shall performthe following analytical functions to requests fromCommittees and Members of Parliament, and any recognisedpolitical party or independent group, and shall form part ofits regularly published analyses \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      333.65,
+      451.24,
+      396.95
+    ],
+    "text": "(a)economic and fiscal forecasts and projections,including analyses of long-term fiscalsustainability, debt sustainability, compliance withfiscal rules and targets, and tracking of budgetingmeasures against strategic goals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      411.65,
+      451.17,
+      448.91
+    ],
+    "text": "(b)general analysis of annual and supplementarybudget proposals the Government tables inParliament;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      463.61,
+      451.16,
+      487.91
+    ],
+    "text": "(c)specific budget analysis in response to requests fromCommittees and Members of Parliament;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      502.61,
+      451.18,
+      539.87
+    ],
+    "text": "(d)costing analysis of legislative and policy proposalstabled by the Government or prepared byParliament;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      554.57,
+      451.19,
+      604.91
+    ],
+    "text": "(e)costings of policies and proposals included in themanifestos of a recognised political party orindependent group following the dissolution ofParliament and in the lead-up to elections; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      229.15,
+      619.61,
+      451.18,
+      669.95
+    ],
+    "text": "(f)general analytical studies, taken up at the discretionof the Parliamentary Budget Officer, intended tobenefit Parliament\u2019s performance of its publicfinance responsibilities.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      257.59,
+      195.43,
+      295.46
+    ],
+    "text": "Analyticalfunctions of theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "17Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      203.57,
+      384.93,
+      253.91
+    ],
+    "text": "(2) The Parliamentary Budget Office shall exercisemethodological independence in determining the approachto be taken when performing the functions outlined insubsection (1), including, -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.65,
+      268.61,
+      384.85,
+      318.95
+    ],
+    "text": "(a)drawing on the most recent economic forecast limitsand fiscal estimates issued under the provisions ofthe Fiscal Management (Responsibility) Act, No. 3of 2003;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.65,
+      333.65,
+      384.82,
+      370.91
+    ],
+    "text": "(b)adopting alternate conventions, assumptions,forecasts, and estimates to test the veracity of theanalysis underpinning proposals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.37,
+      385.61,
+      384.86,
+      409.91
+    ],
+    "text": "(c)curating independent datasets and models that canbe used to perform analytic functions; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.65,
+      424.61,
+      384.84,
+      461.87
+    ],
+    "text": "(d)establishing any committee to help shape differentapproaches of analysis or, peer-review panel to testthe strength of the analysis provided to Parliament.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      476.57,
+      384.95,
+      539.87
+    ],
+    "text": "30. (1) The Parliamentary Budget Officer shall put in placeappropriate safeguards regarding the protection of privateand sensitive information held by Public Institutions thatthe Parliamentary Budget Office needs to use to conduct theanalytical functions specified in section 29.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      554.57,
+      384.86,
+      669.95
+    ],
+    "text": "(2) Any information relating to the national security ofSri Lanka, the disclosure of which is prejudicial to nationalsecurity, shall be examined personally by the ParliamentaryBudget Officer with the concurrence of the Ministerresponsible for the relevant department, agency ororganisation that is the holder of the information in order todetermine if the information is critical to the functionalanalysis of the Parliamentary Budget Office conductedpursuant to section 29.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      477.55,
+      437.86,
+      496.22
+    ],
+    "text": "Access toinformation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "18Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      203.93,
+      452.15,
+      255.47
+    ],
+    "text": "(3) The public institution shall, with the exception ofthe information related to national security, furnish the saidinformation in such manner and on such date as required bythe Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      270.89,
+      452.17,
+      362.63
+    ],
+    "text": "(4) Where a public institution estimates that it may beunable to produce the information within the period specifiedby the Parliamentary Budget Officer, the public institutionmay propose to the Parliamentary Budget Officer, in writing,an alternate date for production of the information. Thediscretion as to whether to alter the date of production shallrest with the Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      378.05,
+      452.15,
+      456.47
+    ],
+    "text": "(5) Where any public institution fails to furnish suchinformation on the date specified in the request or by therevised date, the Parliamentary Budget Officer may requestthe Speaker to reissue a request for information to such PublicInstitution in accordance with the Parliamentary (Powersand Privileges) Act (Chapter 383).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      471.89,
+      452.25,
+      550.19
+    ],
+    "text": "(6) Every official and employee of a public institutionshall comply with the provisions of this section, and suchcompliance shall not be considered a violation of any writtenlaw, regulation, agreement or procedure pertaining tosecrecy, confidentiality or non-disclosure of information heldand managed by that public institution.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      565.73,
+      452.17,
+      630.59
+    ],
+    "text": "31. (1) The Parliamentary Budget Officer shall, subjectto the provisions of this Act, ensure that the informationspecified in subsection (2) is made available to the public inthe Sinhala, Tamil and English languages by electronic ordigital means and be published in the Gazette.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      646.13,
+      452.13,
+      669.83
+    ],
+    "text": "(2) The information referred to in subsection (1) shallinclude \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      567.55,
+      187.16,
+      576.62
+    ],
+    "text": "Transparency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "19Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      203.69,
+      383.87,
+      228.23
+    ],
+    "text": "(a)any rule, principle or guideline that is required tobe made, issued or published under this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      243.29,
+      383.87,
+      267.83
+    ],
+    "text": "(b)proposed release dates of routine reports alignedwith the annual budgeting process;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      160.29,
+      282.89,
+      383.88,
+      347.03
+    ],
+    "text": "(c)routine Parliamentary Budget Office reports andanalyses, including a full account of the underlyingdata, subject to subsection (1) of section 30,assumptions and methodology used in thepreparation of the analyses;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      362.09,
+      383.9,
+      452.63
+    ],
+    "text": "(d)reports and analyses prepared by the ParliamentaryBudget Office in response to a specific request froma Committee or a Member of Parliament includinga full account of the underlying data, subject tosubsection (1) of section 30, assumptions andmethodology used in the preparation of theanalyses;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      160.29,
+      467.69,
+      383.89,
+      518.63
+    ],
+    "text": "(e)costing analyses of the manifestos of recognisedpolitical parties or independent groups including afull account of the data used, assumptions, andmethodology;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      533.69,
+      383.88,
+      558.23
+    ],
+    "text": "(f)the annual report of the Parliamentary Budget Officesubmitted to Parliament; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      573.29,
+      383.89,
+      597.83
+    ],
+    "text": "(g)action plan of the Parliamentary Budget Office foreach financial year prepared under section 23.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      612.89,
+      383.89,
+      651.47
+    ],
+    "text": "32. The Right to Information Act, No. 12 of 2016 shall beapplicable in respect of the matters connected with orincidental to the provisions of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      613.51,
+      455.86,
+      651.38
+    ],
+    "text": "Application ofthe Right toInformation Act,No. 12 of 2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "20Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      312.79,
+      202.97,
+      349.5,
+      214.31
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      229.51,
+      225.89,
+      432.79,
+      248.63
+    ],
+    "text": "PROCEDURE TO OBTAIN ASSISTANCE OF THE PARLIAMENTARYBUDGET OFFICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      260.09,
+      451.16,
+      305.63
+    ],
+    "text": "33. (1) Any Committee, Member of Parliament,recognized political party or independent group may requestthe Parliamentary Budget Office to prepare an analysis asspecified in section 29.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      317.09,
+      451.15,
+      339.83
+    ],
+    "text": "(2) The Parliamentary Budget Officer shall make rulesand issue guidelines setting out \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      351.29,
+      451.18,
+      385.43
+    ],
+    "text": "(a)the process, for Committees and Members ofParliament, to formally request the ParliamentaryBudget Office to conduct an analysis;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      396.89,
+      397.16,
+      408.23
+    ],
+    "text": "(b)the formats for such written requests;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.71,
+      419.69,
+      451.17,
+      431.03
+    ],
+    "text": "(c)the information to be included in the written request;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      442.49,
+      451.19,
+      453.83
+    ],
+    "text": "(d)the manner a written request can be submitted; and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.71,
+      465.29,
+      451.17,
+      488.03
+    ],
+    "text": "(e)the methodology the Parliamentary Budget Officewill use to prioritise requests.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      499.49,
+      451.23,
+      522.23
+    ],
+    "text": "(3) The Parliamentary Budget Officer shall make rulesand issue guidelines setting out \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      533.69,
+      451.19,
+      590.63
+    ],
+    "text": "(a)the process, for the leader of a recognised politicalparty or independent group represented inParliament, to formally request the ParliamentaryBudget Office to conduct a costing analysis of itsmanifesto before the dissolution of Parliament;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      602.09,
+      451.2,
+      670.91
+    ],
+    "text": "(b)the process, for the leader of a recognised politicalparty or independent group contesting an election,to formally request the Parliamentary Budget Officeto conduct a costing analysis of its manifesto afterthe dissolution of Parliament and before the pollingdate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      262.51,
+      189.44,
+      319.58
+    ],
+    "text": "Guidelines forrequesting ananalysis fromtheParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "21Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.37,
+      203.09,
+      327.11,
+      214.43
+    ],
+    "text": "(c)the format for such written requests;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      227.69,
+      384.83,
+      239.03
+    ],
+    "text": "(d)the information to be included in the written request;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.37,
+      252.29,
+      384.85,
+      275.99
+    ],
+    "text": "(e)the manner a written request may be submitted;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.81,
+      289.25,
+      384.83,
+      312.83
+    ],
+    "text": "(f)the methodology the Parliamentary Budget Officeshall use to priorities requests.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      326.09,
+      384.84,
+      386.63
+    ],
+    "text": "(4) The Parliamentary Budget Officer shall publish therules and guidelines referred to in subsections (2) and (3) inthe Gazette within six months of coming into operation ofthis Act and shall regularly review and update them inaccordance with international best practice.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      399.89,
+      384.86,
+      460.43
+    ],
+    "text": "34. (1) A leader of either a recognised political party oran independent group that is represented in Parliament maymake a request to the Parliamentary Budget Office to preparea policy costing of a proposal in the manifesto prior to thedissolution of Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      473.69,
+      384.87,
+      546.59
+    ],
+    "text": "(2) Following the dissolution of Parliament, a leader ofeither a recognised political party or an independent groupcontesting the election may make a request to theParliamentary Budget Office to prepare a policy costing of aproposal published in its manifesto, in accordance with suchrules made by the Parliamentary Budget Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      559.85,
+      384.85,
+      595.79
+    ],
+    "text": "(3) On receipt of a request, the Parliamentary Budget Officershall conduct a policy costing and release such request andthe policy costing to the public, as soon as practicable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      609.05,
+      384.86,
+      669.59
+    ],
+    "text": "(4) Where the Parliamentary Budget Officer is unable topublicly release a policy costing conducted in response to arequest made under subsection (1) or (2) prior to the pollingdate, he shall release a statement to the public assigningreasons therefor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      401.59,
+      455.14,
+      468.26
+    ],
+    "text": "Request toprepare policycosting from arecognisedpolitical party orindependentgroup",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "22Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      202.25,
+      451.2,
+      235.31
+    ],
+    "text": "(5) The statement referred to in subsection (4) shall bereleased by the Parliamentary Budget Officer as soon aspracticable following the polling date.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      245.81,
+      451.23,
+      311.63
+    ],
+    "text": "35. (1) Where the Parliamentary Budget Officer is unable toprepare a costing of a policy or a proposed policy on any requestmade under section 33 prior to the dissolution of Parliament, orprior to the polling date, such request shall be considered aswithdrawn with effect from the dissolution of Parliament orsuch date of polling if the Parliamentary Budget Officer -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      226.87,
+      322.13,
+      435.45,
+      333.47
+    ],
+    "text": "(a)has not received the necessary information; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      226.87,
+      343.85,
+      362.61,
+      355.19
+    ],
+    "text": "(b)did not have sufficient time,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      365.69,
+      441.48,
+      377.03
+    ],
+    "text": "to prepare such costing of a policy or a proposed policy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      387.53,
+      451.19,
+      431.51
+    ],
+    "text": "(2) A request made under section 33 may be withdrawn atany time by the leader referred to under subsection (3) ofsection 33 who made such request addressed to theParliamentary Budget Officer in writing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      442.01,
+      451.19,
+      496.91
+    ],
+    "text": "36. (1) The Parliamentary Budget Officer shall prepare apost-election report of the fiscal and financial implicationof the election proposals made by and included in themanifestos, of any recognised political party or independentgroup elected to Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      507.41,
+      451.19,
+      540.47
+    ],
+    "text": "(2) The provisions of subsection (1) shall not apply tocosting requests that the Parliamentary Budget Office hasprepared and published prior to an election.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      311.35,
+      550.97,
+      351.07,
+      562.31
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      316.51,
+      572.81,
+      345.79,
+      584.15
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      594.53,
+      451.21,
+      672.11
+    ],
+    "text": "37. (1) The Parliamentary Budget Officer shall submit thedraft estimate of expenditure to the Committee on PublicFinance for the ensuing financial year in accordance withthe guidelines for the preparation of the budget within thetime period as specified in the Budget Call Circular issuedby the Department of National Budget of the GeneralTreasury.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      248.59,
+      180.43,
+      286.46
+    ],
+    "text": "Reasons forinability toprovideassistance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      443.59,
+      186.44,
+      481.46
+    ],
+    "text": "Post-electionreport of theelectioncommitments",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      595.99,
+      198.44,
+      643.46
+    ],
+    "text": "Draft estimate ofexpenditure oftheParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "23Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      202.01,
+      384.93,
+      276.95
+    ],
+    "text": "(2) The Committee on Public Finance shall assess thereasonableness of the draft estimate of expenditure, basedon the action plan, and report to the Parliamentary BudgetOfficer and Parliament in accordance with the guidelines forthe preparation of the budget within the time period asspecified in the Budget Call Circular issued by theDepartment of National Budget of the General Treasury.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      286.85,
+      384.84,
+      361.79
+    ],
+    "text": "(3) The Parliamentary Budget Officer shall forward thedraft estimate of expenditure to the Minister assigned thesubject of Finance to be included in to the budget inaccordance with the guidelines for the preparation of thebudget within the time period as specified in the BudgetCall Circular issued by the Department of National Budgetof the General Treasury.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      371.57,
+      384.84,
+      393.59
+    ],
+    "text": "38. (1) The Parliamentary Budget Office shall have itsown Fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      156.81,
+      403.37,
+      313.55,
+      414.71
+    ],
+    "text": "(2) There shall be paid into the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.65,
+      424.61,
+      384.85,
+      446.51
+    ],
+    "text": "(a)all such sums of money as may be voted from timeto time by Parliament; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.65,
+      456.41,
+      384.85,
+      488.87
+    ],
+    "text": "(b)all such sums of money as may be received by theParliamentary Budget Office by way of donations,gifts and grants from any source whatsoever:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      180.81,
+      498.77,
+      384.86,
+      552.47
+    ],
+    "text": "Provided that, the Parliamentary Budget Officershall obtain the prior written approval of theDepartment of External Resources, in respect of alldonations, gifts and grants received by or made tothe Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      156.81,
+      562.37,
+      321.82,
+      573.71
+    ],
+    "text": "(3) There shall be paid out of the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.65,
+      583.61,
+      384.85,
+      616.07
+    ],
+    "text": "(a)all such sums of money required to defray theexpenditure incurred by the Parliamentary BudgetOffice;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.65,
+      625.97,
+      384.93,
+      670.07
+    ],
+    "text": "(b)all such sums of money required to defray theexpenditure incurred by the Parliamentary BudgetOfficer, Deputy Parliamentary Budget Officer andthe officers and employees of the Parliamentary",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      373.51,
+      445.29,
+      401.78
+    ],
+    "text": "Fund of theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "24Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      248.11,
+      203.93,
+      452.16,
+      242.03
+    ],
+    "text": "Budget Office in the exercise, performance anddischarge of their powers, duties and, functionsunder the provisions of this Act; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      228.67,
+      257.45,
+      452.13,
+      282.23
+    ],
+    "text": "(c)all such sums of money as are required to be paidout of the Fund, under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      297.65,
+      452.15,
+      376.07
+    ],
+    "text": "39. The Parliamentary Budget Office may open andmaintain any account with any bank as it may thinkappropriate, and such account shall be operated inaccordance with prevailing financial regulations of theGovernment pertaining to financial transactions of publiccorporations.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      391.49,
+      452.13,
+      416.27
+    ],
+    "text": "40. (1) The financial year of the Parliamentary BudgetOffice shall be the calendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      431.69,
+      452.21,
+      483.23
+    ],
+    "text": "(2) The Parliamentary Budget Office shall cause properbooks of accounts to be kept of the income and expenditure,assets and liabilities and all other financial transactions ofthe Parliamentary Budget Office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      498.65,
+      452.17,
+      603.83
+    ],
+    "text": "(3) For the purpose of presenting a true and fair view ofthe financial performance and financial condition of theParliamentary Budget Office, the Parliamentary BudgetOffice shall prepare its accounts in accordance with the SriLanka Accounting Standards adopted by the Institute ofChartered Accountants of Sri Lanka under the Sri LankaAccounting and Auditing Standards Act, No. 15 of 1995 orany other applicable written law in force.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      619.25,
+      452.15,
+      670.79
+    ],
+    "text": "(4) The provisions of Article 154 of the Constitutionrelating to the audit of accounts of public corporations shallapply to the audit of the accounts of the Parliamentary BudgetOffice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      298.51,
+      198.43,
+      326.78
+    ],
+    "text": "Budget Office tomaintainaccounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      392.59,
+      188.6,
+      420.86
+    ],
+    "text": "Financial yearand audit ofaccounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "25Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      242.13,
+      202.97,
+      285.57,
+      214.31
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      248.13,
+      226.97,
+      279.57,
+      238.31
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      250.97,
+      383.89,
+      322.31
+    ],
+    "text": "41. (1) The Parliamentary Budget Officer, DeputyParliamentary Budget Officer, officers and employees of theParliamentary Budget Office shall not be liable for any actdone or purported to be done or any omission made in goodfaith during the exercise, performance or discharge of theirpowers, duties or functions under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      334.97,
+      383.86,
+      358.31
+    ],
+    "text": "(2) The immunity granted under subsection (1) shall notextend to \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      159.57,
+      370.97,
+      383.91,
+      394.31
+    ],
+    "text": "(a)liability for a criminal offence under any writtenlaw for the time being in force; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      159.57,
+      406.97,
+      383.86,
+      430.31
+    ],
+    "text": "(b)any act done in contravention of the provisions ofthis Act, or any other applicable written law.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      442.97,
+      383.87,
+      490.31
+    ],
+    "text": "42. The Parliamentary Budget Office shall be deemed tobe a Scheduled Institution within the meaning of the BriberyAct (Chapter 26) and the provisions of that Act shall beconstrued accordingly.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      502.97,
+      383.89,
+      562.31
+    ],
+    "text": "43. The Parliamentary Budget Officer, the DeputyParliamentary Budget Officer and the employees and theofficers of the Parliamentary Budget Office shall be deemedto be public servants within the meaning and for the purposeof the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      586.97,
+      383.9,
+      670.31
+    ],
+    "text": "44. (1) All expenses incurred by the Parliamentary BudgetOffice in any suit or prosecution brought by or against itbefore any court, shall be paid out of the Fund of theParliamentary Budget Office and only costs paid to orrecovered by the Parliamentary Budget Office in any suchsuit or prosecution, shall be credited to the Fund of theParliamentary Budget Office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      252.55,
+      443.86,
+      280.82
+    ],
+    "text": "Immunity foracts done ingood faith",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      445.51,
+      449.14,
+      483.38
+    ],
+    "text": "Budget Officedeemed to be aScheduledInstitution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      505.51,
+      449.13,
+      514.58
+    ],
+    "text": "Public servants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      588.91,
+      455.13,
+      645.98
+    ],
+    "text": "Expenses in suitor prosecutionto be paid out ofthe Fund of theParliamentaryBudget Office",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "26Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      202.49,
+      452.18,
+      305.03
+    ],
+    "text": "(2) Any expenses incurred by the Parliamentary BudgetOfficer, Deputy Parliamentary Budget Officer, any officer oremployee of the Parliamentary Budget Office, in any suit orprosecution brought against such person before any court inrespect of any act which is done or purported to be done bysuch person under this Act shall, if the court holds that suchact was done in good faith, be paid out of the Fund of theParliamentary Budget Office, unless such expenses arerecovered by him in such suit or prosecution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      316.49,
+      452.13,
+      362.03
+    ],
+    "text": "45. (1) Subject to the provisions of this Act, theParliamentary Budget Officer may make rules in respect ofall matters for which rules are authorised or required to bemade to achieve the objectives of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      373.49,
+      452.13,
+      419.03
+    ],
+    "text": "(2) Every rule made under subsection (1), shall bepublished in the Gazette and shall come into operation onthe date of publication, or on such later date as may bespecified in such rule.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      430.49,
+      452.19,
+      498.83
+    ],
+    "text": "(3) Every rule made under subsection (1), shall, not laterthan three months after its publication in the Gazette, beplaced before Parliament for approval. Every rule which isnot so approved shall be deemed to be rescinded as from thedate of such disapproval, but without prejudice to anythingpreviously done thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      510.29,
+      452.12,
+      533.03
+    ],
+    "text": "(4) A notification of the date of such disapproval shall bepublished in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      224.23,
+      544.49,
+      444.67,
+      555.83
+    ],
+    "text": "46. In this Act, unless the context otherwise requires \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      263.11,
+      567.29,
+      452.15,
+      590.03
+    ],
+    "text": "\u201cbudget\u201d shall include the Appropriation Actfor the relevant fiscal year;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      263.11,
+      601.49,
+      452.16,
+      670.31
+    ],
+    "text": "\u201cbudget call circular\u201d means a circular issuedby the Department of National Budget,requesting submission of the revenue andexpenditure of public institution for therelevant fiscal year for the purpose ofpreparation of the budget;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      317.59,
+      184.15,
+      345.86
+    ],
+    "text": "Rules to beapproved byParliament",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      545.59,
+      187.16,
+      554.66
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "27Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      201.77,
+      383.89,
+      223.31
+    ],
+    "text": "\u201cCommittee\u201d means any Committee ofParliament;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      232.37,
+      383.89,
+      294.71
+    ],
+    "text": "\u201cCommittee on Public Finance\u201d and\u201cCommittee on Ways and Means\u201d meansthe Committee on Public Finance andCommittee on Ways and Meansappointed by Parliament in terms of theStanding Orders;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      303.77,
+      383.87,
+      355.91
+    ],
+    "text": "\u201cConstitutional Council\u201d means theConstitutional Council referred to inArticle 41A of the Constitution of theDemocratic Socialist Republic ofSri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      364.97,
+      383.89,
+      437.51
+    ],
+    "text": "\u201ccosting\u201d means an assessment of the cost of apolicy proposal referred to in section 4 ora Bill tabled in Parliament, ifimplemented would change the budgetsurplus or deficit or would best suit theresources of the country in relation to theexisting laws but -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      446.57,
+      383.87,
+      488.51
+    ],
+    "text": "(a)it is not an assessment ofthe merits of a policy and itshould not provide any policyrecommendations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      497.57,
+      383.87,
+      529.31
+    ],
+    "text": "(b)it does not assess any economicimpacts of a policy or Bill exceptthe impact on the budget; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      538.37,
+      383.84,
+      559.91
+    ],
+    "text": "(c)it does not assess the non-financial impacts of a policy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      568.97,
+      268.3,
+      580.31
+    ],
+    "text": "and shall include-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      589.37,
+      383.88,
+      610.91
+    ],
+    "text": "(i)an assessment of the overall costof the proposal;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      619.97,
+      383.88,
+      651.71
+    ],
+    "text": "(ii)the description of themethodology used to prepare thepolicy costing; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.85,
+      661.97,
+      381.58,
+      673.31
+    ],
+    "text": "(iii)the inputs used for the analysis;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "28Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      202.73,
+      451.18,
+      237.47
+    ],
+    "text": "\u201celection\u201d means an election under theParliamentary Elections Act, No.1 of1981;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      249.53,
+      451.19,
+      307.67
+    ],
+    "text": "\u201cindependent group\u201d means a group consistingof Members of Parliament, politicians orcandidates at an election, who are nototherwise affiliated with or is a memberof, any recognised political party;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      319.73,
+      378.46,
+      331.07
+    ],
+    "text": "\u201cinformation\u201d shall include-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.15,
+      343.13,
+      451.17,
+      377.87
+    ],
+    "text": "(a)financial, commercial, individualand programme data possessedby public institution;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.15,
+      389.93,
+      451.16,
+      413.03
+    ],
+    "text": "(b)financial models and costingmodels; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.15,
+      425.09,
+      451.18,
+      494.87
+    ],
+    "text": "(c)non-financial data, such as datafrom the Department of Censusand Statistics, and legal advicethat the Government relies on todesign and implement a policyor Bill tabled on Parliament;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      506.93,
+      451.18,
+      565.07
+    ],
+    "text": "\u201cmanifesto\u201d means a publication issued by arecognised political party or anindependent group before an election andmay include any commitments made atan election platform;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      577.13,
+      451.19,
+      623.63
+    ],
+    "text": "\u201cpublic corporation\u201d shall have the samemeaning assigned to such expression inthe Constitution Democratic SocialistRepublic of Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      262.15,
+      635.69,
+      451.18,
+      670.91
+    ],
+    "text": "\u201cPublic Institution\u201d means any Ministry,Department of Government, publiccorporation, local authority and business",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.21,
+      166.97,
+      383.85,
+      191.39
+    ],
+    "text": "29Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      395.85,
+      519.19,
+      456.58,
+      547.46
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      218.85,
+      204.89,
+      383.89,
+      360.23
+    ],
+    "text": "or other undertaking within the meaningof the Conversion of Government OwnedBusiness Undertakings into PublicCorporations Act, No. 22 of 1987, or acompany registered or deemed to beregistered under the Companies Act,No. 07 of 2007, in which the Government,a public corporation or any localauthority holds more than fifty percentum of the shares and any Ministry orDepartment of any Provincial Council orany Authority established by or createdby a Provincial Council;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      194.85,
+      372.89,
+      383.88,
+      432.23
+    ],
+    "text": "\u201cpublic resources\u201d means any property or assetowned by any Public Institution,including, but not limited to, money,funds, land, buildings, facilities,equipment, supplies and vehicles; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      194.85,
+      444.89,
+      383.89,
+      492.23
+    ],
+    "text": "\u201crecognised political party shall have the samemeaning assigned to such expression inthe Constitution Democratic SocialistRepublic of Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      516.89,
+      383.89,
+      540.23
+    ],
+    "text": "47. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.15,
+      166.97,
+      390.82,
+      191.39
+    ],
+    "text": "30Parliamentary Budget OfficeAct, No. 6 of 2023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.71,
+      633.19,
+      448.99,
+      651.86
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
