@@ -1,0 +1,1417 @@
+Price : Rs. 68.00Postage : Rs. 150.00
+
+This Bill can be downloaded from www.documents.gov.lk
+
+[Bill No. 211]
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OFSRI LANKA
+
+————————
+
+NATIONAL HYDROGRAPHIC
+
+A
+
+BILL
+
+to Make Provisions for Giving Effect to certain Specific Obligations of Sri Lanka Under the International Convention for the Safety of Life At sea 1974; for the Establishment of the National Hydrographic Office; for the Registration of Hydrographic Surveyors and Nautical Cartograpers and for Matters Connected Therewith Or incidental Thereto.
+
+————————
+
+Presented by the Minister of Justice, Prison Affairs and Constitutional Reforms on 20th of October, 2023
+
+(Published in the Gazette on October 12, 2023)
+
+Ordered by Parliament to be printed
+
+————————
+
+National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+AN ACT TO MAKE PROVISIONS FOR GIVINGEFFECT TO CERTAIN SPECIFIC OBLIGATIONS OFSRI LANKA UNDER THE INTERNATIONALCONVENTION FOR THE SAFETY OF LIFE AT SEA 1974;FOR THE ESTABLISHMENT OF THE NATIONALHYDRO GRAPHIC OFFICE; FOR THEREGISTRATION OF HYDROGRAPHIC SURVEYORSAND NAUTICAL CATOGRAPERS AND FORMATTERS CONNECTED THEREWITH ORINCIDENTAL THERETO.
+
+WHEREAS an International Convention for the Safety ofLife at Sea, 1974 was adopted by the International Conferenceon Safety of Life at Sea on November 1, 1974 and entered intoforce on May 25, 1980 (in this Act referred to as the“Convention”):
+
+AND WHEREAS the Government of Sri Lanka acceded tothe International Convention for the Safety of Life at Sea,1974 on August 30, 1983:
+
+AND WHEREAS although the Merchant Shipping Act, No.52 of 1971 as amended by Act, No. 17 of 2019 has alreadygiven effect to the International Convention for the Safety ofLife at Sea, 1974, it is necessary to make specific legalprovisions to give effect to Sri Lanka’s obligations in relationto Regulations 4 and 9 of Chapter V of the aforesaidConvention:
+
+NOW THEREFORE, be it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows: -
+
+1. (1) This Act may be cited as the National HydrographicAct, No. of 2023.
+
+(2)The provisions of this Act other than this Sectionshall come into operation on such date as the Minister mayappoint by Order published in the Gazette.
+
+Preamble.
+
+Short titleand date ofoperation.
+
+L.D. – O. 36/2023
+
+2National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(3) The provisions of this Section shall come intooperation on the date on which the Bill becomes an Act ofParliament.
+
+PART I
+
+ESTABLISHMENT OF THE NATIONALHYDROGRAPHIC OFFICE
+
+2. (1) There shall be established an Office which shall becalled and known as the National Hydrographic Office(hereinafter referred to as the “Office”).
+
+(2) The Office shall, by the name assigned to it bySubsection (1), be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued insuch name.
+
+3. The objects of the Office shall be –
+
+(a)to be responsible for the provision ofhydrographic services required by theConvention;
+
+(b)to produce and maintain accurate nauticalcharts for the safe navigation of ships andto provide information about water depths,underwater features, coastlines, hazardsand aids to navigation;
+
+(c)to collect data for updating and improvingnautical charts and ensure maritime safety;
+
+(d)to establish and maintain aids to navigationand to help mariners to determine theirpositions and navigate safely, especiallyin challenging conditions; and
+
+Establishmentof theNationalHydrographicOffice.
+
+Objects ofthe Office.
+
+3National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(e)to improve hydrographic surveytechniques, data processing methods andtechnologies used in the field.
+
+4. The powers, duties and functions of the Office shallbe –
+
+(a)to collect, preserve, regulate and compilemarine geospatial data for the purpose ofpreparation, distribution, and updating ofall types of navigational charts;
+
+(b)to publish all types of navigational chartsrequired for the safe navigation in themaritime zones of Sri Lanka;
+
+(c)to carryout hydrographic surveying ofmaritime zones of Sri Lanka;
+
+(d)to keep all maritime data which may havean impact on confidentiality and safety ofnational and regional security:
+
+Provided that, the Office shall obtain theconcurrence of the Secretary to theMinistry of the Minister assigned thesubject of Defence before publishing ordisseminating any such data which may inits opinion have a bearing on the nationalsecurity;
+
+(e) to ensure the safety of internationalshipping –
+
+(i)to carryout adequate surveying inaccordance with international hydro-graphic standards and specificationsadopted by Sri Lanka;
+
+Powers,duties andfunctionsof theOffice.
+
+4National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(ii) to publish such specifications by wayof notifications published in theGazette;
+
+(iii) preparation and issuance of nauticalcharts and nautical publications whichinclude routes, lighthouses, obelisks,identification of all types of buoys andbeacons and all information of tidaldata in accordance with acceptedinternational standards;
+
+(iv) to prepare and issue notices to marinerscontaining information on maritimeaccidents and to assist in the rescue ofany person who has encountered withsuch accident; and
+
+(v) to issue instructions regarding theupdated printed and electronic nauticalcharts and publications;
+
+(f)to maintain nautical charts and publi-cations in accordance with internationalconventions and standards;
+
+(g)to provide accurate and reliablehydrographic and navigational informationrelated to the maritime zones of Sri Lanka;
+
+(h)to conduct training on hydrographicsurveying and nautical cartography inaccordance with international conventionsand standards;
+
+(i)to monitor, record prepare reports on tidesin the coastal zone and to publish the samein order to ensure safety and other
+
+5National Hydrographic
+
+navigational requirements in the maritimezones of Sri Lanka;
+
+(j)to collect, regulate, issue, preserve andmaintain all hydrographic survey data,marine data and hydrospatial data as maybe prescribed;
+
+(k)to provide necessary assistance subject tothe relevant written laws to any agency,institution or organization engaged infollowing activities: -
+
+(i)coastal management and development;
+
+(ii) conducting feasibility studies andassessments, dredging operations,maintenance and development of portfacilities;
+
+(iii) coastal erosion monitoring andcontrolling;
+
+(iv) land reclamation from sea and theestablishment of disposal sites at seafor industrial wastes and themonitoring of the same;
+
+(v) conduct research and develop aquaticresources;
+
+(vi) implement any project in cargo andpassenger transport in coastal waters;
+
+(vii) implement infrastructure construction,development and any other project incoastal waters;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+6National Hydrographic
+
+(viii) promote tourism and recreationalactivities in coastal zones; or
+
+(ix) engage in marine pollution preventionand disaster management;
+
+(l)to assist and provide advice in respect ofmaritime boundary demarcation in thewaters of Sri Lanka;
+
+(m)to provide necessary consultancy andother assistance for the developmentactivities including laying of pipelines,undersea cable systems and establishmentof mineral extraction wells and to preservedata and information regarding suchactivities;
+
+(n)to coordinate with other educationalinstitutions engaged in the hydrographicand marine geospatial information in thewaters of Sri Lanka to maintain prescribededucational standards;
+
+(o)to coordinate with other institutions withinor outside Sri Lanka to maintain highprofessional standards in hydrography;
+
+(p)to conduct higher educational trainingrelated to hydrographic surveying andnautical cartography and to obtainnecessary technical and professionaltraining with the assistance of foreigninstitutions having expertise in the relevantfields;
+
+(q)to assist relevant authorities to enhancesafety in navigation in the waters of
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+7National Hydrographic
+
+Sri Lanka and to provide necessaryassistance to those authorities to manageeconomic activities in the waters of SriLanka;
+
+(r)to receive grants, gifts or donations in cashor kind:
+
+Provided however, the Office shall obtainthe prior written approval of theDepartment of External Resources of theMinistry of the Minister assigned thesubject of Finance, in respect of all foreigngrants, gifts or donations made to theOffice;
+
+(s)to open, maintain and operate any accountwith any bank as it may think appropriate;
+
+(t)to manage, control, administer and operatethe Fund of the Office;
+
+(u)to invest such amount of money belongingto the Office as are not immediately requiredfor the purposes of this Act;
+
+(v)to purchase, hold, take or give on lease orhire, mortgage, pledge, sell or otherwisedispose of any movable or immovableproperty;
+
+(w)to enter into and perform either directly orindirectly through any authorized officeror agent of the Office, all such contracts oragreements as may be necessary, for theexercise, performance and discharge of theits powers, duties and functions;
+
+(x)make rules in respect of the administrationof the affairs of the Office;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+8National Hydrographic
+
+(y)to levy fees or charges for any servicerendered by the Office;
+
+(z)to appoint, employ, remunerate, exercisedisciplinary control or dismiss suchofficers, employees and agents as may benecessary for the carrying out of the objectof the Office;
+
+(aa)to provide training to officers andemployees of the Office within or outsideSri Lanka;
+
+(bb)to appoint committees for the effectivedischarge of its functions; and
+
+(cc)to do all such other acts and things whichmay be incidental or conducive to theattainment of the objects of this Act.
+
+PART II
+
+ADMINISTRATION AND MANAGEMENT
+
+OF AFFAIRS OF THE OFFICE
+
+5. (1) The administration and management of the affairs ofthe Office shall be vested in the National HydrographicCouncil (in this Act referred to as the “Council”).
+
+(2) The Council shall, for the purpose of administeringand managing the affairs of the Office in a manner expedientfor the achievement of the objects of this Act, exercise, performand discharge the powers, duties and functions conferredon, assigned to, or imposed on the Office by this Act.
+
+6. (1) The Council shall consist of –
+
+(a) the following ex-officio members, namely -
+
+Administrationandmanagementof the Officevested in theCouncil.
+
+Constitutionofthe Council.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+9National Hydrographic
+
+(i)Secretary to the Ministry of theMinister assigned the subject ofDefence or his representative not belowthe rank of an Additional Secretary;
+
+(ii) Secretary to the Ministry of theMinister assigned the subject ofFinance or his representative not belowthe rank of an Additional Secretary;
+
+(iii) Secretary to the Ministry of theMinister assigned the subject ofForeign relation or his representativenot below the rank of an AdditionalSecretary;
+
+(iv) Commander of the Sri Lanka Navyappointed in terms of the Navy Act(Chapter 358);
+
+(v) Chairman of the Governing Board ofthe National Aquatic ResourcesResearch and Development Agencyappointed under the National AquaticResources Research and DevelopmentAgency Act, No. 54 of 1981;
+
+(vi) the Surveyor-General;
+
+(vii) Director-General of Merchant Shippingappointed under the of MerchantShipping Act, No.52 of 1971;
+
+(viii)Harbour Master appointed under theSri Lanka Ports Authority Act, No. 51of 1979;
+
+(ix) Director-General of the Department ofCoast Guard appointed under the
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+10National Hydrographic
+
+Department of Coast Guard Act, No. 41of 2009;
+
+(x)Chairman of the University GrantsCommission appointed under theUniversities Act, No. 16 of 1978 or theVice-Chairman of the same;
+
+(xi) Chairman of the Board of Managementof the Geological Survey and MinesBureau appointed under the Mines andMinerals Act, No. 33 of 1992;
+
+(xii) Chairman of the Marine EnvironmentProtection Authority appointed underthe Marine Pollution Prevention Act,No. 35 of 2008;
+
+(xiii)Director-General of Coast Conservation and Coastal ResourceManagement appointed under theCoast Conservation and CoastalResource management Act, No. 57 of1981; and
+
+(xiv)Chairman of the Central EnvironmentalAuthority appointed under theNational Environmental Act, No. 47 of1980; and
+
+(b)three members appointed by the Ministerwho shall possess academic orprofessional qualifications and hasexperience in the fields of hydrography orhydrography related discipline (hereinafterreferred to as “appointed members”).
+
+(2) Where the Commandar of the Sri Lanka Navy isappointed as an ex officio member under subsection (1), such
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+11National Hydrographic
+
+appointment shall be made in terms of the Navy Act ,(Chapter 358) in respect of the performance of non-navalduties under the provisions of that Act.
+
+7. (1) The Minister shall appoint one of the appointedmembers to be the Chairperson of the Council.
+
+(2) The Chairperson may resign from his office by letteraddressed to the Minister and such resignation shall beeffective from the date on which it is accepted by the Minister.
+
+(3) The Minister may for reasons assigned therefor removethe Chairperson from the office of Chairperson.
+
+(4) Subject to the provisions of sub-sections (2) and (3),the term of office of the Chairperson shall be the period of hismembership of the Council.
+
+(5) Where the Chairperson is temporarily unable to exercise,perform and discharge the powers, duties and functions ofhis office due to ill health, other infirmity, absence from SriLanka or any other cause, the Minister may appoint any otherappointed member to act as the Chairperson in addition to hisnormal duties as an appointed member during the absence ofthe Chairperson.
+
+8. A person shall be disqualified from being appointed orcontinuing as a member of the Council, if he –
+
+(a)is or becomes a member of Parliament or ofany Provincial Council or of any localauthority;
+
+(b)is not or ceases to be a citizen of Sri Lanka;
+
+(c)is under any law in force in Sri Lanka orany other country found or declared to beof unsound mind;
+
+(d)is a person who having been declaredinsolvent or bankrupt under any law in
+
+Chairpersonof theCouncil.
+
+Disqualificationsfrom being amember ofthe Council.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+12National Hydrographic
+
+force in Sri Lanka and is an undischargedinsolvent or bankrupt;
+
+(e)is subject to an ongoing investigation inrespect of an offence under any otherwritten law;
+
+(f)is serving or has served a sentence ofimprisonment of more than six monthsimposed by any court in Sri Lanka or anyother country;
+
+(g)holds or enjoys any right or benefit underany contract made by or on behalf of theOffice; or
+
+(h)has any financial or other interest as islikely to affect prejudicially the dischargeby him of his functions as a member of theCouncil.
+
+9. Every appointed member of the Council shall, unless hevacates office earlier by resignation, death or removal, holdoffice for a period of three years from the date of hisappointment and unless is removed from office, shall beeligible for reappointment for not more than one further term,whether consecutive or otherwise.
+
+10. (1) Any appointed member of the Council may at anytime, resign from his office by a letter to that effect, addressedto the Minister, and such resignation shall be effective fromthe date on which it is accepted by the Minister in writing.
+
+(2) Where any appointed member by reason of illness,infirmity or absence from Sri Lanka is temporarily unable todischarge the functions of his office, the Minister may, havingregard to the provisions of paragraph (b) of section 6, appointsome other person to act in his place during his absence.
+
+Resignationand removal.
+
+Term ofoffice.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+13National Hydrographic
+
+(3) The Minister may for reasons assigned, remove anappointed member from office. An appointed member whohas been removed from office shall not be eligible forreappointment as a member of the Council or to serve theCouncil in any other capacity.
+
+(4) Where an appointed member dies, resigns or isremoved from office, the Minister may having regard to theprovisions of paragraph (b) of section 6, appoint anotherperson in his place and the person so appointed shall holdoffice for the unexpired period of the term of office of themember whom he succeeds.
+
+11. (1) The meetings of the Council shall be held at leastonce in every month and the quorum for a meeting of theCouncil shall be seven members.
+
+(2) The Chairperson shall preside at every meeting of theCouncil. In the absence of the Chairperson from any meetingof the Council, a member elected by the members presentshall preside at such meeting.
+
+(3) A meeting of the Council may be held either-
+
+(a)by the number of members who constitutea quorum being assembled at the place, dateand time appointed for the meeting; or
+
+(b)by means of audio-visual linkage by whichall members participating and constitutinga quorum can simultaneously see and heareach participating member for the durationof the meeting.
+
+(4) All questions for a decision at any meeting of theCouncil shall be decided by the vote of the majority ofmembers present at such meeting. In the case of an equalityof votes, the Chairperson shall, in addition to his vote have acasting vote.
+
+Quorum andmeetings ofthe Council.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+14National Hydrographic
+
+(5) Subject to the preceding provisions of this section,the Council may regulate the procedure in relation to themeetings of the Council and the transaction of business atsuch meetings.
+
+12. The Council may act notwithstanding any vacancyamong its members and any act or proceeding of the Councilshall not be or deemed to be invalid by reason only of theexistence of any vacancy among its members or any defectin the appointment of a member thereof.
+
+13. The members of the Council shall be paid remunerationin such manner and at such rates as may be determined bythe Minister, with the concurrence of the Minister assignedthe subject of Finance.
+
+14. (1) The seal of the Office shall be in the custody ofsuch person as the Council may decide from time to time.
+
+(2) The seal of the Office may be altered in such manner asmay be determined by the Council.
+
+(3) The seal of the Office shall not be affixed to anyinstrument or document except with the sanction of theCouncil and in the presence of the Chairperson and one othermember of the Council who shall sign the instrument ordocument in token of their presence:
+
+Provided however, where the Chairperson is unable to bepresent at the time when the seal of the Office is affixed toany instrument or document, any other member of the Councilauthorised in writing by the Chairperson in that behalf shallbe competent to sign such instrument or document inaccordance with the preceding provision of this sub-section.
+
+(4) The Office shall maintain a register of the instrumentsand documents to which the seal of the Office has beenaffixed.
+
+Acts orProceedingsof the Councildeemed not tobe invalid byreason of anyvacancy.
+
+Remunerationof themembers ofthe Council.
+
+Seal, logo andflag of theOffice.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+15National Hydrographic
+
+(5) There shall be a logo exclusive for the use of the Office.
+
+(6) There shall be a flag to maintain the identity of theOffice.
+
+(7) A person who knowingly or wilfully misuses the seal,logo or the flag of the Office under this Act, commits anoffence under this Act and on conviction after summary trialbefore a Magistrate be liable to a fine not exceeding twomillion rupees or to imprisonment for a term not exceedingtwo year or to both such fine and imprisonment.
+
+PART III
+
+NATIONAL HYDROGRAPHER AND THE STAFFOF THE OFFICE
+
+15. (1) There shall be a National Hydrographer of theOffice appointed by the Council in consultation with theMinister.
+
+(2) The person appointed as the National Hydrographershall –
+
+(a)be a citizen of Sri Lanka;
+
+(b)be physically and mentally fit;
+
+(c)be a Hydrographic Surveyor or a NauticalCartographer with at least fifteen yearsexperience in –
+
+(i)nautical charting and related activities;
+
+(ii) practical use of electronic and printednautical charts and nauticalpublications; and
+
+Appointmentof theNationalHydrographerof theOffice.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+16National Hydrographic
+
+(iii) hydrographic project management;
+
+(d)be not more than fifty five years of age asat the date of appointment; and
+
+(e)be competent, of high moral integrity andof good repute.
+
+(3) The National Hydrographer, unless he vacates officeearlier by death, by operation of law, resignation or removalshall hold office for a term of three years and unless removedfrom the office shall be eligible for reappointment subject to amaximum period of any three terms of office whetherconsecutive or otherwise.
+
+(4) The National Hydrographer shall, subject to the generalor special directions of the Council, –
+
+(a)be charged with the conduct of day to dayadministration of the affairs of the Officeincluding the administration and controlof the staff;
+
+(b)be responsible for the execution of alldecisions of the Council; and
+
+(c)carry out all such functions as may beassigned to him by the Council.
+
+(5) The National Hydrographer shall be the Secretary tothe Council and be present and speak at any meeting of theCouncil, but shall not be entitled to vote at such meeting.
+
+(6) The National Hydrographer may, with the approval ofthe Council, wherever he considers it necessary to do so,delegate in writing to any officer or employee of the Office,any of his functions referred to in subsection (4) and theofficer or employee to whom any such function is delegatedshall discharge them subject to the directions of the NationalHydrographer.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+17National Hydrographic
+
+(7) The Council may remove the National Hydrographerfrom office –
+
+(a)if he becomes permanently incapable ofperforming his duties;
+
+(b)if he had done any act which the Councilhas decided to be of a fraudulent or illegalcharacter or is prejudicial to the interestsof the Office; or
+
+(c)has failed to comply with any directionissued by the Council.
+
+(8) The National Hydrographer shall be paid suchremuneration as may be determined by the Council with theconcurrence of the Minister assigned the subject of Finance.
+
+16. (1) Subject to the provisions of this Act, the Officemay employ or appoint such officers and employees as maybe necessary for the efficient exercise, performance anddischarge of its powers, duties and functions.
+
+(2) The Council shall have the power subject to theprovisions of the Act to –
+
+(a)exercise disciplinary control over anddismiss the officers and employees of theOffice appointed under subsection (1);
+
+(b)determine the terms and conditions ofservice of officers and employees of theOffice appointed under subsection (1); and
+
+(c)fix the rates at which such officers andemployees shall be remunerated with theconcurrence of the Minister assigned thesubject of Finance.
+
+Staff of theOffice.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+18National Hydrographic
+
+(3) All officers and employees of the Office shall, withinone month of employment, declare in writing to the Office oftheir personal direct or indirect interest to the affairs andtransactions of the Office including those of their closerelations or, concerns in which such officer or employee hasa substantial interest.
+
+(4) The Office may establish and regulate pension andprovident funds and schemes for the benefit of the NationalHydrographer and its officers and employees and theirdependants and nominees with the concurrence of theMinister assigned the subject of Finance and may makecontributions to any such fund or scheme.
+
+(5) The Office shall promote and sponsor the training ofits officers and employees and for this purpose, the Officeshall be authorised to defray the costs of study, in Sri Lankaor abroad of the officers and employees of the Office whoare of proven merit as determined by the Office.
+
+(6) The Office shall establish a code of conduct whichshall be applicable to the officers and employees of the Office.
+
+(7) The Office shall not appoint any person to the staff ofthe Office under subsection (1), where such person –
+
+(a)has been previously found guilty ofserious misconduct by a court or tribunalor has been subject to a disciplinary actionby a regulatory body;
+
+(b)has been previously dismissed fromoffice; or
+
+(c)has committed a breach of the provisionsof this Act, regulations or rules madethereunder.
+
+(8) At the request of the Office, any officer in the publicservice may, with the consent of the officer and the Public
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+19National Hydrographic
+
+Service Commission be temporarily appointed to the Officefor such period as may be determined by the Office or withlike consent, be permanently appointed to such staff.
+
+(9) Where any officer in the public service is temporarilyappointed to the staff of the Office, the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991, shall mutatis mutandis, applyto and in relation to such officer.
+
+(10) Where any officer in the public service is permanentlyappointed to the staff of the Office, the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991, shall mutatis mutandis, applyto and in relation to such officer.
+
+(11) Where the Office employs any person who has agreedto serve the Government for a specified period, any period ofservice to the Office by that person shall be regarded asservice to the Government for the purpose of discharging theobligations of such agreement.
+
+(12) At the request of the Office any officer of the SriLanka Army, Sri Lanka Navy or Sri Lanka Air Force may, withthe written sanction of the Commander of the Army,Commander of the Navy or the Commander of the Air Force,as the case may be, be temporarily appointed to the Office forsuch period as may be determined by the Office subject tothe provisions of the Army Act (Chapter 357), Navy Act(Chapter 358), and the Air Force Act (Chapter 359), as thecase may be.
+
+(13) The Office may with the consent of such officer oremployee propose secondment of its officers or employeesto other state institutions or regulatory authorities in Sri Lankaor abroad for a period determined by the Office on anassignment agreed upon between such institution or the
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+20National Hydrographic
+
+authority and the Office. The period of secondment shall be
+
+deemed to be considered as service to the Office.
+
+PART IV
+
+REGISTRATION AS HYDROGRAPHIC
+
+SURVEYORS OR NAUTICAL CARTOGRAPHERS
+
+17. (1) A person shall not practice as a HydrographicSurveyor or as a Nautical Cartographer unless such person is
+
+registered under the provisions of section 18 of this Act:
+
+Provided that, any Hydrographic Surveyor or a Nautical
+
+Cartographer who is engaged in the practice of hydrographicsurveying or nautical cartography other than on the Sri Lanka
+
+internal waters on the date of commencement of this Act shall,within Two years from the date of commencement of this Act,
+
+register himself under the provisions of section 18.
+
+(2) Any person who fails to comply with the provisions ofsubsection (1) commits an offence under this Act and shall
+
+on conviction after summary trial before a Magistrate be liableto a fine not exceeding hundred thousand rupees or to
+
+imprisonment for a term not exceeding six months or to bothsuch fine and imprisonment.
+
+18. (1) A person who wishes to practice as a Hydrographic
+
+Surveyor or a Nautical Cartographer shall make an applicationto the Office for registration.
+
+(2) The applicant under subsection (1) shall possess suchqualifications and experience as may be prescribed.
+
+HydrographicSurveyors orNauticalCartographersto registerunder thisAct.
+
+Applicationforregistrationas aHydrographicSurveyor or aNauticalCartographer.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+21National Hydrographic
+
+(3) An application under subsection (1) shall besubstantially in a form as may be prescribed by regulation
+
+and accompanied by a prescribed fee.
+
+(4) The Office may require an applicant to furnish furtherinformation in connection with an application as it may specify.
+
+(5) An applicant shall bear the cost incurred in connection
+
+with the verification of information submitted in support ofan application.
+
+(6) Upon the receipt of an application under subsection(1), the office shall on consideration of the matters contained
+
+in the application decide either to register as a HydrographicSurveyor or a Nautical Cartographer subject to the provision
+
+of this Act and to such terms and conditions specified thereinor for the reasons to be recorded by it refuse to register as a
+
+Hydrographic Surveyor or a Nautical Cartographer.
+
+(7) The Office shall in writing inform the applicant of itsdecision and in the case of a refusal to register, it shall state
+
+its reasons therefor within one month from the date ofinforming the said decision.
+
+(8) A Hydrographic Surveyor or a Nautical Cartographer
+
+registered under this section shall be granted with a Certificateof Registration in the respective field in the form and manner
+
+as may be prescribed (hereinafter referred to as the “Certificateof Registration”).
+
+(9) The Certificate of Registration shall include such termsand conditions subject to which such registration has been
+
+granted.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+22National Hydrographic
+
+19. (1) A Certificate of registration that has been grantedunder this Act shall unless cancelled earlier be valid for a
+
+period of one year from the date of the issue of the Certificateof Registration.
+
+(2) The Office may cancel a Certificate of Registrationissued under section 18, if it is satisfied that the holder of the
+
+Certificate of Registration has violated the provisions of theAct or regulations made thereunder or any of the terms and
+
+conditions of such Certificate of Registration.
+
+20. A Certificate of Registration issued under section 18shall be renewable on an application in a form as may be
+
+prescribed being made in that behalf to the Office not laterthan thirty day before the expiry of the Certificate of
+
+Registration and be accompanied by a fee as may beprescribed:
+
+Provided that, any Hydrographic Surveyor or a Nautical
+
+Cartographer who is a public officer shall not be required torenew the registration under this section for so long as such
+
+officer serves as a public officer.
+
+21. (1) Where an application is made for the registration or
+
+renewal of a Certificate of Registration, the Office may refuseto register or renew the Certificate of Registration on any of
+
+the following grounds: -
+
+(a) non-compliance with the rules made in thatbehalf;
+
+(b) failure to comply with the provisions of this
+
+Act or, regulations or rules madethereunder;
+
+Renewal ofCertificate ofRegistration.
+
+Refusal toregister orrenew aCerificate ofRegistration.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Duration of aregistration.
+
+23National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+(c)the information or documents furnished bythe applicant to the Office is false ormisleading or, material omissions exist; or
+
+(d)has been convicted for an offence underthe provisions of this Act.
+
+(2) The Office shall not refuse to register or renew theCertificate of Registration without giving the applicant anopportunity of being heard.
+
+22. (1) Every Hydrographic Surveyor or a NauticalCartographer, as the case may be, who is registered undersection 18, shall have the right to use, if such person is –
+
+(a) a Hydrographic Surveyor, the abbreviateddesignation “HyS”; and
+
+(b)a Nautical Cartographer, the abbreviateddesignation “NauC”.
+
+(2) A person shall not use any abbreviated designationreferred to in subsection (1) unless such person is registeredas a Hydrographic Surveyor or a Nautical Cartographer underthe provisions of this Act.
+
+23. (1) Where the Office is satisfied that any HydrographicSurveyor or a Nautical Cartographer –
+
+(a)has contravened the provisions of this Act, or anyregulation or rule made thereunder;
+
+(b)has contravened any term or condition of theCertificate of Registration issued under section 18;or
+
+(c)has been found guilty of a prescribed act orprofessional misconduct, after an inquiry held bythe Complaint Resolution Committee established bythe Office under section 26,
+
+Use ofabbreviateddesignations
+
+Cancellationor suspensionof aregistration
+
+25
+
+30
+
+National Hydrographic24
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+the Office shall take steps to suspend the registration ofsuch Hydrographic Surveyor or a Nautical Cartographerissued under section 18 and cause a notice of suchsuspension be issued forthwith to such HydrographicSurveyor or a Nautical Cartographer.
+
+(2) Any such notice shall specify the grounds on whichthe decision of the Office is based on, and shall indicate thatsuch Hydrographic Surveyor or the Nautical Cartographermay within a period of one month commencing from the dateof receipt of the notice submit to the Office in writing anyreason as to why the registration shall not be cancelled.
+
+(3) Where such Hydrographic Surveyor or the NauticalCartographer, as the case may be, fails to submit the reasonswithin the period of one month or where the Office is notsatisfied with the reasons given by the HydrographicSurveyor or the Nautical Cartographer, the Office may cancelthe registration of such Hydrographic Surveyor or theNautical Cartographer as the case may be, and inform suchperson in writing about such cancellation.
+
+(4) Where any Hydrographic Surveyor or a NauticalCartographer is convicted for an offence under this Act, theCertificate of Registration issued to such person under section18 shall –
+
+(a)where no appeal is preferred against the conviction,be cancelled; or
+
+(b) where an appeal is preferred in terms of relevantwritten law, be suspended until the decision of theappellate court to which the appeal is preferred ispronounced.
+
+(5) Where the registration of a Hydrographic Surveyor ora Nautical Cartographer is cancelled, the name of such personshall be removed from the registers kept under section 37 ofthis Act.
+
+(6) Any person whose registration is cancelled under thissection shall within fourteen days handover his respectiveCertificate of Registration to the Office.
+
+25National Hydrographic
+
+5
+
+10
+
+15
+
+20
+
+25
+
+PART VAPPEALS
+
+24. (1) Any person who is aggrieved by the decision ofthe Office other than under subsection (4) of section 23 maywithin thirty days of being notified of such decision, appealto the Appeals Board appointed by the Minister for thispurpose under section 25.
+
+(2) The Appeals Board may, after taking into considerationall the relevant factors and where it is appropriate andreasonable –
+
+(a)allow the appeal and vary the decision of the Officeor confirm such decision; or
+
+(b)disallow the appeal.
+
+25. (1) The Minister shall appoint an Appeals Board whichshall consist of –
+
+(a)a registered Hydrographic Surveyor or aNautical Cartographer with at least fiveyears experience;
+
+(b)an Attorney - at - Law who is qualified inthe field of maritime law with at least tenyears experience in the relevant field; and
+
+(c)a Class 1 officer of the Sri LankaAdministrative Service.
+
+(2) The Minister when appointing the members of theAppeals Board may consult the Office.
+
+(3) The members of the Appeals Board shall hold officefor a term of three years from the date of appointment andshall be eligible for reappointment.
+
+Appeals
+
+AppealsBoard
+
+National Hydrographic26
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(4) The Minister may make regulations prescribing themanner in which the meetings and business of the AppealsBoard shall be carried out.
+
+(5) The Appeals Board shall inform its decision to theOffice.
+
+(6) Upon receiving the decision of the Appeals Board,the Office shall forthwith inform the appellant of such decisionand act in accordance with the decision of the Appeals Board.
+
+(7) The members of the Appeals Board may be paid suchremuneration as may be determined by the Minister with theconcurrence of the Minister assigned the subject of Finance.
+
+26. (1) The Office shall establish a Complaints ResolutionCommittee (hereinafter referred to as the “Committee”)comprising of such officers authorised by the Office to hearcomplaints by any person relating to the professionalmisconduct or breach of any provision of this Act, orregulations or rules made thereunder
+
+(2) The Committee may hold such inquiries as may bedeemed necessary or expedient and for such purposesummon and call upon any person to appear before theCommittee to give evidence or to produce any book ordocument in the possession or control of such person as arerequired for the purpose of such inquiries.
+
+(3) The Office shall establish an appropriate procedurefor handling such complaints and all matters incidentalthereto by rules made under this Act.
+
+(4) The Committee may on receipt of any written complaintmade by a person, examine the evidence produced beforesuch Committee to find whether any prescribed act ofprofessional misconduct has been committed by theHydrographic Surveyor or Nautical Cartographer, againstwhom the complaint is made.
+
+Inquiry byComplaintsResolutionCommittee
+
+27National Hydrographic
+
+(5) Where the Committee finds that a person hascontravened any provision of this Act, or regulations or arules made thereunder, the Committee shall convey suchfinding with a recommendation to the Office and the Officeshall have the discretion to either give effect to suchrecommendation or take any other action as it may deemexpedient.
+
+(6) The Office shall not take any action under this sectionwithout affording the person an opportunity of being heard.
+
+PART VI
+
+FINANCE
+
+27. (1) The Office shall have its own Fund (hereinafterreferred to as “the Fund”).
+
+(2) There shall be credited to the Fund –
+
+(a)all such sums of money as may be votedfrom time to time by Parliament, for the useof the Office;
+
+(b) all such sums of money as may be receivedby the Office in the exercise and dischargeof its powers, duties and functions underthis Act; and
+
+(c)all such sums of money as may be receivedby the Office by way of income, fees,charges, grants, gifts or donations fromany source whatsoever whether within oroutside Sri Lanka:Provided that, the Officeshall obtain the prior written approval ofthe Department of External Resources ofthe Ministry of the Minister assigned thesubject of Finance, in respect of all foreigngrants, gifts or donations made to theOffice.
+
+Fund of theOffice
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic28
+
+(3) There shall be paid out of the Fund –
+
+(a)all such sums of money as are required todefray any expenditure incurred by theOffice in the exercise, performance anddischarge of its powers, duties andfunctions under this Act; and
+
+(b) all such sums of money as are required tobe paid out of the Fund by or under thisAct.
+
+28. (1) The financial year of the Office shall be the calendaryear.(2) The Council shall cause proper books of accounts tobe kept of the income and expenditure, assets and liabilitiesand all other transactions of the Office.
+
+(3) The provisions of Article 154 of the Constitutionrelating to the audit of the accounts of public corporationsshall apply to the audit of accounts of the Office.
+
+(4) The Council shall submit the audited statement ofaccounts together with the auditor’s report to the Ministerwithin five months of the end of the financial year to whichsuch report relates. The Minister shall place such statementand the report before Parliament within two months of thereceipt thereof.
+
+PART VII
+
+GENERAL
+
+29. (1) The Council may in writing and subject to suchconditions as may be specified therein, delegate to theNational Hydrographer the powers, duties and functionsconferred on the Council under paragraphs (a) and (b) ofsubsection (2) of section 16 and the National Hydrographer
+
+Financialyear andaudit ofaccounts.
+
+Delegationof thepowers ofthe Council.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+29National Hydrographic
+
+shall exercise, perform and discharge such powers, duties andfunctions in the name and on behalf of the Council.
+
+(2) The Council may, notwithstanding any delegation madeunder subsection (1), by itself exercise, perform or dischargeany power, duty or function so delegated and may at any timerevoke any such delegation.
+
+30. No civil or criminal proceedings shall be institutedagainst the National Hydrographer, any officer or employee ofthe Office or any member of the Council, for any act which ingood faith is done or purported to be done by him under thisAct or on the directions of the Office or the Council as thecase may be, if he proves that he acted in good faith andexercised all due diligence, reasonable care and skill.
+
+31. (1) Every member of the Council, the NationalHydrographer, and every officer or employee of the Officeshall, before entering into the duties of his office sign adeclaration that he will not disclose any information receivedby him or coming to his knowledge in the exercise, performanceand discharge of his powers, duties and functions under thisAct except for the purpose of giving effect to the provisionsof this Act to the extent permitted under the provisions ofRight to Information Act, No. 12 of 2016.
+
+(2) Any person who contravenes the provisions ofsubsection (1), commits an offence under this Act, and shallon conviction after summary trial before a Magistrate be liableto a fine not exceeding one hundred thousand rupees or toimprisonment of either description for a term not exceedingone year or to both such fine and imprisonment.
+
+32. (1) The Office shall create, manage and maintain adatabase of all hydrographic survey data, marine data andhydrospatial data collected by the Office.
+
+Protectionfor actiontaken underthis Act
+
+Duty tomaintainSecrecy
+
+Database
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic30
+
+(2) The Office shall take all necessary steps includingtechnical safeguards to ensure the security of all its databasesand data.
+
+33. (1) The duplicates of all the nautical charts and nauticalpublications prepared by every registered HydrographicSurveyor or a Nautical Cartographer during the precedingmonth to be submitted to the Office on or before the fifteenthday of every month together with a list in duplicate in suchform and manner as may be prescribed.
+
+(2) The Office shall maintain such duplicates in the formand manner as may be prescribed.
+
+(3) Where any nautical chart or fair sheet is not preparedby a Hydrographic Surveyor or a Nautical Cartographer inany month, such person shall, unless he is absent from SriLanka furnish a nil list for that month on or before the fifteenthday of the following month.
+
+(4) A Hydrographic Surveyor or a Nautical Cartographerwho fails to submit the duplicates commits a professionalmisconduct under the provisions of this Act.
+
+34. (1) A person who knowingly or willfully removes,destroys, alters the position of or markings on anyhydrographic survey mark at the sea or coastal area, buoysor beacons that have been placed or set up for the control ofhydrographic surveys or delineation of boundaries oridentification of danger or for the purpose of any surveyconducted under this Act, commits an offence under thisAct and shall on conviction after summary trial before aMagistrate be liable to a fine not exceeding one million rupeesor to imprisonment for a term not exceeding one year or toboth such fine and imprisonment.
+
+Duplicates .
+
+Interferencewith surveymarks.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+31National Hydrographic
+
+(2) Any person who is convicted under subsection (1)shall, in addition to the fine or term of imprisonment or bothfor which such person is liable also be liable to such costs asmay be determined by the Office in respect of repairing,replacing or restoring any such survey marks, buoys orbeacons specified in subsection (1).
+
+35. (1) For the purpose of exercise, performance anddischarge of the powers, duties and functions, it shall belawful for the Office or any person authorised by the Officeto conduct the following: -
+
+(a)to have access to any place, premises, vehicle,aircraft or a vessel;
+
+(b)to place or enact any permanent light, benchmark,reference mark or any temporary flag, sign or othermark for the purpose of hydrographic surveying;and
+
+(c)to remove any flora or fauna obstructing any beacon,mark, trigonometrical point, flag, buoy or signalunless it is prohibited under any other written law.
+
+(2) For the purpose of exercising the powers specifiedunder subsection (1) –
+
+(a)prior written notice shall be given to the owner,occupier or the person in possession of the place,premises, vehicle, air craft or vessel within areasonable period of time;
+
+(b)the owner, occupier or the person in possessionshall be reimbursed with any damage caused to suchperson’s property while carrying out any power,duty or function under subsection (1) in the mannerspecified by the Office; or
+
+Power toaccess anyplace
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic32
+
+(c) prior written approval of the relevant authority beobtained if the access to any place, premises,vehicle, aircraft or vessel is restricted due to nationalsecurity or under the provision of any other writtenlaw.
+
+36. Any vessel used for the hydrographic surveying inthe waters of Sri Lanka and any mechanical or non-mechanicalequipment shall be approved by the Office as may be specifiedby the Office in accordance with the rules made in that behalf.
+
+37. The Office shall, in accordance with the provisions ofthis Act and regulations made thereunder maintain theregisters of the Hydrographic Surveyors and NauticalCartographers in the form and manner as may be prescribed.
+
+38. (1) In terms of the provisions of this Act, where anyimmovable property of the State is required for the purposesof the Office, such purpose shall be deemed to be a purposefor which a special grant or lease of such property be madeto the Office under section 6 of the Crown Lands Ordinance(Chapter 454) and accordingly the provisions of thatOrdinance shall apply to a special grant or lease of suchproperty to the Office for such purpose.
+
+(2) Where any movable property of a Governmentdepartment or any public corporation is required for thepurposes of the Office, the Minister may by Order publishedin the Gazette transfer to and vest in the Office the possessionand use of such movable property.
+
+(3) No Order affecting any movable property of anyGovernment department or public corporation shall be madeby the Minister under subsection (2) without the concurrenceof the Minister assigned with that department or publiccorporation.
+
+39. Where any person contravenes any provision of thisAct or any regulations or rules made thereunder and nopenalty has been specified under this Act in respect of suchcontravention, such person shall, on conviction aftersummary trail by a Magistrate, be liable to a fine not exceedingfifty thousand rupees or to imprisonment of either description
+
+Vessels of thehydrographicservey fleet
+
+Registers tobe kept bythe Office
+
+Statepropertyboth movableandimmovable bemadeavailable tothe Office
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Penalties forcotraventionsfor which nospesificprovisionshave beenmade
+
+33National Hydrographic
+
+for a term not exceeding six months or to both such fine andimprisonment.
+
+40. An officer authorized in writing by the Office shall bedeemed to be a public servant within the meaning of section136 of the Code of Criminal Procedure Act, No. 15 of 1979, forthe purpose of instituting proceedings in respect of offencesunder this Act.
+
+41. The Office shall be deemed to be a ScheduledInstitution within the meaning of the Anti Corruption Act,No. 9 of 2023 and the provisions of that Act shall be construedaccordingly.
+
+42. All members of the Council, the National Hydrographerand all officers and employees of the Office shall be deemedto be public servants within the meaning and for the purposesof the Penal Code (Chapter 19).
+
+43. The Minister may from time to time issue to theCouncil, general or special directions as to the exercise,performance and discharge of the powers, duties andfunctions of the Office.
+
+44. The provisions of this Act shall have effectnotwithstanding anything to the contrary in any other writtenlaw and accordingly in the event of any inconsistency orconflict between the provisions of this Act and such otherwritten law, the provisions of this Act shall prevail.
+
+45. (1) The Minister may make regulations in respect of allmatters required by this Act to be prescribed or in respect ofwhich regulations are authorized by this Act to be made.
+
+(2) In particular and without prejudice to the generality ofthe provisions contained in subsection (1), the Minister maymake regulations in regard to :–
+
+Provisionregardingprosecution
+
+Officedeemed to bea ScheduledInstitutionwithin themeaning ofthe AntiCorruptionActMembers,NationalHydrographer,officers andemployees ofthe Officedeemed to bepublicservants
+
+Directions ofthe Minister
+
+Provisions ofthis Act toprevail overother writtenlaw
+
+Regulations
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic34
+
+(a) the mode and manner of preparation and
+
+maintenance of nautical charts in relation to the
+
+waters of Sri Lanka;
+
+(b)adaptation of international procedures related to
+
+hydrographic services;
+
+(c) the manner in which hydrographic surveys to be
+
+conducted and the form and the manner in which
+
+the nautical charts, fair sheets, digital data and other
+
+records pertaining to a hydrographic survey to be
+
+prepared and the details to be inserted in such
+
+nautical charts, fair sheets, field books and records;
+
+(d)the degree of accuracy to be attained in hydrographic
+
+surveys and the limit of error to be allowed;
+
+(e)the steps to be taken to test the accuracy of
+
+hydrographic surveys and for the correction of any
+
+inaccuracies that may be discovered;
+
+(f) the courses of study and training required to be
+
+obtained by a hydrographic surveyor before
+
+renewing such person’s registration;
+
+(g)guidelines to be followed by registered hydrographicsurveyors and Nautical Cartographers;
+
+(h)form and manner and procedure relating to qualifying
+
+exams and professional tests to be followed by
+
+5
+
+10
+
+15
+
+20
+
+25
+
+35National Hydrographic
+
+persons who intend to register under the provisionsthis Act; and
+
+(i)registration of institutions which provideeducational and professional qualifications to anyperson who intends to obtain a registration underthe provisions of this Act.
+
+(3) Every regulation made by the Minister within threemonths after its publication in the Gazette be brought beforeParliament for approval.
+
+(4) Any regulation which is not so approved shall bedeemed to be rescinded as from the date of such disapprovalbut without prejudice to anything previously done thereunder.
+
+(5) Notification of the date on which any regulation is sodisapproved shall be published in the Gazette.
+
+46. (1) Subject to the provisions of this Act, the Councilmay make rules in respect of all or any of the following matters: -
+
+(a)all matters for which rules are authorised or requiredto be made under this Act;
+
+(b)the meetings of the Council and the procedure to befollowed at such meetings;
+
+(c)code of conduct to be followed by the officers andemployees of the Office and a code of conduct to befollowed by the registered Hydrographic Surveyorsand Nautical Cartographers; and
+
+(d)the appointment, promotion, remuneration anddisciplinary control of officers and employees andthe grant of leave and other emoluments to officersand employees.
+
+Rules
+
+5
+
+10
+
+15
+
+20
+
+25
+
+National Hydrographic36
+
+(2) Every rule made by the Office shall be approved by theMinister and be published in the Gazette and shall come intooperation on the date of its publication or on such later dateas may be specified therein.
+
+47. In this Act, unless the context otherwise requires-
+
+‘‘contiguous zone” means the zone whichmay not extend beyond twentyfour nautical miles from thebaselines from which the breadthof the territorial sea is measured;
+
+‘‘digital data” means information obtained orcreated by the operation ofelectronic equipment in the courseof hydrographic surveying,nautical charting or relatedincidental activities;
+
+‘‘exclusive economic zone” means the zonewhich shall not extend beyond twohundred nautical miles from thebaselines from which the breadthof the territorial sea is measured;
+
+‘‘Fair sheets” means bathymetric data set indigital or graphic formats;
+
+‘‘hydrography” means the branch of appliedsciences which deals with themeasurement and description of thephysical features of oceans, seas,coastal areas, lakes and rivers, aswell as with the prediction of theirchange over time, for the primary
+
+Interpretation5
+
+10
+
+15
+
+20
+
+25
+
+37National Hydrographic
+
+purpose of safety of navigationand in support of all other marineactivities, including economicdevelopment, security anddefence, scientific research, andenvironmental protection.;
+
+‘‘hydrographic services” includes themanagement, maintenance,interpretation, certification anddissemination of bathymetric,hydrographic, shoreline, geodetic,geospatial, geomagnetic, and tide,water level, and currentinformation, including theproduction of nautical charts,nautical information databases,and other products derived fromhydrographic data; the development of nautical informationsystems and related activities;
+
+‘‘hydrographic survey” means any conductof hydrography;
+
+‘‘hydrographic surveyor” means any personwho studies and practices thescience of hydrography complieswith the international standard ofcompetence as laid down by theinternational organizations;
+
+‘‘hydrospatial data” means the data,information or knowledge that isassociated with a particular
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic38
+
+location and time of the earth’swater and contiguous zone;
+
+‘‘internal waters” mean waters locatedlandward of the base lines fromwhich the territorial sea ismeasured and includes such asrivers, lakes, ponds and reservoirsof Sri Lanka;“marine data” means any data which isrelated to the sea and the creaturesand plants that live therein;
+
+‘‘marine geospatial data” includes densedata on the depth of oceans,magnetic nature, gravity changes,sound wave propagation in seawater temperature and pressurevariations, behaviour of oceancurrents and tides in the coastalzone of Sri Lanka;‘‘maritime zone” means any maritime zonedeclared under the MaritimeZones Law, No. 22 of 1976 andincludes –(a) the contiguous zone;(b) the exclusive economic zone;(c) the continental shelf; and(d) the pollution prevention zone,
+
+declared by Proclamation in terms of theaforesaid Law, and any other zonewhich may be declared at a futuredate under the said Law.
+
+‘‘Minister” means the Minister assigned thesubject ofthe
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+39National Hydrographic
+
+Defence under Article 44 or 45 of theConstitution;
+
+‘‘nautical cartography” means the art andscience of expressing electronic orprinted nautical charts by meansof computer hardware andsoftware which aids humans tomake decisions and perform theirfunctions;
+
+‘‘nautical cartographer” means the personemployed in drawing andconstructing electronic or printednautical charts complies with theinternational standard ofcompetence as laid down by theinternational organizations;
+
+‘‘nautical charting” means the activity orprocess of making a digital orprinted chart of water bodies;
+
+‘‘nautical charts” means a measurement,electronic or printed presentation,in, graphical or numerical form, ora combination of such forms, ofthe depth, nature of the bottom,elevation, magnetism or otherinformation of water and land,including water and land (whethernatural or both) otherwise or aprojection by which information iscompiled to enable mariners tonavigate their vessels safely;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+National Hydrographic40
+
+‘‘navigation” means the process of directingthe movement of a craft from onepoint to another;
+
+‘‘notices to mariners” means corrections tonautical charts and publications.These only contain informationwhich is vitally important tosafety at sea;
+
+‘‘ocean” means the vast body of water onthe surface of the globe, whichsurrounds the land the main orgreat sea, one of the main areasinto which this body of water isdivided geographically;
+
+‘‘Pollution prevention zone’’ means the zonewhich is formulated to prevent,reduce, control and managepollution arising out of ship basedactivity and shore based maritimerelated activity in the territorialwaters of Sri Lanka or any othermaritime zone, its fore-shore andthe coastal zone of Sri Lanka;
+
+‘‘prescribed” means prescribed byregulations made under this Act;
+
+‘‘public officer” shall have the same meaningassigned to such expressionunder the Constitution;‘‘sea” means the great body of salt water ingeneral, as opposed to land;
+
+10
+
+15
+
+20
+
+25
+
+5
+
+30
+
+41National Hydrographic
+
+‘‘territorial waters” includes the territorial seaand the historic waters of SriLanka;
+
+‘‘waters of Sri Lanka” includes internalwaters and territorial sea of SriLanka.
+
+48. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.
+
+Sinhala textto prevail incase ofinconsistency
+
+5
+
+4
+
+DEPARTMENT OF GOVERNMENT PRINTING.
