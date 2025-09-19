@@ -1,0 +1,592 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      234.1,
+      442.53,
+      290.65
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      302.09,
+      330.68,
+      313.43
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      571.01,
+      195.45,
+      582.35
+    ],
+    "text": "[Bill No. 290]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      554.57,
+      330.68,
+      565.91
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.25,
+      480.53,
+      419.98,
+      504.11
+    ],
+    "text": "Presented by the Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle,M.P. for Gampaha District on 21st of August, 2024",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      513.89,
+      382.89,
+      525.23
+    ],
+    "text": "(Published in the Gazette on July 21, 2024)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      534.89,
+      369.36,
+      546.23
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      365.67,
+      299.27,
+      379.28
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      387.27,
+      309.81,
+      400.88
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      588.67,
+      394.65,
+      597.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      598.27,
+      398.61,
+      607.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      615.29,
+      451.18,
+      626.63
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.09,
+      688.59,
+      169.65,
+      702.2
+    ],
+    "text": "2-2d",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.13,
+      629.31,
+      78.57,
+      642.59
+    ],
+    "text": "2-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      663.07,
+      340.89,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.69,
+      125.43,
+      143.13,
+      138.71
+    ],
+    "text": "Ww",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.09,
+      84.75,
+      174.81,
+      98.03
+    ],
+    "text": "ws",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.65,
+      331.59,
+      412.62,
+      345.2
+    ],
+    "text": "MATERNITY BENEFITS (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.17,
+      421.25,
+      418.18,
+      432.59
+    ],
+    "text": "to amend the Maternity Benefits Ordinance (Chapter 140)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.49,
+      451.13,
+      331.64,
+      462.47
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.21,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "Maternity Benefits (Amendment)1",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.33,
+      330.41,
+      149.33,
+      341.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      291.07,
+      442.3,
+      300.14
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      415.97,
+      154.29,
+      427.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      513.17,
+      154.29,
+      524.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.13,
+      203.69,
+      360.57,
+      229.19
+    ],
+    "text": "AN ACT TO AMEND THE MATERNITY BENEFITSORDINANCE (CHAPTER 140)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      246.05,
+      401.9,
+      271.43
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      288.29,
+      401.89,
+      313.79
+    ],
+    "text": "1. This Act may be cited as the Maternity Benefits(Amendment) Act, No. of 2024.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      330.65,
+      401.92,
+      384.23
+    ],
+    "text": "2. Section 3 of the Maternity Benefits Ordinance(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended by the insertion of subsection (1) (c) and (1) (d) ofthat section, as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.89,
+      401.09,
+      401.87,
+      440.63
+    ],
+    "text": "''(c) seven days from the date of miscarriage, if themiscarriage occurs in the first twenty eight weeksof pregnancy; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.05,
+      457.49,
+      401.88,
+      482.99
+    ],
+    "text": "(d) seven days from the date of termination ofpregnancy under medical grounds''.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      499.85,
+      401.89,
+      525.23
+    ],
+    "text": "3. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      332.59,
+      452.25,
+      380.06
+    ],
+    "text": "Amendmentof section 3of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.33,
+      502.63,
+      455.62,
+      540.5
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      342.8,
+      178.31
+    ],
+    "text": "2Maternity Benefits (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.31,
+      646.87,
+      360.32,
+      655.94
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

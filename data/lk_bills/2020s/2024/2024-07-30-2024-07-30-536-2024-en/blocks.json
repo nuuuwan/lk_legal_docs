@@ -1,0 +1,2629 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      166.37,
+      441.33,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      239.85,
+      229.71,
+      359.85,
+      243.32
+    ],
+    "text": "Part II of July 26, 2024",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      258.51,
+      341.85,
+      272.12
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      287.31,
+      354.61,
+      300.92
+    ],
+    "text": "(Issued on 30.07.2024)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      183.57,
+      422.19,
+      416.01,
+      450.2
+    ],
+    "text": "KODHAGODA GUNARATHANA NAHIMIFOUNDATION (INCORPORATION)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      484.97,
+      303.71,
+      496.31
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      508.97,
+      311.85,
+      520.31
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.49,
+      534.89,
+      429.19,
+      546.23
+    ],
+    "text": "to incorporate Kodhagoda Gunarathana Nahimi Foundation",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.33,
+      561.89,
+      445.03,
+      573.23
+    ],
+    "text": "To be presented in Parliament by Hon. Yadamini Gunawardena M. P.",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.09,
+      615.17,
+      456.08,
+      626.51
+    ],
+    "text": "Price : Rs. 24.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.09,
+      588.91,
+      393.09,
+      597.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      598.51,
+      404.25,
+      607.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      661.15,
+      401.85,
+      670.22
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.25,
+      459.77,
+      349.53,
+      471.11
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.37,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "1Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.29,
+      302.93,
+      153.29,
+      314.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      384.89,
+      156.09,
+      396.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      479.93,
+      156.09,
+      491.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      563.93,
+      156.09,
+      575.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      634.97,
+      155.01,
+      646.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163.89,
+      205.49,
+      400.17,
+      230.63
+    ],
+    "text": "AN ACT TO INCORPORATE THE KODHAGODA GUNARATHANA NAHIMIFOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      246.89,
+      402.25,
+      327.23
+    ],
+    "text": "WHEREAS a Foundation called and known as the\u201cKodhagoda Gunarathana Nahimi Foundation\u201d hasheretofore been formed in Sri Lanka for the purpose ofeffectually carrying out its objects and transacting all mattersconnected with the said Foundation according to the rulesagreed by its members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      343.49,
+      402.26,
+      410.03
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted several objects andmatters for which it was established, and has applied to beincorporated, and it will be expedient to grant the saidapplication:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      426.29,
+      402.29,
+      451.43
+    ],
+    "text": "BE it therefore, enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      467.69,
+      402.34,
+      506.56
+    ],
+    "text": "1. This Act may be cited as the KodhagodaGunarathana Nahimi Foundation (Incorporation)Act, No. of 2024.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      522.89,
+      402.42,
+      672.64
+    ],
+    "text": "2. (1) From and after the date of commencement of thisAct, such and so many persons as now are members of theKodhagoda Gunarathana Nahimi Foundation (hereinafterreferred to as the \u201cFoundation\u201d) or shall hereafter be admittedas members of the Corporation hereby constituted shall be abody corporate with perpetual succession, under the nameand style of the \u201cKodhagoda Gunarathana NahimiFoundation\u201d (hereinafter referred to as the \u201cbodycorporation\u201d) and by that name may sue and be sued, in allCourts with full power and authority to have and use acommon seal and to alter the same at its pleasure.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      409.89,
+      249.07,
+      442.17,
+      258.14
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      470.11,
+      442.54,
+      479.18
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      523.51,
+      456.82,
+      580.58
+    ],
+    "text": "Incorporationof theKodhagodaGunarathanaNahimiFoundation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      370.87,
+      190.31
+    ],
+    "text": "2Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.27,
+      258.17,
+      147.27,
+      269.51
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      364.13,
+      150.07,
+      375.47
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      471.17,
+      150.07,
+      482.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      565.13,
+      150.07,
+      576.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      646.13,
+      151.15,
+      657.47
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      204.13,
+      396.23,
+      282.16
+    ],
+    "text": "(2) The body corporate shall be deemed to be a voluntarysocial service organization within the meaning, and for thepurpose of the Voluntary Social Service Organizations(Registration and Supervision) Act, No. 31 of 1980 and theprovisions of the Act shall apply to and in relation to themanagement of the affairs of the body corporate.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      297.65,
+      396.23,
+      335.87
+    ],
+    "text": "3. The body corporate shall operates exclusively as anot-for-profit organization and it is solely for the benefit ofthe society and its members.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      364.73,
+      396.2,
+      389.39
+    ],
+    "text": "4. (1) The general objects for which the body corporateis constituted are hereby declared to be-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      418.25,
+      396.23,
+      456.47
+    ],
+    "text": "(a) to develop quality relationship between membersand beneficiaries of the Kodhagoda GunarathanaNahimi Foundation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      471.89,
+      396.24,
+      496.67
+    ],
+    "text": "(b) to develop human resources and facilitate careerdevelopment;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.71,
+      512.09,
+      396.24,
+      536.87
+    ],
+    "text": "(c) to create a religious and cultural revival of themembers of the beneficiaries of the Foundation;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      552.29,
+      396.26,
+      617.27
+    ],
+    "text": "(d) to establish appropriate liaison between KodhagodaGunarathana Nahimi Foundation and national andinternational organizations thereby promoting moraland physical development of KodhagodaGunarathana Nahimi Foundation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.71,
+      632.69,
+      396.23,
+      670.67
+    ],
+    "text": "(e) to bring the religious, moral, educational andphysical development to the various ethnicities ofSri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      366.79,
+      449.6,
+      404.66
+    ],
+    "text": "The Generalobjects of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      300.55,
+      450.43,
+      348.02
+    ],
+    "text": "Bodycorporateoperates as anot-for-profitOrganization",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188.37,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "3Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146.73,
+      278.09,
+      151.73,
+      289.43
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      367.13,
+      154.53,
+      378.47
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      444.17,
+      154.53,
+      455.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      544.13,
+      154.53,
+      555.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      621.17,
+      154.53,
+      632.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.85,
+      203.69,
+      402.84,
+      227.75
+    ],
+    "text": "(f) to develop quality relationship between membersof the Foundation and it\u2019s beneficiaries;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.57,
+      241.61,
+      402.86,
+      265.55
+    ],
+    "text": "(g) to facilitate the economic and professionaldevelopment of the low income community ;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.57,
+      279.41,
+      402.83,
+      303.35
+    ],
+    "text": "(h) to work for the advancement of various local cultures;and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.85,
+      317.21,
+      402.98,
+      341.15
+    ],
+    "text": "(i) to fulfill the physical needs of the local people bybuilding reliable relationship internationally.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      355.01,
+      402.86,
+      416.75
+    ],
+    "text": "(2) In the implementation of the objects specified insubsection (1) the Corporation shall ensure that suchimplementation shall be carried out without anydiscrimination based on race, religion, language, caste, sex,political opinion, place of birth or any such grounds.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      430.61,
+      402.85,
+      492.35
+    ],
+    "text": "5. The objects of the body corporate shall be carried out insuch manner so as not to create any conflict between the workof the Corporation and any work being carried outsimultaneously by any Ministry or Department of theGovernment or any Provincial Council",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      531.41,
+      402.83,
+      593.15
+    ],
+    "text": "6. (1) Subject to the provisions of this Act the bodycorporate shall be carried out by a Board of Management(hereinafter referred to as the \u201cBoard\u201d consisting of suchnumber of office bearers as may be specified by the rulesmade under Section 8.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      607.21,
+      402.96,
+      670.6
+    ],
+    "text": "(2) (a) The Board of Management of the Foundation thatholds office on the day immediately preceding the date ofcommencement of this Act, shall function as the Board of thebody corporate until the first Board is appointed or elected inthe manner provided for by rules made under Section 8.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      408.81,
+      533.23,
+      454.54,
+      571.1
+    ],
+    "text": "Managementof the affairsof the bodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      408.81,
+      432.43,
+      456.1,
+      517.94
+    ],
+    "text": "Bodycorporate toensure noconflict withwork ofMinistry orDepartmentof the CentralGovernmentor Province",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      370.87,
+      190.31
+    ],
+    "text": "4Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.27,
+      273.65,
+      147.27,
+      284.99
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      355.61,
+      150.07,
+      366.95
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      438.65,
+      150.07,
+      449.99
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      522.65,
+      150.07,
+      533.99
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      605.69,
+      150.07,
+      617.03
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      204.37,
+      396.21,
+      243.04
+    ],
+    "text": "(b) The first board of the body corporate shall be appointedor elected within one year of the date of commencement ofthis Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      259.57,
+      396.25,
+      325.84
+    ],
+    "text": "(3) (a) Every office bearer of the Board including thepatrons and advisors, shall be appointed or elected for aperiod of three years and any such office bearer, patron oradvisor shall be eligible for re-appointment or re-electionafter lapse of the said period of three years;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      342.37,
+      396.24,
+      394.84
+    ],
+    "text": "(b) In the event of a vacancy occurring due to the death,resignation, incapacity or removal from office of an officebearer, the Board shalll having regard to the rules of thebody corporate, elect or appoint a person to fill such vacancy;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      411.37,
+      396.22,
+      450.04
+    ],
+    "text": "(c) The person elected or appointed under paragraph (b)shall hold office only for the unexpired portion of the term ofoffice of the member whom he succeeds.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      466.57,
+      396.25,
+      532.84
+    ],
+    "text": "7. Subject to the provision of this Act and any other writtenlaw, the body corporate shall have the power to do, performand execute all such acts and matters as necessary ordesirable for the promotion or any one of them, including thepower -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.87,
+      549.17,
+      396.22,
+      629.51
+    ],
+    "text": "(a) to purchase, acquire, rent, construct, remove andotherwise obtain lands or buildings which may berequired for the purpose of the body corporate andto deal with or dispose of the same as may be deemedexpedient with a view to promoting the objects ofthe body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.87,
+      645.77,
+      396.06,
+      671.15
+    ],
+    "text": "(b) to raise funds and receive grants, gifts or donations,in cash or kind with or without security:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      467.35,
+      450.43,
+      493.46
+    ],
+    "text": "Powers of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      188.37,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "5Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      256.37,
+      152.21,
+      267.71
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      334.37,
+      155.01,
+      345.71
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      426.41,
+      155.01,
+      437.75
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      504.41,
+      155.01,
+      515.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      582.41,
+      155.01,
+      593.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      191.85,
+      203.69,
+      402.96,
+      267.47
+    ],
+    "text": "provided that, the Board shall obtain the priorwritten approval of the Department of ExternalResources of the Ministry of the Minister assingedthe subjects of Finance, in respect of all foreign grants,gifts or donations made to the body corporate;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175.29,
+      282.29,
+      402.93,
+      346.0
+    ],
+    "text": "(c) to make, draw, accept, discount, endorse, negotiate,buy, sell and issue bills of exchange, cheques,promissory notes and other negotiable instrumentsand to open, operate and close accounts in anybanks;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.57,
+      360.89,
+      402.82,
+      398.39
+    ],
+    "text": "(d) to invest any funds not immediately required for thepurposes of the corporate in such manner as the Boardmay determine;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175.29,
+      413.33,
+      402.86,
+      463.91
+    ],
+    "text": "(e) to undertake, accept, execute, perform and administerany lawful trust or any real or personal property witha view to promoting the objects of the bodycorporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176.85,
+      478.73,
+      402.95,
+      542.44
+    ],
+    "text": "(f) to appoint, employ, dismiss or terminate the servicesof officers and servants of the body corporation andexercise disciplinary control over them and to paythem such salaries, allowances and gratuities as maybe determined by the body corporate; and",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.57,
+      557.53,
+      402.86,
+      594.88
+    ],
+    "text": "(g) to do all other things as are necessary or expedientfor the proper and effective carrying out the objectsof the body corporate.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      609.77,
+      402.9,
+      673.55
+    ],
+    "text": "8. (1) It shall be lawful for the body corporate, from timeto time, at any general meeting and by the votes of not lessthan two thirds of the members present and voting, to makerules, not inconsistent with the provisions of this Act or anyother written law, for all or any of the following matters:-30",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      408.81,
+      612.43,
+      450.09,
+      638.42
+    ],
+    "text": "Rules of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      370.87,
+      190.31
+    ],
+    "text": "6Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.51,
+      266.21,
+      147.51,
+      277.55
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      354.17,
+      150.31,
+      365.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      431.21,
+      150.31,
+      442.55
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      518.21,
+      150.31,
+      529.55
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      607.13,
+      150.31,
+      618.47
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.87,
+      203.69,
+      396.23,
+      240.35
+    ],
+    "text": "(a) the classification of membership, admission,withdrawal, expulsion or resignation of members andfees payable by members;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.87,
+      254.21,
+      396.24,
+      290.75
+    ],
+    "text": "(b) the election of office bearers of the Board or vacationof or removal from office of office bearers and thepowers, duties and functions of the office bearers;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170.71,
+      304.61,
+      396.22,
+      341.15
+    ],
+    "text": "(c) the terms and conditions of appointment, powers,functions and duties of the various officers, agentsand servants of the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.87,
+      355.01,
+      396.24,
+      416.75
+    ],
+    "text": "(d) the procedure to be followed at the summoning andholding of meetings of the Board, or any sub-committee thereof, notices and agenda of suchmeetings, the quorum and the conduct of businessthereat;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170.71,
+      430.61,
+      396.24,
+      454.55
+    ],
+    "text": "(e) the qualifications and disqualifications to be amembers of the Board and the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.15,
+      468.41,
+      396.2,
+      492.35
+    ],
+    "text": "(f) the administration and management of the propertyof the body corporate; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.87,
+      506.21,
+      396.22,
+      542.75
+    ],
+    "text": "(g) the management of the affairs of the body corporateand the accomplishment of its\u2019 objects anddissolution of the body corporate.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      556.61,
+      396.21,
+      593.15
+    ],
+    "text": "(2) The rules made by the body corporate may beamended, altered, added to or rescinded at a like meetingand in like manner as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      607.01,
+      396.21,
+      630.95
+    ],
+    "text": "(3) The members of the body corporate shall at all timebe subject to rules of the body corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      644.81,
+      396.23,
+      669.95
+    ],
+    "text": "(4) The rules made under this section shall be publishedin the Government Gazette.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.37,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "7Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      147.45,
+      284.57,
+      152.45,
+      295.91
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      364.61,
+      155.13,
+      375.95
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      458.57,
+      155.13,
+      469.91
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      538.61,
+      155.13,
+      549.95
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      631.61,
+      155.13,
+      642.95
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      203.93,
+      402.85,
+      242.03
+    ],
+    "text": "9. The Board shall maintain a register of members inwhich name, address and other essential details of themembers be inscribed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.85,
+      257.45,
+      389.15,
+      268.79
+    ],
+    "text": "10. (1) The Body corporate shall have its own Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      284.33,
+      402.86,
+      335.87
+    ],
+    "text": "(2) All moneys received by way of gift, bequest, donation,subscription, contribution, fees, or grants for an account ofthe body corporate shall be deposited in one or more Banksapproved by the Board to the credit of the body corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      351.29,
+      402.83,
+      402.83
+    ],
+    "text": "(3) There shall be paid out of the Fund all sums of moneyas are required to defray any expenditure incurred by thebody corporate in the exercise, performance and dischargeof its power, duties and functions under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      418.25,
+      402.86,
+      443.03
+    ],
+    "text": "11. (1) The financial year of the Body Corporate shall bethe calendar year.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      458.45,
+      402.84,
+      496.6
+    ],
+    "text": "(2) The Body corporate shall cause proper accounts to bekept of income and expenditure, assets and liabilities andall other transactions of the Body corporate.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      512.09,
+      403.0,
+      550.19
+    ],
+    "text": "(3) The accounts of the Body corporation shall be auditedby Auditor General or by a qualified auditor appointed byAuditor General in terms of Article 154 of the Constitution.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      565.73,
+      402.82,
+      590.39
+    ],
+    "text": "(4) For the purpose of this section \u201cqualified auditor\u201dmeans -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.57,
+      605.93,
+      402.93,
+      671.44
+    ],
+    "text": "(a) an individual who being a member of the Institute ofChartered Accountants of Sri Lanka, or any otherinstitute established by law, possesses a certified topractice as Accountant issued by the Council of suchInstitute; or",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      408.81,
+      206.59,
+      446.26,
+      224.3
+    ],
+    "text": "Register ofmembers",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      408.81,
+      259.51,
+      449.25,
+      285.98
+    ],
+    "text": "Fund of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      408.81,
+      420.43,
+      441.09,
+      446.9
+    ],
+    "text": "Accountsand theAuditing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      370.87,
+      190.31
+    ],
+    "text": "8Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.79,
+      252.17,
+      146.79,
+      263.51
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      325.13,
+      149.59,
+      336.47
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      388.13,
+      149.59,
+      399.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      473.09,
+      149.59,
+      484.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      534.17,
+      149.59,
+      545.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      169.87,
+      203.69,
+      396.24,
+      276.28
+    ],
+    "text": "(b) a firm of Accountants, each of the resident partnersof which being a member of the Institute ofChartered Accountants of Sri Lanka or of any otherinstitute established by law, possesses a certificateto practice as an Accountant, issued by the Councilof such Institute.",
+    "fonts": [
+      "Times",
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      289.57,
+      396.23,
+      398.32
+    ],
+    "text": "12. (1) The Board shall prepare a report of the activitiesof the Body corporate for each financial year and submitssuch report together with the audited statement of accountsto the Secretary of the Ministry of the Minister assigned thesubject of Social Services and to the Registrar of VoluntarySocial Services Organizations appointed under the VoluntarySocial Service Organization (Registration and Supervision)Act, No. 31 of 1980 before the expiration of six months of theyear succeeding the year to which such report relates.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      411.61,
+      396.24,
+      459.28
+    ],
+    "text": "(2) A separate account relating to the foreign and localmoneys received by the Body corporate during the financialyear shall be attached to the report referred to insubsection (1).",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      472.37,
+      396.25,
+      544.67
+    ],
+    "text": "13. All debts and liabilities of the Foundation existingon the day preceding the date of commencement of this Act,shall be paid by the Body corporate hereby constituted, andall debts due to, and subscriptions and contributionspayable to the Foundation on that day shall be paid to theBody corporate for the purpose of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      557.81,
+      396.24,
+      670.07
+    ],
+    "text": "14. Subject to the provision of this Act, the Bodycorporate shall be able and capable in law, to take and holdany property movable or immovable which may becomevested in it by virtue of any purchase grant, gift, testamentarydisposition or otherwise, and all such property shall be heldby the Body corporate for the purposes of this Act, andsubject to the rules of the Body corporate made undersection 8, with power to sell, mortgage, lease, exchange orotherwise dispose of the same.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      475.03,
+      448.87,
+      510.26
+    ],
+    "text": "Debts due byand payableto theFoundation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      560.59,
+      448.16,
+      613.1
+    ],
+    "text": "Bodycorporatemay holdpropertymovable andimmovable",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      291.55,
+      428.59,
+      309.38
+    ],
+    "text": "AnnualReport",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      608.45,
+      150.31,
+      619.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188.37,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "9Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      148.29,
+      257.09,
+      153.29,
+      268.43
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      338.09,
+      156.09,
+      349.43
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      431.09,
+      156.09,
+      442.43
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      499.13,
+      156.09,
+      510.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      579.17,
+      156.09,
+      590.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      203.93,
+      402.84,
+      282.23
+    ],
+    "text": "15. The moneys and property of the Body corporatehowever derived shall be applied solely towards thepromotion of the objects of the Body corporate and noportion thereof shall be paid or transferred directly orindirectly by way of dividend, bonus or profit to the membersof the Body corporate",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      297.65,
+      402.98,
+      362.63
+    ],
+    "text": "16. The Seal of the Body corporation shall not be affixedto any instrument whatsoever, except in the presence of twomembers of the Body who shall sign their names to theinstrument in token of their presence and such signing shallbe independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      378.05,
+      402.83,
+      416.27
+    ],
+    "text": "(2) The Seal of the body corporate shall be in the custodyof an office bearer of the Board as may be decided by suchBoard.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      431.69,
+      402.94,
+      536.8
+    ],
+    "text": "17. (1) If upon the dissolution of the body corporatethere remains after the satisfaction of all its debts and liabilities,any property whatsoever, such property shall not bedistributed among the members of the Body corporate butshall be given or transferred to any other Foundation havingobjects similar to those of the Body corporate, and which isby the rules thereof, prohibited from distributing any incomeor property among its members.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      552.49,
+      402.87,
+      603.76
+    ],
+    "text": "(2) For the purpose of this subsection (1) the appropriateinstitution shall be determined by the members of the bodycorporate immediately before the dissolution at a generalmeeting by the majority of votes of the members present.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      619.25,
+      402.84,
+      644.03
+    ],
+    "text": "18. Nothing in this Act contained shall prejudice or affectthe rights of the Republic or anybody politic or corporate.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      433.63,
+      455.26,
+      461.9
+    ],
+    "text": "Propertyremaining ondissolution",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      621.55,
+      455.25,
+      656.78
+    ],
+    "text": "Saving of theRights of theRepublic andothers",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      206.59,
+      453.81,
+      233.06
+    ],
+    "text": "Applicationof moneyand property",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      298.51,
+      445.54,
+      324.98
+    ],
+    "text": "Seal of theBodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      370.87,
+      190.31
+    ],
+    "text": "10Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      203.69,
+      396.22,
+      241.19
+    ],
+    "text": "19. In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      206.59,
+      449.59,
+      241.7
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistancy",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.37,
+      166.97,
+      400.77,
+      190.31
+    ],
+    "text": "11Kodhagoda Gunarathana Nahimi Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      236.37,
+      648.79,
+      365.38,
+      657.86
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

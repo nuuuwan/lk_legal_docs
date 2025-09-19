@@ -1,0 +1,3816 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      166.37,
+      441.33,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.29,
+      229.71,
+      367.29,
+      243.32
+    ],
+    "text": "Part II of August 23, 2024",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      258.51,
+      341.85,
+      272.12
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      287.31,
+      354.61,
+      300.92
+    ],
+    "text": "(Issued on 26.08.2024)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.29,
+      422.19,
+      418.28,
+      450.2
+    ],
+    "text": "TREDZO DEVELOPMENT FOUNDATION(INCORPORATION)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      484.97,
+      303.71,
+      496.31
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      508.97,
+      311.85,
+      520.31
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.05,
+      528.89,
+      409.75,
+      540.23
+    ],
+    "text": "to incorporate the Tredzo Development Foundation",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      549.89,
+      455.85,
+      573.23
+    ],
+    "text": "To be presented in Parliament by Hon. Madhura Withanage (Attorney-at-Law), M. P. for Colombo District",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.09,
+      615.17,
+      456.08,
+      626.51
+    ],
+    "text": "Price : Rs. 30.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.09,
+      588.91,
+      393.09,
+      597.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      598.51,
+      404.25,
+      607.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      661.15,
+      401.85,
+      670.22
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      462.89,
+      347.49,
+      474.23
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.09,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "1Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.29,
+      277.97,
+      153.29,
+      289.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      353.93,
+      156.09,
+      365.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      454.97,
+      156.09,
+      466.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      516.89,
+      156.09,
+      528.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      591.89,
+      155.01,
+      603.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.25,
+      204.65,
+      390.8,
+      215.99
+    ],
+    "text": "AN ACT INCORPORATE THE TREDZO DEVELOPMENT FOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      229.61,
+      402.25,
+      290.99
+    ],
+    "text": "WHEREAS the Foundation called and known as the \u201cTredzoDevelopment Foundation\u201d has heretofore been establishedin Sri Lanka For the purpose of effectually carrying out itsobjects and transacting all matters connected with the saidFoundation according to the rules agreed to by its members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      304.61,
+      402.27,
+      365.99
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was established and has applied tobe incorporated and it will be for the public advantage togrant the said application.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      379.61,
+      402.27,
+      403.43
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      417.05,
+      402.35,
+      440.87
+    ],
+    "text": "1. This Act may be cited as the Tredzo DevelopmentFoundation (Incorporation) Act, No. of 2024.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      454.61,
+      402.28,
+      578.39
+    ],
+    "text": "2. (1) From and after the date of commencement of thisAct, such and so many persons as now are members of theTredzo Development Foundation (hereinafter referred to asthe \u201cFoundation\u201d) and shall hereafter be admitted as membersof the body corporate hereby constituted shall have perpetualsuccession under the name and style of the \u201cTredzoDevelopment Foundation\u201d (hereinafter referred to as the\u201cbody corporate\u201d), and by that name may sue and be suedwith full power and authority to have, and use a commonseal and to alter the same at its pleasure.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.73,
+      592.13,
+      402.24,
+      668.15
+    ],
+    "text": "(2) The body corporate shall be deemed to be a VoluntarySocial Service Organization within the meaning and for thepurpose of the Voluntary Social Service Organizations(Registration and Supervision) Act, No. 31 of 1980 and theprovisions of that Act shall apply to and in relation to themanagement of the affairs of the body corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      409.89,
+      232.51,
+      442.17,
+      241.58
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      409.89,
+      419.11,
+      443.62,
+      428.18
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      457.15,
+      455.86,
+      502.22
+    ],
+    "text": "Incorporationof theTredzoDevelopmentFoundation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      657.89,
+      155.01,
+      669.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "2Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.11,
+      276.89,
+      148.11,
+      288.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.95,
+      364.73,
+      151.39,
+      376.07
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      437.09,
+      150.07,
+      448.43
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      539.09,
+      150.07,
+      550.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      643.13,
+      151.15,
+      654.47
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      204.65,
+      396.21,
+      230.63
+    ],
+    "text": "3. The general objects for which the body corporate isconstituted are hereby declared to be:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      248.45,
+      396.24,
+      347.39
+    ],
+    "text": "(a)to extend financial and/or support and assistanceto Communities, Provincial Councils, LocalGovernment Organizations, Non-GovernmentalOrganizations and any other Civil SocietyOrganizations to strengthen their capacity to plan,finance, implement, and operate rural developmentactivities;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      365.33,
+      396.23,
+      449.63
+    ],
+    "text": "(b)to assist in improving the well-being and incomesof persons living in rural areas in Sri Lanka by theprovision of funds therefore and to implementsustainable projects for the improvement andwellbeing of communities/ persons in such areasand to supervise and monitor the same;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      467.45,
+      396.23,
+      522.59
+    ],
+    "text": "(c)to facilitate, arrange, purchase, market, export,distribute the output of rural industries fromagriculture and farming in Sri Lanka in order tofurther the interests of farmers and producers;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      540.53,
+      396.22,
+      581.03
+    ],
+    "text": "(d)to support the communities in education, includingvocational training and implement developmentschemes for the benefit of the people;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      598.85,
+      396.11,
+      624.83
+    ],
+    "text": "(e)to assisting and promoting the developmentprograms at the village level;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      642.65,
+      396.08,
+      668.63
+    ],
+    "text": "(f)to receive international financial assistance, grants,donations, loans and investments.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      206.71,
+      451.15,
+      244.58
+    ],
+    "text": "GeneralObjects of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.09,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "3Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146.73,
+      254.09,
+      151.73,
+      265.43
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      343.13,
+      154.53,
+      354.47
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      420.17,
+      154.53,
+      431.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      481.13,
+      154.53,
+      492.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.09,
+      597.17,
+      154.53,
+      608.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      203.45,
+      402.84,
+      278.27
+    ],
+    "text": "4. The objects of the body corporate shall be carried outin accordance with written law and in such manner so as notto create any conflict between the work of the body corporateand any work being carried out simultaneously by anyMinistry or Department of the Government or of anyProvincial Council or any Local Authority.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      304.97,
+      402.86,
+      392.51
+    ],
+    "text": "5. (1) Subject to the provisions of this Act, and the rulesmade under section 7, the management and administrationof the affairs of the body corporate shall be carried out by anExecutive Committee (hereinafter referred to as the\u201cCommittee\u201d) consisting of not less than three and not morethan ten members and of office bearers as may be specifiedby the rules made under section 7.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      406.61,
+      402.86,
+      494.15
+    ],
+    "text": "(2) (a) The members of the Committee holding officeon the day immediately preceding the date of commencementof this Act shall, subject to the rules made under paragraph(b), function as an Interim Committee of the body corporateuntil the first Committee is appointed or elected in themanner provided for by rules made under section 7 and thefirst members of the Committee shall be:-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      508.13,
+      368.15,
+      519.47
+    ],
+    "text": "Mr.Thusitha Chandrapadma Kannangara;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      533.57,
+      382.3,
+      557.63
+    ],
+    "text": "Mr.Alampolearachchige Dumminda Channa;Ranasinghe;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      571.73,
+      311.86,
+      583.07
+    ],
+    "text": "Mrs. Dhammika Kannangara;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      597.05,
+      310.3,
+      608.39
+    ],
+    "text": "Mr.Denesh Denis Uduwela;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      622.49,
+      349.3,
+      633.83
+    ],
+    "text": "Mr.Thaveeshe Dilranga Kannangara;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      189.57,
+      647.93,
+      400.3,
+      672.23
+    ],
+    "text": "Mr.Kumarage Don Chamila Chathuran JeevanthaSilva.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      408.81,
+      205.39,
+      453.09,
+      294.5
+    ],
+    "text": "Bodycorporate toensure noconflic withwork ofMinistry orDepartmentof theGovernmentor anyProvincialCouncil",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      408.81,
+      307.87,
+      454.54,
+      351.5
+    ],
+    "text": "Managementof the affairsof the bodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "4Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.27,
+      253.61,
+      147.27,
+      264.95
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      342.65,
+      150.07,
+      353.99
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      417.65,
+      150.07,
+      428.99
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      493.61,
+      150.07,
+      504.95
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.63,
+      555.65,
+      150.07,
+      566.99
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      203.33,
+      396.23,
+      277.67
+    ],
+    "text": "(b) Subject to the provisions of section 7, the InterimCommittee of the body corporate shall have the power tomake rules for the interim administration of the bodycorporate and for election or appointment of the membersof the first Committee of the body corporate, not inconsistentwith the provisions of this Act or any other written law.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      291.53,
+      396.22,
+      315.47
+    ],
+    "text": "(c) Any decision of the Interim Committee shall be takenby the agreement of three members present at such meeting.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      329.33,
+      396.24,
+      365.87
+    ],
+    "text": "(d) The first Committee of the body corporate shall beappointed or elected within one year of the date ofcommencement of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      379.73,
+      396.23,
+      466.67
+    ],
+    "text": "(3) (a) Every office bearer of the body corporateincluding the patrons, advisors and (he members of theCommittee, shall be appointed or elected, The term of officeof the ollice bearers shall be for a period of three years andany such office bearer, patron or advisor shall be eligible forre-appointment or re-election after lapse of the said periodof three years.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      480.53,
+      396.25,
+      567.47
+    ],
+    "text": "(b) In the event of a vacancy occurring due to the death,physical or mental incapacity, incompetency, insolvency,resignation or ceasing to accept the objects of the bodycorporate of an office bearer or removal of an office bearerfrom office by a majority vote of the Committee, theCommittee shall, having regard to the rules of the bodycorporate, elect or appoint a person to fill such vacancy.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      582.17,
+      396.23,
+      619.67
+    ],
+    "text": "(c) Appointing or electing of a member for a vacancyoccurring in the Committee shall be done at an AnnualGeneral Meeting.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      634.61,
+      396.23,
+      672.11
+    ],
+    "text": "(d) The persons elected or appointed under paragraph(b) shall hold office only for the unexpired portion of theterm of office of the member whom he succeeds.30",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.09,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "5Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      264.41,
+      152.21,
+      275.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      326.45,
+      155.01,
+      337.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      387.41,
+      155.01,
+      398.75
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      461.45,
+      155.01,
+      472.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      522.41,
+      155.01,
+      533.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      203.09,
+      402.86,
+      251.39
+    ],
+    "text": "6. Subject to the provisions of this Act and any otherwritten law, the body corporate shall have the power to do,perform and execute the following acts for the achievementof the objects of the body corporate:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      264.65,
+      402.85,
+      435.83
+    ],
+    "text": "(a)subject to any restrictions whether now existing oras may from time to time be imposed by law, topurchase, buy, rent, take on lease or exchange, hireor otherwise, acquire any movable or immovableproperty that include lands, buildings, vehicles,equipment and machinery, assets, securities,facilities and any rights licenses or privileges in SriLanka or elsewhere and manage, improve, developand dispose of the same in whole or in part by virtueof sell, mortgage, lease, exchange or otherwise forthe attainment of the objects of the body corporateand to create any depreciation fund, reserve orsinking funds for these purposes subject to thediscretion of the Committee of the body corporate:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      449.09,
+      402.86,
+      620.39
+    ],
+    "text": "Provided that, in case the body corporationshall take or hold any property which may be subjectto any trusts, the body corporate shall only dealwith or invest the same in such manner as allowedby law, having regard to such trust and in the caseof body corporate shall take or hold any property, itshall not sell, mortgage, charge or lease the samewithout the prior written authority, approval orconsent of the Registrar of Companies or withoutthe authority, approval or consent as may otherwisebe required by law. The Committee of the bodycorporate shall be chargeable, answerable andaccountable for their acts, receipts, neglects anddefaults with regard to such property;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      633.65,
+      402.88,
+      670.91
+    ],
+    "text": "(b)to erect, construct, enlarge, develop, alter andmaintain any buildings, roads, plant, machinery andany assets as may be necessary or convenient;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      584.93,
+      155.01,
+      596.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      408.81,
+      204.67,
+      444.09,
+      232.94
+    ],
+    "text": "Powers ofthe bodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      660.89,
+      155.01,
+      672.23
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "6Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.51,
+      256.25,
+      147.51,
+      267.59
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      334.25,
+      150.31,
+      345.59
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      400.25,
+      150.31,
+      411.59
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      480.17,
+      150.31,
+      491.51
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      544.13,
+      150.31,
+      555.47
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.71,
+      203.69,
+      396.23,
+      306.71
+    ],
+    "text": "(c)to borrow or raise money in any manner with orwithout securities and to accept and raise funds byway of subscriptions, grants gifts, donations,endowments, beneficiations in cash or kind inmovable or immovable property from an individual,organization or special trust in favour orfurtherance of any of the objects of the bodycorporate:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      193.15,
+      321.65,
+      396.25,
+      437.75
+    ],
+    "text": "Provided that, the Committee shall obtain theprior written approval of the Department ofExternal Resources in respect of all foreign grants,gifts or donations made to the body corporate andin case the body corporation shall take or hold anyproperty which may be subject to any trusts, thebody corporate shall only deal with or invest thesame in such manner as allowed by law, havingregard to such trust;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.87,
+      452.57,
+      396.23,
+      581.87
+    ],
+    "text": "(d)to make payments, guarantee or indemnify, draw,accept, discount, endorse, negotiate, buy, sell andissue bills of exchange, cheques, promissory notesand other negotiable or transferable instruments orsecurities and to open, operate and maintain bankaccounts of every description in Sri Lanka andelsewhere and to give donations, gifts, subsidies,assistance and other aid to any individual,organization or special trust in the furtherance ofthe objects of the body corporate:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      193.15,
+      596.69,
+      396.22,
+      673.55
+    ],
+    "text": "Provided that, the body corporate shall notsupport with its funds any object, or endeavour toimpose on or procure to be observed by its membersor others, any regulation, restriction or conditionwhich if an object of the body corporate wouldmake it a Trade Union and in case of body",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      624.89,
+      150.31,
+      636.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      216.09,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "7Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      147.45,
+      256.61,
+      152.45,
+      267.95
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      334.61,
+      155.13,
+      345.95
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      428.57,
+      155.13,
+      439.91
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      505.61,
+      155.13,
+      516.95
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.69,
+      570.53,
+      155.13,
+      581.87
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      203.69,
+      402.85,
+      267.47
+    ],
+    "text": "corporation deal with or dispose of any propertywhich may be subject to any trusts, the bodycorporate shall only deal with or invest the same insuch manner as allowed by law, having regard tosuch trust;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.29,
+      282.29,
+      402.85,
+      346.07
+    ],
+    "text": "(e)to invest the moneys that are not immediatelyrequired for the purposes of the body corporate, ininvestments, securities or property as may bethought fit subject to the conditions as may for thetime being be imposed or required by law;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.85,
+      360.89,
+      402.85,
+      411.59
+    ],
+    "text": "(f)to undertake and execute any trusts which may seemdirectly, or indirectly conductive to any of theobjects of the body corporate either gratuitously orotherwise:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      426.41,
+      402.85,
+      490.07
+    ],
+    "text": "Provided that, in case the body corporate shalltake or hold any property which may be subject toany trusts, the body corporate shall only deal withor invest the same in such manner as allowed bylaw, having regard to such trust;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      505.01,
+      402.85,
+      594.95
+    ],
+    "text": "(g)to enter into agreements or contracts of whatevernature with whom so ever in Sri Lanka or abroad forthe attainment promotion of the objects of the bodycorporate and to obtain approvals, licenses,concessions, privileges and grants fromGovernment, Provincial Councils, Local bodies orany other Authority as may be necessary;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      609.77,
+      402.85,
+      662.27
+    ],
+    "text": "(h)to employ, appoint, engage, remunerate, grantpensions, gratuities and dismiss officers and staff asmay be necessary for the operation, developmentand management of the body corporate;30",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "8Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.79,
+      269.09,
+      146.79,
+      280.43
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      348.17,
+      149.59,
+      359.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      426.17,
+      149.59,
+      437.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      518.09,
+      149.59,
+      529.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      596.09,
+      149.59,
+      607.43
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.15,
+      203.69,
+      396.1,
+      228.11
+    ],
+    "text": "(i)to pay all expenses for the formation, promotionand management of the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.15,
+      243.05,
+      396.21,
+      293.63
+    ],
+    "text": "(j)to train or cause to be trained in Sri Lanka or abroadat the cost and expense of the body corporate, anyperson whosoever for the purposes or benefit of thebody corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173.71,
+      308.45,
+      396.22,
+      372.23
+    ],
+    "text": "(k)to sponsor and conduct exhibitions, functions,conferences, seminars, workshops, group studies,lectures and promotional activities in Sri Lanka orelsewhere for the attainment of the objects of thebody corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.15,
+      387.05,
+      396.23,
+      437.75
+    ],
+    "text": "(l)to print, publish, distribute books, journals,leaflets, newspapers, magazines that the bodycorporate may consider desirable for the promotionand advancement of its objects;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      171.43,
+      452.57,
+      396.22,
+      503.27
+    ],
+    "text": "(m)to grant fellowships, scholarships, prizes, bursariesand other awards and to undertake researches forcarrying out the purposes and activities of the bodycorporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      518.09,
+      396.23,
+      568.67
+    ],
+    "text": "(n)to provide board and accommodation, otherfacilities and grants to those engaged in thefurtherance of any of the objects and in the serviceof the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      583.61,
+      396.23,
+      634.19
+    ],
+    "text": "(o)to collaborate, amalgamate, participate, promoteaid or establish any other institutions ororganizations having similar objects of the bodycorporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      649.13,
+      396.2,
+      673.55
+    ],
+    "text": "(p)to defend, intervene in and compromise in legalproceedings against the body corporate and its",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      216.09,
+      166.97,
+      400.85,
+      190.31
+    ],
+    "text": "9Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      148.29,
+      263.09,
+      153.29,
+      274.43
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      338.09,
+      156.09,
+      349.43
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      412.13,
+      156.09,
+      423.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      474.17,
+      156.09,
+      485.51
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      561.17,
+      156.09,
+      572.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      203.09,
+      402.86,
+      239.03
+    ],
+    "text": "officers and institute or conduct legal proceedingsagainst other parties, whoever challenge the bodycorporate or official acts of its officers; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      252.29,
+      402.86,
+      300.59
+    ],
+    "text": "(q)to perform in Sri Lanka or elsewhere any acts, deedsand things as may be necessary, incidental orconductive to the attainment of the objects of thebody corporate establish branches in Sri Lanka.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      313.85,
+      402.87,
+      398.99
+    ],
+    "text": "7.(1) It shall be lawful for the body corporate, fromtime to time, at any general meeting of the body corporateand by a majority of not less than two thirds of the memberspresent and voting and on the final decision of theCommittee, to make rules, not inconsistent with theprovisions of this Act or any other written law, for thefollowing matters:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      412.25,
+      402.84,
+      485.03
+    ],
+    "text": "(a)admission of members into the body corporate onthe discretion of the Committee, their withdrawal,expulsion or resignation, classification ofmembership, voting rights and responsibilities ofthe members, determine the terms and conditionsfor membership and fees payable by the members;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      498.29,
+      402.9,
+      546.59
+    ],
+    "text": "(b)the election of the office bearers of the Committee,vacation or removal of the office bearers and thepowers, functions and duties of the office bearers ofthe body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178.29,
+      559.85,
+      402.84,
+      595.79
+    ],
+    "text": "(c)the terms and conditions of appointment, powers,functions and duties of various officers, and servantsof the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      609.05,
+      402.85,
+      672.47
+    ],
+    "text": "(d)the procedure to be followed for the summoningand holding of meetings of the body corporate or ofthe Committee, or notices and agenda of suchmeetings, the quorum and the conduct of businessthereat;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      634.97,
+      155.01,
+      646.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      315.31,
+      450.81,
+      343.58
+    ],
+    "text": "Rules of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "10Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173.71,
+      204.05,
+      396.23,
+      228.95
+    ],
+    "text": "(e)the qualifications and disqualifications to be amember of the Committee and the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      175.15,
+      244.85,
+      396.1,
+      269.75
+    ],
+    "text": "(f)the administration and management of the propertyof the body corporate;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      285.65,
+      396.2,
+      337.79
+    ],
+    "text": "(g)the procedure governing the manner of liaising andcoordinating with other local and foreigninstitutions having objects similar to that of thebody corporate; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      353.57,
+      396.22,
+      392.15
+    ],
+    "text": "(h)generally the management of the affairs of the bodycorporate and the accomplishment of its\u2019 objectsand dissolution of the body corporate.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      408.05,
+      396.22,
+      460.07
+    ],
+    "text": "(2) Any rule made by the body corporate may beamended, altered, added to or rescinded at a like meetingand in like manner, as a rule made under subsection (1) ofthis section:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      475.97,
+      396.24,
+      555.35
+    ],
+    "text": "Provided that no addition, alteration or amendment shallbe made to the provisions of the Memorandum ofAssociation or Articles of Association of the body corporateunless the same shall approved by the Registrar of companiesand three forth majority of the members present in Annualor extraordinary general meetings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      571.13,
+      396.23,
+      623.27
+    ],
+    "text": "(3) The rules made under subsection (1) shall bepublished in the Gazette within three months upon makingof such rules and shall come into effect on the date of suchpublication.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      639.17,
+      396.12,
+      664.07
+    ],
+    "text": "(4) The members of the body corporate shall at all timesbe subject to the rules of the body corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.87,
+      285.89,
+      147.87,
+      297.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.11,
+      366.89,
+      150.55,
+      378.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.11,
+      447.89,
+      150.55,
+      459.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.11,
+      529.85,
+      150.55,
+      541.19
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.11,
+      612.89,
+      150.55,
+      624.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216.09,
+      166.97,
+      400.77,
+      190.31
+    ],
+    "text": "11Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      204.17,
+      402.85,
+      298.91
+    ],
+    "text": "8. The Committee shall maintain a register of membersin which name, address and other essential details of themembers, a register of appointments of the members of theExecutive Committee, participation of the members of theExecutive Committee in its meetings or general meetingsand resolutions passed in those meetings and other essentialinformation related thereto shall be inscribed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173.85,
+      315.41,
+      382.4,
+      326.75
+    ],
+    "text": "9. (1) The body corporate shall have its own Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      343.25,
+      402.99,
+      424.07
+    ],
+    "text": "(2) All monies received by way of gifts, bequests,donations, subscriptions, contributions, fees or grants forand on account of the body corporate shall, subject to theprovisions of section 6(d), be deposited in one or more banksapproved by the Committee to the credit of the bodycorporate.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      440.45,
+      402.86,
+      493.55
+    ],
+    "text": "(3) There shall be paid out of the Fund, all such sums ofmoney as are required to defray any expenditure incurred bythe body corporate in the exercise, performance anddischarge of its powers, duties and functions under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      509.93,
+      402.85,
+      563.03
+    ],
+    "text": "(4) However, no payment or support shall be made out ofthe fund of the body corporate to the Members of the bodycorporate or to others to promote the objects of the TradeUnions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      579.53,
+      402.86,
+      660.35
+    ],
+    "text": "(5) The Committee may set aside out of the funds of thebody corporate, as Reserve Fund or Sinking Fund in order tomeet contingencies, repairing, improving or maintaining ofthe properties of the body corporate or any other purposespurposed by the Committee think fit conductive to thewelfare of the body corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      146.25,
+      259.85,
+      151.25,
+      271.19
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.61,
+      356.93,
+      154.05,
+      368.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.61,
+      439.85,
+      154.05,
+      451.19
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.61,
+      523.85,
+      154.05,
+      535.19
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.61,
+      607.85,
+      154.05,
+      619.19
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      409.89,
+      316.87,
+      451.17,
+      348.98
+    ],
+    "text": "Fund of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      408.81,
+      205.87,
+      447.09,
+      249.38
+    ],
+    "text": "Register ofmembersand otherregisters",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "12Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      203.09,
+      396.23,
+      238.79
+    ],
+    "text": "10. (1) The financial year of the body corporate shall befrom First day of April to Thirty First day of March of thefollowing year.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      251.93,
+      396.23,
+      311.99
+    ],
+    "text": "(2) True accounts shall be kept in sums of moniesreceived and expended by the body corporate and themanner in respect of which such receipt and expendituretakes place, and the property, credits and liabilities of thebody corporate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      325.13,
+      396.21,
+      385.19
+    ],
+    "text": "(3) Subject to any reasonable restrictions as to the timeand manner of inspection of the same that may be imposedin accordance with this Act for the time being, Accounts ofthe body corporate shall be open to the inspection of themembers, once at least in every year.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      398.33,
+      396.24,
+      470.63
+    ],
+    "text": "(4) Subject to sections 156 to 158 of the CompaniesAct, the accounts of the body corporate shall be examinedand the correctness of the balance sheet shall be certifiedannually by the Auditor-General or a qualified auditorappointed by Auditor-General in terms of provisions ofArticle 154 of the Constitution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      483.65,
+      396.12,
+      507.23
+    ],
+    "text": "(5) For the purposes of this section, \u201cqualified auditor\u201dmeans -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      172.87,
+      520.25,
+      396.23,
+      580.43
+    ],
+    "text": "(a)an individual who, being a member of the Instituteof Chartered Accountants of Sri Lanka or of anyother institute established by law, possesses acertificate to practice as an Accountant, issued bythe Council of such institute; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      172.87,
+      595.01,
+      396.24,
+      671.87
+    ],
+    "text": "(b)a firm of Accountants, each of the resident partnersof which, being a member of the Institute ofChartered Accountants of Sri Lanka or of any otherinstitute established by law, possesses a certificateto practice as an Accountant, issued by the Councilof such institute.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      141.55,
+      264.17,
+      146.55,
+      275.51
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.91,
+      337.13,
+      149.35,
+      348.47
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.91,
+      410.09,
+      149.35,
+      421.43
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.91,
+      484.13,
+      149.35,
+      495.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.91,
+      557.09,
+      149.35,
+      568.43
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.63,
+      635.45,
+      150.07,
+      646.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      402.19,
+      205.99,
+      449.47,
+      224.66
+    ],
+    "text": "Accounts andauditing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      216.09,
+      166.97,
+      400.77,
+      190.31
+    ],
+    "text": "13Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      204.17,
+      402.86,
+      284.51
+    ],
+    "text": "(6) A copy of Balance Sheet and Income andExpenditure Account which is to laid before the AnnualGeneral Meeting of the body corporate, together with a copyof the auditor\u2019s report shall be sent to every member of thebody corporate, not less than twenty one days before thedate of the meeting.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      300.77,
+      402.91,
+      477.71
+    ],
+    "text": "11. (1) The Committee shall prepare a report of theactivities of the body corporate for each financial year andsubmit such report together with the audited statement ofaccounts and a list of all assets and liabilities of the bodycorporate certified by the Auditor-General or a qualifiedauditor referred to in section 10 of this Act, to the Ministryof the Minister assigned the subject of Social Service underArticle 44 or 45 of the Constitution and to the Registrar ofVoluntary Social Service Organizations appointed under theVoluntary Social Service Organizations (Registration andSupervision) Act, No. 31 of 1980 before the expiration of sixmonths of the year succeeding the year to which such reportrelates.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      493.97,
+      402.86,
+      574.31
+    ],
+    "text": "(2) A separate statement of accounts relating to theforeign and local monies received by the body corporate,the details of all contracts and agreements entered into bythe body corporate and the rules of the body corporate madeunder section 7 of this Act, during the financial year shall beattached to the report referred to in subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      590.57,
+      402.86,
+      668.99
+    ],
+    "text": "12. All debts and liabilities of the Foundation existingon the day immediately preceding the date of commencementof this Act, shall be paid by the body corporate herebyconstituted and all debts due to and subscriptions andcontributions payable to the Foundation on that day shallbe paid to the body corporate for the purposes of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147.21,
+      258.89,
+      152.21,
+      270.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      341.93,
+      155.01,
+      353.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      410.93,
+      155.01,
+      422.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      493.85,
+      155.01,
+      505.19
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      562.85,
+      155.01,
+      574.19
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.29,
+      645.17,
+      155.73,
+      656.51
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      408.81,
+      302.59,
+      434.25,
+      321.26
+    ],
+    "text": "Annualreport",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      408.81,
+      592.51,
+      454.53,
+      630.38
+    ],
+    "text": "Debts due byand payableto thefoundation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "14Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      203.69,
+      396.26,
+      372.23
+    ],
+    "text": "13. (1) Subject to the provisions of this Act and anyother written law, the Committee of the body corporate shallvested with power to take, hold and use of any property,movable or immovable for the purposes of this Act and tosell, mortgage, lease, exchange or otherwise dispose of thesame subject to the rules made under section 7 of this Act.All deeds, agreements, leases, releases, mortgages anddocuments relating or affecting to the properties or interestin this regard shall be taken and stand in the name of thebody corporate and on behalf of the body corporate, thosedocuments shall be executed by two Members of theCommittee, whom are authorized by a resolution of theCommittee of the body corporate.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      387.05,
+      396.24,
+      516.35
+    ],
+    "text": "(2) Provided notwithstanding to subsection (1), in thecase if body corporate shall take or hold any property whichmay be subject to any trusts, the body corporate shall onlydeal with or invest the same in such manner as allowed bylaw, having regard to such trust and the body corporatefurther shall not sell, mortgage, charge or lease any of itsproperty, without the prior written authority, approval orconsent of the Registrar of Companies and without suchauthority, approval or consent as may otherwise be requiredby law.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      531.17,
+      396.23,
+      608.03
+    ],
+    "text": "14. The income and the property of the body corporatewhenever derived, shall be applied solely towards thepromotion of the objects of the body corporate, and noportion thereof shall be paid to or transferred directly orindirectly, by way of dividend, bonus or otherwise howsoeverby way of profit, to the members of the body corporate:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      622.85,
+      396.23,
+      673.55
+    ],
+    "text": "Provided that nothing herein shall prevent the payment,in good faith, of reasonable and proper remuneration, inreturn for any services actually rendered to the bodycorporate by its any official or servant other than the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.03,
+      255.89,
+      147.03,
+      267.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.39,
+      320.93,
+      149.83,
+      332.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.39,
+      400.85,
+      149.83,
+      412.19
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.39,
+      466.85,
+      149.83,
+      478.19
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.39,
+      544.85,
+      149.83,
+      556.19
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.11,
+      623.21,
+      150.55,
+      634.55
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.15,
+      533.11,
+      448.15,
+      561.38
+    ],
+    "text": "Applicationof moneysand property",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      404.11,
+      205.51,
+      449.12,
+      262.58
+    ],
+    "text": "Bodycorporatemay holdpropertymovable andimmovable",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      216.09,
+      166.97,
+      400.77,
+      190.31
+    ],
+    "text": "15Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      203.69,
+      402.88,
+      346.07
+    ],
+    "text": "members of its Executive Committee or Governing Body,nor prevent the payment of interest at a rate not exceedingthe rate authorized by the Central Bank for the time being,on money lent or reasonable and proper rent for the premisesleased or let by any aforesaid member of the body corporate.No member of the Council of Management or GoverningBody of the body corporate shall be paid a salary, fee,remuneration or other benefit in money or money\u2019s worth,other than repayment of out of pocket expenses, interest atthe rate aforesaid on money lent and reasonable and properrent for the premises demised or let to the body corporate:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      360.89,
+      402.91,
+      437.75
+    ],
+    "text": "Further provided that the aforesaid provision shall notapply for any payment to any company which is a memberof the Executive Committee or Governing Body and whomdo not hold more than one hundredth part of the capital anddo not bound to account for any share of profits that companymay receive in respect of such payment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      452.57,
+      402.91,
+      555.59
+    ],
+    "text": "15. The Seal of the body corporate shall not be affixed toany instrument except in the presence of, two members ofthe Committee, one Member of the Committee and theSecretary or a person appointed for the purpose under theauthority or resolution of the Committee, and that memberof the Committee, the Secretary or other person as aforesaidshall sign every instrument to which the Seal of the bodycorporate is so affixed in their presence.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      570.53,
+      402.93,
+      673.55
+    ],
+    "text": "16. (1) If upon the winding up or dissolution of the bodycorporate there remains after the satisfaction of all its debtsand liabilities, any property whatsoever, the same shall notbe paid to or distributed among the members of the bodycorporate but shall be given or transferred to any otherorganization having objects similar to the objects of thebody corporate and which is by the rules thereof, prohibitedfrom distributing any income or property among its members.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      146.97,
+      256.61,
+      151.97,
+      267.95
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      321.65,
+      154.77,
+      332.99
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      400.61,
+      154.77,
+      411.95
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      479.69,
+      154.77,
+      491.03
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      545.69,
+      154.77,
+      557.03
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.05,
+      623.93,
+      155.49,
+      635.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      408.81,
+      455.11,
+      445.54,
+      483.38
+    ],
+    "text": "Seal of thebodycorporate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      408.81,
+      572.59,
+      455.26,
+      600.86
+    ],
+    "text": "Propertyremaining ondissolution",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      166.97,
+      343.16,
+      190.31
+    ],
+    "text": "16Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      203.69,
+      396.24,
+      306.71
+    ],
+    "text": "(2) For the purposes of subsection (1) the appropriateinstitution shall be determined by the members of the bodycorporate, with the approval of the Registrar of VoluntarySocial Service Organizations appointed under the VoluntarySocial Service Organizations (Registration and Supervision)Act, No. 31 of 1980, immediately before the time ofdissolution and at a general meeting by the majority of votesof the members present.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      321.65,
+      396.23,
+      398.39
+    ],
+    "text": "(3) Where the body corporate has been dissolved indefault thereof the subsection (2) above, a Judge or anyprescribed authority having the Jurisdiction in regard tocharitable funds, shall proceed in respect to the remainingproperty and transfer the said property to an appropriateinstitution or institutions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      413.33,
+      396.21,
+      437.75
+    ],
+    "text": "17. Nothing in this Act contained shall prejudice or affectthe rights of the Republic or of any body politic or corporate.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      452.57,
+      396.22,
+      476.99
+    ],
+    "text": "18. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      142.99,
+      255.53,
+      147.99,
+      266.87
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.35,
+      335.45,
+      150.79,
+      346.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.35,
+      414.53,
+      448.63,
+      442.82
+    ],
+    "text": "15Saving of therights of therepublic",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      402.19,
+      454.51,
+      448.63,
+      492.38
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      216.09,
+      166.97,
+      400.77,
+      190.31
+    ],
+    "text": "17Tredzo Development Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      236.37,
+      648.79,
+      365.38,
+      657.86
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
