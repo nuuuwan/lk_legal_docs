@@ -1,0 +1,5008 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      203.49,
+      380.96,
+      396.22,
+      395.7
+    ],
+    "text": "FINANCE ACT, No. 35 OF 2018",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      480.17,
+      375.37,
+      491.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.49,
+      443.69,
+      379.78,
+      455.03
+    ],
+    "text": "[Certified on 01st of November, 2018]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.55,
+      622.43
+    ],
+    "text": "Price : Rs. 28.00Postage : Rs. 35.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      536.09,
+      442.53,
+      559.43
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 02, 2018",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.97,
+      168.89,
+      378.89,
+      180.23
+    ],
+    "text": "1Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      391.17,
+      421.39,
+      427.9,
+      430.46
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.93,
+      193.25,
+      336.95,
+      204.59
+    ],
+    "text": "[Certified on 01st of November, 2018]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      219.89,
+      212.62,
+      231.23
+    ],
+    "text": "L.D.\u2014O. 22/2017",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      246.53,
+      378.69,
+      350.99
+    ],
+    "text": "AN ACT TO AMEND THE FINANCE ACT, NO. 25 OF 2003, THE FINANCEACT, NO. 5 OF 2005, THE FINANCE ACT, NO. 12 OF 2012, THEFINANCE ACT, NO. 16 OF 1995, AND THE FINANCE ACT, NO. 10 OF2015; AND TO PROVIDE FOR THE IMPOSITION OF LUXURY TAX ONMOTOR VEHICLES, VEHICLE ENTITLEMENT LEVY, ANNUAL COMPANYREGISTRATION LEVY, DEBT REPAYMENT LEVY, CARBON TAX,CELLULAR TOWER LEVY AND MOBILE SHORT MESSAGE SERVICELEVY; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH AND",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.17,
+      352.85,
+      223.15,
+      364.19
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      379.49,
+      378.72,
+      404.15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      419.33,
+      378.6,
+      443.99
+    ],
+    "text": "1.This Act may be cited as the Finance Act, No. 35 of2018.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.85,
+      459.29,
+      275.13,
+      470.63
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.09,
+      485.93,
+      370.65,
+      497.27
+    ],
+    "text": "AMENDMENT OF PART II OF THE FINANCE ACT, NO. 25 OF 2003",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      512.45,
+      378.77,
+      563.75
+    ],
+    "text": "2.Part II (Imposition of Tourism Development Levy)of the Finance Act, No. 25 of 2003 (hereinafter in this Partreferred to as the \u201cprincipal enactment\u201d) is hereby amendedin section 11\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.89,
+      578.93,
+      378.65,
+      603.59
+    ],
+    "text": "(1)by the renumbering of section 11 as subsection (1)thereof;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.89,
+      618.89,
+      378.72,
+      670.07
+    ],
+    "text": "(2)in the second proviso of renumbered subsection(1) by the substitution for the words \u201crupees threemillion\u201d of the words \u201crupees three million, for theperiod ending on December 31, 2018.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      391.17,
+      513.55,
+      444.45,
+      551.42
+    ],
+    "text": "Amendment ofsection 11 ofAct, No. 25 of2003.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "2Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.55,
+      192.77,
+      456.1,
+      228.11
+    ],
+    "text": "(3)by the insertion immediately after the secondproviso to that subsection of the following newproviso:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.83,
+      240.77,
+      456.12,
+      324.11
+    ],
+    "text": "\u201cProvided further, from and after January 1,2019, such levy shall be charged from anyinstitution having an annual turnover of notexceeding rupees twelve million or a quarterlyturnover not exceeding rupees three million atthe rate of 0.5 per centum on such turnover ofsuch institution.\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.55,
+      336.77,
+      456.11,
+      360.11
+    ],
+    "text": "(4)by the insertion immediately after renumberedsubsection (1), of the following new subsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.83,
+      372.77,
+      456.12,
+      444.11
+    ],
+    "text": "\u201c(2) From and after January 1, 2019, thereshall be levied from every institution licensedunder the Tourism Act, No. 38 of 2005 a levy ofone per centum on the turnover of suchinstitutions in any year, to be called the TourismDevelopment Levy:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.83,
+      456.77,
+      456.11,
+      516.11
+    ],
+    "text": "Provided however, such levy shall not becharged on the commission carried on the sale ofairline tickets from Travel Agents includingGeneral Sales Agents licensed under the TourismAct, No. 38 of 2005:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.83,
+      528.77,
+      456.1,
+      600.11
+    ],
+    "text": "Provided further, such levy shall be chargedfrom any institution having an annual turnoverof not exceeding rupees twelve million or aquarterly turnover not exceeding three million,at the rate of 0.5 per centum on such turnover ofsuch institution.\u201d; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.55,
+      612.77,
+      456.06,
+      636.11
+    ],
+    "text": "(5)by the repeal of the marginal note of that sectionand the substitution therefor of the following:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      257.83,
+      648.91,
+      456.1,
+      669.38
+    ],
+    "text": "\u201cImposition of Levy on institutions, licensed underTourism Development Act and Tourism Act\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.97,
+      168.89,
+      378.89,
+      180.23
+    ],
+    "text": "3Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.65,
+      193.99,
+      450.94,
+      231.86
+    ],
+    "text": "Amendment ofsection 12 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.13,
+      192.53,
+      379.7,
+      227.27
+    ],
+    "text": "3.Section 12 of the principal enactment is herebyamended by the repeal of subsection (2) thereof and thesubstitution therefor, of the following subsections:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164.13,
+      239.33,
+      379.7,
+      262.43
+    ],
+    "text": "\u201c(2) The Director General of the Ceylon TouristBoard shall\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.85,
+      274.49,
+      379.68,
+      344.27
+    ],
+    "text": "(a)retain the levy so collected under subsection(1), other than the levy collected from theonline travel agents licensed under theTourism Act, No. 38 of 2005 and the levycollected at the rate of 0.5 per centum undersection11; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.85,
+      356.33,
+      379.7,
+      414.47
+    ],
+    "text": "(b)remit the levy collected from the onlinetravel agents licensed under the TourismAct, No. 38 of 2005 and the levy collectedat the rate of 0.5 per centum ander section11,to the Cosolidated Fund.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      164.13,
+      426.53,
+      379.69,
+      484.67
+    ],
+    "text": "(3) The Director General of the Ceylon TouristBoard shall furnish such returns in such manner asmay be prescribed in that behalf to the DeputySecretary to the Treasury, within thirty days of thedate on which such amount is collected.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.25,
+      496.73,
+      277.53,
+      508.07
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.17,
+      520.13,
+      368.61,
+      531.47
+    ],
+    "text": "AMENDMENT OF PART II OF THE FINANCE ACT, NO. 5 OF 2005",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.13,
+      543.53,
+      379.67,
+      590.03
+    ],
+    "text": "4.Part II (Imposition of Share Transaction Levy) of theFinance Act, No. 5 of 2005, is hereby amended in section 7thereof, by the repeal of paragraph (b) thereof and thesubstitution therefor of the following paragraphs:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.41,
+      602.09,
+      379.66,
+      636.83
+    ],
+    "text": "\u201c(b)for any period commencing on or after January 1,2011, but prior to January 1, 2016, at the rate of 0.3per centum; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.69,
+      648.89,
+      379.65,
+      672.47
+    ],
+    "text": "(c)for any period commencing on or after April 1,2016, at the rate of 0.3 per centum,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.13,
+      543.67,
+      450.57,
+      571.94
+    ],
+    "text": "Amendment ofsection 7 of Act,No. 5 of 2005.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "4Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      317.83,
+      193.13,
+      353.83,
+      204.47
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.55,
+      219.05,
+      445.99,
+      230.39
+    ],
+    "text": "AMENDMENT OF PART III OF THE FINANCE ACT, NO. 5 OF 2005",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.59,
+      245.09,
+      456.24,
+      334.43
+    ],
+    "text": "5.Part III (Imposition of Construction IndustryGuarantee Fund Levy) of the Finance Act, No. 5 of 2005(hereinafter in this Part referred to as the \u201cprincipalenactment\u201d) is hereby amended in subsection (1) of section13, by the substitution for the words \u201cfor every yearthereafter,\u201d of the words and figures \u201cfor every year thereafteruntil December 31, 2015,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.59,
+      349.13,
+      456.23,
+      438.47
+    ],
+    "text": "6.Section 13A of the principal enactment is herebyamended in subsection (1), by the substitution for the wordsand figures \u201cany payment on or after April 1, 2009 to anyconstruction contractor or sub-contractor,\u201d of the words andfigures \u201cany payment on or after April 1, 2009 but priorto January 1, 2016 to any construction contractor orsub-contractor,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.59,
+      453.05,
+      456.24,
+      490.43
+    ],
+    "text": "7.The amendments made to the principal enactmentby this Part of this Act, shall be deemed for all purposes tohave come into force on January 1, 2016.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      317.47,
+      505.13,
+      354.18,
+      516.47
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      222.31,
+      531.05,
+      449.47,
+      542.39
+    ],
+    "text": "AMENDMENT OF PART IV OF THE FINANCE ACT, NO. 12 OF 2012",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.59,
+      557.09,
+      456.28,
+      672.47
+    ],
+    "text": "8.Part IV (Exemption from Application of theprovisions of Customs Ordinance (Chapter 235), ExchangeControl Act (Chapter 423) and the Imports and Exports(Control) Act, No. 1 of 1969) of the Finance Act, No. 12 of2012, (hereinafter in this Part referred to as the \u201cprincipalenactment\u201d) is hereby amended in subsection (1) of section18A thereof, by the substitution for the words \u201cany enterpriseengaged in\u201d of the words \u201centerprises or certain enterprisesas specified in that Schedule engaged in\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.95,
+      246.31,
+      197.23,
+      284.18
+    ],
+    "text": "Amendment ofsection 13 ofAct, No. 5 of2005.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.47,
+      350.71,
+      196.75,
+      388.58
+    ],
+    "text": "Amendment ofsection 13A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.83,
+      452.95,
+      191.11,
+      471.62
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.43,
+      559.63,
+      197.71,
+      597.5
+    ],
+    "text": "Amendment ofsection 18A ofAct, No. 12 of2012.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.97,
+      168.89,
+      378.89,
+      180.23
+    ],
+    "text": "5Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.13,
+      192.77,
+      379.69,
+      228.11
+    ],
+    "text": "9.The Schedule to the principal enactment is herebyamended, by the substitution for item 1 thereof, of thefollowing item:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.13,
+      240.77,
+      379.69,
+      348.11
+    ],
+    "text": "\u201c1.Value Added Tax Act, No. 14 of 2002 (other thanan enterprise which carries out activities which aretreated as zero rated activities within the meaningof the provisions of Value Added Tax Act and forwhich the provisions of paragraph (e) of subsection(2) of section 2 of the said Act are applicable onlocal purchase of goods or services under SimplifiedValue Added Tax Scheme referred to in thatparagraph);\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.13,
+      360.77,
+      379.68,
+      396.11
+    ],
+    "text": "10.The amendments made to the principal enactmentby this Part of this Act shall come into operation on the dateof commencement of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      243.09,
+      408.77,
+      276.8,
+      420.11
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.17,
+      432.77,
+      371.61,
+      444.11
+    ],
+    "text": "AMENDMENT OF PART II OF THE FINANCE ACT, NO. 16 OF 1995",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.13,
+      456.77,
+      379.71,
+      564.11
+    ],
+    "text": "11.The Finance Act, No. 16 of 1995 (hereinafter in thisPart, referred to as the \u201cprincipal enactment\u201d) is herebyamended in subsection (1) of section 3 thereof, by thesubstitution for the words \u201cevery luxury motor vehicle(other than a semi- luxury dual purpose motor vehicle or awagon)-\u201d of the words and figures \u201cevery luxury motorvehicle (other than a semi-luxury dual purpose motor vehicleor a wagon) of which the first year of registration falls priorto January 1, 2019-\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.13,
+      576.77,
+      379.69,
+      672.11
+    ],
+    "text": "12.Section 4 of the principal enactment is herebyamended in subsection (1) thereof, by the substitution forthe words \u201cevery semi-luxury motor vehicle (other than asemi-luxury dual purpose motor vehicle or a wagon)-\u201dof the words and figures \u201cevery semi-luxury motor vehicle(other than a semi-luxury dual purpose motor vehicle or awagon) of which the first year of registration falls prior toJanuary 1, 2019-\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      391.17,
+      193.99,
+      445.9,
+      231.86
+    ],
+    "text": "Amendment ofthe Schedule tothe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      391.17,
+      361.99,
+      451.17,
+      390.26
+    ],
+    "text": "Application ofthe provisions ofthis part.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      392.13,
+      457.51,
+      450.57,
+      485.78
+    ],
+    "text": "Amendment ofsection 3 of Act,No. 16 of 1995.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      391.17,
+      577.99,
+      445.9,
+      615.86
+    ],
+    "text": "Amendment ofsection 4 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "6Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.19,
+      194.21,
+      456.46,
+      275.51
+    ],
+    "text": "13.Section 5 of the principal enactment is herebyamended in subsection (1) thereof, by the substitution for thewords \u201cevery semi-luxury dual purpose motor vehicle (otherthan a wagon)-\u201d of the words and figures \u201cevery semi-luxurydual purpose motor vehicle (other than a wagon) of which thefirst year of registration falls prior to January 1, 2019.\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.19,
+      292.25,
+      456.45,
+      359.51
+    ],
+    "text": "14.Section 8 of the principal enactment is herebyamended in subsection (1) thereof, by the substitution forthe words \u201cany specified motor vehicle\u201d of the words andfigures \u201cany specified motor vehicle, of which the paymentdue date of the levy falls prior to January 1, 2019,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.19,
+      376.25,
+      456.47,
+      443.51
+    ],
+    "text": "15.Section 8A of the principal enactment is herebyamended by the substitution for the words \u201cany specifiedmotor vehicle\u201d of the words and figures \u201cany specified motorvehicle, of which the payment due date of the levy fallsprior to January 1, 2019,\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.19,
+      460.13,
+      456.46,
+      499.55
+    ],
+    "text": "16.The following new section is hereby insertedimmediately after section 8A and shall have effect as section8B of the principal enactment:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      270.19,
+      516.17,
+      456.47,
+      667.55
+    ],
+    "text": "8B. (1) Every Divisional Secretary whorenews an annual revenue licence in respect ofany specified motor vehicle of which thepayment due date of the levy falls on or afterJanuary 1, 2019, shall, at the time of renewingthe annual revenue licence, collect from theregistered owner of such motor vehicle anamount equal to such levy and remit theamount so collected to the Commissioner-General who shall credit the same to theConsolidated Fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.43,
+      194.11,
+      199.16,
+      231.98
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.67,
+      292.27,
+      199.4,
+      330.14
+    ],
+    "text": "Amendment ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145.51,
+      376.63,
+      198.79,
+      414.5
+    ],
+    "text": "Amendment ofsection 8A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.91,
+      461.71,
+      203.35,
+      499.58
+    ],
+    "text": "Insertion of newsection 8B in theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      517.63,
+      257.48,
+      565.1
+    ],
+    "text": "\u201cLevy to becollected atthe time ofrenewal ofregistration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200.97,
+      168.89,
+      378.89,
+      180.23
+    ],
+    "text": "7Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194.13,
+      193.73,
+      379.71,
+      289.07
+    ],
+    "text": "(2) Every Divisional Secretary who collectsthe levy under subsection (1) shall send amonthly report to the Commissioner-Generalin such form and containing such particularsas may be specified by the Commissioner-General in respect of the levy so collected andremitted to the Consolidated Fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194.13,
+      305.69,
+      379.68,
+      386.99
+    ],
+    "text": "(3) Every Divisional Secretary who collectsthe levy in accordance with the provisions ofsubsection (1), shall duly acknowledge thereceipt of the levy so collected, in such manneras may be specified by the Commissioner-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194.13,
+      403.73,
+      379.69,
+      499.07
+    ],
+    "text": "(4) Any levy so collected by any DivisionalSecretary in accordance with the provisions ofsubsection (1), shall be deemed to have beenpaid by such registered owner to theCommissioner-General on the date on whichsuch Divisional Secretary collected suchlevy.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      241.53,
+      515.69,
+      278.24,
+      527.03
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168.09,
+      543.65,
+      351.81,
+      554.99
+    ],
+    "text": "AMENDMENT OF THE FINANCE ACT, NO. 10 OF 2015",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.13,
+      571.73,
+      379.67,
+      611.03
+    ],
+    "text": "17.Part VII (Mansion Tax) of the Finance Act, No. 10of 2015 (hereinafter in this Part referred to as the \u201cprincipalenactment\u201d) is hereby repealed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.13,
+      625.01,
+      379.67,
+      662.27
+    ],
+    "text": "18.Part IX (Motor Vehicle Importers Licence Fee) ofthe principal enactment is hereby repealed, with effect fromJanuary 1, 2016.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      391.17,
+      572.59,
+      448.89,
+      600.86
+    ],
+    "text": "Repeal ofPart VII of Act,No. 10 of 2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      392.13,
+      626.71,
+      441.57,
+      664.58
+    ],
+    "text": "Repeal of PartIX of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "8Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      316.15,
+      192.89,
+      355.87,
+      204.23
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      249.43,
+      217.49,
+      422.59,
+      228.83
+    ],
+    "text": "IMPOSITION OF LUXURY TAX ON MOTOR VEHICLES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      242.09,
+      456.23,
+      302.63
+    ],
+    "text": "19.There shall be charged, a tax to be called the\u201cLuxury Tax\u201d (hereinafter in this Part referred to as \u201cthetax\u201d) on every specified motor vehicle of which the firstyear of registration falls on or after the date, and at the rates,as may be prescribed by regulations made under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      315.89,
+      456.22,
+      401.03
+    ],
+    "text": "20.(1) The tax payable under section 19 on anyspecified motor vehicle imported into Sri Lanka on or afterthe date prescribed under section19, shall be paid to theDirector-General of Customs, by the person importing suchvehicle, at the time of removing the vehicle from Sri Lankacustoms, together with the import duties payable in respectof such vehicle in terms of any written law.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      414.29,
+      456.19,
+      462.59
+    ],
+    "text": "(2) The provisions of the Customs Ordinance (Chapter235) applicable for the collection and recovery of anyCustoms Duty, shall, mutatis mutandis, apply for thecollection and recovery of the tax under this section.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      475.85,
+      456.22,
+      548.63
+    ],
+    "text": "21.(1) The tax payable under section 19 on anyspecified motor vehicle imported into Sri Lanka prior to thedate prescribed under section 19, or assembled in Sri Lankashall be paid by the registered owner of such vehicle to theCommissioner-General at the time of issuing the firstCertificate of Registration in respect of such vehicle.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      561.89,
+      456.11,
+      585.59
+    ],
+    "text": "(2) The Commissioner-General shall remit the taxcollected under subsection (1) to the Consolidated fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      598.85,
+      456.22,
+      660.23
+    ],
+    "text": "22.Nothing in this Part shall apply to any specifiedmotor vehicle providing services to a Diplomatic Missionof any State within the meaning of the Diplomatic PrivilegesAct, No. 9 of 1996 or to an International, Multilateral orBilateral Organization recognized in terms of that Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.43,
+      600.67,
+      200.73,
+      648.14
+    ],
+    "text": "Certain vehiclesto be exemptedfrom thepayment of thetax.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143.83,
+      243.31,
+      198.56,
+      271.58
+    ],
+    "text": "Imposition ofLuxury Tax onmotor vehicles.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.79,
+      317.83,
+      198.8,
+      346.1
+    ],
+    "text": "Collection oftax at the timeof importation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143.83,
+      477.55,
+      203.13,
+      505.82
+    ],
+    "text": "Collection of taxat the time ofregistration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200.97,
+      168.89,
+      378.89,
+      180.23
+    ],
+    "text": "9Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.17,
+      192.89,
+      378.72,
+      216.47
+    ],
+    "text": "23.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.17,
+      229.73,
+      378.7,
+      265.67
+    ],
+    "text": "\u201cCommissioner General\u201d means the CommissionerGeneral of Motor Trafic appointed under theMotor Traffic Act (Chapter 203);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.17,
+      278.93,
+      378.7,
+      314.87
+    ],
+    "text": "\u201cDirector- General of Customs\u201d means the Director-General of Customs appointed under section2 of the Customs Ordinance (Chapter 235);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.17,
+      328.13,
+      378.73,
+      462.47
+    ],
+    "text": "\u201cspecified motor vehicle\u201d means any assembled orunassembled diesel motor vehicle of whichthe cylinder capacity exceeds 2,300 CC or apetrol motor vehicle of which the cylindercapacity exceeds 1,800 CC or an electricvehicle of which motor power of the engineexceeds 200 Kw, but shall not include a dualpurpose petrol motor vehicle the cylindercapacity of which does not exceed 2,200 CC,dual purpose electric motor vehicle, a van, asingle cab or a wagon.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      237.09,
+      475.73,
+      280.53,
+      487.07
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.57,
+      500.33,
+      334.29,
+      511.67
+    ],
+    "text": "IMPOSITION OF VEHICLE ENTITLEMENT LEVY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.17,
+      524.93,
+      378.8,
+      622.43
+    ],
+    "text": "24.There shall be charged with effect from January 1,2016, a levy to be called the \u201cVehicle Entitlement Levy\u201d(hereinafter in this Part referred to as \u201cthe levy\u201d) from everyimporter of motor vehicles, who imports a motor vehiclespecified in the First Schedule hereto, at the respective ratesset out in that Schedule for each category of vehicle identifiedunder the harmonized commodity description and codingsystem numbers:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.17,
+      635.69,
+      378.73,
+      672.35
+    ],
+    "text": "Provided however, an importer of vehicle who importssuch vehicle in unassembled form shall not be liable to paythe levy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.17,
+      194.35,
+      442.18,
+      203.42
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.17,
+      525.91,
+      439.17,
+      563.78
+    ],
+    "text": "Imposition ofVehicleEntitlementLevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "10Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.83,
+      193.37,
+      456.2,
+      285.11
+    ],
+    "text": "25.(1) The Levy payable for any period commencingon January 1, 2016 but ending prior to January 1, 2019 shallhave been collected by the bank at which the Letter of Creditin respect of the vehicle imported is opened, at the time ofopening such Letter of Credit and shall be remitted in themanner specified in subsection (2) by such bank to theCommissioner-General.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.83,
+      300.65,
+      456.12,
+      325.31
+    ],
+    "text": "(2) The levy collected by the bank within the periodCommencing\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.55,
+      340.85,
+      456.09,
+      378.95
+    ],
+    "text": "(a)on the 1st day of any month to the 15th day of thatmonth shall have been remitted on or before theend of that month; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.55,
+      394.37,
+      456.09,
+      432.47
+    ],
+    "text": "(b)on the 16th day of any month to the end of thatmonth shall have been remitted on or before the15th day of the succeeding month,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.83,
+      448.01,
+      338.12,
+      459.35
+    ],
+    "text": "to the Commissioner-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.83,
+      474.77,
+      456.1,
+      512.87
+    ],
+    "text": "(3) Every bank which remit the levy in terms of thepreceding provisions of this section shall, submit a statementsetting out the following, to the Commissioner-General:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.55,
+      528.41,
+      456.1,
+      553.07
+    ],
+    "text": "(a)the name and address of each importer relating toeach remittance;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.55,
+      568.61,
+      348.57,
+      579.95
+    ],
+    "text": "(b)category of the vehicle;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      232.39,
+      595.37,
+      368.84,
+      606.71
+    ],
+    "text": "(c)value of the Letter of Credit;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      231.55,
+      622.13,
+      343.29,
+      633.47
+    ],
+    "text": "(d)amount collected; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      232.39,
+      649.01,
+      456.1,
+      673.67
+    ],
+    "text": "(e)any other details as may be required by theCommissioner-General, from time to time.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.83,
+      196.24,
+      201.55,
+      262.2
+    ],
+    "text": "Collecting thelevy for theperiodcommencingfrom January 1,2016 to January1, 2019.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      200.97,
+      168.89,
+      378.81,
+      180.23
+    ],
+    "text": "11Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152.13,
+      194.33,
+      379.67,
+      205.67
+    ],
+    "text": "(4) Any bank which collects the levy from any importer",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      209.45,
+      379.68,
+      235.79
+    ],
+    "text": "shall issue a copy of the Letter of Credit to such importercertifying that the levy has been paid. Any vehicle imported",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      239.57,
+      379.75,
+      250.91
+    ],
+    "text": "on a Letter of Credit opened on or after January 1, 2016",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      254.69,
+      379.67,
+      266.03
+    ],
+    "text": "shall not be allowed to be removed from the Sri Lanka",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      269.81,
+      379.68,
+      281.15
+    ],
+    "text": "Customs, unless the importer submits the copy of the Letter",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      284.93,
+      305.87,
+      296.27
+    ],
+    "text": "of Credit which is endorsed by the bank.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152.13,
+      315.05,
+      379.7,
+      326.39
+    ],
+    "text": "(5) In any event where the Letter of Credit is cancelled",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      330.17,
+      379.67,
+      341.51
+    ],
+    "text": "and a refund being requested by the importer who has paid",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      345.29,
+      379.69,
+      356.63
+    ],
+    "text": "the levy on such Letter of Credit, prior to the remittance of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      360.41,
+      379.66,
+      371.75
+    ],
+    "text": "such levy to the Commissioner-General, the bank may refund",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      375.53,
+      207.58,
+      386.87
+    ],
+    "text": "the levy so paid.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152.13,
+      405.65,
+      379.67,
+      416.99
+    ],
+    "text": "26.(1) The levy payable under section 24 for any period",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      420.77,
+      379.68,
+      432.11
+    ],
+    "text": "commencing on or after January 1, 2019, on any vehicle in",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      435.89,
+      379.67,
+      447.23
+    ],
+    "text": "respect of which the Letter of Criedit has been opened on or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      451.01,
+      379.66,
+      462.35
+    ],
+    "text": "after January 1, 2019 and imported into Sri Lanka, shall be",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      466.13,
+      379.67,
+      492.47
+    ],
+    "text": "paid by the importer of the vehicle to the Director-Generalof Customs, at the time of removing the vehicle from Sri",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      496.25,
+      379.65,
+      507.59
+    ],
+    "text": "Lanka Customs together with the import duties payable in",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      511.37,
+      346.44,
+      522.71
+    ],
+    "text": "respect of such vehicle in terms of any written law.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152.13,
+      541.61,
+      379.68,
+      552.95
+    ],
+    "text": "(2) Upon payment of the levy, the Director-General of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      556.73,
+      379.71,
+      583.07
+    ],
+    "text": "Customs shall issue a certificate called \u201cVehicle EntitlementCertificate\u201d in the form as may be prescribed, by regulations",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      586.85,
+      224.13,
+      598.19
+    ],
+    "text": "made under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      152.13,
+      617.09,
+      379.67,
+      628.43
+    ],
+    "text": "(3) The provisions of the Customs Ordinance (Chapter",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      632.21,
+      379.67,
+      643.55
+    ],
+    "text": "235) which apply for the collection and recovery of any",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      140.13,
+      647.33,
+      379.66,
+      673.67
+    ],
+    "text": "customs duty, shall, mutatis mutandis, apply for thecollection and recovery of the levy under this Part.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      391.17,
+      406.72,
+      448.89,
+      463.2
+    ],
+    "text": "Collecting thelevy for anyperiodcommencing onor afterJanuary1, 2019.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      217.15,
+      169.09,
+      395.01,
+      180.71
+    ],
+    "text": "12Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.59,
+      193.25,
+      455.88,
+      271.67
+    ],
+    "text": "27.Nothing in this Part shall apply to any vehicleimported to Sri Lanka for providing services to a DiplomaticMission of any State within the meaning of the DiplomaticPrivileges Act, No. 9 of 1996 or to an International,Multilateral or Bilateral Organization recognized in termsof that Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.59,
+      287.09,
+      455.88,
+      405.59
+    ],
+    "text": "28.Where a levy of such amount under section 24 hasbeen collected by a bank on behalf of the CommissionerGeneral, in terms of this Part of this Act, during the periodcommencing on January 1, 2016, and ending on the date ofthe commencement of this Act, from any person who importsa motor vehicle, such collection shall be deemed for allpurposes to have been, validly made, and the bank and theCommissioner General are hereby indemnified against allaction civil or criminal, in respect of such collection.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.59,
+      421.13,
+      455.86,
+      459.23
+    ],
+    "text": "29.The Parliament may by resolution amend the ratesof the levy payable under section 24 and set out in the FirstSchedule hereto.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.59,
+      474.65,
+      455.82,
+      499.43
+    ],
+    "text": "30.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      248.59,
+      514.85,
+      455.85,
+      553.07
+    ],
+    "text": "\u201cbank\u201d means a licensed commercial bank withinthe meaning of the Banking Act, No. 30 of1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      248.59,
+      568.49,
+      455.85,
+      620.03
+    ],
+    "text": "\u201cCommissioner-General\u201dmeans the CommissionerGeneral of Inland Revenue appointed ordeemed to be appointed under the InlandRevenue Act, No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      248.59,
+      635.45,
+      455.87,
+      673.67
+    ],
+    "text": "\u201cDirector General of Customs\u201d means the DirectorGeneral of Customs appointed under section2 of the Customs Ordinance (Chapter 235).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      422.35,
+      197.11,
+      461.78
+    ],
+    "text": "Amendment ofthe rates of thelevy byresolution ofParliament.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      476.11,
+      194.84,
+      485.18
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      288.07,
+      182.84,
+      297.14
+    ],
+    "text": "Validation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.11,
+      194.11,
+      199.41,
+      241.58
+    ],
+    "text": "Certain vehiclesto be exemptedfrom thepayment of thelevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "13Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      246.45,
+      204.05,
+      283.16,
+      215.39
+    ],
+    "text": "PART IX",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.45,
+      231.53,
+      334.29,
+      242.87
+    ],
+    "text": "ANNUAL COMPANY REGISTRATION LEVY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      258.89,
+      384.86,
+      366.11
+    ],
+    "text": "31.(1) There shall be charged and levied for the yearcommencing on January 1, 2016, and ending on December31, 2016 from every company incorporated or registeredunder the Companies Act, No. 7 of 2007, a levy to be called\u201cAnnual Company Registration Levy\u201d (hereinafter in thisPart reffered to as \u201cthe levy\u201d) at the respective rates asspecified for each category of Company in the SecondSchedule:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      382.25,
+      384.82,
+      407.27
+    ],
+    "text": "Provided however, the provisions of this section shallnot apply to-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      157.65,
+      423.29,
+      290.25,
+      434.63
+    ],
+    "text": "(a)an off-shore company; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      157.65,
+      450.65,
+      315.12,
+      461.99
+    ],
+    "text": "(b)a company limited by guarantee.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      478.13,
+      384.86,
+      530.51
+    ],
+    "text": "(2) The levy shall be collected by the Registrar ofCompanies from every relevant company on or beforeDecember 31, 2019 and be remitted to the ConsolidatedFund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      546.53,
+      384.84,
+      585.35
+    ],
+    "text": "(3) The provisions which may be necessary for theimplementation of the provisions of this Part shall beprescribed by regulations made under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      601.37,
+      384.97,
+      667.55
+    ],
+    "text": "32.Notwithstanding anything to the contrary in theprovisions of section 31, any company which is incorporatedunder the Companies Act, No. 7 of 2007, within the periodcommencing on January 1, 2016 and ending on December31, 2016 shall not be liable to pay the levy.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      260.11,
+      443.85,
+      307.58
+    ],
+    "text": "Imposition ofAnnualCompanyRegistrationLevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      603.19,
+      453.58,
+      650.66
+    ],
+    "text": "Certaincompanies to beexempted frompayment of thelevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "14Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      203.93,
+      451.18,
+      242.03
+    ],
+    "text": "33.(1) Any company which fails to pay the levy asprovided for in section 31, shall be deemed to be a defaulterunder this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      257.45,
+      451.23,
+      295.67
+    ],
+    "text": "(2) The provisions of section 34 shall apply to, and inralation to, the prosecution against any such defaulter andfor the recovery of such levy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      311.09,
+      451.2,
+      376.07
+    ],
+    "text": "34.(1) Where the amount of the levy or part thereof isin default, the Registrar of Companies shall issue a certificatecontaining particulars of the amount in default and the nameand address of the company, to the Magistrate havingjurisdiction over such place.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      391.49,
+      451.21,
+      429.59
+    ],
+    "text": "(2) The Magistrate shall thereupon summon the defaulterto show cause why proceedings for the recovery of theamount of the levy in default shall not be taken against him.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      445.13,
+      451.2,
+      523.43
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter, theamount of the levy in default shall be recovered by Order ofthe Magistrate, as if it was a fine imposed by the Magistrateon such defaulter, and when recovered be remmitted to theRegistrar of Companies to be credited to the ConsolidatedFund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      538.85,
+      451.19,
+      670.79
+    ],
+    "text": "35.Where a levy of such amount under section 31 hasbeen collected for the period specified in that section by theRegistrar of Companies, in terms of this Part of this Act,during the period commencing on January 1, 2016, andending on the date of the commencement of this Act, fromany company incorporated or registered under the CompaniesAct, No. 7 of 2007, such collection shall be deemed for allpurposes to have been, validly made, and the Registrar ofCompanies is hereby indemnified aganint all action civil orCriminal, in respect of such collection.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      311.59,
+      196.16,
+      330.26
+    ],
+    "text": "Recovery of theLevy in default.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      540.43,
+      178.16,
+      549.5
+    ],
+    "text": "Validation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      204.31,
+      192.44,
+      232.58
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "15Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      245.85,
+      202.73,
+      281.85,
+      214.07
+    ],
+    "text": "PART X",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      221.85,
+      225.89,
+      305.85,
+      237.23
+    ],
+    "text": "DEBT REPAYMENT LEVY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      249.05,
+      383.91,
+      329.99
+    ],
+    "text": "36.(1) There shall be charged and levied for everymonth commencing on October 1, 2018 but ending onDecember 31, 2021, from every financial institiution, a levyof 7 per centum to be called the \u201cDebt Repayment Levy\u201d(hereinafter in this Part referred to as \u201cthe levy\u201d) on the valueaddition attributable to the supply of financial services byeach such institution.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      341.93,
+      383.88,
+      388.07
+    ],
+    "text": "(2) For the purposes of this section the value additionattributable to the supply of financial services sahll becalculated based on the provisions specified in section 25Cof the Value Added Tax Act, No. 14 of 2002.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      399.89,
+      383.88,
+      503.99
+    ],
+    "text": "(3) The amount of the operating profit or loss of thefinancial institution considered for calculating the valueaddition attribuable to the supply of financial services underthis section, shall be the amount of the profit or loss of suchfinancial institution prior to deducting the tax payble underthis section, the value Added tax payble under section 25Aof the Value Added Tax Act, No. 14 of 2002 and the NationBuilding Tax payable under paragraph (iii) of subsection(2) of the Nation Building Tax Act, No. 9 of 2009.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      515.93,
+      383.89,
+      562.07
+    ],
+    "text": "(4) The levy for every month shall be remitted to theCommissioner-General, along with a value additionstatement in respect of such remittance on or before thetwentieth day of the month succeeding the relevant month.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      573.89,
+      383.89,
+      620.03
+    ],
+    "text": "(5) A financial institution shall in respect of each financialyear of such financial institution furnish a return in the formspecified by the Commissioner-General within a period ofsix months from the end of that financial year.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      631.85,
+      383.89,
+      667.79
+    ],
+    "text": "37.The Minister may, having regard to the economicdevelopment of the country, by Order published in theGazette, exempt any transaction of a financial institution",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      250.27,
+      454.29,
+      275.18
+    ],
+    "text": "Imposition ofDebt RepaymentLevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      633.19,
+      452.86,
+      671.06
+    ],
+    "text": "exemption fromthe Default inpayment of thelevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "16Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      202.61,
+      451.18,
+      236.99
+    ],
+    "text": "specified in such Order, from the payment of the levy payableunder this Part, subject to such condition as may be specifiedin such Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      248.57,
+      451.19,
+      294.47
+    ],
+    "text": "38.(1) Where any financial institution, which is liableto pay the levy under this Part fails to pay the levy as providedfor in section 36, such financial institution shall be deemedto be a defaulter under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      304.61,
+      451.17,
+      361.91
+    ],
+    "text": "(2) The provisions of Chapter IX, Chapter XI, ChapterXII, Chapter XIII, Chapter XIV, Chapter XV, Chapter XVI,Chapter XVII and Chapter XVIII of the Inland Revenue Act,No. 24 of 2017 shall, mutatis mutandis, apply to, and inrelation to, any such defaulter.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      372.05,
+      451.15,
+      394.91
+    ],
+    "text": "39.In this Part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.15,
+      405.05,
+      451.19,
+      450.95
+    ],
+    "text": "\u201cCommissioner-General\u201d means the Commissioner-General of Inland Revenue appointed or deemed tobe appointed under the Inland Revenue Act, No. 24of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      223.15,
+      461.09,
+      349.89,
+      472.43
+    ],
+    "text": "\u201cfinancial institution\u201dmeans\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      250.87,
+      482.57,
+      451.17,
+      516.95
+    ],
+    "text": "(a)a licensed commercial bank or a licensedspecialized bank within the meaning of theBanking Act, No. 30 of 1988;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      250.87,
+      527.09,
+      451.19,
+      549.95
+    ],
+    "text": "(b)a finance company licensed under theFinance Business Act, No. 42 of 2011.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      311.71,
+      561.53,
+      350.71,
+      572.87
+    ],
+    "text": "PART XI",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      307.51,
+      583.13,
+      354.79,
+      594.47
+    ],
+    "text": "CARBON TAX",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      604.61,
+      451.19,
+      673.79
+    ],
+    "text": "40.(1) There shall be levied for every year commencingfrom January 1, 2019, from the registered owner of everymotor vehicle specified in the Third Schedule hereto, a taxto be called the \u201cCarbon Tax\u201d (hereinafter in this Part referredto as \u201cthe tax\u201d) at such rates as may by specified in thatSchedule.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      373.51,
+      190.16,
+      382.58
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      607.15,
+      187.15,
+      625.82
+    ],
+    "text": "Imposition ofCarbon Tax.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      248.35,
+      192.44,
+      276.62
+    ],
+    "text": "Default inpayment of theLevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "17Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      202.61,
+      383.85,
+      225.47
+    ],
+    "text": "(2) The tax imposed under subsection (1) shall not applyfor any electric vehicle.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      237.05,
+      383.88,
+      282.95
+    ],
+    "text": "41. (1) The registered owner of any relevant vehicleshall pay the tax for every year, other than for the first year ofregistration of such motor vehicle, to the Divisional Secretary,on or before the due date of renewal of annual registration.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      294.65,
+      383.9,
+      351.95
+    ],
+    "text": "(2) Every Divisional Secretary who collects any amountin accordance with the provisions of subsection (1) shallduly acknowledge the receipt of the tax so collected andremit such amount to the Commissioner-General, in suchmanner as may be prescribed.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      363.65,
+      383.9,
+      409.43
+    ],
+    "text": "(3) The provisions which may be necessary for theimplementation of the provisions of this Part and collectionof the tax shall be prescribed by regulations made under thisAct.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      421.13,
+      383.94,
+      455.39
+    ],
+    "text": "42.The Parliament may by resolution amend the ratesof the tax payable under section 40 and set out in the ThirdSchedule hereto.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      478.61,
+      383.85,
+      501.47
+    ],
+    "text": "43.In this Part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      155.85,
+      513.05,
+      383.86,
+      547.43
+    ],
+    "text": "\u201cCommissioner-General\u201d means the Commissioner-General of Motor Traffic appointed under the MotorTraffic Act (Chapter 203).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      242.49,
+      559.13,
+      285.21,
+      570.47
+    ],
+    "text": "PART XII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      219.57,
+      580.61,
+      308.13,
+      591.95
+    ],
+    "text": "CELLULAR TOWER LEVY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      603.53,
+      383.91,
+      672.83
+    ],
+    "text": "44.(1) There shall be levied for every year commencingfrom January 1, 2019, from every mobile telephone operatorwho owns a cellular tower, a levy to be called the \u201cCellularTower Levy\u201d (hereinafter in this Part referred to as \u201cthe levy\u201d)of rupees two hundred thousand per annum for each cellulartower.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      422.11,
+      455.86,
+      459.98
+    ],
+    "text": "Amendment ofthe rates of thetax by resolutionof Parliament.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      480.19,
+      446.86,
+      489.26
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      605.11,
+      443.85,
+      633.38
+    ],
+    "text": "Imposition ofCellularTower Levy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      238.39,
+      455.85,
+      266.66
+    ],
+    "text": "Registeredowner to pay thetax.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "18Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      203.09,
+      451.2,
+      263.63
+    ],
+    "text": "(2) The levy shall be paid by such mobile telephoneoperator, to the Telecommunication RegulatoryCommission (hereinafter in this Part referred to as \u201ctheCommission\u201d) in four equal instalments, respectively asfollows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      276.89,
+      451.2,
+      300.59
+    ],
+    "text": "(a)first instalment on or before the fifteenth day ofApril of the relevant year;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      313.85,
+      451.18,
+      337.43
+    ],
+    "text": "(b)second instalment on or before the fifteenth day ofJuly of the relevant year;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      227.71,
+      350.69,
+      451.19,
+      374.39
+    ],
+    "text": "(c)third instalment on or before the fifteenth day ofOctober of the relevant year;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      387.65,
+      451.16,
+      411.23
+    ],
+    "text": "(d) fourth instalment on or before the fifteenth day ofJanuary of the year succeeding the relevant year.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      424.49,
+      451.2,
+      472.79
+    ],
+    "text": "(3) (a) The levy payable under subsection (1) in respectof any cellular tower not owned by any mobile telephoneoperator, shall be paid by the mobile telephone operatorwho uses the cellular tower.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      486.05,
+      451.19,
+      521.99
+    ],
+    "text": "(b) Where the cellular tower is used by more than onemobile telephone operator, the levy shall be paid by suchmobile telephone operators in equal shares.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      535.25,
+      451.2,
+      571.19
+    ],
+    "text": "(4) The Commission shall remit the amount of the levy socollected to the Consolidated Fund within fifteen days fromthe date of collection.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      584.45,
+      451.19,
+      620.39
+    ],
+    "text": "45.(1) Any mobile telephone operator who fails to paythe levy as provided for in section 44, shall be deemed to bea defaulter under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      633.65,
+      451.2,
+      670.55
+    ],
+    "text": "(2) The Provisions of section 46 shall apply to, and inrelation to the prosecution against any such defaulter andfor the recovery of such levy in default.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      586.39,
+      192.44,
+      614.66
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "19Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      202.61,
+      383.92,
+      271.43
+    ],
+    "text": "46.(1) Where the amount of the levy or part thereof isin default, the Commission shall issue a certificate containingparticulars of the amount in default, the name and the addressof the last known place of residence or business of thedefaulter, to the Magistrate having jurisdiction over suchplace.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      283.13,
+      383.9,
+      317.39
+    ],
+    "text": "(2) The Magistrate shall thereupon summon the defaulterto show cause why proceedings for the recovery of theamount of the levy in default shall not be taken against him.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      329.09,
+      383.9,
+      386.39
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter, theamount of the levy in default shall by Order of the Magistratebe recovered as if it was a fine imposed by the Magistrate onsuch defaulter and shall when recovered, be remitted to theCommission to be credited to the Consolidated Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      398.09,
+      383.85,
+      420.95
+    ],
+    "text": "47.In this Part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      432.53,
+      383.88,
+      466.91
+    ],
+    "text": "\u201cmobile telephone operator\u201d means an operatorlicensed under section 17 of the Sri LankaTelecommunications Act, No. 25 of 1991;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      478.61,
+      383.9,
+      512.87
+    ],
+    "text": "\u201ccellular tower\u201d means a cellular telephone site whereantennae and electronic communicationequipment are placed;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      524.57,
+      383.89,
+      570.47
+    ],
+    "text": "\u201cTelecommunication Regulatory Commission\u201d meansthe Telecommunication Regulatory Commissionof Sri Lanka established under the Sri LankaTelecommunications Act, No. 25 of 1991.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      241.05,
+      582.05,
+      286.77,
+      593.39
+    ],
+    "text": "PART XIII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      160.77,
+      603.53,
+      367.05,
+      614.87
+    ],
+    "text": "IMPOSITION OF LEVY ON MOBILE SHORT MESSAGE SERVICES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      626.57,
+      383.87,
+      672.71
+    ],
+    "text": "48.(1) There shall be charged with effect from January1, 2019, a levy of 25 cents per each mobile short message, onbulk advertisements sent through mobile short messageservices.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      627.79,
+      449.14,
+      665.66
+    ],
+    "text": "Imposition oflevy on mobileshort messageservices.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      203.11,
+      452.85,
+      221.78
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      399.55,
+      446.86,
+      408.62
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "20Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      202.61,
+      451.16,
+      236.99
+    ],
+    "text": "(2) The levy imposed under subsection (1), shall be paidby the advertiser who intends to advertise through the mobileshort message in respect of which the levy is charged.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      246.05,
+      451.19,
+      291.95
+    ],
+    "text": "(3) Regulations shall be made under this Act, specifyingthe manner of collection and recovery of the levy and formaking provisions for the implementation of the provisionsof this Part of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      303.65,
+      451.15,
+      326.39
+    ],
+    "text": "49.In this Part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      232.15,
+      335.57,
+      451.17,
+      358.43
+    ],
+    "text": "\u201cmobile short message\u201d means a text message which issent through mobile phones;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      232.15,
+      367.61,
+      451.18,
+      401.99
+    ],
+    "text": "\u201cbulk advertisements\u201d means messages being sentthrough mobile phones to group of recipientsfor commercial purposes.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      307.87,
+      411.05,
+      354.3,
+      422.39
+    ],
+    "text": "PART XIV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      315.43,
+      431.57,
+      346.87,
+      442.91
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      452.09,
+      451.2,
+      486.47
+    ],
+    "text": "50.Where the default in payment of a levy or taximposed under this Act is made by a body of persons, if thatbody of persons is\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      225.91,
+      495.53,
+      451.18,
+      529.91
+    ],
+    "text": "(a)a body corporate, every director and officerresponsible with the management and control ofthat body corporate; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      225.91,
+      539.09,
+      390.45,
+      550.43
+    ],
+    "text": "(b)a firm, every partner of that firm; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.63,
+      559.61,
+      451.19,
+      593.87
+    ],
+    "text": "(c)a body unincorporated other than a firm, everyofficer responsible with the management andcontrol of that body,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      603.05,
+      451.11,
+      625.91
+    ],
+    "text": "shall be liable to be prosecuted for the recovery of such levyor tax as provided for in this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      637.61,
+      451.18,
+      672.11
+    ],
+    "text": "51. (1) The Minister may make regulations in respectof all matters which are required to be prescribed or for whichregulations are authorized to be made under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.11,
+      453.19,
+      198.55,
+      471.86
+    ],
+    "text": "Default by bodyof persons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      638.11,
+      182.59,
+      647.18
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      303.55,
+      190.16,
+      312.62
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "21Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      202.61,
+      383.89,
+      248.39
+    ],
+    "text": "(2) Every regulation made by the Minister undersubsection (1) shall be published in the Gazette and shallcome into operation on the date of its publication or on suchlater date as may be specified therein.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      257.57,
+      383.93,
+      326.39
+    ],
+    "text": "(3) Every regulation made by the Minister shall as soonas convenient after its publication in the Gazette, be broughtbefore Parliament for approval. Every regulation which isnot so approved shall be deemed to be rescinded from thedate of disapproval but without prejudice to anything dulydone thereunder.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      335.57,
+      383.88,
+      358.43
+    ],
+    "text": "(4) Notification of the date on which any regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      370.13,
+      383.88,
+      404.39
+    ],
+    "text": "52.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      341.37,
+      416.11,
+      384.81,
+      425.18
+    ],
+    "text": "[Section 24]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      174.81,
+      450.31,
+      374.62,
+      478.58
+    ],
+    "text": "Category of vehicles identified under theRateHarmonized Commodity Description and(Rs.perCoding System Numbers for custom purposes.vehicle)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      154.65,
+      488.71,
+      372.95,
+      497.78
+    ],
+    "text": "1Trishaws, Tractors and Motorcycles2,000",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      154.29,
+      507.91,
+      372.81,
+      545.78
+    ],
+    "text": "2(a)Motor cars and other motor vehiclesprincipally designed for the transportof persons other than the vehiclesreferred to in item 115,000",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.37,
+      555.91,
+      334.53,
+      564.98
+    ],
+    "text": "(b)Crew cabs, double cabs and cargo vans",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      154.29,
+      575.11,
+      332.28,
+      593.78
+    ],
+    "text": "3The following vehicles are not covered by theabove items 1 and 2",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.37,
+      603.91,
+      372.81,
+      632.18
+    ],
+    "text": "(a)Special purpose vehicles other10,000than those principally designedfor the transport of persons or goods",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.37,
+      642.31,
+      335.26,
+      670.58
+    ],
+    "text": "(b)Carriages for disabled persons,whether or not motorized or otherwisemechanically propelled",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      370.75,
+      455.85,
+      399.02
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      240.21,
+      433.15,
+      287.49,
+      442.22
+    ],
+    "text": "FIRST SCHEDULE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "22Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      304.87,
+      326.95,
+      451.15,
+      345.62
+    ],
+    "text": "[Section 40]THIRD SCHEDULE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      214.75,
+      355.75,
+      408.79,
+      374.42
+    ],
+    "text": "Category of theRate (Rs.)vehicle",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      280.03,
+      384.55,
+      446.71,
+      403.22
+    ],
+    "text": "Less than 055 to 10 YearsOver 10 YearsYears",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      217.15,
+      413.35,
+      444.14,
+      422.42
+    ],
+    "text": "Hybrid0.25 per cm30.50 per cm31.00 per cm3",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      4.699999809265137,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      217.15,
+      422.95,
+      268.15,
+      432.02
+    ],
+    "text": "(Petrol/Diesel)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      217.15,
+      442.15,
+      444.14,
+      451.22
+    ],
+    "text": "Fuel0.50 per cm31.00 per cm31.50 per cm3",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      4.699999809265137,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      217.15,
+      451.75,
+      268.15,
+      460.82
+    ],
+    "text": "(Petrol/Diesel)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      217.15,
+      470.95,
+      444.19,
+      480.02
+    ],
+    "text": "Passenger busRs. 1,000/-Rs. 2,000/-Rs. 3,000/-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      302.71,
+      204.19,
+      451.15,
+      222.86
+    ],
+    "text": "[Section 31]SECOND SCHEDULE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      232.99,
+      429.31,
+      242.06
+    ],
+    "text": "Category of CompanyRate (Rs. Per annum)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      252.19,
+      407.11,
+      261.26
+    ],
+    "text": "Private Company30,000/-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      271.39,
+      407.11,
+      280.46
+    ],
+    "text": "Listed Public Company1,500,000/-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      290.59,
+      407.23,
+      299.66
+    ],
+    "text": "Any other Company250,000/-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "23Finance Act, No. 35 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      146.49,
+      649.99,
+      454.89,
+      668.66
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

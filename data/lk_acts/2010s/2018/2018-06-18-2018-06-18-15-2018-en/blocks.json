@@ -1,0 +1,1090 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.05,
+      379.04,
+      418.76,
+      393.78
+    ],
+    "text": "MATERNITY BENEFITS (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.13,
+      394.64,
+      363.7,
+      409.38
+    ],
+    "text": "ACT, No. 15 OF 2018",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.85,
+      450.65,
+      367.28,
+      461.99
+    ],
+    "text": "[Certified on 18th of June, 2018]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.58,
+      622.43
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      536.09,
+      442.53,
+      559.43
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of June 22, 2018",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.13,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "1Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      327.31,
+      433.3,
+      336.38
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.13,
+      203.09,
+      327.59,
+      214.43
+    ],
+    "text": "[Certified on 18th of June, 2018]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      227.69,
+      214.29,
+      239.03
+    ],
+    "text": "L.D.\u2014O. 23/2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.57,
+      252.29,
+      371.13,
+      275.99
+    ],
+    "text": "AN ACT TO AMEND THE MATERNITY BENEFITS ORDINANCE(CHAPTER 140)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      289.25,
+      383.9,
+      312.83
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      326.09,
+      383.88,
+      349.79
+    ],
+    "text": "1.This Act may be cited as the Maternity Benefits(Amendment) Act, No. 15 of 2018.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      363.05,
+      383.92,
+      411.23
+    ],
+    "text": "2.Section 3 of the Maternity Benefits Ordinance(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended by the repealed of subsection (1) of that sectionand substitution therefor, of the following subsection:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168.81,
+      424.49,
+      383.89,
+      460.43
+    ],
+    "text": "\u201c(1) The period for which any woman worker shallbe entitled to the payment of maternity benefits shallbe\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.57,
+      473.69,
+      383.89,
+      534.23
+    ],
+    "text": "(a)twelve weeks, that is to say two weeks upto and including the day of her confinementand ten weeks immediately following thatday, if the confinement results in the issueof a live child; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.57,
+      547.49,
+      383.89,
+      608.03
+    ],
+    "text": "(b)six weeks, that is to say two weeks up toand including the day of her confinementand four weeks immediately following thatday, if the confinement does not result inthe issue of a live child:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.85,
+      621.29,
+      383.88,
+      670.07
+    ],
+    "text": "Provided however, that where such woman workerhas worked in her employment for any number of daysduring the aforesaid period of two weeks referred to inparagraphs (a) and (b) she shall be entitled to the",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      364.99,
+      449.13,
+      393.26
+    ],
+    "text": "Amendment ofsection 3 ofChapter 140.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      166.97,
+      398.84,
+      191.39
+    ],
+    "text": "2Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.15,
+      203.09,
+      451.21,
+      263.63
+    ],
+    "text": "payment of maternity benefits for such number of daysimmediately after her confinement commencing fromthe day immediately after the date on which theaforesaid period of ten weeks or four weeks as the casemay be, ends.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      276.89,
+      451.19,
+      300.59
+    ],
+    "text": "3.Section 5 of the principal enactment is hereby repealedand the substitution therefor, of the following section:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      313.85,
+      451.19,
+      349.79
+    ],
+    "text": "5. (1) The employer of a woman worker shallpay to such woman worker maternity benefitsat the prescribed rate\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      274.87,
+      363.05,
+      451.18,
+      435.83
+    ],
+    "text": "(a)for the entirety of the period of twoweeks immediately preceding theconfinement and of the period of tenweeks immediately following herconfinement if such confinement resultsin the issue of a live child; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      274.87,
+      449.09,
+      451.17,
+      521.99
+    ],
+    "text": "(b)for the entirety of the period of twoweeks immediately preceding theconfinement and of the period of fourweeks immediately following herconfinement, if the confinement doesnot result in the issue of a live child:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      535.25,
+      451.19,
+      608.03
+    ],
+    "text": "Provided however, where such womanworker has worked in her employment on anynumber of days during the aforesaid period oftwo weeks referred to in paragraphs (a) and (b),she shall be entitled to maternity benefits forsuch number of days after her confinement.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      621.29,
+      451.17,
+      669.83
+    ],
+    "text": "(2) The periods in respect of whichpayments of maternity benefits shall be madeunder this section shall be in addition to anyholiday or leave to which she is entitled.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      278.71,
+      253.4,
+      362.18
+    ],
+    "text": "Replacement ofsection 5 of theprincipalenactment.\u201cLiablity ofemployerand rate ofmaternitybenefits.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.13,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "3Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      203.09,
+      383.89,
+      226.79
+    ],
+    "text": "4.Section 6 of the principal enactment is hereby repealedand the substitution therefor, of the following section:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      240.05,
+      383.9,
+      300.59
+    ],
+    "text": "6. Nothing in the provisions of section 5shall be deemed to entitle any woman workerto claim the maternity benefits referred to inthis Ordinance from more than one employerin respect of the same confinement.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      338.45,
+      383.88,
+      362.03
+    ],
+    "text": "5.Section 7 of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      375.29,
+      383.86,
+      398.99
+    ],
+    "text": "(1)by the repeal of subsection (2) of that section andsubstitution therefor, of the following subsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.85,
+      412.25,
+      383.88,
+      509.63
+    ],
+    "text": "\u201c(2) A woman worker who has been confinedshall, within one week of her confinement givenotice to her employer of the date on which shewas confined and for the purpose of ascertainingthe number of days, she will be permitted toabsent herself from the employment specifywhether the confinement resulted in the issue ofa live child or not;\u201d;and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      522.89,
+      383.87,
+      558.83
+    ],
+    "text": "(2)by the repeal of subsection (4) of that section andthe substitution therefor, of the followingsubsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.85,
+      572.09,
+      383.89,
+      620.39
+    ],
+    "text": "\u201c(4) The employer shall on receipt of thenotice from a woman worker under subsection(1) or subsection (2), permit that woman workerto absent herself from employment\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231.57,
+      633.65,
+      383.87,
+      669.59
+    ],
+    "text": "(a)for two weeks immediatelypreceding, and ten weeksimmediately following her",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      240.67,
+      191.85,
+      329.9
+    ],
+    "text": "\u201cWomanworker not toclaimbenefits, inrespect of thesameconfinement,from morethan oneemployer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      205.15,
+      452.14,
+      243.02
+    ],
+    "text": "Replacement ofsection 6 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      339.79,
+      452.14,
+      377.66
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      166.97,
+      398.84,
+      191.39
+    ],
+    "text": "4Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      319.15,
+      202.85,
+      451.17,
+      237.71
+    ],
+    "text": "confinement if the confinementresults in the issue of a live child;and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      298.87,
+      250.01,
+      451.17,
+      320.39
+    ],
+    "text": "(b)for two weeks immediatelypreceding and four weeksimmediately following herconfinement, if the confinementdoes not result in the issue of alive child:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      259.15,
+      332.57,
+      451.19,
+      450.11
+    ],
+    "text": "Provided however, that where such womanworker has worked in her employment for anynumber of days during the aforesaid period oftwo weeks referred to in paragraphs (a) and (b),she shall be permitted to absent herself fromemployment for such number of days after herconfinement commencing from the dayimmediately after the date on which the aforesaidperiod of ten weeks or four weeks, as the casemay be end.\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      462.41,
+      451.16,
+      485.51
+    ],
+    "text": "(3)by the insertion immediately after subsection (4) ofthat section of the following new subsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      259.15,
+      497.81,
+      451.17,
+      556.31
+    ],
+    "text": "\u201c(5) The leave to which a woman worker isentitled under this Act in consequence of anyconfinement shall be in addition to any holidayor leave to which she is entitled under any otherlaw or regulation.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      568.61,
+      451.17,
+      603.47
+    ],
+    "text": "6.Section 8 of the principal enactment is hereby amended,by the substitution for the words \u201cnotice of her confinement toher employer under section 7(2)\u201d of the following words:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      615.77,
+      451.18,
+      638.87
+    ],
+    "text": "\u201cnotice of her confinement to her employer undersection 7(2):",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      646.73,
+      451.18,
+      669.83
+    ],
+    "text": "Provided however, that for the purpose ofascertaining the period for which such woman",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      569.11,
+      195.44,
+      606.98
+    ],
+    "text": "Amendment ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.13,
+      166.97,
+      383.69,
+      191.39
+    ],
+    "text": "5Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      62.49,
+      332.07,
+      66.49,
+      345.68
+    ],
+    "text": "`",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      383.71,
+      455.85,
+      411.98
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      202.97,
+      383.89,
+      250.31
+    ],
+    "text": "worker is entitled to the payment of maternitybenefit, she shall inform her employer of whether ornot her confinement resulted in the issue of a livechild or not.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      262.97,
+      383.9,
+      322.31
+    ],
+    "text": "7.Section 11 of the principal enactment is herebyamended, in subsection (1) of that section by the substitutionfor the words \u201cdepriving her of any maternity benefit oralternative maternity benefits to which\u201d, of the words,\u201cdepriving her of any maternity benefits to which\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      334.97,
+      383.88,
+      370.31
+    ],
+    "text": "8.Section 15 of the principal enactment is herebyamended, in subsection (2) of that section, by the repeal ofparagraph (f) thereof.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      382.97,
+      383.9,
+      406.31
+    ],
+    "text": "9.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      418.97,
+      146.35,
+      430.31
+    ],
+    "text": ".",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      264.19,
+      449.13,
+      302.06
+    ],
+    "text": "Amendment ofsection 11 ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      337.15,
+      449.13,
+      375.02
+    ],
+    "text": "Amendment ofsection 15 ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      166.97,
+      398.84,
+      191.39
+    ],
+    "text": "6Maternity Benefits (Amendment)Act, No. 15 of 2018",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.07,
+      629.95,
+      450.91,
+      648.62
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
