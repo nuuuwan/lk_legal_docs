@@ -1,0 +1,7579 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      163.77,
+      166.37,
+      436.05,
+      220.23
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.57,
+      235.47,
+      374.02,
+      249.08
+    ],
+    "text": "Part II of November 04, 2022",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      265.35,
+      341.85,
+      278.96
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      293.55,
+      354.56,
+      307.16
+    ],
+    "text": "(Issued on 04.11.2022)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.85,
+      418.71,
+      425.85,
+      446.72
+    ],
+    "text": "RECOVERY OF POSSESSION OF PREMISESGIVEN ON LEASE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      569.93,
+      441.58,
+      593.27
+    ],
+    "text": "Ordered to be published by the Minister of Justice, Prison Affairs andConstitutional Reforms",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.29,
+      460.71,
+      303.95,
+      474.32
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.21,
+      487.83,
+      314.49,
+      501.44
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      511.13,
+      455.88,
+      559.43
+    ],
+    "text": "to provide for the procedure relating to the recovery of possession of premisesgiven on lease under a lease agreement and to regulate the recovery ofarrears of lease rentals, service charges and liquidated damages and to provide for matters connected therewith or incidental thereto",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      621.17,
+      455.83,
+      632.51
+    ],
+    "text": "Price : Rs. 50.00Postage : Rs. 35.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.85,
+      600.91,
+      392.85,
+      609.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      610.51,
+      404.13,
+      619.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      661.15,
+      401.61,
+      670.22
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.21,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "1Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.29,
+      375.89,
+      153.29,
+      387.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      461.93,
+      155.01,
+      473.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      571.97,
+      155.01,
+      583.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      645.89,
+      155.01,
+      657.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      203.09,
+      228.57,
+      214.43
+    ],
+    "text": "L.D.-O. 66/2021",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      227.69,
+      401.85,
+      239.03
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE PROCEDURE RELATING TO THE RECOVERY OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      240.05,
+      401.87,
+      251.39
+    ],
+    "text": "POSSESSION OF PREMISES GIVEN ON LEASE UNDER A LEASE AGREEMENT;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      252.29,
+      401.85,
+      263.63
+    ],
+    "text": "TO REGULATE THE RECOVERY OF ARREARS OF LEASE RENTALS, SERVICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      264.65,
+      401.85,
+      275.99
+    ],
+    "text": "CHARGES AND LIQUIDATED DAMAGES; AND TO PROVIDE FOR MATTERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      276.89,
+      338.11,
+      288.23
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      301.49,
+      401.9,
+      325.19
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      338.45,
+      401.86,
+      362.03
+    ],
+    "text": "1. This Act may be cited as the Recovery of Possessionof Premises Given on Lease Act, No. of 2022.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.85,
+      375.29,
+      296.85,
+      386.63
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.29,
+      399.89,
+      322.29,
+      411.23
+    ],
+    "text": "INSTITUTION OF ACTION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      424.49,
+      401.88,
+      485.03
+    ],
+    "text": "2. (1) Where any premises has been given on lease by alessor, such lessor may, subject to the provisions ofsubsection (2), institute action for the recovery of possessionof such premises in the Court having jurisdiction over thelocal limits within which-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      498.29,
+      357.59,
+      509.63
+    ],
+    "text": "(a)the premises given on lease is situated;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      522.89,
+      270.58,
+      534.23
+    ],
+    "text": "(b)the lessee resides;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.29,
+      547.49,
+      313.31,
+      558.83
+    ],
+    "text": "(c)the cause of action arises; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      572.09,
+      401.88,
+      595.79
+    ],
+    "text": "(d)the lease agreement sought to be enforced wasmade.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      609.05,
+      401.89,
+      669.59
+    ],
+    "text": "(2) An action shall not be instituted by a lessor under theprovisions of this Act for the recovery of possession of apremises given on lease or for any relief specified insubsection (2) of section 5 unless possession of such premiseshas been given to the lessee by a lease agreement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      340.51,
+      442.3,
+      349.58
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      425.59,
+      455.86,
+      492.26
+    ],
+    "text": "Action by thelessor torecoverpossession ofa premisesgiven onlease",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "2Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.35,
+      264.77,
+      148.35,
+      276.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      336.77,
+      151.15,
+      348.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      406.97,
+      150.31,
+      418.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      478.97,
+      150.31,
+      490.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      561.89,
+      150.31,
+      573.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      633.89,
+      150.31,
+      645.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      204.89,
+      397.17,
+      251.99
+    ],
+    "text": "3. An action under this Act may be instituted by thelessor to recover the possession of the premises given onlease where the lessee refuses or fails or neglects to leave thepremises -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      264.41,
+      397.16,
+      275.75
+    ],
+    "text": "(a)at the expiry of the period of the lease agreement; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      288.17,
+      397.23,
+      359.03
+    ],
+    "text": "(b)upon the termination of the lease agreement priorto the expiry of the period of the lease agreementdue to a breach by the lessee of any of the terms,conditions, covenants, obligations or duties set outin the said agreement, where the lessor has issued anotice of termination of the lease agreement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      371.45,
+      397.21,
+      418.55
+    ],
+    "text": "4. (1) The lessor (hereinafter referred to as the \u201cplaintiff\u201d)shall institute an action by presenting a plaint in the formspecified in the Civil Procedure Code and shall file withsuch plaint-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      430.97,
+      397.18,
+      489.95
+    ],
+    "text": "(a) an affidavit to the effect that the possession of thepremises given on lease which is the subject matterof the action (hereinafter referred to as the\u201cpremises\u201d) is lawfully due to the plaintiff from thelessee (hereinafter referred to as the \u201cdefendant\u201d);",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      502.37,
+      397.18,
+      537.47
+    ],
+    "text": "(b)a draft decree nisi together with the applicablestamps as required by law, for the decree nisi andservice thereof; and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      550.01,
+      397.21,
+      608.87
+    ],
+    "text": "(c)such number of copies of the plaint, affidavit andlease agreement, together with any document reliedon by the lessor, as is equal to the number ofdefendants in the action, if there are more than onedefendant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      621.41,
+      397.17,
+      668.51
+    ],
+    "text": "(2) (a) The affidavit to be filed by the plaintiff undersubsection (1) shall be made by the plaintiff himself or by aperson duly authorized by law to make such affidavit onbehalf of the plaintiff.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      206.59,
+      448.16,
+      234.86
+    ],
+    "text": "Grounds forinstitution ofaction",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      372.55,
+      442.87,
+      391.22
+    ],
+    "text": "Documentsto be filed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.21,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "3Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148.29,
+      251.93,
+      153.29,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      334.97,
+      156.09,
+      346.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      419.93,
+      156.09,
+      431.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      491.93,
+      156.09,
+      503.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      564.89,
+      156.09,
+      576.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      645.89,
+      155.01,
+      657.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      202.97,
+      401.91,
+      262.31
+    ],
+    "text": "(b) If the action is instituted by the plaintiff on the groundreferred to in paragraph (b) of section 3, the plaintiff shallplead such facts and prima facie establish the breachcommitted by the defendant and shall also adduce proof ofthe early termination.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      274.97,
+      401.9,
+      322.31
+    ],
+    "text": "(3) In any action instituted under subsection (1), the Courtshall permit the plaintiff to support the same within sevendays from the institution of the action for issuance of a decreenisi.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      334.97,
+      401.88,
+      370.31
+    ],
+    "text": "5. (1) When the action is supported in Court for theissuance of a decree nisi in terms of section 4, if it appears tothe Court that \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      382.97,
+      326.88,
+      394.31
+    ],
+    "text": "(a)the lease agreement produced \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      406.97,
+      401.85,
+      430.31
+    ],
+    "text": "(i)is properly executed and duly stamped asrequired by law; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194.85,
+      442.97,
+      401.9,
+      526.31
+    ],
+    "text": "(ii)is not open to suspicion by reason of anyalteration, erasure or interpolation in the leaseagreement unless such alteration, erasure orinterpolation has been made before the signingby the executing parties as stated in theattestation by notary public, as the case maybe; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      538.97,
+      401.9,
+      574.31
+    ],
+    "text": "(b)the contents of the affidavit filed is satisfactory toprove, prima facie, the case on the part of theplaintiff,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      586.97,
+      401.88,
+      634.31
+    ],
+    "text": "the Court shall enter a decree nisi in the form set out in theFirst Schedule to recover the possession of the premisesdescribed in the plaint, together with any of the reliefsspecified in subsection (2).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      646.97,
+      401.85,
+      670.43
+    ],
+    "text": "(2) The relief referred to in subsection (1) shall be asfollows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      336.55,
+      452.14,
+      364.82
+    ],
+    "text": "Entering adecree nisiby the Court",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "4Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.35,
+      281.69,
+      148.35,
+      293.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.75,
+      360.77,
+      150.19,
+      372.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.75,
+      449.69,
+      150.19,
+      461.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.75,
+      516.77,
+      150.19,
+      528.11
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.75,
+      594.77,
+      150.19,
+      606.11
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      203.57,
+      298.17,
+      214.91
+    ],
+    "text": "(a)the arears of lease rentals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      229.61,
+      397.19,
+      253.91
+    ],
+    "text": "(b)service charges, if any, until the plaintiff is restoredto vacant possession of the premises;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      268.61,
+      397.19,
+      331.91
+    ],
+    "text": "(c)liquidated damages, if any, from the expiry of thelease agreement or effective date of the terminationof the lease agreement until the date of restorationof the plaintiff to the vacant possession of thepremises;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      346.61,
+      397.2,
+      383.99
+    ],
+    "text": "(d)interest on arrears of lease rentals, service chargesand liquidated damages at the rate of legalinterest; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      398.57,
+      397.19,
+      435.95
+    ],
+    "text": "(e)such costs as the Court may allow together withsuch other reliefs prayed for by the plaintiff as theCourt may seem meet.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      450.53,
+      397.31,
+      526.91
+    ],
+    "text": "6. (1) The Court, when determining the liquidateddamages to be awarded under subsection (2) of section 5,shall not award any sum in excess of twice the lease rentalagreed to in the lease agreement, though any sum in excessof such liquidated damages has been agreed to by the partiesin the lease agreement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      541.61,
+      397.18,
+      604.91
+    ],
+    "text": "(2)Where the parties have not agreed upon the liquidateddamages payable in the lease agreement for the grounds ofaction specified in section 3, the liquidated damages thatmay be awarded shall be the sum of the lease rental agreed toby the parties in the lease agreement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      619.61,
+      397.19,
+      669.95
+    ],
+    "text": "7. A service charge shall not be ordered unless thedefendant has agreed to pay such service charge in the leaseagreement, either directly to the plaintiff or to another personon behalf of the plaintiff.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      451.51,
+      441.44,
+      470.18
+    ],
+    "text": "Liquidateddamages",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      404.11,
+      621.55,
+      444.55,
+      649.82
+    ],
+    "text": "Payment ofservicecharge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210.21,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "5Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.29,
+      273.89,
+      153.29,
+      285.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      345.89,
+      155.01,
+      357.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      418.97,
+      155.01,
+      430.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      490.97,
+      156.09,
+      502.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      562.97,
+      156.09,
+      574.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      265.29,
+      202.97,
+      298.29,
+      214.31
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      239.13,
+      226.97,
+      324.69,
+      238.31
+    ],
+    "text": "SERVICE OF DECREE NISI",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      250.97,
+      401.91,
+      310.31
+    ],
+    "text": "8. (1) A decree nisi shall be served on the defendant torecover possession of the premises as asserted by the plaintiffwhile giving the defendant a reasonable opportunity to makean application to seek leave to appear and show cause, inrespect of his position.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      322.97,
+      401.9,
+      370.31
+    ],
+    "text": "(2) The decree nisi shall be ordinarily served on thedefendant by registered post at the premises or at the addressgiven by the defendant in the lease agreement for service ofnotices, if any.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      382.97,
+      401.86,
+      430.31
+    ],
+    "text": "(3) The Registrar of the Court shall, within a period notlater than three days from the date of entering of the decreenisi under section 5, initiate action to serve the decree nision the defendant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      442.97,
+      401.89,
+      514.31
+    ],
+    "text": "9. (1) The Court may, on application being made in thatbehalf immediately after the decree nisi is entered undersection 5, and at its discretion, order that in addition toserving the decree nisi by registered post, the decree nisimay also be served by tendering or delivering the same onthe defendant personally through a process officer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      526.97,
+      401.87,
+      598.31
+    ],
+    "text": "(2) In the case where such decree nisi is ordered to beserved through a process officer under subsection (1), theRegistrar of the Court shall authorize the process officer toserve the decree nisi on the defendant within ten days fromthe receipt by such process officer of the decree nisi alongwith the precept in the form specified in the Second Schedule.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      610.97,
+      401.87,
+      671.03
+    ],
+    "text": "(3) The decree nisi may be served in any part of Sri Lanka.Where a decree nisi ordered to be served personally througha process officer is required to be served outside the locallimits of the jurisdiction of the Court issuing the same, thedecree nisi shall be forwarded by such Court to the court",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      408.81,
+      252.19,
+      453.1,
+      309.26
+    ],
+    "text": "Service ofdecree nisiordinarily tobe byregisteredpost",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      443.59,
+      451.29,
+      481.46
+    ],
+    "text": "Service ofdecree nisiby a processofficer",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      634.97,
+      155.01,
+      646.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "6Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.35,
+      252.77,
+      148.35,
+      264.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.71,
+      329.69,
+      151.15,
+      341.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.71,
+      405.77,
+      151.15,
+      417.11
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.75,
+      468.89,
+      150.19,
+      480.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.35,
+      544.97,
+      150.79,
+      556.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.47,
+      618.89,
+      150.91,
+      630.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      203.33,
+      397.19,
+      265.07
+    ],
+    "text": "within whose jurisdiction the defendant is believed to beresiding forthwith, and it shall be the duty of the last-mentioned court to cause the decree nisi to be duly servedon the defendant in accordance with the provisions of thisAct.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      278.93,
+      397.21,
+      378.47
+    ],
+    "text": "(4) Where a decree nisi is required to be served outsidethe local limits of the jurisdiction of the Court issuing thesame, the Court may, at its discretion or on application madeby the plaintiff, for reasons to be recorded and upon suchterms as to costs, authorize the process officer of that Courtto serve the decree nisi outside the local limits of thejurisdiction of that Court and to function as a special processserver.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      392.33,
+      397.2,
+      491.87
+    ],
+    "text": "(5) It shall be the duty of the process officer to endeavourto obtain the signature or the thumb impression or both ofthe defendant or any other person on his behalf, on theoriginal precept in acknowledgment of the service of thedecree nisi. The process officer shall return the precept to theCourt together with the report informing the Court the mannerof service of the decree nisi as set out in the form specified inthe Second Schedule referred to in subsection (2).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      505.73,
+      397.21,
+      592.67
+    ],
+    "text": "(6) If the service cannot be effected as referred to insubsection (1) by the exercise of due diligence, the processofficer is authorized to affix the decree nisi in someconspicuous part of the premises without any furtherdirection of the Court and report such service to the Court.The decree nisi served in the aforesaid manner shall be deemedto have been duly served on the defendant personally.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      606.53,
+      397.18,
+      668.51
+    ],
+    "text": "10. (1) Where the defendant is a public officer, the Courtmay, at its discretion, in addition to sending the decree nisito the defendant by registered post, also forward a copy ofthe decree nisi in duplicate, by registered post to the Head ofOffice in which the defendant is employed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      404.11,
+      606.55,
+      443.84,
+      644.42
+    ],
+    "text": "Service ofdecree nision a publicofficer",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210.21,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "7Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      148.29,
+      270.89,
+      153.29,
+      282.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.05,
+      362.93,
+      155.49,
+      374.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.05,
+      444.89,
+      155.49,
+      456.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.09,
+      524.93,
+      154.53,
+      536.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      606.89,
+      155.01,
+      618.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.85,
+      203.93,
+      330.56,
+      215.27
+    ],
+    "text": "(2) In this section, \u201cHead of Office\u201d\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      230.69,
+      401.89,
+      282.23
+    ],
+    "text": "(a)when used with reference to a member of any Unitof the Sri Lanka Army, Sri Lanka Navy or Sri LankaAir Force, means the Commanding Officer of thatUnit;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      297.65,
+      401.9,
+      335.87
+    ],
+    "text": "(b)when used with reference to a person employed in aProvincial Council, means the Secretary of thatProvincial Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.29,
+      351.29,
+      401.89,
+      389.39
+    ],
+    "text": "(c)when used with reference to a person employed inthe Provincial Public Service, means the Head ofthe Department in which such person is employed;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      404.93,
+      401.88,
+      496.67
+    ],
+    "text": "(d)when used with reference to a person employed in alocal authority, if the local authority is a MunicipalCouncil, means the Municipal Commissioner ofsuch Municipal Council and if the local authorityis an Urban Council or a Pradeshiya Sabha, meansthe Chairman or Secretary of such Council or Sabha;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.29,
+      512.09,
+      401.88,
+      550.19
+    ],
+    "text": "(e)when used with reference to any other public officer,means the Head of the Department of theGovernment in which such person is employed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      565.73,
+      401.9,
+      670.79
+    ],
+    "text": "11. (1) The date to be specified in the decree nisi as thedate on which the defendant is to make an applicationseeking leave to appear and show cause, if any, against thedecree nisi shall be as early a date as can conveniently bespecified, regard being had to the distance from thedefendant\u2019s residence to the Court. In any such instance, thesaid date to be specified shall not be later than six weeksfrom the date of the decree nisi.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      566.59,
+      452.14,
+      652.46
+    ],
+    "text": "Date to bespecified inthe decreenisi for thedefendant toapply to theCourt forleave toappear",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "8Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.51,
+      275.93,
+      147.51,
+      287.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      363.89,
+      150.31,
+      375.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      423.89,
+      150.31,
+      435.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      497.93,
+      150.31,
+      509.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      571.97,
+      150.31,
+      583.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      645.89,
+      150.31,
+      657.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      203.09,
+      397.19,
+      239.03
+    ],
+    "text": "(2) The Court shall not grant the defendant any furthertime to make an application to enable the defendant to seekleave to appear and show cause against such decree nisi.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      259.15,
+      252.29,
+      295.15,
+      263.63
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.87,
+      276.89,
+      396.43,
+      288.23
+    ],
+    "text": "DEFENDANT TO MAKE AN APPLICATION TO APPEAR AND SHOW CAUSE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      301.49,
+      397.2,
+      349.79
+    ],
+    "text": "12. (1) In an action instituted under this Act, thedefendant shall not appear and show cause against the decreenisi unless he first obtains leave to appear and show causefrom the Court which issued the decree nisi.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      363.05,
+      397.22,
+      448.19
+    ],
+    "text": "(2) The defendant shall, for the purpose of subsection(1), file an application by way of a petition for leave toappear and show cause against the decree nisi supported byan affidavit and such petition and affidavit shall dealspecifically with the plaintiff\u2019s case and state clearly andconcisely what the defence to the plaintiff\u2019s case is and whatfacts are relied upon to support it.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      461.45,
+      397.24,
+      546.59
+    ],
+    "text": "(3) Upon the filing of the petition and affidavit referredto in subsection (2), if the Court is satisfied that the contentsof the petition and affidavit disclose a defence which isprima facie sustainable against the action of the plaintiff forrecovery of possession of the premises, the Court may grantthe defendant leave to appear and show cause against thedecree nisi, subject to security.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      559.85,
+      397.18,
+      620.39
+    ],
+    "text": "(4) If the Court is not satisfied that the contents of thepetition and affidavit disclose a defence which is primafacie sustainable, the Court shall refuse the applicationreferred to in subsection (2) and make the decree nisi,absolute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      633.65,
+      397.19,
+      669.83
+    ],
+    "text": "13. Where the Court grants leave to appear and showcause under section 12, the Court shall order the defendantto furnish security which is not less than\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      635.59,
+      447.43,
+      673.46
+    ],
+    "text": "Security tobe furnishedby thedefendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      303.19,
+      448.87,
+      360.26
+    ],
+    "text": "Defendant toappear andshow causeonly uponleave andsecurity",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      210.21,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "9Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      148.29,
+      260.93,
+      153.29,
+      272.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      331.97,
+      155.01,
+      343.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      402.89,
+      155.01,
+      414.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      472.97,
+      155.01,
+      484.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      542.93,
+      155.01,
+      554.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      612.89,
+      155.01,
+      624.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      202.97,
+      401.88,
+      237.83
+    ],
+    "text": "(a) the sum due to the plaintiff as the aggregate of thearrears of lease rentals, prayed for and specified inthe decree nisi;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      249.89,
+      401.93,
+      296.27
+    ],
+    "text": "(b) the aggregate sum due to the plaintiff as servicecharges up to the date of the order granting leave toappear and show cause prayed for and specified inthe decree nisi, if such claim has been made; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175.29,
+      308.33,
+      401.91,
+      389.87
+    ],
+    "text": "(c) the aggregate sum due to the plaintiff as liquidateddamages prayed for and specified in the decree nisi,from the expiry, or effective date of termination ofthe lease agreement upto the date of the ordergranting leave to appear and show cause and for afurther period of one year from the date of grantingsuch leave.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      401.93,
+      401.88,
+      436.67
+    ],
+    "text": "14. (1) The security ordered by the Court under section13 shall be deposited in cash in the Court within two weeksfrom the date of the order.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      448.73,
+      401.93,
+      495.23
+    ],
+    "text": "(2) The Registrar of the Court shall cause to issue adeposit note to deposit the same to an interest accruing bankaccount maintained by the Court and the moneys shall bekept in the account until a further order is made by the Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      507.29,
+      401.92,
+      600.47
+    ],
+    "text": "(3) The Court shall not grant any period of extension todeposit the security ordered by the Court, unless thedefendant, by an application made within the period of twoweeks referred to in subsection (1), establishes sufficientreasons, to the satisfaction of the Court, for his inability todeposit the security. In such event, the Court may grant afurther period which shall not exceed two weeks from theexpiry of the previous time period granted by the Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.85,
+      612.53,
+      279.59,
+      623.87
+    ],
+    "text": "15. Where the defendant-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198.57,
+      635.93,
+      401.9,
+      670.91
+    ],
+    "text": "(a) fails to make an application for leave to appearand show cause on the date specified in thedecree nisi under subsection (1) of section 11;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      405.19,
+      455.14,
+      452.66
+    ],
+    "text": "Securityordered to bedepositedwithin twoweeks",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      614.59,
+      450.58,
+      652.46
+    ],
+    "text": "Making thedecree nisiabsolute, bythe Court",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "10Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.51,
+      256.97,
+      147.51,
+      268.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      343.97,
+      150.31,
+      355.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      420.89,
+      150.31,
+      432.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      495.89,
+      150.31,
+      507.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      557.93,
+      150.31,
+      569.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      645.89,
+      150.31,
+      657.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      193.87,
+      205.37,
+      397.2,
+      267.11
+    ],
+    "text": "(b) having made an application for leave to appearand show cause, has failed to disclose a defencewhich is prima facie sustainable against theaction of the plaintiff for recovery ofpossession of the premises; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.71,
+      280.97,
+      397.17,
+      317.51
+    ],
+    "text": "(c) fails to furnish the security ordered undersection 13 within the time period specifiedunder section 14,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      331.37,
+      397.18,
+      393.11
+    ],
+    "text": "the Court shall make the decree nisi absolute, without anyfurther notice to the defendant. In such instance, the Judgeshall endorse the words \u201cDecree nisi made absolute\u201d or wordsto the like effect, upon the decree nisi and shall date andsign such endorsement:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      406.97,
+      397.2,
+      468.71
+    ],
+    "text": "Provided that a decree nisi, if it consists of separableparts, may be discharged in part and made absolute in partand anything herein enacted shall not prevent any orderbeing made by the Court on the consent of the plaintiff andthe defendant consequent to the decree nisi.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      482.57,
+      397.19,
+      582.11
+    ],
+    "text": "16. (1) An appeal by a defendant shall not lie against thedecree nisi which has been made absolute due to thedefendant\u2019s failure to make an application in terms ofparagraph (a) of section 15, but it shall be competent forCourt, within a period not later than one year after the decreeabsolute was entered, to entertain an application by thedefendant by way of petition and affidavit filed against suchdecree absolute, to have it set aside on the ground that-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      595.97,
+      397.18,
+      632.51
+    ],
+    "text": "(a)the defendant was prevented from appearing inCourt after the decree nisi was served on him byreason of accident or misfortune or an act of God; or",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      646.37,
+      394.15,
+      657.71
+    ],
+    "text": "(b)such decree nisi was not served on the defendant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      483.55,
+      443.59,
+      559.82
+    ],
+    "text": "Ordermaking adecree nisiabsolute ondefault notappealable,but may beset aside",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "11Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      148.29,
+      258.89,
+      153.29,
+      270.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      340.97,
+      155.01,
+      352.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.05,
+      437.93,
+      155.49,
+      449.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.65,
+      518.93,
+      156.09,
+      530.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.65,
+      615.89,
+      156.09,
+      627.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      204.05,
+      401.92,
+      297.59
+    ],
+    "text": "(2) In addition to the grounds referred to in subsection(1), the defendant shall also plead in the petition and affidavit,the grounds for leave to appear and show cause against thedecree absolute. The petition and affidavit shall dealspecifically with the plaintiff\u2019s case and state clearly andconcisely what the defence to the plaintiff\u2019s case is and whatfacts are relied upon to support it.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      313.73,
+      401.96,
+      352.43
+    ],
+    "text": "(3) On filing the petition and affidavit by the defendantin terms of subsections (1) and (2), if the Court, after givingthe parties an opportunity of being heard, on satisfied that-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177.57,
+      368.45,
+      401.9,
+      407.27
+    ],
+    "text": "(a)the failure on the part of the defendant to make anapplication under paragraph (a) of section 15 wasdue to any ground specified in subsection (1); and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      177.57,
+      423.29,
+      401.85,
+      448.31
+    ],
+    "text": "(b)the defendant has disclosed a defence which isprima facie sustainable,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      464.33,
+      401.91,
+      530.51
+    ],
+    "text": "the Court may set aside the decree absolute subject tosecurity that shall be furnished under section 13 and shallproceed to determine the matter in accordance with theprovisions of this Act, if such security is deposited withinthe period specified under section 14.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      546.53,
+      401.95,
+      599.03
+    ],
+    "text": "(4) If the defendant fails to furnish the security referredto in subsection (3) within the time period specified for suchpurpose, the Court shall then make an order making thedecree nisi absolute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      615.05,
+      401.86,
+      667.55
+    ],
+    "text": "(5) Where the defendant fails to satisfy the Court asprovided for in paragraphs (a) and (b) of subsection (3), theCourt shall dismiss the application of the defendant, withcosts.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "12Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      142.51,
+      287.93,
+      147.51,
+      299.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      358.97,
+      150.31,
+      370.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      430.97,
+      150.31,
+      442.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      502.97,
+      150.31,
+      514.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.95,
+      574.97,
+      151.39,
+      586.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.79,
+      202.97,
+      295.5,
+      214.31
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      161.71,
+      226.97,
+      392.59,
+      238.31
+    ],
+    "text": "PROCEDURE AFTER GRANTING LEAVE TO APPEAR AND SHOW CAUSE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      169.15,
+      250.97,
+      271.15,
+      262.31
+    ],
+    "text": "17. (1) Where the Court-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      193.87,
+      274.97,
+      397.17,
+      334.31
+    ],
+    "text": "(a) grants leave to appear and show cause againsta decree nisi to the defendant undersubsection (3) of section 12 and the securityordered is deposited within the specifiedperiod; or",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      193.87,
+      346.97,
+      397.18,
+      406.31
+    ],
+    "text": "(b) setting aside the decree absolute, grants leaveto appear and show cause to the defendantunder subsection (3) of section 16 and thesecurity ordered to be furnished is depositedwithin the specified period,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      418.97,
+      397.18,
+      454.31
+    ],
+    "text": "the provisions of sections 384, 385, 386 and 387 of theCivil Procedure Code shall, mutatis mutandis, apply inrespect of the proceedings before the Court.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      466.97,
+      397.21,
+      538.31
+    ],
+    "text": "(2) For the purpose of section 384 of the Civil ProcedureCode, the application filed by the defendant for leave toappear and show cause shall be deemed to be the objectionof the defendant and the affidavit filed by the defendant insupport of such application shall be deemed to be theaffidavit of the defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      550.97,
+      397.18,
+      598.31
+    ],
+    "text": "(3) The Court shall pronounce the final order in the matterof the plaint, either discharging the decree nisi or makingthe decree nisi absolute within one year from the date ofgranting leave to appear and show cause.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      610.97,
+      397.19,
+      670.67
+    ],
+    "text": "(4) The final order so pronounced shall be endorsed onthe decree nisi either with the words \u201cDecree nisi discharged\u201dor \u201cDecree nisi made absolute\u201d or words to the like effectand such endorsement shall be dated and signed by the Judgeof the Court:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      251.59,
+      451.15,
+      299.06
+    ],
+    "text": "Procedurewhere leaveto appear andshow cause isgranted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      647.93,
+      150.31,
+      659.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "13Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      148.29,
+      247.97,
+      153.29,
+      259.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      317.93,
+      155.01,
+      329.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      396.89,
+      155.01,
+      408.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.65,
+      463.97,
+      156.09,
+      475.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.65,
+      533.93,
+      156.09,
+      545.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      614.93,
+      155.01,
+      626.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      202.49,
+      401.9,
+      259.43
+    ],
+    "text": "Provided that a decree nisi, if it consists of separableparts, may be discharged in part and made absolute in part,and anything herein enacted shall not prevent any orderbeing made by consent of the plaintiff and the defendant onthe footing of the decree nisi.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      270.89,
+      397.93,
+      362.03
+    ],
+    "text": "18. In any proceedings under this Act, the Court mayorder that the originals of the lease agreement or otherdocument copies of which were filed with the plaint or onwhich the action is founded, be made available forexamination by the Court when the action is supported inCourt. Notwithstanding anything to the contrary in the CivilProcedure Code, such agreement or document shall bereturned to the plaintiff after such examination.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173.85,
+      373.49,
+      349.29,
+      384.83
+    ],
+    "text": "19. (1) Where, after entering a decree nisi -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      197.61,
+      396.29,
+      401.85,
+      430.43
+    ],
+    "text": "(a) it appears to the Court that such decree nisiwas obtained by wilful suppression or non-disclosure of any material facts; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      197.61,
+      441.89,
+      401.88,
+      476.03
+    ],
+    "text": "(b) the decree nisi was discharged and the actionwas dismissed on the grounds of such wilfulsuppression or non-disclosure of material facts,",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      487.49,
+      401.91,
+      544.43
+    ],
+    "text": "the Court may in the same action, on the application filedby the defendant against whom the decree nisi was entered,award compensation and costs for the expenses or injurycaused to such defendant, in such sum as the Court deemsreasonable, to be paid by the plaintiff.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      555.89,
+      401.88,
+      590.03
+    ],
+    "text": "(2) An award made under subsection (1) shall operate asa bar to any action for compensation in any subsequentproceeding under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      601.49,
+      401.88,
+      670.31
+    ],
+    "text": "(3) Notwithstanding the dismissal of any actioninstituted under this Act, where an application is made forcompensation under subsection (1) in respect of a decreenisi entered in such action, the action so dismissed shall bedeemed to continue until the determination of suchapplication.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      407.85,
+      272.59,
+      451.3,
+      339.26
+    ],
+    "text": "Originaldocumentsfiled to bemadeavailableforexamination",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      407.85,
+      373.51,
+      455.85,
+      392.18
+    ],
+    "text": "Award ofcompensation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "14Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.51,
+      252.89,
+      147.51,
+      264.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      330.89,
+      150.31,
+      342.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      393.89,
+      150.31,
+      405.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      470.93,
+      150.31,
+      482.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      571.97,
+      150.31,
+      583.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      635.93,
+      150.31,
+      647.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      203.45,
+      397.19,
+      303.59
+    ],
+    "text": "20. (1) Where the defendant appears in Court in responseto the decree nisi and agrees to surrender the possession ofthe premises or to settle the arrears of lease rentals, servicecharges and liquidated damages, as the case may be, on suchterms and conditions that may be agreed upon by the parties,the decree nisi shall be made absolute subject to such termsand conditions as agreed upon by the parties before theCourt.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      317.69,
+      397.3,
+      405.23
+    ],
+    "text": "(2) Notwithstanding anything to the contrary containedin the succeeding provisions of this Act, the decree absolutereferred to in subsection (1) shall operate as a stay ofexecution of proceedings as agreed to by the parties, providedthat the defendant shall not act in breach of any of the termsand conditions of settlement, in which event the plaintiffshall be entitled to execute such decree absolute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      419.33,
+      397.2,
+      506.87
+    ],
+    "text": "21. The discharge of a decree nisi or dismissal of an actionunder the provisions of this Act shall not operate as a bar forany other action instituted for the recovery of possession ofthe premises by the lessor or any other person entitled to thepossession of such premises, on any appropriate cause ofaction under an applicable procedure in the Civil ProcedureCode or any other law.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      266.35,
+      520.85,
+      300.06,
+      532.19
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      184.87,
+      546.29,
+      381.43,
+      557.63
+    ],
+    "text": "PROCEDURE AFTER MAKING THE DECREE NISI ABSOLUTE",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      571.73,
+      397.2,
+      672.23
+    ],
+    "text": "22. (1) Subject to an order of the Court, where a decreenisi entered in an action instituted under this Act is madeabsolute, it shall be deemed to be a writ of execution dulyissued to the Fiscal in terms of subsection (3) of section 225and section 323 of the Civil Procedure Code, and the sameshall be executed fourteen days after the date of order makingthe decree absolute, without any further notice to thedefendant.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.15,
+      205.51,
+      449.59,
+      262.58
+    ],
+    "text": "Surrender ofpossession ofthe premisesby thedefendant,&c",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.15,
+      421.51,
+      448.15,
+      497.78
+    ],
+    "text": "Discharge ofa decree nisior dismissalof an actionnot to baranysubsequentaction",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.15,
+      572.59,
+      450.44,
+      620.06
+    ],
+    "text": "Decreeabsolutedeemed to bea writ ofexecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "15Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      148.29,
+      261.89,
+      153.29,
+      273.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      330.89,
+      156.09,
+      342.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      388.97,
+      156.09,
+      400.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      459.89,
+      156.09,
+      471.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      530.93,
+      156.09,
+      542.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.57,
+      599.93,
+      155.01,
+      611.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.57,
+      656.93,
+      155.01,
+      668.27
+    ],
+    "text": "35",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      202.73,
+      401.86,
+      237.47
+    ],
+    "text": "(2) Notwithstanding anything to the contrary in any otherwritten law, the execution of the decree nisi made absoluteshall not be stayed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      249.53,
+      401.91,
+      319.43
+    ],
+    "text": "(3) The writ of execution referred to in subsection (1)shall be valid for a period of not more than one year from thedate on which the decree nisi was made absolute, and it shallbe the duty of the Fiscal to execute the same in the mannerspecified in the Civil Procedure Code for the execution ofwrits.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      331.49,
+      401.9,
+      401.27
+    ],
+    "text": "(4) Notwithstanding anything to the contrary in any otherwritten law, preferring an appeal or an application forrevision or an application for restitutio in integrum by thedefendant, in respect of a decree nisi made absolute, shallnot be a ground to stay the proceedings unless the AppealCourt makes an order expressly staying such proceedings.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      413.33,
+      401.91,
+      518.27
+    ],
+    "text": "(5) Before the Appeal Court makes an order expresslystaying the execution in pursuance of an appeal or anapplication made by the defendant, it shall call upon thedefendant to furnish a security in cash for the satisfaction ofthe entire monetary claim of the plaintiff under section 13inclusive of liquidated damages or such part thereof as theAppeal Court may deem fit, having considered all thecircumstances of the case, in the event the main appeal orapplication is dismissed:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      530.33,
+      401.87,
+      565.07
+    ],
+    "text": "Provided that no such stay order shall be issued unlesssufficient notice has is given to the plaintiff or his registeredattorney.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      577.13,
+      401.9,
+      670.55
+    ],
+    "text": "23. (1) If the Fiscal is resisted or obstructed by any personwhile executing a writ referred to in section 22, the Fiscalshall, within fourteen days of the resistance or obstruction,report such resistance or obstruction to the Court and theCourt shall thereupon issue a notice against the personresisting or obstructing requiring him to show cause as towhy he should not be dealt with for contempt of Courtoccasioned by such resistance or obstruction.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      407.85,
+      578.59,
+      455.14,
+      606.86
+    ],
+    "text": "Resistancedeemed to becontempt",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "16Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      142.51,
+      252.89,
+      147.51,
+      264.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.95,
+      304.97,
+      151.39,
+      316.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      365.93,
+      150.31,
+      377.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      426.89,
+      150.31,
+      438.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      487.97,
+      150.31,
+      499.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      559.97,
+      150.31,
+      571.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      201.77,
+      397.18,
+      233.51
+    ],
+    "text": "(2) (a) Any person resisting or obstructing the Fiscal whileexecuting a writ under this Act commits contempt of Court,unless-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      181.15,
+      242.57,
+      397.18,
+      325.31
+    ],
+    "text": "(i)such person, not being the judgment debtor,proves to the satisfaction of Court that theresistance or obstruction has been occasioned bysuch person claiming in good faith to be inpossession of the whole of such premises on hisown account or on account of some person otherthan the judgment debtor, by virtue of any rightor interest; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      178.15,
+      334.37,
+      397.19,
+      396.71
+    ],
+    "text": "(ii)the claim notified is found by the Court to havebeen made by a person claiming to be inpossession of the whole of such premises on hisown account or on account of some person otherthan the judgment debtor, by virtue of any rightor interest.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      405.77,
+      397.22,
+      447.71
+    ],
+    "text": "(b) Any person who commits contempt of court underparagraph (a) shall be liable to a fine not exceeding rupeesfive hundred thousand or to imprisonment for a term notexceeding two years or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      456.77,
+      397.24,
+      498.71
+    ],
+    "text": "(3) The provisions of section 303 of the Code of CriminalProcedure Act, No. 15 of 1979 shall not be applicable inrespect of an offender on whom a sentence of imprisonmentis imposed under subsection (2).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      507.77,
+      397.19,
+      549.71
+    ],
+    "text": "(4) In addition to imposing punishment on the convictedperson under subsection (2), the Court shall order the Fiscalto place the plaintiff judgment creditor in vacant andpeaceful possession of the relevant premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      558.77,
+      397.19,
+      621.11
+    ],
+    "text": "24. (1) Subject to the provisions of subsection (2), adefendant or his legal representative shall not place inpossession a third party in the premises in any mannerwhatsoever after the decree nisi entered in the action is servedon such defendant or his legal representative, and such actshall amount to contempt of Court:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      640.37,
+      397.19,
+      672.11
+    ],
+    "text": "Provided however, if the action is dismissed or the decreenisi is discharged, this prohibition shall no longer beapplicable.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      403.15,
+      559.87,
+      449.59,
+      637.82
+    ],
+    "text": "Change ofpossession orstatus quo ofthe premisesby thedefendantafterinstitution ofaction",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      610.97,
+      150.31,
+      622.31
+    ],
+    "text": "35",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "17Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      148.29,
+      246.89,
+      153.29,
+      258.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      313.97,
+      155.01,
+      325.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      379.97,
+      155.01,
+      391.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      435.89,
+      155.01,
+      447.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      514.97,
+      155.01,
+      526.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      603.89,
+      155.01,
+      615.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      202.37,
+      401.87,
+      269.15
+    ],
+    "text": "(2) It shall be the duty of the defendant or his legalrepresentative to maintain the status quo of the premises inthe same condition as it was at the time of service of decreenisi and the defendant or his legal representative shall notchange the status quo of the premises without an order ofthe Court.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      280.01,
+      401.91,
+      369.11
+    ],
+    "text": "(3) Where the possession of any premises has beendelivered to a third party either completely or partly incontravention of the provisions of subsection (1), suchalienation shall be null and void and of no force or effect inlaw. Such third party and all those holding possession of thepremises under him, shall be liable for ejectment from thepremises, as in a writ of execution as a party bound by thedecree, although such third party is not a party to the decree.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      379.97,
+      401.89,
+      446.75
+    ],
+    "text": "(4) Notwithstanding anything to the contrary in any otherwritten law, any person who is guilty of contempt of Courtunder subsection (1) shall be liable to a fine not exceedingrupees five hundred thousand or to an imprisonment for aterm not exceeding two years or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      457.61,
+      401.87,
+      502.31
+    ],
+    "text": "(5) The provisions of section 303 of the Code of CriminalProcedure Act, No. 15 of 1979, shall not be applicable inrespect of an offender on whom a sentence of imprisonmentis imposed under subsection (4).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      263.49,
+      513.17,
+      300.2,
+      524.51
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      266.85,
+      535.37,
+      296.85,
+      546.71
+    ],
+    "text": "APPEALS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      173.85,
+      557.57,
+      308.85,
+      568.91
+    ],
+    "text": "25. (1) Any person aggrieved by-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      579.77,
+      401.86,
+      624.35
+    ],
+    "text": "(a)an order making a decree nisi absolute byrefusing an application made by the defendanton the grounds specified in paragraphs (b) and(c) of section 15;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      635.21,
+      401.87,
+      669.35
+    ],
+    "text": "(b)an order under subsection (4) of section 16,making a decree nisi absolute on failure by thedefendant to furnish security;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      408.81,
+      558.55,
+      450.81,
+      606.02
+    ],
+    "text": "Preferringappealsagainst anorder of theCourt",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "18Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      142.51,
+      266.93,
+      147.51,
+      278.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      354.89,
+      150.31,
+      366.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      430.97,
+      150.31,
+      442.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      507.89,
+      150.31,
+      519.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      581.93,
+      150.31,
+      593.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      647.93,
+      150.31,
+      659.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      173.71,
+      202.37,
+      397.19,
+      239.15
+    ],
+    "text": "(c)an order under subsection (5) of section 16dismissing an application made by the defendantto have the decree absolute set aside; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.87,
+      253.25,
+      397.18,
+      289.91
+    ],
+    "text": "(d)a final order made under subsection (3) of section17 either discharging the decree nisi or making thedecree nisi absolute,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      304.01,
+      397.17,
+      328.07
+    ],
+    "text": "may prefer an appeal in terms of the provisions of section754 of the Civil Procedure Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      342.05,
+      397.16,
+      366.11
+    ],
+    "text": "(2) Notwithstanding the preferring of any such appeal,the execution of writ of execution shall not be stayed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      380.21,
+      397.19,
+      493.07
+    ],
+    "text": "(3) Where the Appeal Court allows an appeal setting asidea decree absolute and where the writ has already beenexecuted under section 22 of this Act, the Appeal Courtshall enter a decree in favour of the appellant awardingdamages in such sum as it may consider appropriate for theloss of premises for his occupation or business during thevalidity period of the lease and may, at its discretion, orderrestoration of the appellant to the vacant possession of thepremises:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      507.17,
+      397.19,
+      569.27
+    ],
+    "text": "Provided however, the Appeal Court shall not orderrestoration of the appellant if the lease period for which thepremises has been given to the appellant under the leaseagreement has already expired as at the date of the judgmentof the Appeal Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      583.37,
+      397.2,
+      670.91
+    ],
+    "text": "(4) Where the Appeal Court makes an order to enter adecree nisi absolute, such decree shall be deemed to be awrit of execution duly issued to the Fiscal in terms ofsubsection (3) of section 225 and section 323 of the CivilProcedure Code, but the execution of the same shall bestayed until the expiration of the period allowed by law tomake an appropriate application to the Supreme Court.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "19Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      148.29,
+      251.93,
+      153.29,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      343.97,
+      156.09,
+      355.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      413.93,
+      156.09,
+      425.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      483.89,
+      156.09,
+      495.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      541.97,
+      156.09,
+      553.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.57,
+      611.93,
+      155.01,
+      623.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      204.89,
+      401.91,
+      262.79
+    ],
+    "text": "(5) Notwithstanding anything to the contrary in anyother written law, the writ shall be executed after the periodallowed by law for making an application to the SupremeCourt, unless the Supreme Court makes an express orderstaying the execution.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      262.05,
+      274.73,
+      301.77,
+      286.07
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      232.29,
+      297.89,
+      331.28,
+      309.23
+    ],
+    "text": "MISCELLANEOUS PROVISIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      321.05,
+      401.87,
+      378.83
+    ],
+    "text": "26. In any matter or question of procedure not providedfor in this Act, the procedure laid down in the Civil ProcedureCode in respect of a like matter or question shall be followedby the Court if such procedure is not inconsistent with theprovisions of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      390.65,
+      401.89,
+      425.27
+    ],
+    "text": "27. Where any form to be used for the purposes of this Acthas not been specified in this Act, such form as may berequired, may be prescribed by the Minister for such purpose.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      437.09,
+      401.9,
+      587.63
+    ],
+    "text": "28. (1) Notwithstanding anything to the contrary in anyother written law, in an action instituted under this Act, ifthe defendant has defaulted the settlement of any paymentdue and payable by him under the lease agreement by wayof service charge or part thereof or any utility bills or partthereof, from the date of the plaint until the date of writ ofexecution, the plaintiff shall make an application in thesame action within a period of three months from the date ofexecution of writ and delivery of vacant possession of thepremises to the plaintiff, by petition and affidavit supportedby relevant documentary evidence to establish such non-settlement, for the recovery of such dues and interest andpenalty imposed on such dues.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      599.45,
+      401.88,
+      669.11
+    ],
+    "text": "(2) The Court, on being satisfied of the contents containedin the petition, affidavit and the documentary evidencereferred to in subsection (1), may make an order, directingthe defendant to appear and show cause why the Courtshould not make an order to pay such sum specified in theorder, to the plaintiff.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      407.85,
+      321.55,
+      434.85,
+      340.22
+    ],
+    "text": "Casusomissus",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      407.85,
+      391.51,
+      429.57,
+      400.58
+    ],
+    "text": "Forms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      407.85,
+      437.59,
+      455.85,
+      513.86
+    ],
+    "text": "Recovery ofunsettledutility bills orservicecharges dueas at the timeof executionof the decree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "20Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      142.51,
+      252.89,
+      147.51,
+      264.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.95,
+      336.89,
+      151.39,
+      348.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.95,
+      408.89,
+      151.39,
+      420.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      480.89,
+      150.31,
+      492.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      540.89,
+      150.31,
+      552.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      637.97,
+      150.31,
+      649.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      204.53,
+      397.21,
+      263.87
+    ],
+    "text": "(3) The Court may, after due inquiry, make an orderawarding the plaintiff any such arrears of utility bills andservice charges upto the date of delivery of the vacantpossession of the premises to such plaintiff together withany interest or penalty on such bills or charges.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      276.53,
+      397.16,
+      311.87
+    ],
+    "text": "(4) The provisions relating to decrees for money set outin the Civil Procedure Code shall mutatis mutandis applyfor the recovery of the moneys awarded in such order.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      324.53,
+      397.21,
+      395.87
+    ],
+    "text": "(5) Any defendant who intends to appeal against an ordermade under subsection (3) shall deposit in the Court the fullsum ordered for payment as a security, as a conditionprecedent to such appeal and the Court is entitled to rejectany such appeal without a deposit of the full sum ordered assecurity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      408.53,
+      397.21,
+      455.87
+    ],
+    "text": "29. (1) There shall be maintained a special register in theform specified in the Third Schedule in every Court foractions instituted under this Act and such actions shall beassigned a number distinctive from other actions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      468.53,
+      397.2,
+      563.87
+    ],
+    "text": "(2) In every Court in which cases may be instituted underthis Act, a special inquiry roll shall be kept of such cases inwhich leave to appear and show cause against a decree nisihas been granted. It shall be competent for the Judge of suchCourt to order such cases to be set down for hearing on suchdays as may facilitate their early disposal, any rule or practiceof such Court to the contrary notwithstanding, and aftergiving the parties reasonable notice of the date of inquiry.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      255.43,
+      576.53,
+      298.87,
+      587.87
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      240.07,
+      600.53,
+      314.34,
+      611.87
+    ],
+    "text": "GENERAL PROVISIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      624.53,
+      397.18,
+      671.99
+    ],
+    "text": "30. The provisions of any other written law relating tolease agreements shall, in so far as they are not inconsistentwith the provisions of this Act, apply to lease agreementsgoverned by this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.15,
+      410.59,
+      444.43,
+      467.66
+    ],
+    "text": "A specialregister andspecialinquiry rollto bemaintained",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.15,
+      625.51,
+      448.88,
+      644.18
+    ],
+    "text": "Applicabilityof other laws",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "21Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      147.21,
+      262.97,
+      152.21,
+      274.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      319.97,
+      155.01,
+      331.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      389.93,
+      155.01,
+      401.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      457.97,
+      155.01,
+      469.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      525.89,
+      155.01,
+      537.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.65,
+      595.97,
+      156.09,
+      607.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      204.65,
+      401.88,
+      250.43
+    ],
+    "text": "31. (1) The provisions of this Act shall be applicable toany lease agreement, notwithstanding that such leaseagreement has been entered into and executed prior to thedate of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      262.13,
+      401.91,
+      342.47
+    ],
+    "text": "(2) Where such lease agreement has expired or terminatedprior to the date of commencement of this Act, the lessorshall be entitled to commence proceedings from the date ofcommencement of this Act for the recovery of the possessionof the premises and the arrears of lease rentals, service chargesand liquidated damages under this Act, unless the lessor hasnot entered into a fresh lease agreement with the lessee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      354.05,
+      401.9,
+      434.39
+    ],
+    "text": "32. Notwithstanding anything to the contrary in any otherwritten law, where a lessor has instituted an action for therecovery of the possession of a premises and such action ispending on the date of commencement of this Act, suchlessor shall be entitled to institute action under this Act forthe recovery of the possession of such premises and otherreliefs after the commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      446.09,
+      401.9,
+      514.91
+    ],
+    "text": "33. The provisions of this Act shall be in addition to andnot in derogation of any other remedy that may be availablein law to a lessor of a premises given on lease under a leaseagreement, for the recovery of possession of such premisesor for the recovery of any money, damages, utility bills orother payments from the lessee under such lease agreement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      526.61,
+      401.88,
+      560.87
+    ],
+    "text": "34. (1) Nothing in the Rent Act, No. 7 of 1972 shall applyto, or in relation to, a lease agreement executed on or afterthe date of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      572.57,
+      401.87,
+      606.95
+    ],
+    "text": "(2) Nothing contained in section 29 of the Rent Act, No.7 of 1972 shall preclude any person from instituting an actionunder this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      618.53,
+      401.89,
+      664.79
+    ],
+    "text": "35. Where any appointment is made in substitution of aparty as his legal representative under Chapter XXV of theCivil Procedure Code, the person so appointed shall betreated as a party to the action, and every order, decree nisi",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      205.51,
+      458.86,
+      281.78
+    ],
+    "text": "This Act to beapplicable forleaseagreementsexecuted priorto thecommencementof this Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      354.55,
+      458.86,
+      402.02
+    ],
+    "text": "Actionspending onthe date ofcommencementof this Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      446.59,
+      452.86,
+      465.26
+    ],
+    "text": "Saving otherremedies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      527.59,
+      451.31,
+      565.46
+    ],
+    "text": "Non-applicabilityof the RentAct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      619.51,
+      455.86,
+      666.98
+    ],
+    "text": "Effect oflegalrepresentativebeing made aparty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "22Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      142.51,
+      251.93,
+      147.51,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      334.97,
+      150.31,
+      346.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      419.93,
+      150.31,
+      431.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      503.93,
+      150.31,
+      515.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      576.89,
+      150.31,
+      588.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      202.97,
+      397.16,
+      262.31
+    ],
+    "text": "or decree absolute made or anything done in the actioninstituted under this Act, including the recovery ofpossession of the premises given on lease to a deceasedlessee and any recovery of damages shall be enforceableagainst such substituted party.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      274.97,
+      397.18,
+      298.31
+    ],
+    "text": "36. Where an offence under this Act is committed by abody of persons, then-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      173.95,
+      310.97,
+      397.17,
+      346.31
+    ],
+    "text": "(a)if that body of persons is a body corporate, everydirector, manager or secretary of that bodycorporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      173.95,
+      358.97,
+      397.19,
+      382.31
+    ],
+    "text": "(b)if that body of persons is a firm, every partner ofthat firm, and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      174.67,
+      394.97,
+      397.18,
+      430.31
+    ],
+    "text": "(c)if that body of persons is an unincorporated body,every individual who is a member of suchunincorporated body,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      442.97,
+      356.86,
+      454.31
+    ],
+    "text": "shall be deemed to have committed that offence:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      466.97,
+      397.2,
+      538.31
+    ],
+    "text": "Provided that any director, manager or secretary of suchbody corporate or any partner of such firm or any individualin such unincorporated body shall not be deemed to havecommitted such offence, if he proves that such offence wascommitted without his knowledge or that he exercised alldue diligence to prevent the commission of such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      550.97,
+      397.25,
+      610.31
+    ],
+    "text": "37. (1) The Minister may, for the purpose of giving effectto the principles of this Act, make regulations in respect ofany matter which is required by this Act to be prescribed orin respect of which regulations are required or authorized tobe made under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      158.11,
+      622.97,
+      397.2,
+      670.31
+    ],
+    "text": "(2) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication, or on such later date as may bespecified in the regulation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.15,
+      276.55,
+      445.87,
+      304.82
+    ],
+    "text": "Offences bya body ofpersons",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.15,
+      553.51,
+      444.44,
+      562.58
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      647.93,
+      150.31,
+      659.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "23Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      148.29,
+      257.93,
+      153.29,
+      269.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      344.93,
+      156.09,
+      356.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      409.97,
+      156.09,
+      421.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      484.97,
+      156.09,
+      496.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      550.97,
+      156.09,
+      562.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.57,
+      617.93,
+      155.01,
+      629.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.85,
+      204.17,
+      401.87,
+      237.11
+    ],
+    "text": "(3) (a) Every regulation made by the Minister shall, withinthree months after its publication in the Gazette, be broughtbefore Parliament for approval.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.85,
+      247.37,
+      401.89,
+      280.31
+    ],
+    "text": "(b) Any regulation which is not so approved shall bedeemed to be rescinded as from the date of such disapproval,but without prejudice to anything duly done thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.85,
+      290.57,
+      401.86,
+      312.71
+    ],
+    "text": "(4) Notification of the date on which a regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      173.85,
+      322.97,
+      392.89,
+      334.31
+    ],
+    "text": "38. In this Act, unless the context otherwise requires-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      344.57,
+      401.89,
+      388.31
+    ],
+    "text": "\u201cAppeal Court\u201d means any court exercising civilappellate, revisionary or restitutio in integrumjurisdiction over orders or judgments of theDistrict Court;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      398.57,
+      401.89,
+      420.71
+    ],
+    "text": "\u201cCivil Procedure Code\u201d means the Civil ProcedureCode (Chapter 101);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      430.97,
+      401.86,
+      442.31
+    ],
+    "text": "\u201cCourt\u201d means the District Court having jurisdiction;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      452.57,
+      401.9,
+      539.51
+    ],
+    "text": "\u201clease agreement\u201d means any agreement involvingthe lessor of a premises and a lessee dulyexecuted in terms of section 2 of the Preventionof Frauds Ordinance (Chapter 70) or aninstrument of lease duly executed under theprovisions of the Registration of Title Act, No.21 of 1998, for which the stamp duty has beenduly paid;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      549.77,
+      401.9,
+      593.51
+    ],
+    "text": "\u201clegal interest\u201d means interest calculated at the rateas determined and published by the MonetaryBoard under subsection (2) of section 192 ofthe Civil Procedure Code;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      191.85,
+      603.77,
+      401.89,
+      669.11
+    ],
+    "text": "\u201clessee\u201d means a person who acquires the right topossession of a premises by way of an instrumentduly executed before a notary public for thetime being in force, and in the event of his death,includes his heirs, executor, administrator orlegal representative;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      408.81,
+      324.55,
+      456.82,
+      333.62
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "24Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      142.51,
+      252.89,
+      147.51,
+      264.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      336.89,
+      150.31,
+      348.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      407.93,
+      150.31,
+      419.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      480.89,
+      150.31,
+      492.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      574.97,
+      150.31,
+      586.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      204.89,
+      397.19,
+      276.23
+    ],
+    "text": "\u201clessor\u201d means a person who transfers the right topossession of a premises by way of an instrumentduly executed before a notary public for thetime being in force, and in the event of his death,includes his heirs, executor, administrator orlegal representative;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      288.89,
+      397.18,
+      324.23
+    ],
+    "text": "\u201cother person on his behalf\u201d includes any agent ofthe defendant who is in charge of the premiseswhich is the subject matter of the action;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      336.89,
+      397.14,
+      372.23
+    ],
+    "text": "\u201cpossession\u201d includes being in physical occupationof the premises or having retained the keys ofthe premises;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      384.89,
+      397.23,
+      432.23
+    ],
+    "text": "\u201cpremises\u201d means any building or part of a buildingtogether with the land appertaining thereto andincludes a bare land without a building or a partof a multi-storied building;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      444.89,
+      397.23,
+      492.23
+    ],
+    "text": "\u201cprivate process server\u201d means a person employedby an Attorney-at-law or any institution, andwho is registered as a private process server bythe Fiscal of the Court under any written law;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      187.15,
+      504.89,
+      286.15,
+      516.23
+    ],
+    "text": "\u201cprocess officer\u201d means-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.87,
+      528.89,
+      397.18,
+      564.23
+    ],
+    "text": "(a)the Fiscal assigned by the Court withinthe local limits of whose jurisdiction thedecree nisi is to be served;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.87,
+      576.89,
+      397.18,
+      612.23
+    ],
+    "text": "(b)any other officer specially authorized inspecial circumstances by the Court toserve the decree nisi;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.71,
+      624.89,
+      315.45,
+      636.23
+    ],
+    "text": "(c) Grama Niladhari; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.87,
+      648.89,
+      330.43,
+      660.23
+    ],
+    "text": "(d)a private process server;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "25Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      148.29,
+      264.89,
+      153.29,
+      276.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.57,
+      323.93,
+      155.01,
+      335.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.65,
+      385.97,
+      156.09,
+      397.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      191.85,
+      202.97,
+      401.86,
+      226.31
+    ],
+    "text": "\u201cpublic officer\u201d shall have the same meaning as inArticle 170 of the Constitution; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      191.85,
+      238.97,
+      401.89,
+      394.31
+    ],
+    "text": "\u201cservice charge\u201d means any service charge ormanagement fee payable by the owner of acondominium unit to the ManagementCorporation established in relation to suchcondominium property under the ApartmentOwnership Law, No. 11 of 1973 or any servicecharge or management fee payable by the ownerof a property to a management company orsociety where such property is situated withinany property complex managed by suchcompany or society and where such servicecharge is payable by the lessee under the relevantagreement between the lessor and the lessee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      406.97,
+      401.87,
+      430.31
+    ],
+    "text": "39. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      245.85,
+      467.59,
+      317.84,
+      476.66
+    ],
+    "text": "FIRST SCHEDULE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      236.85,
+      488.23,
+      326.85,
+      507.62
+    ],
+    "text": "FORM OF DECREE NISI(Title.)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      519.07,
+      401.87,
+      569.42
+    ],
+    "text": "This action coming on for disposal before (name and office of Judge)on the ...........................day of ....................., 20................., andafter reading the plaint and documents and on being satisfied of theaverments contained in the affidavit of (name of the plaintiff) dated................., it is ordered and decreed that-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      193.89,
+      580.87,
+      401.89,
+      620.9
+    ],
+    "text": "(a) (name of the defendant), his servants, agents and allthose holding possession of the premises described inthe Schedule hereto under him be ejected from thepremises;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      196.29,
+      632.35,
+      401.88,
+      672.38
+    ],
+    "text": "(b) (i)the above-named defendant do pay to theabove-named plaintiff a sum ofRs...............being the arrears of lease rentalprayed for in the plaint, (if applicable);",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      408.81,
+      408.55,
+      456.1,
+      446.42
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      362.37,
+      475.51,
+      401.37,
+      484.58
+    ],
+    "text": "[Section 5]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "26Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      219.43,
+      205.39,
+      397.18,
+      290.54
+    ],
+    "text": "(ii)the above-named defendant do pay to theabove-named plaintiff a sum of Rs\u2026\u2026. beingthe arrears of service charge due upto\u2026\u2026\u2026\u2026\u2026.. and further service charge atthe rate of Rs. \u2026\u2026\u2026\u2026per mensem from\u2026\u2026\u2026\u2026\u2026 until the above-named plaintiffis restored to vacant possession of the premisesdescribed in the Schedule hereto, (ifapplicable);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      215.11,
+      300.55,
+      397.19,
+      376.1
+    ],
+    "text": "(iii) the above-named defendant do pay to theabove-named plaintiff a sum of Rs\u2026\u2026\u2026.being the liquidated damages at the rate ofRs. \u2026\u2026\u2026. per month/quarter/year from\u2026\u2026\u2026. \u2026. until the above-named plaintiffis restored to vacant and peaceful possessionof the premises described in the Schedulehereto, (if applicable),",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      385.99,
+      397.15,
+      404.54
+    ],
+    "text": "and interest at the legal rate on such sums from\u2026\u2026\u2026\u2026\u2026. untilpayment in full together with costs of action.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      414.55,
+      397.2,
+      556.58
+    ],
+    "text": "These are therefore to command the Fiscal of the ....................Provinceto enter and to have possession of the premises described in theSchedule hereto, to eject the above-named defendant, his servants,agents and all those holding under him from the premises describedin the Schedule hereto, deliver vacant possession to the plaintiff orany person authorized by the plaintiff and levy and make of thehouses, lands, goods, debts and credits of the above-named defendantby seizure, and if necessary, by sale thereof, the sums mentionedabove which the above-named plaintiff has to recover against the saiddefendant by this decree of Court, and have that money before theCourt within \u2026\u2026\u2026\u2026\u2026. days of this decree nisi being made absoluteand inform this Court for what sum or sums and to what person orpersons the Fiscal of the ......................Province has sold the propertyrespectively and this decree nisi, when made absolute, shall serve as amandate for such purpose.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      566.47,
+      397.2,
+      670.94
+    ],
+    "text": "It is further ordered that the above-named defendant shall appearbefore this Court on the............day of ................., 20................at(time)..........and make an application seeking leave from the Court toappear and show cause, if any, why this decree nisi should not bemade absolute. Where leave is so granted to appear and show causeand sufficient security as determined by Court is deposited, the saiddefendant is permitted to appear and show cause against the decreenisi. However, if no application is made or where an application ismade and leave to appear and show cause is not granted, for reasonsassigned, the decree nisi shall be made absolute against the saiddefendant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "27Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      204.67,
+      329.86,
+      213.74
+    ],
+    "text": "The Schedule of the premises above referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      258.07,
+      350.87,
+      267.14
+    ],
+    "text": "On this .....................day of \u2026\u2026\u2026\u2026...., 20.............",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      240.21,
+      293.71,
+      323.48,
+      302.78
+    ],
+    "text": "SECOND SCHEDULE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.57,
+      320.47,
+      401.01,
+      356.18
+    ],
+    "text": "FORM OF PRECEPT TO A PROCESS OFFICER/ FISCAL/GRAMANILADHARI/PRIVATE PROCESS SERVER TO SERVE DECREENISI(Title.)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      364.87,
+      363.59,
+      373.94
+    ],
+    "text": "To the Fiscal/Grama Niladhari of the..............................,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      382.75,
+      314.13,
+      391.82
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026, Private Process Server,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      400.51,
+      323.14,
+      409.58
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026. Court of ...............................,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      418.27,
+      401.89,
+      462.98
+    ],
+    "text": "Serve forthwith the decree nisi in the above-named action, which,with duplicates, is herewith transmitted to you, upon each of thepersons to whom it is directed, and leave with or tender to each suchperson a duplicate decree nisi and one of the copies of the plaintwhich accompany the decree nisi.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      471.67,
+      401.88,
+      507.5
+    ],
+    "text": "It shall be your duty when serving the decree nisi on the defendant orany other person on his behalf, to endeavour to obtain the signatureor the thumb impression or both of such defendant or such person inacknowledgment of the service of the decree, on the original precept.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      516.19,
+      401.88,
+      578.66
+    ],
+    "text": "If you are unable to serve the decree nisi in exercising due diligence,you are hereby authorized to affix the decree nisi in some conspicuouspart of the premises which is the subject matter of the action given inthe Schedule of the plaint, without any further direction of the Courtand in every such case, you shall report to the Court that you servedthe decree nisi by affixing the decree nisi in a conspicuous place ofthe premises in suit.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      587.35,
+      401.91,
+      668.18
+    ],
+    "text": "You are hereby directed to certify to this Court within ten (10) daysfrom the date hereof by way of a report, setting out in detail of themanner, the person, place and other particulars relating to the identityof the person on whom the decree nisi was served, the date on which,and the time at which, the decree nisi was served and also state in thereport, whether the person on whom it was served placed his signatureor thumb impression or both or refused to place the signature orthumb impression or both on the original precept and to attach toyour certificate the original precept as an exhibit.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      287.85,
+      223.99,
+      386.14,
+      242.66
+    ],
+    "text": "(Signed).......................(Name and office of Judge)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      316.77,
+      307.51,
+      403.06,
+      316.58
+    ],
+    "text": "[Sections 9(2) and 9(5)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.31
+    ],
+    "text": "28Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      205.15,
+      296.6,
+      214.22
+    ],
+    "text": "By Order of Court,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      301.15,
+      224.35,
+      392.58,
+      243.02
+    ],
+    "text": "(Signed) .........................Registrar,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      301.15,
+      253.15,
+      396.44,
+      262.22
+    ],
+    "text": "District Court of ...............",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      272.35,
+      325.17,
+      281.42
+    ],
+    "text": "On this \u2026......day of.................., 20.................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      239.71,
+      320.35,
+      314.7,
+      329.42
+    ],
+    "text": "THIRD SCHEDULE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      237.43,
+      329.59,
+      397.15,
+      348.62
+    ],
+    "text": "FORM OF REGISTER [Section 29]",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      355.46,
+      335.59,
+      388.84
+    ],
+    "text": "No. ofactionName ofdefendantPremisesin suitDate ofdecreeabsolute/discharge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      342.19,
+      356.06,
+      376.15,
+      380.8
+    ],
+    "text": "Date ofsatisfactionof decree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      383.11,
+      356.06,
+      401.83,
+      380.8
+    ],
+    "text": "Anyothermatter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      181.15,
+      356.42,
+      205.88,
+      372.76
+    ],
+    "text": "Name ofplaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      273.19,
+      356.3,
+      294.19,
+      381.04
+    ],
+    "text": "Date ofdecreenisi",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      210.21,
+      166.97,
+      401.85,
+      190.31
+    ],
+    "text": "29Recovery of Possession of PremisesGiven on Lease",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      247.65,
+      636.31,
+      355.65,
+      645.38
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
