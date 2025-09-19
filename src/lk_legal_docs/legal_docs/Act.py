@@ -48,8 +48,21 @@ class Act(AbstractPDFDoc):
             assert url_pdf.endswith(".pdf")
             lang_to_url_pdf[lang] = url_pdf
 
-        num = act_number.replace("/", "-").replace(" ", "-") + "-" + lang
         for lang, url_pdf in lang_to_url_pdf.items():
+            act_number_cleaned = act_number.replace("/", "-").replace(" ", "_")
+            num = f"{date_str}-{act_number_cleaned}-{lang}"
+            print(
+                dict(
+                    num=num,
+                    date_str=date_str,
+                    description=description,
+                    url_metadata=url_metadata,
+                    lang=lang,
+                    url_pdf=url_pdf,
+                    act_number=act_number,
+                )
+            )
+
             yield cls(
                 num=num,
                 date_str=date_str,
