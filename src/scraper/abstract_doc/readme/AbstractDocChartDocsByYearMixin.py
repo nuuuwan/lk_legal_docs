@@ -9,9 +9,15 @@ log = Log("AbstractDocChartDocsByYearMixin")
 class AbstractDocChartDocsByYearMixin:
 
     @classmethod
+    def get_chart_image_name(cls) -> str:
+        return "docs_by_year.png"
+
+    @classmethod
     def get_chart_image_path(cls) -> str:
         # E.g. ../lk_acts_data/data/lk_acts/docs_by_year.png
-        return os.path.join(cls.get_dir_docs_for_cls(), "docs_by_year.png")
+        return os.path.join(
+            cls.get_dir_docs_for_cls(), cls.get_chart_image_name()
+        )
 
     @classmethod
     def get_chart_build(cls):

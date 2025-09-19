@@ -112,7 +112,7 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
         return [
             "## Documents By Year",
             "",
-            f"![Documents by year]({cls.get_chart_image_path()})",
+            f"![Documents by year]({cls.get_chart_image_name()})",
             "",
         ]
 
