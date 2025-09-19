@@ -27,5 +27,9 @@ class Bill(Act):
         return f"{cls.get_url_base()}/bl_{year}.html"
 
     @classmethod
+    def get_url_index(cls) -> str:
+        return f"{cls.get_url_base()}/bl.html"
+
+    @classmethod
     def build_global_readme(cls):
         pass

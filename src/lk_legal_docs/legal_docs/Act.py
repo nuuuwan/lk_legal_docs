@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import Generator
 
-from utils import Log, Time, TimeFormat
+from utils import Log
 
 from scraper import AbstractPDFDoc
 from utils_future import WWW
@@ -68,9 +68,8 @@ class Act(AbstractPDFDoc):
         return f"{cls.get_url_base()}/acts_{year}.html"
 
     @classmethod
-    def gen_docs_for_year(cls, year: int) -> Generator["Act", None, None]:
-        url_for_year = cls.get_url_for_year(year)
-        www = WWW(url_for_year)
+    def gen_docs_for_year(cls, url_year) -> Generator["Act", None, None]:
+        www = WWW(url_year)
         log.debug(f"Processing {www}")
         soup = www.soup
         if not soup:
@@ -79,10 +78,25 @@ class Act(AbstractPDFDoc):
             "table", class_="table table-bordered table-striped table-hover"
         )
         for tr in table.find_all("tr"):
-            yield from cls.__parse_tr__(tr, url_metadata=url_for_year)
+            yield from cls.__parse_tr__(tr, url_metadata=url_year)
+
+    @classmethod
+    def get_url_index(cls) -> str:
+        return f"{cls.get_url_base()}/acts.html"
+
+    @classmethod
+    def gen_url_years(cls) -> Generator[str, None, None]:
+        url_index = cls.get_url_index()
+        www = WWW(url_index)
+        log.debug(f"Processing {www}")
+        soup = www.soup
+        if not soup:
+            return
+        div = soup.find("div", class_="button-container")
+        for a in div.find_all("a"):
+            yield f"{cls.get_url_base()}/{a['href']}"
 
     @classmethod
     def gen_docs(cls) -> Generator["Act", None, None]:
-        current_year = int(TimeFormat("%Y").format(Time.now()))
-        for year in range(current_year, 1980, -1):
-            yield from cls.gen_docs_for_year(year)
+        for url_year in cls.gen_url_years():
+            yield from cls.gen_docs_for_year(url_year)
