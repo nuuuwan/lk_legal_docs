@@ -1,0 +1,27 @@
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ
+
+අංක 2448/14 - 2025 අෙගෝස්තු මස 05 වැනි අඟහරුවාදා - 2025.08.05
+
+No. 2448/14 – TUESDAY, AUGUST 05, 2025 - 05.08.2025
+
+EXTRAORDINARY
+
+(Published by Authority) PART III — LANDS Land Acquisition Notices
+
+1A - G 045050 - 20 (08/2025) This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+THE LAND ACQUISITION ACT (CHAPTER 460) Notice under Section 7 Land Ministry's No.: 4-3/5/2019/HA/556. My Reference No. : BER/4/5/2/79. I hereby give notice under Sub-section (1) of Section 7 of the Land Acquisition Act, as amended by the Land Acquisition (Amendment) Act, No. 28 of 1964 that the Government intends to acquire the following land/servitude which is required for a public purpose. Description of the land or servitude to be acquired: One allotment of land in total extent of 0.0194 Hectare, known as Lot No. 01 in Cadastral Map No. 530680, Block No. 04, Sheet No. 01 dated 24th December, 2024 prepared by the Surveyor General, situated at Village of Wadugoda, Grama Niladhari's Division of 736 Pinidiyamulla Divisional Secretary's Division of
+
+Beruwala in Kalutara District, Western Province. More fully described as follows : 01. Lot No. 01 Name of land: Pothupitiyawatta; Description: Garden, Permanent Building and Shrine Room; Claimant: Not known; Extent: 7.7 Perches North: Lot No. 1 of PPK 377; East: Lot No. 1 of PPK 377; South: Lot No. 01 of PPK 377 (Road) and Beruwalagewatta possessed by A. N. Perera and others; West: Beruwalagewatta possessed by A. N. Perera and others and Lot No. 01 of PPK 377 All persons interested in the aforesaid land/lands on which servitude is to be acquired are hereby required to appear personally, or by agents duly authorized in writing, before me at Divisional Secretariat of Beruwala on the 27th day of August, 2025 at 10.00 a.m. and are hereby requested to notify to me in writing (in duplicate) on or before the 20th day of August, 2025 the nature of their interests in the land, the particulars of their claims for compensation for the acquisition of the said land/
+
+2 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.08.05 Pൺඋඍ III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 05.08.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+servitude, the amount of compensation and the details of the computation of such amount. L. U. Janaka Perera, Divisional Secretary, Beruwala. Divisional Secretariat of Beruwala, 21st of July, 2025. EOG 08 - 0051 THE LAND ACQUISITION ACT (CHAPTER 460) Notice under Section 7 Land Ministry's No.: 4/3/11/2018/H/500. My Reference No. : BER/4/5/2/80. I hereby give notice, under Sub-section (1) of Section 7 of the Land Acquisition Act, as amended by the Land Acquisition (Amendment) Act, No. 28 of 1964 that the Government intends to acquire the following lands/servitude which is required for a public purpose. Description of the land or servitude to be acquired: Two allotment of land in total extent of 0.0115 Hectare, known as Lot No. 1 and 2 in Sheet Number 2 of Block Number 4 of Cadastral Map No. 530680 dated 26.12.2024 prepared by the Surveyor General, situated at Village of Wadugoda, Grama Niladhari's Division of 736 Pinidiyamulla Divisional Secretary's Division of Beruwala in Kalutara District, Western Province. More fully described as follows : 01. Lot No. 01 Name of land: Not known; Description: Road; Claimant: State; Original Claimant : Meemanage Kenet Kemasiri Fernando; Extent: 0.5 Perches North: Pothupitiyawatta claimed by Meemanage Kenet Kemasiri Fernando and Pothupitiyawatta claimed
+
+by S. D. Jayaneththi; East: Road and Lot 02 and Lot 3 of P.P.K. 377; South: Lot 2 in sheet number 2 of block number 4 of Cadastral Map No. 530680 and Pothupitiyawaththa claimed by Meemanage Kenet Kemasiri Fernando; West: Pothupitiyawaththa claimed by Meemanage Kenet Kemasiri Fernando 02. Lot No. 02 Name of land: Pothupitiyawatta; Description: Garden; Claimant: State; Original Claimant : Meemanage Kenet Kemasiri Fernando; Extent: 4.1 Perches North: Lot 1 in Sheet Number 2 of Block Number 4 of Cadastral Map No. 530680, road and Lot No. 1 of P.P.K. 377; East: Lot No. 01 of P.P.K. 377 and Beruwalagewatta claimed by A. N. Perera and others; South: Beruwalagewatta claimed by A. N. Perera and others and Pothupitiyawaththa claimed by Meemanage Kenet Kemasiri Fernando; West: Pothupitiyawaththa claimed by Meemanage Kenet Kemasiri Fernando and Lot No. 1 in Sheet Number 2 of block number 4 of Cadastral Map No. 530680 All persons interested in the aforesaid land/lands on which servitude is to be acquired are hereby required to appear personally, or by agents duly authorized in writing, before me at Divisional Secretariat of Beruwala on the 27th day of August, 2025 at 10.00 a.m. and are hereby requested to notify to me in writing (in duplicate) on or before the 20th day of August, 2025 the nature of their interests in the land, the particulars of their claims for compensation for the acquisition of the said land/servitude, the amount of compensation and the details of the computation of such amount. L. U. Janaka Perera, Divisional Secretary, Beruwala. Divisional Secretariat of Beruwala, 29th of July, 2025. EOG 08 - 0052
