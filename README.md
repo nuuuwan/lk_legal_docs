@@ -12,6 +12,20 @@ A legal act in Sri Lanka is a law passed by Parliament that governs rights, duti
 
 - In **English**
 
+# ⚖️#SriLanka 🇱🇰 Bills `Dataset`
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_16:57:06-green)
+
+[https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
+
+A Bill in Sri Lanka is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
+
+- [**1** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills) (**822.8 kB**), from **2025-09-18** to **2025-09-18**, scraped from **[https://documents.gov.lk/view/bills/bl_2025.html](https://documents.gov.lk/view/bills/bl_2025.html)**
+
+- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
+
+- In **English**
+
 
 ---
 
