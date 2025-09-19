@@ -1,0 +1,576 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      236.98,
+      442.53,
+      293.53
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      302.09,
+      330.68,
+      313.43
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      565.37,
+      195.45,
+      576.71
+    ],
+    "text": "[Bill No. 310]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      545.93,
+      330.68,
+      557.27
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.09,
+      457.97,
+      422.38,
+      481.31
+    ],
+    "text": "Presented by Hon. M. A. Sumanthiran, M. P. for Jaffna Districton 07th of November, 2019",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      199.89,
+      493.97,
+      390.33,
+      505.31
+    ],
+    "text": "(Published in the Gazette on October 14, 2019)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      517.97,
+      369.36,
+      529.31
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      582.91,
+      394.65,
+      591.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      592.51,
+      398.61,
+      601.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      615.29,
+      451.18,
+      626.63
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.17,
+      441.29,
+      322.16,
+      452.63
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      663.07,
+      340.89,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      364.47,
+      299.27,
+      378.08
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      393.27,
+      309.81,
+      406.88
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      183.45,
+      324.03,
+      406.87,
+      352.04
+    ],
+    "text": "PROVINCIAL COUNCILS ELECTIONS(AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      165.69,
+      420.53,
+      423.67,
+      431.87
+    ],
+    "text": "to amend the Provincial Councils Elections Act, No. 2 of 1988",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.49,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "1Provincial Councils Elections (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      281.83,
+      444.82,
+      290.9
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.13,
+      203.57,
+      381.57,
+      227.75
+    ],
+    "text": "AN ACT TO AMEND THE PROVINCIAL COUNCILS ELECTIONSACT, NO. 2 OF 1988",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      242.21,
+      401.91,
+      266.51
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      280.37,
+      401.87,
+      303.71
+    ],
+    "text": "1.This Act may be cited as the Provincial CouncilsElections (Amendment) Act, No. of 2019.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      316.37,
+      401.88,
+      339.71
+    ],
+    "text": "2.The Provincial Councils Elections (Amendment) Act,No. 17 of 2017 is hereby repealed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      388.37,
+      401.87,
+      459.71
+    ],
+    "text": "3.The provisions of the Provincial Councils ElectionsAct, No. 2 of 1988, as was extant on 21st September, 2017,shall for all purposes be deemed to be and to have been inoperation as if the same had not been amended by theProvincial Councils Elections (Amendment) Act, No. 17 of2017.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      520.37,
+      401.89,
+      595.91
+    ],
+    "text": "4.Any act done or purported to have been done after22nd September, 2017, in terms of the Provincial CouncilsElections Act, No. 2 of 1988 is deemed to have been done,mutatis mutandis, in terms of the Provincial CouncilsElections Act, No. 2 of 1988 as was extant on 21st September,2017.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      608.81,
+      401.9,
+      632.15
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      318.67,
+      456.82,
+      385.34
+    ],
+    "text": "Repeal of theProvincialCouncilsElections(Amendment)Act, No. 17of 2017.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.21,
+      316.85,
+      152.21,
+      328.19
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      424.01,
+      155.01,
+      435.35
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      544.13,
+      155.01,
+      555.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      610.03,
+      455.86,
+      647.9
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      521.47,
+      447.57,
+      559.34
+    ],
+    "text": "Acts doneafter 22ndSeptember,2017.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      389.95,
+      454.29,
+      504.62
+    ],
+    "text": "Provicians oftheProvincialCouncilsElectionsAct, No. 2 of1988, as wasextant on21stSeptember,2017 to bevalid.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.45,
+      621.29,
+      154.89,
+      632.63
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      367.55,
+      178.31
+    ],
+    "text": "2Provincial Councils Elections (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.99,
+      626.35,
+      349.87,
+      635.42
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

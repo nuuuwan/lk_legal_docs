@@ -1,0 +1,737 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      236.98,
+      442.53,
+      293.53
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      302.09,
+      330.68,
+      313.43
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      565.37,
+      195.45,
+      576.71
+    ],
+    "text": "[Bill No. 321]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      545.93,
+      330.68,
+      557.27
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.61,
+      462.17,
+      407.64,
+      485.51
+    ],
+    "text": "Presented by Hon. (Dr.) Mrs. Thusitha Wijemanne, M.P.for Kegalle District on 05th of February 2020",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.25,
+      498.17,
+      389.98,
+      509.51
+    ],
+    "text": "(Published in the Gazette on January 13, 2020)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      522.17,
+      369.36,
+      533.51
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      582.91,
+      394.65,
+      591.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      592.51,
+      398.61,
+      601.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      615.29,
+      451.15,
+      626.63
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      663.07,
+      340.89,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      353.07,
+      299.27,
+      366.68
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      381.87,
+      309.81,
+      395.48
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.65,
+      323.79,
+      409.65,
+      337.4
+    ],
+    "text": "LAND DEVELOPMENT (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.89,
+      416.81,
+      417.32,
+      428.15
+    ],
+    "text": "to amend the Land Development Ordinance (Chapter 464)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.49,
+      441.29,
+      331.64,
+      452.63
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.77,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "Land Development (Amendment)1",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.89,
+      302.93,
+      150.89,
+      314.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      377.45,
+      153.93,
+      388.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      451.73,
+      153.93,
+      463.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      575.45,
+      153.93,
+      586.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      266.59,
+      444.58,
+      275.66
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163.05,
+      203.21,
+      400.77,
+      214.55
+    ],
+    "text": "AN ACT TO AMEND THE LAND DEVELOPMENT ORDINANCE (CHAPTER 464)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      228.05,
+      401.9,
+      251.75
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      265.25,
+      401.87,
+      288.95
+    ],
+    "text": "1. This Act may be cited as the Land Development(Amendment) Act, No. of 2020.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      302.45,
+      401.87,
+      326.15
+    ],
+    "text": "2.Rule 1(b) and rule 2 of the Third Schedule of theprincipal Act should be replaced with the following rules:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      339.65,
+      401.9,
+      412.91
+    ],
+    "text": "\u201c1(b). Title to a holding for the purposes of Section 72shall devolve on the relatives of the permit holder orowner in the order of priority in which they are respectivelymentioned in the subjoined table, the older beingpreferred to the younger if there are more relatives thanone in any group:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      426.41,
+      401.87,
+      462.47
+    ],
+    "text": "Provided that nothing in this rule should give priorityto the older person when a land has been developed byother person than the older person.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      276.21,
+      475.97,
+      299.5,
+      487.31
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.81,
+      500.81,
+      237.58,
+      512.15
+    ],
+    "text": "(i)Children;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.81,
+      525.53,
+      306.57,
+      536.87
+    ],
+    "text": "(ii)Grand sons and daughters;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.81,
+      550.37,
+      230.14,
+      561.71
+    ],
+    "text": "(iii)Parents;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.65,
+      575.21,
+      281.86,
+      586.55
+    ],
+    "text": "(iv) Brothers and Sisters;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.65,
+      599.93,
+      272.86,
+      611.27
+    ],
+    "text": "(v) Uncles and Aunts;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.65,
+      624.77,
+      284.13,
+      636.11
+    ],
+    "text": "(vi) Nephews and Nieces.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      649.61,
+      401.93,
+      673.31
+    ],
+    "text": "In this rule \u201crelative\u201d means, a relative by blood and notby marriage and \u201cchildren\u201d includes adopted children too.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      303.67,
+      453.57,
+      341.54
+    ],
+    "text": "Amendmentof ThirdSchedule ofChapter 464.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      344.35,
+      178.31
+    ],
+    "text": "2Land Development (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.19,
+      251.81,
+      146.19,
+      263.15
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.15,
+      203.09,
+      397.19,
+      275.99
+    ],
+    "text": "(2) Where in any group of relatives mentioned in thetable subjoined to rule 1, there are two or more persons ofthe same age or of different ages who are equally entitledand willing to succeed, the Divisional Secretary maynominate out of these persons who develop the land tosucceed to the holding:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.15,
+      289.25,
+      397.15,
+      337.43
+    ],
+    "text": "Provided that when nominating more than one person,the successors should be nominated in accordance withany conditions that may have been included in the permitor the grant.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      358.85,
+      451.16,
+      398.18
+    ],
+    "text": "3. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.99,
+      326.33,
+      150.43,
+      337.67
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      214.77,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "Land Development (Amendment)3",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      246.81,
+      632.59,
+      354.81,
+      641.66
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
