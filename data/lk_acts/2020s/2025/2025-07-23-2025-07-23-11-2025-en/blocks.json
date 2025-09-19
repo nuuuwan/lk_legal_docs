@@ -1,0 +1,713 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      75.83,
+      184.24,
+      352.75,
+      233.34
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.43,
+      490.08,
+      368.41,
+      500.85
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.3,
+      501.2,
+      311.62,
+      507.93
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.43,
+      513.08,
+      366.42,
+      525.12
+    ],
+    "text": "Price : Rs. 20.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.43,
+      562.07,
+      240.93,
+      572.85
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.38,
+      261.0,
+      350.89,
+      289.29
+    ],
+    "text": "NATIONAL MINIMUM WAGE OF WORKERS (AMENDMENT) ACT, No. 11 OF 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      148.32,
+      327.78,
+      284.43,
+      338.85
+    ],
+    "text": "[Certi\ufb01 ed on 23rd of July, 2025]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.38,
+      375.78,
+      289.38,
+      386.85
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.42,
+      431.29,
+      342.63,
+      458.76
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of July 25, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.9,
+      45.15,
+      287.8,
+      58.45
+    ],
+    "text": "1National Minimum Wage of Workers (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.53,
+      57.5,
+      206.57,
+      70.8
+    ],
+    "text": "Act, No. 11 of 2025",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.0,
+      181.79,
+      354.21,
+      202.17
+    ],
+    "text": "Short title and date of operation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.0,
+      254.19,
+      354.43,
+      284.17
+    ],
+    "text": "Amendment of section 3 of Act, No. 3 of 2016",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.0,
+      470.39,
+      360.9,
+      519.57
+    ],
+    "text": "Inclusion of the budgetary relief allowances in the national minimum monthly wage",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      89.97,
+      114.86,
+      103.44
+    ],
+    "text": "L.D.- O 18/2025",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.89,
+      111.97,
+      278.01,
+      125.44
+    ],
+    "text": "An Act to amend the National Minimum Wage of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.03,
+      123.97,
+      228.37,
+      137.44
+    ],
+    "text": "Workers Act, No. 3 of 2016",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      145.97,
+      290.71,
+      171.44
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      179.81,
+      290.71,
+      205.44
+    ],
+    "text": "1. (1) This Act may be cited as the National Minimum Wage of Workers (Amendment) Act, No. 11 of 2025.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      215.97,
+      290.71,
+      241.44
+    ],
+    "text": "(2) The provisions of this Act shall be deemed to have come into operation on April 1, 2025.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      251.81,
+      290.71,
+      301.44
+    ],
+    "text": "2. Section 3 of the National Minimum Wage of Workers Act, No. 3 of 2016 is hereby amended by the repeal of subsection (1) thereof and the substitution therefor, of the following: -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.2,
+      311.97,
+      290.72,
+      385.44
+    ],
+    "text": "\u201c(l) (a) For the period commencing on April 1, 2025 and ending on December 31, 2025, the national minimum monthly wage for all workers in any industry or service shall be twenty-seven thousand rupees, and the national minimum daily wage of a worker shall be one thousand eighty rupees.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.2,
+      395.97,
+      290.71,
+      457.44
+    ],
+    "text": "(b) With effect from January 1, 2026, the national minimum monthly wage for all workers in any industry or service shall be thirty thousand rupees, and the national minimum daily wage of a worker shall be one thousand two hundred rupees.\u201d.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.2,
+      467.81,
+      288.19,
+      481.65
+    ],
+    "text": "3. For the avoidance of doubt, it is hereby declared that -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.2,
+      491.97,
+      290.71,
+      505.44
+    ],
+    "text": "(a) the budgetary relief allowances payable as at",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.2,
+      503.97,
+      290.71,
+      553.44
+    ],
+    "text": "March 31, 2025, under the provisions of the Budgetary Relief Allowance of Workers Act, No. 36 of 2005, the Budgetary Relief Allowance of Workers Act, No. 4 of 2016, or both, shall form",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.33,
+      74.79,
+      232.67,
+      88.26
+    ],
+    "text": "[Certified on 23rd of July, 2025]",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.38,
+      44.71,
+      355.18,
+      58.01
+    ],
+    "text": "National Minimum Wage of Workers (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.16,
+      45.82,
+      290.04,
+      70.36
+    ],
+    "text": "Act, No. 11 of 20252",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.53,
+      80.57,
+      374.04,
+      142.04
+    ],
+    "text": "part of the national minimum monthly or daily wage specified in section 2 payable to all workers in any industry or service; and (b) the wage of any worker who, as at March 31,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.53,
+      140.57,
+      374.04,
+      238.04
+    ],
+    "text": "2025, received a wage that included the budgetary relief allowances under the provisions of the Budgetary Relief Allowance of Workers Act, No. 36 of 2005, the Budgetary Relief Allowance of Workers Act, No. 4 of 2016, or both such Acts, shall, from the date of commencement of this Act, consolidate such allowances as part of such wage of such worker.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.53,
+      248.41,
+      374.05,
+      358.04
+    ],
+    "text": "4. An employer shall not reduce the monthly wage of any worker in any industry or service, including any allowances payable under the National Minimum Wage of Workers Act, No. 3 of 2016, the Budgetary Relief Allowance of Workers Act, No. 36 of 2005, or the Budgetary Relief Allowance of Workers Act, No. 4 of 2016, in a manner that would negate the increase made to the national minimum wage by the amendments to the National Minimum Wage of Workers Act, No. 3 of 2016 under this Act.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.53,
+      366.01,
+      374.05,
+      463.64
+    ],
+    "text": "5. The Commissioner-General shall issue directives to any employer, including the final employer who obtains the services of any worker in any industry or service through an intermediary or contractor to take all necessary measures to ensure that the increase made to the national minimum wage by the amendments to the National Minimum Wage of Workers Act, No. 3 of 2016 under this Act is duly implemented.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.53,
+      474.01,
+      374.04,
+      499.64
+    ],
+    "text": "6. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.53,
+      250.91,
+      119.29,
+      280.89
+    ],
+    "text": "Prohibition on reduction of wage and allowances",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.53,
+      476.29,
+      116.4,
+      506.27
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.53,
+      367.99,
+      120.42,
+      407.57
+    ],
+    "text": "Implementation of increase in national minimum wage",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.9,
+      45.15,
+      287.8,
+      58.45
+    ],
+    "text": "3National Minimum Wage of Workers (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.53,
+      57.5,
+      206.57,
+      70.8
+    ],
+    "text": "Act, No. 11 of 2025",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.38,
+      44.71,
+      355.18,
+      58.01
+    ],
+    "text": "National Minimum Wage of Workers (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.16,
+      45.82,
+      290.04,
+      70.36
+    ],
+    "text": "Act, No. 11 of 20254",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.32,
+      534.37,
+      367.96,
+      543.55
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPrakashana Piyasa\u201d, Department of",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.25,
+      543.97,
+      343.03,
+      553.15
+    ],
+    "text": "Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

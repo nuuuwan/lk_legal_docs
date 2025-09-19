@@ -2,19 +2,19 @@
   "doc_class_label": "lk_acts",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A legal act in Sri Lanka is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",
-  "time_updated": "2025-09-19 17:25:26",
+  "time_updated": "2025-09-19 17:34:05",
   "n_docs": 2250,
-  "n_docs_with_pdfs": 19,
-  "n_docs_with_text": 19,
+  "n_docs_with_pdfs": 26,
+  "n_docs_with_text": 26,
   "date_str_min": "2004-12-21",
   "date_str_max": "2025-09-10",
-  "dataset_size": 12353177,
+  "dataset_size": 25713583,
   "url_source": "https://documents.gov.lk/view/acts/acts_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_acts",
