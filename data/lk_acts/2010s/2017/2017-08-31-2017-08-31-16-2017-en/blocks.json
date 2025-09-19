@@ -1,0 +1,4302 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      197.85,
+      632.23,
+      377.73,
+      641.3
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.05,
+      641.83,
+      388.77,
+      650.9
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      131.85,
+      661.02,
+      443.85,
+      670.98
+    ],
+    "text": "Price : Rs. 17.00 Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      8.772114753723145,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.61,
+      275.58,
+      434.97,
+      331.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.53,
+      580.49,
+      425.26,
+      603.83
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 31, 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.77,
+      548.95,
+      324.81,
+      558.02
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.33,
+      446.23,
+      323.37,
+      455.3
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.89,
+      479.89,
+      358.87,
+      490.96
+    ],
+    "text": "[Certified on 31st of August, 2017]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.65,
+      514.45,
+      367.18,
+      525.52
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.25,
+      349.03,
+      322.29,
+      358.1
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      164.85,
+      386.33,
+      410.92,
+      418.62
+    ],
+    "text": "LOCAL AUTHORITIES ELECTIONS(AMENDMENT) ACT, No. 16 OF 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.57,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 20171",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.21,
+      205.13,
+      335.5,
+      216.47
+    ],
+    "text": "[Certified on 31st of August, 2017]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      229.73,
+      217.3,
+      241.07
+    ],
+    "text": "L.D.\u2014O. 35/2015",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.85,
+      254.33,
+      359.73,
+      278.03
+    ],
+    "text": "AN ACT TO AMEND THE LOCAL AUTHORITIES ELECTIONSORDINANCE (CHAPTER 262)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      291.29,
+      383.88,
+      314.87
+    ],
+    "text": "Be it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      328.13,
+      383.89,
+      351.83
+    ],
+    "text": "1.This Act may be cited as the Local AuthoritiesElections (Amendment) Act, No. 16 of 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      365.09,
+      383.91,
+      437.87
+    ],
+    "text": "2.Section 3C of the Local Authorities ElectionsOrdinance (Chapter 262) (hereinafter referred to as the\u201cprincipal enactment\u201d) is hereby amended in subsection (2)of that section by the omission of the words, \u201calphabeticalletter in English\u201d and \u201cor the alphabetical letter\u201d, appearingin that section.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      451.13,
+      383.88,
+      511.67
+    ],
+    "text": "3.Section 3D of the principal enactment is herebyamended in subsection (2) of that section by the substitutionfor the words, \u201cnew boundaries, names, numbers or letters ofeach ward\u201d of the words, \u201cnew boundaries, names andnumbers of each ward\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      524.93,
+      383.88,
+      560.87
+    ],
+    "text": "4.Section 9 of the principal enactment is amended insubsection (1) by the addition of the following new sub-paragraph after sub-paragraph (iv) of paragraph (d):\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      574.13,
+      383.9,
+      634.67
+    ],
+    "text": "\u201c(iva) a public officer who is engaged in field basedactivities who has not ceased to serve within aLocal Authority area in which he seeksnomination at least one year prior to the electionto such Local Authority.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.85,
+      647.93,
+      383.88,
+      671.63
+    ],
+    "text": "For the purpose of this subparagraph \u201ca publicofficer who is engaged in field based activities\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      329.59,
+      434.13,
+      338.66
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      366.79,
+      449.13,
+      395.06
+    ],
+    "text": "Amendment ofsection 3C ofchapter 262.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.33,
+      452.71,
+      454.89,
+      490.58
+    ],
+    "text": "Amendment ofsection 3D of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      526.99,
+      450.58,
+      564.86
+    ],
+    "text": "Amendment ofsection 9 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.33,
+      674.71,
+      253.76,
+      683.78
+    ],
+    "text": "2\u2014H 050110\u2014500 (09/2017)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "2Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      258.67,
+      204.65,
+      450.71,
+      250.79
+    ],
+    "text": "shall include any person who is engaged in anydevelopment, welfare, economic, social, healthor such other activities within the scope of hisemployment.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.67,
+      262.73,
+      450.7,
+      285.59
+    ],
+    "text": "5.Section 12 of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      297.53,
+      450.7,
+      343.67
+    ],
+    "text": "(1)in paragraph (ii) of the last proviso to subsection(1) of that section, by the substitution for the words,\u201cby a name and an alphabetical letter in English.\u201d,of the words, \u201cby a name and a number.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      355.49,
+      383.13,
+      366.83
+    ],
+    "text": "(2)in subsection (2) of that section \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      255.91,
+      378.65,
+      450.68,
+      436.43
+    ],
+    "text": "(a)by the substitution for the words, \u201cpollingdistricts\u201d and \u201cPolling district\u201d whereverthose words appear in that subsection, ofthe words, respectively as \u201cpolling districts\u201dand \u201cpolling district\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      255.91,
+      448.25,
+      450.69,
+      482.87
+    ],
+    "text": "(b)by the substitution in paragraph (c) for theword, \u201cdistrict\u201d, of the words, \u201cpollingdistrict\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      494.69,
+      450.72,
+      529.19
+    ],
+    "text": "(3)by the substitution in subsection (2A) of thatsection, for the words, \u201ceach polling district\u201d of thewords, \u201ceach polling district\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      541.13,
+      450.7,
+      587.27
+    ],
+    "text": "(4)by the substitution in subsection (2B) of thatsection, for the words, \u201cdivision of a polling areainto polling districts\u201d of the words, \u201cdivision of apolling area into polling districts\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.67,
+      599.09,
+      450.73,
+      668.63
+    ],
+    "text": "6.Section 26 of the principal enactment is herebyamended by the substitution for the words, \u201cwhich theapproved symbols shall be allotted and in respect of a localauthority area.\u201d of the words, \u201cwhich the approved symbolsand where there are more than one independent group, adistinguishing number shall be allotted.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      263.95,
+      198.44,
+      301.82
+    ],
+    "text": "Amendment ofsection 12 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      601.51,
+      198.44,
+      639.38
+    ],
+    "text": "Amendment ofsection 26 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.57,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 20173",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      204.89,
+      383.87,
+      228.23
+    ],
+    "text": "7.Section 27F of the principal enactment is herebyrepealed and the following section is substituted therefor:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      240.89,
+      383.89,
+      300.23
+    ],
+    "text": "27F. (1) Notwithstanding any provision tothe contrary in this Ordinance, not less thantwenty five per centum of the total number ofmembers in each local authority shall be womenmembers:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      312.89,
+      383.87,
+      396.23
+    ],
+    "text": "provided that, where the numberconstituting twenty five per centum of the totalnumber of members in a local authority in aninteger and fraction, the integer shall bedeemed to be the number which shallconstitute twenty five per centum for thepurpose of this section.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      408.89,
+      383.87,
+      456.23
+    ],
+    "text": "(2) The Commissioner of Elections shall bynotice published in the gazette, specify thenumber of women candidates to be nominatedin respect of each local authority.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      468.89,
+      383.88,
+      492.23
+    ],
+    "text": "8.Section 28 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.09,
+      504.89,
+      383.95,
+      564.23
+    ],
+    "text": "(1)by the substitution in subsection (1) of that section,for the words, \u201cAny person who is qualified undersection 8 of this Ordinance\u201d of the words, \u201cAnyperson who is qualified under section 8 of thisOrdinance\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.09,
+      576.89,
+      383.9,
+      636.23
+    ],
+    "text": "(2)in subsection (2) of that section by the repeal of thewords commencing from \u201cAny recognized politicalparty\u201d and ending with the words \u201csetting out thenames:\u2013\u201d, and the substitution therefor of thefollowing:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      647.45,
+      383.89,
+      670.79
+    ],
+    "text": "\u201cAny recognized political party or independentgroup shall, for the purpose of election as members",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      206.23,
+      450.58,
+      244.1
+    ],
+    "text": "Replacement ofsection 27F ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      470.71,
+      455.14,
+      508.58
+    ],
+    "text": "Amendment ofsection 28 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      242.35,
+      181.29,
+      280.22
+    ],
+    "text": "\u201cTotalnumber ofwomenmembers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "4Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      246.67,
+      204.89,
+      451.19,
+      372.23
+    ],
+    "text": "of any local authority, submit two nominationpapers in respect of all wards of such local authority.The nomination papers submitted by everyrecognized political party or independent group inrespect of all wards of any local authority shallconsist of the number of candidates of whom notless than ten per centum of the total number ofmembers to be elected and returned in the firstnomination paper, and not less than fifty per centumof the total number of candidates in the additionalnomination paper shall be women candidates forthe purpose of election as members of such localauthority, substantially in the Forms set out in theFirst Schedule, setting out the names\u2013\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.91,
+      384.89,
+      451.15,
+      408.23
+    ],
+    "text": "(3)by the repeal of paragraph (a) of subsection (2) andthe substitution therefor of the following:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      254.95,
+      420.89,
+      451.18,
+      480.23
+    ],
+    "text": "\u201c(a) of candidates being nominated in respectof each ward of that local authority whichnumber shall be equivalent to sixty percentum of the total number of members ofthat local authority:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      276.67,
+      492.89,
+      451.19,
+      564.23
+    ],
+    "text": "Provided that where the numberconstituting sixty per centum referred to inthis paragraph is an integer and fraction, theinteger shall be deemed to be the numberwhich shall constitute sixty per centum, forthe purpose of this paragraph.\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.91,
+      574.73,
+      451.19,
+      670.07
+    ],
+    "text": "(4)in paragraph (b) of subsection (2) by the repeal ofthe words starting from \u201cpersons as is equivalent tothirty per centum of the total number of persons\u201dand ending with the words \u201cshall be appointed:\u201d,of the words \u201cpersons to be nominated as candidatesto be retuned as is equivalent to forty per centum ofthe total number of members of the local authorityplus three additional persons:\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195.57,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 20175",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.09,
+      204.89,
+      383.85,
+      240.23
+    ],
+    "text": "(5)in the proviso to paragraph (b) of subsection (2) bythe substitution for the words \u201cthirty per centum\u201dof the words \u201cforty per centum\u201d",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.09,
+      252.89,
+      383.87,
+      276.23
+    ],
+    "text": "(6)by the repeal of subsection (2A) of that section andthe substitution therefor of the following:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      289.13,
+      383.9,
+      472.67
+    ],
+    "text": "\u201c(2A) The Commissioner shall by noticepublished in the gazette, specify the minimumnumber of women candidates as specified insubsection (2) to be nominated in the FirstNomination Paper and the Additional NominationPaper in respect of all wards of each LocalAuthority.Where the total number of womencandidates to be nominated is such that not lessthan ten per centum of the total number of membersto be elected and returned in the First NominationPaper and not less than fifty per centum of thenumber of candidates in the Additional NominationPaper would be an integer and fraction, the integershall be deemed to be the number required for thepurposes of this section.\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.09,
+      485.81,
+      383.87,
+      534.59
+    ],
+    "text": "(7)in subsection (2B) of that section, by deleting thewords, \u201cThe nomination paper shall be prepared induplicate, with the word \u201ccopy\u201d being writtenclearly on the duplicate copy.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.09,
+      547.73,
+      383.88,
+      671.63
+    ],
+    "text": "(8)in subsection (2D) of that section by the substitutionfor the words, \u201ctwenty five per centum of the totalnumber of candidates and additional persons whosenames appear in each nomination paper submittedunder subsection (2) of this section, may consist ofwomen and youth.\u201d of the words, \u201cnot less thanthirty per centum of the total number of candidatesand additional persons whose names appear in eachnomination paper submitted under subsection (2)of this section, may consist of youth.\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "6Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      206.09,
+      451.18,
+      231.11
+    ],
+    "text": "(9)by the substitution in the subsection (2E) of thatsection-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.39,
+      247.25,
+      451.15,
+      299.63
+    ],
+    "text": "(a)for the words, \u201ctwenty-five per centum\u201dwherever those words appear in thatsubsection, of the words, \u201cthirty per centum\u201d;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.39,
+      315.65,
+      451.15,
+      354.47
+    ],
+    "text": "(b)for the words and figure, \u201csubsection (2B) isan integer\u201d, of the words and figure,\u201csubsection (2D) is an integer\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.67,
+      370.49,
+      451.19,
+      395.51
+    ],
+    "text": "9.Section 29 of the principal enactment is herebyamended in subsection (1) of that section as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      411.65,
+      451.19,
+      505.07
+    ],
+    "text": "(1)by the substitution in paragraph (a) of thatsubsection, for the words, \u201cand in any case not laterthan twelve noon on the day immediately precedingthe end of the nomination period, deposit\u201d, of thewords, \u201c(and in any case not later than twelve noonon the day immediately preceding the end of thenomination period), deposit\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      521.21,
+      451.19,
+      587.27
+    ],
+    "text": "(2)by the substitution in sub-paragraph (i) of paragraph(a) of that subsection, for the words, \u201cfive thousandrupees in respect of each candidate\u201d, of the words,\u201cone thousand five hundred rupees in respect ofeach candidate\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      603.41,
+      451.19,
+      669.47
+    ],
+    "text": "(3)by the substitution in sub-paragraph (ii) ofparagraph (a) of that subsection, for the words,\u201ctwenty thousand rupees in respect of eachcandidate\u201d, of the words, \u201cfive thousand rupees inrespect of each candidate\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      369.79,
+      199.4,
+      407.66
+    ],
+    "text": "Amendment ofsection 29 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195.57,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 20177",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.05,
+      205.25,
+      384.85,
+      255.59
+    ],
+    "text": "(4)by the substitution in sub-paragraph (ii) of paragraph(b) of that subsection, for the words, \u201cleader of theindependent group\u201d of the words, \u201cleader of theindependent group or his authorized agent.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      270.17,
+      384.95,
+      294.59
+    ],
+    "text": "10.Section 30 of the principal enactment is herebyamended in subsection (4) of that section, as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.05,
+      309.17,
+      384.84,
+      333.59
+    ],
+    "text": "(1)by the substitution for the words, \u201cin the ward\u201d, ofthe words, \u201cin the ward\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.05,
+      348.17,
+      384.78,
+      385.55
+    ],
+    "text": "(2)by the substitution in the proviso to that subsectionfor the words, \u201cin such local authority area\u201d of thewords, \u201cin such local authority area\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      400.25,
+      384.95,
+      424.55
+    ],
+    "text": "11.Section 31 of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.05,
+      439.13,
+      384.82,
+      476.51
+    ],
+    "text": "(1)in paragraph (e) of subsection (1) by the substitutionfor the words \u201csubsection (5) of section 28.\u201d of thewords \u201csubsection (5) of section 28; or\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      160.05,
+      491.21,
+      384.83,
+      528.47
+    ],
+    "text": "(2)by the addition immediately after paragraph (e)of that subsection of the following newparagraph:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.37,
+      543.17,
+      384.85,
+      593.51
+    ],
+    "text": "\u201c(f)that does not contain the total number ofwomen candidates as required to benominated under subsection (2A) ofsection 28 of this Ordinance.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      608.21,
+      384.95,
+      671.51
+    ],
+    "text": "12.Section 38 of the principal enactment is herebyamended in paragraph (b) of subsection (1) thereof by thesubstitution for the words \u201ca single list containing thenames\u201d, of the words, \u201cthe nomination papers containingthe names\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      271.63,
+      455.14,
+      309.5
+    ],
+    "text": "Amendment ofsection 30 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      609.19,
+      455.14,
+      647.06
+    ],
+    "text": "Amendment ofsection 38 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      401.71,
+      455.14,
+      439.58
+    ],
+    "text": "Amendment ofsection 31 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "8Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      204.89,
+      450.23,
+      264.23
+    ],
+    "text": "13.Section 39 of the principal enactment is herebyamended in subsection (2) of that section, by the repeal ofthe words, \u201cor person whose name appears in the secondplace in the nomination paper submitted by such recognizedpolitical party or independent group.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      276.89,
+      450.23,
+      300.23
+    ],
+    "text": "14.Section 39A of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      312.89,
+      450.29,
+      360.23
+    ],
+    "text": "(1)in subsection (1) of that section, by the substitutionfor the words, \u201cin the electoral list of any ward ofthat area\u201d of the words, \u201cin the electoral list of anyward of that area\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      372.89,
+      450.2,
+      408.23
+    ],
+    "text": "(2)by the repeal of the paragraph (c) of subsection (1)of that section and the substitution therefor of thefollowing paragraph:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.71,
+      420.89,
+      430.66,
+      432.23
+    ],
+    "text": "\u201c(c) the name and the number of the ward;\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      444.89,
+      450.23,
+      492.23
+    ],
+    "text": "15.Section 40 of the principal enactment is herebyamended in paragraph (a) of subsection (1) of that section,by the substitution for the words, \u201cpolling district;\u201d, of thewords, \u201cpolling district;\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      504.89,
+      450.22,
+      552.23
+    ],
+    "text": "16.Section 43 of the principal enactment is herebyamended, by the substitution for the words, \u201cany ward\u201d and\u201cfor that ward\u201d of the words, \u201cany ward\u201d and \u201cfor the ward\u201d,respectively.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      564.89,
+      450.21,
+      600.23
+    ],
+    "text": "17.Section 44 of the principal enactment is herebyamended in paragraph (d) of that section by the substitutionfor the words, \u201cfor that ward\u201d, of the words, \u201cfor that ward\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      612.89,
+      450.27,
+      672.23
+    ],
+    "text": "18.Section 45 of the principal enactment is herebyamended in paragraph (b) of subsection (1) of that section,by the substitution for the words, \u201cin alphabetical order inSinhala and the approved symbol allotted to each such partyor group.\u201d of the words, \u201cthe approved symbol allotted to",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      205.63,
+      198.44,
+      243.5
+    ],
+    "text": "Amendment ofsection 39 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      505.15,
+      198.44,
+      543.02
+    ],
+    "text": "Amendment ofsection 43 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      565.63,
+      198.44,
+      603.5
+    ],
+    "text": "Amendment ofsection 44 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      614.71,
+      198.44,
+      652.58
+    ],
+    "text": "Amendment ofsection 45 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      445.63,
+      198.44,
+      483.5
+    ],
+    "text": "Amendment ofsection 40 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      277.27,
+      192.43,
+      315.14
+    ],
+    "text": "Amendment ofsection 39A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195.57,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 20179",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      205.37,
+      384.85,
+      241.91
+    ],
+    "text": "each such party or group and where there are more than oneindependent group the distinguishing number allotted toeach such group as indicated in the nomination paper\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      255.77,
+      384.95,
+      292.31
+    ],
+    "text": "19.Section 47 of the principal enactment is herebyamended by the repeal of paragraph (a) of that section, andthe substitution therefor of the following paragraph:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      156.09,
+      306.17,
+      384.87,
+      481.31
+    ],
+    "text": "\u201c(a)shall contain the names of the recognized politicalparties contesting at the election, in Sinhala, Tamiland English arranged in the Sinhala alphabeticalorder and with the symbol allotted to each suchparty set out against the name of each such party,and immediately thereafter, if there are anyindependent groups contesting at such election,the words, \u201cIndependent Group\u201d repeated for eachsuch group and the distinguishing number in theserial order and the symbol allotted to each suchgroup set out against the distinguishing number ofsuch group and a blank cage against each symbolfor a voter to cast his vote. A voter shall cast hisvote within the cage provided therefor.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      495.17,
+      384.85,
+      519.11
+    ],
+    "text": "20.Section 59A of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      532.97,
+      384.94,
+      619.91
+    ],
+    "text": "(1)in subsection (1) of that section by the substitutionfor the words, \u201cThe counting of votes in eachpolling station shall take place\u201d of the words\u201cWhere there are more than one polling stations forcounting votes, in each division, the counting ofvotes in each such polling station shall take placeas decided by the relevant returning officer.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      633.77,
+      384.86,
+      670.31
+    ],
+    "text": "(2)in subsection (2) of that section, by the substitutionfor the words \u201cfunction as the counting staff.\u201d ofthe words, \u201cfunction as the counting staff. However,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      256.63,
+      455.14,
+      294.5
+    ],
+    "text": "Amendment ofsection 47 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      496.63,
+      449.13,
+      534.5
+    ],
+    "text": "Amendment ofsection 59A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "10Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      248.11,
+      204.65,
+      452.27,
+      323.75
+    ],
+    "text": "where the returning officer is of the opinion thatthe counting staff or an officer of such staff of thatstation is incapable of performing the dutiesentrusted to such staff or such officer, or is notsuitable for the performance of the duties as acounting staff or as an officer of such staff, thereturning officer may, appoint another counting staffin place of such counting staff or another officer inthe place of such officer of that staff, as the casemay be.\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.35,
+      336.41,
+      452.14,
+      383.75
+    ],
+    "text": "(3)in subsection (4) of that section, by the repeal of allthe words from, \u201cthe Commissioner of Elections\u201dto the end of that subsection, and substitutiontherefor of the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      248.11,
+      396.41,
+      452.25,
+      491.75
+    ],
+    "text": "\u201cor if the returning officer is of the opinion thatthe counting officer appointed to any polling stationis incapable of performing the duties entrusted tohim or is not suitable for the performance of theduties as a counting officer, the returning officermay appoint any other senior presiding officer oran assistant returning officer as a counting officerin place of the first mentioned officer.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      504.41,
+      452.27,
+      527.75
+    ],
+    "text": "21.Section 59B of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.35,
+      540.41,
+      452.15,
+      671.75
+    ],
+    "text": "(1)by the substitution, in subsection (1) of that section,for the words, \u201che shall inform the assistantreturning officer appointed by the returning officerto supervise the polling in the ward in which suchpolling station is situated, of such fact and suchassistant returning officer shall\u201d, of the words, \u201cheshall inform the returning officer through theassistant returning officer who supervises thepolling in the ward in which such polling station issituated, of such fact and such returning officershall\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      505.63,
+      192.43,
+      543.5
+    ],
+    "text": "Amendment ofsection 59B ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201711",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.05,
+      205.13,
+      384.85,
+      278.03
+    ],
+    "text": "(2)by the substitution, in subsection (2) of that section,for the words, \u201cshall be notified by the assistantreturning officer, to the counting agents\u201d, of thewords, \u201cshall be notified by the assistant returningofficer to the returning officer and thereafter to thecounting agents\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.05,
+      291.29,
+      384.84,
+      376.43
+    ],
+    "text": "(3)by the substitution, in subsection (3) of that section,for the words, \u201cThe counting of votes at the newvenue as determined by the assistant returningofficer\u201d, of the words, \u201cAfter the returning officerbeing notified of the new venue, the counting ofvotes at the new venue as determined by thesupervising assistant returning officer\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      389.69,
+      384.95,
+      425.63
+    ],
+    "text": "22.Section 61 of the principal enactment is herebyamended by the substitution, in subsection (3) of that section,for the word, \u201cward\u201d, of the word, \u201cward\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      438.89,
+      384.95,
+      474.83
+    ],
+    "text": "23.Section 64 of the principal enactment is herebyamended by the substitution, in subsection (2) of that section,for the words, \u201cthe ward\u201d, of the words, \u201cthe ward\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      488.09,
+      384.95,
+      548.63
+    ],
+    "text": "24.Section 65 of the principal enactment is herebyamended by the substitution, in subsection (1) of that section,for the words and figure, \u201creferred to in section 64,\u201d of thewords and figure, \u201creferred to in section 64 and the declarationunder regulation 28(c) of the Ninth Schedule hereto,\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      561.89,
+      384.82,
+      585.47
+    ],
+    "text": "25.Section 65AA is hereby repealed and the followingsection is substituted therefor:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198.81,
+      598.73,
+      384.84,
+      671.63
+    ],
+    "text": "65AA. (1) Where the number of memberselected from any recognized political party orindependent group for a Local Authorityresults in an overhang and thereby exceeds thenumber ascertained to be elected and returnedas members under sub section (3) of section",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      391.63,
+      455.14,
+      429.5
+    ],
+    "text": "Amendment ofsection 61 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      440.11,
+      455.14,
+      477.98
+    ],
+    "text": "Amendment ofsection 64 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      490.15,
+      455.14,
+      528.02
+    ],
+    "text": "Amendment ofsection 65 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      564.19,
+      450.58,
+      627.98
+    ],
+    "text": "Replacement ofsection 65AA ofthe principalenactment.\u201cApportionmentof womenmembers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "12Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      264.19,
+      203.21,
+      451.19,
+      262.55
+    ],
+    "text": "65(3), and such number of members so electeddo not include any women members, then theprovisions of subsections (3) and (4) of thissection shall not apply to such recognizedpolitical party or independent group.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      264.19,
+      275.21,
+      451.2,
+      370.55
+    ],
+    "text": "(2) Where any recognized political party orindependent group has received less thantwenty per centum of the total number of votespolled in a local authority area, and has lessthan three members elected or returned, thenthe provisions of subsections (3) and (4) of thissection shall not apply to such recognizedpolitical party or independent group.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      264.19,
+      383.21,
+      451.2,
+      562.55
+    ],
+    "text": "(3) The apportionment of women membersto be elected and returned to each localauthority from the recognized political partiesand independent groups other than the politicalparties and the independent groups referred toin subsection (2) of this section, shall bedetermined by the Commissioner of Elections,taking into consideration the number of validvotes polled by the other recognized politicalparties and independent groups in all wards ofsuch local authority, and the method ofapportionment set out in Article 99A of theConstitution of the Democratic SocialistRepublic of Sri Lanka shall mutatis mutandisapply thereto.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      264.19,
+      575.21,
+      451.2,
+      670.55
+    ],
+    "text": "(4) Where the number of women memberselected for all wards of any local authority areafrom any recognized political party orindependent group other than the recognizedpolitical party or independent group referredto in subsection (1) or (2) of this section, is lessthan the number apportioned in terms ofsubsection (3) of this section, then the shortfall",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201713",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      197.85,
+      202.73,
+      383.89,
+      272.63
+    ],
+    "text": "in the number of members shall be returnedfrom among the women candidates in the firstnomination paper or the additional nominationpaper other than the women candidates whohave been elected or are disqualified to be amember under section 9.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      284.69,
+      383.89,
+      307.67
+    ],
+    "text": "26.Section 65B of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171.57,
+      319.73,
+      383.88,
+      354.47
+    ],
+    "text": "(1)by the repeal of subsections (2), (3), (4) and (5)and substitution therefor of the followingsubsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191.85,
+      366.53,
+      383.9,
+      471.47
+    ],
+    "text": "\u201c(2) The total number of valid votes receivedby all the candidates of each recognized politicalparty and independent group in a local authorityarea shall be divided by the total number ofmembers to be elected and returned to the LocalAuthority Area. The number resulting from suchdivision (any fraction not being taken intoaccount) shall hereinafter in this section bereferred to as \u201cthe qualifying number\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171.57,
+      483.53,
+      383.85,
+      506.63
+    ],
+    "text": "(2)(i)by the renumbering of subsection (6) assubsection (3);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      191.85,
+      518.69,
+      383.89,
+      670.91
+    ],
+    "text": "(ii)in the renumbered subsection (3) by thesubstitution for the words \u201cthe balancecandidates of each recognized politicalparty and independent group, shall thenbe divided by the qualifying number, inorder to ascertain the number of personsentitled to be returned as members of thatlocal authority in terms of subsection (1)by such recognized political party orindependent group, as the case may be.\u201d,of the words \u201cthe candidates of eachrecognized political party and independentgroup in the respective local authority area",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      286.63,
+      449.13,
+      324.5
+    ],
+    "text": "Amendment ofsection 65B ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "14Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      279.67,
+      205.37,
+      451.2,
+      256.67
+    ],
+    "text": "shall then be divided by the qualifyingnumber, in order to ascertain the number ofpersons entitled to be elected and returnedas members of that local authority.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.39,
+      271.85,
+      451.15,
+      296.51
+    ],
+    "text": "(3)by the insertion of the following sub section aftersub section (3):\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      248.95,
+      311.81,
+      451.19,
+      416.27
+    ],
+    "text": "\u201c(4) Upon ascertaining the number of candidatesentitled to be elected and returned as membersof that local authority by each recognizedpolitical party or independent group, as thecase may be, in terms of subsection (3), if it isfound that the number of members electedfrom such recognized political party orindependent group for that local authority\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      277.39,
+      431.45,
+      451.18,
+      496.07
+    ],
+    "text": "(a) exceeds the number ascertained to beelected and returned as members undersubsection (3), then such overhang shallbe determined by the Commissioner ofElections; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      277.39,
+      511.25,
+      451.19,
+      668.87
+    ],
+    "text": "(b) falls short of the number ascertained tobe elected and returned as membersunder subsection (3), then suchadditional number of members, shall bereturned by the respective secretary ofthe recognized political party or leaderof the independent group from thecandidates of the First NominationPaper or the Additional NominationPaper other than the candidates whohave been elected or are not disqualifiedto be a member under section 9.\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201715",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      162.57,
+      204.89,
+      383.85,
+      228.23
+    ],
+    "text": "(4)(i)by the renumbering of subsection (7) assubsection (5) of that section;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      182.85,
+      236.93,
+      347.87,
+      248.27
+    ],
+    "text": "(ii)in the renumbered subsection (5)\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      213.57,
+      256.97,
+      383.88,
+      304.31
+    ],
+    "text": "(a)by the substitution for the words andfigure \u201cspecified in subsection (5)\u201d,of the words and figure \u201cspecified insubsection (3)\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      213.57,
+      312.89,
+      383.86,
+      360.23
+    ],
+    "text": "(b)by the substitution for the words andfigure \u201cdetermined under subsection(3)\u201d, of the words and figure\u201cdetermined under subsection (4)\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      214.29,
+      372.89,
+      383.86,
+      420.23
+    ],
+    "text": "(c)by the substitution for the words andfigure \u201cascertained under subsection(6)\u201d, of the words and figure\u201cascertained under subsection (3)\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      162.57,
+      432.89,
+      383.86,
+      468.23
+    ],
+    "text": "(5)(i)by the renumbering of subsections (8) and(9) respectively as subsections (6) and (7) ofthat section;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      182.85,
+      480.89,
+      383.9,
+      600.23
+    ],
+    "text": "(ii)in the renumbered subsection (6) by thesubstitution for the words and figure \u201cto returna member as ascertained under subsection (5),of the number of members that suchrecognized political party or independentgroup, as the case may be, is entitled to returnand request such secretary or leader, as thecase may be, to nominate from among thepersons, whose names were included in thenomination paper\u201d of the following:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203.85,
+      611.33,
+      383.88,
+      670.67
+    ],
+    "text": "\u201cto return such number of members asascertained under subsection (3) of thissection and subsection (3) of section 65AA, ofthe number of members including womenmembers that such recognized political party",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "16Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      270.67,
+      204.05,
+      450.73,
+      280.19
+    ],
+    "text": "or independent group, as the case may be, isentitled to be elected and returned from thecandidates of the First Nomination Paper orthe Additional Nomination Paper other thanthe candidates who have been elected or arenot disqualified to be a member undersection 9.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      290.45,
+      450.69,
+      312.59
+    ],
+    "text": "(6)by the repeal of the marginal note to that sectionand the substitution therefor of the following:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      255.67,
+      322.85,
+      450.71,
+      334.19
+    ],
+    "text": "\u201cCandidates entitled to be elected or returned.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.67,
+      344.45,
+      450.71,
+      366.59
+    ],
+    "text": "27.Section 66A of the principal enactment is herebyamended\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      376.85,
+      450.71,
+      463.67
+    ],
+    "text": "(a)in paragraph (a) of subsection (1) by the substitutionfor the words \u201cany other person who is qualifiedunder section 8 of this Ordinance to be elected\u201d, ofthe words \u201cany other candidate of the FirstNomination Paper or the Additional NominationPaper other than the candidates who have beenelected or are not disqualified to be a member undersection 9;\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      473.93,
+      392.11,
+      485.27
+    ],
+    "text": "(b)in paragraph (b) of subsection (1)\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      253.63,
+      495.53,
+      450.72,
+      604.07
+    ],
+    "text": "(i)by the substitution for the words \u201ca person tofill such vacancy from among those personsnominated by such recognized political partyor independent group under\u201d, of the words \u201cacandidate to fill such vacancy from candidatesof the First Nomination Paper or theAdditional Nomination Paper other than thecandidates who have been elected or are notdisqualified to be a member under section 9in terms of; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      250.63,
+      614.33,
+      450.7,
+      669.11
+    ],
+    "text": "(ii)by the substitution for the words, \u201cMunicipalCouncils Ordinance (Chapter 252) orparagraph (b) of subsection (1) of section 5 ofthe Urban Councils Ordinance (Chapter255)\u201d, of the words, \u201cMunicipal Councils",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.63,
+      345.67,
+      192.91,
+      383.54
+    ],
+    "text": "Amendment ofsection 66A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201717",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      203.85,
+      203.45,
+      383.86,
+      235.67
+    ],
+    "text": "Ordinance (Chapter 252) or paragraph (b) ofsubsection (1) of section 5 of the UrbanCouncils Ordinance (Chapter 255)\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.81,
+      245.09,
+      383.89,
+      298.07
+    ],
+    "text": "(iii)by the repeal of the words starting from \u201casthe case may be, and where no person remainsto be so nominated\u201d to the words \u201cOrdinanceto fill such vacancy.\u201d and the substitutiontherefor of the following:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      203.85,
+      307.49,
+      286.31,
+      318.83
+    ],
+    "text": "\u201cas the case may be:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      203.85,
+      328.25,
+      383.88,
+      422.87
+    ],
+    "text": "Provided that, where a vacancy occurs inthe case of a woman member of a LocalAuthority, then such vacancy shall be filledonly by the nomination of a woman candidateform the First Nomination Paper or theAdditional Nomination Paper other than thewomen candidates who have been elected orare not disqualified to be a member undersection 9.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.37,
+      432.29,
+      383.86,
+      454.07
+    ],
+    "text": "(c)by the repeal of paragraph (c) of subsection (1) ofthat section;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.65,
+      463.49,
+      383.87,
+      495.59
+    ],
+    "text": "(d)by the insertion immediately after paragraph (b) ofsubsection (1) of that section of the followingsubsection:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      175.65,
+      505.13,
+      383.88,
+      673.07
+    ],
+    "text": "\u201c(1A)Where no person remains to be nominated tofill a vacancy referred to in subsection (1)from the candidates of the First NominationPaper and the Additional Nomination Paper,the returning officer appointed for theelectoral area in which such Local Authorityis situated shall request within thirty days ofthe occurrence of the vacancy, the secretaryto the recognized political party or the leaderof the independent group to which the memberwhose vacancy occurred belonged, tonominate within thirty days from such request,any other person who is qualified undersection 8 of this Ordinance to fill that vacancyin the ward in which the vacancy hasoccurred:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "18Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      270.67,
+      204.53,
+      451.19,
+      269.99
+    ],
+    "text": "Provided that, where a vacancy occurs inthe case of a woman member of a localauthority, then such vacancy shall be filledonly by the nomination of any other womanwho is qualified under section 8 of thisordinance.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.67,
+      280.25,
+      451.19,
+      302.39
+    ],
+    "text": "28.Section 66B of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      225.91,
+      312.65,
+      451.15,
+      334.79
+    ],
+    "text": "(1)by the substitution, in subsection (2) of thatsection\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      251.35,
+      345.05,
+      451.19,
+      431.99
+    ],
+    "text": "(a)for the words, \u201cfalls vacant during the term ofoffice of such local authority, theCommissioner shall,\u201d, of the words, \u201cfallsvacant during the term of office of such localauthority, the Commissioner of LocalGovernment shall inform such fact to thereturning officer in writing and the returningofficer shall,\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      251.35,
+      442.25,
+      451.2,
+      507.59
+    ],
+    "text": "(b)for the words, \u201cwithin thirty days, to theCommissioner. Upon receipt of suchdetermination, the Commissioner shall\u201d of thewords, \u201cwithin thirty days to the returningofficer. Upon receipt of such determination,the returning officer shall\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      227.23,
+      517.85,
+      451.2,
+      572.39
+    ],
+    "text": "(2) by the substitution, in subsection (3) of that sectionfor the words, \u201cthe Commissioner shall proceed toappoint as the new Mayor\u201d of the words, \u201cthereturning officer shall proceed to appoint as thenew Mayor\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      225.91,
+      582.65,
+      451.2,
+      670.43
+    ],
+    "text": "(3)by the substitution, in subsection (4) of that section,for the words, \u201csuch vacancy is filled in accordancewith the procedure specified in that subsection, andthe member so appointed to fill such vacancyhimself resigns thereafter from his office as Mayorunder the sections referred to above, the vacancyso created shall not be filled following the procedurespecified in subsection (2) of this section.\u201d of the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      279.79,
+      192.43,
+      317.66
+    ],
+    "text": "Amendment ofsection 66B ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201719",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      179.85,
+      204.17,
+      383.89,
+      269.51
+    ],
+    "text": "words, \u201csuch vacancy in the office of Mayor is filledin terms of the procedure specified in thisOrdinance, and the member so appointed to fill suchvacancy himself resigns from his office, the vacancyso created thereafter shall not be filled in terms ofthe procedure specified in this Ordinance.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      279.77,
+      383.89,
+      323.51
+    ],
+    "text": "29.Section 72A of the principal enactment is herebyamended by the substitution, in paragraph (b) of subsection(1) of that section, for the word, \u201copening\u201d, of the word,\u201ccommencing\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      333.77,
+      383.89,
+      377.51
+    ],
+    "text": "30.Section 81B of the principal enactment is herebyamended by the repeal of paragraph (a) of subsection (1A) ofthat section and the substitution therefor of the followingparagraph:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      156.09,
+      387.77,
+      383.88,
+      442.31
+    ],
+    "text": "\u201c(a)(i)no appointments in any public institutionwhich may have the effect of influencing thevoters to vote in favour of any recognizedpolitical party or any independent group shallbe made;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      176.85,
+      452.57,
+      383.89,
+      528.71
+    ],
+    "text": "(ii)notwithstanding anything in subparagraph (i)above an appointment in such institution maybe made for the purpose of carrying outessential services as are urgent, thepostponement of which will affect the normallife of the public or cause severe hazards orharm to the public; and\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      538.97,
+      383.86,
+      571.91
+    ],
+    "text": "31.Section 89 of the principal enactment as lastamended by Act, No. 22 of 2012, is hereby further amendedas follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      582.17,
+      383.89,
+      615.11
+    ],
+    "text": "(1)by the insertion immediately after the definition ofthe expression \u201capproved symbol\u201d of the followingdefinition:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      188.85,
+      625.37,
+      383.9,
+      670.43
+    ],
+    "text": "\u201c \u201cauthorized agent\u201d means in relation to arecognized political party or independentgroup as the case may be, a person expresslyauthorized in writing by the Secretary of that",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      281.71,
+      449.13,
+      319.58
+    ],
+    "text": "Amendment ofsection 72A ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      334.27,
+      449.13,
+      372.14
+    ],
+    "text": "Amendment ofsection 81B ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      541.15,
+      455.14,
+      579.02
+    ],
+    "text": "Amendment ofsection 89 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "20Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      274.63,
+      204.65,
+      451.18,
+      330.95
+    ],
+    "text": "recognized political party or the group leaderof that independent group, to be theauthorized agent of that recognized politicalparty or that independent group as the casemay be and whose authorization has beencommunicated by such Secretary or suchgroup leader to the returning officer for theelectoral area, in respect of which theelection is being held, at least seventy twohours before the commencement of thenomination period;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      339.05,
+      451.18,
+      373.43
+    ],
+    "text": "(2)by the insertion immediately after the definion ofexpression \u201cMunicipality\u201d of the followingdefinition:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      254.71,
+      381.65,
+      451.18,
+      473.39
+    ],
+    "text": "\u201c \u201coverhang\u201d means the number of candidateselected for a local authority from anyrecognized political party or independentgroup in excess of the number of suchrecognized political party or independentgroup is entitled to have elected in terms ofsubsection (3) of section 65B of thisOrdinance;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      226.87,
+      481.61,
+      451.21,
+      515.87
+    ],
+    "text": "(3)by the insertion immediately after the definition ofexpression \u201cParliamentary register for the time beingin operation\u201d of the following definitions:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      255.67,
+      524.09,
+      451.18,
+      604.43
+    ],
+    "text": "\u201cpublic corporation\u201d means any corporation,board or other body which was or isestablished by or under any written law otherthan the Companies Act, No. 7 of 2007, withfunds or capital wholly or partly provided bythe Government by way of grant loan orotherwise;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      255.67,
+      612.53,
+      451.19,
+      669.95
+    ],
+    "text": "\u201cPublic Institution\u201d includes a Ministry, agovernment department, a public corporation,any institution established by a ProvincialCouncil or by a statute of a ProvincialCouncil, a local authority, any business or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201721",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      207.81,
+      204.65,
+      383.88,
+      271.43
+    ],
+    "text": "other undertaking vested in the governmentand a Company registered or deemed to beregistered under the Companies Act, No. 7 of2007, in which the Government, a publiccorporation or any local authority holds morethan fifty per centum of the shares;\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      284.09,
+      383.94,
+      319.43
+    ],
+    "text": "32.The First Schedule to the principal enactment ishereby repealed and the following Schedule is substitutedtherefor:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      227.13,
+      334.63,
+      381.33,
+      343.7
+    ],
+    "text": "\u201cFIRST SCHEDULE[Section 28(2)]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      221.85,
+      353.83,
+      305.85,
+      362.9
+    ],
+    "text": "I- FIRST NOMINATION PAPER",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      373.03,
+      383.86,
+      391.7
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Municipal Council/UrbanCouncil/Pradeshiya Sabha.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      401.83,
+      383.89,
+      458.9
+    ],
+    "text": "The \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. party being a recognizedpolitical party/independent group of candidates of which (in case ofan independent group \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 is the groupleader), hereby nominates the following persons as candidates forelection of members of the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. MunicipalCouncil/Urban Council/Pradeshiya Sabha.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      286.15,
+      450.58,
+      333.62
+    ],
+    "text": "Replacement ofthe FirstSchedule to theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.53,
+      493.65,
+      164.25,
+      536.46
+    ],
+    "text": "Nameand theNo. oftheward\u201c*\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      169.89,
+      494.01,
+      191.86,
+      572.82
+    ],
+    "text": "Name -men/women(asindicatedin theNationalIdentitycard orbirthcertificate)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      193.77,
+      493.89,
+      379.89,
+      529.74
+    ],
+    "text": "National Identity card No. ResidentialAddressSignaturesignifyingconsentof thecandidate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      153.57,
+      484.17,
+      156.57,
+      490.98
+    ],
+    "text": "1",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      230.49,
+      466.51,
+      294.21,
+      475.58
+    ],
+    "text": "1- CANDIDATES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      295.53,
+      493.89,
+      351.33,
+      522.54
+    ],
+    "text": "Occupation Whether aYouthcandidateor not (Y)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      178.05,
+      484.17,
+      369.57,
+      491.82
+    ],
+    "text": "234567",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      388.89,
+      495.93,
+      407.61,
+      509.94
+    ],
+    "text": "Male/Female",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      399.45,
+      484.05,
+      402.45,
+      490.86
+    ],
+    "text": "8",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "22Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.63,
+      382.15,
+      451.67,
+      410.42
+    ],
+    "text": "I do hereby certify that all the youth candidates whose namesappear in this nomination paper are within the age stipulated in section89 of the Ordinance.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.63,
+      420.55,
+      451.65,
+      439.22
+    ],
+    "text": "Signature of secretary of recognized political party/leader of theindependent group :",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.63,
+      449.35,
+      389.35,
+      458.42
+    ],
+    "text": "Name : \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.63,
+      468.55,
+      388.62,
+      477.62
+    ],
+    "text": "Address : \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.63,
+      487.75,
+      270.98,
+      496.82
+    ],
+    "text": "Official seal :",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.63,
+      506.95,
+      451.69,
+      544.82
+    ],
+    "text": "Signed by the above named \u2026\u2026\u2026\u2026\u2026\u2026\u2026 secretary ofrecognized political party/leader of independent group in my presenceat \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 on this \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. dayof \u2026\u2026\u2026\u2026\u2026\u2026\u2026 20\u2026..",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.63,
+      554.95,
+      372.91,
+      583.22
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026(Justice of Peace/Commissioner for Oaths)Official seal",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.63,
+      593.35,
+      388.62,
+      602.42
+    ],
+    "text": "Address : \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.63,
+      612.55,
+      451.66,
+      660.02
+    ],
+    "text": "* State in the case of a multi-member ward by the inclusion of oneasterisk (*) and the names of two candidates in the relevant cage inthe case of election of two members and in the case of election ofthree members by the inclusion of two asterisks (**) and the names ofsuch three candidates.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      212.71,
+      233.85,
+      245.72,
+      283.86
+    ],
+    "text": "Name - men/women (asindicated inthe NationalIdentity cardor birthcertificate)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      249.19,
+      233.73,
+      426.43,
+      276.66
+    ],
+    "text": "National Identity cardNo.ResidentialAddressSignaturesignifyingconsent oftheadditionalcandidate",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      227.95,
+      225.93,
+      230.95,
+      232.74
+    ],
+    "text": "1",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      279.19,
+      208.63,
+      384.07,
+      217.7
+    ],
+    "text": "II- ADDITIONAL NOMINATION PAPER",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      344.83,
+      233.13,
+      395.83,
+      268.74
+    ],
+    "text": "Occupation Whethera Youthcandidateor not(Y)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      279.91,
+      224.85,
+      441.43,
+      232.5
+    ],
+    "text": "234567",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      428.95,
+      235.53,
+      447.67,
+      249.54
+    ],
+    "text": "Male/Female",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201723",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      204.65,
+      384.37,
+      227.63
+    ],
+    "text": "33.The Ninth Schedule to the principal enactment ishereby amended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      159.09,
+      239.45,
+      384.35,
+      285.59
+    ],
+    "text": "(1)in regulation 17 of that Schedule by the substitutionfor the words, \u201cbefore the close of the poll\u201d of thewords, \u201cseventy two hours before thecommencement of the poll\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      159.09,
+      297.53,
+      384.33,
+      320.39
+    ],
+    "text": "(2)by the substitution for the regulation 18 of thatSchedule of the following regulation:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      227.85,
+      332.33,
+      384.37,
+      529.19
+    ],
+    "text": "18. The returning officer shall, anytime after placing the unopenedcovering envelopes in to the postalvoters ballot box and before thecommencement of the poll, open thepostal voters ballot boxes and separatethe covering envelopes containedtherein, in respect of each ward. Oncethe covering envelopes are separated,the returning officer shall put all thecovering envelopes in respect of eachward in a separate envelope for suchward and seal and submit it to thecounting officer appointed for therelevant ward on the day before the dateof poll along with ballot papers andother articles.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.05,
+      541.13,
+      384.34,
+      563.99
+    ],
+    "text": "(3)by the substitution for regulation 19 of thatSchedule of the following regulation:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      224.85,
+      575.93,
+      384.36,
+      669.23
+    ],
+    "text": "19. The returning officer shall,immediately before the commencementof counting of the ballot papers, causethe counting officer appointed for award to open the relevant coveringenvelopes containing postal ballotpapers for such ward and proceed tocount them.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      206.71,
+      450.58,
+      254.18
+    ],
+    "text": "Amendment ofthe NinthSchedule to theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.37,
+      333.79,
+      223.66,
+      419.66
+    ],
+    "text": "\u201cThecoveringenvelopescontainingpostal ballotpapers to beseparatedaccording towards.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.37,
+      576.19,
+      216.09,
+      614.06
+    ],
+    "text": "\u201cCountingof postalballotpapers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.67,
+      166.97,
+      399.08,
+      190.24
+    ],
+    "text": "24Local Authorities Elections (Amendment) Act, No. 16 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      225.91,
+      204.89,
+      451.18,
+      228.23
+    ],
+    "text": "(4)by the repeal of regulations 20, 21, 22, 23 andparagraph (1) of regulation 24 of that Schedule;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      225.91,
+      240.89,
+      451.16,
+      276.23
+    ],
+    "text": "(5)by the repeal of paragraph (c) of regulation 28 ofthat Schedule and the substitution therefor of thefollowing paragraph:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      249.67,
+      288.89,
+      451.18,
+      312.23
+    ],
+    "text": "\u201c(c) written declaration of the votes given to eachcandidate;\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      225.91,
+      324.89,
+      361.75,
+      336.23
+    ],
+    "text": "(6)in form A of that Schedule \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      250.39,
+      348.89,
+      451.19,
+      396.23
+    ],
+    "text": "(a)by the substitution for the words, \u201cthe pollingdivision, the polling district\u201d of the words,\u201cthe polling district, name and the No. of theward\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      250.39,
+      408.89,
+      451.15,
+      444.23
+    ],
+    "text": "(b)by the substitution for the words, \u201cPollingdivision letter\u201d of the words, \u201cPolling DistrictNo. :\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      251.11,
+      456.89,
+      451.16,
+      492.23
+    ],
+    "text": "(c)by the substitution for the words, \u201cPollingDistrict No.\u201d of the words \u201cName and the No.of the ward:\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.67,
+      504.89,
+      451.18,
+      540.23
+    ],
+    "text": "34.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      506.23,
+      190.16,
+      544.1
+    ],
+    "text": "Sinhala text toprevail in caseofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      195.57,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "Local Authorities Elections (Amendment) Act, No. 16 of 201725",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.29,
+      631.51,
+      457.29,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

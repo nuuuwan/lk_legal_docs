@@ -1,0 +1,5032 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      198.81,
+      632.11,
+      378.81,
+      641.18
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      188.01,
+      644.71,
+      389.73,
+      653.78
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.81,
+      661.38,
+      444.93,
+      671.34
+    ],
+    "text": "Price : Rs. 19.00 Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      8.772114753723145,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.61,
+      275.58,
+      434.97,
+      331.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.53,
+      580.49,
+      425.26,
+      603.83
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of July 28, 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.77,
+      546.19,
+      324.81,
+      555.26
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.33,
+      429.19,
+      323.37,
+      438.26
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.33,
+      468.49,
+      354.35,
+      479.56
+    ],
+    "text": "[Certified on 28th of July, 2017]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.65,
+      508.81,
+      367.18,
+      519.88
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.25,
+      354.79,
+      322.29,
+      363.86
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.21,
+      389.04,
+      443.52,
+      405.64
+    ],
+    "text": "FOREIGN EXCHANGE ACT, No. 12 OF 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 20171",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      678.19,
+      265.3,
+      687.26
+    ],
+    "text": "2\u2014PL 005162\u20142,961 (04/2017)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.49,
+      202.73,
+      330.22,
+      214.07
+    ],
+    "text": "[Certified on 28th of July, 2017]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.13,
+      221.85,
+      237.47
+    ],
+    "text": "L.D.\u2014 O. 42/2003.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      249.53,
+      383.85,
+      272.63
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE PROMOTION AND REGULATION OF FOREIGNEXCHANGE; TO VEST THE RESPONSIBILITY FOR PROMOTING AND",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      272.93,
+      383.73,
+      284.27
+    ],
+    "text": "REGULATING FOREIGN EXCHANGE IN THE CENTRAL BANK AS THE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      284.69,
+      383.85,
+      307.67
+    ],
+    "text": "AGENT OF THE GOVERNMENT; TO PROVIDE FOR THE REPEAL OF THEEXCHANGE CONTROL ACT (CHAPTER 423); AND TO PROVIDE FOR",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      308.09,
+      352.39,
+      319.43
+    ],
+    "text": "MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      331.49,
+      383.9,
+      354.47
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      366.53,
+      383.94,
+      413.03
+    ],
+    "text": "1.This Act may be cited as the Foreign Exchange Act,No. 12 of 2017 and shall come into operation on such dateas the Minister may by Order published in the Gazetteappoint (hereinafter referred to as \u201cthe appointed date\u201d).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      425.09,
+      383.88,
+      494.87
+    ],
+    "text": "2.(1) The Central Bank shall as the agent of theGovernment, be responsible for implementing the provisionsof this Act in order to ensure proper promotion and regulationof foreign exchange in Sri Lanka, in accordance with suchdirections as may from time to time be issued in that behalfunder this section.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      506.93,
+      383.9,
+      565.07
+    ],
+    "text": "(2) The Minister assigned the subject of the Central Bankmay, from time to time, issue such directions as may benecessary for the implementation of the provisions of thisAct and it shall be the duty of the Monetary Board to causesuch directions to be carried out.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      577.13,
+      383.88,
+      670.55
+    ],
+    "text": "3.Where under any provision of this Act any power,duty or function is authorized or required to be exercised,performed or discharged by the Central Bank, such power,duty or function may be exercised, performed or dischargedby the officer designated as the head of the Department ofForeign Exchange or on his behalf any other officerdesignated as an assistant to him, subject to the directionand control of the Governor of the Central Bank.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      367.39,
+      446.14,
+      395.66
+    ],
+    "text": "Short title anddate ofoperation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      426.19,
+      451.3,
+      473.66
+    ],
+    "text": "Central Bank tobe responsibleforimplementationof the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      578.11,
+      455.86,
+      625.58
+    ],
+    "text": "Discharge ofpowers, dutiesand functions bythe CentralBank.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "2Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      202.97,
+      451.21,
+      274.31
+    ],
+    "text": "4.(1) (a) Every licensed commercial bank shall,immediately upon such bank being issued a license to carryon banking business under the Banking Act, No. 30 of 1988,be authorized by the Central Bank to act, subject to theprovisions of section 9 as an authorized dealer to deal inforeign exchange.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      286.97,
+      451.18,
+      346.31
+    ],
+    "text": "(b) Every licensed commercial bank which is on theappointed date carrying on banking business, shall subjectto the provisions of section 9, be deemed to have beenauthorized by the Central Bank, to act as an authorized dealerto deal in foreign exchange.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      358.97,
+      451.19,
+      430.31
+    ],
+    "text": "(c) Every licensed specialised bank, immediately uponsuch bank being issued a license to carry on banking businessunder the Banking Act, No. 30 of 1988, may be authorizedby the Central Bank subject to the provisions of section 9,to deal in foreign exchange for the purposes specified insuch authorization.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      442.97,
+      451.19,
+      502.31
+    ],
+    "text": "(d) Every licensed specialised bank which is on theappointed date carrying on banking business, shall subjectto the provisions of section 9, be deemed to have beenauthorized by the Central Bank to deal in foreign exchangefor the purposes specified in such authorization.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      514.97,
+      451.2,
+      598.31
+    ],
+    "text": "(2) (a) The Central Bank may permit, subject to theprovisions of section 9, any person, class or classes of persons(hereinafter referred to as a \u201crestricted dealer\u201d) not being anauthorized dealer, to deal in foreign exchange within SriLanka for the purposes specified in the permit, subject tosuch terms and conditions as may be imposed by the CentralBank in that behalf.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      610.97,
+      451.19,
+      670.31
+    ],
+    "text": "(b) Every dealer in foreign exchange including moneychangers or any other person other than licensed commercialbanks or specialised banks, which are on the appointed datepermitted to deal in foreign exchange, shall subject to theprovisions of section 9, be deemed to have been permitted",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      204.07,
+      178.88,
+      241.94
+    ],
+    "text": "Authorizeddealers andrestricteddealers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 20173",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      204.05,
+      383.88,
+      242.87
+    ],
+    "text": "by the Central Bank, to act as a restricted dealer to deal inforeign exchange for the purposes specified in suchauthorization.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      258.89,
+      383.9,
+      352.43
+    ],
+    "text": "(c) The Central Bank may, subject to the provisions ofsection 9, grant special permission, to any person not beingan authorized dealer or restricted dealer, to deal in foreignexchange within Sri Lanka for specific purposes as may beprescribed by the Minister by an Order published in theGazette subject to such terms and conditions as may bespecified in such Order.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      368.45,
+      383.94,
+      461.99
+    ],
+    "text": "(3) Save as otherwise provided in this Act, no person inor resident in Sri Lanka shall deal in foreign exchange withinor outside Sri Lanka, by any act which involves theconversion of Sri Lanka Rupees or assets within Sri Lankato foreign exchange, otherwise than through an authorizeddealer, or to the extent specified in the permit, through arestricted dealer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.85,
+      478.13,
+      360.71,
+      489.47
+    ],
+    "text": "5.Any person in, or resident in, Sri Lanka who \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.57,
+      505.49,
+      383.89,
+      530.51
+    ],
+    "text": "(a) holds foreign exchange in a bank account in SriLanka or outside Sri Lanka; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.57,
+      546.53,
+      286.29,
+      557.87
+    ],
+    "text": "(b) owns any foreign asset,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      574.01,
+      383.9,
+      667.55
+    ],
+    "text": "may utilize such foreign exchange or foreign asset for makingof any payment for, or in respect of, any current or capitaltransaction of such person, within or outside Sri Lanka. Anysuch payment made from foreign exchange held by suchperson within Sri Lanka shall be made through an authorizeddealer, or to the extent specified in the permit, through arestricted dealer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      479.11,
+      455.14,
+      545.78
+    ],
+    "text": "Foreignexchange orforeign assetsheld or ownedby a person inor resident in SriLanka.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "4Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      202.49,
+      451.22,
+      249.83
+    ],
+    "text": "6.(1) A person shall be entitled to deal in foreignexchange for a current transaction of such person, throughan authorized dealer or to the extent specified in the permit,through a restricted dealer.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      262.49,
+      451.18,
+      297.83
+    ],
+    "text": "(2) An authorized dealer or a restricted dealer may dealin foreign exchange for a current transaction as a principalor as an intermediary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      310.49,
+      451.2,
+      405.83
+    ],
+    "text": "(3) Prior to dealing in foreign currency for a currenttransaction under subsection (1), an authorized dealer or arestricted dealer shall request the person requiring foreignexchange for such transaction to provide such informationor produce such documents or make such declaration as isreasonably necessary, in order to satisfy himself that therequirement is in relation to a current transaction and is inconformity with any other laws regulating such transactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      418.49,
+      451.2,
+      513.83
+    ],
+    "text": "(4) An authorized dealer or a restricted dealer shall refuseto deal in foreign exchange for a current transaction undersubsection (1) where the request for information, documentsor declaration in terms of subsection (3) relating to suchtransaction is not complied with or where the dealer issatisfied that the requirement is not for a current transactionor is not in conformity with any other laws regulating suchtransactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      526.49,
+      451.19,
+      609.83
+    ],
+    "text": "(5) An authorized dealer or a restricted dealer refusing todeal in foreign exchange for a current transaction undersubsection (4) shall communicate his decision in writingtogether with the reasons therefor, if requested by the personrequiring the foreign exchange subject to the provisions ofsection 9 of the Financial Transactions Reporting Act, No. 6of 2006.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      622.61,
+      451.2,
+      670.91
+    ],
+    "text": "(6) Any person aggrieved by the decision of an authorizeddealer or a restricted dealer under subsection (4) may, withinfourteen days after such decision is communicated to suchperson, appeal against such decision to the Central Bank",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      202.63,
+      179.6,
+      221.3
+    ],
+    "text": "Currenttransaction.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 20175",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      202.49,
+      383.89,
+      237.83
+    ],
+    "text": "and the Central Bank shall, after giving such person and thedealer a reasonable opportunity of being heard, affirm, varyor revoke such decision.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      250.49,
+      383.89,
+      309.83
+    ],
+    "text": "7.(1) The Minister shall in consultation with theMonetary Board and with the approval of the Cabinet ofMinisters, authorize by regulations, the class or classes ofcapital transactions in foreign exchange for the purpose ofthis section.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      322.49,
+      383.85,
+      345.83
+    ],
+    "text": "(2) In making regulations under subsection (1), theMinister shall have regard to \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.05,
+      358.49,
+      383.89,
+      405.83
+    ],
+    "text": "(a)transactions required to be regulated in conformitywith any treaty or agreement relating to internationalfinancial transactions to which the Government ofSri Lanka is a signatory;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.05,
+      418.49,
+      383.88,
+      441.83
+    ],
+    "text": "(b)the impact of such authorization on the monetarypolicy of Sri Lanka and its stabilization.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      454.49,
+      383.89,
+      513.83
+    ],
+    "text": "(3) The regulations published under subsection (1) mayspecify the limit up to which capital transactions may beauthorized and the terms and conditions subject to whichforeign exchange may be dealt with for the class or classesof capital transactions, so authorized.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      526.49,
+      383.88,
+      609.83
+    ],
+    "text": "(4) Without prejudice to the provisions of section 5, aperson shall be entitled to deal in foreign exchange in respectof a capital transaction of such person, through an authorizeddealer or to the extent specified in the permit, through arestricted dealer, being capital transactions of a class orclasses, which is or are authorized by regulations made undersubsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      622.49,
+      383.88,
+      669.95
+    ],
+    "text": "(5) An authorized dealer or a restricted dealer may dealin foreign exchange for a capital transaction as a principleor an intermediary, being a transaction authorized byregulations made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      251.95,
+      436.3,
+      270.62
+    ],
+    "text": "Capitaltransaction.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "6Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      202.97,
+      452.18,
+      310.31
+    ],
+    "text": "(6) Prior to dealing in foreign exchange in respect of acapital transaction under this section, the authorized dealeror the restricted dealer shall request the person requiringforeign exchange for such transaction, to provide suchinformation or produce such documents or make suchdeclaration as is reasonably necessary in order to satisfyhimself that the requirement is in relation to a capitaltransaction authorized under subsection (1) and is inconformity with any other laws regulating such transactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      322.97,
+      452.16,
+      406.31
+    ],
+    "text": "(7) An authorized dealer or a restricted dealer shall refuseto deal in foreign exchange for a capital transaction underthis section where a request for information, documents or adeclaration is not complied with or where the dealer issatisfied that the requirement is not for a capital transactionauthorized under subsection (1) or is not in conformity withother laws regulating such transaction.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      418.97,
+      452.19,
+      502.31
+    ],
+    "text": "(8) An authorized dealer or a restricted dealer refusing todeal in foreign exchange in respect of a capital transactionunder this section shall communicate his decision in writingtogether with the reasons therefor, if requested by the personrequiring the foreign exchange subject to the provisions ofsection 9 of the Financial Transactions Reporting Act, No. 6of 2006.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      514.97,
+      452.16,
+      598.31
+    ],
+    "text": "(9) Any person aggrieved by the decision of an authorizeddealer or a restricted dealer under subsection (7), may withinfourteen days after such decision is communicated to suchperson, appeal against such decision to the Central Bank,and the Central Bank shall, after giving such person and thedealer a reasonable opportunity of being heard, affirm, varyor revoke such decision.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      610.97,
+      452.15,
+      670.31
+    ],
+    "text": "(10) An authorized dealer or a restricted dealer shall notdeal in foreign exchange for a capital transaction that is notauthorized by regulations made under subsection (1) unlessthe Monetary Board taking into consideration the existenceof any exceptional circumstances has granted approval for",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 20177",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      202.49,
+      383.89,
+      236.63
+    ],
+    "text": "such capital transaction in accordance with such directionsas may be issued by the Minister in conformity with theapprovals made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.85,
+      259.49,
+      363.71,
+      270.83
+    ],
+    "text": "8.(1) A person in, or resident in, Sri Lanka shall\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.41,
+      282.29,
+      383.86,
+      305.03
+    ],
+    "text": "(a) export from Sri Lanka or import into Sri Lanka,any foreign currency or Sri Lanka currency;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.41,
+      316.49,
+      383.87,
+      339.23
+    ],
+    "text": "(b) hold foreign exchange in his possession or in abank account in Sri Lanka,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      350.69,
+      383.89,
+      384.83
+    ],
+    "text": "only for such purpose, up to such limits and subject to suchterms and conditions, as may be prescribed by the Ministerby an Order published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      396.29,
+      383.9,
+      487.43
+    ],
+    "text": "(2) A person in, or resident in, Sri Lanka shall acquire aforeign asset from foreign exchange derived from theconversion of Sri Lanka currency or the disposal orconversion of an asset within Sri Lanka or provision of anyservice in or from Sri Lanka only for such purposes, up tosuch limits and subject to such terms and conditions as maybe prescribed by the Minister by regulations made in thatbehalf.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      498.89,
+      383.94,
+      670.31
+    ],
+    "text": "(3) Notwithstanding anything to the contrary in theprovisions of any other written law, any Sri Lankan citizenresident in Sri Lanka who remits to Sri Lanka any foreignexchange which have not been declared to the CommissionerGeneral of Inland Revenue or the Head of the Department ofForeign Exchange before the appointed date and which arenot the property in respect of which proceedings are pendingin a court of law or an order has been made by a court of lawunder the Prevention of Money Laundering Act, No. 5 of2006, Convention on the Suppression of Terrorist FinancingAct, No. 25 of 2005 or the Bribery Act (Chapter 26) shall beliable to pay only a remittance fee of one per centum to theCommissioner General of Inland Revenue and shall not besubject to the payment of any other fee, tax, surcharge, levyor penalty:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      262.03,
+      443.85,
+      290.3
+    ],
+    "text": "Regulation ofcertaintransactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "8Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      202.73,
+      451.2,
+      284.27
+    ],
+    "text": "Provided that any such person who remits to Sri Lankaforeign exchange not exceeding the value of one millionUnited States dollars held outside Sri Lanka shall not beliable to pay the remittance fee or any other tax, surcharge,levy or penalty and any amount remitted exceeding suchvalue shall be liable to pay the remittance fee specified insubsection (3):",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      296.33,
+      451.19,
+      366.23
+    ],
+    "text": "Provided further that any such person who remits toSri Lanka an amount of foreign exchange exceeding thevalue of one million United States dollars held outsideSri Lanka and invests in a development bond issued by theGovernment of Sri Lanka shall not be liable to pay theremittance fee or any other tax, surcharge, levy or penalty.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      378.29,
+      451.2,
+      424.67
+    ],
+    "text": "(4) Foreign Exchange held outside Sri Lanka and remittedto Sri Lanka after the appointed date under subsection (3)may be held in a foreign currency account or may beconverted into Sri Lanka rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      436.73,
+      451.24,
+      506.63
+    ],
+    "text": "(5) The property referred to in subsection (3) shall not bedeemed to be the property obtained by the commission ofan offence under the Prevention of Money Laundering Act,No. 5 of 2006 even if such foreign exchange had been heldoutside Sri Lanka without the permission of the CentralBank.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      518.69,
+      451.16,
+      553.43
+    ],
+    "text": "(6) There shall be no restriction on the repatriation offunds out of Sri Lanka remitted to Sri Lanka by any personin terms of subsection (3) of section 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      565.49,
+      451.25,
+      611.87
+    ],
+    "text": "9.(1) The Central Bank may from time to time, subjectto informing the Minister issue guidelines and directions toauthorized dealers and restricted dealers engaging in currenttransactions.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      623.93,
+      451.2,
+      670.55
+    ],
+    "text": "(2) The Central Bank may from time to time subject tothe approval of the Minister issue guidelines and directionsto authorized dealers and restricted dealers engaging incapital transactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      565.99,
+      191.59,
+      584.66
+    ],
+    "text": "Guidelines anddirections.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 20179",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      202.97,
+      384.85,
+      262.31
+    ],
+    "text": "(3) The Central Bank may from time to time subject tothe approval of the Minister issue guidelines and directionsto authorized dealers and restricted dealers engaging intransactions other than those referred to in subsections (1)and (2) relating to foreign exchange.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      274.97,
+      384.87,
+      346.31
+    ],
+    "text": "(4) The Central Bank may from time to time subject tothe approval of the Minister issue guidelines and directionsto any person, class or classes of persons not being anauthorized dealer or restricted dealer, permitted to deal inforeign exchange within Sri Lanka under paragraph (c) ofsubsection (2) of section 4.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      358.97,
+      384.87,
+      442.31
+    ],
+    "text": "(5) The Central Bank may for statistical and monitoringpurposes, request an authorized dealer or a restricted dealerto furnish within such time as may be specified in such request,such information or returns in such form and manner inrelation to any foreign exchange transaction engaged in bysuch dealer for a period of six years immediately prior to thedate on which such request is communicated to such dealer.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      454.97,
+      384.94,
+      538.31
+    ],
+    "text": "10.(1) The Central Bank may, at any time, cause aninvestigation to be made, of foreign exchange transactionsor foreign assets of any authorized dealer or a restricted dealeror any other person, class or classes of persons as the casemay be, by an officer of the Department of Foreign Exchangeauthorized in writing by the Central Bank (hereinafterreferred to as an \u201cauthorized person\u201d) in that behalf.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      550.97,
+      384.86,
+      586.31
+    ],
+    "text": "(2) It shall be the duty of every authorized dealer or arestricted dealer or any other person, class or classes ofpersons \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.05,
+      598.97,
+      384.85,
+      622.31
+    ],
+    "text": "(a)to permit an authorized person entry into anypremises for the purposes of such investigation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.05,
+      634.97,
+      384.85,
+      670.43
+    ],
+    "text": "(b)to produce any books or other documents as maybe required for the investigation by such authorizedperson;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      456.31,
+      455.14,
+      503.78
+    ],
+    "text": "Investigations offoreignexchangetransactions andforeign assets.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "10Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.11,
+      202.73,
+      451.16,
+      237.47
+    ],
+    "text": "(c)to permit such authorized person to retain for suchtime as may be necessary such books and otherdocuments or to take copies or extracts;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.39,
+      249.53,
+      451.16,
+      272.63
+    ],
+    "text": "(d)to appear before the authorized person whenrequired to do so by such authorized person;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.11,
+      284.69,
+      451.19,
+      331.07
+    ],
+    "text": "(e)to furnish such statement or information in relationto the investigation within such time and in suchmanner as the said authorized person may require;or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      228.67,
+      343.13,
+      451.17,
+      366.23
+    ],
+    "text": "(f)not to furnish information under this section, whichto the knowledge of such dealer is false.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      378.29,
+      451.22,
+      494.87
+    ],
+    "text": "(3) Where an authorized person retains any book ordocument under subsection (2) the authorized person shallfurnish to the person from whose custody or control suchbook or document was taken for detention, a copy of suchbook or document certified by such authorized person if arequest for a copy is made by the person from whose custodyor control such book or document was taken or theauthorized person may without retaining original books ordocuments require the person to furnish true copies of suchbooks or documents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      506.93,
+      451.24,
+      565.07
+    ],
+    "text": "(4) An authorized dealer or a restricted dealer or otherperson required to appear before the authorized person maybe examined orally and any statement made by such dealeror person shall be reduced to writing and shall be signed bythe dealer or person making the same.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      577.13,
+      451.2,
+      635.27
+    ],
+    "text": "(5) For purposes of an investigation under subsection(1), the Central Bank or the authorized person may if thecircumstances warrant, obtain the assistance of a policeofficer to prevent a breach of the peace, in the exercise ofthat right.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      647.33,
+      451.16,
+      670.55
+    ],
+    "text": "(6) Where the Central Bank apprehends any resistancein the course of an investigation under subsection (1), the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201711",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      202.97,
+      384.88,
+      334.31
+    ],
+    "text": "Central Bank may, on application made to a Magistrate\u2019sCourt by a person authorized in that behalf by the MonetaryBoard, within whose jurisdiction such investigation is made,obtain an Order directing the authorized dealer or therestricted dealer or other person as the case may be whoseforeign exchange transaction or foreign assets is or arebeing, or is or are to be, investigated, to appear before theauthorized person or to produce such books or documentsin the custody or control of such dealer or person as theCentral Bank or the authorized person making theinvestigation may reasonably require for such investigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      346.97,
+      384.86,
+      382.31
+    ],
+    "text": "(7) An application made under subsection (6) by a personauthorized in that behalf by the Monetary Board shallcontain\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.65,
+      394.97,
+      384.83,
+      442.31
+    ],
+    "text": "(a)the name and address of the authorized dealer or arestricted dealer or other person as the case may bewhose foreign exchange transaction is being or isto be investigated;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.65,
+      454.97,
+      384.84,
+      478.31
+    ],
+    "text": "(b)the address of the premises in which theinvestigation is to be made;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.37,
+      490.97,
+      384.84,
+      514.31
+    ],
+    "text": "(c)the name of the authorized person making theinvestigation; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.65,
+      526.97,
+      269.25,
+      538.31
+    ],
+    "text": "(d)a prayer for an Order -",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189.81,
+      550.97,
+      384.83,
+      574.31
+    ],
+    "text": "(i) for the appearance of such dealer or personbefore the authorized person;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      186.81,
+      586.97,
+      384.84,
+      622.31
+    ],
+    "text": "(ii) for the production of the books anddocuments to the Central Bank or theauthorized person;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      183.81,
+      634.97,
+      384.83,
+      670.67
+    ],
+    "text": "(iii) to refrain from obstructing the authorizedperson making an investigation under thissection.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "12Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      202.61,
+      451.18,
+      248.39
+    ],
+    "text": "(8) (a) Court may, after considering an application madeunder subsections (6) and (7) make an Order prayed for underparagraph (d) of subsection (7) and such dealer or personshall comply with the Order forthwith.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      260.09,
+      451.21,
+      305.99
+    ],
+    "text": "(b) Any dealer or person who fails to comply with anOrder of the court under paragraph (a) commits an offenceand shall, on conviction be liable to a fine not exceedingrupees five hundred thousand.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      317.57,
+      451.19,
+      363.47
+    ],
+    "text": "(c) Where the offence under paragraph (b) is a continuingoffence, such dealer or person shall be liable to an additionalfine of rupees hundred thousand for each day during whichsuch offence continued.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      375.05,
+      451.19,
+      397.91
+    ],
+    "text": "11.(1) Where the Central Bank is satisfied that anauthorized dealer or restricted dealer\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      409.61,
+      451.2,
+      443.87
+    ],
+    "text": "(a)deals in foreign exchange in any current transactionor capital transaction contrary to the provisions ofthis Act;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      455.57,
+      451.16,
+      478.43
+    ],
+    "text": "(b)deals in foreign exchange in relation to foreignassets contrary to the provisions of this Act;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      227.71,
+      490.13,
+      451.2,
+      535.91
+    ],
+    "text": "(c)fails to comply with any guideline or directionissued under subsections (1), (2) and (3) of section9 or any requirement under subsection (4) ofsection 9; or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      547.61,
+      451.18,
+      570.47
+    ],
+    "text": "(d)violates any provision of this Act or any regulationor Order made thereunder,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      582.05,
+      451.19,
+      639.47
+    ],
+    "text": "the Central Bank may, upon the Minister being informed,issue a notice directing any such authorized dealer orrestricted dealer to comply with the provisions of this Act orany regulation, Order, guideline or direction issued or madethereunder, within the period specified therein.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      651.05,
+      451.21,
+      673.91
+    ],
+    "text": "(2) Where any authorized dealer or restricted dealer failsto act in accordance with the notice issued under subsection",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      376.39,
+      197.6,
+      471.86
+    ],
+    "text": "Failure tocomply with aprovision of theAct or anyRegulation,Order,Direction,Guideline & etc.made or issuedthereunder.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201713",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      203.09,
+      384.83,
+      263.63
+    ],
+    "text": "(1), the Central Bank may, temporarily suspend theauthorization granted under subsection (1) of section 4 orparagraph (b) of subsection (2) of section 4 or the permitgranted under paragraph (a) of subsection (2) of section 4 todeal in foreign exchange.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      276.89,
+      384.86,
+      349.79
+    ],
+    "text": "(3) The Central Bank may, where there is a temporarysuspension under subsection (2), after an inquiry, giving theauthorized dealer or restricted dealer a reasonableopportunity of being heard and with the approval of theMonetary Board, revoke the authorization or permit grantedunder section 4.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.81,
+      363.05,
+      384.91,
+      435.83
+    ],
+    "text": "(4) The Central Bank may in the circumstances referredto in subsection (1), without proceeding to revoke theauthorization or the permit under subsection (3), after givinga reasonable opportunity of being heard and where it deemsit appropriate taking into consideration all the relevantcircumstances\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.65,
+      449.09,
+      384.94,
+      583.43
+    ],
+    "text": "(a)require an authorized dealer or restricted dealer whoengages in any dealing in relation to foreign assetscontrary to the provisions of this Act as referred toin paragraph (b) of subsection (1), to pay to theCentral Bank within such time as may be specifiedin such requirement an amount not exceeding theamount or value of such foreign asset or any partthereof in foreign exchange or Sri Lanka currencytogether with such expenses incurred by the CentralBank for the detection and investigation of suchtransaction; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.65,
+      596.69,
+      384.86,
+      669.59
+    ],
+    "text": "(b)impose a limitation on such authorized dealer orrestricted dealer who has directly or indirectly beena party to the unauthorized transaction, from dealingin or engaging in current or capital transactions inrelation to foreign exchange as the case may be, fora period not exceeding twelve months.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "14Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      202.73,
+      451.21,
+      354.47
+    ],
+    "text": "(5) Where any other person, class or classes of persons,not being an authorized dealer or restricted dealer acts inviolation of the provisions of paragraphs (a), (b), (c) or (d) ofsubsection (1), the Central Bank may, upon the Ministerbeing informed, after giving such person a reasonableopportunity of being heard, require such person in writing,to pay as a penalty a sum not exceeding rupees one millionor to pay a penalty of an amount not exceeding the amountor value of such current transaction or capital transaction orvalue of such foreign asset or any part thereof in foreignexchange or Sri Lanka currency together with such expensesincurred by the Central Bank for the detection andinvestigation of such transaction.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      366.53,
+      451.19,
+      448.07
+    ],
+    "text": "(6) Where the Central Bank revokes an authorization orpermit under subsection (3) or requires to pay the sumdetermined under paragraph (a) of subsection (4) or imposesa limitation under paragraph (b) of subsection (4), the CentralBank shall communicate its decision or determination inwriting together with its reasons therefor to such authorizeddealer or restricted dealer.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      460.13,
+      451.17,
+      483.23
+    ],
+    "text": "(7) (a) Where any authorized dealer or restricteddealer \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      229.15,
+      495.29,
+      451.17,
+      518.27
+    ],
+    "text": "(i)aggrieved by a revocation of the authorization orpermit under subsection (3);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.15,
+      530.33,
+      451.18,
+      565.07
+    ],
+    "text": "(ii)aggrieved by the requirement to pay the sumdetermined under paragraph (a) of subsection (4);or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      223.15,
+      577.13,
+      451.17,
+      600.23
+    ],
+    "text": "(iii)aggrieved by any limitation imposed underparagraph (b) of subsection (4),",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      612.29,
+      451.21,
+      671.03
+    ],
+    "text": "as the case may be, he may within thirty days after suchdecision or determination is communicated to such dealer,appeal against such revocation or determination to the Boardof Inquiry which shall determine such appeal in accordancewith the procedure set out in section 13.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201715",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      202.73,
+      384.93,
+      284.27
+    ],
+    "text": "(b) Where any person not being an authorized dealer or arestricted dealer, aggrieved by a penalty imposed undersubsection (5), he may within thirty days after therequirement to pay such penalty is communicated to suchperson, appeal against such requirement to pay such penaltyto the Board of Inquiry which shall determine such appealin accordance with the procedure set out in section 13.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      296.33,
+      384.88,
+      377.87
+    ],
+    "text": "(8) Subject to any Order made on an appeal undersubsection (7), the revocation of the authorization or thepermit under subsection (3) or any limitation imposed undersubsection (4) shall, notwithstanding such appeal, take effectfrom the date the Order of revocation or limitation is madeor imposed on the authorized dealer or restricted dealer, asthe case may be.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      389.93,
+      384.93,
+      424.67
+    ],
+    "text": "(9) Any sum paid to the Central Bank under paragraph(a) of subsection (4) or any penalty paid under subsection(5) shall be credited to the Consolidated Fund.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      436.73,
+      384.85,
+      494.87
+    ],
+    "text": "12.Every investigation and inquiry under section 11shall be concluded within a period of six months from thedate of commencement of such investigation or inquiryunless an extension of time is obtained with the approval ofthe Minister.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      506.93,
+      384.82,
+      541.67
+    ],
+    "text": "13.(1) The Minister shall appoint a Board of Inquiry toinquire into appeals made under paragraphs (a) and (b) ofsubsection (7) of section 11.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      553.73,
+      384.85,
+      588.47
+    ],
+    "text": "(2) The Board of Inquiry appointed under subsection (1)shall consist of the following persons appointed by theMinister:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      600.53,
+      384.84,
+      635.27
+    ],
+    "text": "(a)a retired judge of the Supreme Court or of the Courtof Appeal who shall be the Chairman of the Board;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      647.33,
+      384.84,
+      670.43
+    ],
+    "text": "(b)two persons who are conversant in matters relatingto international financial or exchange transactions",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      437.11,
+      452.13,
+      484.58
+    ],
+    "text": "Investigationsand Inquiries tobe concludedwithin sixmonths.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      507.43,
+      427.29,
+      526.1
+    ],
+    "text": "Board ofInquiry.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "16Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      203.09,
+      451.17,
+      239.03
+    ],
+    "text": "and have had experience at a senior manageriallevel in the public or private sector and are of goodstanding and repute.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      252.29,
+      451.2,
+      312.83
+    ],
+    "text": "(3) Every member of the Board of Inquiry shall, unless hevacates office earlier by death, resignation or removal, holdoffice for a term of three years from the date of his appointmentand unless he has been removed from office, be eligible forre-appointment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      326.09,
+      451.19,
+      362.03
+    ],
+    "text": "(4) A member of the Board of Inquiry shall be remuneratedin such manner and at such rates as may be determined bythe Minister.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      375.29,
+      451.17,
+      398.99
+    ],
+    "text": "(5) A person shall be disqualified from being appointedor continuing as a member of the Board of Inquiry if he\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      412.25,
+      451.19,
+      435.83
+    ],
+    "text": "(a)if he is, or becomes a member of Parliament or anyProvincial Council or any local authority; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      449.09,
+      451.17,
+      460.43
+    ],
+    "text": "(b)if he is not, or ceases to be a citizen of Sri Lanka ; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      228.19,
+      473.69,
+      451.17,
+      509.63
+    ],
+    "text": "(c)if he is under any law in force in Sri Lanka or in anyother country found or declared to suffer fromunsoundness of mind; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.35,
+      522.89,
+      451.17,
+      558.83
+    ],
+    "text": "(d)if he is serving or has served a sentence ofimprisonment imposed by any Court in Sri Lankaor any other country; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      228.19,
+      572.09,
+      451.16,
+      608.03
+    ],
+    "text": "(e)if he has any financial or other interest as is likelyto affect prejudicially the discharge by him of hisfunctions as a member of the Board.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      621.29,
+      451.19,
+      669.59
+    ],
+    "text": "(6) (a) Any member of the Board of Inquiry may, at anytime resign from his office by letter to that effect addressedto the Minister and such resignation shall take effect uponsuch resignation being accepted by the Minister in writing.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201717",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      202.61,
+      384.97,
+      225.47
+    ],
+    "text": "(b) The Minister may with the reasons assigned thereforremove any appointed member.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      235.61,
+      384.86,
+      315.95
+    ],
+    "text": "(c) In the event of any post of an appointed member of theBoard of Inquiry being vacated by death, resignation,removal or the operation of the provisions of subsection (5),the Minister may appoint another person, having regard tothe provisions of subsections (2) and (3) to hold such officefor the unexpired period of term of office of the memberwhom he succeeds.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      326.09,
+      384.96,
+      383.39
+    ],
+    "text": "(d) If any appointed member of the Board of Inquiry istemporarily unable to perform the duties of his office duringany period due to ill-health or absence from Sri Lanka or forany other cause, the Minister may appoint some other personto act in his place for unexpired period.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      395.09,
+      384.83,
+      429.47
+    ],
+    "text": "(7) The Board of Inquiry shall within thirty days of thereceipt of the appeal make its determination in respect ofsuch matter.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      441.05,
+      384.85,
+      463.91
+    ],
+    "text": "(8) Every Appellant shall appear before the Board ofInquiry in person or with an authorized representative.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      475.61,
+      384.87,
+      498.47
+    ],
+    "text": "(9) After the hearing of an appeal, the Board of Inquirymay confirm, vary or reverse the decision appealed against.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      510.05,
+      384.85,
+      555.95
+    ],
+    "text": "(10) The decision of the Board of Inquiry and the reasonstherefor shall be in writing, be notified to the appellant andthe Board of Inquiry shall forward a report thereon to theMinister.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      567.53,
+      384.86,
+      636.47
+    ],
+    "text": "14.Where any person who is required to pay any sumof money or penalty to the Central Bank under section 11 or13 is a body corporate or unincorporated, every director,member or partner of such body shall also be personallyliable jointly and severally to pay such amount or value andexpenses:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      648.05,
+      384.84,
+      670.91
+    ],
+    "text": "Provided that, such director, member or partner shall notbe liable to pay such amount or value if such person proves",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      568.15,
+      455.14,
+      606.02
+    ],
+    "text": "Liability ofbodies corporateorunincorporated.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "18Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      203.09,
+      451.2,
+      251.39
+    ],
+    "text": "that the act or omission incurring such liability was done oromitted to have been done without the knowledge of suchperson or that such person exercised due diligence to preventsuch act or omission.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      264.65,
+      451.21,
+      325.19
+    ],
+    "text": "15.(1) (a) Where any person fails to pay any sum ofmoney or penalty to the Central Bank under sections 11 or13, the Governor of the Central Bank shall cause a certificateto be issued under his hand, setting out the sum of moneyrequired to be paid by such person.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      338.45,
+      451.2,
+      398.99
+    ],
+    "text": "(b) The sum of money so certified shall be deemed to be adebt due from such person to the Government and may berecovered by the Central Bank by issuing a certificate to theDistrict Court having jurisdiction in the district where theperson resides.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      412.25,
+      451.2,
+      448.19
+    ],
+    "text": "(c) Such certificate shall contain the particulars of thesum due and the name and place of residence as given in theauthorization issued under section 4.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      461.45,
+      451.21,
+      558.83
+    ],
+    "text": "(d) Court shall thereupon direct a writ of execution to beissued to the Fiscal authorizing and requiring him to seizeand sell all the property movable and immovable of thedefaulting person or such part thereof as the Court may deemnecessary for recovery of the amount so due and theprovisions of sections 226 to 297 of the Civil ProcedureCode (Chapter 101) shall, mutatis mutandis apply to and inrelation to such seizure and sale.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      572.09,
+      451.2,
+      669.59
+    ],
+    "text": "(2) (a) Where the Central Bank is of the opinion that it isimpracticable or inexpedient to recover the sum required tobe paid under subsection (1) or where the full amount hasnot been recovered by the seizure and sale, then, the CentralBank may issue a certificate containing particulars of thesum so due and the name of the person and place of residenceas given in the authorization issued under section 4 to theMagistrate having jurisdiction",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.11,
+      266.11,
+      186.55,
+      294.38
+    ],
+    "text": "Recovery ofsums due toGovernment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201719",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      203.09,
+      384.95,
+      349.79
+    ],
+    "text": "(b) The Magistrate shall thereupon summon such personbefore him to show cause why further proceedings for therecovery of sum due under this Act should not been takenagainst him and in default of sufficient cause being shown,such sum shall be deemed to be a fine imposed by a sentenceof the Magistrate on such person and the provisions of section291 (except paragraphs (a), (d) and (i) of subsection (1)thereof of the Code of Criminal Procedure Act, No. 15 of1979), relating to the default of payment of a fine imposedfor such an offence shall thereupon apply and Magistratemay make any direction, by the provisions of that subsection,he could have made at the time of imposing such sentence.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      363.05,
+      384.87,
+      472.79
+    ],
+    "text": "(3) (a) The correctness of any statement in a certificateissued by the Central Bank for the purpose of this sectionshall not be called in question or examined by the court inany proceedings under this section and accordingly nothingin this section shall authorize the court to consider or decidethe correctness of any statement in such certificate and theCentral Bank\u2019s certificate shall be sufficient evidence thatthe amount due under this Act from the defaulting personhas been duly calculated and that such amount is in default.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      486.05,
+      384.85,
+      534.23
+    ],
+    "text": "(b) The certificate shall be signed by the Governor of theCentral Bank and shall be admissible in evidence in suchaction, without proof of signature and shall be prima facieproof of the matters stated therein.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      547.49,
+      384.85,
+      571.19
+    ],
+    "text": "(4) Any sum recovered in an action under this sectionshall be paid into the Consolidated Fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      584.45,
+      384.82,
+      620.39
+    ],
+    "text": "16.Subject to the provisions of this Act, anypermission, consent or authority granted under this Act maybe \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.13,
+      633.65,
+      255.82,
+      644.99
+    ],
+    "text": "(a)general or special;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.13,
+      658.25,
+      279.1,
+      669.59
+    ],
+    "text": "(b)absolute or conditional;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.85,
+      585.67,
+      436.29,
+      633.14
+    ],
+    "text": "Provisionsrelating topermission,consent orauthority.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "20Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      228.19,
+      202.97,
+      451.18,
+      226.31
+    ],
+    "text": "(c)limited so as to expire on a specified date, unlessrenewed; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.35,
+      238.97,
+      321.43,
+      250.31
+    ],
+    "text": "(d)varied or revoked.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      262.97,
+      451.21,
+      370.31
+    ],
+    "text": "17.In any inquiry under section 13, the burden ofproving that any authorized dealer, restricted dealer or anyother person, class or classes of persons not being anauthorized dealer or restricted dealer had obtained thepermission of the Central Bank for doing the act or makingthe omission which constitutes the violation of the provisionsof the Act or any regulation, Order, guideline or directionissued or made thereunder shall be on such dealer, person orclass or classes of persons.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      382.97,
+      451.4,
+      454.31
+    ],
+    "text": "18.In any inquiry under section 13 in relation to foreigncurrency, it shall be presumed, until the contrary is proved,that the currency in respect of which the dealing in foreignexchange in violation of the provisions of the Act or anyregulation, Order, guideline or direction issued or madethereunder is alleged to have been committed is genuine.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      466.97,
+      451.21,
+      562.31
+    ],
+    "text": "19.In an Inquiry under section 13 or any proceedingunder section 10, any of the following documents may beproduced before the Board of Inquiry or Court and given inevidence against any authorised dealer, restricted dealer orany other person, class or classes of persons not being anauthorized dealer or restricted dealer and shall be prima facieevidence of the matters, transactions and accounts thereincontained \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.35,
+      574.97,
+      451.2,
+      610.31
+    ],
+    "text": "(a)a certified copy of a banker\u2019s book or an extractthereof obtained from the manager or principalaccountant of the bank;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.35,
+      622.97,
+      451.18,
+      670.31
+    ],
+    "text": "(b)a certified copy of any book or other recordrequired by law to be maintained by a company ora certified copy of any extract thereof, obtainedfrom a director or secretary of the company; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      264.67,
+      197.59,
+      283.34
+    ],
+    "text": "Burden of proofof permission.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      384.79,
+      183.43,
+      422.66
+    ],
+    "text": "Presumptionrelating toforeigncurrency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      468.31,
+      196.15,
+      496.58
+    ],
+    "text": "Admissibility ofcertaindocuments.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201721",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      202.97,
+      384.86,
+      238.31
+    ],
+    "text": "(c)a certified copy of any document or of an extractthereof in the proper custody of an officer of aforeign Government, and obtained from such officer.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      250.97,
+      384.82,
+      310.31
+    ],
+    "text": "20.No person shall be liable in any suit or other legalproceedings for any act done, or purporting to be done, ingood faith in pursuance of the powers conferred by or underthis Act, or for the purpose of carrying out the provisions ofthis Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      322.97,
+      384.89,
+      406.31
+    ],
+    "text": "21.(1) Except in the performance of his duties underthis Act, every officer or servant of the Department of ForeignExchange of the Central Bank shall preserve, and aid inpreserving, secrecy with regard to all matters that may cometo his knowledge in the performance of his duties under thisAct, and any such officer or servant who communicates anysuch matter to any person other than \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      418.97,
+      384.84,
+      454.31
+    ],
+    "text": "(a)the person, class or classes of persons to whom thatmatter relates or an authorized representative of suchperson, class or classes of persons;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      466.97,
+      266.25,
+      478.31
+    ],
+    "text": "(b)the Monetary Board;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.37,
+      490.97,
+      384.84,
+      538.31
+    ],
+    "text": "(c)the Governor of the Central Bank or an officer ofthe Department of Foreign Exchange of the CentralBank authorized by the Governor to obtaininformation regarding that matter;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      550.97,
+      384.83,
+      574.31
+    ],
+    "text": "(d)the Secretary of the Ministry of the Ministerassigned the subject of Central Bank;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.37,
+      586.97,
+      384.82,
+      610.31
+    ],
+    "text": "(e)a public officer authorized by the Minister to obtaininformation regarding that matter; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.81,
+      622.97,
+      384.85,
+      670.67
+    ],
+    "text": "(f)a person to whom it is necessary to communicatethat matter for the purpose of securing compliancewith, or detecting evasion of, any provision of thisAct, or any other written Law,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      251.71,
+      445.3,
+      279.98
+    ],
+    "text": "Indemnity foracts done ingood faith.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      324.19,
+      452.86,
+      362.06
+    ],
+    "text": "Duty of officersand servants tomaintainsecrecy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "22Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      202.85,
+      451.23,
+      249.59
+    ],
+    "text": "or suffers or permits any unauthorized person to have accessto any book, papers or records of the aforesaid Departmentor in the possession or custody, or under the control, of thehead of that Department, commits an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      261.77,
+      451.19,
+      332.15
+    ],
+    "text": "(2) No officer or servant of the Department of ForeignExchange shall, in any legal proceedings to which theMonetary Board is not a party be compellable except byOrder of the Court to produce any book or document or todivulge or communicate any matter coming under his noticein the performance of his duties under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      344.45,
+      451.19,
+      461.87
+    ],
+    "text": "22.(1) Where the Monetary Board advises the Ministerthat in the opinion of the Board, remittances of foreignexchange into or out of Sri Lanka constitute a potentialthreat to the financial stability of Sri Lanka, the Ministermay, with the approval of the Cabinet of Ministers andnotwithstanding the provisions of sections 5, 6, 7 and 8 ofthis Act, by Order published in the Gazette, take such stepsas may be necessary to restrict or regulate remittances offoreign exchange into or out of Sri Lanka, for such periodnot exceeding six months from the date of such Order.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      474.17,
+      451.18,
+      520.91
+    ],
+    "text": "(2) An Order under subsection (1) shall be communicatedforthwith to Parliament and unless Parliament determinesotherwise, shall be valid for the period specified in suchOrder.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      533.21,
+      451.21,
+      591.71
+    ],
+    "text": "(3) The Minister may with the approval of Parliament, byOrder published in the Gazette, extend from time to time,the period of validity of an Order made under subsection (1)however that the period of such extensions shall not in theaggregate exceed twelve months.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      604.01,
+      451.19,
+      674.27
+    ],
+    "text": "23.(1) Any expenses incurred by the Central Bank inany suit or prosecution brought by or against it before anycourt, shall be paid out of the Consolidated Fund and anycosts paid to or recovered by the Central Bank in any suchsuit or prosecution shall be credited to the ConsolidatedFund.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      345.19,
+      193.15,
+      373.46
+    ],
+    "text": "Preservation offinancialstability.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      605.71,
+      198.43,
+      653.18
+    ],
+    "text": "Expenses in suitor prosecutionto be paid out ofthe ConsolidatedFund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201723",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      202.97,
+      384.85,
+      298.31
+    ],
+    "text": "(2) Expenses incurred by the employees of the CentralBank in any suit or prosecution brought against such personbefore any court or tribunal in respect of any act which isdone or purported to be done by such person under this Actor any other written law or on the direction of Central Bankshall, if that act was done in good faith, be paid out of theConsolidated Fund, unless such expenses are recoverableby such person in any suit or proceedings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      310.97,
+      384.97,
+      394.31
+    ],
+    "text": "24. (1) It shall be an implied condition in any contract,entered into, by virtue of the provisions of this Act, thepermission or consent of the Central Bank is at the time ofthe contract required for the performance of any term thereof,that terms should not be performed except insofar as thepermission or consent is given or permission or consent isnot required:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      406.97,
+      384.86,
+      478.31
+    ],
+    "text": "Provided that, the preceding provisions of this subsectionshall not apply to that term insofar as the application ofthose provisions to that term is inconsistent with the intentionof the parties to that contract, whether by reason of theirhaving contemplated the performance of that term despitethe provisions of this Act, or for any other reason.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      490.97,
+      384.86,
+      574.31
+    ],
+    "text": "(2) Notwithstanding anything in the Bills of ExchangeOrdinance (Chapter 82), neither the provisions of this Act,nor any condition, whether express or implied having regardto those provisions, that any payment shall not be madewithout the permission of the Central Bank under this Act,shall be deemed to prevent any instrument being a bill ofexchange or promissory note under the said Ordinance.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      586.97,
+      384.84,
+      670.31
+    ],
+    "text": "25.Where the provisions of any other written law imposean obligation in respect of the doing of any act and thepermission or consent of the Central Bank is, by virtue ofthat Act is required for the discharge of the obligation, itshall be an implied condition of the obligation that it shallnot be discharged except in so far as the permission or consentis given or is not required.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      313.03,
+      431.13,
+      322.1
+    ],
+    "text": "Contracts.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      588.31,
+      440.14,
+      616.58
+    ],
+    "text": "Obligationsunder otherwritten laws.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "24Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      202.73,
+      451.19,
+      284.27
+    ],
+    "text": "26.(1) Any person who acts in contravention of theprovisions of this Act or any regulation Order or directionissued or made thereunder for which no penalty is prescribed,may be required in writing by the Central Bank to pay as apenalty a sum not exceeding one million rupees, within suchperiod as may be specified in the notification of suchrequirement.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      296.33,
+      451.21,
+      366.23
+    ],
+    "text": "(2) Any person aggrieved by a penalty imposed undersubsection (1) may, within thirty days after the requirementto pay such penalty is communicated to such person, appealagainst such requirement to pay such penalty to the Boardof Inquiry which shall determine such appeal in accordancewith the procedure set out in section 13.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      378.29,
+      451.19,
+      413.03
+    ],
+    "text": "27.The Schedule to this Act may from time to time inthe interest of the national economy be amended, altered orvaried by Resolution of Parliament.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      425.09,
+      451.18,
+      471.47
+    ],
+    "text": "28.Where any regulation or Order made under this Actis required to be published in the Gazette, it shall be publishedonce in three daily newspapers in the Sinhala, Tamil andEnglish languages.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      483.53,
+      451.2,
+      530.03
+    ],
+    "text": "29.(1) The Minister may make regulations in respect ofall matters which are required by this Act to be prescribed orin respect of which regulations are required or authorized tobe made under this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      542.09,
+      451.17,
+      588.47
+    ],
+    "text": "(2) Every regulation made under subsection (1) shall bepublished in the Gazette and shall come into operation onthe date of publication or on such later date as may bespecified therein.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      600.53,
+      451.18,
+      670.55
+    ],
+    "text": "(3) Every regulation made under subsection (1) shall,within three months from the date of its publication in theGazette be placed before Parliament for approval. Everyregulation which is not so approved shall be deemed to berescinded as from the date of disapproval, but withoutprejudice to anything previously done there under.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      484.03,
+      182.59,
+      493.1
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      379.63,
+      192.43,
+      417.5
+    ],
+    "text": "Amendment ofSchedules byResolution ofParliament.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      426.19,
+      192.43,
+      454.46
+    ],
+    "text": "Publication ofOrders in dailynewspapers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      203.11,
+      172.15,
+      212.18
+    ],
+    "text": "Penalties.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201725",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      202.61,
+      384.84,
+      225.47
+    ],
+    "text": "(4) Notification of the date on which any regulation isdeemed to be so rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      237.05,
+      384.95,
+      259.91
+    ],
+    "text": "30.(1) The Exchange Control Act (Chapter 423) ishereby repealed.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      156.81,
+      271.61,
+      366.82,
+      282.95
+    ],
+    "text": "(2) Notwithstanding the repeal of the aforesaid Act-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      181.65,
+      294.65,
+      384.85,
+      374.99
+    ],
+    "text": "(a) all suits, actions and proceedings institutedunder the repealed Act and pending on the dayimmediately prior to the appointed date, shall,with effect from the appointed date, be deemedto be suits, actions and proceedings institutedunder the repealed Act and be heard andconcluded under that Act; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      181.65,
+      386.57,
+      384.86,
+      478.43
+    ],
+    "text": "(b) all investigations and inquiries institutedunder the repealed Act and pending on the dayimmediately prior to the appointed date, shall,with effect from the appointed date, be deemedto be investigations and inquiries institutedunder the repealed Act and shall be concludedunder that Act within a period of six monthsfrom the appointed date.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      156.81,
+      490.13,
+      309.8,
+      501.47
+    ],
+    "text": "31.(1) For the purpose of this Act -",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      205.05,
+      511.61,
+      384.85,
+      580.43
+    ],
+    "text": "(a) \u201ccurrency\u201d includes coins, currencynotes, postal orders, money orders,cheques, drafts, travelers\u2019 cheques, lettersof credit, bills of exchange, promissorynotes, other electronic fund transfer cardsand digital currency;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      205.05,
+      590.57,
+      384.81,
+      624.95
+    ],
+    "text": "(b) \u201csecurities\u201d means shares, stock, bonds,debentures, units under a unit trustscheme or of any mutual fund.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      636.53,
+      384.86,
+      671.63
+    ],
+    "text": "(2) The Central Bank may, by Notification published inthe Gazette, specify any other instrument in relation tocurrency or securities which is not specified in this section.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      239.11,
+      434.86,
+      257.78
+    ],
+    "text": "Repeal andSavings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      396.81,
+      491.11,
+      444.1,
+      509.78
+    ],
+    "text": "Currency,securities etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "26Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      203.57,
+      451.15,
+      240.95
+    ],
+    "text": "(3) For the purpose of this Act, \u201ca person resident in SriLanka\u201d means such person as is determined by the Ministerby Order published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      255.65,
+      451.21,
+      292.91
+    ],
+    "text": "32.In the event of any inconsistency between theSinhala and Tamil texts of this Act the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      223.15,
+      307.61,
+      446.74,
+      318.95
+    ],
+    "text": "33.In this Act unless the context otherwise requires\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      333.65,
+      451.15,
+      357.95
+    ],
+    "text": "\u201casset\u201d means any movable or immovable propertyof any class or description whatsoever;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      372.65,
+      451.17,
+      409.91
+    ],
+    "text": "\u201cauthorized dealer\u201d means a bank licensed underthe Banking Act, No. 30 of 1988 authorizedunder section 4 to act as authorized dealer;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      424.61,
+      451.2,
+      461.87
+    ],
+    "text": "\u201ccapital transaction\u201d means a transaction which isnot a current transaction within the meaning ofthis Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      476.57,
+      451.17,
+      513.95
+    ],
+    "text": "\u201cCentral Bank\u201d means the Central Bank of Sri Lankaestablished by section 5 of the Monetary LawAct (Chapter 420);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      528.53,
+      451.2,
+      604.91
+    ],
+    "text": "\u201ccurrent transaction\u201d means any internationaltransaction necessitating a transfer of foreignexchange into or from Sri Lanka, and referred toin paragraph (d) of Article XXX of the Articlesof the International Monetary Fund set out inthe Schedule to this Act;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      242.11,
+      619.61,
+      451.21,
+      669.95
+    ],
+    "text": "\u201cCommissioner General of Inland Revenue\u201d meansthe Commissioner General of Inland Revenuewithin the meaning of Inland Revenue Act, No.10 of 2006;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      257.11,
+      199.15,
+      285.38
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      309.67,
+      190.16,
+      318.74
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201727",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      203.33,
+      382.93,
+      290.27
+    ],
+    "text": "\u201cforeign asset\u201d means any movable or immovableproperty outside Sri Lanka of any class ordescription whatsoever and without prejudiceto the generality of the preceding provisions ofthis definition, includes foreign exchange,foreign currency, foreign securities and foreignbank accounts;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      304.13,
+      382.9,
+      328.07
+    ],
+    "text": "\u201cforeign currency\u201d means any currency other thanSri Lankan currency;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      341.93,
+      382.93,
+      378.47
+    ],
+    "text": "\u201cForeign Currency Account\u201d means a foreigncurrency account in a licensed bank which isauthorized to deal in foreign exchange;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      392.33,
+      382.93,
+      416.27
+    ],
+    "text": "\u201cforeign exchange\u201d means foreign currency andincludes \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.13,
+      430.13,
+      382.8,
+      454.07
+    ],
+    "text": "(a) deposits, credits and balances payable inforeign currency;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.13,
+      467.93,
+      382.91,
+      517.07
+    ],
+    "text": "(b) drafts, travelers\u2019 cheques, letters of creditand bills of exchange drawn in Sri Lankaand payable outside Sri Lanka in foreigncurrency;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.85,
+      530.93,
+      382.91,
+      580.07
+    ],
+    "text": "(c) drafts, travelers\u2019 cheques, letters of creditand bills of exchange drawn outside SriLanka but payable in Sri Lankancurrency;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      203.13,
+      593.93,
+      382.92,
+      630.47
+    ],
+    "text": "(d) any document or instrument of a typecustomarily employed for internationaltransfers of funds;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      644.33,
+      382.94,
+      668.51
+    ],
+    "text": "\u201cforeign exchange dealings\u201d includes accepting,buying, selling, borrowing and lending of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "28Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      259.15,
+      203.57,
+      451.17,
+      227.99
+    ],
+    "text": "foreign exchange and exchange to any otherforeign currency;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      242.57,
+      451.16,
+      277.43
+    ],
+    "text": "\u201cforeign security\u201d means a security denominated orexpressed in foreign currency and issued outsideSri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      290.93,
+      451.18,
+      315.23
+    ],
+    "text": "\u201clicensed bank\u201d means a licensed commercial bankor a licensed specialized bank;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      329.93,
+      451.18,
+      367.19
+    ],
+    "text": "\u201clicensed commercial bank\u201d means a bank licensedunder subsection (4) of section 2 of the BankingAct, No. 30 of 1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      381.89,
+      451.17,
+      419.27
+    ],
+    "text": "\u201clicensed specialized bank\u201d means a bank licensedunder subsection (3) of section 76A of theBanking Act, No. 30 of 1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      433.85,
+      451.17,
+      458.27
+    ],
+    "text": "\u201cMinister\u201d means the Minister assigned the subjectof Central Bank;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      472.85,
+      451.17,
+      497.27
+    ],
+    "text": "\u201cMonetary Board\u201d means the Monetary Board ofthe Central Bank of Sri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      511.85,
+      451.2,
+      549.23
+    ],
+    "text": "\u201cpermit\u201d means a permit granted to a restricteddealer under paragraph (a) of subsection (2) ofsection 4;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      563.93,
+      451.18,
+      588.23
+    ],
+    "text": "\u201cperson\u201d means any natural or legal person includingpartnerships;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      602.93,
+      451.15,
+      627.23
+    ],
+    "text": "\u201cperson resident outside Sri Lanka\u201d means a personwho is not a resident in Sri Lanka; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      242.11,
+      641.93,
+      451.19,
+      666.23
+    ],
+    "text": "\u201cSri Lankan currency\u201d means currency which isexpressed or drawn in Sri Lanka rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      185.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Foreign Exchange Act, No. 12 of 201729",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      241.77,
+      203.11,
+      286.05,
+      212.18
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      307.29,
+      222.31,
+      383.73,
+      231.38
+    ],
+    "text": "(sections 5, 6 and 33)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      208.05,
+      241.51,
+      319.65,
+      250.58
+    ],
+    "text": "INTERNATIONAL MONETARY FUND",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      224.13,
+      260.71,
+      303.58,
+      269.78
+    ],
+    "text": "Articles on Agreement",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      241.29,
+      279.91,
+      286.29,
+      288.98
+    ],
+    "text": "ARTICLE XXX",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      228.57,
+      299.11,
+      299.01,
+      308.18
+    ],
+    "text": "EXPLANATION OF TERMS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      318.31,
+      383.89,
+      346.58
+    ],
+    "text": "(d) Payments for current transactions means payments which arenot for the purpose of transferring capital assets, and includes, withoutlimitation\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      160.29,
+      356.71,
+      383.89,
+      384.98
+    ],
+    "text": "(1)all payments due in connection with foreign trade, othercurrent business, including services, and normal short termbanking and credit facilities;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      160.29,
+      395.11,
+      383.86,
+      413.78
+    ],
+    "text": "(2)payments due as interest on loans and as net income fromother investments;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      160.29,
+      423.91,
+      383.86,
+      442.58
+    ],
+    "text": "(3)payments of moderate amount for amortization of loans orfor depreciation of direct investments; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      160.29,
+      452.71,
+      352.32,
+      461.78
+    ],
+    "text": "(4)moderate remittances for family living expenses.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      471.91,
+      383.9,
+      500.18
+    ],
+    "text": "The Fund may, after consultation with the members concerned,determine whether certain specific transactions are to be consideredcurrent transactions or capital transactions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.15,
+      166.97,
+      409.54,
+      178.31
+    ],
+    "text": "30Foreign Exchange Act, No. 12 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

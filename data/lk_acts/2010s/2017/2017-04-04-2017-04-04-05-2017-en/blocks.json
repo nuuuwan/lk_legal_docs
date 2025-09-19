@@ -1,0 +1,635 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      282.48,
+      432.58,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      154.05,
+      378.77,
+      445.75,
+      427.86
+    ],
+    "text": "REVOCATION OF IRREVOCABLE DEEDSOF GIFT ON THE GROUND OF GROSSINGRATITUDE ACT, No. 5 OF 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      508.09,
+      373.29,
+      519.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.49,
+      471.61,
+      366.21,
+      482.68
+    ],
+    "text": "[Certified on 4th of April, 2017]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.86,
+      670.24
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of April 7, 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.25,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "1 Revocation of Irrevocable Deeds of Gift on theground of Gross Ingratitude Act, No. 5 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      681.13,
+      263.85,
+      692.2
+    ],
+    "text": "2\u2014PL 005046 \u2014 2961 (02/2017)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      332.11,
+      431.86,
+      341.18
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.21,
+      202.73,
+      329.5,
+      214.07
+    ],
+    "text": "[Certified on 4th of April, 2017]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.13,
+      219.58,
+      237.47
+    ],
+    "text": "L.D.\u2014O. 53/2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      249.53,
+      383.73,
+      260.87
+    ],
+    "text": "AN ACT TO PROVIDE FOR REVOCATION OF IRREVOCABLE DEEDS OF GIFT",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      261.29,
+      383.85,
+      272.63
+    ],
+    "text": "ON THE GROUND OF GROSS INGRATITUDE AND FOR MATTERS CONNECTED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      272.93,
+      279.57,
+      284.27
+    ],
+    "text": "THEREWITH AND INCIDENTAL THERETO",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      296.33,
+      383.9,
+      319.43
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      331.49,
+      383.86,
+      366.23
+    ],
+    "text": "1.This Act may be cited as the Revocation ofIrrevocable Deeds of Gift on the ground of Gross IngratitudeAct, No. 5 of 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      378.29,
+      383.89,
+      436.43
+    ],
+    "text": "2.An irrevocable deed of gift may be revoked onthe ground of gross ingratitude, only on an Order madeby a competent court, in an action filed by the donorof such deed against the donee to have the saiddeed revoked.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      448.49,
+      383.9,
+      506.63
+    ],
+    "text": "3.Court shall not entertain an action referred toin section 2, unless it is filed within a period of ten yearsfrom the date of the execution of such deed of gift andwithin two years from the date on which the cause ofaction arose.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      518.69,
+      383.89,
+      565.07
+    ],
+    "text": "4.(1) The plaintiff in an action instituted under theprovisions of this Act shall file or cause to be filed in courtwith the plaint, an application for registration of lispendens\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      577.13,
+      383.89,
+      611.87
+    ],
+    "text": "(a)addressed to the Registrar of Lands of the district inwhich the deed which is sought to be revoked isregistered; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      623.93,
+      383.88,
+      671.27
+    ],
+    "text": "(b)where the deed sought to be revoked is notregistered, addressed to the Registrar of Lands ofthe district in which the land referred to in suchdeed is situated.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      379.15,
+      455.13,
+      417.02
+    ],
+    "text": "Revocation of anirrevocable deedof gift by acompetent court.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      449.11,
+      445.3,
+      486.98
+    ],
+    "text": "Time periodwithin whichaction shall befiled.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      520.15,
+      454.3,
+      567.62
+    ],
+    "text": "Plaintiff to applyfor registrationof the action as alis pendens incourts.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      427.19,
+      190.24
+    ],
+    "text": "2 Revocation of Irrevocable Deeds of Gift on theground of Gross Ingratitude Act, No. 5 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      202.97,
+      451.21,
+      274.31
+    ],
+    "text": "(2) The application referred to in subsection (1), shall bein triplicate and marked \u201coriginal\u201d, \u201c1st copy\u201d and \u201c2ndcopy\u201d and shall be substantially in the form set out in theRegistration of Documents Ordinance (Chapter 117) andshall contain a blank space for the insertion of the number tobe assigned to the action by the court.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      286.97,
+      451.17,
+      322.31
+    ],
+    "text": "5.Every action filed under the provisions of this Actshall be proceeded with and regulated by the procedureprovided for in the Civil Procedure Code (Chapter 101).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.15,
+      334.97,
+      448.16,
+      346.31
+    ],
+    "text": "6.In this Act, unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.15,
+      358.97,
+      451.18,
+      442.31
+    ],
+    "text": "\u201cRegistrar of Lands\u201d means the Registrar of Landsappointed under the Registration of DocumentsOrdinance (Chapter 117) and havingjurisdiction over the district in which the landwhich forms the subject matter of an irrevocabledeed of gift which is sought to be revoked issituated; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.15,
+      454.97,
+      451.2,
+      490.31
+    ],
+    "text": "\u201cLand\u201d shall have the same meaning as in theRegistration of Documents Ordinance(Chapter 117).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      502.97,
+      451.2,
+      526.31
+    ],
+    "text": "7.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      288.31,
+      196.87,
+      316.58
+    ],
+    "text": "Application ofthe CivilProcedure Code.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      335.35,
+      188.6,
+      344.42
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      504.31,
+      199.15,
+      532.58
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.25,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "3 Revocation of Irrevocable Deeds of Gift on theground of Gross Ingratitude Act, No. 5 of 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      632.23,
+      455.85,
+      671.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

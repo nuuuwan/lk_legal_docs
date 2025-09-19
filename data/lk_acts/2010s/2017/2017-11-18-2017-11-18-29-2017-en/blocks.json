@@ -1,0 +1,3966 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      282.48,
+      432.58,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.57,
+      385.9,
+      431.0,
+      400.29
+    ],
+    "text": "PREVENTION OF CRIMES (AMENDMENT)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      235.05,
+      401.5,
+      364.79,
+      415.89
+    ],
+    "text": "ACT, No. 29 OF 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      493.09,
+      373.29,
+      504.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.05,
+      460.69,
+      379.78,
+      471.76
+    ],
+    "text": "[Certified on 18th of November, 2017]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      591.67,
+      392.13,
+      600.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      601.27,
+      404.13,
+      610.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      619.09,
+      455.83,
+      630.16
+    ],
+    "text": "Price : Rs. 16.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      546.89,
+      441.69,
+      570.23
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 24, 2017",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.99,
+      345.55,
+      671.06
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.05,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "1Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.13,
+      688.15,
+      258.57,
+      697.22
+    ],
+    "text": "2\u2014PL 05361\u20142,962 (08/2017)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      328.51,
+      432.58,
+      337.58
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.09,
+      203.21,
+      343.62,
+      214.55
+    ],
+    "text": "[Certified on 18th of November, 2017]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      228.05,
+      217.53,
+      239.39
+    ],
+    "text": "L. D.\u2014O. 7/2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.45,
+      252.77,
+      346.29,
+      264.11
+    ],
+    "text": "AN ACT TO AMEND THE PREVENTION OF CRIMES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218.37,
+      265.25,
+      311.37,
+      276.59
+    ],
+    "text": "ORDINANCE (CHAPTER 22)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      289.97,
+      384.86,
+      313.79
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      327.17,
+      384.93,
+      350.99
+    ],
+    "text": "1.This Act may be cited as the Prevention of Crimes(Amendment) Act, No. 29 of 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      364.37,
+      384.84,
+      450.11
+    ],
+    "text": "2.Section 2 of the Prevention of Crimes Ordinance(Chapter 22) (hereinafter referred to as the \u201cprincipalenactment\u201d) is hereby amended in sub-paragraph (i) ofparagraph (b) of subsection (3) thereof, by the substitutionfor the words and figures, \u201cby section 302 of the CriminalProcedure Code\u201d, of the words and figures, \u201cby section 277of the Code of Criminal Procedure Act, No. 15 of 1979\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      463.61,
+      384.85,
+      561.71
+    ],
+    "text": "3.Section 3 of the principal enactment is herebyamended in subsection (1) thereof, by the substitution forthe words and figures \u201cunder section 325(1) of the CriminalProcedure Code, the Magistrate shall, notwithstandinganything in section 190 of the Criminal Procedure Code\u201d,of the words and figures, \u201cunder section 306 of the Code ofCriminal Procedure Act, No.15 of 1979, the Magistrate shall,notwithstanding anything in section 185 of that Act,\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      575.21,
+      384.84,
+      598.91
+    ],
+    "text": "4.Section 5 of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.65,
+      612.41,
+      384.85,
+      673.31
+    ],
+    "text": "(1)in subsection (1) thereof, by the substitution for thewords \u201cbe subject to the supervision by the police\u201d,of the words \u201cbe subject to such supervision by thepolice as prescribed by rules made under section17,\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      365.11,
+      449.13,
+      393.38
+    ],
+    "text": "Amendment ofsection 2 ofChapter 22.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      464.11,
+      450.58,
+      501.98
+    ],
+    "text": "Amendment ofsection 3 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      577.15,
+      450.58,
+      615.02
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 20172",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      202.97,
+      451.16,
+      226.31
+    ],
+    "text": "(2)by the insertion, immediately after subsection (1)of that section, of the following new subsection:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      238.97,
+      451.19,
+      334.31
+    ],
+    "text": "\u201c(1A) Where a person referred to in subsection(1) is imposed a suspended sentence on beingconvicted of a crime, the Court may direct that suchperson be subject to such supervision by the police,as prescribed by rules made under section 17, fromthe date of imposing the suspended sentence, untilthe expiry of the operational period of suchsentence.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      347.69,
+      451.18,
+      385.19
+    ],
+    "text": "5.Section 17 of the principal enactment is herebyamended by the repeal of subsection (2) thereof and thesubstitution therefor of the following:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.15,
+      400.13,
+      357.41,
+      411.47
+    ],
+    "text": "\u201c(2) All rules so made shall\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.87,
+      426.29,
+      451.16,
+      476.87
+    ],
+    "text": "(a)be published in the Gazette and within aperiod of six months of such publication, bebrought before the Parliament for approval;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.87,
+      489.89,
+      451.18,
+      525.23
+    ],
+    "text": "(b)come into force on the date on which theyare approved by the Parliament or on suchlater date as may be specified in such rules.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      538.73,
+      451.18,
+      563.15
+    ],
+    "text": "6.Section 18 of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      577.97,
+      451.19,
+      615.47
+    ],
+    "text": "(1)by the repeal of the definition of the word \u201ccrime\u201dthereof and the substitution therefor, of thefollowing definition:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.15,
+      630.41,
+      451.19,
+      667.91
+    ],
+    "text": "\u201c \u201ccrime\u201d means an offence punishable under suchsections listed under each Act, as specified inthe Schedule hereto;\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      349.15,
+      198.44,
+      387.02
+    ],
+    "text": "Amendment ofsection 17 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      539.11,
+      198.44,
+      576.98
+    ],
+    "text": "Amendment ofsection 18 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.05,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "3Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      202.97,
+      383.9,
+      238.31
+    ],
+    "text": "(2)by the repeal of the definition of the word\u201cRegistrar\u201d thereof and the substitution therefor, ofthe following definition:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.85,
+      251.69,
+      383.89,
+      315.47
+    ],
+    "text": "\u201c \u201cRegistrar\u201d means the Registrar of Finger Printsand includes the Additional Registrar ofFinger Prints, the Deputy Registrar of FingerPrints and the Assistant Registrar of FingerPrints.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      328.49,
+      383.89,
+      363.83
+    ],
+    "text": "7.The Schedule to the principal enactment is herebyrepealed and the following Schedule is substitutedtherefor:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      329.71,
+      450.58,
+      367.58
+    ],
+    "text": "Replacement ofthe Schedule tothe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238.89,
+      400.75,
+      381.57,
+      409.82
+    ],
+    "text": "\u201cSCHEDULE[section 18]",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222.45,
+      421.39,
+      307.17,
+      430.46
+    ],
+    "text": "BRIBERY ACT (CHAPTER 26)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.85,
+      441.59,
+      312.1,
+      450.45
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.61,
+      461.35,
+      384.84,
+      480.5
+    ],
+    "text": "(i)14Bribery of judicial officers and membersof Parliament.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.33,
+      491.35,
+      384.82,
+      520.46
+    ],
+    "text": "(ii)15Acceptance of gratification by Membersof Parliament for interviewing publicservants.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.05,
+      531.43,
+      384.82,
+      550.46
+    ],
+    "text": "(iii)16Bribery of police officers, peace officersand other public servants.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.05,
+      561.43,
+      384.83,
+      580.46
+    ],
+    "text": "(iv)17Bribery for giving assistance or usinginfluence in regard to contracts.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.33,
+      591.43,
+      384.8,
+      610.46
+    ],
+    "text": "(v)18Bribery for procuring withdrawals oftenders.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.05,
+      621.43,
+      384.83,
+      630.5
+    ],
+    "text": "(vi)19Bribery in respect of Government business.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.89,
+      641.35,
+      384.83,
+      670.58
+    ],
+    "text": "(vii)20Bribery in connection with payment ofclaims, appointments, employments,grants, leases and other benefits.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 20174",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.91,
+      203.35,
+      452.12,
+      222.14
+    ],
+    "text": "(viii)21Bribery of public servants by personshaving dealings with the Government.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221.35,
+      232.75,
+      452.12,
+      280.94
+    ],
+    "text": "(ix)22Bribery of Member of local authority or ofscheduled institution or of governing bodyof scheduled institution, and bribery ofofficer or employee of local authority orof scheduled institution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      291.55,
+      452.13,
+      330.02
+    ],
+    "text": "(x)23Use of threats or fraud to influence vote ofmembers of local authority or of scheduledinstitution or of governing body ofscheduled institution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221.35,
+      340.51,
+      452.14,
+      388.82
+    ],
+    "text": "(xi)23ATo own or to have owned propertydeemed under this section to be propertyacquired by bribery or property to whichproperty acquired by bribery has or hadbeen converted.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219.19,
+      399.31,
+      452.13,
+      427.94
+    ],
+    "text": "(xii)24Acceptor of gratification to be guiltynotwithstanding that purpose not carriedout & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.91,
+      438.55,
+      452.14,
+      457.34
+    ],
+    "text": "(xiii)25Attempt to commit, and abetment of anoffence under Part II.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.91,
+      467.95,
+      348.55,
+      477.02
+    ],
+    "text": "(xiv)70Corruption.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249.31,
+      507.07,
+      415.03,
+      525.98
+    ],
+    "text": "COMMISSION TO INVESTIGATE ALLEGATIONS OF BRIBERY ORCORRUPTION ACT, NO. 19 OF 1994",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.15,
+      536.63,
+      379.4,
+      545.49
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.91,
+      556.15,
+      403.41,
+      565.22
+    ],
+    "text": "(i)21Making a false allegation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      575.71,
+      452.12,
+      584.78
+    ],
+    "text": "(ii)22Breach of provisions regarding secrecy.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221.35,
+      595.27,
+      396.55,
+      604.34
+    ],
+    "text": "(iii)23Miscellaneous offences.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      271.03,
+      614.95,
+      393.31,
+      624.02
+    ],
+    "text": "COMPUTER CRIME ACT, NO. 24 OF 2007",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.15,
+      634.67,
+      379.4,
+      643.53
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.91,
+      654.07,
+      452.12,
+      672.98
+    ],
+    "text": "(i)3Securing unauthorized access to acomputer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193.05,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "5Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.33,
+      203.11,
+      384.82,
+      221.78
+    ],
+    "text": "(ii)4Doing any act to secure unauthorizedaccess in order to commit an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.05,
+      231.91,
+      384.82,
+      250.58
+    ],
+    "text": "(iii)5Causing a computer to perform a functionwithout lawful authority.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.05,
+      260.71,
+      384.83,
+      279.38
+    ],
+    "text": "(iv)6Offences committed against nationalsecurity & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.33,
+      289.51,
+      384.82,
+      308.18
+    ],
+    "text": "(v)7Dealing with data & c., unlawfullyobtained.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.05,
+      318.31,
+      334.56,
+      327.38
+    ],
+    "text": "(vi)8Illegal interception of data.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.89,
+      337.51,
+      363.12,
+      346.58
+    ],
+    "text": "(vii)9Using of illegal devices an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149.61,
+      356.71,
+      384.83,
+      375.38
+    ],
+    "text": "(viii)10Unauthorized disclosure of informationenabling access to a service.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.05,
+      385.51,
+      347.27,
+      394.58
+    ],
+    "text": "(ix)11Attempt to commit an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      156.33,
+      404.71,
+      325.54,
+      413.78
+    ],
+    "text": "(x)12Abetment of an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.05,
+      423.91,
+      357.84,
+      432.98
+    ],
+    "text": "(xi)13Conspiring to commit an offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.73,
+      452.71,
+      365.01,
+      471.38
+    ],
+    "text": "CONVENTION AGAINST ILLICIT TRAFFICKING IN NARCOTICS DRUGS ANDPSYCHOTROPIC SUBSTANCES ACT, NO. 1 OF 2008",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.85,
+      481.67,
+      312.1,
+      490.53
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.61,
+      501.19,
+      323.25,
+      510.26
+    ],
+    "text": "(i)2Offences under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.65,
+      531.79,
+      375.09,
+      551.06
+    ],
+    "text": "CONVENTION AGAINST TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADINGTREATMENT OR PUNISHMENT ACT, NO. 22 OF 1994",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.85,
+      562.55,
+      312.1,
+      571.41
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.61,
+      582.79,
+      309.1,
+      591.86
+    ],
+    "text": "(i)2Offence of Torture.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.09,
+      612.55,
+      349.53,
+      631.22
+    ],
+    "text": "CONVENTION ON THE SUPPRESSION OF TERRORIST FINANCINGACT, NO. 25 OF 2005",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.85,
+      641.51,
+      312.1,
+      650.37
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.61,
+      660.55,
+      323.25,
+      669.62
+    ],
+    "text": "(i)3Offences under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 20176",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      274.87,
+      203.11,
+      387.43,
+      212.18
+    ],
+    "text": "FIREARMS ORDINANCE (CHAPTER 182)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240.19,
+      222.47,
+      378.44,
+      231.33
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      224.95,
+      241.51,
+      451.18,
+      260.18
+    ],
+    "text": "(i)22Failure to obtain a Licence to possess agun.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222.67,
+      270.31,
+      451.17,
+      298.58
+    ],
+    "text": "(ii)44Offences under Chapter 182 other thanany offence in respect of which nospecific punishment is provided.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      257.71,
+      318.31,
+      404.71,
+      327.38
+    ],
+    "text": "IMMIGRANTS AND EMIGRANTS ACT (CHAPTER 351)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240.19,
+      337.67,
+      378.44,
+      346.53
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      356.71,
+      445.16,
+      365.78
+    ],
+    "text": "(i) 45(1)(a) to (n)Immigration and emigration offences.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.63,
+      375.91,
+      451.19,
+      404.18
+    ],
+    "text": "(ii) 45(2)Preparation, attempt or abetment tocommit offences specified in section45(1)(a) to (n).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221.35,
+      414.31,
+      451.16,
+      432.98
+    ],
+    "text": "(iii) 45A(1)(a) to (c)Offences of bringing persons intoSri Lanka in contravention of the Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221.35,
+      443.11,
+      451.18,
+      471.38
+    ],
+    "text": "(iv) 45A(2)(a) and (b)Attempt, abetmemnt or preparation tocommit the offences specified in section45A(1)(a) to (c).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.63,
+      481.51,
+      392.59,
+      490.58
+    ],
+    "text": "(v) 45C(1)(a)Offence of organizing.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221.35,
+      500.71,
+      451.17,
+      528.98
+    ],
+    "text": "(vi) 45C(1)(b)Attempting, aiding and abetting for, ordoing any act preparatory to the offenceof organizing.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      260.35,
+      548.23,
+      402.07,
+      557.3
+    ],
+    "text": "INTELLECTUAL PROPERTY ACT, NO. 36 OF 2003",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      240.19,
+      565.91,
+      378.44,
+      574.77
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      224.95,
+      583.39,
+      443.62,
+      592.46
+    ],
+    "text": "(i)177Falsification of entries in any register.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222.67,
+      601.03,
+      451.16,
+      618.86
+    ],
+    "text": "(ii)178(1) and (2)Infringement of rights protected underPart II.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.39,
+      627.43,
+      435.45,
+      636.5
+    ],
+    "text": "(iii)179Infringement of Industrial Designs.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.39,
+      644.95,
+      397.17,
+      654.02
+    ],
+    "text": "(iv)181Infringement of Patents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222.67,
+      662.59,
+      394.88,
+      671.66
+    ],
+    "text": "(v)184Infringement of Marks.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193.05,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "7Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.49,
+      203.35,
+      354.33,
+      212.42
+    ],
+    "text": "OFFENCES AGAINST PUBLIC PROPERTY ACT, NO. 12 OF 1982",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      223.07,
+      311.14,
+      231.93
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.65,
+      242.47,
+      343.31,
+      251.54
+    ],
+    "text": "(i)2Mischief to public property.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.37,
+      262.15,
+      332.87,
+      271.22
+    ],
+    "text": "(ii)3Theft of public property.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      281.71,
+      344.14,
+      290.78
+    ],
+    "text": "(iii)4Robbery of public property.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      301.27,
+      383.87,
+      330.02
+    ],
+    "text": "(iv)5Dishonest misappropriation, criminalbreach of trust, cheating, forgery andfalsification of accounts.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.37,
+      340.51,
+      383.88,
+      359.42
+    ],
+    "text": "(v)10Attempt to commit an offence under theAct.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      379.75,
+      329.85,
+      388.82
+    ],
+    "text": "OFFENSIVE WEAPONS ACT, NO. 18 OF 1966",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      399.47,
+      311.14,
+      408.33
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.65,
+      418.87,
+      383.86,
+      437.78
+    ],
+    "text": "(i)2Prohibition of the importation & c., ofoffensive weapons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.37,
+      448.27,
+      383.86,
+      467.18
+    ],
+    "text": "(ii)3Damage & c., to property by use ofoffensive weapons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      477.67,
+      383.87,
+      496.58
+    ],
+    "text": "(iii)4Attempt to cause death or injury andcausing of injury with offensive weapons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      507.07,
+      383.87,
+      525.98
+    ],
+    "text": "(iv)5Attempt to commit offences other thanoffences under section 4 of the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.21,
+      546.31,
+      338.5,
+      555.38
+    ],
+    "text": "PAYMENT DEVICES FRAUDS ACT, NO. 30 OF 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      566.03,
+      311.14,
+      574.89
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.65,
+      585.55,
+      383.87,
+      594.62
+    ],
+    "text": "(i)3Acts amounting to payment devices fraud.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.37,
+      605.11,
+      383.88,
+      624.02
+    ],
+    "text": "(ii)4Attempt to commit an offence under theAct.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      634.51,
+      380.15,
+      643.58
+    ],
+    "text": "(iii)5Abetment of an offence under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.09,
+      654.07,
+      383.88,
+      672.98
+    ],
+    "text": "(iv)6Conspiracy to commit an offence underthe Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 20178",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      238.87,
+      452.74,
+      266.66
+    ],
+    "text": "Abetting and conspiracy to commit anyoffence of the Penal Code specified inthis Schedule.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      276.43,
+      405.43,
+      285.5
+    ],
+    "text": "Offences against the State.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      304.63,
+      452.71,
+      323.06
+    ],
+    "text": "Joining an unlawful assembly armed withany deadly weapon.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      332.83,
+      441.45,
+      341.9
+    ],
+    "text": "Rioting armed with deadly weapons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      351.67,
+      452.74,
+      370.1
+    ],
+    "text": "Giving or fabricating false evidence andoffences against public justice.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      379.87,
+      452.73,
+      398.3
+    ],
+    "text": "Offences relating to coin and Governmentstamps.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      408.07,
+      452.73,
+      426.5
+    ],
+    "text": "Obscene Publication, exhibition &c.relating to children.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      436.15,
+      446.0,
+      445.22
+    ],
+    "text": "Causing or procuring children to beg.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      454.99,
+      447.45,
+      473.42
+    ],
+    "text": "Hiring or employing children to act asprocurers for sexual intercourse.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      483.19,
+      449.73,
+      501.62
+    ],
+    "text": "Hiring or employing children to trafficin restricted articles.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      511.39,
+      452.74,
+      529.82
+    ],
+    "text": "Murder, Culpable homicide and attemptthereto.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      539.59,
+      452.73,
+      567.5
+    ],
+    "text": "Causing miscarriage or injuries to unbornchildren, exposure of infants and theconcealment of births.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      577.15,
+      382.16,
+      586.22
+    ],
+    "text": "Cruelty to children.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      595.99,
+      449.01,
+      614.42
+    ],
+    "text": "Voluntarily causing hurt by dangerousweapon, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      624.19,
+      413.72,
+      633.26
+    ],
+    "text": "Wrongful confinement, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.71,
+      652.39,
+      452.73,
+      670.82
+    ],
+    "text": "Using criminal force to deter a publicservant from discharge of his duty.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      229.87,
+      238.99,
+      297.55,
+      257.54
+    ],
+    "text": "(i) 101, 102, 113Aand 113B",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      276.67,
+      303.31,
+      295.1
+    ],
+    "text": "(ii) 114 to 123, (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      304.87,
+      255.55,
+      313.94
+    ],
+    "text": "(iii) 141",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      333.07,
+      255.55,
+      342.14
+    ],
+    "text": "(iv) 145",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      351.79,
+      303.31,
+      370.34
+    ],
+    "text": "(v) 190 to 224 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      379.99,
+      303.32,
+      398.54
+    ],
+    "text": "(vi) 226 to 256 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.15,
+      408.19,
+      261.55,
+      417.26
+    ],
+    "text": "(vii) 286A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      220.87,
+      436.39,
+      255.55,
+      445.46
+    ],
+    "text": "(viii) 288",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      455.23,
+      261.55,
+      464.3
+    ],
+    "text": "(ix) 288A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      483.43,
+      260.83,
+      492.5
+    ],
+    "text": "(x) 288B",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.43,
+      511.63,
+      303.31,
+      530.06
+    ],
+    "text": "(xi) 296, 297, 300 and301",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.15,
+      539.83,
+      303.31,
+      558.26
+    ],
+    "text": "(xii) 303 to 309 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      220.87,
+      577.39,
+      261.55,
+      586.46
+    ],
+    "text": "(xiii) 308A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      220.87,
+      596.23,
+      303.31,
+      614.66
+    ],
+    "text": "(xiv) 315 to 324 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.15,
+      624.43,
+      303.31,
+      642.86
+    ],
+    "text": "(xv) 334 to 339 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      220.87,
+      652.63,
+      255.55,
+      661.7
+    ],
+    "text": "(xvi) 344",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      291.67,
+      203.11,
+      372.67,
+      212.18
+    ],
+    "text": "PENAL CODE (CHAPTER 19)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      241.15,
+      222.47,
+      379.4,
+      231.33
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193.05,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "9Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      202.87,
+      312.81,
+      211.94
+    ],
+    "text": "Sexual harassment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      220.99,
+      290.25,
+      230.06
+    ],
+    "text": "Kidnapping.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      239.23,
+      384.81,
+      257.42
+    ],
+    "text": "Aggravated form of offence ofkidnapping and abduction.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      266.47,
+      384.83,
+      302.9
+    ],
+    "text": "Debt bondage serfdom, forced orcompulsary labour, slavery andrecruitment of children for use in armedconflict.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      312.07,
+      384.82,
+      330.14
+    ],
+    "text": "Kidnapping or abducting a child underten years.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      339.31,
+      289.53,
+      348.38
+    ],
+    "text": "Procuration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      357.55,
+      356.27,
+      366.62
+    ],
+    "text": "Sexual exploitation of children.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      375.67,
+      288.81,
+      384.74
+    ],
+    "text": "Trafficking.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      393.91,
+      350.26,
+      402.98
+    ],
+    "text": "Offences relating to adoption.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      412.15,
+      376.55,
+      421.22
+    ],
+    "text": "Offences relating to soliciting a child.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      430.27,
+      266.25,
+      439.34
+    ],
+    "text": "Rape.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      448.51,
+      269.25,
+      457.58
+    ],
+    "text": "Incest.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      466.75,
+      312.1,
+      475.82
+    ],
+    "text": "Unnatural offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      484.87,
+      384.83,
+      493.94
+    ],
+    "text": "Acts of gross indecency between persons.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      503.11,
+      315.82,
+      512.18
+    ],
+    "text": "Grave sexual abuse.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      521.35,
+      335.28,
+      530.42
+    ],
+    "text": "Theft, theft of cattle, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      548.59,
+      299.26,
+      557.66
+    ],
+    "text": "Extortion, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      575.95,
+      296.24,
+      585.02
+    ],
+    "text": "Robbery, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      603.19,
+      344.26,
+      612.26
+    ],
+    "text": "Dishonest misappropriation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      621.43,
+      331.54,
+      630.5
+    ],
+    "text": "Criminal breach of trust.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      246.81,
+      648.67,
+      384.83,
+      666.86
+    ],
+    "text": "Dishonestly receiving stolen property,etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.29,
+      202.87,
+      188.25,
+      211.94
+    ],
+    "text": "(xvii) 345",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      149.13,
+      220.99,
+      188.25,
+      230.06
+    ],
+    "text": "(xviii) 354",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      153.57,
+      239.23,
+      234.81,
+      257.42
+    ],
+    "text": "(xix) 355 to 359 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      155.85,
+      266.47,
+      194.25,
+      275.54
+    ],
+    "text": "(xx) 358A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      153.57,
+      312.07,
+      188.25,
+      321.14
+    ],
+    "text": "(xxi) 360",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.29,
+      339.31,
+      194.25,
+      348.38
+    ],
+    "text": "(xxii) 360A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      149.13,
+      357.55,
+      193.53,
+      366.62
+    ],
+    "text": "(xxiii) 360B",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      149.13,
+      375.67,
+      193.54,
+      384.74
+    ],
+    "text": "(xxiv) 360C",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.29,
+      393.91,
+      194.25,
+      402.98
+    ],
+    "text": "(xxv) 360D",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      149.13,
+      412.15,
+      193.53,
+      421.22
+    ],
+    "text": "(xxvi) 360E",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      430.27,
+      188.25,
+      439.34
+    ],
+    "text": "(xxvii) 364",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      448.51,
+      194.25,
+      457.58
+    ],
+    "text": "(xxviii) 364A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      466.75,
+      188.25,
+      475.82
+    ],
+    "text": "(xxix)365",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      484.87,
+      194.25,
+      493.94
+    ],
+    "text": "(xxx)365A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      503.11,
+      193.54,
+      512.18
+    ],
+    "text": "(xxxi)365B",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      521.35,
+      234.81,
+      539.42
+    ],
+    "text": "(xxxii) 367 to 371 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      548.59,
+      234.82,
+      566.78
+    ],
+    "text": "(xxxiii) 373 to 378 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      575.95,
+      234.82,
+      594.02
+    ],
+    "text": "(xxxiv) 380 to 385 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      146.85,
+      603.19,
+      188.25,
+      612.26
+    ],
+    "text": "(xxxv) 387",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.93,
+      621.43,
+      234.81,
+      639.62
+    ],
+    "text": "(xxxvi) 389 to 392 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.93,
+      648.67,
+      234.81,
+      666.86
+    ],
+    "text": "(xxxvii) 394 to 396 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 201710",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      202.75,
+      313.15,
+      220.82
+    ],
+    "text": "(xxxviii) 400 to 403 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      229.75,
+      313.15,
+      247.82
+    ],
+    "text": "(xxxix) 404 to 407 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      223.63,
+      256.75,
+      313.15,
+      274.82
+    ],
+    "text": "(xL) 412 to 416 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      221.35,
+      283.75,
+      313.15,
+      301.82
+    ],
+    "text": "(xLi) 418 to 426 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      219.19,
+      310.75,
+      313.16,
+      328.82
+    ],
+    "text": "(xLii) 435 to 451 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216.91,
+      337.75,
+      313.16,
+      355.82
+    ],
+    "text": "(xLiii) 454 to 467 (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      217.63,
+      373.75,
+      313.15,
+      391.82
+    ],
+    "text": "(xLiv) 478A to 478D (bothinclusive)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      219.19,
+      400.75,
+      254.59,
+      409.82
+    ],
+    "text": "(xLv) 490",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      202.75,
+      358.16,
+      211.82
+    ],
+    "text": "Cheating.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      229.75,
+      451.15,
+      247.82
+    ],
+    "text": "Fraudulent deeds and dispositions ofproperty, etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      256.75,
+      451.17,
+      274.82
+    ],
+    "text": "Mischief to animals, irrigation worksand public roads & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      283.75,
+      374.59,
+      292.82
+    ],
+    "text": "Mischief, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      310.75,
+      451.15,
+      319.82
+    ],
+    "text": "House trespass, house breaking, & c.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      337.75,
+      451.17,
+      364.82
+    ],
+    "text": "Forgery, fraudulent cancellation & c,of a will, etc. and falsification ofaccounts.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      373.75,
+      451.16,
+      392.06
+    ],
+    "text": "Offences relating to currency notesand bank notes.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      325.15,
+      401.83,
+      451.18,
+      420.26
+    ],
+    "text": "Attempting to commit offences of thePenal Code specified in this Schedule.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      239.59,
+      430.75,
+      423.31,
+      439.82
+    ],
+    "text": "POISONS, OPIUM AND DANGEROUS DRUGS ACT (CHAPTER 218)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      250.63,
+      450.11,
+      393.92,
+      458.97
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      228.43,
+      469.15,
+      451.17,
+      497.42
+    ],
+    "text": "(i) 54AManufacture, trafficking, import orexport and possession of dangerousdrugs.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.15,
+      507.55,
+      451.16,
+      526.22
+    ],
+    "text": "(ii) 54BAbetting in the commission of anoffence under section 54A.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      223.87,
+      536.35,
+      451.17,
+      574.22
+    ],
+    "text": "(iii) 78Contravention or failure to complywith any provisions of Chapter 218or any regulation, or any order ordirection lawfully given thereunder.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      245.11,
+      593.95,
+      417.67,
+      603.02
+    ],
+    "text": "PREVENTION OF MONEY LAUNDERING ACT, NO. 5 OF 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      250.63,
+      613.31,
+      393.92,
+      622.17
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      228.43,
+      632.35,
+      434.36,
+      641.42
+    ],
+    "text": "(i) 3(1)Offences of money laundering.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.15,
+      651.55,
+      451.18,
+      670.22
+    ],
+    "text": "(ii) 3(2)Attempting, conspiring and aiding orabetting money laundering.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      193.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "11Prevention of Crimes (Amendment)Act, No. 29 of 2017",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.65,
+      203.11,
+      378.09,
+      212.18
+    ],
+    "text": "PREVENTION OF TERRORISM (TEMPORARY PROVISIONS) ACT, NO. 48 OF 1979",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      183.81,
+      222.47,
+      327.1,
+      231.33
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.61,
+      241.51,
+      341.25,
+      250.58
+    ],
+    "text": "(i) 2Offences under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.33,
+      260.71,
+      384.83,
+      288.98
+    ],
+    "text": "(ii) 3Preparation, abetment, conspiracy orincitement to commit an offenceunder the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.45,
+      308.71,
+      367.17,
+      317.78
+    ],
+    "text": "SRI LANKA BUREAU OF FOREIGN EMPLOYMENT ACT, NO. 21 OF 1985",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      183.81,
+      328.07,
+      327.1,
+      336.93
+    ],
+    "text": "SectionNature of offence",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.61,
+      347.11,
+      344.27,
+      356.18
+    ],
+    "text": "(i) 64Illegal charging of fee.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      375.77,
+      384.86,
+      399.11
+    ],
+    "text": "8.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      377.35,
+      455.85,
+      405.62
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      167.17,
+      402.09,
+      190.24
+    ],
+    "text": "Prevention of Crimes (Amendment)Act, No. 29 of 201712",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  }
+]
