@@ -79,5 +79,19 @@ jobs:
             exit 0
           fi
           git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin data --rebase
-          git push origin data
+
+
+          for attempt in {1..8}; do
+            echo "Attempt $attempt to rebase+push..."
+            git fetch origin data
+            git rebase origin/data || git rebase --abort
+            if git push --force-with-lease origin HEAD:data; then
+              echo "Push succeeded."
+              break
+            fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            if [ $attempt -eq 8 ]; then
+              echo "Push failed after retries."
+              exit 1
+            fi
+          done
