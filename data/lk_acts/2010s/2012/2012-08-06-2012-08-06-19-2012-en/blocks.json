@@ -1,0 +1,1802 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      282.48,
+      439.75,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      163.05,
+      389.81,
+      436.83,
+      422.1
+    ],
+    "text": "PIYA DASUNA FOUNDATION(INCORPORATION) ACT, No. 19 OF 2012",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      517.09,
+      373.29,
+      528.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.77,
+      484.09,
+      366.91,
+      495.16
+    ],
+    "text": "[Certified on 06th August, 2012]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.86,
+      670.24
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 10, 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.49,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "1Piya Dasuna Foundation (Incorporation)Act, No 19 of 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      678.19,
+      261.58,
+      687.26
+    ],
+    "text": "2\u2014PL 006105\u20143,090 (06/2011)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      258.55,
+      431.14,
+      267.62
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.49,
+      203.33,
+      330.22,
+      214.67
+    ],
+    "text": "[Certified on 06th August, 2012]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      221.33,
+      240.57,
+      232.67
+    ],
+    "text": "L . D.\u2013 O. (Inc) 21/2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.29,
+      237.89,
+      361.28,
+      249.23
+    ],
+    "text": "AN ACT TO INCORPORATE THE PIYA DASUNA FOUNDATION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      256.49,
+      383.9,
+      318.23
+    ],
+    "text": "WHEREAS an Association called and known as the \u201cPiyaDasuna Foundation\u201d, has heretofore been established inSri Lanka for the purpose of effectually carrying out itsobjects and transacting all matters connected with the saidFoundation according to the rules agreed to by its members :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      325.37,
+      383.9,
+      387.11
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was formed and has applied to beincorporated and it will be for the public advantage to grantthe said application :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      394.25,
+      383.89,
+      418.19
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      432.05,
+      383.88,
+      455.99
+    ],
+    "text": "1.This Act may be cited as the \u201cPiya Dasuna Foundation(Incorporation)\u201d Act, No. 19 of 2012.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      469.01,
+      383.9,
+      583.79
+    ],
+    "text": "2.From and after the date of commencement of this Act,such and so many persons as now are members of the \u201cPiyaDasuna Foundation\u201d (hereinafter referred to as the\u201cFoundation\u201d) or shall hereafter be admitted as members ofthe Corporation hereby constituted, shall be a body corporatewith perpetual succession, under the name and style of the\u201cPiya Dasuna Foundation\u201d (hereinafter referred to as the\u201cCorporation\u201d) and by that name may sue and be sued withfull power and authority to have and use a common seal andto alter the same at its pleasure.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      597.05,
+      383.89,
+      620.99
+    ],
+    "text": "3.(1) The general objects for which the corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      633.29,
+      383.89,
+      668.51
+    ],
+    "text": "(a) to provide necessary education, training andassistance to Sri Lankan Youth to improve theirprofessional and vocational skills with a view to",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      469.63,
+      444.58,
+      507.5
+    ],
+    "text": "Incorporationof the PiyaDasunaFoundation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      433.63,
+      432.58,
+      442.7
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      598.63,
+      444.1,
+      626.9
+    ],
+    "text": "The generalobjects of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      417.31,
+      190.24
+    ],
+    "text": "Piya Dasuna Foundation (Incorporation)Act, No 19 of 20122",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.15,
+      202.73,
+      451.17,
+      227.03
+    ],
+    "text": "obtaining their optimal and finest services for thedevelopment of the nation;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.39,
+      236.45,
+      451.19,
+      258.47
+    ],
+    "text": "(b) to promote peace, goodwill and harmony among allthe communities and people of Sri Lanka ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      270.65,
+      451.17,
+      293.99
+    ],
+    "text": "(c) to grant scholarships and bursaries to needy anddeserving students of Sri Lanka ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.39,
+      300.41,
+      451.19,
+      335.75
+    ],
+    "text": "(d) to establish and maintain permanent and mobilelibraries mainly in the remote and underdevelopedareas, especially for the benefit of the students ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      342.29,
+      451.18,
+      389.63
+    ],
+    "text": "(e) to organize awareness programmes on concepts suchas Fundamental Human Rights, Democracy and GoodGovernance with a view to promoting such conceptsamong the Sri Lankans;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225.67,
+      396.05,
+      451.18,
+      441.83
+    ],
+    "text": "(f) to formulate and implement programmes to promotethe rights of the children, women and othermarginalized groups such as the differently ablepeople ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.39,
+      448.25,
+      451.18,
+      471.59
+    ],
+    "text": "(g) to sponsor and promote sports among the childrenand the youth according to their talents and interest ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.39,
+      478.01,
+      451.2,
+      537.35
+    ],
+    "text": "(h) to formulate and implement various humanitarianassistance programmes such as housing, medicalrelief, poverty alleviation programmes for the needyand deserving Sri Lankans including the DisplacedPersons ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225.67,
+      543.89,
+      451.19,
+      591.23
+    ],
+    "text": "(i) to formulate and implenment various projects andprogrammes to improve the moral values of the SriLankan youth and to foster and promote the culturalheritage of Sri Lanka ; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225.67,
+      597.65,
+      451.17,
+      632.03
+    ],
+    "text": "(j) to liaise and co-ordinate with other local and foreigninstitutions having similar objects to that of theCorporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      638.57,
+      451.18,
+      661.91
+    ],
+    "text": "(2) The Corporation shall ensure that the implementationof the objects of the Corporation shall be carried out without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.49,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "3Piya Dasuna Foundation (Incorporation)Act, No 19 of 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      232.51,
+      447.58,
+      279.98
+    ],
+    "text": "Corporation toensure noconflict withwork of anyMinistry & c.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      202.97,
+      383.89,
+      226.31
+    ],
+    "text": "any distinction based on race, religion, language, caste, sexor political opinion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      232.49,
+      383.93,
+      291.11
+    ],
+    "text": "4.The Corporation shall implement and carry out theobjects of the Corporation in such manner so as not to causeany conflict between the work of the Corporation and anywork being carried out by any Ministry or Department of theGovernment or a Provincial Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      305.81,
+      383.91,
+      369.11
+    ],
+    "text": "5.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts and matters as are necessaryor desirable for the promotion or furtherance of the objects ofthe Corporation or any one of them, including the power\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.65,
+      383.81,
+      383.87,
+      421.19
+    ],
+    "text": "(a) to purchase, acquire, rent, construct, renovate andotherwise obtain lands or buildings which may berequired for the purposes of the Corporation ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.65,
+      435.77,
+      383.87,
+      473.15
+    ],
+    "text": "(b) to borrow or raise funds with or whithout securitiesand to receive grants, gifts or donations in cash orkind ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.85,
+      484.73,
+      383.9,
+      548.03
+    ],
+    "text": "Provided that, the Corporation shall obtain theprior written approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreign grants,gifts or donations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.37,
+      559.61,
+      383.88,
+      622.91
+    ],
+    "text": "(c) to make, draw, accept, discount, endorse, negotiate,buy sell and issue bills of exchange, cheques,promissory notes and other negotiable instrumentsand to open, operate, maintain and close accounts inany bank ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.65,
+      633.41,
+      383.87,
+      670.67
+    ],
+    "text": "(d) to enter into contracts, partnerships or agreementswith any Governmental or non Governmentalorganizations or any other person or institution",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      308.59,
+      443.85,
+      327.26
+    ],
+    "text": "Powers of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      417.31,
+      190.24
+    ],
+    "text": "Piya Dasuna Foundation (Incorporation)Act, No 19 of 20124",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.15,
+      203.57,
+      373.88,
+      214.91
+    ],
+    "text": "whether in Sri Lanka or abroad ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      225.67,
+      225.05,
+      451.19,
+      262.43
+    ],
+    "text": "(e) to invest any funds that are not immediately requiredfor the purposes of the Corporation, in such manneras the Executive Committee may determine ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.11,
+      272.21,
+      451.18,
+      332.27
+    ],
+    "text": "(f) to appoint, employ, dismiss or terminate the servicesof officers and servants of the Corporation andexercise disciplinary control over them and to paythem such salaries, allowances and gratuities as maybe determined by the Corporation ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      224.95,
+      340.13,
+      451.16,
+      363.59
+    ],
+    "text": "(g) to train personnel in Sri Lanka or abroad for thepurposes of the Corporation; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      224.95,
+      377.33,
+      451.2,
+      412.79
+    ],
+    "text": "(h) to do all other things as are necessary or expedientfor the proper and effective carrying out of the objectsof the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      421.49,
+      451.19,
+      498.83
+    ],
+    "text": "6.(1) Subject to the provisions of this Act themanagement and administration of the affairs of theCorporation shall be administered by an ExecutiveCommittee consisting of such number of office bearers asmay be specified by the rules of the Corporation made undersection 7.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      507.77,
+      451.19,
+      558.71
+    ],
+    "text": "(2) One of the members of the Executive Committee shallbe an officer not below the rank of a Senior Assistant Secretaryof the Ministry of the Minister to whom the subject of SocialServices is assigned and appointed by such Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      570.05,
+      451.19,
+      594.59
+    ],
+    "text": "(3) The Executive committee of the Corporation shall beelected every year at a general meeting of the Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      605.93,
+      451.2,
+      643.67
+    ],
+    "text": "(4) The first Executive Committee of the Corporationshall be elected within one year of the date of commencementof this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      655.01,
+      451.2,
+      666.35
+    ],
+    "text": "(5) The executive Committee of the Foundation who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.91,
+      428.11,
+      197.35,
+      456.38
+    ],
+    "text": "ExecutiveCommittee ofthe Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176.49,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "5Piya Dasuna Foundation (Incorporation)Act, No 19 of 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      203.33,
+      383.9,
+      265.43
+    ],
+    "text": "holds office on the day immediately preceding the date ofcommencement of this Act, shall function as the executiveCommittee of the Corporation until the first ExecutiveCommittee of the Corporation is elected in the mannerprovided for in the Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      275.21,
+      383.89,
+      312.95
+    ],
+    "text": "(6) No person shall be elected as an office bearer(including the patrons) of the Corporation for the life periodof such person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      321.89,
+      383.9,
+      393.23
+    ],
+    "text": "7.(1) It shall be lawful for the Corporation from time totime at any general meeting of the Corporation and by amajority of not less than two-thirds of the members presentand voting, to make rules, not inconsistent with theprovisions of this Act or any other written law, for all or anyof the following matters:\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.61,
+      405.89,
+      383.87,
+      441.23
+    ],
+    "text": "(a) the classification of membership, admission,withdrawal, expulsion or resignation of membersand fees payable by the members ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.61,
+      453.89,
+      383.87,
+      501.23
+    ],
+    "text": "(b) the election of office bearers of the ExecutiveCommittee or vacation of or removal from officeand the powers duties and functions of the officebearers ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.33,
+      511.37,
+      383.88,
+      546.71
+    ],
+    "text": "(c) the appointment, powers, functions and duties andthe terms and conditions of the various officers,agents and servants of the Corporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.61,
+      556.73,
+      383.88,
+      626.87
+    ],
+    "text": "(d) the procedure to be followed for the summoningand holding of meetings of the ExecutiveCommittee, the Corporation or any sub-committeethereof, filling of vacancies, notices and agenda ofsuch meetings, the quorum and the conduct ofbusiness thereat ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.33,
+      636.29,
+      383.9,
+      671.63
+    ],
+    "text": "(e) the qualifications and disqualifications for membersof the Executive Committee and the Corporation ;and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      322.63,
+      440.85,
+      341.3
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      417.31,
+      190.24
+    ],
+    "text": "Piya Dasuna Foundation (Incorporation)Act, No 19 of 20126",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      230.11,
+      204.29,
+      451.2,
+      238.07
+    ],
+    "text": "(f)the administration and management of the propertyof the Corporation for the accomplishment of theobjects of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      246.65,
+      451.2,
+      279.95
+    ],
+    "text": "(2)Any rule made by the Corporation may be amended,altered, added to or rescinded at a like meeting and in likemanner, as a rule made under subsection (1) of this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      289.37,
+      451.17,
+      312.71
+    ],
+    "text": "(3) The members of the Corporation shall at all times besubject to the rules of the Corporation made under this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      325.37,
+      419.73,
+      336.71
+    ],
+    "text": "8.(1) The Corporation shall have its own fund.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      349.37,
+      451.18,
+      408.71
+    ],
+    "text": "(2) All moneys received by way of gift, bequest, donation,subscription, contribution, fees or grant for and on accountof the Corporation shall be deposited in one or more banksapproved by the Executive Committee to the credit of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      421.37,
+      451.17,
+      468.71
+    ],
+    "text": "(3) There shall be paid out of the Fund, all sums of moneyas are required to defray any expenditure incurred by theCorporation in the exercise, performance and discharge of itspowers, duties and functions under the Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      481.37,
+      451.18,
+      504.71
+    ],
+    "text": "9.(1) The financial year of the Corporation shall be thecalendar year.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      513.89,
+      451.18,
+      548.03
+    ],
+    "text": "(2) The Corporation shall cause proper accounts to bekept of its income and expenditure, assets and liabilities andall other transactions of the Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      555.53,
+      451.18,
+      589.67
+    ],
+    "text": "(3) The accounts of the Corporation shall be auditedannually by the Auditor General or an qualified auditorappointed by the Auditor General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235.15,
+      597.17,
+      424.9,
+      608.51
+    ],
+    "text": "(4) In this sectiobn \"qualified auditor\" means\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235.87,
+      616.25,
+      451.18,
+      673.19
+    ],
+    "text": "(a) an individual who, being a member of the Instituteof Chartered Accountants of Sri Lanka or of anyother Institute established by law, possesses acertificate to practice as an Accountant, issued bythe Council of such Institute; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.19,
+      328.03,
+      186.19,
+      346.7
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.19,
+      483.43,
+      189.2,
+      502.1
+    ],
+    "text": "Accounts andAuditing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176.49,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "7Piya Dasuna Foundation (Incorporation)Act, No 19 of 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168.57,
+      202.61,
+      383.88,
+      271.79
+    ],
+    "text": "(b) a firm of Accountants, each of the resident partnersof which, being a member of the Institute ofChartered Accountants of Sri Lanka or of any otherInstitute established by law, posseses a certificateto practice as an Accountant, issued by the Councilof such Institute",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      282.05,
+      383.9,
+      350.03
+    ],
+    "text": "10.All debts and liabilities of the Foundation existingon the day immediately preceding the date of commencementof this Act, shall be paid by the Corporation herebyconstituted and all debts due to and subscriptions andcontributions payable to the Foundation on that day shall bepaid to the Corporation for the purposes of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      360.65,
+      383.91,
+      472.79
+    ],
+    "text": "11.Subject to the provisions of this Act, the Corporationshall be able and capable in law to take and hold any property,movable or immovable, which may become vested in it byvirtue of any purchase, grant, gift, testamentary dispositionor otherwise, and all such property shall be held by theCorporation for the purpose of this Act and subject to therules of the Corporation made under section 7 with power tosell, mortgage, lease, exchange, or otherwise dispose of thesame.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.85,
+      486.05,
+      383.75,
+      497.39
+    ],
+    "text": "12.The corporation shall be a non-profit organization",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      501.29,
+      383.86,
+      512.63
+    ],
+    "text": "and no part of the gains, profits or dividends, if any, of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      516.53,
+      383.89,
+      527.87
+    ],
+    "text": "Corporation shall be distributed among the members of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      531.65,
+      195.57,
+      542.99
+    ],
+    "text": "Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      556.25,
+      383.9,
+      664.19
+    ],
+    "text": "13.(a) If upon the dissolution of the Corporation thereremains after the satisfaction of all its debts and liabilitiesany property whatsoever, such property shall not bedistributed among the members of the Corporation, but shallbe given or transferred to some other institution or institutionshaving objects similar to those of the Corporation, and whichis or are by the rules thereof, prohibited from distributing anyincome or property among its members.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      285.31,
+      452.14,
+      313.58
+    ],
+    "text": "Debts due byand payable tothe Foundation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      361.15,
+      441.58,
+      408.62
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      487.63,
+      447.58,
+      515.9
+    ],
+    "text": "Corporation tobe non-profitorganisation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      557.11,
+      443.14,
+      585.38
+    ],
+    "text": "Propertyremaining ondissolution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      417.31,
+      190.24
+    ],
+    "text": "Piya Dasuna Foundation (Incorporation)Act, No 19 of 20128",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.99,
+      253.99,
+      184.99,
+      272.66
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      202.97,
+      451.16,
+      238.31
+    ],
+    "text": "(b) For the purposes of paragraph (a) the appropriateinstitution or institutions shall be determined by the membersof the Corporation immediately before the dissolution.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      251.33,
+      451.21,
+      325.67
+    ],
+    "text": "14.The seal of the Corporation shall not be affixed toany instrument whatsoever, except in the presence of twomembers of the Executive Committee of the Corporationwho shall sign their names to the instrument in token of theirpresence and such signing shall be independent of the signingof any person as a witness.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      335.81,
+      451.17,
+      371.15
+    ],
+    "text": "15.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic orcorporate.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      393.17,
+      451.18,
+      428.51
+    ],
+    "text": "16.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.99,
+      337.99,
+      187.27,
+      366.26
+    ],
+    "text": "Saving of therights of theRepublic.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.99,
+      392.83,
+      191.0,
+      430.7
+    ],
+    "text": "Sinhala text toprevail in caseofinconsistancy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176.49,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "9Piya Dasuna Foundation (Incorporation)Act, No 19 of 2012",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      632.47,
+      455.15,
+      671.41
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      417.31,
+      190.24
+    ],
+    "text": "Piya Dasuna Foundation (Incorporation)Act, No 19 of 201210",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      141.67,
+      628.51,
+      451.17,
+      667.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
