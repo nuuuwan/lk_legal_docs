@@ -1,0 +1,868 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      166.37,
+      441.33,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.21,
+      229.71,
+      362.49,
+      243.32
+    ],
+    "text": "Part II of April 26, 2019",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      258.51,
+      341.85,
+      272.12
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      287.31,
+      354.61,
+      300.92
+    ],
+    "text": "(Issued on 29.04.2019)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.77,
+      424.95,
+      448.03,
+      452.96
+    ],
+    "text": "REVIVAL OF UNDERPERFORMING ENTERPRISESOR UNDERUTILIZED ASSETS (REPEAL)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      467.93,
+      303.71,
+      479.27
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      489.89,
+      311.85,
+      501.23
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.65,
+      516.41,
+      423.12,
+      540.47
+    ],
+    "text": "to repeal the Revival of Underperforming Enterprises orUnderutilized Assets Act, No. 43 of 2011",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.13,
+      556.97,
+      444.58,
+      580.31
+    ],
+    "text": "Ordered to be published by the Minister of Public Enterprise, KandyanHeritage and Kandy Development",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      615.29,
+      455.83,
+      626.63
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.85,
+      588.91,
+      392.85,
+      597.98
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      598.51,
+      404.13,
+      607.58
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      661.27,
+      401.61,
+      670.34
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.21,
+      166.97,
+      401.81,
+      190.31
+    ],
+    "text": "Revival of Underperforming Enterprises orUnderutilized Assets (Repeal)1",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      203.69,
+      241.16,
+      215.03
+    ],
+    "text": "L. D.\u2014O. 14/ 2018",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.93,
+      229.13,
+      400.77,
+      253.19
+    ],
+    "text": "AN ACT TO REPEAL THE REVIVAL OF UNDERPERFORMINGENTERPRISES OR UNDERUTILIZED ASSETS ACT, NO. 43 OF 2011",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      267.17,
+      401.91,
+      291.23
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      305.33,
+      401.88,
+      341.99
+    ],
+    "text": "1.This Act may be cited as the Revival ofUnderperforming Enterprises or Underutilized Assets(Repeal) Act, No. of 2019.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      356.09,
+      401.91,
+      392.87
+    ],
+    "text": "2.The Revival of Underperforming Enterprises orUnderutilized Assets Act, No. 43 of 2011 (hereinafter referredto as the \u201crepealed Act\u201d) is hereby repealed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      406.85,
+      401.9,
+      519.83
+    ],
+    "text": "3.For the avoidance of doubt it is hereby declared that,with effect from the date of commencement of this Act, theUnderperforming Enterprises or Underutilized Assets,specified in Schedule I and Schedule II of the repealed Actvested in the Secretary to the Treasury for and on behalf ofthe State under section 2 of the repealed Act, and subsistingon the day immediately preceding the date of commencementof this Act, shall continue to be so vested in the Secretary tothe Treasury for and on behalf of the State.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      533.93,
+      401.87,
+      570.59
+    ],
+    "text": "4.Notwithstanding the repeal of the Revival ofUnderperforming Enterprises or Underutilized AssetsAct, No. 43 of 2011\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.45,
+      584.69,
+      401.88,
+      672.23
+    ],
+    "text": "(a)all acts done under or pursuant to the repealed Actfor the purpose of control, administration,management and revival as the case may be, ofUnderperforming Enterprises or UnderutilizedAssests including the issuing of shares and theexecution of all contracts, deeds, bonds, agreements,memorandum of understandings, guarantees,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      307.19,
+      441.93,
+      316.05
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.33,
+      330.01,
+      152.33,
+      341.08
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      419.29,
+      154.89,
+      430.36
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      483.13,
+      154.89,
+      494.2
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      559.09,
+      154.89,
+      570.16
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      635.89,
+      154.89,
+      646.96
+    ],
+    "text": "25",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      358.39,
+      455.0,
+      386.66
+    ],
+    "text": "Repeal ofAct, No. 43 of2011.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      409.27,
+      452.01,
+      427.94
+    ],
+    "text": "Avoidance ofdoubt.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      536.11,
+      435.69,
+      545.18
+    ],
+    "text": "Savings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.75,
+      166.97,
+      358.51,
+      190.31
+    ],
+    "text": "Revival of Underperforming Enterprises orUnderutilized Assets (Repeal)2",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.63,
+      253.09,
+      144.63,
+      264.16
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.75,
+      203.45,
+      391.79,
+      265.55
+    ],
+    "text": "powers of attorney, grants of legal representationand other instruments of whatever nature and alllicences, permits and approvals obtained in relationor in pursuance thereto, shall continue to be validand in force in accordance with the terms thereof;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167.47,
+      279.65,
+      391.79,
+      303.59
+    ],
+    "text": "(b)unless otherwise determined by the Minister incharge of the subject of Finance\u2014",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.15,
+      317.69,
+      391.79,
+      379.79
+    ],
+    "text": "(i)all property movable or immovableincluding any building and any fixtures orfittings which are part of such building andany building appurtenant thereto or treatedas part and parcel thereof;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202.39,
+      393.89,
+      313.19,
+      405.23
+    ],
+    "text": "(ii)all liabilities incurred;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199.63,
+      419.33,
+      391.75,
+      443.27
+    ],
+    "text": "(iii)all rights, powers, privileges, authorities,obligations, duties and interests;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200.11,
+      457.37,
+      367.51,
+      468.71
+    ],
+    "text": "(iv)all books, accounts and documents,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.75,
+      482.81,
+      391.81,
+      621.11
+    ],
+    "text": "pertaining to such Underperforming Enterprises orUnderutilized Assets, subsisting on the dayimmediately preceding the date of commencementof this Act, shall be deemed to be the propertymovable or immovable, liabilities, rights, powers,privileges, authorities, obligations, duties, interest,books, accounts and documents of the person onwhom it had been conferred or vested under orpursuant to the provisions of the repealed Act, as atthe day immediately preceding the date ofcommencement of this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168.07,
+      635.21,
+      391.8,
+      671.87
+    ],
+    "text": "(c)any claim or inquiry initiated under the repealedAct for compensation or an award made forcompensation, pending settlement on the day",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.71,
+      342.13,
+      144.79,
+      353.2
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.71,
+      430.33,
+      144.79,
+      441.4
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.71,
+      519.61,
+      144.79,
+      530.68
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.71,
+      584.65,
+      144.79,
+      595.72
+    ],
+    "text": "25",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.43,
+      660.25,
+      145.51,
+      671.32
+    ],
+    "text": "30",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.21,
+      166.97,
+      401.81,
+      190.31
+    ],
+    "text": "Revival of Underperforming Enterprises orUnderutilized Assets (Repeal)3",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      203.45,
+      401.9,
+      240.11
+    ],
+    "text": "immediately prior to the date of commencement ofthis Act shall be carried on and completed as if therehad been no such repeal.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      254.21,
+      401.9,
+      278.27
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      255.91,
+      455.62,
+      293.78
+    ],
+    "text": "Sinhala text toprevail in caseofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.33,
+      267.13,
+      152.33,
+      278.2
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.75,
+      166.97,
+      358.51,
+      190.31
+    ],
+    "text": "Revival of Underperforming Enterprises orUnderutilized Assets (Repeal)4",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234.19,
+      634.63,
+      350.73,
+      643.7
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
