@@ -17,7 +17,7 @@ class Act(AbstractPDFDoc):
 
     @classmethod
     def get_doc_class_label(cls):
-        return "lk_act"
+        return "lk_acts"
 
     @classmethod
     def get_doc_class_description(cls) -> str:
@@ -49,9 +49,7 @@ class Act(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            act_number_cleaned = act_number.replace("/", "-").replace(
-                " ", "_"
-            )
+            act_number_cleaned = act_number.replace("/", "-").replace(" ", "_")
             num = f"{date_str}-{act_number_cleaned}-{lang}"
             yield cls(
                 num=num,
