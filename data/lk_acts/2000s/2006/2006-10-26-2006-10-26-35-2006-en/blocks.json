@@ -1,0 +1,1802 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      280.18,
+      432.6,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.85,
+      378.66,
+      437.68,
+      431.65
+    ],
+    "text": "SRI LANKA LAND RECLAMATION ANDDEVELOPMENT CORPORATION(AMENDMENT) ACT, No. 35 OF 2006",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      504.49,
+      373.16,
+      516.7
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.13,
+      477.16,
+      369.57,
+      491.01
+    ],
+    "text": "[Certified on 26th October, 2006]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.29,
+      635.18,
+      403.29,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.68,
+      671.49
+    ],
+    "text": "Price : Rs. 10.75Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.64,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 27, 2006",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168.57,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "1Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.29,
+      202.15,
+      331.42,
+      215.49
+    ],
+    "text": "[Certified on 26th October, 2006]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      224.23,
+      218.78,
+      237.57
+    ],
+    "text": "L.D.\u2014O. 43/2004.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.05,
+      246.19,
+      367.77,
+      272.49
+    ],
+    "text": "AN ACT TO AMEND THE SRI LANKA LAND RECLAMATION ANDDEVELOPMENT CORPORATION ACT, NO. 15 OF 1968",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      285.19,
+      383.63,
+      311.49
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      320.23,
+      383.78,
+      359.49
+    ],
+    "text": "1.This Act may be cited as the Sri Lanka LandReclamation and Development Corporation (Amendment)Act, No.35 of 2006.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      368.23,
+      383.88,
+      420.57
+    ],
+    "text": "2.The Long Title of the Sri Lanka Land Reclamationand Development Corporation Act, No. 15 of 1968(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyrepealed and the following is substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      433.15,
+      383.92,
+      602.49
+    ],
+    "text": "\u201cAN ACT TO PROVIDE FOR THE ESTABLISHMENTOF A CORPORATION , TO BE KNOWN AS THE SRI LANKALAND RECLAMATION AND DEVELOPMENTCORPORATION FOR THE DEVELOPMENT ANDRECLAMATION IN ACCORDANCE WITH THENATIONAL POLICY RELATING TO LANDRECLAMATION AND DEVELOPMENT OF SUCH AREASAS MAY BE DECLARED BY ORDER OF THE MINISTER ;FOR SUCH CORPORATION TO UNDERTAKECONSTRUCTION WORK AND CONSULTANCYASSIGNMENTS IN THE FIELD OF ENGINEERING ; ANDFOR MATTERS CONNECTED THEREWITH ORINCIDENTAL THERETO.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      611.11,
+      383.86,
+      650.49
+    ],
+    "text": "3.The following new sections are hereby insertedimmediately after section 2 of the principal enactment andshall have effect as sections 2A and 2B of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      371.06,
+      449.88,
+      410.53
+    ],
+    "text": "Replacement ofLong Title ofAct, No. 15 of1968.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      321.98,
+      431.87,
+      332.65
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      612.98,
+      452.8,
+      662.05
+    ],
+    "text": "Insertion of newsections 2A and2B in Act, in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "2Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      201.31,
+      451.37,
+      273.21
+    ],
+    "text": "2A. (1) No person shall without the writtenapproval of the Corporation, fill or develop inany manner whatsoever, any extent of landsituated within any area of land declared to bea Reclamation and Development Area undersection 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      283.27,
+      451.28,
+      366.81
+    ],
+    "text": "(2) The Corporation may, on a writtenapplication made by any person seekingapproval for filling or developing any extentof land within any area declared to be aReclamation and Development Area, grantapproval for the same, subject to such termsand conditions as it may consider necessary.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      376.87,
+      451.37,
+      448.65
+    ],
+    "text": "(3) Every person who acts in contraventionof the provisions of subsection (1) or fails tocomply with the terms and conditions subjectto which an approval has been granted undersubsection (2), shall be guilty of an offence underthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      458.71,
+      451.34,
+      671.37
+    ],
+    "text": "(4) Where the chief executive officer of theCorporation is informed that any person iscontravening the provisions of subsection (1)he shall take all appropriate measures to preventsuch person from carrying on the unlawfulactivity, and may where necessary, obtain theassistance of the officer-in-charge of the PoliceStation within whose area of authority theextent of land or any part thereof in which thealleged unlawful activity is being carried on, issituated. It shall be the duty of such PoliceOfficer to provide all necessary assistance tothe chief executive officer or any officer orservant authorized in that behalf by the chiefexecutive officer, to prevent such person, hisagents or servants from carrying on the unlafulactivity, in contravention of the provisionsof subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      201.98,
+      258.39,
+      279.85
+    ],
+    "text": "\u201cProhibitionagainst fillingordeveloping aReclamationandDevelopmentArea.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168.57,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "3Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      201.43,
+      384.06,
+      427.05
+    ],
+    "text": "(5) Where under subsection (4), the chiefexecutive officer of the Corporation or theofficer or servant authorised by such chiefexecutive officer, fails to prevent any personfrom carrying on an unlawful activity incontravention of the provisions of subsection(1), he may make an application to theMagistrate\u2019s Court within whose localjurisdiction the extent of land or any partthereof in which the alleged unlawful activityis being carried on, is situated, for the issue ofan order restraining him or his agents or servantsfrom acting in contravention of the provisionsof subsection (1) and where necessary for anorder granting him authority either to demolishany building or construction whether whollyor partly built which may have been erected onsuch extent of land or of taking such buildingsor construction into his custody.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      437.35,
+      384.03,
+      497.85
+    ],
+    "text": "(6) If on the conclusion of the inquiry undersubsection (5) the Magistrate is not satisfiedthat the person showing cause has lawfulauthority to fill or develop the extent of land,he shall \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.85,
+      508.15,
+      384.02,
+      556.89
+    ],
+    "text": "(a)make an order restraining such personor his agents and servants from doingany act in contravention of thissection; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.85,
+      567.19,
+      383.93,
+      604.05
+    ],
+    "text": "(b)where necessary, make orderauthorising the demolition of anybuilding or construction built thereon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      614.35,
+      384.02,
+      675.09
+    ],
+    "text": "(7) Where any person to whom approval hasbeen granted under subsection (2) has failed tocomply with the terms and conditions subjectto which such approval was granted, the chiefexecutive officer of the Corporation may direct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "4Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      201.43,
+      451.36,
+      261.93
+    ],
+    "text": "such person to comply with the same and wheresuch person fails to do so, he may make anapplication to the Magistrate\u2019s Court withinwhose jurisdiction the extent of land or anypart thereof is situated, and obtain an order\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      277.87,
+      272.23,
+      451.33,
+      320.97
+    ],
+    "text": "(a)restraining such person, his agents andservants from acting in contraventionof the terms and conditions imposed ;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      277.87,
+      331.15,
+      451.28,
+      391.77
+    ],
+    "text": "(b)enabling the Corporation to carry outor cause to be carried out the work incompliance with the terms andconditions imposed and charge thecost of such operation on that person.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      401.95,
+      451.29,
+      450.69
+    ],
+    "text": "(8) The provisions of section 20A of this Actshall apply in respect of an application madeunder subsection (5) and subsection (7)respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      460.99,
+      451.27,
+      568.65
+    ],
+    "text": "2B. (1) The Minister may with theconcurrence of the Minister in charge of thesubject of Lands, by Order published in theGazette determine any area of land other thanan area declared to be a Reclamation andDevelopment Area under section 2, as a low-lying, marshy, waste or swampy and specify insuch Order the requirements to be complied within filling or developing any such area.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      578.95,
+      451.31,
+      627.69
+    ],
+    "text": "(2) An Order under subsection (1) declaringan area as low lying, marshy, waste or swampyshall define such area by setting out the metesand bounds of such area.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      637.99,
+      451.36,
+      675.09
+    ],
+    "text": "(3) It shall be the duty of every person whoproposes to carry out any filling or developmentactivity in any area declared under subsection",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      463.34,
+      259.15,
+      511.21
+    ],
+    "text": "Declarationof an area aslow lyingmarshy, wasteor swampy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      168.57,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "5Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      202.03,
+      384.05,
+      253.41
+    ],
+    "text": "(1), to comply with the requirements specifiedin the Order made under that subsection andany person who acts in contravention, thereofshall be guilty of an offence under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      265.51,
+      384.07,
+      443.85
+    ],
+    "text": "(4) Where an Order under subsection (1) ismade, the local authorities or any authoritieswithin the area declared by such Order, whoseapproval is required for the purpose ofconstruction of buildings or sub-division, shall,in granting such approval, ensure that therequirements specified in that Order arecomplied with and where such requirements arenot complied with, notwithstanding anythingto the contrary in any other written law, havethe power to refuse to approve suchconstruction of buildings or sub-division as thecase may be, until such requirements arecomplied with to its satisfaction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      455.95,
+      384.03,
+      621.69
+    ],
+    "text": "(5) Where the chief executive officer of theCorporation is informed that any person isacting in contravention of subsection (3), hemay make an application to the Magistrate\u2019sCourt within whose local jurisdiction the areadeclared under subsection (1) is situated for theissue of an Order restraining such person or hisagents or servants from acting in contraventionof the provisions of subsection (3) and wherenecessary for an Order granting authority todemolish any building or construction whetherwholly or partly built which may have beenerected in any such area.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      633.79,
+      383.77,
+      672.45
+    ],
+    "text": "(6) The provisions of section 20A of this Actshall apply in respect of an application madeunder subsection (5).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "6Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      265.15,
+      201.43,
+      451.36,
+      320.97
+    ],
+    "text": "(7) If on the conclusion of the inquiry theMagistrate is not satisfied that the personshowing cause has sufficient reason for notcomplying with the requirements specified inthe Order made under subsection (1), he shallmake an order restraining such person or hisservants and agents from doing any act incontravention of this section and an orderauthorising the demolition of any building orconstruction erected thereon.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      331.15,
+      451.15,
+      368.13
+    ],
+    "text": "4.The principal enactment is hereby amended by therenumbering of sections 4A and 4B of the principal enactmentas sections 4B and 4C respectively of that enactment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      378.43,
+      451.39,
+      415.29
+    ],
+    "text": "5.The following new section is hereby inserted in Part Iimmediately after section 4 of the principal enactment andshall have effect as section 4A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      265.15,
+      425.59,
+      451.34,
+      521.49
+    ],
+    "text": "4A. (1) Any area of land on a canal bankmay be declared by Order published in theGazette, as a canal reservation by the Ministerwith the consent of the local authority withinwhose area of authority such area of land issituated, and such Order shall define the areadeclared by setting out metes and bounds ofthat area.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      265.15,
+      531.79,
+      451.32,
+      674.85
+    ],
+    "text": "(2) No building or any structure whethertemporary or otherwise shall be constructed onany area declared to be a canal reservationunder subsection (1) without the writtenapproval of the chief executive officer of theCorporation. An approval given under thissubsection shall be subject to such terms andconditions as may be determined by the chiefexecutive officer on the recommendation of theDivisional Secretary or the ProvincialCommissioner of Lands of the division or theProvince respectively, where the land is situated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      332.06,
+      196.95,
+      361.93
+    ],
+    "text": "Renumbering ofsections 4A and4B as 4B and 4C.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      378.02,
+      196.1,
+      417.49
+    ],
+    "text": "Insertion of newsection 4A in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      432.26,
+      254.59,
+      462.13
+    ],
+    "text": "\u201cDeclarationof canalreservations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      168.57,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "7Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      201.31,
+      384.07,
+      273.21
+    ],
+    "text": "(3) Every person who acts in contraventionof the provisions of subsection (1) or fails tocomply with such terms and conditions subjectto which an approval has been granted undersubsection (2) shall be guilty of an offence underthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      283.27,
+      384.02,
+      425.25
+    ],
+    "text": "(4) Where the chief executive officer of theCorporation is informed that any person isacting in contravention of subsection (2) hemay make an application to the Magistrate\u2019sCourt within whose local jurisdiction the areadeclared as a canal reservation is situated forthe issue of an order restraining him or his agentsor servants from acting in contravention of theprovisions of subsection (2) and for an ordergranting authority to demolish any building orstucture constructed on any such area declaredas a canal reservation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      435.31,
+      384.07,
+      542.25
+    ],
+    "text": "(5) If on the conclusion of the inquiry theMagistrate is satisfied that the building orstructure had been constructed without thewritten approval of the chief executive officerhe shall make an order restraining such personor his servants and agents from doing any act incontravention of this section and further orderthe demolition of such building or structure asthe case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      552.31,
+      384.01,
+      671.13
+    ],
+    "text": "(6) Where any person to whom approval hadbeen granted under subsection (2), has failed tocomply with the terms and conditions subjectto which such approval was granted, the chiefexecutive officer may direct such person tocomply with the same and where such personfails to do so, he may make an application tothe Magistrate\u2019s Court within whosejurisdiction such canal reservation or any partthereof is situated and obtain an order\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "8Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      280.87,
+      202.03,
+      451.33,
+      253.41
+    ],
+    "text": "(a)restraining such person, his agents andservants from acting in contraventionof the terms and conditions imposed;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      280.87,
+      265.51,
+      451.28,
+      342.33
+    ],
+    "text": "(b)enabling the Corporation to carry outor cause to be carried out, theconstruction work in compliance withthe terms and conditions imposed andcharge the cost of such constructionwork on that person.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.15,
+      354.43,
+      451.16,
+      393.09
+    ],
+    "text": "(7) The provisions of section 20A of this Actshall apply in respect of an application madeunder subsection (4) and subsection (6).\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      405.19,
+      451.39,
+      482.01
+    ],
+    "text": "6.Section 4B (as renumbered by section 3) of theprincipal enactment is hereby amended, by the substitutionfor the words \u201cacquired by the Corporation under section 3or section 3A or section 4.\u201d, of the words \u201cacquired by theCorporation under section 3 or section 3A or section 4 orconstruct and sell houses and buildings on any such land.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      494.11,
+      451.01,
+      520.05
+    ],
+    "text": "7.Section 8 of the principal enactment, is herebyamended as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.95,
+      532.15,
+      451.2,
+      570.93
+    ],
+    "text": "(1) in paragraph (c) of that section by the substitutionfor the words \u201csection 2 of this Act.\u201d, of the words\u201csection 2 of this Act; and\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.95,
+      582.91,
+      451.14,
+      608.97
+    ],
+    "text": "(2) by the addition, immediately after paragraph (c) ofthat section, of the following new paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      246.43,
+      621.07,
+      451.25,
+      672.45
+    ],
+    "text": "\u201c(d)to have the custody, management,improvement maintenance and control ofcanals and the prevention of pollution ofcanals.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      399.62,
+      196.15,
+      439.09
+    ],
+    "text": "Amendment ofsection 4B of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      486.98,
+      192.45,
+      526.45
+    ],
+    "text": "Amendment ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      168.57,
+      165.55,
+      383.81,
+      190.78
+    ],
+    "text": "9Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      201.91,
+      383.8,
+      240.45
+    ],
+    "text": "8.The following new sections are hereby insertedimmediately after section 20 of the principal enactment andshall have effect as sections 20A and 20B of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      252.31,
+      383.89,
+      328.65
+    ],
+    "text": "20A. (1) Every application for an orderunder subsection (5) of section 2A, subsection(5) of section 2B, subsection (4) of section 4Aor subsection (2) of section 20c shall besupported by an affidavit verifying the mattersset out in the application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      340.51,
+      384.05,
+      442.05
+    ],
+    "text": "(2) Upon receipt of the application theMagistrate shall forthwith issue summons onthe person named in the application to appearand show cause on the date specified in suchsummons (being a date not later than two weeksfrom the date of issue of such summons) as towhy he or his servants or agents should not berestrained as prayed for in the application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      453.91,
+      383.96,
+      530.25
+    ],
+    "text": "(3) If on the date specified in the summonsthe person to whom such summons has beenissued fails to appear or informs the Court thathe has no cause to show against the issuing ofsuch order the Court shall forthwith issue anorder as prayed for in the application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      542.11,
+      384.01,
+      605.85
+    ],
+    "text": "(4) If the person on whom summons hasbeen issued duly appears in Court and statesthat he has cause to show against issuing suchorder the Court may proceed forthwith or mayset the case for inquiry on a later date.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      617.71,
+      383.83,
+      668.85
+    ],
+    "text": "(5) The Court shall be competent to call forany evidence from the chief executive officerof the Corporation in support of theapplication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      204.26,
+      452.86,
+      248.53
+    ],
+    "text": "Insertion of newsections 20A and20B in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      254.06,
+      182.86,
+      312.73
+    ],
+    "text": "\u201cProcedureforapplicationforrestrainingOrder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "10Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      202.03,
+      451.27,
+      253.41
+    ],
+    "text": "(6) The Court may at the conclusion of theinquiry, issue an order as specified in section2A, or section 2B or section 4A or section 20c asthe case may be, or dissmiss the application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      265.51,
+      451.27,
+      304.17
+    ],
+    "text": "20B. Where in any proceeding institutedunder this Act, a question arises as to whetherany land is situated within,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      316.27,
+      451.27,
+      355.05
+    ],
+    "text": "(a) an area declared by Order under section 2to be a Reclamation and Developmentarea ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      367.03,
+      451.05,
+      405.81
+    ],
+    "text": "(b) an area determined by an Order undersection 2B to be a low- lying, marshy, wasteor swampy area ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      417.91,
+      451.16,
+      443.85
+    ],
+    "text": "(c) an area declared by Order under section 4Ato be a canal reservation,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      455.95,
+      451.32,
+      558.21
+    ],
+    "text": "a Certificate under the hand of the chiefexecutive officer of the Corporation to the effectthat the land specified in such certificate issituated in a reclamation and development areaor a low-lying, marshy, waste or swampy areaor a canal reservation, as the case may be, shallbe admissible in evidence and shall be primafacie evidence of the facts stated therein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      570.31,
+      451.28,
+      672.45
+    ],
+    "text": "20c. (1) Any person who pollutes or causesthe pollution of any canal of which a canalreservation has been declared by Order undersection 4A, by dumping or discharging into suchcanal any pollutant shall be guilty of an offenceand be liable on conviction after summary trialbefore a Magistrate to a fine not less than onehundred thousand rupees and not exceeding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      265.22,
+      256.14,
+      343.09
+    ],
+    "text": "Certificate ofchiefexecutiveofficer to beprima facieevidence ofthe factstherein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      571.82,
+      252.45,
+      601.69
+    ],
+    "text": "Pollution ofcanals anoffence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      168.57,
+      165.55,
+      383.85,
+      190.78
+    ],
+    "text": "11Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      197.85,
+      201.55,
+      384.0,
+      262.89
+    ],
+    "text": "five hundred thousand rupees and in theevent of the offence being continued afterconviction therefor with a fine of one thousandrupees for each day that the offence is socontinued.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176.85,
+      273.55,
+      287.77,
+      286.89
+    ],
+    "text": "(2) Where such pollution\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.85,
+      297.55,
+      384.02,
+      322.89
+    ],
+    "text": "(a) continues unabated for a period exeedingfourteen days after such conviction ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.85,
+      333.55,
+      384.04,
+      370.89
+    ],
+    "text": "(b) causes a serious threat to the maintenance ofthe free flow or safety or quality of water ofsuch canal.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179.85,
+      381.55,
+      383.98,
+      478.89
+    ],
+    "text": "the Magistrate shall forthwith upon an applicationbeing made by the Corporation by Order require thepersons causing such pollution to eliminate thecauses of pollution by closing down any business,trade or the activity which is directly or indirectlyresponsible for causing such pollution with theassistance of the fiscal or police as shall be necessaryin the circumstances .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179.85,
+      489.55,
+      383.96,
+      526.89
+    ],
+    "text": "(3) For the purpose of this section \u201cpollution\u201dand \u201cpollutant\u201d shall have the same meaning as inthe National Environmental Act, No. 47 of 1980.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      537.55,
+      383.74,
+      574.89
+    ],
+    "text": "9.The following new section is hereby insertedimmediately after section 22 of the principal enactment andshall have effect as section 22A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      197.85,
+      585.55,
+      384.01,
+      670.89
+    ],
+    "text": "22A. Every person guilty of an offence underthis Act for which no penalty is prescribed shallbe liable to a fine not less than one hundredthousand rupees and not exceeding fivehundred thousand rupees or to imprisonmentfor a period not exceeding one year or to bothsuch fine and imprisonment.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      587.06,
+      186.8,
+      636.13
+    ],
+    "text": "\u201cPenalty foroffence forwhich nopenalty isprescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      539.06,
+      436.33,
+      588.13
+    ],
+    "text": "Insertion ofnew section22A in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      165.55,
+      426.26,
+      190.78
+    ],
+    "text": "12Sri Lanka Land Reclamation and DevelopmentCorporation (Amendment) Act, No. 35 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      201.55,
+      451.34,
+      238.89
+    ],
+    "text": "10.Section 28 of the principal enactment is herebyamended by the addition after the definition of the expression\u201cBoard\u201d of the following new definition :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      238.15,
+      251.35,
+      451.35,
+      312.69
+    ],
+    "text": "\u2018 \u201cretention area\u201d means any low-lying area intendedto store storm and run-off water for a limitedperiod of time, until the available drainage systemof the particular area is able to discharge thewater.\u2019.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      323.35,
+      451.19,
+      348.69
+    ],
+    "text": "11.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      324.5,
+      198.38,
+      354.37
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      202.58,
+      197.88,
+      240.25
+    ],
+    "text": "Amendment ofsection 28 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      139.15,
+      631.58,
+      451.14,
+      671.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

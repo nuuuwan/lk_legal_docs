@@ -1,0 +1,2298 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      192.33,
+      629.06,
+      385.4,
+      639.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.53,
+      644.66,
+      396.09,
+      655.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.81,
+      661.08,
+      444.78,
+      673.55
+    ],
+    "text": "Price : Rs. 10.75 Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.61,
+      273.14,
+      435.06,
+      333.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.09,
+      579.07,
+      429.67,
+      605.01
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 18, 2006",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.29,
+      549.26,
+      324.33,
+      559.93
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.33,
+      432.38,
+      323.37,
+      443.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.69,
+      470.56,
+      353.94,
+      484.41
+    ],
+    "text": "[Certified on 16th August, 2006]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.65,
+      509.53,
+      367.12,
+      521.74
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.25,
+      348.38,
+      322.29,
+      359.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.37,
+      375.34,
+      431.41,
+      414.11
+    ],
+    "text": "FISHERIES AND AQUATIC RESOURCES(AMENDMENT) ACT, NO. 22 OF 2006",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.77,
+      165.55,
+      384.89,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 20061",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.81,
+      201.19,
+      330.79,
+      214.53
+    ],
+    "text": "[Certified on 16th August, 2006]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      224.23,
+      224.18,
+      237.57
+    ],
+    "text": "L.D. \u2014 O. 33/2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163.29,
+      247.15,
+      366.43,
+      272.01
+    ],
+    "text": "AN ACT TO AMEND THE FISHERIES AND AQUATIC RESOURCESACT, NO. 2 OF 1996",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      281.71,
+      384.71,
+      306.57
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      316.15,
+      384.66,
+      341.01
+    ],
+    "text": "1.This Act may be cited as the Fisheries and AquaticResources (Amendment) Act, No. 22 of 2006.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      350.71,
+      384.98,
+      398.49
+    ],
+    "text": "2.Sections 39, 40, 41, 42 and 43 of the Fisheries andAquatic Resources Act, No. 2 of 1996 (hereinafter referred toas the \u201c principal enactment\u201d) are hereby repealed and thefollowing sections substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.81,
+      408.19,
+      384.92,
+      455.97
+    ],
+    "text": "39. (1) No person shall set up, operate orengage in any aquaculture operation exceptunder the authority of a licence issued by theDirector-General for that purpose.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.81,
+      465.67,
+      384.95,
+      524.97
+    ],
+    "text": "(2) The Director-General shall have thepower to delegate in writing to any LicensingOfficer appointed under section 40, hisauthority under subsection (1) to issue licencesin respect of aquaculture operations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.81,
+      534.67,
+      384.98,
+      628.53
+    ],
+    "text": "40. (1) The Director-General shall appointin respect of each Administrative District, oneor more persons as Licensing Officers, fromamong persons who are nominated for thatpurpose under section 14A of the NationalAquaculture Development Authority of SriLanka Act, No. 53 of 1998, by the Director-General of the Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.81,
+      638.11,
+      384.98,
+      674.85
+    ],
+    "text": "(2) An officer appointed as a LicensingOfficer under subsection (1) shall perform suchduties as may be delegated to such officer in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      352.58,
+      454.35,
+      401.65
+    ],
+    "text": "Replacement ofsections 39, 40,41, 42 and 43 ofAct, No 2 of1996.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.89,
+      410.78,
+      193.93,
+      440.65
+    ],
+    "text": "\u201cLicensing ofaquacultureoperations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.89,
+      534.98,
+      191.63,
+      564.85
+    ],
+    "text": "Appointmentof LicensingOfficers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      318.38,
+      431.87,
+      329.05
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "2Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      201.67,
+      451.31,
+      264.21
+    ],
+    "text": "writing by the Director-General undersubsection (2) of section 39. The LicensingOfficer shall in the performance of his duties,be subject to the general direction andsupervision of the Director-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      275.47,
+      451.35,
+      350.37
+    ],
+    "text": "41. (1) Every application for the issue of alicence under section 39 shall be made in theprescribed form to the appropriate LicensingOfficer appointed for the Administrative Districtwithin which the aquaculture operation isproposed to be set-up, operated or engaged in.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      361.63,
+      451.31,
+      411.81
+    ],
+    "text": "(2) Every application submitted undersubsection (1) shall contain complete andaccurate information of all required particularsand be accompanied by the prescribed fee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      423.07,
+      451.23,
+      522.57
+    ],
+    "text": "(3) The Licensing Officer may, havingconsidered the information and particularscontained in an application submitted undersubsection (1), and where the applicant hasfulfilled the requirements as prescribedpertaining to suitability to be issued with alicence under section 39, issue such licence tothe applicant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      533.83,
+      451.17,
+      571.77
+    ],
+    "text": "(4) An application found to contain false,misleading or incorrect information orparticulars shall be rejected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      265.15,
+      595.27,
+      451.24,
+      620.97
+    ],
+    "text": "42. A licence issued under section 41,shall\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      280.87,
+      632.23,
+      451.27,
+      670.17
+    ],
+    "text": "(a)be in such form as the Director-Generalmay determine in consultation withthe Authority;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.15,
+      278.54,
+      254.61,
+      337.21
+    ],
+    "text": "Applicationfor licenceand theprocessingof suchapplication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      596.54,
+      256.14,
+      626.41
+    ],
+    "text": "Form andduration of alicence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.77,
+      165.55,
+      384.89,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 20063",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.61,
+      201.67,
+      382.9,
+      227.37
+    ],
+    "text": "(b)be subject to such terms and conditionsas specified in the licence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213.33,
+      238.63,
+      383.04,
+      264.21
+    ],
+    "text": "(c)become operative from such date asshall be specified in the licence; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.61,
+      275.47,
+      383.0,
+      301.17
+    ],
+    "text": "(d)unless earlier revoked, be in force forthe period as specified in the licence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.89,
+      312.43,
+      383.04,
+      399.57
+    ],
+    "text": "43. (1) A licence issued under section 41may be renewed upon an application beingsubmitted for that purpose in the prescribedform to the appropriate Licensing Officer,accompanied by the prescribed renewal fee, notless than thirty days prior to the date ofexpiration of the licence previously issued.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.89,
+      410.83,
+      383.02,
+      448.77
+    ],
+    "text": "(2) The Licensing Officer may renew alicence on receipt of an application undersubsection (1), where\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.61,
+      460.03,
+      382.92,
+      497.97
+    ],
+    "text": "(a)the licensee has not violated or doneanything in contravention of the termsand conditions of the licence issued;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.61,
+      509.23,
+      382.95,
+      547.17
+    ],
+    "text": "(b)the licensee has not contravened anyprovisions of this Act or anyregulations made thereunder;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213.33,
+      558.43,
+      382.95,
+      620.97
+    ],
+    "text": "(c)the licensee has not contravened anyprovisions of the National AquacultureDevelopment Authority of Sri LankaAct, No. 53 of 1998 or any regulationsmade thereunder; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.61,
+      632.23,
+      383.03,
+      670.17
+    ],
+    "text": "(d)the continuation of the aquacultureoperation concerned will not have anyadverse impact on the environment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.89,
+      313.82,
+      190.89,
+      334.09
+    ],
+    "text": "Renewal of alicence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "4Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      266.11,
+      201.55,
+      452.39,
+      238.89
+    ],
+    "text": "(3) The provisions of section 42 shall applyin respect of a licence issued on renewal underthis section.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      249.55,
+      452.18,
+      298.89
+    ],
+    "text": "3.The following new sections are hereby insertedimmediately after section 43 of the principal enactment andshall have effect as sections 43A, 43B, 43C, 43D, 43E, and 43Fof that enactment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      266.11,
+      309.55,
+      452.3,
+      346.89
+    ],
+    "text": "43A. (1) A licence issued under section 41may be suspended by the Director-General,where\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      278.95,
+      357.55,
+      452.23,
+      418.89
+    ],
+    "text": "(a)it becomes necessary in order toimplement any aquacultureconservation or management measuresadopted in consequence of adetermination made by the Authority ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      278.95,
+      429.55,
+      452.22,
+      502.89
+    ],
+    "text": "(b)the licensee has been charged for thecommission of an offence under thisAct or the National AquacultureDevelopment Authority of Sri LankaAct, No. 53 of 1998 or any regulationsmade under those Acts; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.67,
+      513.55,
+      452.26,
+      610.89
+    ],
+    "text": "(c)the licensee has contravened anyprovisions of this Act or the NationalAquaculture Development Authorityof Sri Lanka Act, No. 53 of 1998 or anyregulations made under those Acts,and the severity of such contraventiondoes not warrant a cancellation of thelicence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      266.11,
+      621.55,
+      452.15,
+      670.89
+    ],
+    "text": "(2) Where a licence is suspended underparagraph (a) of subsection (1), the licensee shallbe entitled to a pro rata refund of the fee paidby him for the issue of the licence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      250.7,
+      196.1,
+      309.37
+    ],
+    "text": "Insertion of newsections 43A,43B, 43C, 43D,43E and 43F inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      311.3,
+      256.19,
+      331.57
+    ],
+    "text": "\u201cSuspensionof a licence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      169.77,
+      165.55,
+      384.89,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 20065",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      200.71,
+      383.98,
+      235.41
+    ],
+    "text": "43B. (1) A licnece issued under section 41shall be cancelled by the Director-General,where\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210.57,
+      243.43,
+      383.83,
+      278.25
+    ],
+    "text": "(a)it is found that the licence had beenobtained by providing false,misleading or inaccurate information;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210.57,
+      286.27,
+      384.0,
+      331.77
+    ],
+    "text": "(b)the licensee has been convicted of anoffence under this Act or the NationalAquaculture Development Authority ofSri Lanka Act, No. 53 of 1998 ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.29,
+      339.79,
+      383.98,
+      385.17
+    ],
+    "text": "(c)the licensee has been convicted for anoffence relating to any fishing oraquaculture activity under any writtenlaw;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210.57,
+      393.31,
+      383.97,
+      449.37
+    ],
+    "text": "(d)the licensee has contravened anyprovision of this Act or the NationalAquaculture development Authority ofSri Lanka Act, No. 53 of 1998 or anyregulation made under those Acts ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.29,
+      457.51,
+      383.91,
+      502.89
+    ],
+    "text": "(e)the licensee has acted in contraventionor in violation of any terms orconditions subject to which suchlicence was issued ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212.85,
+      510.91,
+      383.98,
+      545.73
+    ],
+    "text": "(f)the continuation of the aquacultureoperation would have an adverseimpact on the environment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      553.75,
+      384.03,
+      631.29
+    ],
+    "text": "(2) Where a licence issued is suspended orcancelled as the case may be under section 43Aor this section, it shall be the duty of theDirector-General to forthwith inform thelicensee of such suspension or cancellation, bya written communication sent under registeredpost to the address given by the licensee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      639.31,
+      384.02,
+      674.13
+    ],
+    "text": "43C. Where an application for the issue orrenewal of a licence under section 41 or section43, as the case may be, has been refused, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      201.98,
+      191.86,
+      222.25
+    ],
+    "text": "Cancellationof a licence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      641.78,
+      191.9,
+      662.05
+    ],
+    "text": "Reasons to becommunicated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "6Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      200.71,
+      452.25,
+      295.53
+    ],
+    "text": "reasons for such refusal shall be recorded bythe Licensing Officer to whom such applicationfor the issue or the renewal was made. It shall bethe duty of such Licensing Officer to informthe person making such application, by awritten communication sent under registeredpost to the address appearing in the application,of the reasons for such refusal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      305.59,
+      452.37,
+      412.53
+    ],
+    "text": "43D. (1) Any person aggrieved by a decisionrefusing the issue or renewal, as the case maybe, of a licnece or the suspension or cancellationof a licence issued, may, within thirty days ofthe date of receipt of the written communicationinforming such person, of the refusal or thesuspension or cancellation, as the case may be,appeal against such decision to the Secretaryto the Ministry of the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      422.59,
+      452.29,
+      482.73
+    ],
+    "text": "(2) The decision on any appeal submittedunder subsection (1) shall be made within sixtydays of the receipt of such appeal and the personmaking such appeal shall be informed of thedecision made on it, forthwith.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      492.79,
+      452.43,
+      564.69
+    ],
+    "text": "(3) Where the Secretary to the Ministry ofthe Minister considers it appropriate, he mayhold such inquiry as deem necessary in thecircumstances of the case, prior to arriving atany decision on any appeal made to him undersubsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      574.75,
+      452.14,
+      611.49
+    ],
+    "text": "(4) The decision of the Secretary to theMinistry of the Minister on any appeal madeunder this section, shall be final.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.11,
+      621.55,
+      452.39,
+      670.41
+    ],
+    "text": "43E. (1) Any person who is dissatisfied withthe actions of a Licensing Officer may forwarda complaint in writing to the Director-Generaland it shall be the duty of the Director-General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      213.19,
+      307.46,
+      243.2,
+      318.13
+    ],
+    "text": "Appeals.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      621.02,
+      251.09,
+      662.61
+    ],
+    "text": "ComplaintsagainstLicensingOfficer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169.77,
+      165.55,
+      384.89,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 20067",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.81,
+      201.91,
+      384.96,
+      253.05
+    ],
+    "text": "to take all such action as is appropriate toinquire into such complaint and recommend tothe Authority the steps that may be taken inregard to the same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.81,
+      264.91,
+      384.93,
+      353.85
+    ],
+    "text": "(2) Notwithstanding the provisions ofsubsection (1), the Director-General shall havethe power after inquiring into any complaintmade against a Licensing Officer and where itappears to be appropriate in the circumstances,to remove such Officer from the post ofLicensing Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.81,
+      365.71,
+      385.0,
+      429.45
+    ],
+    "text": "43F. It shall be the duty of the Director-General to credit monthly to the Fund of theAuthority, all sums collected as fees for the issueand renewal of any licences under section 41and section 43, as the case may be.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      441.31,
+      385.02,
+      479.85
+    ],
+    "text": "4.The heading appearing in Part VII immediatelypreceding section 44 of the principal enactment is herebyrepealed and the following heading substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      216.81,
+      493.15,
+      312.81,
+      506.49
+    ],
+    "text": "\u201cSETTLEMENT OF DISPUTES\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      518.35,
+      384.7,
+      556.89
+    ],
+    "text": "5.The following new section is hereby insertedimmediately after section 45 of the principal enactment andshall have effect as section 45A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.81,
+      568.75,
+      385.08,
+      670.29
+    ],
+    "text": "45A. (1) Where any dispute arises or isapprehended relating to an aquacultureoperation, such dispute shall be referred by theDirector-General for inquiry and settlement toan authorized officer nominated for thatpurpose. An authorized Officer may in theconduct of an inquiry be assisted by anyLicensing Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      366.62,
+      191.23,
+      406.09
+    ],
+    "text": "Crediting offees collectedto theAuthority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      443.06,
+      450.52,
+      492.13
+    ],
+    "text": "Replacement ofHeading of PartVII of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      519.5,
+      452.8,
+      558.97
+    ],
+    "text": "Insertion of newsection 45A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      570.98,
+      189.85,
+      591.25
+    ],
+    "text": "\u201cAquaculturedisputes.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "8Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      264.19,
+      201.55,
+      450.1,
+      250.41
+    ],
+    "text": "(2) The provisions of the section 44 andsection 45 shall mutatis mutandis, apply to andin respect of the conduct and settlement of adispute referred to in subsection (1).\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      260.47,
+      450.08,
+      297.21
+    ],
+    "text": "6.The following new section is hereby insertedimmediately after section 49 of the principal enactment andshall have effect as section 49A of that enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276.19,
+      307.27,
+      378.11,
+      320.61
+    ],
+    "text": "49A. Every person who\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276.91,
+      330.67,
+      450.15,
+      355.65
+    ],
+    "text": "(a)carries on any aquaculture operationwithout a valid licence;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276.91,
+      365.71,
+      450.22,
+      461.01
+    ],
+    "text": "(b)being a licensee discharges, dumps,deposits, releases or permits thedischarging, dumping, depositing orreleasing of any poisonous, noxious orharmful material or substance or wastewater to any inland waters or to anyland in such a manner as will affect theenvironmental quality of that land;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277.63,
+      471.07,
+      450.22,
+      507.81
+    ],
+    "text": "(c)being a licensee does any act whichwould have adverse effect on theenvironment;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      276.91,
+      517.87,
+      450.37,
+      589.65
+    ],
+    "text": "(d)carries on any aquaculture operationand refuses when lawfully required bya Licensing Officer to give informationor gives information which is false,incorrect or misleading in any materialrespect;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      277.63,
+      599.71,
+      450.36,
+      671.61
+    ],
+    "text": "(e)uses abusive or threatening languageor makes insulting gestures or behavesin a threatening manner towards aLicensing Officer who is carrying outhis duties or exercising his powersunder this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      263.06,
+      251.59,
+      346.57
+    ],
+    "text": "Insertion ofnew section49A in theprincipalenactment.\u201cOffencesrelating toaquacultureoperations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      169.77,
+      165.55,
+      384.89,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 20069",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213.81,
+      202.63,
+      384.72,
+      243.45
+    ],
+    "text": "(f)assaults or obstructs a Licensing Officerin the performance of his duties underthis Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      211.65,
+      257.47,
+      384.93,
+      311.97
+    ],
+    "text": "(g)fails, refuses or neglects to immediatelyand fully comply with every lawfulinstruction or direction given by aLicensing Officer ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      211.65,
+      325.99,
+      384.75,
+      353.01
+    ],
+    "text": "(h)impersonates or falsely representhimself to be a Licensing Officer; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213.81,
+      367.03,
+      384.94,
+      394.17
+    ],
+    "text": "(i)interferes in any way with a LicensingOfficer in the performance of his duties,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198.81,
+      408.19,
+      385.18,
+      517.41
+    ],
+    "text": "shall be guilty of an offence under this Act, andshall on conviction after a summary trial beforea Magistrate be liable to imprisonment of eitherdescription for a term not less than eighteenmonths and not exceeding thirty six months orto a fine not less than twenty five thousandrupees and not exceeding one hundred thousandrupees, or to both such fine and imprisonment.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      531.43,
+      384.7,
+      572.25
+    ],
+    "text": "7.The following new section is hereby insertedimmediately after section 57 of the principal enactment andshall have effect as section 57A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      198.81,
+      586.27,
+      384.97,
+      668.13
+    ],
+    "text": "57A. Notwithstanding anything to thecontrary in any other law, fifty per centum ofevery fine imposed by a court for thecommission of an offence under section 49 ofthis Act, shall be credited to the Fund of theAuthority.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      531.5,
+      452.8,
+      570.97
+    ],
+    "text": "Insertion of newsection 57A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      588.98,
+      191.82,
+      647.65
+    ],
+    "text": "\u201cFifty percentum offines imposedto be creditedto theAuthority.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "10Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      201.31,
+      452.11,
+      238.05
+    ],
+    "text": "8.The following new section is hereby insertedimmediately after section 58 of the principal enactment andshall have effect as section 58A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      266.11,
+      248.35,
+      452.32,
+      333.69
+    ],
+    "text": "58A. (1) A Licensing Officer in theperformance of his duties under this Act, shallbe required to declare his office and producesuch identification as may reasonably besufficient to prove that he has been appointedas a Licensing Officer for the purposes of thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      266.11,
+      344.35,
+      452.31,
+      441.69
+    ],
+    "text": "(2) The refusal by any person to complywith a request, demand or order made by aLicensing Officer shall not be an offence underthis Act, if such Officer fails to declare his officeor produce such identification as mayreasonably be sufficient to prove that he hasbeen appointed as a Licensing Officers underthis Act.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      452.35,
+      452.44,
+      489.69
+    ],
+    "text": "9.Section 61 of the principal enactment is herebyamended in subsection (1) of that section, by the repeal ofparagraph (q) of that subsection.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      512.35,
+      452.3,
+      537.69
+    ],
+    "text": "10.Section 66 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      272.11,
+      548.35,
+      452.3,
+      597.69
+    ],
+    "text": "(1) by the repeal of the definition of theexpression \u201caquaculture\u201d and thesubstitution therefor of the followingdefinition :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      299.11,
+      608.35,
+      452.22,
+      669.69
+    ],
+    "text": "\u201c \u201caquaculture\u201d means the cultivation,propagation or farming of fish orother living aquatic resources,and includes cultivation,propagation or farming from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      455.18,
+      196.92,
+      494.65
+    ],
+    "text": "Amendment ofsection 61 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      248.54,
+      259.17,
+      307.21
+    ],
+    "text": "\u201cLicensingOfficersrequired toproduceproof ofidentification.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      515.18,
+      196.92,
+      554.65
+    ],
+    "text": "Amendment ofsection 66 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      201.98,
+      196.1,
+      241.45
+    ],
+    "text": "Insertion of newsection 58A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      169.77,
+      165.55,
+      384.81,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 200611",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      255.81,
+      201.55,
+      384.91,
+      272.49
+    ],
+    "text": "eggs, spawn, spat or seed, or byrearing fish or aquatic plants oraquatic resources lawfully takenfrom the wild or lawfullyimported into the country or byother similar process;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.81,
+      282.19,
+      385.0,
+      307.05
+    ],
+    "text": "(2) by the repeal of the definition of theexpression \u201caquaculture enterprises\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.81,
+      316.63,
+      384.98,
+      364.53
+    ],
+    "text": "(3) by the insertion immediately after thedefinition of the expression \u201caquaticmedium\u201d, of the following newdefinition:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      240.81,
+      374.23,
+      384.94,
+      525.45
+    ],
+    "text": "\u201c \u201caquaculture operation\u201d means theconduct of aquaculture inany area, enclosure, pond,impoundment, premises orstructure set up or used forthe cultivation of aquaticplants or organismsincluding fish forcommercial purposes andincludes any bed or raft orother structure used for thecultivation of pearl oysterand other shellfish;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.81,
+      535.15,
+      384.98,
+      583.05
+    ],
+    "text": "(4) by the insertion immediately after thedefinition of the expression \u201caquaticresources\u201d, of the following newdefinition :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      243.81,
+      592.63,
+      384.95,
+      675.33
+    ],
+    "text": "\u201c \u201cAuthority\u201d means the NationalAquaculture DevelopmentAuthority of Sri Lankaestablished by the NationalAquaculture DevelopmentAuthority of Sri Lanka Act, No.53 of 1998;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      210.19,
+      165.55,
+      425.25,
+      190.78
+    ],
+    "text": "12Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 2006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      277.15,
+      201.55,
+      451.21,
+      238.89
+    ],
+    "text": "(5) by the repeal of the definition of theexpression \u201cfish\u201d and the substitutiontherefor of the following definition :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      310.15,
+      249.55,
+      451.25,
+      346.89
+    ],
+    "text": "\u201cfish\u201d means any water dwellingaquatic or marine animal, aliveor not, and includes their eggs,spawn, spat and juvenile stages,and any of their parts, andincludes all organismsbelonging to sedentaryspecies;\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      277.15,
+      357.55,
+      451.14,
+      394.89
+    ],
+    "text": "(6) by the insertion immediately after thedefinition of the expression \u201csale\u201d, ofthe following new definition :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      310.15,
+      405.55,
+      451.31,
+      526.89
+    ],
+    "text": "\u201c \u201csedentary species\u201d means anymarine or aquatic organismswhich, at the harvestablestate, are immobile on orunder the bed of the sea orwater, or unable to moveexcept in constant physicalcontact with subsoil or bedof the sea or water, as the casemay be;\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      537.55,
+      451.19,
+      562.89
+    ],
+    "text": "11.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      538.58,
+      198.38,
+      568.45
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      169.77,
+      165.55,
+      384.81,
+      190.78
+    ],
+    "text": "Fisheries and Aquatic Resources (Amendment)Act, No. 22 of 200613",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      641.18,
+      455.95,
+      671.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKSHOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

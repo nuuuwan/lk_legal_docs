@@ -1,0 +1,905 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      280.18,
+      432.51,
+      337.8
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.85,
+      394.62,
+      389.96,
+      430.81
+    ],
+    "text": "BANKING (AMENDMENT)ACT, No. 46 OF 2006",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      514.57,
+      373.16,
+      526.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.21,
+      477.16,
+      374.62,
+      491.01
+    ],
+    "text": "[Certified on 30th November, 2006]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.29,
+      635.18,
+      403.29,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.69,
+      671.49
+    ],
+    "text": "Price : Rs. 6.75Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      570.55,
+      441.82,
+      596.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of December 01, 2006",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.29,
+      165.55,
+      385.61,
+      178.89
+    ],
+    "text": "Banking (Amendment) Act, No. 46 of 20061",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146.85,
+      678.02,
+      260.14,
+      688.69
+    ],
+    "text": "2\u2014PL 001323\u2014375 (2006/06)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      389.85,
+      306.02,
+      425.87,
+      316.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.13,
+      201.07,
+      336.43,
+      214.41
+    ],
+    "text": "[Certified on 30th November, 2006]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      223.87,
+      216.63,
+      237.21
+    ],
+    "text": "L.D.\u2014O 47/2006.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.05,
+      246.67,
+      328.77,
+      260.01
+    ],
+    "text": "AN ACT TO AMEND THE BANKING ACT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      269.47,
+      383.92,
+      294.21
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      303.67,
+      383.98,
+      328.41
+    ],
+    "text": "1.This Act may be cited as the Banking (Amendment)Act, No. 46 of 2006.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      337.87,
+      383.82,
+      362.61
+    ],
+    "text": "2.Section 76M of the Banking Act, No. 30 of 1988 ishereby amended as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      372.07,
+      383.95,
+      408.21
+    ],
+    "text": "(1)in subsection (3) of that section by the substitutionfor sub-paragraph (i) of paragraph (b) thereof, of thefollowing :\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.29,
+      417.67,
+      383.92,
+      442.41
+    ],
+    "text": "\u201c(i)where the bank is incorporated or establishedwithin Sri Lanka by or under any written Law,\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.09,
+      451.87,
+      383.93,
+      510.81
+    ],
+    "text": "(A)proceedings for the compulsory windingup of the Bank shall commence and theprovisions of Part VIII shall, mutatismutandis apply to and in relation to,such winding up ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.09,
+      520.27,
+      384.01,
+      670.89
+    ],
+    "text": "(B)the Monetary Board may,notwithstanding the provisions of anyother written law to the contrary, in theinterest of the depositors and havingregard to the necessity of ensuring thestability of the financial sector, inrespect of any bank whose licence hasbeen cancelled at any time prior to thecoming into operation of this sub-paragraph, vest the business carried onby such Bank (hereinafter referred to as\u201cthe defaulting bank\u201d) being businesswhich such bank was authorized to carry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      389.85,
+      339.02,
+      452.02,
+      378.49
+    ],
+    "text": "Amendment ofsection 76M of theBanking Act, No.30 of 1988.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.19,
+      165.55,
+      415.57,
+      178.89
+    ],
+    "text": "Banking (Amendment) Act, No. 46 of 20062",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.15,
+      201.55,
+      451.31,
+      309.69
+    ],
+    "text": "on by or under this Act, or such partthereof as the Monetary Board maydetermine, in a State Bank (hereinafterreferred to as \u201cthe acquiring bank\u201d) asthe case may be, which consents to suchvesting. The Board shall cause suchvesting to be notified to both thedefaulting bank as well as the aquiringbank :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.15,
+      319.99,
+      451.29,
+      415.89
+    ],
+    "text": "Provided however, it shall be lawfulfor the Monetary Board, which hadwithin the said period of six monthscommenced proceedings for thewinding up of a defaulting bank, tosubsequently vest in the manneraforesaid, the business or part thereof,of such bank in a State Bank :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.15,
+      426.19,
+      451.22,
+      522.09
+    ],
+    "text": "Provided further, where the licenseof a licensed specialized bank has, atany time prior to the coming intooperation of this sub-paragraph, beencancelled in terms of section 30 (10) (b)(i) of the Monetary Law Act, theprovisions of this sub-paragraph shallmutatis mutandis apply thereto.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.15,
+      532.39,
+      451.18,
+      545.73
+    ],
+    "text": "For the purpose of sub-paragraph (B)\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.15,
+      555.91,
+      451.27,
+      675.45
+    ],
+    "text": "\u201cState Bank\u201d means any licensedcommercial bank or licensedspecialised bank within themeaning of the Banking Act, No.30 of 1988, having a share capitalof which the majority is ownedby the Government, or of whichthe majority of the members of theBoard of Directors is appointedby the Government. \u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      165.55,
+      385.61,
+      178.89
+    ],
+    "text": "Banking (Amendment) Act, No. 46 of 20063",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      201.43,
+      383.86,
+      225.45
+    ],
+    "text": "(2)by the insertion immediately after subsection (3) ofthat section of the following new subsections :\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      232.51,
+      383.82,
+      266.25
+    ],
+    "text": "\u201c(3A) For the purpose of subsection (3), the\u201cbusiness carried on by a defaulting bank\u201dincludes\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.57,
+      273.31,
+      383.99,
+      317.25
+    ],
+    "text": "(a)all immovable and movable property ownedby the defaulting bank on the day precedingthe relevant date (including cash balances,reserve funds, investments and deposits) ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.57,
+      324.31,
+      384.01,
+      378.45
+    ],
+    "text": "(b)all rights, powers, privileges, authorities andinterests arising in, or out of, any property,movable or immovable, owned by thedefaulting bank on the day preceding therelevant date ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.29,
+      385.51,
+      383.97,
+      419.25
+    ],
+    "text": "(c)all the liabilities of the defaulting banksubsisting on the day preceding the relevantdate ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.57,
+      426.31,
+      383.94,
+      460.05
+    ],
+    "text": "(d)all books, accounts and documents relatingor appertaining, to such undertaking in SriLanka.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      467.11,
+      383.96,
+      511.05
+    ],
+    "text": "(3B) With effect from the date on which thebusiness carried on by the defaulting bank is vestedin the acquiring bank in terms of sub-paragraph (i)of paragraph (b) of subsection (3) of section 76M-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.57,
+      518.11,
+      384.01,
+      675.45
+    ],
+    "text": "(a)all contracts, deeds, bonds, agreements,powers of attorney, grants of legalrepresentation and other instruments ofwhatever nature pertaining or relating to thevested business of the defaulting bank,subsisting or having effect on the dayimmediately preceding the relevant date, towhich the defaulting bank is a party or whichare in favour of the defaulting bank, shall bedeemed with effect from the relevant date tobe contracts, deeds, bonds, agreements,powers of attorney, grants of legalrepresentation or other instruments enteredinto or granted, as the case may be, by theacquiring bank ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.19,
+      165.55,
+      415.57,
+      178.89
+    ],
+    "text": "Banking (Amendment) Act, No. 46 of 20064",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249.91,
+      201.55,
+      450.31,
+      297.09
+    ],
+    "text": "(b)all actions and proceeding of whatever natureinstituted by or against the defaulting bankpertaining or relating to the vested businessof the defaulting bank, and pending on theday immediately preceding the relevant date,shall be deemed with effect from the relevantdate to be actions and proceedings institutedby or against the acquiring bank, and may becontinued or prosecuted accordingly.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      246.19,
+      304.15,
+      450.39,
+      439.89
+    ],
+    "text": "(3C) (a) Notwithstanding anything to the contraryin this Act or any other written law, the liability ofthe acquiring bank to meet the claims and demandsof creditors and depositors on liabilities of thedefaulting bank vested in it shall be in accordancewith the terms and conditions of a Scheme whichshall be formulated by the Monetary Board uponreview of the business of the defaulting bank, andonly to the extent set out in such Scheme. On theScheme being formulated, the Monetary Board shallcause the Scheme to be published in a dailynewspaper in the Sinhala, Tamil and Englishlanguages respectively :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      246.19,
+      446.95,
+      450.23,
+      521.49
+    ],
+    "text": "Provided, however, it shall be lawful for theMonetary Board to alter, vary or modify suchScheme from time to time with the written consentof the acquiring bank. Any such alteration, variationor modification as the case may be, shall bepublished in a daily newspaper in the Sinhala, Tamiland English languages respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      258.19,
+      528.55,
+      450.09,
+      541.89
+    ],
+    "text": "(b) The Scheme referred to in paragraph (a) may-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      252.19,
+      548.95,
+      450.32,
+      592.89
+    ],
+    "text": "(i)specify the manner of settling the liabilitiesof the defaulting bank by the acquiring bank,including the amounts payable and the timesat which payments are to be made ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249.19,
+      599.95,
+      450.25,
+      633.69
+    ],
+    "text": "(ii)provide for an order of priority for settlementof the different classes of liabilities of thedefaulting bank vested in the acquiring bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      246.19,
+      640.75,
+      450.27,
+      675.45
+    ],
+    "text": "(iii)limit the extent of payments to any class orcategory of depositors or creditors of thedefaulting bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.29,
+      165.55,
+      385.61,
+      178.89
+    ],
+    "text": "Banking (Amendment) Act, No. 46 of 20065",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.61,
+      201.43,
+      383.17,
+      225.09
+    ],
+    "text": "(iv)provide for the re-scheduling of the depositliabilities ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.61,
+      231.19,
+      382.98,
+      273.57
+    ],
+    "text": "(v)specify that the settlement of liabilities shallbe limited to the amount of the assets of thedefaulting bank or such other assets as maybe specified by the Monetary Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      279.67,
+      383.06,
+      351.21
+    ],
+    "text": "(3D) Notwithstanding anything to the contraryin this Act or any other written law, the settlementof liabilities in accordance with the terms andconditions of a Scheme formulated by the MonetaryBoard in terms of subsection (3C) hereof, shallextinguish the liabilities of the defaulting bankvested in the acquiring bank as herein provided.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      357.31,
+      383.01,
+      438.45
+    ],
+    "text": "(3E) The Monetary Board shall, in making anOrder under sub-paragraph (i) (B) of paragraph (b)of subsection (3), take into consideration thecapacity of such acquiring bank to discharge theobligations imposed on it in terms of the Schemeformulated by the Monetary Board and require theacquiring bank to communicate in writing itswillingness to comply with such Scheme.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      444.55,
+      382.99,
+      554.85
+    ],
+    "text": "(3F) The Minister may, where it is necessary to doso in the interest of the national economy, by Orderpublished in the Gazette, determine that any depositliabilities of a defaulting bank or any part of suchliabilities, to any government institution, ProvincialCouncil or other body or authority functioning underthe Provincial Council, a public corporation or otherpublic institution or local authority, which have interms of the aforesaid provisions vested in anacquiring bank, shall be liabilities to theGovernment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      560.95,
+      383.05,
+      613.05
+    ],
+    "text": "(3G) For the purposes of subsections (3A) and(3B) \u201crelevant date\u201d means the date on which thedefaulting bank is vested in the acquiring bank interms of sub-paragraph (i) (B) of paragraph (b) ofsubsection (3)\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.89,
+      619.15,
+      437.79,
+      660.97
+    ],
+    "text": "3.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      631.58,
+      451.14,
+      671.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
