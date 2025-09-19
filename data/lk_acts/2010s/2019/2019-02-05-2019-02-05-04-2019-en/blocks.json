@@ -1,0 +1,830 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      164.2,
+      279.04,
+      440.04,
+      332.05
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.52,
+      369.74,
+      455.03,
+      400.08
+    ],
+    "text": "DEBT CONCILIATION (AMENDMENT) ACT, No. 4 OF 2019",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.78,
+      593.61,
+      399.22,
+      602.68
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      189.53,
+      603.21,
+      410.47,
+      612.28
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.0,
+      662.41,
+      329.99,
+      671.48
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.22,
+      445.87,
+      378.98,
+      457.21
+    ],
+    "text": "[Certi\ufb01 ed on 05th of February, 2019]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.42,
+      478.76,
+      374.79,
+      492.37
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.54,
+      545.07,
+      444.97,
+      568.41
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of February 08 , 2019",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.7,
+      418.97,
+      340.7,
+      430.31
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.8,
+      344.4,
+      340.8,
+      355.74
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.8,
+      508.4,
+      340.8,
+      519.74
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.0,
+      618.21,
+      455.0,
+      629.55
+    ],
+    "text": "Price : Rs. 8.00 Postage : Rs. 15.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.71,
+      167.37,
+      383.32,
+      178.71
+    ],
+    "text": "1 Debt Conciliation (Amendment) Act, No. 4 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.42,
+      204.72,
+      334.29,
+      216.06
+    ],
+    "text": "[Certi\ufb01 ed on 05th of February, 2019]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.3,
+      228.72,
+      215.13,
+      240.06
+    ],
+    "text": "L.D.\u2014O. 72/2017",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.58,
+      251.72,
+      367.62,
+      277.06
+    ],
+    "text": "AN ACT TO AMEND THE DEBT CONCILIATION ORDINANCE (CHAPTER 81)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.3,
+      289.72,
+      382.95,
+      315.06
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.3,
+      329.72,
+      382.93,
+      355.06
+    ],
+    "text": "1. This Act may be cited as the Debt Conciliation (Amendment) Act, No. 4 of 2019.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.3,
+      370.72,
+      382.93,
+      410.06
+    ],
+    "text": "2. Section 2 of the Debt Conciliation Ordinance (Chapter 81) (hereinafter referred to as the \u201cprincipal enactment\u201d) is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.3,
+      424.72,
+      382.92,
+      522.06
+    ],
+    "text": "(1) in subsection (1) of that section by the substitution, for all the words commencing from \u201cshall consist of \ufb01 ve members\u2019\u2019, to \u201cto be Chairman of the Board.\u2019\u2019of the following:- \u201cshall consist of eleven members appointed by the Minister.\u2019\u2019;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.3,
+      533.72,
+      382.93,
+      573.06
+    ],
+    "text": "(2) by the repeal of subsection (2) of that section and the substitution therefor of the following new subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.3,
+      585.72,
+      380.42,
+      597.06
+    ],
+    "text": "\u201c(2) The Board shall consist of the following:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.3,
+      609.72,
+      382.91,
+      621.06
+    ],
+    "text": "(a) seven members consisting of persons-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.3,
+      633.72,
+      382.91,
+      673.06
+    ],
+    "text": "(i) who hold or have held a post as a Judge of the High Court or as a District Judge; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392.4,
+      331.6,
+      426.18,
+      340.68
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392.4,
+      372.26,
+      443.39,
+      400.53
+    ],
+    "text": "Amendment of section 2 of (Chapter 81).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.2,
+      167.37,
+      439.01,
+      178.71
+    ],
+    "text": "2 Debt Conciliation (Amendment) Act, No. 4 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      246.2,
+      203.82,
+      458.71,
+      237.56
+    ],
+    "text": "(ii) who have not less than \ufb01 fteen years professional experience as an attorney-at-law; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.2,
+      249.62,
+      458.71,
+      307.76
+    ],
+    "text": "(b) four members consisting of persons- (i) who have not less than ten years\u2019 professional experience as an attorney-at-law;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.2,
+      324.82,
+      458.72,
+      564.76
+    ],
+    "text": "(ii) who hold or have held a post of Class I of\ufb01 cer in the Sri Lanka Administrative Service or in an All Island Service; or (iii) who have experience in the \ufb01 elds of trade and commerce.\u201d; (3) by the repeal of subsection (3) of that section and the substitution therefor of the following new subsection:- \u201c(3) The Minister shall appoint a member appointed under paragraph (a) of subsection (2) to be the Chairman of the Board.\u201d. 3. Section 7 of the principal enactment is hereby amended by the substitution, for the words \u201cThe Board may from time to time\u201d, of the words \u201c The Minister may from time to time\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217.2,
+      569.62,
+      458.73,
+      603.36
+    ],
+    "text": "4. Section 8 of the principal enactment is hereby repealed and the following section substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.2,
+      616.42,
+      458.72,
+      672.56
+    ],
+    "text": "8. (1) Every branch board shall consist of a chairman and such number of other members appointed by the Minister, not exceeding four and not less than two, as the Minister may determine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      583.26,
+      269.76,
+      636.93
+    ],
+    "text": "Amendment of section 8 of the principal. enactment. \u201cConstitution of branch boards.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      519.91,
+      196.1,
+      557.79
+    ],
+    "text": "Amendment of section 7 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.71,
+      167.37,
+      383.32,
+      178.71
+    ],
+    "text": "3 Debt Conciliation (Amendment) Act, No. 4 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194.5,
+      204.28,
+      383.02,
+      229.62
+    ],
+    "text": "(2) The Chairman of each branch board shall be a member of the Board and be -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      250.28,
+      383.01,
+      289.62
+    ],
+    "text": "(a) a person who holds or has held a post as a Judge of the High Court or as a District Judge; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      312.28,
+      383.01,
+      351.62
+    ],
+    "text": "(b) a person who has not less than \ufb01 fteen years\u2019 professional experience as an attorney-at-law.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194.5,
+      372.28,
+      383.01,
+      397.62
+    ],
+    "text": "(3) Other members of each branch board shall consist of persons-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      419.28,
+      383.01,
+      458.62
+    ],
+    "text": "(a) who have not less than ten years\u2019 professional experience as an attorney-at-law; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      480.28,
+      383.02,
+      533.62
+    ],
+    "text": "(b) who hold or have held a post of Class I of\ufb01 cer in the Sri Lanka Administrative Service or in an All Island Service.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194.5,
+      555.28,
+      383.02,
+      580.62
+    ],
+    "text": "(4) Any member of the branch board may at any time-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      602.28,
+      383.01,
+      627.62
+    ],
+    "text": "(a) resign from his of\ufb01 ce on the branch board;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      227.5,
+      649.28,
+      383.01,
+      674.62
+    ],
+    "text": "(b) be removed from of\ufb01 ce by the Minister for reasons assigned.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.2,
+      167.37,
+      439.01,
+      178.71
+    ],
+    "text": "4 Debt Conciliation (Amendment) Act, No. 4 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      269.8,
+      203.82,
+      458.32,
+      254.16
+    ],
+    "text": "(5) Any person ceasing to be a member of a branch board other than a person who has been removed from of\ufb01 ce shall be eligible for reappointment thereto.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.8,
+      274.82,
+      458.33,
+      299.16
+    ],
+    "text": "5. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      275.37,
+      193.21,
+      313.24
+    ],
+    "text": "Sinhala text to prevail in case of any inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.71,
+      167.37,
+      383.32,
+      178.71
+    ],
+    "text": "5 Debt Conciliation (Amendment) Act, No. 4 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.52,
+      646.82,
+      448.06,
+      665.5
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, Department of Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

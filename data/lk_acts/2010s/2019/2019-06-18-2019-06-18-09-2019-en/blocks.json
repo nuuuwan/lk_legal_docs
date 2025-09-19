@@ -1,0 +1,4011 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      164.2,
+      279.04,
+      440.04,
+      332.05
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      165.62,
+      378.74,
+      439.01,
+      409.08
+    ],
+    "text": "INSTITUTE OF VALUERS OF SRI LANKA (AMENDMENT) ACT, No. 9 OF 2019",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.78,
+      593.61,
+      399.22,
+      602.68
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      189.53,
+      603.21,
+      410.47,
+      612.28
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.0,
+      662.41,
+      329.99,
+      671.48
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.21,
+      445.87,
+      368.98,
+      457.21
+    ],
+    "text": "[Certi\ufb01 ed on 18th of June, 2019]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.42,
+      478.76,
+      374.79,
+      492.37
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.54,
+      545.07,
+      444.97,
+      568.41
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of June 21, 2019",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.7,
+      416.97,
+      340.7,
+      428.31
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.8,
+      353.4,
+      340.8,
+      364.74
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.8,
+      508.4,
+      340.8,
+      519.74
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.0,
+      618.21,
+      455.0,
+      629.55
+    ],
+    "text": "Price : Rs. 20.00 Postage : Rs. 30.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.8,
+      167.37,
+      392.32,
+      191.71
+    ],
+    "text": "1 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.7,
+      205.47,
+      330.8,
+      216.81
+    ],
+    "text": "[Certi\ufb01 ed on 18th of June, 2019]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.3,
+      233.47,
+      382.77,
+      284.81
+    ],
+    "text": "L.D.\u2014O. 50/2009 AN ACT TO AMEND THE INSTITUTE OF VALUERS OF SRI LANKA LAW, NO. 33 OF 1975",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.3,
+      301.47,
+      393.74,
+      325.81
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.3,
+      342.47,
+      393.74,
+      433.81
+    ],
+    "text": "1. This Act may be cited as the Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019. 2. The Long Title to the Institute of Valuers of Sri Lanka Law, No. 33 of 1975 (hereinafter referred to as \u201cthe principal enactment\u201d) is hereby repealed and the following Long Title substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.3,
+      449.47,
+      393.7,
+      460.81
+    ],
+    "text": "\u201cA LAW TO PROVIDE FOR THE ESTABLISHMENT OF AN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      462.47,
+      393.7,
+      486.81
+    ],
+    "text": "INSTITUTE KNOWN AS THE INSTITUTE OF VALUERS OF SRI LANKA AND A COUNCIL OF THE INSTITUTE WHICH SHALL BE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      488.47,
+      393.7,
+      499.81
+    ],
+    "text": "RESPONSIBLE FOR THE MANAGEMENT OF THE AFFAIRS OF THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      501.47,
+      393.7,
+      512.81
+    ],
+    "text": "INSTITUTE AND FOR THE MAINTENANCE OF PROFESSIONAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      514.47,
+      393.7,
+      525.81
+    ],
+    "text": "STANDARDS AND DISCIPLINE OF MEMBERS OF THE INSTITUTE;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      527.47,
+      393.7,
+      538.81
+    ],
+    "text": "AND FOR THE PROTECTION AND PROMOTION OF THE INTERESTS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      540.47,
+      393.7,
+      551.81
+    ],
+    "text": "OF THE PUBLIC IN RELATION TO THE PROFESSION OF VALUERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.3,
+      553.47,
+      393.7,
+      564.81
+    ],
+    "text": "AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.3,
+      566.47,
+      393.74,
+      674.11
+    ],
+    "text": "THERETO.\u201d. 3. Section 2 of the principal enactment is hereby amended by the repeal of subsection (2) thereof and the substitution therefor of the following subsection:- \u201c(2) The members of the Institute shall consist of Corporate and Non-Corporate members.\u2019\u2019.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.2,
+      344.8,
+      436.98,
+      353.88
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.2,
+      385.26,
+      450.19,
+      432.73
+    ],
+    "text": "Amendment of the Long Title of Law, No. 33 of 1975.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.1,
+      596.43,
+      452.09,
+      634.31
+    ],
+    "text": "Amendment of section 2 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.2,
+      167.37,
+      427.7,
+      190.71
+    ],
+    "text": "2 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.98,
+      203.82,
+      458.52,
+      254.16
+    ],
+    "text": "4. The following new section is hereby inserted immediately after section 2 of the principal enactment and shall have effect as section 2A in the principal enactment:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.98,
+      268.82,
+      458.5,
+      306.16
+    ],
+    "text": "2A. The grading of members of the Institute shall be as speci\ufb01 ed in Schedule A to this Act.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.98,
+      320.82,
+      458.51,
+      358.16
+    ],
+    "text": "5. Section 5 of the principal enactment is hereby amended by the insertion immediately after paragraph (k) thereof, of the following new paragraphs:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.98,
+      372.82,
+      458.51,
+      410.16
+    ],
+    "text": "\u201c(kk) to determine, from time to time, the valuation standards, as the Corporation may deem appropriate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.98,
+      424.82,
+      458.5,
+      475.16
+    ],
+    "text": "(kkk) to determine a scheme of assessment of professional competence or any other requirement for continuous professional development;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.98,
+      489.82,
+      458.51,
+      514.16
+    ],
+    "text": "6. Section 7 of the principal enactment is hereby repealed and the following section substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.98,
+      528.82,
+      458.5,
+      605.16
+    ],
+    "text": "7. (1) Any person who satis\ufb01 es the quali\ufb01 cations and experience speci\ufb01 ed in Schedule B to this Act may apply for the membership of the Institute in such form and manner as provided in Schedule C to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.98,
+      619.82,
+      458.5,
+      670.16
+    ],
+    "text": "(2) Any person who has duly applied under subsection (1) may be enrolled as a member of the Institute on the payment of the prescribed entrance fee and membership fee.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.58,
+      270.51,
+      256.01,
+      289.19
+    ],
+    "text": "\u201cGrading of members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      204.71,
+      183.99,
+      252.19
+    ],
+    "text": "Insertion of new section 2A in the principal enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      322.31,
+      185.55,
+      369.79
+    ],
+    "text": "Amendment of section 5 of the principal. enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      491.91,
+      258.38,
+      576.39
+    ],
+    "text": "Amendment of section 7 ofthe principalenactment.\u201cApplication for membership of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.8,
+      167.37,
+      392.32,
+      191.71
+    ],
+    "text": "3 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.28,
+      203.28,
+      393.75,
+      253.62
+    ],
+    "text": "7. The following new sections are hereby inserted immediately after section 7 of the principal enactment and shall have effect as sections 7A, 7B, 7C and 7D in the principal enactment:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      268.28,
+      393.72,
+      318.62
+    ],
+    "text": "7A. (1) The period of membership of the Institute shall be one year ending on the thirty \ufb01 rst day of December and subject to the provisions of section 22, be renewable annually.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      333.28,
+      393.72,
+      370.62
+    ],
+    "text": "(2) Any member who intends to renew the membership shall apply for renewal not less than thirty days before the expiry of the membership.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      385.28,
+      393.72,
+      409.62
+    ],
+    "text": "(3) The membership may be renewed on the payment of the prescribed renewal fee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      424.28,
+      393.73,
+      474.62
+    ],
+    "text": "7B. The Minister may by regulations prescribe the application fee, entrance fee, membership fee and renewal fee payable in respect of any type of membership.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      489.28,
+      393.72,
+      526.62
+    ],
+    "text": "7C. (1) (a) There shall be a register each for the persons enrolled as corporate members and for the persons enrolled as non-corporate members.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      541.28,
+      393.73,
+      617.62
+    ],
+    "text": "(b) Each register shall be divided into separate parts and each part shall be in respect of a different grade in the class of members to which the register relates and shall contain the names, addresses and quali\ufb01 cations of persons enrolled in that grade.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.28,
+      632.28,
+      393.73,
+      669.62
+    ],
+    "text": "(2) The registers shall be maintained by the Honorary General Secretary of the Council for and on behalf of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403.2,
+      204.87,
+      447.3,
+      261.94
+    ],
+    "text": "Insertion of new sections 7A, 7B, 7C and 7D in the principal enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.5,
+      270.11,
+      181.05,
+      307.99
+    ],
+    "text": "\u201cPeriod of membership and renewal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.1,
+      425.69,
+      179.88,
+      444.36
+    ],
+    "text": "Application fee etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.3,
+      491.61,
+      172.08,
+      500.69
+    ],
+    "text": "Registers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.2,
+      167.37,
+      427.7,
+      190.71
+    ],
+    "text": "4 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      269.98,
+      203.82,
+      458.5,
+      287.16
+    ],
+    "text": "7D. Any member of the Institute who fails to satisfy the Council of his continuous professional development in accordance with any scheme or requirement determined under paragraph (kkk) of section 5, shall cease to be a member from such date as may be decided by the Council.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.98,
+      296.82,
+      458.51,
+      320.16
+    ],
+    "text": "8. Section 8 of the principal enactment is hereby amended in subsection (2) thereof as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      329.82,
+      458.49,
+      353.16
+    ],
+    "text": "(1) by the repeal of paragraph (b) thereof and the substitution therefor of the following paragraph:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221.98,
+      362.82,
+      458.5,
+      422.16
+    ],
+    "text": "\u201c(b) \ufb01 ve members elected from the grade of Fellow, four members elected from the grade of Professional Associate and one member elected from the grade of Licentiate;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      431.82,
+      458.49,
+      455.16
+    ],
+    "text": "(2) by the repeal of paragraph (f) thereof and the substitution therefor of the following paragraph:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      464.82,
+      458.49,
+      488.16
+    ],
+    "text": "\u201c(f) the person who last held the post of President.\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      497.82,
+      422.79,
+      509.16
+    ],
+    "text": "(3) by the repeal of the proviso to that section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.98,
+      519.82,
+      458.5,
+      543.16
+    ],
+    "text": "9. Section 9 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      552.82,
+      352.79,
+      564.16
+    ],
+    "text": "(1) in subsection (2) thereof-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      573.82,
+      458.49,
+      597.16
+    ],
+    "text": "(a) in paragraph (e) by the substitution for the word \u201cMinister.\u201d of the words \u201cMinister; or\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.98,
+      606.82,
+      458.51,
+      630.16
+    ],
+    "text": "(b) by the insertion immediately after paragraph (e), of the following new paragraph:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      222.98,
+      639.82,
+      458.49,
+      675.16
+    ],
+    "text": "\u201c(f) upon ceasing to be a member of a particular grade from which he is elected;\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.01,
+      206.1,
+      260.57,
+      234.37
+    ],
+    "text": "Cessation of membership.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      298.62,
+      185.55,
+      346.1
+    ],
+    "text": "Amendment of section 8 ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      521.62,
+      185.55,
+      569.1
+    ],
+    "text": "Amendment of section 9 ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172.8,
+      167.37,
+      392.32,
+      191.71
+    ],
+    "text": "5 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      205.17,
+      393.73,
+      228.51
+    ],
+    "text": "(c) by the insertion immediately after subsection (2) of the following:\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205.2,
+      241.17,
+      393.73,
+      348.51
+    ],
+    "text": "\u201c(3) Notwithstanding anything to the contrary in any other provisions of this Law, where an elected member of the Council vacates of\ufb01 ce earlier by death, resignation or otherwise, the Council may at a meeting held in that behalf appoint, a corporate member to \ufb01 ll such vacancy, taking into consideration the provisions of section 8(2) (a) and (b) and section 11.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      361.17,
+      393.71,
+      384.51
+    ],
+    "text": "(2) by the renumbering of subsections (3) and (4) as subsections (4) and (5) thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.2,
+      397.17,
+      393.72,
+      420.51
+    ],
+    "text": "10. Section 11 of the principal enactment is hereby amended in subsection (1) thereof as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      433.17,
+      393.71,
+      456.51
+    ],
+    "text": "(1) by the repeal of paragraphs (b) and (c) thereof and the substitution therefor of the following:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.2,
+      471.17,
+      393.72,
+      518.51
+    ],
+    "text": "\u201c(b) Honorary General Secretary, Honorary General Treasurer or Honorary Assistant General Secretary unless he is enrolled in a grade not below that of a Professional Associate;\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      533.17,
+      393.7,
+      556.51
+    ],
+    "text": "(2) by the re-lettering of paragraph (d) as paragraph (c) thereof.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.2,
+      571.17,
+      393.73,
+      594.51
+    ],
+    "text": "11. Section 17 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      609.17,
+      393.7,
+      632.51
+    ],
+    "text": "(1) by the repeal of paragraphs (b), (c), (d), (e) and (f) thereof; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.2,
+      647.17,
+      393.7,
+      670.51
+    ],
+    "text": "(2) by the re-lettering of paragraphs (g) to (r) as paragraphs (b) to (m).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      403.2,
+      398.6,
+      453.2,
+      436.48
+    ],
+    "text": "Amendment of section 11 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      403.8,
+      573.22,
+      445.35,
+      620.7
+    ],
+    "text": "Amendment of section 17 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.2,
+      167.37,
+      427.7,
+      190.71
+    ],
+    "text": "6 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.98,
+      204.82,
+      458.51,
+      240.16
+    ],
+    "text": "12. Section 18 of the principal enactment is hereby amended by the repeal of subsection (2) thereof and the substitution therefor of the following subsection:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      251.98,
+      252.82,
+      458.49,
+      300.16
+    ],
+    "text": "\u201c(2) The quorum for a session of the Institute shall be two-\ufb01 fths or two hundred, whichever is less, of the Corporate Members of the Institute eligible to vote at such session.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      216.98,
+      312.82,
+      458.51,
+      336.16
+    ],
+    "text": "13. Section 19 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.98,
+      348.82,
+      458.5,
+      372.16
+    ],
+    "text": "(1) by the repeal of subsection (4) thereof and the substitution therefor of the following:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      257.98,
+      384.82,
+      458.49,
+      432.16
+    ],
+    "text": "\u201c(4) The quorum for any conference of the Institute shall be one hundred and \ufb01 fty or one-fourth of the Corporate Members of the Institute whichever is less.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.98,
+      440.82,
+      458.51,
+      464.16
+    ],
+    "text": "(2) by the insertion immediately after subsection (4) thereof, of the following subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      257.98,
+      472.82,
+      458.48,
+      496.16
+    ],
+    "text": "\u201c(5) The types of business of the conference shall include inter alia \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      504.82,
+      420.12,
+      516.16
+    ],
+    "text": "(a) the reading of the mid-term report;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      524.82,
+      425.13,
+      536.16
+    ],
+    "text": "(b) the adoption of the mid-term report;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      544.82,
+      451.24,
+      556.16
+    ],
+    "text": "(c) tabling of mid-term statement of accounts;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      564.82,
+      458.5,
+      588.16
+    ],
+    "text": "(d) the adoption of mid-term statement of accounts;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      596.82,
+      455.42,
+      608.16
+    ],
+    "text": "(e) the proposals of resolutions by the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      616.82,
+      450.42,
+      628.16
+    ],
+    "text": "(f) the adoption of resolutions of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.98,
+      636.82,
+      458.51,
+      672.16
+    ],
+    "text": "(g) the considerations of any technical matter related to the practice of valuation as decided by the Council.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.0,
+      206.93,
+      185.55,
+      254.41
+    ],
+    "text": "Amendment of section 18 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.0,
+      314.13,
+      185.55,
+      361.61
+    ],
+    "text": "Amendment of section 19 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.8,
+      167.37,
+      392.32,
+      191.71
+    ],
+    "text": "7 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.3,
+      203.37,
+      393.73,
+      238.71
+    ],
+    "text": "14. Section 20 of the principal enactment is hereby amended by the repeal of subsection (1) thereof and the substitution therefor of the following :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.3,
+      251.37,
+      393.73,
+      334.71
+    ],
+    "text": "\u201c(1) The President of the Council may on his own motion or shall, on a requisition in writing made in that behalf by not less than \ufb01 ve members of the Council or by not less than \ufb01 fty Corporate Members of the Institute who are eligible to vote, cause a special general meeting of the Corporate Members to be summoned.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.3,
+      347.37,
+      393.73,
+      382.71
+    ],
+    "text": "15. Section 21 of the principal enactment is hereby amended by the repeal of subsection (4) thereof and the substitution therefor of the following:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.3,
+      395.37,
+      393.72,
+      430.71
+    ],
+    "text": "\u201c(4) The Council may invite such other persons as it may deem necessary to attend any ordinary meeting of the Institute.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.3,
+      443.37,
+      393.73,
+      466.71
+    ],
+    "text": "16. Section 22 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.3,
+      479.37,
+      393.72,
+      502.71
+    ],
+    "text": "(1) by the repeal of subsection (4) thereof and the substitution therefor of the following subsections:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.3,
+      515.37,
+      393.73,
+      550.71
+    ],
+    "text": "\u201c(4) The Council shall not accept any resignation tendered by a member who is subject to an inquiry under subsection (1)(c) of this section.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.3,
+      563.37,
+      393.7,
+      598.71
+    ],
+    "text": "(5) For the purposes of this Law, professional misconduct shall be any act or omission speci\ufb01 ed in Schedule D to this Act.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.3,
+      611.37,
+      393.74,
+      634.71
+    ],
+    "text": "(2) by the repeal of marginal note to that section and the substitution therefor of the following marginal note:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      187.3,
+      649.19,
+      321.07,
+      670.26
+    ],
+    "text": "\u201cDisenrollment or suspension of members by the Council.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.28,
+      204.73,
+      444.83,
+      252.21
+    ],
+    "text": "Amendment of section20 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.2,
+      349.93,
+      444.75,
+      397.41
+    ],
+    "text": "Amendment of section21 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.8,
+      444.93,
+      448.13,
+      492.41
+    ],
+    "text": "Amendment of section 22 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.2,
+      167.37,
+      427.7,
+      190.71
+    ],
+    "text": "8 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      217.0,
+      203.82,
+      458.53,
+      227.16
+    ],
+    "text": "17. Section 23 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.0,
+      240.82,
+      458.52,
+      264.16
+    ],
+    "text": "(1) by the repeal of subsection (1) thereof and the substitution therefor of the following subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      262.0,
+      277.82,
+      458.52,
+      313.16
+    ],
+    "text": "\u201c(1) Every member of the Institute who is enrolled as a Fellow Member of the Institute shall-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.0,
+      327.82,
+      458.52,
+      363.16
+    ],
+    "text": "(a) have the right to use the abbreviated designation \u201cF.I.V.\u201d after his name to indicate that he is a Fellow Member;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.0,
+      376.82,
+      458.53,
+      400.16
+    ],
+    "text": "(b) be entitled to use the title \u201cChartered Valuer.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.0,
+      414.82,
+      458.52,
+      438.16
+    ],
+    "text": "(2) by the repeal of subsection (2) thereof and the substitution therefor, of the following subsection :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      261.0,
+      452.82,
+      458.52,
+      512.16
+    ],
+    "text": "\u201c(2) Every member of the Institute who is enrolled as a Professional Associate of the Institute, shall have the right to use the abbreviated designation \u201cA.I.V\u201d after his name, to indicate that he is a Professional Associate.\u2019\u2019;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.0,
+      525.82,
+      406.96,
+      537.16
+    ],
+    "text": "(3) by the repeal of subsection (3) thereof;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.0,
+      550.82,
+      458.52,
+      574.16
+    ],
+    "text": "(4) by the renumbering of subsections (4) and (5) as subsections (3) and (4) of that section respectively;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.0,
+      587.82,
+      458.53,
+      611.16
+    ],
+    "text": "(5) by the insertion immediately after renumbered subsection (4), of the following new subsection :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      261.0,
+      625.82,
+      458.52,
+      673.16
+    ],
+    "text": "\u201c(5) Every member registered under subsections (1) and (2) shall be entitled to use the pre\ufb01 x \u201cValuer\u201d before his name and use the abbreviation \u201cVlr\u201d therefor.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.0,
+      205.25,
+      187.33,
+      252.72
+    ],
+    "text": "Amendment of section 23 of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.8,
+      167.37,
+      392.32,
+      191.71
+    ],
+    "text": "9 Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.3,
+      203.37,
+      393.73,
+      266.71
+    ],
+    "text": "18. Section 24 of the principal enactment is hereby amended in paragraph (b) of subsection (1) of that section by the substitution for the words and \ufb01 gures \u201csubsection (5) of section 23\u201d of the words and \ufb01 gures \u201csubsection (4) of section 23\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.3,
+      281.37,
+      393.76,
+      318.71
+    ],
+    "text": "19. The following new section is hereby inserted immediately after section 25 of the principal enactment and shall have effect as section 25A of the principal enactment :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193.3,
+      333.37,
+      393.74,
+      396.71
+    ],
+    "text": "25A. Any Corporate Member of the Institute may carry out any valuation of a movable property and intangible assets, provided he possesses such expertise as may be determined by the Council, to carry out such valuation.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.3,
+      411.37,
+      393.75,
+      448.71
+    ],
+    "text": "20. The following new section is hereby inserted immediately after section 31 of the principal enactment and shall have effect as section 32 thereof:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193.3,
+      463.37,
+      393.72,
+      487.71
+    ],
+    "text": "32. In this Act unless the context otherwise requires-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212.3,
+      502.37,
+      393.72,
+      526.71
+    ],
+    "text": "\u201c\u201cMinister\u201d means the Minister to whom the subject of Finance is assigned;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212.3,
+      541.37,
+      300.07,
+      552.71
+    ],
+    "text": "\u201csoliciting\u201d includes-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163.3,
+      567.37,
+      393.72,
+      617.71
+    ],
+    "text": "(a) engaging in any manner, for any commission, payment or consideration, the services of any person to solicit clientele; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      163.3,
+      632.37,
+      393.72,
+      669.71
+    ],
+    "text": "(b) advertising in any manner for the purpose of unfairly attracting clientele for him.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      403.2,
+      204.05,
+      444.75,
+      251.52
+    ],
+    "text": "Amendment of section 24of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      403.2,
+      280.84,
+      441.19,
+      328.32
+    ],
+    "text": "Insertion ofnew section25A in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.3,
+      333.64,
+      183.05,
+      381.12
+    ],
+    "text": "\u201cValuation of movableproperty andintangibleassets.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      138.5,
+      465.2,
+      189.6,
+      474.27
+    ],
+    "text": "\u201cInterpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      403.2,
+      413.26,
+      444.19,
+      460.73
+    ],
+    "text": "Insertion of new section 32 in the principal enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      165.97,
+      423.79,
+      189.31
+    ],
+    "text": "10Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.7,
+      206.26,
+      184.47,
+      263.33
+    ],
+    "text": "Replacement ofSchedule Aof theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      202.82,
+      454.0,
+      226.16
+    ],
+    "text": "21. Schedule A of the principal enactment is hereby repealed and the following Schedule substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      236.82,
+      448.5,
+      248.16
+    ],
+    "text": "\u201c SCHEDULE A [Section 2A]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4188947677612305,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      258.65,
+      439.9,
+      277.72
+    ],
+    "text": "The grading of Corporate and Non-Corporate Members of the Institute shall be as follows:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      225.5,
+      288.65,
+      453.5,
+      317.72
+    ],
+    "text": "(a) a Corporate Member of the Institute shall be graded as a Fellow Member or a Professional Associate Member or a Licentiate Member; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      220.5,
+      328.65,
+      453.5,
+      357.72
+    ],
+    "text": "(b) a Non-Corporate Member of the Institute shall be graded as an Honorary Member, or a Student Member, or a Probationary Member.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      366.82,
+      454.01,
+      388.16
+    ],
+    "text": "22. Schedule B of the principal enactment is hereby repealed and the following Schedule substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      396.82,
+      448.5,
+      408.16
+    ],
+    "text": "\u201c SCHEDULE B [Section 7]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      223.5,
+      420.65,
+      440.36,
+      429.72
+    ],
+    "text": "(1) A person shall be eligible to be enrolled as a Fellow Member:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.5,
+      440.65,
+      453.5,
+      559.72
+    ],
+    "text": "(a) if he has served a minimum of \ufb01 fteen years in the grade of Professional Associate Member and is in the profession of valuation in accordance the scheme of assessment of professional competence or any other requirement for continuous professional development determined under section 5: Provided that the members who were Corporate Members on the fourteenth day of February, Two Thousand and Three are exempted from the scheme of assessment of professional competence or any other requirement for continuous professional development as aforesaid; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.5,
+      570.65,
+      453.5,
+      609.72
+    ],
+    "text": "(b) if he has acquired such knowledge of valuation and eminence in the profession that, in the opinion of the Council, his admission as a Fellow Member would promote the interests of the profession.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      618.82,
+      453.5,
+      639.72
+    ],
+    "text": "(2) A person shall be eligible to be enrolled as a Professional Associate Member:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.5,
+      650.65,
+      453.5,
+      669.72
+    ],
+    "text": "(a) if he has passed the Final or the Direct Final Examination of the Institute or the B.Sc Degree in Estate Management of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.7,
+      369.26,
+      181.69,
+      416.73
+    ],
+    "text": "Replacement of ScheduleB of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      171.5,
+      166.37,
+      382.76,
+      189.71
+    ],
+    "text": "11Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180.2,
+      204.26,
+      386.23,
+      293.33
+    ],
+    "text": "University of London or the University of Reading or any University of Sri Lanka recognized by the Council or has passed the B.A Degree in Land Economy of the University of Cambridge or has passed the Final Examination of the Royal Institution of Chartered Surveyors in the General Practice Division, or has obtained the Higher National Diploma in Valuation of the Sri Lanka Technical College or has obtained any other relevant quali\ufb01 cation recognized by the Council as equivalent to these examinations; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      304.66,
+      386.24,
+      343.73
+    ],
+    "text": "(b) if he is a Probationary Member with a minimum of two years post qualifying full time experience in the profession of valuation practice monitored as directed by and acceptable to the Council; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      355.06,
+      386.23,
+      434.13
+    ],
+    "text": "(c) if he is a Probationary Member with post qualifying experience in the profession of valuation, monitored as directed by and acceptable to the Council, for a minimum number of years of part time experience considered as equivalent to two years full time experience and further is in the profession of valuation in accordance the scheme of assessment of professional competence or any other requirement for continuous professional development determined under section 5;or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      445.46,
+      386.23,
+      474.53
+    ],
+    "text": "(d) if he has minimum of four years full time experience in teaching the subject of valuation in a Course recognized by the Council, in any University.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      485.86,
+      386.23,
+      504.93
+    ],
+    "text": "(3) A person shall be eligible to be enrolled as a Licentiate Member:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      516.26,
+      284.62,
+      525.33
+    ],
+    "text": "(a) if he is over 30 years of age; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      536.66,
+      386.22,
+      565.73
+    ],
+    "text": "(b) if he has practiced as a Valuer for not less than seven years prior to January 3, 1977 and possesses a certi\ufb01 cate of competence awarded by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      578.86,
+      386.22,
+      638.33
+    ],
+    "text": "(4) A person shall be eligible to be enrolled as a Probationary Member:\u2013 (a) if he has successfully completed a Degree or Diploma Course recognized for admission to the grade of Professional Associate Member as speci\ufb01 ed in paragraph (2)(a) of this Schedule; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.2,
+      649.66,
+      386.23,
+      668.73
+    ],
+    "text": "(b) if he is in the profession of valuation in accordance with the scheme of assessment of professional competence or any",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.1,
+      165.97,
+      423.79,
+      189.31
+    ],
+    "text": "12Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      247.3,
+      203.26,
+      453.3,
+      222.23
+    ],
+    "text": "other requirement for continuous professional development, determined under section 5.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      233.36,
+      453.3,
+      252.33
+    ],
+    "text": "The maximum period during which a person may remain a Probationary Member shall be ten years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.3,
+      263.06,
+      438.16,
+      272.13
+    ],
+    "text": "(5) A person shall be eligible to be enrolled as a Student Member\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.3,
+      282.86,
+      384.82,
+      291.93
+    ],
+    "text": "(a) if he is over eighteen years of age; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.3,
+      302.66,
+      453.31,
+      361.23
+    ],
+    "text": "(b) if he is registered in an educational institution recognized by the Council, as a Student following an internal or external, full time or part time, Degree or Diploma Course as the case may be, leading to quali\ufb01 cations recognized for admission to the grade of Professional Associate Member as speci\ufb01 ed in paragraph (2) (a) of this Schedule.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      371.96,
+      427.94,
+      390.93
+    ],
+    "text": "The maximum period during which a person may remain a Student Member shall be ten years.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      399.84,
+      453.82,
+      440.88
+    ],
+    "text": "23. The principal enactment is hereby amended by the addition immediately after Schedule B thereof of the following new Schedules which shall have effect as Schedule C and Schedule D of that enactment:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      461.06,
+      448.3,
+      470.13
+    ],
+    "text": "\u201c SCHEDULE C [Section 7]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      480.86,
+      453.31,
+      519.63
+    ],
+    "text": "(1) Every application for enrolment in any grade of Corporate Members shall:- (a) be made to the Honorary General Secretary of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      530.36,
+      453.29,
+      549.33
+    ],
+    "text": "(b) be in such form as may be provided for the purpose by the Honorary General Secretary of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      560.06,
+      453.3,
+      588.93
+    ],
+    "text": "(c) state the quali\ufb01 cations by virtue of which the applicant is eligible for enrolment in that grade and be supported by an af\ufb01 davit as to such quali\ufb01 cations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      599.66,
+      330.07,
+      608.73
+    ],
+    "text": "(d) be signed by the applicant;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      617.64,
+      453.31,
+      638.43
+    ],
+    "text": "(e) be accompanied by the amount of the appropriate application fee, entrance fee and membership fee; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.3,
+      649.36,
+      453.29,
+      668.53
+    ],
+    "text": "(f) be recommended by two members of the Council or by four members of the Institute of whom one shall be a Fellow, one",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.3,
+      401.51,
+      178.19,
+      468.19
+    ],
+    "text": "Addition ofnew SchedulesC and D in the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      171.5,
+      166.37,
+      382.76,
+      189.71
+    ],
+    "text": "13Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      179.0,
+      203.26,
+      386.03,
+      233.13
+    ],
+    "text": "shall be Professional Associate Member and not less than two shall be members enrolled in the grade in which the applicant seeks enrolment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      249.26,
+      386.02,
+      268.73
+    ],
+    "text": "(2) Every application for enrolment in any grade of Non-Corporate Members shall:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      284.86,
+      386.02,
+      304.33
+    ],
+    "text": "(a) be made in such form as may be provided for the purpose by the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      320.46,
+      386.03,
+      360.73
+    ],
+    "text": "(b) state the quali\ufb01 cations by virtue of which the applicant is eligible for enrolment in that grade and where the application is for enrolment in any grade other than that of Honorary Member, be supported by an af\ufb01 davit as to such quali\ufb01 cations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      376.86,
+      264.77,
+      385.93
+    ],
+    "text": "(c) be signed by the applicant;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      402.06,
+      386.04,
+      452.73
+    ],
+    "text": "(d) where such application is for enrolment in any grade other than that of Honorary Member, be accompanied by the amount of the appropriate application fee, entrance fee and membership fee, or where the application is for enrolment as an Honorary Member, be accompanied by the appropriate membership fee; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      468.86,
+      348.52,
+      477.93
+    ],
+    "text": "(e) be recommended by atleast two Corporate Members.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      492.24,
+      384.0,
+      503.58
+    ],
+    "text": "SCHEDULE D [Section 22]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.0,
+      519.26,
+      386.02,
+      538.73
+    ],
+    "text": "Each of the following acts or omissions shall constitute professional misconduct on the part of a valuer:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.0,
+      554.86,
+      293.89,
+      563.93
+    ],
+    "text": "(a) unbe\ufb01 tting his status as a member;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.0,
+      580.06,
+      386.03,
+      599.53
+    ],
+    "text": "(b) discrediting or attempting to discredit the profession of valuation or the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.0,
+      615.66,
+      386.03,
+      635.13
+    ],
+    "text": "(c) involving in any act detrimental to the profession of valuation or undermining the interests of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.0,
+      651.26,
+      386.03,
+      670.73
+    ],
+    "text": "(d) discrediting or attempting to discredit the professional reputation or skill of any other member;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.1,
+      165.97,
+      423.79,
+      189.31
+    ],
+    "text": "14Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      202.76,
+      453.32,
+      279.03
+    ],
+    "text": "(e) when acting for a client or when in contemplation of acting for a prospective client, whose interests con\ufb02 ict or may con\ufb02 ict with his own, or those of any of his business associates, not disclosing the relevant facts forthwith to the client or prospective client and to the business associates and where such disclosure is oral, not con\ufb01 rming the same in writing at the earliest opportunity and not informing the client that he will be unable to act or continue to act unless the client requests him to do so;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      291.36,
+      453.3,
+      348.43
+    ],
+    "text": "(f) failure to ensure that neither he personally, nor any \ufb01 rm or company in the profession of valuation, of which he is a Partner or Director, acts for two or more parties with con\ufb02 icting interests, without disclosing the relevant facts to each of these parties forthwith and if there is a disclosure without con\ufb01 rming such disclosure in writing at the earliest opportunity;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      360.76,
+      453.3,
+      379.43
+    ],
+    "text": "(g) failure to obtain suf\ufb01 cient information to warrant the expression of an opinion;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      391.76,
+      453.31,
+      429.63
+    ],
+    "text": "(h) quoting a fee in competition for professional services without having received an invitation to do so and without suf\ufb01 cient information to enable the member to assess the nature and scope of the services required;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      441.96,
+      453.31,
+      470.23
+    ],
+    "text": "(i) having once quoted a fee for professional services, revising that quotation taking into account the fee quoted by another member for the same service;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      482.56,
+      453.3,
+      501.23
+    ],
+    "text": "(j) quoting a fee for professional services which is to be calculated by reference to the fee quoted or charged by another member;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      513.56,
+      453.3,
+      541.83
+    ],
+    "text": "(k) accepting any professional matter which may embarrass him by reason of his holding any of\ufb01 ce or appointment or where there is a loss of con\ufb01 dence between a member and his client;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      554.16,
+      453.31,
+      572.83
+    ],
+    "text": "(l) not giving reasonable notice to a client on behalf of whom the member ceases to act:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      247.3,
+      585.16,
+      453.3,
+      632.63
+    ],
+    "text": "Provided that it shall not be a professional misconduct if a member ceases to act for his client being requested to do so, or where the client declines or neglects to give further instructions where the member would be left with no authority of his client in any professional matter or proceeding;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.3,
+      643.86,
+      453.3,
+      672.13
+    ],
+    "text": "(m) disclosing personal or con\ufb01 dential information acquired in the performance of any professional work except when required to do so by the person who entrusted him with that work or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      171.5,
+      166.37,
+      382.76,
+      189.71
+    ],
+    "text": "15Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.0,
+      203.76,
+      386.01,
+      224.83
+    ],
+    "text": "his agent or by a Court of Law, or by a Board or an arbitration appointed by this Law or by any other written Law:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.0,
+      237.76,
+      385.64,
+      297.23
+    ],
+    "text": "Provided that the duty on the part of the member to refrain from disclosing such personal or con\ufb01 dential information lies not only during the existence of his professional relationship with the client but inde\ufb01 nitely thereafter, even after the said member has ceased to act for the said client and after the demise of the client as well;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      307.76,
+      385.63,
+      326.43
+    ],
+    "text": "(n) resorting by himself or through another, directly or indirectly, to the practice of soliciting work;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      336.96,
+      385.63,
+      355.63
+    ],
+    "text": "(o) using any advertisement, stationery, card or announcement by a member containing-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      366.16,
+      295.97,
+      375.23
+    ],
+    "text": "(a) an inaccurate statement of fact;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      385.76,
+      317.34,
+      394.83
+    ],
+    "text": "(b) an explicit solicitation of instructions;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      405.36,
+      385.62,
+      433.83
+    ],
+    "text": "(c) an explicit comparison between the services offered by the member and the services offered by other members or \ufb01 rms;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      444.36,
+      385.63,
+      472.63
+    ],
+    "text": "(d) a claim by a member or his \ufb01 rm, to have been \u201cSpecialized in\u201d or \u201cExpert in\u201d any particular aspect of the profession of valuation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      483.16,
+      385.63,
+      530.63
+    ],
+    "text": "(p) appearing in any other name or designation different to that by which he is registered in the Institute when he performs any professional functions such as issuing valuation reports and advice on matters relating to valuation unless such name or designation is recognized by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      541.16,
+      385.62,
+      559.83
+    ],
+    "text": "(q) displaying gross negligence in the performance of his professional work;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      570.36,
+      385.63,
+      598.63
+    ],
+    "text": "(r) knowingly, negligently or fraudulently expressing an incorrect opinion on valuation or furnishing an incorrect valuation, to a client;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      609.16,
+      385.63,
+      637.43
+    ],
+    "text": "(s) deviating from or failure to comply with any valuation standards determined under section 5, without a reason acceptable to the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.0,
+      650.94,
+      385.62,
+      671.43
+    ],
+    "text": "(t) tampering with the membership seal or any other form of identity issued to the members by the Institute.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.1,
+      165.97,
+      423.79,
+      189.31
+    ],
+    "text": "16Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      203.32,
+      453.62,
+      262.66
+    ],
+    "text": "24. (1) All persons who are in the grades of Graduate Member and Associate Member on the date of commencement of this Act, shall from and after date of the commencement of this Act, be deemed to be admitted and enrolled to the Professional Associate Grade:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      279.32,
+      453.6,
+      338.66
+    ],
+    "text": "Provided however that for the purpose of computing the period of membership in the grade of Professional Associate Member, the full period of membership in the Graduate Grade and two-thirds of the period of membership in the Associate Grade, shall be computed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      355.32,
+      453.62,
+      414.66
+    ],
+    "text": "(2) (a) The Council of the Institute holding of\ufb01 ce on the day immediately preceding the date of commencement of this Act, shall continue to hold of\ufb01 ce until a new Council is elected in accordance with the provisions of section 8 as amended by this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      431.32,
+      453.61,
+      478.66
+    ],
+    "text": "(b) The new Council shall be elected at a special general meeting of the Corporate Members, convened for such purpose within a period of six months from the date of commencement of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      495.32,
+      453.61,
+      554.66
+    ],
+    "text": "(c) If a session of the Institute has been \ufb01 xed by the Council of the Institute holding of\ufb01 ce on the day immediately preceding the date of commencement of this Act, to be held within the six month period referred to above, such session shall not be held as \ufb01 xed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      571.32,
+      453.61,
+      606.66
+    ],
+    "text": "(d) The special general meeting held under subsection (2) shall be deemed to be a session of the Institute for the purpose of section 18.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.28,
+      622.32,
+      453.81,
+      669.66
+    ],
+    "text": "25. (1) Where the period of validity of any enrolment made under the provisions of the principal enactment on or before the date of commencement of this Act, has not expired on the date of the commencement of this Act,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.7,
+      624.26,
+      167.04,
+      633.33
+    ],
+    "text": "Savings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.3,
+      204.76,
+      179.96,
+      223.43
+    ],
+    "text": "Transitional provisions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      171.5,
+      166.37,
+      382.76,
+      189.71
+    ],
+    "text": "17Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.0,
+      205.32,
+      386.5,
+      228.66
+    ],
+    "text": "such enrolment shall for all purposes be deemed to be an enrolment made under section 7.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.0,
+      241.32,
+      386.53,
+      288.66
+    ],
+    "text": "(2) Any Register maintained under the provisions of the principal enactment on or before the date of commencement of this Act shall be deemed to have been maintained under section 7C as inserted by this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.0,
+      301.32,
+      386.51,
+      336.66
+    ],
+    "text": "26. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.98,
+      301.85,
+      443.53,
+      339.72
+    ],
+    "text": "Sinhala textto prevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.1,
+      165.97,
+      423.79,
+      189.31
+    ],
+    "text": "18Institute of Valuers of Sri Lanka (Amendment)Act, No. 9 of 2019",
+    "fonts": [
+      "MinionPro-Regular",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      146.9,
+      617.84,
+      445.72,
+      636.52
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cprakashana piyasa\u201d, Department of Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

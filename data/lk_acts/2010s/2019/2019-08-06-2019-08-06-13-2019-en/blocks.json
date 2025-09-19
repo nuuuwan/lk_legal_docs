@@ -1,0 +1,647 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      212.13,
+      373.04,
+      387.55,
+      387.78
+    ],
+    "text": "COMPANIES (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      235.05,
+      388.64,
+      364.79,
+      403.38
+    ],
+    "text": "ACT, No. 13 OF 2019",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      480.17,
+      375.37,
+      491.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      228.33,
+      443.69,
+      373.04,
+      455.03
+    ],
+    "text": "[Certified on 06th of August, 2019]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.58,
+      622.43
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      536.09,
+      442.53,
+      559.43
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 09, 2019",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212.25,
+      166.97,
+      382.61,
+      190.31
+    ],
+    "text": "Companies (Amendment)Act, No. 13 of 20191",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.45,
+      203.57,
+      337.18,
+      214.91
+    ],
+    "text": "[Certified on 06th of August, 2019]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      229.37,
+      218.26,
+      240.71
+    ],
+    "text": "L.D.\u2014O. 70/2017",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.45,
+      255.17,
+      367.17,
+      266.51
+    ],
+    "text": "AN ACT TO AMEND THE COMPANIES ACT, NO. 07 OF 2007",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      280.97,
+      384.86,
+      305.15
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      319.61,
+      384.94,
+      343.91
+    ],
+    "text": "1. This Act may be cited as the Companies (Amendment)Act, No. 13 of 2019.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      358.37,
+      384.88,
+      421.31
+    ],
+    "text": "2.Section 5 of the Companies Act, No. 07 of 2007(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended in subsection (1) by the repeal of paragraphs (b)and (c) thereof and the substitution therefor, of thefollowing:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.57,
+      435.77,
+      384.85,
+      459.95
+    ],
+    "text": "\u201c(b) assign a unique number to that company as itscompany number;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      474.41,
+      384.82,
+      498.71
+    ],
+    "text": "(c) issue a certificate of incorporation in the prescribedform to the applicant company; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.13,
+      513.17,
+      384.85,
+      576.11
+    ],
+    "text": "(d) notify the general public, within sixty working daysof the incorporation of a company, by a noticepublished in a daily newspaper which hascirculation in Sinhala, English and Tamil languageswhich shall specify \u2013",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.85,
+      590.57,
+      291.59,
+      601.91
+    ],
+    "text": "(i)name of the company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.85,
+      616.97,
+      356.87,
+      628.31
+    ],
+    "text": "(ii)the company registration number; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      644.57,
+      384.84,
+      669.71
+    ],
+    "text": "(iii)the address of the registered office of thecompany.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      321.55,
+      435.09,
+      330.62
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      358.27,
+      453.81,
+      386.54
+    ],
+    "text": "Amendment ofsection 5 of Act,No. 07 of 2007.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      166.97,
+      381.79,
+      190.31
+    ],
+    "text": "2Companies (Amendment)Act, No. 13 of 2019",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      202.73,
+      452.14,
+      225.83
+    ],
+    "text": "3.Section 9 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.43,
+      238.49,
+      422.96,
+      249.83
+    ],
+    "text": "(1) by the repeal of subsection (1) thereof; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.43,
+      263.69,
+      452.14,
+      300.23
+    ],
+    "text": "(2) in subsection (3) thereof, by the substitution for thewords \u201csubsection (1) or (2)\u201d of the words,\u201csubsection (2)\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      313.13,
+      452.28,
+      362.27
+    ],
+    "text": "4.Section 10 of the principal enactment is herebyamended by the repeal of paragraph (b) of subsection (1)thereof, and the substitution therefor, of the followingparagraph:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      240.43,
+      374.69,
+      452.13,
+      432.83
+    ],
+    "text": "\u201c(b)a request is made to the Registrar to do sowithin three months of public notice of thename being given under section 5 (1) (d) andsection 9 (2) by another company or by aregistered overseas company, where \u2013",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.11,
+      444.89,
+      452.12,
+      491.27
+    ],
+    "text": "(i) the name of the first mentionedcompany is so similar to the name ofthe requesting company that it is likelyto cause confusion; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      278.11,
+      503.57,
+      452.25,
+      550.31
+    ],
+    "text": "(ii) the requesting company was registeredwith its current name before the firstmentioned company was registeredwith the name objected to; or\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      562.97,
+      452.28,
+      586.31
+    ],
+    "text": "5. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.19,
+      563.83,
+      198.92,
+      592.1
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.11,
+      203.83,
+      194.84,
+      241.7
+    ],
+    "text": "Amendment ofsection 9 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      314.95,
+      198.44,
+      352.82
+    ],
+    "text": "Amendment ofsection 10 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.25,
+      166.97,
+      382.61,
+      190.31
+    ],
+    "text": "Companies (Amendment)Act, No. 13 of 20193",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      651.67,
+      453.09,
+      670.34
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

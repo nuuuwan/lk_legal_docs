@@ -1,0 +1,5730 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.64,
+      434.83,
+      335.08
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      376.3,
+      455.8,
+      406.29
+    ],
+    "text": "PREVENTION OF OFFENCES RELATING TO SPORTSACT, No. 24 OF 2019",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.37,
+      375.37,
+      494.44
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      219.69,
+      452.89,
+      381.68,
+      463.96
+    ],
+    "text": "[Certified on 18th of November, 2019]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.99,
+      393.69,
+      590.85
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.59,
+      404.85,
+      600.45
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.29,
+      456.55,
+      622.36
+    ],
+    "text": "Price : Rs. 36.00Postage : Rs. 35.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.33,
+      442.56,
+      561.4
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 22, 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.55,
+      345.55,
+      670.41
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.13,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "1Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      364.67,
+      432.58,
+      373.53
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.09,
+      203.29,
+      343.53,
+      214.36
+    ],
+    "text": "[Certified on 18th of November, 2019]",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      227.89,
+      218.26,
+      238.96
+    ],
+    "text": "L.D.\u2014O. 17/2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      252.49,
+      384.79,
+      263.56
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE PREVENTION OF MATCH FIXING, CORRUPTION,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      264.85,
+      384.81,
+      275.92
+    ],
+    "text": "ILLEGAL MANIPULATION AND ILLEGAL BETTING IN SPORTS AND FOR THE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      277.09,
+      384.81,
+      288.16
+    ],
+    "text": "APPOINTMENT OF A SPECIAL INVESTIGATIONS UNIT FOR INVESTIGATION",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      289.45,
+      384.81,
+      300.52
+    ],
+    "text": "OF OFFENCES AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      301.69,
+      240.07,
+      312.76
+    ],
+    "text": "OR INCIDENTAL THERETO.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      326.29,
+      384.88,
+      349.72
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      363.25,
+      384.82,
+      386.56
+    ],
+    "text": "1.This Act may be cited as the Prevention of Offencesrelating to Sports Act, No. 24 of 2019.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.73,
+      400.09,
+      281.01,
+      411.16
+    ],
+    "text": "PART I",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      424.69,
+      373.65,
+      435.76
+    ],
+    "text": "OBJECTS AND THE APPLICATION OF THE PROVISIONS OF THE ACT",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      449.29,
+      310.65,
+      460.36
+    ],
+    "text": "2.The objects of the Act shall be\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.65,
+      473.89,
+      384.85,
+      497.32
+    ],
+    "text": "(a)to prevent match fixing, corruption, illegalmanipulation and illegal betting in sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.65,
+      510.85,
+      384.85,
+      595.72
+    ],
+    "text": "(b)to strengthen national and internationalco-operation among sports organizations, lawenforcement agencies and betting operatorsto exchange information relating to matchfixing, corruption, illegal manipulation andillegal betting in sports and promote bestpractices in sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.37,
+      609.25,
+      384.84,
+      669.52
+    ],
+    "text": "(c)to conduct programs in order to promoteawareness on issues relating to match fixing,corruption, illegal manipulation and illegalbetting in sports and improve coordinationamongst stake holders;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      451.31,
+      444.57,
+      471.33
+    ],
+    "text": "Objects of theAct.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 20192",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.87,
+      203.29,
+      451.18,
+      226.72
+    ],
+    "text": "(d)to protect and maintain the integrity ofnational sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      251.71,
+      235.45,
+      451.2,
+      292.48
+    ],
+    "text": "(e)to introduce and promote preventivemeasures in collaboration with lawenforcement agencies against match fixing,corruption, illegal manipulation and illegalbetting in sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.15,
+      300.85,
+      451.19,
+      323.44
+    ],
+    "text": "(f)to protect the goodwill and livelihood ofprofessional sports personnel; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.87,
+      331.93,
+      451.19,
+      388.96
+    ],
+    "text": "(g)to appoint an independent, impartialSpecial Investigations Unit to carry outinvestigations into offences of match fixing,corruption, illegal manipulation and illegalbetting in sports.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      400.93,
+      451.15,
+      423.4
+    ],
+    "text": "3.For the purpose of achieving the objects of this Act,the Secretary may, with the concurrence of the Minister-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      431.89,
+      451.21,
+      500.44
+    ],
+    "text": "(a)enter into any agreement or memorandum ofunderstanding under this Act with any sportsorganization or law enforcement agency, whethernational or international, to promote best practicesin sports and maintaining and upgradingprofessional standards of sports; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      508.93,
+      451.22,
+      554.44
+    ],
+    "text": "(b)exchange information relating to match fixing,corruption, illegal manipulation and illegal bettingin sports with any national or international sportsorganization or law enforcement agency.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.51,
+      566.41,
+      348.79,
+      577.48
+    ],
+    "text": "PART II",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      311.35,
+      585.85,
+      351.07,
+      596.92
+    ],
+    "text": "CHAPTER I",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243.07,
+      605.41,
+      419.23,
+      616.48
+    ],
+    "text": "OFFENCES OF MATCH FIXING, CORRUPTION, ILLEGAL",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.87,
+      616.93,
+      411.43,
+      628.0
+    ],
+    "text": "MANIPULATION AND ILLEGAL BETTING IN SPORTS",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      636.37,
+      451.19,
+      670.84
+    ],
+    "text": "4.(1) Any person or any person connected to a sportwho, directly or indirectly, alone or in conjunction withanother or others gets involved in any arrangement on an",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      400.31,
+      196.88,
+      428.37
+    ],
+    "text": "Secretary toenter intoagreements, &c.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      636.35,
+      193.88,
+      664.41
+    ],
+    "text": "Offence ofmatch fixing insports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.13,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "3Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      203.29,
+      383.86,
+      238.96
+    ],
+    "text": "irregular alteration of the course or the result of any sport orsporting event for money or any other reward or benefit,including any arrangement where\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      252.49,
+      377.15,
+      263.56
+    ],
+    "text": "(a)any person or any person connected to a sport\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.85,
+      277.09,
+      383.89,
+      349.72
+    ],
+    "text": "(i)engages in betting, gambling or any otheractivity involving financial or any otheradvantage to himself or another person,or causes a financial disadvantage or lossto another person knowing that it wouldcorrupt any sport or sporting event;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      194.85,
+      363.25,
+      383.89,
+      423.52
+    ],
+    "text": "(ii)acts in a manner that ensures theoccurrence of any improper performance,act, omission or an outcome, which is thesubject of an illegal bet relating to a sportor any sporting event;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.85,
+      437.05,
+      383.86,
+      521.92
+    ],
+    "text": "(iii)provides for financial or any otheradvantage, reward or benefit, any insideinformation relating to a sport, anysporting event or any person, to any personincluding a betting operator, other than inconnection with bona fide mediainterviews and commitments;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.57,
+      535.45,
+      383.87,
+      595.72
+    ],
+    "text": "(iv)provides or receives any gift, payment,reward or benefit, financial or otherwise,that might reasonably be expected to bringsuch person or any sport or sporting eventinto disrepute; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.57,
+      609.25,
+      383.88,
+      669.52
+    ],
+    "text": "(v)engages in any act or omission that isdirectly or indirectly related to any of theconduct specified in the precedingparagraphs and is prejudicial to theinterests of any sport or sporting event;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 20194",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      202.93,
+      432.45,
+      214.0
+    ],
+    "text": "(b)any individual player or a group of players\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      226.33,
+      451.17,
+      284.2
+    ],
+    "text": "(i)receives money or any other reward orbenefit individually or collectively tounderperform or to withdraw from suchsport or sporting event for non-genuinereasons; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262.15,
+      296.53,
+      451.15,
+      331.0
+    ],
+    "text": "(ii)bets on such sport or sporting event inwhich such player or group of players playsundermining the performance;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.71,
+      343.33,
+      451.18,
+      389.56
+    ],
+    "text": "(c)any umpire, match adjudicator or match refereedeliberately misapplies the rules of the sport orsporting event for money or any other reward orbenefit;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      401.89,
+      451.17,
+      436.36
+    ],
+    "text": "(d)any curator or any member of any venue staff,ground staff or support staff receives money or anyother reward or benefit\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.15,
+      448.69,
+      451.18,
+      494.8
+    ],
+    "text": "(i)to prepare any turf, ground or playing surfaceof any sport or sporting event in a wayagreeable to any person including a bettingoperator; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250.15,
+      507.13,
+      451.18,
+      541.6
+    ],
+    "text": "(ii)to disclose information of the preparation andcondition of the turf, ground or playingsurface of any sport or sporting event; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.71,
+      553.93,
+      451.18,
+      611.8
+    ],
+    "text": "(e)any person including a retired player or any personconnected to a sport is utilized by any other personto gain access to local or foreign players in order toinfluence their performance for money or any otherreward or benefit,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      624.13,
+      398.59,
+      635.2
+    ],
+    "text": "commits the offence of match fixing in sports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      647.53,
+      451.2,
+      670.36
+    ],
+    "text": "(2) Any person or any person connected to a sport whodirectly or indirectly, alone or in conjunction with another",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.13,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "5Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      202.93,
+      383.9,
+      260.8
+    ],
+    "text": "or others gets involved in any arrangement on an irregularalteration of the course or the result of any sportingtournament by any of the acts specified in paragraphs (a) to(e) of subsection (1) commits the offence of tournament fixingin sports.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.85,
+      273.13,
+      383.85,
+      284.2
+    ],
+    "text": "5. Any person or any person connected to a sport who\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.57,
+      296.53,
+      383.88,
+      319.36
+    ],
+    "text": "(a)solicits or accepts or agrees to accept or offersmoney or any other reward or benefit;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.57,
+      331.69,
+      383.86,
+      366.16
+    ],
+    "text": "(b)controls any other person or thing for suchperson\u2019s own advantage or to the advantageof another dishonestly or fraudulently; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.29,
+      378.49,
+      383.88,
+      412.96
+    ],
+    "text": "(c)solicits, entices, persuades, induces orinstructs any person directly or indirectly toperform or refrain from performing an act,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      425.29,
+      383.88,
+      459.76
+    ],
+    "text": "to influence the result, progress, conduct or any other aspectof any sport or sporting event commits the offence ofcorruption in sports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      472.09,
+      383.91,
+      518.2
+    ],
+    "text": "6.Any person or any person connected to a sport whoinfluences improperly, unfairly or dishonestly the result,progress, conduct or any other aspect of any sport or sportingevent commits the offence of illegal manipulation in sports.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      530.53,
+      383.88,
+      576.76
+    ],
+    "text": "7.Any person or any person connected to a sport whopossesses information in connection with any sport orsporting event knowing such information to be insideinformation or information on illegal, corrupt conduct and\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      589.09,
+      325.31,
+      600.16
+    ],
+    "text": "(a)bets on that sport or sporting event;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      612.49,
+      383.85,
+      635.2
+    ],
+    "text": "(b)encourages another person to bet on that sport orsporting event in a particular way; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      647.53,
+      383.89,
+      670.48
+    ],
+    "text": "(c)communicates such information to another personwho the first person knows, or ought reasonably to",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      274.31,
+      442.3,
+      303.93
+    ],
+    "text": "Offence ofcorruption insports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      473.27,
+      452.14,
+      510.93
+    ],
+    "text": "Offence ofillegalmanipulation insports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      531.35,
+      453.59,
+      559.41
+    ],
+    "text": "Offence ofillegal betting insports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 20196",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.15,
+      202.81,
+      451.17,
+      225.4
+    ],
+    "text": "know, would or would be likely to bet on that sportor sporting event,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      235.81,
+      404.62,
+      246.88
+    ],
+    "text": "commits the offence of illegal betting in sports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      258.85,
+      316.14,
+      269.92
+    ],
+    "text": "8. Any person who\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      280.33,
+      451.18,
+      314.32
+    ],
+    "text": "(a)aids, abets, attempts or conspires in thecommission of any offence specified insection 4, 5, 6 or 7; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      324.85,
+      451.19,
+      370.36
+    ],
+    "text": "(b)approaches, induces, influences, encourages,enables or facilitates any person connectedto a sport to commit any offence specified insection 4, 5, 6 or 7,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      380.77,
+      292.88,
+      391.84
+    ],
+    "text": "commits an offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      402.25,
+      451.18,
+      459.4
+    ],
+    "text": "9.Any person who commits an offence specified insection 4, 5, 6, 7 or 8 shall on conviction be liable to a finenot exceeding rupees one hundred million or toimprisonment for a period not exceeding ten years or toboth such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      307.87,
+      471.25,
+      354.31,
+      482.32
+    ],
+    "text": "CHAPTER II",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      300.79,
+      492.73,
+      361.51,
+      503.8
+    ],
+    "text": "OTHER OFFENCES",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      514.33,
+      451.2,
+      582.88
+    ],
+    "text": "10.Any person or any person connected to a sport whofails to comply with the provisions of section 16 or 18commits an offence under this Act and shall, on convictionby a Magistrate, be liable to a fine not exceeding rupees twohundred thousand or to imprisonment for a period notexceeding three years or to both such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      594.73,
+      322.15,
+      605.8
+    ],
+    "text": "11.Any person who\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      616.33,
+      451.23,
+      673.36
+    ],
+    "text": "(a)willfully obstructs, hinders or fails to co-operate with the Secretary, the Director ofSports, the Unit or any person authorized bythe Unit in the investigation of any offenceunder this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      259.31,
+      199.16,
+      287.37
+    ],
+    "text": "Aiding, abetting,attempting, &c.,to be an offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      403.79,
+      198.44,
+      441.45
+    ],
+    "text": "Penalty for anoffence undersection 4, 5, 6, 7or 8.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      515.87,
+      190.15,
+      553.53
+    ],
+    "text": "Failure todiscloseinformation tobe an offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      595.79,
+      195.44,
+      643.05
+    ],
+    "text": "Failure toco-operate etc.,in relation to aninvestigation tobe an offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.13,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "7Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      203.17,
+      383.88,
+      249.4
+    ],
+    "text": "(b)fails, without reasonable cause, to appearbefore the Unit when such person is requiredto do so by the Unit for the purpose of anyinvestigation conducted under this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184.29,
+      261.73,
+      383.89,
+      307.96
+    ],
+    "text": "(c)refuses or fails without reasonable cause, toanswer any question put to him by the Unitin relation to any matter under investigationby the Unit;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      320.29,
+      383.89,
+      366.4
+    ],
+    "text": "(d)refuses or fails without reasonable cause, tocomply with the requirements of a noticeissued to such person by the Unit under thisAct;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184.29,
+      378.73,
+      383.88,
+      424.96
+    ],
+    "text": "(e)fails to provide any information, report ordocument when requested to do so by theUnit for the purpose of any investigationconducted under this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.85,
+      437.29,
+      383.89,
+      506.8
+    ],
+    "text": "(f)provides any information, report ordocument or makes any statement whenrequired to do so by the Unit for the purposeof any investigation conducted under thisAct, knowing it to be false, incomplete ormisleading; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      519.13,
+      383.89,
+      612.16
+    ],
+    "text": "(g)conceals, falsifies, destroys or otherwisedisposes of, or causes or permits theconcealment, falsification, destruction ordisposal of, any information, report,document or material knowing or havingreasons to believe that such information,report, document or material is relevant to aninvestigation conducted under this Act,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      624.49,
+      383.9,
+      670.84
+    ],
+    "text": "commits an offence under this Act and shall on convictionby a Magistrate, be liable to a fine not exceeding rupees twohundred thousand or to imprisonment for a period notexceeding three years or to both such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 20198",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      203.17,
+      451.18,
+      286.24
+    ],
+    "text": "12.Any person who acts in contravention of the dutyimposed on such person by section 32 to maintainconfidentiality, commits an offence under this Act and shall,on conviction by a Magistrate, be liable to a fine notexceeding rupees five hundred thousand or to imprisonmentfor a period not exceeding ten years or to both such fine andimprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      299.17,
+      451.2,
+      394.24
+    ],
+    "text": "13.Any person who makes any false allegation in anyinformation disclosed by such person under section 16 ofthis Act, knowing the content of such allegation to be falseor having reasons to believe that such allegation is not true,commits an offence under this Act and shall, on convictionby a Magistrate, be liable to a fine not exceeding rupees onehundred thousand or to imprisonment for a period notexceeding three years or to both such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      407.17,
+      451.2,
+      430.24
+    ],
+    "text": "14.Where an offence under this Act is committed by abody of persons, then, if that body of persons is\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      443.17,
+      451.19,
+      478.24
+    ],
+    "text": "(a)a body corporate, then every person who, at thetime of the commission of the offence, was a director,manager, officer or servant of such body corporate;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      491.17,
+      451.19,
+      526.24
+    ],
+    "text": "(b)a firm, then every person who, at the time of thecommission of the offence, was a partner of thatfirm; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      539.17,
+      451.2,
+      598.24
+    ],
+    "text": "(c)an unincorporated body other than a firm, everyindividual who was a member of such body andevery officer who was responsible for themanagement and control of such body, at the timeof the commission of the offence,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      611.17,
+      451.2,
+      670.24
+    ],
+    "text": "shall be deemed to have committed that offence, unless suchperson, individual or officer, as the case may be, proves thatthe offence was committed without his knowledge or thatsuch person exercised all due diligence to prevent thecommission of that offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      204.35,
+      190.88,
+      261.21
+    ],
+    "text": "Failure tomaintainconfidentialityby a serviceprovider to bean offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      300.35,
+      196.88,
+      328.41
+    ],
+    "text": "Making falseallegations to bean offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      409.31,
+      199.15,
+      427.77
+    ],
+    "text": "Offences by abody of persons.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.13,
+      167.17,
+      383.81,
+      190.24
+    ],
+    "text": "9Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      156.81,
+      202.93,
+      303.08,
+      214.0
+    ],
+    "text": "15.For the purposes of this Part\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196.65,
+      226.33,
+      384.83,
+      272.56
+    ],
+    "text": "(a)\u201cinformation on corrupt conduct\u201d meansinformation relating to conduct orproposed conduct that corrupts anoutcome of any sport or sporting event;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196.65,
+      284.89,
+      384.85,
+      377.8
+    ],
+    "text": "(b)\u201cinside information\u201d means informationwhich is not generally available andwhich, if it were generally available, wouldor would be likely to influence any personwho commonly bets on any sport orsporting event in deciding whether or notto bet on such sport or sporting event ormaking any other betting decision; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.37,
+      390.13,
+      384.85,
+      424.6
+    ],
+    "text": "(c)\u201caiding\u201d, \u201cabetting\u201d, \u201cattempting\u201d and\u201cconspiring\u201d shall have the same meaningas in the Penal Code (Chapter 19).",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      245.37,
+      436.93,
+      284.37,
+      448.0
+    ],
+    "text": "PART III",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      213.81,
+      460.33,
+      315.92,
+      471.4
+    ],
+    "text": "DISCLOSURE OF INFORMATION",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      483.73,
+      384.83,
+      506.56
+    ],
+    "text": "16.(1) Where any person or any person connected to asport\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      518.89,
+      384.85,
+      565.0
+    ],
+    "text": "(a)is approached, induced or threatened by any personto engage in or perform any act or omission thatconstitutes an offence under section 4, 5, 6, 7 or 8;or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      577.33,
+      384.84,
+      611.8
+    ],
+    "text": "(b)becomes aware of, or has reasons to believe, orreasonably suspects that any person or any personconnected to a sport has\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186.81,
+      624.13,
+      330.11,
+      635.2
+    ],
+    "text": "(i)been engaged in or performed;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.81,
+      647.53,
+      384.85,
+      670.48
+    ],
+    "text": "(ii)been approached, induced or threatened toengage in or perform; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      203.27,
+      446.86,
+      212.13
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      485.87,
+      446.85,
+      523.53
+    ],
+    "text": "Disclosinginformation tothe Secretary,&c.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201910",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      247.15,
+      202.93,
+      451.17,
+      225.52
+    ],
+    "text": "(iii)received, direct or indirect threats to engagein or perform,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      247.15,
+      237.73,
+      451.17,
+      260.32
+    ],
+    "text": "any act or omission which constitutes an offenceunder section 4, 5, 6, 7 or 8,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      272.53,
+      451.18,
+      318.4
+    ],
+    "text": "such person or person connected to a sport shall forthwithdisclose such information in writing, in person or byelectronic means to the Secretary or the Director of Sports orthe Unit appointed under section 21 of this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      330.49,
+      451.2,
+      399.52
+    ],
+    "text": "(2) Where any betting operator becomes aware of, orreasonably suspects any unusual betting patterns in anybetting carried out by any person, such betting operatorshall forthwith disclose such information in writing, in personor by electronic means to the Secretary or the Director ofSports or to the Unit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      411.73,
+      451.2,
+      457.6
+    ],
+    "text": "17.(1) The Secretary or the Director of Sports, as thecase may be, shall, upon receipt of any information undersection 16, refer such information to the Unit, forinvestigation:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      469.69,
+      451.2,
+      538.72
+    ],
+    "text": "Provided however, that where such information disclosesthe commission of an offence under section 70 of the BriberyAct (Chapter 26), the Secretary or the Director of Sports, asthe case may be, shall refer such information to theCommission to Investigate Allegations of Bribery orCorruption, for investigation and prosecution.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      550.93,
+      451.19,
+      596.8
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1), theSecretary or the Director of Sports may, on his own motionrefer any information relating to any offence under this Actto the Unit, for investigation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      608.89,
+      451.19,
+      666.64
+    ],
+    "text": "18.(1) Any person connected to a sport shall disclose tothe Secretary or the Director of Sports all information relatingto such person\u2019s personal or business interests, or any otherconnections with any betting operator, or any personal orbusiness interests such person has relating to sports.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      411.35,
+      190.15,
+      458.61
+    ],
+    "text": "Secretary orDirector ofSports to referinformation tothe Unit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      609.59,
+      199.16,
+      660.93
+    ],
+    "text": "Disclosingconnections withbetting operatorsto the Secretaryor Director ofSports.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185.13,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "11Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      202.93,
+      383.92,
+      260.8
+    ],
+    "text": "(2) The Secretary or the Director of Sports, as the casemay be, shall, on a request made by the Unit, make availableto that Unit any information received by such Secretary orDirector of Sports under subsection (1), for the purpose ofany investigation of any offence under this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.29,
+      273.13,
+      283.29,
+      284.2
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      182.85,
+      296.53,
+      344.85,
+      307.6
+    ],
+    "text": "INVESTIGATION AND PROSECUTION OF OFFENCES",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      319.93,
+      383.89,
+      366.16
+    ],
+    "text": "19.(1) Except as otherwise provided for by this Act, alloffences under this Act shall be investigated, tried orotherwise dealt with in accordance with the provisions ofthe Code of Criminal Procedure Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      378.49,
+      383.91,
+      412.96
+    ],
+    "text": "(2) All investigations carried out by the Unit under thisAct shall be discreet except where the circumstances requireotherwise.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      425.29,
+      383.88,
+      471.4
+    ],
+    "text": "20.An offence under Chapter I of Part II of this Actshall be a cognizable and non-bailable offence within themeaning, and for the purposes, of the Code of CriminalProcedure Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      495.49,
+      383.9,
+      588.4
+    ],
+    "text": "21.(1) The Minister shall, in consultation with theMinister assigned the Department of Police, appoint by Orderpublished in the Gazette, an independent, impartial SpecialInvestigations Unit (in this Act referred to as the \u201cUnit\u201d)consisting of such number of police officers not below therank of an Assistant Superintendent of Police, as may bedetermined by the Minister, for conducting investigationsin relation to an offence under this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      600.73,
+      383.87,
+      623.56
+    ],
+    "text": "(2) The police officers to be appointed under subsection(1) shall be nominated by the Inspector General of Police.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      635.89,
+      383.88,
+      670.48
+    ],
+    "text": "(3) The Minister shall appoint the seniormostmember from among the members of the Unit to be the Headof the Unit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      321.35,
+      455.85,
+      397.41
+    ],
+    "text": "Offences underthis Act to beinvestigatedunder theprovisions of theCode ofCriminalProcedure Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      425.99,
+      454.3,
+      476.85
+    ],
+    "text": "An offenceunder Chapter Iof Part II to be acognizable andnon-bailableoffence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      496.31,
+      452.14,
+      533.97
+    ],
+    "text": "Appointment ofthe SpecialInvestigationsUnit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201912",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      203.17,
+      451.19,
+      238.24
+    ],
+    "text": "(4) The term of office of any member of the Unit shall bethree years and a member of the Unit shall be eligible forreappointment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      251.17,
+      451.2,
+      298.24
+    ],
+    "text": "(5) A member of the Unit may at any time, resign hisoffice by letter addressed to the Minister, and suchresignation shall be effective from the date on which it isaccepted by the Minister.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      311.17,
+      451.19,
+      346.24
+    ],
+    "text": "(6) The Minister may, if he considers it expedient to doso, with reasons assigned therefor, remove any member ofthe Unit from office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      359.17,
+      451.19,
+      418.24
+    ],
+    "text": "(7) In the event of a vacancy occurring in the membershipof the Unit as a result of the death, resignation, removalfrom office or otherwise of any member of the Unit, theMinister shall, having regard to the provisions of subsection(1), appoint another person to fill such vacancy.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      431.17,
+      451.2,
+      490.24
+    ],
+    "text": "(8) Where another person is appointed to fill a vacancycaused by death, resignation, removal from office orotherwise of any member of the Unit, the person so appointedshall hold office for the unexpired period of the term ofoffice of the member of the Unit whom he succeeds.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      503.17,
+      451.2,
+      550.24
+    ],
+    "text": "(9) Every member of the Unit shall be paid suchremuneration as may be determined by the Minister inconsultation with the Minister assigned the subject ofFinance.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      563.17,
+      451.18,
+      586.24
+    ],
+    "text": "(10) The members of the Unit, in the exercise andperformance of their powers and functions under this Act\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      599.17,
+      451.16,
+      622.24
+    ],
+    "text": "(a)shall be subject to such conditions of appointmentas may be prescribed; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      635.17,
+      451.19,
+      670.24
+    ],
+    "text": "(b)in relation to any investigation under this Act, shallnot be under the direction, control, or supervisionof the Inspector General of Police:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185.13,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "13Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      286.31,
+      442.29,
+      314.37
+    ],
+    "text": "Disclosure ofconflict ofinterest.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      203.17,
+      383.88,
+      237.76
+    ],
+    "text": "Provided however, the Inspector General of Police shallhave power to exercise disciplinary control over, or to transferthe members of the Unit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      250.09,
+      383.89,
+      272.8
+    ],
+    "text": "(11) The Unit shall at all times act independently andimpartially.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      285.13,
+      383.92,
+      366.4
+    ],
+    "text": "22.(1) The Minister shall, prior to appointing anypolice officer as a member to the Unit under section 21,satisfy himself that such officer has no financial, personal orother interest or relationship in relation to any matter whichis under investigation under this Act, as is likely to affectprejudicially the discharging of such officer\u2019s duties as amember of the Unit.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      378.73,
+      383.89,
+      413.2
+    ],
+    "text": "(2) A member of the Unit shall disclose to the Ministerand the Inspector General of Police of any instance of conflictof interest or relationship\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      425.53,
+      383.86,
+      448.36
+    ],
+    "text": "(a)prevailing at the time of such member\u2019s appointmentas a member of the Unit; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      460.69,
+      383.9,
+      506.8
+    ],
+    "text": "(b)arising or likely to arise in the course of anyinvestigation, in relation to any matter or personsubject to an investigation by the Unit under thisAct.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      519.13,
+      260.14,
+      530.2
+    ],
+    "text": "23.(1) The Unit shall\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.57,
+      542.53,
+      383.89,
+      612.16
+    ],
+    "text": "(a)upon receipt of any information undersection 16 or 17, if it is satisfied that suchinformation is credible and that suchinformation discloses material upon whichan investigation ought to be conducted;or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.57,
+      624.49,
+      383.88,
+      670.84
+    ],
+    "text": "(b)on its motion, if the Head of the Unit issatisfied that there is prima facie evidenceof the commission of an offence underthis Act,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      520.31,
+      452.14,
+      548.37
+    ],
+    "text": "Investigation ofoffences by theUnit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201914",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      203.65,
+      451.16,
+      240.04
+    ],
+    "text": "conduct investigations as may be necessary for the purposeof institution of criminal proceedings in respect of anyoffence under this Act:",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      254.41,
+      451.19,
+      328.96
+    ],
+    "text": "Provided however, that where such information orevidence discloses the commission of an offence undersection 70 of the Bribery Act (Chapter 26), the Unit shallrefer such information or evidence to the Commission toInvestigate Allegations of Bribery or Corruption, forinvestigation and prosecution.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      343.33,
+      451.16,
+      367.12
+    ],
+    "text": "(2) Upon completion of an investigation undersubsection (1), the Head of the Unit shall\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      381.37,
+      451.17,
+      405.16
+    ],
+    "text": "(a)prepare a report containing the findings of suchinvestigation; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      419.53,
+      451.21,
+      494.08
+    ],
+    "text": "(b)where the Unit finds that it has reasonable groundsto suspect that an offence under this Act has beencommitted, refer such report along with any otherdocuments available with the Unit in relation tosuch alleged offence, to the Attorney General forconsideration and prosecution; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.71,
+      508.33,
+      451.19,
+      570.28
+    ],
+    "text": "(c)where the investigation discloses the commissionof an offence under the Bribery Act, refer such reportto the Commission to Investigate Allegations ofBribery or Corruption, for investigation andprosecution.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      584.53,
+      451.16,
+      608.32
+    ],
+    "text": "24.For the purpose of conducting any investigation ofan offence under this Act, the Unit shall have power to\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      226.87,
+      622.69,
+      451.18,
+      671.8
+    ],
+    "text": "(a)procure and receive all such evidence, written ororal, and to examine all such persons as the Unitmay think necessary or desirable to procure, receiveor examine;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      585.35,
+      187.15,
+      603.81
+    ],
+    "text": "Powers of theUnit.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      185.13,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "15Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.57,
+      203.65,
+      383.89,
+      298.96
+    ],
+    "text": "(b)require any person to attend before the Unit for thepurposes of being examined by the Unit and tosubmit answers to questions raised by the Unit,relevant in the opinion of the Unit to the mattersunder investigation by way of an affidavit or, ifnecessary administer oath or affirmation inaccordance with the Oaths or AffirmationsOrdinance (Chapter 17);",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.29,
+      311.89,
+      383.88,
+      346.96
+    ],
+    "text": "(c)summon any person to produce any data,information, document or other thing in hispossession or control;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.57,
+      359.89,
+      383.89,
+      394.96
+    ],
+    "text": "(d)require any service provider to produce anysubscriber information or traffic data in thepossession or control of such service provider;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.29,
+      407.89,
+      383.89,
+      454.96
+    ],
+    "text": "(e)direct by notice in writing the manager of any bankto produce, within such time as may be specified inthe notice, any book, document or cheque of thebank containing entries relating to any account of\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.85,
+      467.89,
+      383.87,
+      502.96
+    ],
+    "text": "(i)any person in respect of whom aninvestigation of an offence under this Act isconducted;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      185.85,
+      515.89,
+      368.85,
+      526.96
+    ],
+    "text": "(ii)the spouse or any child of such person;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      182.85,
+      539.89,
+      383.85,
+      562.96
+    ],
+    "text": "(iii)a company of which such person is adirector;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      183.57,
+      575.89,
+      383.85,
+      598.96
+    ],
+    "text": "(iv)a trust in which such person has a beneficialinterest;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      186.57,
+      611.89,
+      371.87,
+      622.96
+    ],
+    "text": "(v)a firm of which such person is a partner,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      179.85,
+      635.89,
+      383.89,
+      670.96
+    ],
+    "text": "or to produce as specified in that notice, certifiedcopies of such book, document, cheque or of anyentry therein;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201916",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      229.15,
+      203.77,
+      451.2,
+      292.84
+    ],
+    "text": "(f)notwithstanding the provisions relating toconfidentiality of information contained in theInland Revenue Act, No. 24 of 2017, direct bynotice in writing the Commissioner-General ofInland Revenue to produce, as specified in thenotice, all information available to suchCommissioner-General relating to the affairs of\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      256.15,
+      307.81,
+      451.17,
+      344.92
+    ],
+    "text": "(i)any person in respect of whom aninvestigation of an offence under this Act isconducted; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      253.15,
+      359.77,
+      435.42,
+      370.84
+    ],
+    "text": "(ii)the spouse or any child of such person,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      247.15,
+      385.81,
+      451.17,
+      448.84
+    ],
+    "text": "and to produce, as specified in the notice, anydocument or a certified copy of any documentrelating to such person, spouse or child which is inthe possession or under the control of suchCommissioner-General;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      463.81,
+      451.17,
+      500.8
+    ],
+    "text": "(g)direct any person in respect of whom aninvestigation of an offence under this Act isconducted, to furnish an affidavit\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      256.15,
+      515.77,
+      451.18,
+      617.8
+    ],
+    "text": "(i)enumerating all movable or immovableproperty owned or possessed at any time, orat such time as may be specified by the Unitby such person, or the spouse or any childof such person and specifying the date onwhich each of the properties so set out wasacquired, whether by way of purchase, gift,bequest, inheritance or otherwise; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      253.15,
+      632.77,
+      451.18,
+      669.88
+    ],
+    "text": "(ii)containing particulars of such other matterswhich in the opinion of the Unit are relevantto the investigation;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      185.13,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "17Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      203.77,
+      374.88,
+      214.84
+    ],
+    "text": "(h)direct any other person to furnish an affidavit\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.85,
+      229.81,
+      383.89,
+      318.88
+    ],
+    "text": "(i)enumerating all movable or immovableproperty owned or possessed at any time, orat such time as may be specified by the Unit,by such person, where the Unit hasreasonable grounds to believe that suchinformation can assist an investigationconducted by the Unit; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      185.85,
+      333.85,
+      383.88,
+      370.84
+    ],
+    "text": "(ii)containing particulars of such other matterswhich in the opinion of the Unit are relevantto an investigation conducted by the Unit;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      385.81,
+      383.88,
+      422.92
+    ],
+    "text": "(i)prohibit, under the authority of an Order issued inthat behalf by a Magistrate, on application madefor such purpose by the Unit\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.85,
+      437.77,
+      383.87,
+      474.88
+    ],
+    "text": "(i)any person in respect of whom aninvestigation of an offence under this Act isconducted;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      185.85,
+      489.73,
+      368.85,
+      500.8
+    ],
+    "text": "(ii)the spouse or any child of such person;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182.85,
+      515.77,
+      383.86,
+      539.8
+    ],
+    "text": "(iii)any other person holding any property intrust for such first-mentioned person;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      183.57,
+      554.77,
+      383.85,
+      578.8
+    ],
+    "text": "(iv)a company of which such person is adirector; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      186.57,
+      593.77,
+      371.86,
+      604.84
+    ],
+    "text": "(v)a firm in which such person is a partner,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      179.85,
+      619.81,
+      383.87,
+      669.88
+    ],
+    "text": "from transferring the ownership of, or any interestin, any movable or immovable property specifiedin such Order, until such time the Order is revokedby the Court;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201918",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      230.11,
+      203.17,
+      452.15,
+      238.24
+    ],
+    "text": "(j)require, under the authority of an Order issued inthat behalf by a Magistrate, on application madefor such purpose by the Unit\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      257.11,
+      251.17,
+      452.14,
+      335.32
+    ],
+    "text": "(i)the Controller of Immigration andEmigration to impound the passport andother travel documents of any person inrespect of whom an investigation of anoffence under this Act is conducted, for suchperiod not exceeding three months, as maybe specified in such Order;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      254.11,
+      348.85,
+      452.13,
+      445.96
+    ],
+    "text": "(ii)any police officer as shall be specified inthat Order, whether by name or by office, totake all such steps as may be necessary toprevent the departure from Sri Lanka of anyperson in respect of whom an investigationof an offence under this Act is conducted,for such period not exceeding three months,as may be specified in such Order; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      228.67,
+      459.49,
+      452.16,
+      495.16
+    ],
+    "text": "(k)call or receive any data, information, document orevidence from any person, government or non-government institution or from any foreign agency.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      508.69,
+      452.27,
+      593.56
+    ],
+    "text": "25.Notwithstanding anything to the contrary in theCode of Criminal Procedure Act or any other law, theAttorney General may institute criminal proceedings in theHigh Court of Sri Lanka in respect of an offence underChapters I and II of Part II of this Act based on the materialcollected in the course of an investigation conducted by theUnit under section 23.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      607.09,
+      452.14,
+      630.52
+    ],
+    "text": "26.(1) Where the Unit has reasonable grounds tosuspect that\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      227.95,
+      644.05,
+      452.24,
+      667.6
+    ],
+    "text": "(a)an offence under this Act is being committed or hasbeen committed at any premises, and evidence of",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      509.27,
+      184.87,
+      537.33
+    ],
+    "text": "Institution ofcriminalproceedings.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.15,
+      608.27,
+      199.16,
+      636.33
+    ],
+    "text": "Unit to enter andsearch premisesor persons.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      185.13,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "19Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      179.85,
+      203.65,
+      383.88,
+      227.32
+    ],
+    "text": "the commission of such offence is to be found atany premises or with any person; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      241.69,
+      383.89,
+      290.92
+    ],
+    "text": "(b)any data, information, document or deviceconnected to the commission of any offence underthis Act is to be found at any premises or with anyperson,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      305.17,
+      383.88,
+      379.72
+    ],
+    "text": "a member of the Unit or any person authorised by the Headof the Unit may enter and search such premises or any personfound on such premises in accordance with the provisionsof the Code of Criminal Procedure Act. Such member orperson may obtain the assistance of police officers outsidethe Unit to carry out such search.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      394.09,
+      383.89,
+      443.2
+    ],
+    "text": "(2) A member of the Unit or any person authorised by theHead of the Unit who enters and search any premises orperson under subsection (1) may, in the manner providedfor by the Code of Criminal Procedure Act\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      457.57,
+      383.89,
+      519.4
+    ],
+    "text": "(a)seize any device which is found on such premisesor with such person and which such member orauthorised person has reasons to believe to beevidence of the commission of an offence underthis Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      533.77,
+      383.88,
+      608.32
+    ],
+    "text": "(b)seize data, information or document which is foundon such premises or with such person and whichsuch member or authorised person has reasons tobelieve to be evidence of the commission of anoffence under this Act, or obtain any copy thereof;or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      160.29,
+      622.69,
+      383.89,
+      671.8
+    ],
+    "text": "(c)arrest any person found on such premises who suchmember or authorised person has reasons to believeto be connected with the commission of an offenceunder this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      167.17,
+      421.88,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201920",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      203.17,
+      452.16,
+      298.24
+    ],
+    "text": "(3) A member of the Unit or any person authorised by theHead of the Unit making an arrest without a warrant of anyperson suspected of committing an offence under this Act,shall, without unnecessary delay and within twenty fourhours of such arrest, exclusive of the time taken for thejourney from the place of arrest to the presence of theMagistrate, produce such person before the Magistrate ofthe Court nearest to the place such person is arrested.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      311.17,
+      452.15,
+      358.24
+    ],
+    "text": "(4) Where, by virtue of this section, a person has anypower to enter into any premises such person may use suchforce as is reasonably necessary for the purpose of exercisingsuch power.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      371.17,
+      452.15,
+      406.24
+    ],
+    "text": "(5) Whenever it is necessary to cause a woman to besearched the search shall be made by another woman withstrict regard to decency.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      419.17,
+      452.14,
+      442.24
+    ],
+    "text": "27.(1) Where a member of the Unit or any personauthorised by the Head of the Unit is satisfied\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.95,
+      455.17,
+      452.16,
+      490.24
+    ],
+    "text": "(a)that any information or data stored in any electronicdevice is reasonably required for the purposes ofan investigation under this Act; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      227.95,
+      503.17,
+      452.13,
+      538.24
+    ],
+    "text": "(b)that there is a risk that such information or datamay be lost, destroyed, modified or renderedinaccessible,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      551.17,
+      452.13,
+      610.24
+    ],
+    "text": "such member or the authorized person may by writtennotice require the person in control of such electronic deviceto ensure that the information or data be preserved for suchperiod not exceeding thirty days as may be specified insuch notice.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      623.17,
+      452.16,
+      670.36
+    ],
+    "text": "(2) On an application made to a Magistrate havingjurisdiction, the period for which the information or data isto be preserved may be extended for such further period,which in the aggregate shall not exceed ninety days.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      420.35,
+      193.15,
+      438.81
+    ],
+    "text": "Preservation ofinformation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "21Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      203.17,
+      383.88,
+      250.24
+    ],
+    "text": "28.A member of the Unit or any person authorised bythe Head of the Unit who conducts any search, inspection ordoes any other thing in the course of an investigation of anoffence under this Act-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      159.57,
+      263.17,
+      383.89,
+      322.24
+    ],
+    "text": "(a)shall make every endeavor to ensure that theordinary course of legitimate business for whichany device which is being searched or inspectedmay be used is not hampered by such search,inspection or investigation; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      159.57,
+      335.17,
+      383.89,
+      370.24
+    ],
+    "text": "(b)shall not seize such device if such seizure willprejudice the conduct of such ordinary course ofbusiness, unless-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      185.85,
+      383.17,
+      383.88,
+      418.24
+    ],
+    "text": "(i)it is not possible to conduct the search orinspection on the premises where such deviceis located; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      182.85,
+      431.17,
+      383.88,
+      490.24
+    ],
+    "text": "(ii)seizure of such device is essential to preventthe commission or continuance of the offenceor to obtain custody of any information ordata which would otherwise be lost,destroyed, modified or rendered inaccessible.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      503.17,
+      383.89,
+      622.24
+    ],
+    "text": "29. Where any data, information, documents, or deviceshave been seized or rendered inaccessible during any searchor inspection in the course of an investigation of an offenceunder this Act, the member of the Unit or the personauthorised by the Unit conducting such search or inspectionshall issue a complete list of such data, information,documents or devices including the date and time of suchseizure or of rendering it inaccessible to the owner or theperson in charge of such data, information, documents ordevices.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      635.17,
+      383.86,
+      670.24
+    ],
+    "text": "30. (1) Every offence under Chapter I of Part II of this Actshall be triable by the High Court of Sri Lanka establishedunder Article 154P of the Constitution.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      205.07,
+      446.86,
+      244.41
+    ],
+    "text": "Seizure of anydevice not tohamper itsordinary use.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      503.87,
+      451.29,
+      533.49
+    ],
+    "text": "Issuing a list ofseizeddocuments, &c.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.85,
+      636.59,
+      452.13,
+      670.89
+    ],
+    "text": "High Court totry offencesunder Chapter Iof Part II.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      212.11,
+      167.17,
+      422.84,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201922",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      202.81,
+      451.19,
+      248.32
+    ],
+    "text": "(2)Where an offence under Chapter I of Part II of thisAct is committed outside Sri Lanka, such High Court shallhave the jurisdiction to try such offence as if such offence iscommitted in Sri Lanka if \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      259.15,
+      260.29,
+      451.17,
+      282.88
+    ],
+    "text": "(a) the person who committed such offence ispresent in Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      259.15,
+      294.85,
+      451.16,
+      317.32
+    ],
+    "text": "(b) the person who committed such offence is acitizen of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      259.15,
+      329.29,
+      451.18,
+      363.4
+    ],
+    "text": "(c) the person in relation to whom the offenceis alleged to have been committed is acitizen of Sri Lanka; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      259.15,
+      375.25,
+      451.19,
+      409.36
+    ],
+    "text": "(d) such offence is committed on board anaircraft or vessel while in the air space of SriLanka or the territorial waters of Sri Lanka.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      421.33,
+      451.24,
+      512.8
+    ],
+    "text": "(3) Where in any proceedings in relation to any offenceunder this Act, any question including the exercise of anypower arises in respect of which no provision or adequateprovision has been made by or under this Act or any otherenactment, the High Court shall have power to make suchOrders and give such directions in so far as the same shallnot conflict or be inconsistent with any provision of thisAct.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      319.15,
+      524.77,
+      355.14,
+      535.84
+    ],
+    "text": "PART V",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      321.43,
+      547.81,
+      352.87,
+      558.88
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      570.73,
+      451.18,
+      673.84
+    ],
+    "text": "31. The Secretary, Director of Sports, every member ofthe Unit or every officer, employee or other person appointedto assist the Secretary or Director of Sports or the Unit underthis Act shall, before entering upon the duties of suchSecretary, Director of Sports, member, officer, employee orperson, sign a declaration pledging not to disclose anyinformation received by him or coming to his possession orknowledge in the exercise and discharge of his powers andfunctions under this Act, except-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.15,
+      570.47,
+      199.15,
+      588.93
+    ],
+    "text": "Duty to maintainsecrecy.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "23Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.81,
+      203.29,
+      384.82,
+      226.72
+    ],
+    "text": "(a) for the purpose of giving effect to the provisionsof this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.81,
+      240.25,
+      384.83,
+      263.56
+    ],
+    "text": "(b) when required under any provision of any otherwritten law; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      277.09,
+      384.87,
+      411.16
+    ],
+    "text": "(c) when required to do so by a court of law..32.(1) Every service provider from whom anyinformation or data has been requested or obtained underthis Act or any person to whom a written notice has beenissued for the preservation of any information or data undersection 27 shall maintain strict confidentiality in relation tosuch information or data and the fact that such informationor data has been requested, obtained or required to bepreserved, and shall not make any disclosure in regard tosuch matters other than with lawful authority.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      424.69,
+      384.83,
+      460.36
+    ],
+    "text": "(2)A service provider shall not be held liable underthe civil or criminal law for the disclosure of any informationor data for the purposes of an investigation under this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      473.89,
+      384.87,
+      558.76
+    ],
+    "text": "33.(1) The secretary of the Board of Management ofevery National Association of Sports recognized under thisAct shall maintain a code of ethics, subject to the directionsof the Secretary, governing the conduct of persons connectedto such sport for the purpose of ensuring the maintenance ofdiscipline and prevention of match fixing, corruption, illegalmanipulation and illegal betting in such sport.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      572.29,
+      384.82,
+      607.96
+    ],
+    "text": "(2)Every person connected to a sport shall be boundby the provisions of the code of ethics of the respectivesport.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.81,
+      621.49,
+      384.83,
+      669.52
+    ],
+    "text": "(3) Any person connected to a sport who acts incontravention of the provisions of the code of ethics of suchsport shall also be liable to such sanctions as may be providedfor in such code of ethics.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      303.35,
+      449.87,
+      341.01
+    ],
+    "text": "Serviceproviders tomaintainconfidentiality.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      474.83,
+      450.58,
+      493.29
+    ],
+    "text": "Maintenance ofcode of ethics.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      167.17,
+      422.84,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201924",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      204.13,
+      451.2,
+      295.6
+    ],
+    "text": "34.(1) There shall be established a Reward Fund underthe control and administration of the Secretary for the purposeof rewarding persons who provide information that resultsin the detection of any offence committed by any personunder this Act and the prosecution of such offence. Themembers of the Unit shall not be entitled to any reward fromthe Reward Fund.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      311.29,
+      451.18,
+      349.12
+    ],
+    "text": "(2)There shall be paid into the Reward Fund all suchsums of money as may be voted upon from time to time byParliament for the purpose.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      364.93,
+      451.22,
+      429.52
+    ],
+    "text": "(3)The Minister may prescribe the manner in whichrewards shall be paid to persons who provide information.The amount of reward shall be determined on the basis ofdetection, institution of proceedings and successfulprosecution, of an offence.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      445.33,
+      451.2,
+      496.6
+    ],
+    "text": "(4)The Secretary shall cause proper books of accountsto be kept of the income and expenditure of the RewardFund and all other financial transactions in relation to theReward Fund.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      512.29,
+      451.17,
+      550.12
+    ],
+    "text": "(5)The provisions of Article 154 of the Constitutionshall apply to, and in relation to, the audit of the accounts ofthe Reward Fund.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      565.93,
+      451.19,
+      670.72
+    ],
+    "text": "35.No member of the Unit or any officer, employee orother person appointed to assist the Unit for the purposes ofthis Act, shall be liable in any suit or other legal proceedingsfor any lawful act which is done or purported to be done ingood faith by such member, officer, employee or person asthe case may be, in pursuance of the powers conferred by orunder this Act, or for the purpose of carrying out the provisionsof this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      205.31,
+      188.59,
+      214.17
+    ],
+    "text": "Reward Fund.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      567.35,
+      187.87,
+      595.41
+    ],
+    "text": "Protection foracts done ingood faith.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "25Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      203.65,
+      383.89,
+      278.2
+    ],
+    "text": "36.Where there is an extradition arrangement in forcebetween the Government of Sri Lanka and the Governmentof any other State, such arrangement shall be deemed, forthe purpose of the Extradition Law, No. 8 of 1977, to includeprovisions for the extradition in respect of an offence underChapter I of Part II of this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      292.45,
+      383.9,
+      328.96
+    ],
+    "text": "37.The Extradition Law, No. 8 of 1977 is herebyamended by the insertion immediately before Part B of theSchedule to that Law, of the following:-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      170.85,
+      343.33,
+      383.88,
+      379.72
+    ],
+    "text": "\u201c( ) An offence within the meaning of the Preventionof Offences relating to Sports Act, No. 24 of2019.\u201d.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      394.09,
+      383.89,
+      468.64
+    ],
+    "text": "38.Notwithstanding anything contained in theExtradition Law, No. 8 of 1977, an offence under Chapter Iof Part II of this Act shall, for the purposes only of extraditionunder that Law, be deemed not to be a fiscal offence, or anoffence of a political nature, or an offence connected with apolitical offence or an offence inspired by political motives.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      483.01,
+      383.9,
+      532.12
+    ],
+    "text": "39.(1) The Minister may make regulations under thisAct in respect of all matters which are required by this Act tobe prescribed or in respect of which regulations are requiredor authorized to be made under this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      546.49,
+      383.94,
+      608.32
+    ],
+    "text": "(2)In particular and without prejudice to the generalityof the powers conferred by subsection (1), the Minister maymake regulations in respect of the measures to be taken forthe purpose of preventing, detecting and investigatingoffences under this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.85,
+      622.69,
+      383.88,
+      671.8
+    ],
+    "text": "(3)Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of publication, or on such later date as may bespecified therein.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      204.35,
+      445.29,
+      242.01
+    ],
+    "text": "Provisionsrelating toextraditionarrangements.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      292.31,
+      449.14,
+      329.97
+    ],
+    "text": "Amendment ofthe ExtraditionLaw, No. 8 of1977.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      394.79,
+      455.85,
+      422.85
+    ],
+    "text": "Interpretation inrelation to theExtradition Law.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      483.35,
+      439.29,
+      492.21
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      167.17,
+      422.84,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201926",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      203.29,
+      451.18,
+      238.96
+    ],
+    "text": "(4)(a) Every regulation made by the Minister shall,within three months after its publication in the Gazette, bebrought before Parliament for approval.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      252.49,
+      451.19,
+      300.52
+    ],
+    "text": "(b) Any regulation which is not so approved shall bedeemed to be rescinded as from the date of such disapproval,but without prejudice to anything previously donethereunder.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      211.15,
+      314.05,
+      451.19,
+      349.72
+    ],
+    "text": "(5)Notification of the date on which any regulationmade by the Minister is deemed to be so rescinded shall bepublished in the Gazette.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      223.15,
+      363.25,
+      450.45,
+      374.32
+    ],
+    "text": "40.In this Act, unless the context otherwise requires -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      238.15,
+      387.85,
+      451.19,
+      472.72
+    ],
+    "text": "\u201cbetting operator\u201d means any company orundertaking that promotes, brokers,arranges or conducts any form of bettingactivity in relation to any sport or sportingevent and includes any director, partner,officer, employee, servant and agent of suchcompany or undertaking;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      238.15,
+      486.25,
+      451.17,
+      534.16
+    ],
+    "text": "\u201cBoard of Management\u201d means the body which is incharge of the management andadministration of the affairs of any NationalAssociation of Sports;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      238.15,
+      547.69,
+      451.19,
+      571.12
+    ],
+    "text": "\u201cchild\u201d means a male or a female under the age ofeighteen;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      238.15,
+      584.65,
+      451.18,
+      607.96
+    ],
+    "text": "\u201cCode of Criminal Procedure Act\u201d means the Code ofCriminal Procedure Act, No. 15 of 1979;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      238.15,
+      621.49,
+      451.18,
+      669.52
+    ],
+    "text": "\u201cCommissioner-General of Inland Revenue\u201d meansthe Commissioner-General of InlandRevenue appointed under section 97 ofthe Inland Revenue Act, No. 24 of 2017;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      363.83,
+      190.16,
+      372.69
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "27Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      203.05,
+      383.89,
+      273.04
+    ],
+    "text": "\u201cCommission to Investigate Allegations of Briberyor Corruption\u201d means the Commission toInvestigate Allegations of Bribery orCorruption established by section 2 of theCommission to Investigate Allegations ofBribery or Corruption Act, No. 19 of 1994;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      285.61,
+      383.89,
+      320.32
+    ],
+    "text": "\u201ccomputer system\u201d means a computer or group ofinter-connected computers, including theinternet;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      332.77,
+      383.88,
+      391.12
+    ],
+    "text": "\u201cController of Immigration and Emigration\u201d meansthe Controller of Immigration andEmigration appointed under section 4 ofthe Immigrants and Emigrants Act (Chapter351);",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      403.57,
+      383.88,
+      438.28
+    ],
+    "text": "\u201cDirector of Sports\u201d means the Director of Sportsappointed under section 3 of the SportsLaw, No. 25 of 1973;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      450.73,
+      332.18,
+      461.8
+    ],
+    "text": "\u201cdevice\u201d includes an electronic device;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      474.37,
+      344.87,
+      485.44
+    ],
+    "text": "\u201cdocument\u201d includes an electronic record;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      498.01,
+      383.86,
+      532.6
+    ],
+    "text": "\u201celectronic device\u201d means any device used forcommunication or for processing ortransmission of information or data;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      545.17,
+      383.89,
+      579.88
+    ],
+    "text": "\u201celectronic means\u201d includes e-mail, fax, short messageservice (sms), fixed telephone, mobilephone and any online method;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      592.33,
+      383.88,
+      638.8
+    ],
+    "text": "\u201celectronic record\u201d means information, record or datagenerated, stored, received or sent in anelectronic form or microfilm, or by anyother similar means;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      170.85,
+      651.37,
+      383.86,
+      674.44
+    ],
+    "text": "\u201cinformation\u201d includes data, text, images, sound,codes, database or microfilm;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      212.11,
+      167.17,
+      422.84,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201928",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      237.19,
+      202.93,
+      450.21,
+      237.4
+    ],
+    "text": "\u201cMinister\u201d means the Minister assigned the subjectof Sports under Article 43 or 44 of theConstitution;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      237.19,
+      249.73,
+      450.2,
+      284.2
+    ],
+    "text": "\u201cNational Association of Sports\u201d means any NationalAssociation of Sports established in termsof the Sports Law, No. 25 of 1973;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      237.19,
+      296.53,
+      393.92,
+      307.6
+    ],
+    "text": "\u201cperson connected to a sport\u201d means-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      319.93,
+      450.22,
+      366.16
+    ],
+    "text": "(a) any member or an employee of theNational Olympic Committee of SriLanka established by section 18 of theSports Law, No. 25 of 1973;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      378.49,
+      450.21,
+      412.96
+    ],
+    "text": "(b) any person who is a member or anemployee of any National Associationof Sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      425.29,
+      450.22,
+      471.4
+    ],
+    "text": "(c) any person or body of persons beingan affiliated member, club, team,association or league of any NationalAssociation of Sports;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      483.73,
+      450.22,
+      565.0
+    ],
+    "text": "(d) any player who participates in anysport, sporting event, internationalgame, tournament or championshiporganized, held, convened orauthorized by any NationalAssociation of Sports nationally orinternationally;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      577.33,
+      450.22,
+      623.56
+    ],
+    "text": "(e) in the case of a minor player who is amember of any National Associationof Sports, such player\u2019s parents,guardians or agents; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      279.19,
+      635.89,
+      450.21,
+      670.36
+    ],
+    "text": "(f)any person who is an official, selector,sports manager, committee member,coach, trainer, masseur,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "29Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      230.85,
+      203.29,
+      383.88,
+      288.16
+    ],
+    "text": "physiotherapist, medical official,paramedic, umpire, match adjudicator,match referee, curator, member ofsupport staff, venue staff or groundstaff, sports associate and a sponsorassociated with any sport or sportingevent;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      301.69,
+      383.89,
+      337.36
+    ],
+    "text": "\u201cplayer\u201d means any person who participates in anysport or sporting event at school, club,provincial, national or international level;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      350.89,
+      383.9,
+      361.96
+    ],
+    "text": "\u201cpremises\u201d includes any vehicle,vessel or aircraft;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      375.49,
+      383.9,
+      398.92
+    ],
+    "text": "\u201cprescribed\u201d means prescribed by regulations madeunder this Act;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      412.45,
+      383.89,
+      448.12
+    ],
+    "text": "\u201cSecretary\u201d means the Secretary to the Ministry ofthe Minister assigned the subject of Sportsunder Article 43 or 44 of the Constitution;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      461.65,
+      286.31,
+      472.72
+    ],
+    "text": "\u201cservice provider\u201d means-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      215.85,
+      486.25,
+      383.87,
+      546.52
+    ],
+    "text": "(a) a public or private entity whichprovides the ability for its subscribersto communicate by means of acomputer system or electronic systemor by any other means; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      215.85,
+      560.05,
+      383.87,
+      595.72
+    ],
+    "text": "(b) any other entity that processes orstores computer data or information onbehalf of that entity or its customers;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      609.25,
+      383.89,
+      669.52
+    ],
+    "text": "\u201csport\u201d includes any form of sport, game, pastime,physical training, body building andexercise which is recognized by theSecretary as a sport for the purposes of theSports Law, No. 25 of 1973;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      212.11,
+      167.17,
+      422.84,
+      190.24
+    ],
+    "text": "Prevention of Offences relating to SportsAct, No. 24 of 201930",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      247.15,
+      203.29,
+      451.19,
+      251.32
+    ],
+    "text": "\u201csporting event\u201d includes a match, game,competition, race or any event connectedwith any sport, whether at national orinternational level;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      247.15,
+      262.33,
+      451.2,
+      317.44
+    ],
+    "text": "\u201csubscriber information\u201d means any informationcontained in the form of computer data orany other form that is held by a serviceprovider, relating to subscribers of itsservices; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      247.15,
+      330.37,
+      358.18,
+      341.44
+    ],
+    "text": "\u201ctraffic data\u201d means data\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      283.15,
+      354.37,
+      451.18,
+      389.44
+    ],
+    "text": "(a) that relates to the attributes of acommunication by means of acomputer system;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      283.15,
+      402.37,
+      451.17,
+      437.44
+    ],
+    "text": "(b) which is generated by a computersystem that is part of a serviceprovider; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      283.15,
+      450.37,
+      451.18,
+      497.44
+    ],
+    "text": "(c) which shows communications origin,destination, route, time, data, size,duration or details of subscriberinformation.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.15,
+      510.37,
+      451.2,
+      545.44
+    ],
+    "text": "41.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      139.15,
+      510.47,
+      199.15,
+      538.53
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      184.05,
+      167.17,
+      383.85,
+      190.24
+    ],
+    "text": "31Prevention of Offences relating to SportsAct, No. 24 of 2019",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      146.37,
+      611.51,
+      454.65,
+      629.97
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
