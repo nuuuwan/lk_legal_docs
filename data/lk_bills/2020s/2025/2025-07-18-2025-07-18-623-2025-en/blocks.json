@@ -1,0 +1,4908 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      75.32,
+      42.24,
+      354.68,
+      94.84
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      153.63,
+      113.23,
+      271.62,
+      126.51
+    ],
+    "text": "Part II of July 18, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.73,
+      142.03,
+      253.74,
+      155.31
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.3,
+      170.83,
+      267.95,
+      184.11
+    ],
+    "text": "(Issued on 18.07.2025)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.1,
+      299.14,
+      364.66,
+      327.15
+    ],
+    "text": "INSTITUTE OF FACILITIES MANAGEMENT SRI LANKA (INCORPORATION)",
+    "fonts": [
+      "Times-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.62,
+      354.68,
+      217.29,
+      367.96
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.62,
+      377.08,
+      227.3,
+      390.36
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.09,
+      402.21,
+      369.42,
+      413.55
+    ],
+    "text": "to incorporate the Institute of Facilities Management Sri Lanka",
+    "fonts": [
+      "Times-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.46,
+      428.93,
+      368.41,
+      452.0
+    ],
+    "text": "To be presented in Parliament by Hon. K. Kader Masthan, M.P. for Vanni District",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.43,
+      491.41,
+      370.93,
+      502.75
+    ],
+    "text": "Price : Rs. 72.00 Postage : Rs. 150.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.21,
+      465.5,
+      311.64,
+      474.57
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      102.46,
+      475.1,
+      322.39,
+      484.17
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.23,
+      537.85,
+      295.31,
+      546.92
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.09,
+      334.02,
+      262.18,
+      345.36
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "1Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.63,
+      186.52,
+      65.63,
+      197.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.13,
+      248.52,
+      67.13,
+      259.86
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.13,
+      310.52,
+      68.13,
+      321.86
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.13,
+      384.52,
+      67.13,
+      395.86
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.83,
+      78.52,
+      297.92,
+      102.26
+    ],
+    "text": "AN ACT TO INCORPORATE THE INSTITUTE OF FACILITIES MANAGEMENT SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      115.72,
+      316.67,
+      139.46
+    ],
+    "text": "Be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      152.92,
+      316.66,
+      176.66
+    ],
+    "text": "l. This Act may be cited as the Institute of Facilities Management Sri Lanka (Incorporation) Act, No. of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      185.72,
+      316.7,
+      333.46
+    ],
+    "text": "2. (1) From and after the date of commencement of this Act, such and so many persons as now are enrolled as members of the Institute of Facilities Management Sri Lanka(hereinafter referred to as the \u201cInstitute\u201d)and shall hereafter be admitted as members of the body corporate hereby constituted shall have perpetual succession under the name and style of the \u201cInstitute of Facilities Management Sri Lanka\u201d (hereinafter referred to as the \u201cbody corporate\u201d) and by that name may sue and be sued in all courts, with full power and authority to have and use a common seal and alter the same at its discretion and shall have power to do all other matters and things incidental or appertaining to a body corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      346.92,
+      316.67,
+      395.46
+    ],
+    "text": "(2) The body corporate shall represent the majority interests of the membership of the Institute in the manner provided in this Act and in the rules and shall uphold the professional standards of the Facilities Management profession.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      409.52,
+      316.65,
+      433.86
+    ],
+    "text": "(3) The of\ufb01 cial abbreviation for the body corporate shall be IFMSL.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      448.52,
+      316.65,
+      472.86
+    ],
+    "text": "3. The general objectives for which the body corporate is constituted are hereby declared to be -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.13,
+      487.52,
+      316.66,
+      537.86
+    ],
+    "text": "(a) to protect and promote the interests, status, welfare, rights and privileges of the profession and interest of the public in relation to the profession of Facilities Management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.13,
+      487.52,
+      67.13,
+      498.86
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.13,
+      155.35,
+      353.91,
+      164.42
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.65,
+      451.75,
+      359.09,
+      489.62
+    ],
+    "text": "General Objectives of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      321.13,
+      188.35,
+      369.79,
+      235.82
+    ],
+    "text": "Incorporation of the Institute of Facilities Management Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "2Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      78.52,
+      311.96,
+      104.16
+    ],
+    "text": "(b) to advise and communicate with public authorities on matters relating to Facilities Management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      121.42,
+      311.96,
+      147.06
+    ],
+    "text": "(c) to arbitrate any dispute on Facilities Management which may be referred to the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      164.32,
+      311.95,
+      218.56
+    ],
+    "text": "(d) to organize lectures and discussions and to publish books and other materials in order to disseminate the knowledge on Facilities Management and related subjects;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      235.82,
+      311.96,
+      261.46
+    ],
+    "text": "(e) to encourage the study of law and practice relating to Facilities Management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      278.72,
+      311.95,
+      304.36
+    ],
+    "text": "(f) to create and offer awards and prizes for achievements in the \ufb01 eld of Facilities Management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      321.62,
+      311.96,
+      475.96
+    ],
+    "text": "(g) to organize, supervise and control the admission to membership of the body corporate, to undertake and regulate the professional education and training of persons desiring to do Facilities Management, to prescribe and approve courses of studies and qualifying examinations for membership of the body corporate, to conduct or provide for the conducting of such courses and examinations and to collaborate with recognized educational institutions for the furtherance of education in the \ufb01 eld of Facilities Management;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.43,
+      489.92,
+      311.94,
+      542.86
+    ],
+    "text": "(h) to prescribe the quali\ufb01 cations and disquali\ufb01 cations for membership of the body corporate and the standards of professional conduct for members of the Institute and to secure adherence thereto.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.18,
+      164.52,
+      61.18,
+      175.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.68,
+      249.52,
+      62.68,
+      260.86
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.68,
+      349.52,
+      62.68,
+      360.86
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.68,
+      421.52,
+      62.68,
+      432.86
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.68,
+      504.52,
+      62.68,
+      515.86
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "3Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      78.52,
+      316.69,
+      130.66
+    ],
+    "text": "4. Subject to the provisions of this Act and any other written law, the body corporate shall have the power to do, perform and execute all such acts as are necessary to achieve the objectives of the body corporate including the power -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      142.92,
+      316.67,
+      195.06
+    ],
+    "text": "(a) to acquire, hold, take or give on lease or hire, mortgage, pledge, sell, exchange, or otherwise alienate, encumber or dispose of any immovable property for the purpose of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      207.32,
+      316.65,
+      218.66
+    ],
+    "text": "(b) to publish journals, monographs, books, periodicals,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110.15,
+      220.92,
+      316.69,
+      259.46
+    ],
+    "text": "newspaper articles and to release appropriate information through media for disseminating information on Facilities Management;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      271.72,
+      316.68,
+      323.86
+    ],
+    "text": "(c) to collaborate with, assist, receive assistance from, and develop links with, other persons, agencies and organizations in Sri Lanka or abroad, having objects similar to those of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      336.12,
+      316.67,
+      374.66
+    ],
+    "text": "(d) to accept any gift, endowment or bequest and to carry out any trusts attached to any such gift, endowment or bequest;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      386.92,
+      316.68,
+      452.66
+    ],
+    "text": "(e) to appoint, employ, transfer, exercise disciplinary control over and dismiss, officers and servants required for carrying out of the objects of the body corporate and to prescribe their terms and conditions of services;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      468.52,
+      316.69,
+      507.06
+    ],
+    "text": "(f) to borrow any moneys required for the purposes of the body corporate upon such terms and on such securities as the body corporate may think \ufb01 t;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.15,
+      522.92,
+      316.67,
+      547.86
+    ],
+    "text": "(g) to charge fees for admission of persons to any grade of membership and for renewal of such membership;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59.4,
+      140.97,
+      64.4,
+      152.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.9,
+      220.97,
+      65.9,
+      232.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.9,
+      298.97,
+      66.9,
+      310.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.9,
+      385.97,
+      65.9,
+      397.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.9,
+      465.97,
+      65.9,
+      477.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      320.15,
+      80.95,
+      368.16,
+      109.22
+    ],
+    "text": "Powers and duties of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "4Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      78.52,
+      311.93,
+      89.86
+    ],
+    "text": "(h) to charge fees for the admission of persons to the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.43,
+      91.12,
+      311.95,
+      115.06
+    ],
+    "text": "qualifying examinations and the courses of study conducted by the body corporate;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      131.92,
+      311.95,
+      193.66
+    ],
+    "text": "(i) to invest such moneys of the body corporate as are not immediately required for the purposes of the body corporate in such manner as it deems \ufb01 t, to create and administer trusts and to maintain current, deposit and savings accounts in any Bank;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      204.92,
+      311.93,
+      216.26
+    ],
+    "text": "(j) to appoint Disciplinary Committees to inquire into",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.43,
+      217.52,
+      311.93,
+      241.46
+    ],
+    "text": "complaints of professional misconduct against members of the body corporate;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      252.72,
+      311.95,
+      276.66
+    ],
+    "text": "(k) to adopt a professional plan for the body corporate and arrangements for implementing the same;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      285.92,
+      311.96,
+      309.86
+    ],
+    "text": "(l) to ensure proper management and constitutional propriety of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      331.72,
+      311.97,
+      393.46
+    ],
+    "text": "(m) to adopt rules from time to time at a general meeting of the body corporate and by the requisite majority of the members voting and to make rules for the management of the affairs of the body corporate and for the accomplishment of its objects; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      407.32,
+      311.97,
+      443.86
+    ],
+    "text": "(n) to do all such lawful things as are incidental or conducive to the attainment of the objectives of the body corporate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.43,
+      457.72,
+      311.96,
+      545.06
+    ],
+    "text": "5. The management, control and administration of the affairs of the body corporate shall, subject to the provisions of this Act and the rules made under the Act, be vested in the General Council (hereinafter referred to as \u201cthe Council\u201d) consisting of of\ufb01 ce bearers and such other members as may be elected or appointed in accordance with the rules of the body corporate, made under section 21 of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.38,
+      146.27,
+      61.38,
+      157.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.88,
+      219.27,
+      62.88,
+      230.61
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53.88,
+      300.27,
+      63.88,
+      311.61
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.88,
+      383.27,
+      62.88,
+      394.61
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.88,
+      471.27,
+      62.88,
+      482.61
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.43,
+      535.52,
+      62.43,
+      546.86
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      315.43,
+      459.55,
+      363.43,
+      487.82
+    ],
+    "text": "General Council of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "5Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      78.52,
+      316.67,
+      119.06
+    ],
+    "text": "6. (1) The \ufb01 rst Council of the body corporate shall consist of the members of the Council of the Institute holding of\ufb01 ce on the day preceding the date of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      136.92,
+      316.71,
+      235.86
+    ],
+    "text": "(2) The Council shall consist of the President, the Vice President, the immediate Past President in case of a successive council, the Secretary, the Treasurer, the Assistant Secretary, the Assistant Treasurer and such other number of members consisting of not less than nine Professional Members elected or appointed in accordance with the rules of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      253.72,
+      316.71,
+      323.46
+    ],
+    "text": "7. (1) The Council shall maintain a Register of Members in which shall be recorded the names of every person who on the day preceding the date of commencement of this Act had been a member of the Institute and every person who thereafter shall be duly admitted as a member of the body corporate",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      341.32,
+      316.7,
+      367.26
+    ],
+    "text": "(2) The Council shall meet and function in accordance with the rules of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      385.12,
+      316.68,
+      440.26
+    ],
+    "text": "8. The Council may set up Boards and Committees as it may think desirable and, subject to the de\ufb01 ned powers of such Board and Committees, may delegate to them powers as it may think \ufb01 t.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      458.12,
+      316.67,
+      498.66
+    ],
+    "text": "9. (1) Subject to the provisions of this Act, eligibility for each grade of membership shall be speci\ufb01 ed in the rules made under this Act",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.15,
+      516.52,
+      316.67,
+      542.46
+    ],
+    "text": "(2) The membership shall be comprised of the following grades:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.7,
+      151.12,
+      65.7,
+      162.46
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.2,
+      225.12,
+      67.2,
+      236.46
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58.2,
+      313.12,
+      68.2,
+      324.46
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.2,
+      415.12,
+      67.2,
+      426.46
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.2,
+      519.12,
+      67.2,
+      530.46
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321.15,
+      80.95,
+      365.16,
+      109.22
+    ],
+    "text": "First Council of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321.15,
+      256.15,
+      358.48,
+      274.82
+    ],
+    "text": "Register of Members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321.15,
+      387.75,
+      359.82,
+      416.02
+    ],
+    "text": "Setting up Boards and Committees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321.15,
+      459.95,
+      367.82,
+      478.62
+    ],
+    "text": "Membership of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "6Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      78.52,
+      138.77,
+      89.86
+    ],
+    "text": "(a) Student;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      100.82,
+      147.09,
+      112.16
+    ],
+    "text": "(b) Associate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      123.12,
+      142.09,
+      134.46
+    ],
+    "text": "(c) Member;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      144.42,
+      152.93,
+      155.76
+    ],
+    "text": "(d) Fellow; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      166.72,
+      265.12,
+      178.06
+    ],
+    "text": "(e) Honorary Member or Honorary Follow.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      186.52,
+      311.94,
+      223.46
+    ],
+    "text": "10. (1) The grades of membership mentioned under sub paragraphs (c), (d) and (e) of subsection 9(2) shall be referred to as \u201cProfessional Members\u201d",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      237.72,
+      311.95,
+      274.66
+    ],
+    "text": "(2) Every Professional Member shall be eligible to be elected to the Council or any Board of the body corporate and shall be entitled to all the rights and privileges.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      284.12,
+      311.97,
+      321.06
+    ],
+    "text": "(3) All members are entitled to receive notices of general meetings of the body corporate. However, only Professional Members shall have the right to vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      329.52,
+      311.98,
+      392.06
+    ],
+    "text": "11. The body corporate, on the advice of the Council, may grant membership as an Honorary Member or Honorary Fellow to any person, who is not a member of the Institute, who in the opinion of the Council has given signi\ufb01 cant and distinguished service to the Facilities Management profession.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      406.32,
+      311.97,
+      443.26
+    ],
+    "text": "12. (1) Every member of the Institute, who is registered as a Fellow shall be entitled to use the abbreviated designation \u201cF.IFMSL\u201d after his name.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      457.52,
+      311.96,
+      494.46
+    ],
+    "text": "(2) Every member of the Institute, who is registered as a Member shall be entitled to use the abbreviated designation \u201cM.IFMSL\u201d after his name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.43,
+      508.72,
+      311.94,
+      545.66
+    ],
+    "text": "(3) Every member of the Institute who is registered as Associate of the Institute shall be entitled to use the abbreviated designation \u201cA.IFMSL\u201d after his name",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55.03,
+      167.12,
+      60.03,
+      178.46
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.53,
+      251.12,
+      61.53,
+      262.46
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.53,
+      328.12,
+      62.53,
+      339.46
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.53,
+      405.12,
+      61.53,
+      416.46
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.53,
+      482.12,
+      61.53,
+      493.46
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      316.43,
+      188.15,
+      357.98,
+      206.82
+    ],
+    "text": "Professional Members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      316.43,
+      408.75,
+      357.97,
+      427.42
+    ],
+    "text": "Abbreviated Titles",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      316.43,
+      330.75,
+      356.87,
+      349.42
+    ],
+    "text": "Honorary Membership",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "7Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      78.52,
+      316.69,
+      115.86
+    ],
+    "text": "13. From time to time, the body corporate as recommended by its Council, shall decide on relevant membership criteria and membership fees for members in accordance with its rules.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      130.52,
+      316.71,
+      180.86
+    ],
+    "text": "14. All Professional Members shall be entitled to take and use the title \u201cChartered Facility Manager\u201d subject to being duly registered as a Chartered Facility Manager in accordance with the provisions of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      195.52,
+      316.69,
+      258.86
+    ],
+    "text": "15. (1) A person who is not registered under this Act as a Chartered Facility Manager shall not be entitled to use the said title, nor maintain any action in a court of law for the recovery of any fees for professional services rendered by him as a Chartered Facility Manager.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      273.52,
+      316.69,
+      323.86
+    ],
+    "text": "(2) Subject to the provisions of this Act, all Chartered Facility Managers shall be entitled to use the abbreviation of \u201cC.FM.\u201d, after his name to indicate that he or she is a Chartered Facility Manager.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      338.52,
+      316.7,
+      388.86
+    ],
+    "text": "16. The Council shall prescribe the application forms for registration as a Chartered Facility Manager and the fees payable, in respect of such registration, and the renewal of such registration.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      411.52,
+      316.66,
+      448.86
+    ],
+    "text": "17. (1) No person shall be registered as a Chartered Facility Manager unless he or she is a Professional Member of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      469.52,
+      316.66,
+      493.86
+    ],
+    "text": "(2) No person shall be entitled to be registered as a Chartered Facility Manager -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      505.52,
+      308.44,
+      516.86
+    ],
+    "text": "(a) if he has not attained the age of twenty one years;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      74.15,
+      528.52,
+      244.02,
+      539.86
+    ],
+    "text": "(b) if he is not a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.1,
+      144.27,
+      65.1,
+      155.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.6,
+      221.27,
+      66.6,
+      232.61
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      57.6,
+      299.27,
+      67.6,
+      310.61
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.6,
+      377.27,
+      66.6,
+      388.61
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.6,
+      482.27,
+      66.6,
+      493.61
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321.95,
+      80.75,
+      364.39,
+      99.42
+    ],
+    "text": "Membership criteria",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321.95,
+      198.35,
+      355.49,
+      245.82
+    ],
+    "text": "Use of the Title Chartered Facility Manager",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321.95,
+      132.35,
+      355.49,
+      160.62
+    ],
+    "text": "Chartered Facility Manager",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      320.15,
+      339.95,
+      367.26,
+      397.02
+    ],
+    "text": "Application fee for registration of a Chartered Facility Manager",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      320.15,
+      412.95,
+      359.03,
+      470.02
+    ],
+    "text": "General disquali\ufb01 cations of a Chartered Facility Manager",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "8Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      78.52,
+      311.95,
+      103.06
+    ],
+    "text": "(c) if the has been adjudged by a competent court to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      112.92,
+      311.95,
+      137.46
+    ],
+    "text": "(d) if having been adjudged an insolvent or bankrupt by a competent court; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      147.32,
+      311.95,
+      211.46
+    ],
+    "text": "(e) if he has been convicted by a competent court, whether in Sri Lanka or elsewhere for any offence involving moral turpitude punishable with imprisonment or similar punishment and has not been granted a pardon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      220.32,
+      311.94,
+      258.06
+    ],
+    "text": "18. (1) Subject to the provisions of section 8, there shall be established a \u201cMembership Affairs Board\u201d for the purpose of the body corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      81.43,
+      270.92,
+      290.28,
+      282.26
+    ],
+    "text": "(2) The Membership Affairs Board shall consist of -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      294.12,
+      311.93,
+      345.06
+    ],
+    "text": "(a) a past President of the Institute elected at an Annual General Meeting or at an Extraordinary General Meeting of the body incorporate, who shall be the Chairman of the Board; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      356.92,
+      311.93,
+      381.46
+    ],
+    "text": "(b) three senior Professional members of the Institute; nominated by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      393.32,
+      311.98,
+      470.66
+    ],
+    "text": "19. The Chairman and the members nominated or elected, as the case may be, shall hold of\ufb01 ce for a term of one (01) year and shall be eligible for re-election or re-nomination after the expiration of one year when such Chairman or member, as the case may be, has ceased to hold of\ufb01 ce on the Membership Affairs Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      480.52,
+      311.97,
+      545.46
+    ],
+    "text": "20. The Chairman of the Membership Affairs Board shall preside at every meeting of such Board at which he is present, whereas in the absence of the Chairman at any meeting of the Board, any member elected by the members present shall preside at such meeting.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.93,
+      148.72,
+      60.93,
+      160.06
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.43,
+      220.72,
+      62.43,
+      232.06
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53.43,
+      307.72,
+      63.43,
+      319.06
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.43,
+      392.72,
+      62.43,
+      404.06
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.43,
+      459.72,
+      62.43,
+      471.06
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.43,
+      534.52,
+      62.43,
+      545.86
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      316.43,
+      222.15,
+      361.09,
+      260.02
+    ],
+    "text": "Membership Affairs Board and its constitution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      315.43,
+      396.15,
+      359.63,
+      434.02
+    ],
+    "text": "Term of of\ufb01 ce of the Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      315.43,
+      482.95,
+      359.63,
+      520.82
+    ],
+    "text": "Meetings of the Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "9Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      78.52,
+      316.68,
+      115.46
+    ],
+    "text": "2l. (l) The Council shall appoint a Registrar of the Membership Affairs Board who shall also be the Secretary to the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      124.92,
+      316.68,
+      149.06
+    ],
+    "text": "(2) The Registrar shall keep minutes of the proceedings of meetings of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      163.32,
+      316.68,
+      225.86
+    ],
+    "text": "22. (l) A member of the Membership Affairs Board shall vacate office by reason of absence from three consecutive meetings of the Board or by absence from Sri Lanka for a period exceeding six months or by resignation tendered to the Registrar",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      234.32,
+      316.69,
+      296.86
+    ],
+    "text": "(2) In the event of death or vacation of of\ufb01 ce by a member of the Board, whether elected or nominated, as the case may be, another person shall be elected or nominated, in place of such member, and shall hold of\ufb01 ce for the unexpired part of the term of of\ufb01 ce of such member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      311.12,
+      316.66,
+      335.26
+    ],
+    "text": "23. (1) The Council shall decide on r disquali\ufb01 cations of members of the Membership Affairs Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      343.72,
+      316.65,
+      367.86
+    ],
+    "text": "(2) The Council shall have the power to remove any member from the Membership Affairs Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      382.12,
+      316.68,
+      431.86
+    ],
+    "text": "(3) Subject to the provisions herein contained, the Membership Affairs Board may regulate its own procedure with respect to its meetings and the transaction of business at such meetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      440.32,
+      316.67,
+      464.46
+    ],
+    "text": "24. The functions of the Membership Affairs Board shall be to -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      478.72,
+      316.69,
+      515.66
+    ],
+    "text": "(a) register as Chartered Facility Managers such Professional Members quali\ufb01 ed under this Act-to be so registered;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      74.15,
+      527.12,
+      316.65,
+      538.46
+    ],
+    "text": "(b) to suspend, cancel or restore such registration, in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      110.15,
+      539.92,
+      281.79,
+      551.26
+    ],
+    "text": "accordance with the provisions of this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.65,
+      137.52,
+      64.65,
+      148.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.15,
+      214.52,
+      66.15,
+      225.86
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.15,
+      286.52,
+      67.15,
+      297.86
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.15,
+      382.52,
+      66.15,
+      393.86
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.15,
+      452.52,
+      66.15,
+      463.86
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.65,
+      539.51,
+      67.65,
+      550.85
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      320.15,
+      80.95,
+      364.36,
+      128.42
+    ],
+    "text": "Registrar / Secretary of the Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      320.15,
+      165.15,
+      364.36,
+      203.02
+    ],
+    "text": "Vacation of of\ufb01 ce from Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      320.15,
+      313.15,
+      372.82,
+      360.62
+    ],
+    "text": "Disquli\ufb01 cations of members from Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      320.15,
+      440.95,
+      364.36,
+      478.82
+    ],
+    "text": "Functions of the Membership Affairs Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "10Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      78.52,
+      311.96,
+      102.86
+    ],
+    "text": "(c) to maintain and publish a register of Chartered Facility Managers.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      112.52,
+      311.96,
+      162.86
+    ],
+    "text": "25. (l) The Registrar shall, subject to the directions of the Membership Affairs Board prepare, not later than six months from the date of the \ufb01 rst meeting of the Board, a Register of Chartered Facility Managers.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      177.52,
+      311.97,
+      214.86
+    ],
+    "text": "(2)The Board shall cause copies of the register so prepared to be published in the Gazette not later than one year after the \ufb01 rst meeting of the Board, and annually thereafter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.43,
+      226.52,
+      303.6,
+      237.86
+    ],
+    "text": "(3) In any legal proceedings, whether criminal or civil -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      252.52,
+      311.95,
+      302.86
+    ],
+    "text": "(a) any extract from, or a copy of a register stating whether or not the name of any person has been registered as a Chartered Facility Manager as the case may be; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      317.52,
+      311.93,
+      328.86
+    ],
+    "text": "(b) a certi\ufb01 cate issued under the hand of the Registrar",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.43,
+      330.52,
+      311.94,
+      354.86
+    ],
+    "text": "stating whether or not the name of any person has been registered as a Chartered Facility Manager,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      369.52,
+      311.93,
+      393.86
+    ],
+    "text": "shall constitute prima facie evidence of the facts set out therein and shall be admissible as evidence without further proof.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      403.52,
+      311.97,
+      453.86
+    ],
+    "text": "26. (1) The Council shall prescribe the application forms for registration as a Chartered Facility Manager and the fees payable, in respect of such registration, and the renewal of such registration.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.43,
+      468.52,
+      311.95,
+      544.86
+    ],
+    "text": "(2) Every fee prescribed under the preceding provisions shall be payable to the body corporate. All sums of money required to defray any expenditure incurred by the Membership Affairs Board in the exercise, discharge and performance of its powers, functions and duties under this Act shall be subject to the approval of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      315.43,
+      113.95,
+      352.75,
+      151.82
+    ],
+    "text": "Register of Chartered Facility Manager",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      316.43,
+      405.55,
+      358.63,
+      443.42
+    ],
+    "text": "Registration of Chartered Facility Managers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.68,
+      138.97,
+      60.68,
+      150.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      52.18,
+      226.97,
+      62.18,
+      238.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.18,
+      318.97,
+      63.18,
+      330.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      52.43,
+      404.52,
+      62.43,
+      415.86
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      52.43,
+      482.52,
+      62.43,
+      493.86
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "11Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      78.52,
+      316.68,
+      140.26
+    ],
+    "text": "(3) The Membership Affairs Board shall take a decision on any application for registration within a period of not more than one month of the receipt of such application and shall within one month of its decision notify the applicant of its decision and reasons therefore.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      154.12,
+      316.68,
+      190.66
+    ],
+    "text": "27. Subject to the approval of the Council, the Membership Affairs Board shall have power to remove the name of any person from the appropriate register-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      200.92,
+      316.65,
+      224.86
+    ],
+    "text": "(a) if such person ceases to possess the quali\ufb01 cation which entitled him for registration; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      235.12,
+      316.65,
+      246.46
+    ],
+    "text": "(b) if such person become subject to any disquali\ufb01 cation",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.15,
+      247.72,
+      245.14,
+      259.06
+    ],
+    "text": "mentioned in subsection 17(2); or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      270.32,
+      316.67,
+      294.26
+    ],
+    "text": "(c) if the registration of such person has been procured by fraud or misrepresentation; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      305.52,
+      316.65,
+      316.86
+    ],
+    "text": "(d) if such person, being a member of the body corporate,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.15,
+      318.12,
+      316.68,
+      342.06
+    ],
+    "text": "has been removed from membership under the provisions of the rules of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      351.32,
+      316.69,
+      425.66
+    ],
+    "text": "28. (1) It shall be lawful for the body corporate, from time to time, at any general meeting and by the votes of not less than two- thirds of the Professional Members present and voting, to make rules, not inconsistent with the provisions of this Act, and any other written law for all or any of the following matters:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      439.52,
+      316.67,
+      488.66
+    ],
+    "text": "(a) classi\ufb01 cation of membership, fees payable by each grade of members and procedure to be followed in the admission, withdrawal, expulsion or resignation of members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      74.15,
+      500.92,
+      316.68,
+      550.06
+    ],
+    "text": "(b) constitution and election of the Council, terms of of\ufb01 ce, resignation or removal from of\ufb01 ce or vacation of of\ufb01 ce of the of\ufb01 ce bearers, and powers, duties and functions of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      320.15,
+      155.95,
+      368.58,
+      193.82
+    ],
+    "text": "Powers to remove names from the register",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      320.15,
+      353.55,
+      370.14,
+      372.22
+    ],
+    "text": "Power to make rules",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      59.9,
+      129.47,
+      64.9,
+      140.81
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      214.47,
+      66.4,
+      225.81
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.4,
+      306.47,
+      67.4,
+      317.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      377.47,
+      66.4,
+      388.81
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      453.47,
+      66.4,
+      464.81
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      528.27,
+      66.4,
+      539.61
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "12Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      78.52,
+      311.95,
+      127.66
+    ],
+    "text": "(c) powers, duties and functions of the officers, agents and employees of the body corporate and their appointment, remuneration, dismissal and termination of of\ufb01 ce;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      138.92,
+      311.93,
+      150.26
+    ],
+    "text": "(d) the procedure to be observed for the summoning and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105.43,
+      151.52,
+      311.95,
+      188.06
+    ],
+    "text": "holding meetings of the Institute and the Council and any sub-committee thereof, including the quorum therefore and the conduct of business thereat;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      199.32,
+      311.93,
+      223.26
+    ],
+    "text": "(e) quali\ufb01 cation and disquali\ufb01 cation for membership in the body corporate and in the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      234.52,
+      311.94,
+      258.46
+    ],
+    "text": "(f) Code of Professional Conduct for the members of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      269.72,
+      311.96,
+      306.26
+    ],
+    "text": "(g) administration and management of the property of the body corporate and generally for management of the affairs of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      316.52,
+      311.96,
+      340.46
+    ],
+    "text": "(h) enter into any contract or agreement and negotiate any business with individual or organization;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      350.72,
+      311.95,
+      374.66
+    ],
+    "text": "(i) borrow money, mortgage or charge the undertaking and property of the body corporate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      382.92,
+      311.95,
+      419.46
+    ],
+    "text": "(2) Every member of the body corporate shall, upon the coming into operation of this Act, be subject to the rules to be made from time to time by the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      427.72,
+      311.98,
+      489.46
+    ],
+    "text": "(3) The rules adopted at a General Meeting, immediately after coming into operation of this Act, shall be deemed to have been made under subsection (1) and shall, subject to subsection (4), be for all purposes the rules of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      69.43,
+      497.72,
+      311.98,
+      546.86
+    ],
+    "text": "(4) The rules may be altered, added to, amended or rescinded at a general meeting of the body corporate by the requisite majority of the members voting in accordance with subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54.68,
+      140.72,
+      59.68,
+      152.06
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.18,
+      211.72,
+      61.18,
+      223.06
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52.18,
+      294.72,
+      62.18,
+      306.06
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.18,
+      383.72,
+      61.18,
+      395.06
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.18,
+      452.72,
+      61.18,
+      464.06
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.18,
+      523.52,
+      61.18,
+      534.86
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "13Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      78.52,
+      316.67,
+      115.46
+    ],
+    "text": "(5) The rules made under subsection (l)shall be published in the Gazette within three months upon making such rules and shall come into effect on the date thereof.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      125.92,
+      316.68,
+      188.46
+    ],
+    "text": "29. All property, movable and immovable, acquired or held by the body corporate and all moneys paid to or received by the body corporate under this Act shall be held, used and applied by the body corporate hereby constituted in accordance with the rules of the body corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86.15,
+      198.92,
+      293.89,
+      210.26
+    ],
+    "text": "30. (1) The body corporate shall have its own fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      220.72,
+      316.67,
+      283.26
+    ],
+    "text": "(2) All moneys received hitherto or hereafter by way of gifts, bequests, donations, subscriptions and contributions, by and on account of the body corporate shall be deposited to the credit of the body corporate in one or more banks as the Council shall determine to the credit of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      291.72,
+      316.7,
+      341.46
+    ],
+    "text": "(3) There shall be paid out of the fund all such sums of money as are required to defray any expenditure incurred by the body corporate in the exercise, performance and discharge of its powers duties and functions,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      350.92,
+      316.68,
+      375.06
+    ],
+    "text": "31. (1) The \ufb01 nancial year of the body corporate shall be the calendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      384.52,
+      316.73,
+      421.46
+    ],
+    "text": "(2) The body corporate shall cause proper books of account to be kept of the income and expenditure, assets and liabilities and other transactions of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      430.92,
+      316.68,
+      455.06
+    ],
+    "text": "(3) The accounts of the body corporate shall be examined and audited by a quali\ufb01 ed auditor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86.15,
+      464.52,
+      267.5,
+      475.86
+    ],
+    "text": "(4) In this section, \u201cquali\ufb01 ed auditor\u201d means-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.15,
+      485.32,
+      316.68,
+      548.06
+    ],
+    "text": "(a) an individual who being a member of the Institute of Chartered Accountants of Sri Lanka Act, No. 23 of 1959 or of any other Institute established by law, possesses a certi\ufb01 cate to practice as an Accountant issued by the Council of such Institute; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      59.65,
+      139.52,
+      64.65,
+      150.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.65,
+      220.72,
+      66.65,
+      232.06
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57.65,
+      290.72,
+      67.65,
+      302.06
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.65,
+      363.72,
+      66.65,
+      375.06
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.65,
+      443.72,
+      66.65,
+      455.06
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.65,
+      523.52,
+      66.65,
+      534.86
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      320.15,
+      127.55,
+      370.14,
+      146.22
+    ],
+    "text": "Property of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      321.15,
+      200.55,
+      369.16,
+      219.22
+    ],
+    "text": "Funds of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      321.15,
+      352.55,
+      366.92,
+      371.22
+    ],
+    "text": "Accounts and auditing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "14Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      78.52,
+      311.95,
+      161.36
+    ],
+    "text": "(b) a \ufb01 rm of Accountants, of which each of the resident partners\u2019 is a member of the institute of Chartered Accountants of Sri Lanka or of any other institute established by law, and possesses a certi\ufb01 cate to practice as an Accountant issued by the Council of such Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      178.62,
+      311.97,
+      247.16
+    ],
+    "text": "32. The Annual Report of the Council shall include the Financial statements and accounts, the balance sheet and the auditor\u2019s report prepared for a period of twelve (12) months commencing on the \ufb01 rst day of April each year and ending on the thirty \ufb01 rst day of March of the following year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      264.42,
+      311.97,
+      347.26
+    ],
+    "text": "33. All debts and liabilities of the Institute existing on the day preceding the date of commencement of this Act, shall be paid or discharged by the body corporate hereby constituted and all debts due to, and subscriptions and fees payable to the Institute on that day, shall be paid to the body corporate for the purposes of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      364.52,
+      311.97,
+      461.66
+    ],
+    "text": "34 .The Seal of the body corporate shall not be af\ufb01 xed to any instrument whatsoever except in the presence of the Secretary or a member of the council who may be duly authorized by the council and another member of the council and who shall sign their names on the instrument in token of their presence and such signing shall be independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      81.43,
+      477.62,
+      309.47,
+      488.96
+    ],
+    "text": "35. (1) No civil or criminal proceedings shall be instituted-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      69.43,
+      500.52,
+      311.93,
+      511.86
+    ],
+    "text": "(a) against the body corporate for any lawful act which",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105.43,
+      515.42,
+      311.95,
+      541.66
+    ],
+    "text": "in good faith is done or purported to be done by the body corporate under this Act; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      55.53,
+      137.42,
+      60.53,
+      148.76
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.03,
+      222.42,
+      62.03,
+      233.76
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53.03,
+      308.42,
+      63.03,
+      319.76
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.03,
+      394.42,
+      62.03,
+      405.76
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.03,
+      478.42,
+      62.03,
+      489.76
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      316.43,
+      265.55,
+      360.64,
+      303.42
+    ],
+    "text": "Debts due by and payable to the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      315.43,
+      478.95,
+      358.75,
+      545.62
+    ],
+    "text": "Protection for acts done under this Act or under the direction of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      315.43,
+      365.75,
+      363.43,
+      384.42
+    ],
+    "text": "Seal of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      316.23,
+      180.75,
+      363.55,
+      189.82
+    ],
+    "text": "Annual Report",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "15Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      74.15,
+      78.52,
+      316.65,
+      89.86
+    ],
+    "text": "(b) against any member, of\ufb01 cer, servant or agent body",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      110.15,
+      91.32,
+      316.65,
+      141.06
+    ],
+    "text": "corporate for any act which in good faith is done or purported to be done by such member, of\ufb01 cer, servant or agent under this Act or on the directions of the Council, as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      74.15,
+      155.32,
+      316.68,
+      230.66
+    ],
+    "text": "(2) Any expenses incurred by any person speci\ufb01 ed in subsection (1) in any suit or prosecution brought against such person before any Court for any act done under this Act or on the direction of the body corporate shall if the Court determines that such act was done in good faith be paid out of the funds of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86.15,
+      244.92,
+      149.2,
+      256.26
+    ],
+    "text": "36. In this Act -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116.15,
+      270.52,
+      316.67,
+      307.46
+    ],
+    "text": "\u201cIFMSL\u201d means, The Institute of Facilities Management of Sri Lanka, a professional Body established in Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116.15,
+      321.92,
+      316.67,
+      358.86
+    ],
+    "text": "\u201cMembership\u201d means, Members of IFMSL in different categories in accordance with the criteria speci\ufb01 ed in this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116.15,
+      374.32,
+      316.68,
+      411.26
+    ],
+    "text": "\u201cGeneral Meeting\u201d means, a meeting of Members of the body corporate convened and held in accordance with the rules of the body corporate;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116.15,
+      432.52,
+      316.7,
+      469.46
+    ],
+    "text": "\u201crules\u201d means, the rules of IFMSL made from time to time by the body corporate in accordance with subsection 28(l) of this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      116.15,
+      490.72,
+      316.68,
+      540.46
+    ],
+    "text": "\u201cProfessional Member\u201d means, the person for the time being having membership of the Institute as a Fellow or Member who also shall be referred to as a Chartered;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      61.95,
+      128.17,
+      66.95,
+      139.51
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.45,
+      205.17,
+      68.45,
+      216.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.45,
+      294.17,
+      69.45,
+      305.51
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.45,
+      387.17,
+      68.45,
+      398.51
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.45,
+      490.17,
+      68.45,
+      501.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      321.15,
+      245.55,
+      364.7,
+      254.62
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      69.43,
+      42.52,
+      279.3,
+      66.56
+    ],
+    "text": "16Institute of Facilities Management Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.43,
+      78.52,
+      311.95,
+      115.86
+    ],
+    "text": "\u201cFacility Manager\u201d upon being registered in accordance with the provisions of section 9 of the Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.43,
+      130.52,
+      311.96,
+      193.86
+    ],
+    "text": "\u201cGeneral Council\u201d also known as the \u201cCouncil\u201d means, the body of of\ufb01 ce bearers elected or the management, control and administration of the body corporate subject to the provisions of this Act and the rules made there under; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.43,
+      208.52,
+      311.96,
+      245.86
+    ],
+    "text": "\u201cRegistrar\u201d means the Professional Member appointed by the Council as the Registrar / Secretary of the Membership Affairs Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      69.43,
+      260.52,
+      311.96,
+      284.86
+    ],
+    "text": "37. Nothing in this Act contained shall prejudice or affect the rights of the Republic or of any body politic or corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      69.43,
+      299.52,
+      311.95,
+      323.86
+    ],
+    "text": "38. In the event of any inconsistency between the Sinhala and the Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315.43,
+      303.11,
+      358.98,
+      340.77
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315.43,
+      263.11,
+      363.2,
+      291.17
+    ],
+    "text": "Savings of the rights of the Republic",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.43,
+      143.22,
+      61.43,
+      154.56
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      52.93,
+      221.22,
+      62.93,
+      232.56
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      53.93,
+      314.22,
+      63.93,
+      325.56
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      104.3,
+      42.52,
+      314.15,
+      66.56
+    ],
+    "text": "17Institute of Facilities Management Sri Lanka (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      153.85,
+      516.75,
+      270.06,
+      525.82
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
