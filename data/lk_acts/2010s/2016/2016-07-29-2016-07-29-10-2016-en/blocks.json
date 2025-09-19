@@ -1,0 +1,6656 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      282.48,
+      432.58,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.57,
+      393.77,
+      437.17,
+      409.26
+    ],
+    "text": "HOMOEOPATHY ACT, No. 10 OF 2016",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      511.09,
+      373.29,
+      522.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.05,
+      476.17,
+      361.78,
+      487.24
+    ],
+    "text": "[Certified on 27th July, 2016]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 21.00Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of July 29, 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.33,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "1Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      672.13,
+      263.85,
+      683.2
+    ],
+    "text": "2\u2014PL 009983\u2014 2,961 (06/2016)",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      556.15,
+      455.13,
+      603.62
+    ],
+    "text": "Establishment oftheHomoeopathicMedicalCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.73,
+      191.57,
+      326.02,
+      202.91
+    ],
+    "text": "[Certified on 27th July, 2016]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      217.61,
+      218.26,
+      228.95
+    ],
+    "text": "L.D.\u2014O. 46/2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      243.65,
+      384.93,
+      280.91
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A HOMOEOPATHICMEDICAL COUNCIL; FOR THE REGISTRATION OF HOMOEOPATHICPRACTITIONERS AND HOMOEOPATHIC PHARMACISTS; FOR THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      282.65,
+      384.83,
+      293.99
+    ],
+    "text": "REGISTRATION AND REGULATION OF HOMOEOPATHIC INSTITUTIONS;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      295.61,
+      384.93,
+      306.95
+    ],
+    "text": "TO PROMOTE, FOSTER, AND REGULATE THE HOMOEOPATHIC SYSTEM",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      308.57,
+      384.93,
+      319.91
+    ],
+    "text": "OF MEDICINE AND FOR THE REGULATION AND CONTROL OF THE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      321.65,
+      384.81,
+      332.99
+    ],
+    "text": "MANUFACTURE, IMPORTATION, STORAGE, SALE AND DISTRIBUTION OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      334.61,
+      384.81,
+      345.95
+    ],
+    "text": "HOMOEOPATHIC MEDICINE, DRUGS AND OTHER HOMOEOPATHIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      347.57,
+      384.81,
+      358.91
+    ],
+    "text": "PREPARATIONS; TO REPEAL THE HOMOEOPATHY ACT, NO. 7 OF 1970",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      360.65,
+      384.93,
+      371.99
+    ],
+    "text": "AND TO MAKE PROVISION FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      373.61,
+      228.79,
+      384.95
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      399.65,
+      384.86,
+      423.95
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      438.53,
+      384.95,
+      488.87
+    ],
+    "text": "1.This Act may be cited as the Homoeopathy Act,No. 10 of 2016 and shall come into operation on such dateas may be appointed by the Minister (hereinafter referred toas the \u201cappointed date\u201d) by Order Published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.73,
+      503.57,
+      281.01,
+      514.91
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.45,
+      529.61,
+      367.29,
+      540.95
+    ],
+    "text": "ESTABLISHMENT OF THE HOMOEOPATHIC MEDICAL COUNCIL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      555.53,
+      384.84,
+      592.91
+    ],
+    "text": "2.(1) There shall be established a Council which shallbe called the Homoeopathic Medical Council (hereinafterreferred to as the \u201cCouncil\u201d).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      607.61,
+      384.85,
+      671.39
+    ],
+    "text": "(2) The Council shall, by the name assigned to it bysubsection (1), be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued inthat name and may hold, acquire and dispose of any propertymovable or immovable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      439.39,
+      446.14,
+      467.66
+    ],
+    "text": "Short title anddate ofoperation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "2Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      191.81,
+      451.17,
+      216.47
+    ],
+    "text": "(3) The Council shall consist of the following membersappointed by the Minister:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      231.65,
+      363.42,
+      242.99
+    ],
+    "text": "(a)ex-officio members, namely-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.15,
+      258.29,
+      451.19,
+      309.59
+    ],
+    "text": "(i)Additional Secretary of the Ministry or anofficer not below the rank of Senior AssistantSecretary nominated by the Secretary to theMinistry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.15,
+      324.77,
+      451.17,
+      376.07
+    ],
+    "text": "(ii)a representative of the General Treasurynominated by the Secretary to the Ministryof the Minister assigned the subject ofFinance;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      391.25,
+      451.18,
+      455.87
+    ],
+    "text": "(iii)a representative of the University GrantsCommission nominated by the Chairmanof the University Grants Commissionestablished under the Universities Act,No. 16 of 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      471.05,
+      451.18,
+      509.03
+    ],
+    "text": "(b)five members to be elected in the manner specifiedin section 6 from among the registered practitionersof Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      524.33,
+      451.18,
+      562.19
+    ],
+    "text": "(c)three members to be appointed by the Minister, ofwhom at least two members shall be from amongthe registered practitioners of Homoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      577.49,
+      451.18,
+      602.15
+    ],
+    "text": "3.A person shall be disqualified from being elected orbeing appointed as a member of the Council if he \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      617.33,
+      451.17,
+      641.99
+    ],
+    "text": "(a)is or becomes a member of Parliament or of anyProvincial Council or of any Local Authority; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      657.29,
+      405.44,
+      668.63
+    ],
+    "text": "(b)is less than twenty five years of age; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      579.07,
+      199.16,
+      626.54
+    ],
+    "text": "Disqualificationfor being electedor appointed asa member of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.33,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "3Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      190.61,
+      383.88,
+      223.79
+    ],
+    "text": "(c)is found or declared to be of unsound mind underany written law in force in Sri Lanka or any othercountry; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      234.05,
+      383.88,
+      266.99
+    ],
+    "text": "(d)is an undischarged, bankrupt or insolvent underany written law in force in Sri Lanka or any othercountry; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      277.25,
+      316.31,
+      288.59
+    ],
+    "text": "(e)is an employee of the Council; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      298.85,
+      383.87,
+      320.99
+    ],
+    "text": "(f)convicted by a competent court of an offenceinvolving of moral turpitude; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      331.25,
+      371.89,
+      342.59
+    ],
+    "text": "(g)is not, or ceases to be a citizen of Sri Lanka; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      352.85,
+      383.86,
+      374.99
+    ],
+    "text": "(h)ceases to be a registered practitioner ofHomoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      385.25,
+      383.88,
+      418.19
+    ],
+    "text": "4.(1) The Minister may remove from office any memberother than an ex-officio member, for reasons assigned afteran inquiry.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.85,
+      428.45,
+      383.83,
+      439.79
+    ],
+    "text": "(2) Every such removal shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      450.05,
+      383.86,
+      472.19
+    ],
+    "text": "5.A member of the Council, other than an ex-officiomember shall be deemed to have vacated office \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      482.45,
+      383.89,
+      515.39
+    ],
+    "text": "(a)on his absence without excuse sufficient in theopinion of the Council from three consecutivemeetings of the Council;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      525.65,
+      383.87,
+      547.79
+    ],
+    "text": "(b)on ceasing to be a registered Homoeopathicpractitioner;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      558.05,
+      383.88,
+      580.19
+    ],
+    "text": "(c)on the acceptance of the resignation in writing bythe Minister;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      590.45,
+      319.31,
+      601.79
+    ],
+    "text": "(d)on the expiry of his term of office;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      612.05,
+      383.86,
+      634.19
+    ],
+    "text": "(e)on his removal from office by the Minister underthe Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      644.45,
+      383.87,
+      667.43
+    ],
+    "text": "(f)if he becomes subject to any of the disqualificationsreferred to in section 3.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      387.55,
+      449.86,
+      415.82
+    ],
+    "text": "Removal of theMembers fromoffice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      451.51,
+      450.57,
+      489.38
+    ],
+    "text": "Vacation ofoffice bymembers of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "4Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      190.97,
+      451.17,
+      226.55
+    ],
+    "text": "6.An election for the purpose of section 2(3) (b) shallbe conducted by the Secretary to the Ministry of the Ministerin such manner as may be prescribed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      243.17,
+      451.2,
+      290.27
+    ],
+    "text": "7.(1) The members of the Council shall elect a Presidentwho is a registered medical practitioner of Homoeopathyand a Vice President from among the members of the Councilin such manner as may be prescribed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      302.69,
+      451.17,
+      337.79
+    ],
+    "text": "(2) Where any dispute arises regarding the election of amember to the Council it shall be referred to the Minister,whose decision on such matter shall be final.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      350.33,
+      451.21,
+      409.19
+    ],
+    "text": "8.The President, Vice president, and any member ofthe Council other than the ex-officio members of the Councilmay at any time resign his office by letter addressed to theMinister and such resignation shall take effect from the dateof acceptance by the Minister.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      421.73,
+      451.18,
+      456.83
+    ],
+    "text": "9.(1) Every ex-officio member of the Council shall holdoffice as long as he holds the post by virtue of which he is amember of the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      469.25,
+      451.18,
+      504.47
+    ],
+    "text": "(2) The President, Vice President, and a member of theCouncil shall, unless he vacates office earlier by death,resignation or removal hold office for a term of three years:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      516.89,
+      451.2,
+      563.87
+    ],
+    "text": "Provided however, that the member elected or appointedin place of a member who vacates office, shall hold office forthe unexpired period of the term of office of the memberwhom he succeeds:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      576.41,
+      451.2,
+      623.39
+    ],
+    "text": "Provided further, that the unexpired period of the termof office so held by such member, shall not be deemed to bea full term for the purpose of re-election or re- appointmentunder section 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      635.93,
+      451.19,
+      671.27
+    ],
+    "text": "(3) A member of the Council shall, unless he is removedfrom office, be eligible for re-election or re-appointment tothe Council for two consecutive terms.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      244.15,
+      198.44,
+      282.02
+    ],
+    "text": "Appointment ofthe Presidentand VicePresident.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      350.59,
+      190.16,
+      378.86
+    ],
+    "text": "Resignation ofthe President.etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      422.59,
+      193.87,
+      450.86
+    ],
+    "text": "Term of officeof the membersof the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      190.51,
+      197.59,
+      225.38
+    ],
+    "text": "Election of themembers for thepurpose ofsection 2(3)(b).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      195.33,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "5Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      190.73,
+      383.88,
+      225.47
+    ],
+    "text": "(4) The election or appointment of the members of theCouncil shall be held at least three months prior to the expiryof the term of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      237.53,
+      383.88,
+      272.27
+    ],
+    "text": "10.(1) The Council shall hold meetings at least once inthree months at such time and place as may be determinedby the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      284.33,
+      383.89,
+      342.47
+    ],
+    "text": "(2) The President, shall preside at any meeting of theCouncil and in the absence of the President, the VicePresident or in the absence of both the President and VicePresident a member elected by the members present shallpreside at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      354.53,
+      383.86,
+      377.63
+    ],
+    "text": "(3) The quorum for a meeting of the Council shall beseven.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      389.69,
+      383.9,
+      412.67
+    ],
+    "text": "(4) All questions for decision at any meeting shall bedecided by a majority of votes of the members present.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      424.73,
+      383.92,
+      471.23
+    ],
+    "text": "(5) In the event of an equality of votes at any meeting ofthe Council, the President, Vice President or the memberpresiding at such meeting shall, in addition to his own vote,have a casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      483.29,
+      383.88,
+      518.03
+    ],
+    "text": "(6) Subject to the other provisions of this Act, the Councilmay regulate the procedure in regard to its meetings and thetransaction of business at such meetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      530.09,
+      383.89,
+      564.83
+    ],
+    "text": "11.(1) The minutes of the proceedings of every meetingof the Council shall be entered in a book to be kept for thepurpose and shall be signed by the President of the meeting.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      576.89,
+      383.9,
+      611.63
+    ],
+    "text": "(2) A copy of the minutes of the proceedings of everymeeting of the Council shall, be transmitted to the Ministerwithin fourteen days from the date of the meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      623.69,
+      383.9,
+      670.31
+    ],
+    "text": "12.A member of the Council shall be remunerated insuch manner and at such rates as may be determined by theMinister with the concurrence of the Minister to whom thesubject of Finance is assigned.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      238.15,
+      453.58,
+      256.82
+    ],
+    "text": "The meetings ofthe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      531.19,
+      440.85,
+      549.86
+    ],
+    "text": "Minutes ofproceedings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394.29,
+      624.55,
+      454.3,
+      652.82
+    ],
+    "text": "Remuneration ofthe members ofthe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "6Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      189.89,
+      451.2,
+      242.87
+    ],
+    "text": "13.No act, decision or proceeding of the Council shallbe invalid by reason only of the existence of any vacancyamong its members or any defect in the appointment orelection of a member thereof or in the constitution of theCouncil.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      221.11,
+      252.29,
+      343.87,
+      263.63
+    ],
+    "text": "14.The Seal of the Council-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      273.05,
+      451.17,
+      305.27
+    ],
+    "text": "(a)shall be in the custody of the registrar of theCouncil appointed under section 18 of theAct;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      314.69,
+      451.16,
+      336.47
+    ],
+    "text": "(b)may be altered in such manner as may bedetermined by the Council;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      251.71,
+      345.89,
+      451.19,
+      398.87
+    ],
+    "text": "(c)shall not be affixed to any instrument ordocument except in the presence of theregistrar and two members of the Council allof whom shall sign the instrument ordocument in token of their presence.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      314.71,
+      408.29,
+      347.71,
+      419.63
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      257.35,
+      429.05,
+      405.07,
+      440.39
+    ],
+    "text": "THE OBJECTS AND POWERS OF THE COUNCIL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      449.93,
+      391.9,
+      461.27
+    ],
+    "text": "15.The objects of the Council shall be-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      470.69,
+      451.18,
+      492.47
+    ],
+    "text": "(a)to promote, foster and regulate the practiceof Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      501.89,
+      451.18,
+      544.43
+    ],
+    "text": "(b)to promote Homoeopathic system of medicinein the society with a view to improving thepublic health, in accordance withHomoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      251.71,
+      553.85,
+      451.19,
+      575.63
+    ],
+    "text": "(c)to promote and encourage the study, researchinto and practice of Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      250.87,
+      585.05,
+      451.16,
+      606.83
+    ],
+    "text": "(d)to establish and maintain HomoeopathicInstitutions;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      251.71,
+      616.25,
+      451.23,
+      670.31
+    ],
+    "text": "(e)to regulate and control HomoeopathicInstitutions providing treatment according tothe Homoeopathic system of medicine otherthan the government Homoeopathic teachinghospitals; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      190.03,
+      199.16,
+      246.5
+    ],
+    "text": "No act ,decisionor proceeding ofthe Council shallbe invalid byreason only ofthe existence ofany vacancy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      252.91,
+      191.6,
+      271.58
+    ],
+    "text": "The seal of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      450.91,
+      187.87,
+      469.58
+    ],
+    "text": "Objects of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      195.33,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "7Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.85,
+      190.97,
+      383.88,
+      235.91
+    ],
+    "text": "(f)to regulate and control of the manufacture,importation, storage, sale and distribution ofHomoeopathic medicines, drugs and otherHomoeopathic preparations.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.85,
+      246.77,
+      329.86,
+      258.11
+    ],
+    "text": "16.The Council shall have the power to-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      268.97,
+      383.9,
+      302.51
+    ],
+    "text": "(a)register Homoeopathic medical practitioners,Homoeopathic pharmacists, Homoeopathicnurses and Homoeopathic institutions;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      313.37,
+      383.91,
+      391.31
+    ],
+    "text": "(b)recognise the medical qualifications relatingto Homoeopathy awarded by theHomoeopathic institutions in and outsideSri Lanka for the purpose of registration ofHomoeopathic medical practitioners and todetermine the circumstances in which suchrecognition shall be granted or refused;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      184.29,
+      402.17,
+      383.89,
+      468.95
+    ],
+    "text": "(c)call for such information from any recognizeduniversity or institution in respect of thecourses of study, or examinations or anymatter relating to the grant or conferment ofa Homoeopathic medical qualifications bysuch university or medical institution;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.57,
+      479.81,
+      383.85,
+      502.31
+    ],
+    "text": "(d)appoint medical inspectors to supervise,enter, inspect, examine and investigate-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206.85,
+      513.17,
+      383.88,
+      579.95
+    ],
+    "text": "(i)the Homeopathy medical colleges andinstitutions in order to ensure that theminimum standards are maintained bysuch colleges or institutions for thepurpose of regulations under this Act;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      203.85,
+      590.81,
+      383.87,
+      669.35
+    ],
+    "text": "(ii)institutions where Homeopathy ispracticed, in order to ensure thatHomeopathy is practiced only by aregistered Homeopathic medicalpractitioner and such institutionsconform to the minimum standardsprescribed by regulations;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      247.99,
+      443.85,
+      266.66
+    ],
+    "text": "Powers of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "8Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      251.71,
+      190.97,
+      451.17,
+      226.31
+    ],
+    "text": "(e)provide services necessary for the treatmentof diseases, in accordance with theHomoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      253.15,
+      239.45,
+      451.17,
+      275.39
+    ],
+    "text": "(f)establish and maintain Homoeopathicinstitutions and to arrange for postgraduatestudy in Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      250.87,
+      288.65,
+      451.18,
+      361.43
+    ],
+    "text": "(g)establish and maintain dispensaries, centres,pharmacies and related institutions orestablishments as the case may be, or importor export of Homoeopathic medicine,necessary for the preparation andadministration of Homoeopathic treatment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      250.87,
+      374.69,
+      451.19,
+      398.39
+    ],
+    "text": "(h)encourage the scientific manufacture ofHomoeopathic medicines;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      253.15,
+      411.65,
+      451.19,
+      521.39
+    ],
+    "text": "(i)prescribe and maintain the minimumstandards of medical education andpractice of Homoeopathy including theminimum standards relating to coursesof study, examinations, staff, equipment,accommodation, training, hospitals and otherfacilities provided by the Homoeopathicmedical colleges and other Homoeopathicinstitutions;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      253.15,
+      534.65,
+      451.19,
+      619.79
+    ],
+    "text": "(j)encourage the study of, and research into thesystems of Homoeopathic medicine bygranting Scholarships and other facilities todeserving persons particularly youth and bygranting financial and other assistance toinstitutions providing courses of study orengaged in research in Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      251.71,
+      633.05,
+      451.19,
+      668.99
+    ],
+    "text": "(k)prescribe and maintain the minimumstandards of medical education relating to postgraduate Homoeopathic medical education;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      195.33,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "9Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.85,
+      191.57,
+      383.88,
+      254.99
+    ],
+    "text": "(l)develop and encourage such measures as arenecessary for the investigation of diseases,the treatment and prevention of diseases, andimprovement of public health, according toHomoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      182.13,
+      269.57,
+      383.88,
+      319.91
+    ],
+    "text": "(m)make arrangements with higher educationalinstitutions to grant or confer degrees andother academic distinctions relating toHomoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.57,
+      334.61,
+      383.89,
+      410.99
+    ],
+    "text": "(n)make arrangements with the approval of theMinister and in consultation with the Ministerthe subject of higher education assigned, toestablish a Homoeopathic Medical Collegein terms of the Universities Act, No.16 of1978;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.57,
+      425.57,
+      383.87,
+      475.91
+    ],
+    "text": "(o)to establish with the approval of the Ministersuch committees as may be necessary for thecarrying out of the functions and duties ofthe Council;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.57,
+      490.61,
+      383.9,
+      540.95
+    ],
+    "text": "(p)to delegate any power, duty or function toany officer or committee from time to timesubject to such conditions as the Council maydeem necessary;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.57,
+      555.53,
+      383.88,
+      592.91
+    ],
+    "text": "(q)to make rules for the exercise, discharge andperformance of the powers, functions andduties of the Council; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.13,
+      607.61,
+      383.91,
+      670.91
+    ],
+    "text": "(r)to do all such other acts which may beincidental or conducive to, the attainment ofthe objects of the Council or the exercise anddischarge of the powers and duties under thisAct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "10Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      190.61,
+      451.18,
+      213.47
+    ],
+    "text": "17.(1) The Council may subject to the other provisionsof this Act, make rules for the following:\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      241.15,
+      223.61,
+      451.18,
+      257.99
+    ],
+    "text": "(i)to exercise disciplinary control over such staffas may be deemed necessary by the Council tocarry out the functions of the Council;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      238.15,
+      268.13,
+      451.19,
+      290.99
+    ],
+    "text": "(ii)to fix the wages, salary or other remuneration ofsuch staff;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      235.15,
+      301.13,
+      451.18,
+      335.39
+    ],
+    "text": "(iii)to determine the terms and conditions of serviceof such staff in consultation with the Departmentof Management Services;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      235.87,
+      347.09,
+      451.18,
+      392.99
+    ],
+    "text": "(iv)to establish and regulate provident funds orpension schemes for the benefit of such staffand make contributions to any such fund orscheme; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      236.71,
+      403.13,
+      451.18,
+      425.87
+    ],
+    "text": "(v)to manage and maintain the property of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      436.13,
+      451.16,
+      458.87
+    ],
+    "text": "(2) Rules may be made by the Council in respect of all orany of the matters referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      469.13,
+      451.2,
+      514.91
+    ],
+    "text": "(3) Every rule made under subsection (1) shall bepublished in the Gazette, and shall come into operation onthe date of its publication or on such later date as may bespecified therein.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      526.61,
+      451.16,
+      549.47
+    ],
+    "text": "18.(1) The Council shall, with the concurrence of theMinister, appoint-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      559.61,
+      451.18,
+      593.87
+    ],
+    "text": "(a)a registrar who shall act as the Secretary of theCouncil for a period of five years unless removedearlier for reasons assigned;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.87,
+      604.13,
+      451.18,
+      626.87
+    ],
+    "text": "(b)such other officers and employees as it may deemnecessary to discharge the functions under this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      638.57,
+      451.19,
+      673.07
+    ],
+    "text": "(2) All persons appointed or employed under this sectionshall be deemed to be public servants within the meaning ofthe section 19 of the Penal Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      526.75,
+      192.43,
+      564.62
+    ],
+    "text": "Registrar andother officersand employeesof the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      191.11,
+      197.6,
+      219.38
+    ],
+    "text": "Power of theCouncil to makerules.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      195.33,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "11Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      190.73,
+      383.87,
+      248.87
+    ],
+    "text": "19.The Council may, with the prior approval of theMinister and in consultation with the Minister assigned thesubject of Finance grant such sum, out of moneys voted forthe purpose by the Parliament in writing of followingmatters:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      260.93,
+      383.85,
+      284.03
+    ],
+    "text": "(a)for the purpose of defraying expenses connectedwith the administration of the Council;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      291.29,
+      383.86,
+      314.39
+    ],
+    "text": "(b)to any institution established and maintained forthe training of practitioners of Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      321.77,
+      383.87,
+      344.75
+    ],
+    "text": "(c)to any institution which provides courses of studyor which is engaged in research into Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.57,
+      352.13,
+      383.86,
+      375.23
+    ],
+    "text": "(d)to any other institution established and maintainedfor the promotion of the Homoeopathy; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.29,
+      387.29,
+      383.89,
+      422.03
+    ],
+    "text": "(e)to grant scholarships, stipends, to deservingstudents of recognized institutions to carry outstudies in Homoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.29,
+      436.73,
+      283.29,
+      448.07
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      160.05,
+      460.13,
+      367.77,
+      483.23
+    ],
+    "text": "ESTABLISHMENT OF HOMOEOPATHIC MEDICAL COLLEGES ORHOMOEOPATHIC MEDICAL INSTITUTIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      495.29,
+      383.89,
+      553.43
+    ],
+    "text": "20.(1) No person shall establish and maintain aHomoeopathic Medical College or HomoeopathicInstitution except with the prior approval of the UniversityGrants Commission established under the Universities Act,No. 16 of 1978 and the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      565.49,
+      383.87,
+      588.47
+    ],
+    "text": "(2) An approved Homoeopathic Medical College orHomoeopathic Medical institution, shall not\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      600.53,
+      383.89,
+      670.79
+    ],
+    "text": "(i)commence a new or higher course of study ortraining including any post-graduate course ofstudy or training in Homoeopathy leading to thegrant or conferment of a degree, diploma or anyother recognized Homoeopathic medicalqualification; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      191.11,
+      454.3,
+      228.98
+    ],
+    "text": "Matters inrespect of whichmoneys may bepaid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      496.03,
+      455.13,
+      591.5
+    ],
+    "text": "Establishment ofa HomoeopathicMedical CollegeorHomoeopathicMedicalInstitution bypersons otherthan theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "12Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.15,
+      191.09,
+      451.19,
+      274.07
+    ],
+    "text": "(ii)increase its admission capacity in any courseof study or training which is connected to the fieldof Homoeopathy including any post-graduatecourse of study or training leading to the grantor conferment of a degree, diploma or anyother recognized Homoeopathic medicalqualification,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.15,
+      286.49,
+      451.19,
+      309.71
+    ],
+    "text": "except with the prior approval of the University GrantsCommission and the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      322.25,
+      451.2,
+      369.23
+    ],
+    "text": "(3) Every course of study or training including any post-graduate course of study or training referred to in subsection(2) shall conform to the minimum standards of educationreferred to in section 25.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      381.65,
+      451.23,
+      464.39
+    ],
+    "text": "(4) Every person who contravenes the provisions of thissection or any regulation made thereunder shall commit anoffence and shall on conviction after summary trial before aMagistrate, be liable to a fine not less than fifty thousandrupees or to imprisonment of either description for a termnot exceeding six months or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      476.93,
+      451.19,
+      535.79
+    ],
+    "text": "(5) The Council may, in addition to the provisions ofsubsection (4) institute proceedings in the District Court forrestraining the commission or continuance of the acts referredto in subsections (1) and (2) under the provisions of ChapterXLVIII of the Civil Procedure Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      548.33,
+      451.17,
+      571.55
+    ],
+    "text": "(6) Where an offence under this section is committed bya body of persons then-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      583.97,
+      451.16,
+      607.19
+    ],
+    "text": "(a)if that body of persons is a body corporate, everydirector and officer of that body corporate; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      226.87,
+      619.73,
+      451.16,
+      642.95
+    ],
+    "text": "(b) if that body of persons is a firm, every partner andofficer of that firm,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      223.15,
+      656.09,
+      403.89,
+      667.43
+    ],
+    "text": "shall be deemed to be guilty of that offence:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.33,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "13Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      191.33,
+      383.92,
+      290.87
+    ],
+    "text": "Provided that, a director or an officer of such bodycorporate or a partner or officer of such firm shall not bedeemed to be guilty of such offence, if that director, officeror partner proves that such offence was committed withoutthe knowledge of such person or that such person exercisedall such diligence as is necessary to prevent the commissionof such offence.PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.77,
+      304.73,
+      366.93,
+      316.07
+    ],
+    "text": "RECOGNITION OF HOMOEOPATHIC MEDICAL QUALIFICATIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      329.93,
+      383.9,
+      391.67
+    ],
+    "text": "21.(1) The Homoeopathic medical qualificationsgranted or conferred by any recognized Homoeopathicmedical college or Homoeopathic institution in Sri Lankamay be recognized by the Council subject to the provisionsof subsection (2).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      405.53,
+      383.91,
+      454.67
+    ],
+    "text": "(2) The Council shall, make such examinations,investigations and inquiries in relation to the medicalcollege or Homoeopathic institution referred to in subsection(1) for the purpose of ascertaining whether-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      468.53,
+      383.89,
+      517.67
+    ],
+    "text": "(a)the courses of study provided by suchHomoeopathic college or Homoeopathicinstitution leading to the grant or conferment ofany such qualification; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      531.53,
+      383.92,
+      580.67
+    ],
+    "text": "(b)degree of proficiency required at any examinationheld by such college or institution for the purposeof granting or conferring any such Homoeopathymedical qualifications; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      160.29,
+      594.53,
+      383.87,
+      631.07
+    ],
+    "text": "(c)the staff, equipment, accommodation and facilitiesprovided by such college or institution for suchcourse of study,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      644.93,
+      383.86,
+      668.87
+    ],
+    "text": "conforms to the prescribed minimum standards of educationreferred to in section 25.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      331.75,
+      448.3,
+      385.82
+    ],
+    "text": "Recognition ofHomoeopathicmedicalqualificationawarded in SriLanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "14Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      190.73,
+      451.2,
+      248.87
+    ],
+    "text": "(3) Where the Council is satisfied, upon making suchexamination, investigation and inquiries under subsection(2), the Council may recommend to the Minister, to recognizesuch Homoeopathic medical qualifications in the mannerprescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      260.93,
+      451.19,
+      307.43
+    ],
+    "text": "(4) The Council with the concurrence of the Ministermay, by Notification published in the Gazette, notify thepublic of such qualifications recognized by the Councilwith effect from the date specified therein.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      319.49,
+      451.2,
+      412.67
+    ],
+    "text": "22.(1) Any Homoeopathic medical qualificationgranted by a Homoeopathic medical college or an institutionoutside Sri Lanka, may be recognized by the Council havingregard to the standard of medical education of such collegeor institution and whether such qualification is a qualificationrecognized by the approved authority responsible forrecognizing such qualification under the appropriate lawsof that country.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      424.73,
+      451.21,
+      482.87
+    ],
+    "text": "(2) (a) The Council may enter into negotiations in anycountry outside Sri Lanka, with any approved Authorityreferred to in subsection (1) for setting up of a Scheme ofreciprocity for the recognition of medical qualifications inHomoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      494.93,
+      451.21,
+      553.07
+    ],
+    "text": "(b) The Council may, in pursuance of any such scheme,by Notification published in the Gazette, notify the publicthat it intends to include such qualification as aHomoeopathic medical qualification recognized by theCouncil with effect from the date specified therein.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      565.13,
+      451.2,
+      670.43
+    ],
+    "text": "(c) Where the Council has refused to grant recognition toany Homoeopathic medical qualification granted by anyAuthority referred to in subsection (2), such college orinstitution which is dissatisfied with the decision of theCouncil may appeal to the Minister within two weeks fromthe date on which such decision was communicated to it.After considering such appeal and after obtaining from theCouncil a report, stating the reasons, if any, for such refusal,the Minister may, confirm or vary such decision.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      319.51,
+      199.15,
+      376.58
+    ],
+    "text": "Recognition ofHomoeopathicmedicalqualificationawarded out sideSri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      195.33,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "15Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      190.73,
+      384.86,
+      237.23
+    ],
+    "text": "(3) For the purpose of subsection (1) in determining thestandard of medical education, the Council shall have regardto the prescribed minimum standards of education referredto in section 25.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      249.29,
+      384.85,
+      307.43
+    ],
+    "text": "23.(1) The Council shall appoint such number ofMedical Inspectors prescribed by regulations, as it mayconsider necessary, who are experts in subjects taught inHomoeopathic Medical College, or HomoeopathicInstitution\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      319.49,
+      384.85,
+      354.23
+    ],
+    "text": "(a)to inspect any Homoeopathic Medical College orHomoeopathic Institution where education inHomoeopathy is given; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      366.29,
+      384.83,
+      389.27
+    ],
+    "text": "(b)to examine, investigate and inquire into, for thepurpose of ascertaining whether-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      186.81,
+      401.33,
+      384.87,
+      436.07
+    ],
+    "text": "(i)courses of study provided by such college orinstitution leading to the grant or confermentof a medical qualification in Homoeopathy;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      183.81,
+      448.13,
+      384.87,
+      494.63
+    ],
+    "text": "(ii)the degree of proficiency required atexaminations held by such college orinstitution for the purpose of granting orconferring any such qualification;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.81,
+      506.69,
+      384.84,
+      541.43
+    ],
+    "text": "(iii)the staff, equipment, accommodation andfacilities provided by such college orinstitution for such course of study,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      553.49,
+      384.84,
+      599.87
+    ],
+    "text": "conform to the prescribed minimum standards of educationreferred to in section 25, for recognition of Homoeopathicmedical qualifications granted by such HomoeopathicMedical College or Homoeopathic Institution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      611.93,
+      384.86,
+      670.07
+    ],
+    "text": "(2) Every person in charge of such medical college orinstitution shall afford all such facilities as may be requiredby such medical inspectors referred to in subsection (1) forthe purpose of making all such examinations, investigationsand inquiries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      250.15,
+      453.58,
+      278.42
+    ],
+    "text": "Council toappoint MedicalInspectors.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "16Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      190.25,
+      451.2,
+      223.31
+    ],
+    "text": "(3) The medical inspectors shall not interfere with theconduct of any training or examination conducted by suchmedical college or institution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      233.81,
+      451.2,
+      266.99
+    ],
+    "text": "(4) Where any medical inspector makes any investigation,examination or inquiry as is referred to in subsection (1), heshall make a report of his findings to the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      277.37,
+      451.18,
+      321.47
+    ],
+    "text": "(5) The Council shall forward a copy of any such reportto the Homoeopathic Medical College or Institution,requiring such college or institution to forward itsobservations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      331.85,
+      451.2,
+      375.95
+    ],
+    "text": "(6) Upon receipt of the observations under subsection (5)the Council shall forward a copy of such report with theobservations of the college or institution as the case may be,to the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      386.45,
+      451.19,
+      408.59
+    ],
+    "text": "24.(1) Upon receipt of a report of the medical inspectorif it appears to the Council that\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      415.13,
+      451.19,
+      459.23
+    ],
+    "text": "(a)the courses of study provided by the Homoeopathicmedical college or Homoeopathic institutionleading to the grant or conferment of a medicalqualification; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.87,
+      465.77,
+      451.22,
+      509.87
+    ],
+    "text": "(b)the degree of proficiency required at examinationsheld by such medical college or institution for thepurpose of granting or conferring any suchqualification; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      227.71,
+      516.41,
+      451.21,
+      549.47
+    ],
+    "text": "(c)the staff, equipment, accommodation and facilitiesprovided by such medical college or institutionfor such course of study,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      559.97,
+      451.2,
+      604.07
+    ],
+    "text": "do not conform to the prescribed standards, the Councilmay make recommendations to the Minister that suchqualifications shall not be recognized for the purposes ofthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      211.15,
+      614.45,
+      451.19,
+      669.83
+    ],
+    "text": "(2) Upon the receipt of such recommendations undersubsection (1), the Minister may forward a copy of suchrecommendation to the approved authority of suchHomoeopathic medical college or Homoeopathic institutionto make its comments thereon within a specified period.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.15,
+      387.19,
+      199.15,
+      434.66
+    ],
+    "text": "Consequences offailure toconform toprescribedstandards.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.33,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "17Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      190.49,
+      384.88,
+      293.03
+    ],
+    "text": "(3) Upon the receipt of the comments if any or wherecomments are not made within the specified period, theMinister after making such further inquiry as he mayconsider necessary, shall declare by an Order published inthe Gazette that the said medical qualification shall not bea recognized medical qualification in relation to suchmedical college or institution or in relation to any institutionaffiliated to such medical college or institution, from suchdate as may be specified in that Order.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      304.49,
+      384.86,
+      407.03
+    ],
+    "text": "25.The Council shall prescribe the minimum standardsof education in Homoeopathy required for the grant orconferment of a medical qualification leading to the grantor conferment of a degree or diploma in Homoeopathy orthe degree of proficiency required by such college orinstitution at any examination held, or the staff, equipment,accommodation and facilities provided by suchHomoeopathic medical college or Homoeopathic medicalinstitution for the purpose of such course of study.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      418.49,
+      384.93,
+      509.63
+    ],
+    "text": "26.Subject to the other provisions of this Act, anyHomoeopathic medical qualification recognized by theCouncil shall be sufficient proof that the holder thereof hasbeen granted the qualification specified therein for thepurpose of enrolment as a Homoeopathic MedicalPractitioner in terms of this Act, and for the inclusion of thename of the holder of such qualification in the register ofHomoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      521.09,
+      384.86,
+      566.63
+    ],
+    "text": "27.Every Homoeopathic Medical College or Institutionin Sri Lanka which grants a recognized Homoeopathicmedical qualification shall furnish such information as theCouncil may, from time to time, require.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      246.81,
+      578.09,
+      282.81,
+      589.43
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207.45,
+      600.89,
+      322.16,
+      612.23
+    ],
+    "text": "THE REGISTER OF HOMOEOPATHY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      623.69,
+      384.97,
+      669.35
+    ],
+    "text": "28.(1) The Council shall maintain in the prescribedmanner, a register of Homoeopathy (hereinafter in this partreferred to as the \u201cregister\u201d) for the purpose of registration ofHomoeopathic medical practitioners.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      523.87,
+      446.85,
+      560.54
+    ],
+    "text": "Council torequireinformation tobe furnished.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      306.31,
+      440.13,
+      334.58
+    ],
+    "text": "MinimumStandards ofEducation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      421.03,
+      452.86,
+      468.5
+    ],
+    "text": "Rights andprivileges ofpersons holdingrecognizedqualification.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      395.85,
+      624.19,
+      448.29,
+      642.86
+    ],
+    "text": "Register ofHomoeopathy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "18Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      190.49,
+      451.21,
+      258.83
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1), thegeneral register of Homoeopathy maintained under section25 of the Homoeopathy Act, No.7 of 1970 shall be deemedto be kept and maintained under this Act and every personwhose name is entered in that register shall be deemed to beregistered under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      270.29,
+      451.18,
+      293.03
+    ],
+    "text": "(3) A person whose name is entered in the Registershall -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      304.49,
+      451.18,
+      350.03
+    ],
+    "text": "(a)be eligible to hold office as a Homoeopathicphysician or any other office in Government or inany institution maintained by a local or otherauthority;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.87,
+      361.49,
+      400.18,
+      372.83
+    ],
+    "text": "(b)be eligible to practice Homoeopathy;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      227.71,
+      384.29,
+      451.19,
+      418.43
+    ],
+    "text": "(c)be eligible to give any evidence at any inquest orany Court as an expert under the EvidenceOrdinance on any matter relating to Homoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      223.15,
+      429.89,
+      437.58,
+      441.23
+    ],
+    "text": "(4) The provisions of subsection (3) shall not affect -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      238.87,
+      452.69,
+      451.19,
+      509.63
+    ],
+    "text": "(a)the right of a practitioner of Homoeopathyenrolled in the register of Homoeopathyregistered in terms of the Homoeopathy Act, No.7of 1970, to practice Homoeopathy in Sri Lanka;and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      238.87,
+      521.09,
+      451.19,
+      578.03
+    ],
+    "text": "(b)the privileges (including the right to practiceHomoeopathy) conferred on a practitioner ofHomoeopathy enrolled on the register ofHomoeopathy registered in terms of theHomoeopathy Act, No.7 of 1970.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      211.15,
+      589.49,
+      451.2,
+      669.47
+    ],
+    "text": "(5) For the avoidance of doubt it is declared that anyperson who is registered in terms of section 25 of theHomoeopathy Act, No.7 of 1970, prior to the date ofcommencement of this Act, shall from the date ofcommencement of this Act be deemed by virtue of suchregistration to be a Homoeopathic practitioner for the purposeof this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201619",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      191.57,
+      383.88,
+      254.99
+    ],
+    "text": "(6) It shall be the duty of the Registrar of the Council tomaintain the Register of Homoeopathy in terms of theprovisions of this Act and of any rule made by the Council,and update the register and publish it in such manner as maybe prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      269.57,
+      383.89,
+      306.95
+    ],
+    "text": "(7) Subject to the provisions of section 33, any personwhose name appears in the register shall renew his registrationonce in five years in the prescribed manner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      321.65,
+      383.87,
+      345.95
+    ],
+    "text": "(8) The register shall be deemed to be a public documentwithin the meaning of the Evidence Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.85,
+      360.65,
+      383.88,
+      397.91
+    ],
+    "text": "29.(1) No person shall be registered as a Homoeopathicpractitioner in the register of Homoeopathic practitioners,unless that person \u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      412.61,
+      263.14,
+      423.95
+    ],
+    "text": "(a)is of good character;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.57,
+      438.53,
+      296.87,
+      449.87
+    ],
+    "text": "(b)is a citizen of Sri Lanka; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      160.29,
+      464.57,
+      383.85,
+      488.87
+    ],
+    "text": "(c)holds a Degree of Bachelor of HomoeopathicMedicine and Surgery or Diploma.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      153.81,
+      503.57,
+      305.11,
+      514.91
+    ],
+    "text": "(2) For the purposes of this section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      183.57,
+      529.61,
+      383.89,
+      670.91
+    ],
+    "text": "(a)\u201cdegree of Bachelor of HomoeopathicMedicine and Surgery\u201d means a degreeobtained after following a course of study ofnot less than four years duration including aperiod of internship of not less than sixmonths, granted by a Homoeopathic medicalcollege or an institution affiliated to aUniversity in Sri Lanka or abroad and whichis recognized by the Council having regardto the standard of medical education of suchmedical college or institution;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      395.37,
+      362.59,
+      447.1,
+      410.06
+    ],
+    "text": "Qualificationsfor registrationas aHomoeopathicpractitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "20Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      250.87,
+      191.81,
+      451.2,
+      349.43
+    ],
+    "text": "(b)\u201cdiploma\u201d shall include a fulltime diplomaobtained in Homoeopathy after following acourse of study of not less than four yearsduration including a period of internship ofnot less than six months, granted by aHomoeopathic medical college or aninstitution affiliated to a University inSri Lanka or abroad and which is recognizedby the Council having regard to the standardof medical education of such medical collegeor institution, including such other criteriaas may be determined by the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      364.73,
+      451.19,
+      415.91
+    ],
+    "text": "(3) For the purpose of subsection (1), the Council shall,in determining the standard of medical education have regardto the prescribed minimum standards of education referredto in section 25.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      431.21,
+      451.19,
+      495.71
+    ],
+    "text": "(4) Notwithstanding the provisions of subsection (1)(b),a person who is not a citizen of Sri Lanka may be registeredtemporarily for such period subject to the other provisionsof section 31 and subject to such terms and conditions asmay be prescribed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      511.01,
+      451.18,
+      575.51
+    ],
+    "text": "30.(1) Any person who possess knowledge andexperience of not less than five years in Homoeopathymedicine on the appointed date may, make an applicationto the Council for registration as a Homoeopathicpractitioner in the register.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      211.15,
+      590.81,
+      451.25,
+      668.63
+    ],
+    "text": "(2) The Council shall within three months of the date ofreceipt of the application verify the details in the applicationand hold a written examination to examine the proficiencyof such person to practice Homoeopathy, and on beingsatisfied of his knowledge and experience, cause the nameof such person to be entered in the register of Homoeopathy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      511.63,
+      196.88,
+      559.1
+    ],
+    "text": "Specialcircumstancesunder whichregistration maybe made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201621",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      191.09,
+      384.83,
+      214.79
+    ],
+    "text": "(3) The Examination which is to be held under subsection(2) shall be notified by notification published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      228.05,
+      384.82,
+      263.99
+    ],
+    "text": "(4) The Council shall hold the written examinationreferred to in subsection (2) only on three occasions withina period of three years from the appointed date.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      277.25,
+      384.84,
+      313.19
+    ],
+    "text": "31.(1) The Council shall cause to be maintained in theprescribed manner, a register of pharmacists of Homoeopathyto be known as the register of Homoeopathic pharmacists.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      326.45,
+      384.83,
+      350.03
+    ],
+    "text": "(2) The Registrar shall be responsible for maintaining theregister referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      363.29,
+      384.86,
+      436.19
+    ],
+    "text": "(3) Where an applicant satisfies the requirementsspecified for the registration of the HomoeopathicPharmacists, the Council shall on an application madein the prescribed manner by such person, enter thename of such person in the register of HomoeopathicPharmacists.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      449.45,
+      384.88,
+      509.99
+    ],
+    "text": "32.The Council may make rules regarding the standardsof professional conduct and etiquette and a Code of Ethicsfor practitioners of Homoeopathy and such rules may specifythe activities which constitute malpractices and professionalmisconduct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.81,
+      523.25,
+      384.85,
+      559.19
+    ],
+    "text": "33.(1) Where the Council is of the opinion, uponevidence forwarded to the Council that a registeredpractitioner of Homoeopathy is-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      572.45,
+      384.84,
+      596.03
+    ],
+    "text": "(a)not actively practising Homoeopathy as his mainvocation; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      160.65,
+      609.29,
+      326.76,
+      620.63
+    ],
+    "text": "(b)not following the Homoeopathy; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.37,
+      633.89,
+      384.82,
+      670.31
+    ],
+    "text": "(c)deprived of any diploma, degree or certificate onthe faith of which he was registered as a medicalpractitioner; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.37,
+      449.59,
+      447.11,
+      497.06
+    ],
+    "text": "Standards ofprofessionalconduct andetiquette and acode of ethics.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.37,
+      524.71,
+      455.37,
+      562.58
+    ],
+    "text": "Removal of thenames ofpersons from theregister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.37,
+      277.15,
+      450.1,
+      315.02
+    ],
+    "text": "Maintenance ofRegister ofHomoeopathicpharmacists.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "22Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      226.87,
+      191.57,
+      451.18,
+      215.63
+    ],
+    "text": "(d)convicted of an offence which shows him to beunfit to practise as a medical practitioner; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      227.71,
+      229.49,
+      451.18,
+      253.43
+    ],
+    "text": "(e)guilty of any malpractice or professionalmisconduct,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      267.29,
+      451.19,
+      291.23
+    ],
+    "text": "the Council shall, subject to the provisions of subsections(2) and (3), cause to remove their names from the register.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      305.09,
+      451.26,
+      354.23
+    ],
+    "text": "(2) The Council shall, prior to the removal of their namesfrom the register, require such practitioners to give reasonsin writing as to why their names should not be removed fromthe register on the grounds specified above.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      368.09,
+      451.21,
+      429.83
+    ],
+    "text": "(3) Where the Council is dissatisfied with the reasonsgiven by the registered Homoeopathic practitioner, and afterholding due inquiry in the prescribed manner, the Councilshall make an order to remove the name and all other relatedentries from the register.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      443.69,
+      451.16,
+      480.23
+    ],
+    "text": "(4) Subject to the provisions of subsection (5), theCouncil shall cause to be published in the Gazette the nameof the Practitioner so removed from the register.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      494.09,
+      451.2,
+      568.43
+    ],
+    "text": "(5) Where the name of any person has been removed fromthe register on any ground specified in subsection (1) otherthan the ground specified in paragraph (c) thereof and whereany application by the said person for restoration of hisname to the register has been rejected, he may appeal to theMinister in the prescribed manner.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      582.29,
+      451.16,
+      606.23
+    ],
+    "text": "(6) The decision of the Minister in respect of such appealshall be final.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      620.09,
+      451.19,
+      669.23
+    ],
+    "text": "(7) For the purposes of this section \u201cmain vocation\u201d shallmean the practice of Homoeopathy medicine in accordancewith the accepted principles of Homoeopathy to theexclusion of other systems of medicine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201623",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      190.73,
+      383.91,
+      248.39
+    ],
+    "text": "34.Subject to the conditions and restrictions specifiedin this Act regarding practice of Homoeopathy by everyperson who is registered in the register shall be entitled topractice Homoeopathy in any part of Sri Lanka and to chargea fee in respect of the treatments given.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      260.33,
+      383.89,
+      306.47
+    ],
+    "text": "35.For the purposes of any written law, the words \u201caregistered Homoeopathic practitioner\u201d shall be construedas meaning a Homoeopathic medical practitioner registeredunder this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      318.29,
+      383.92,
+      410.87
+    ],
+    "text": "36.Where any person whose name is entered in theRegister, obtains any title, diploma or other qualificationfor proficiency in the field of Homoeopathy, which is arecognized medical qualification, he shall, on applicationmade in that behalf in the prescribed manner, be entitled tohave an entry stating such other title, diploma or otherqualification made against his name in the register either insubstitution for or in addition to any entry previously made.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      422.69,
+      383.88,
+      480.47
+    ],
+    "text": "37.Every person registered in the register shall notifyany change of place of his residence or practice to theCouncil within thirty days of such change. Where he fails tonotify such change such member shall forfeit the right toparticipate in the election of members to the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.85,
+      492.29,
+      383.85,
+      515.27
+    ],
+    "text": "38.(1) A person who, not being a registeredHomoeopathic Practitioner-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      158.61,
+      527.09,
+      383.9,
+      573.23
+    ],
+    "text": "(a)uses the title of \u201cregistered Homoeopathicpractitioner\u201d in Sinhala or its equivalent in anyother language, either alone or in combination withany other words or letter; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      158.61,
+      585.05,
+      383.87,
+      619.67
+    ],
+    "text": "(b)uses any name, title, addition or descriptionimplying that such person is a registeredHomoeopathic practitioner; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      159.33,
+      631.49,
+      312.81,
+      642.83
+    ],
+    "text": "(c)practises Homoeopathy for gain;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      155.85,
+      655.49,
+      255.58,
+      666.83
+    ],
+    "text": "shall commit an offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.37,
+      319.39,
+      450.1,
+      366.86
+    ],
+    "text": "Entry ofadditionaltitle,diploma orotherqualifications.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.37,
+      422.83,
+      448.66,
+      460.7
+    ],
+    "text": "Transfer of theplace of hisresidence to benotified.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.37,
+      492.55,
+      452.38,
+      597.62
+    ],
+    "text": "Pretence to be aregisteredHomoeopathicPractitioner, orpracticing forgain as aHomoeopathicPractitionerwhen notregistered, to bean offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.37,
+      191.35,
+      445.66,
+      258.02
+    ],
+    "text": "Rights of anypersonspossessingcertainrecognizedmedicalqualifications.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.37,
+      262.75,
+      447.09,
+      306.98
+    ],
+    "text": "Meaning of\u201cregisteredHomoeopathicpractitioner\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "24Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      191.57,
+      451.2,
+      267.35
+    ],
+    "text": "(2) Any person who commits an offence under subsection(1) shall be guilty of an offence and shall on convictionafter summary trial before a Magistrate be liable toimprisonment of either description for a term not exceedingone year or to a fine not less than two hundred thousandrupees or to both such imprisonment and fine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      312.79,
+      281.93,
+      349.5,
+      293.27
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      286.27,
+      307.85,
+      370.99,
+      319.19
+    ],
+    "text": "FINANCE AND ACCOUNTS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      211.15,
+      333.89,
+      451.19,
+      371.27
+    ],
+    "text": "39.(1) There shall be established a Fund called\u201cHomoeopathic Fund\u201d (hereinafter referred to as the \u201cFund\u201d)of the Council.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      223.15,
+      385.85,
+      439.19,
+      397.19
+    ],
+    "text": "(2) There shall be paid into the Fund of the Council -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      241.39,
+      411.89,
+      451.16,
+      449.27
+    ],
+    "text": "(a) all such sums of money as may be received inthe exercise, performance and discharge of itspowers, duties and functions under this Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      241.39,
+      463.85,
+      451.17,
+      488.27
+    ],
+    "text": "(b) all such sums of money voted from time to timeby Parliament;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      242.11,
+      502.85,
+      451.17,
+      527.27
+    ],
+    "text": "(c) any fees received from Homoeopathicpractitioners and examinees;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      241.39,
+      541.85,
+      451.16,
+      566.27
+    ],
+    "text": "(d) any loans and other sums of money received bythe Council; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      242.11,
+      580.85,
+      451.18,
+      618.23
+    ],
+    "text": "(e) any grant, gift or donation in cash or kindreceived from the Government of Sri Lanka orfrom a foreign Country:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      259.15,
+      632.93,
+      451.18,
+      670.19
+    ],
+    "text": "Provided that, the Council shall obtain theprior written approval of the Department ofExternal Resources of the Ministry of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.15,
+      335.47,
+      196.87,
+      354.14
+    ],
+    "text": "The Fund of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201625",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      192.81,
+      190.73,
+      384.86,
+      236.87
+    ],
+    "text": "Minister assigned the subject of NationalPolicies and Economic Affairs in respect of anygrant, gift or donation received by the Councilfrom a foreign country.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      248.69,
+      384.88,
+      271.67
+    ],
+    "text": "(3) There shall be paid out of the Fund all the expenditureincurred in implementing the provisions of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      283.49,
+      384.85,
+      306.47
+    ],
+    "text": "40.(1) The Financial year of the Council shall be thecalendar year.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      318.29,
+      384.85,
+      352.79
+    ],
+    "text": "(2) The Council shall cause proper books of accounts tobe kept of the income and expenditure, assets and liabilitiesand all other transactions of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      364.73,
+      384.83,
+      410.87
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitutionrelating to the audit of the accounts of Public Corporationsshall apply to and in relation to the audit of the accounts ofthe Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      243.45,
+      422.69,
+      286.17,
+      434.03
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      236.37,
+      445.85,
+      293.37,
+      457.19
+    ],
+    "text": "MISCELLANEOUS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      469.13,
+      384.85,
+      503.63
+    ],
+    "text": "41.The provisions of the Medical Ordinance (Chapter105) shall not apply to, or in relation to, persons practicingmedicine, pharmacy or nursing according to Homoeopathy.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.81,
+      550.97,
+      384.86,
+      609.47
+    ],
+    "text": "42.(1) The Council shall within three months at theend of the each financial year submit to the Minister anannual report of the activities carried on by the Councilduring that financial year and cause each of the followingdocuments relating to that year attached to such report:\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      160.05,
+      621.77,
+      384.85,
+      669.23
+    ],
+    "text": "(a)the audited account of the Council for the yearalong with a report of proposed activities for theyear immediately following the year to which suchreport relates;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.37,
+      283.87,
+      441.82,
+      321.74
+    ],
+    "text": "The financialyear and theaudit ofaccounts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.37,
+      470.47,
+      447.82,
+      537.14
+    ],
+    "text": "MedicalOrdinance(Chapter 105)not to apply toregisteredHomoeopathicpractitioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.37,
+      551.71,
+      447.81,
+      589.58
+    ],
+    "text": "Council tofurnish reportsetc. to theMinister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "26Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      227.35,
+      191.81,
+      452.14,
+      229.79
+    ],
+    "text": "(b)Action Plan, Corporate Plan, Performance Report,and other information to the Minister as may berequired.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      244.97,
+      452.13,
+      282.95
+    ],
+    "text": "(2) The Minister shall lay copies of the document undersubsection (1) before Parliament within six months from thedate of receipt of such report.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      298.25,
+      452.16,
+      389.39
+    ],
+    "text": "43.The Minister assigned the subject of Finance, mayexempt the Council from the payment of any duties, leviesand of any tax on the income or profits of the Council tosuch extent as is permitted in terms of the Inland RevenueAct, No. 10 of 2006 or in terms of any other written law forthe time being in force governing the imposition of suchduty, levy or tax as the case may be.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      404.57,
+      452.21,
+      509.03
+    ],
+    "text": "44.(1) Where the Minister is of the opinion that theCouncil is not complying with any of the provisions of thisAct or upon receipt of a complaint against the Council, hemay refer that non compliance or the complaint to theSecretary to the Ministry of the Minister and the Secretaryshall proceed to inquire in to the complaint and report to theMinister and the Secretary may submit the report with therecommendations as he may deem appropriate.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      524.33,
+      452.15,
+      602.15
+    ],
+    "text": "(2) Where the Minister approves the recommendationmade under subsection (1), the Secretary may require theCouncil to adopt such recommendations within such timeand if the Council fails to comply with any such requirement,he may make order or take such other steps as he may deemnecessary to give effect to such recommendations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      212.11,
+      617.33,
+      452.16,
+      668.63
+    ],
+    "text": "(3) Where the Council fails to carry out anyrecommendation, the Secretary shall have power to directthe Council to comply with the relevant provisions of theAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.63,
+      299.23,
+      197.35,
+      337.1
+    ],
+    "text": "Exempt theCouncil fromany duties & ofany tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.63,
+      405.31,
+      198.92,
+      433.58
+    ],
+    "text": "complaintsmade against theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201627",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      190.97,
+      383.91,
+      298.31
+    ],
+    "text": "45.(1) No premises shall be used for the purpose ofmanufacturing, storing and selling Homoeopathic medicineon or after such date as may be appointed in that behalf bythe Minister by Order published in the Gazette unless suchpremises is for the time being registered in the mannerprescribed under this Act by the Director as a Homoeopathicmanufacturing unit, pharmacy, store or sales outlet as thecase may be, upon an application being made in that behalfto the Director.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      310.97,
+      383.87,
+      346.31
+    ],
+    "text": "(2) The appointed date shall be a date not earlier thanthree months after the date of the publication of that Orderunder subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      358.97,
+      383.88,
+      430.31
+    ],
+    "text": "(3) Any person who contravenes the provisions ofsubsection (1) shall commit an offence and shall onconviction after summary trial before a Magistrate be liableto imprisonment of either description for a term notexceeding six months or to a fine of not less than fiftythousand rupees or to both such imprisonment and fine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      442.97,
+      383.88,
+      502.31
+    ],
+    "text": "46.The Minister may from time to time issue to theCouncil such general or special directions in writing as tothe exercise, performance and discharge of its powers,functions and duties and it shall be the duty of the Councilto give effect to such directions.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      514.97,
+      383.88,
+      574.31
+    ],
+    "text": "47.(1) The Minister may, for the purpose of carryingout or giving effect to the principles and provisions of theAct, make regulations with respect to any matter required bythe Act to be prescribed or in respect of which regulationsare required or authorized to be made under the Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      586.97,
+      383.9,
+      634.31
+    ],
+    "text": "(2) In particular and without prejudice to the generalityof the powers conferred on the Minister by subsection (1)the Minister may make regulation under this section inrespect of all or any of the following matters:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      158.97,
+      646.97,
+      383.88,
+      670.43
+    ],
+    "text": "(a)the manner in which the registration of theHomoeopathic medical practitioners, and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      394.89,
+      444.19,
+      442.17,
+      462.86
+    ],
+    "text": "Directions bythe Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      394.89,
+      517.15,
+      438.33,
+      526.22
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      394.89,
+      192.43,
+      448.9,
+      259.1
+    ],
+    "text": "Homoeopathicunits formanufacturing,storing andselling ofmedicine to beregistered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "28Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      247.15,
+      191.09,
+      451.18,
+      239.39
+    ],
+    "text": "pharmacists, medical institutions, Homoeopathicmanufacturing units, sales outlets are to be carriedout, the forms of application, the fees to be chargedand the period of registration;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      226.27,
+      252.65,
+      451.18,
+      289.31
+    ],
+    "text": "(b)the manner in which refusal, renewal, suspensionor cancellation of registration as a Homoeopathicmedical practitioner, is carried out;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      227.11,
+      303.41,
+      451.19,
+      327.47
+    ],
+    "text": "(c)the manner of the election of the president, vicepresident and the members of the Council;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      226.27,
+      341.45,
+      451.19,
+      378.23
+    ],
+    "text": "(d)the terms and conditions to be complied in relationto registered Homoeopathy manufacturing units,pharmacies, sales outlets or stores;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      227.11,
+      392.33,
+      451.2,
+      441.71
+    ],
+    "text": "(e)the manner in which the records and books are tobe kept and maintained in relation to registeredHomoeopathic manufacturing units, pharmacies,sales outlets or stores;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      228.55,
+      455.81,
+      451.19,
+      517.91
+    ],
+    "text": "(f)the manner in which the reports to be furnishedfrom time to time in respect of registeredHomoeopathic manufacturing units, pharmacies,sales outlets and the stores and the particulars to becontained therein;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      226.27,
+      532.01,
+      451.2,
+      581.39
+    ],
+    "text": "(g)the manner in which the proper maintenance andadministration of registered Homoeopathicmanufacturing units, pharmacies, sales outlets andstores, be carried out;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      226.27,
+      595.49,
+      451.19,
+      632.27
+    ],
+    "text": "(h)the summoning of meetings of the Council for thepurpose of electing members of the Council andthe procedure to be observed at such meeting;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      228.55,
+      646.25,
+      451.19,
+      670.31
+    ],
+    "text": "(i)the minimum standards of medical education andthe practice of Homoeopathy including minimum",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201629",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      179.85,
+      190.97,
+      383.89,
+      262.31
+    ],
+    "text": "standards relating to courses of study,examinations, staff, equipment, accommodation,training and other facilities at the HomoeopathyColleges and other Institutions which grant orconfer any qualification which entitles a person toobtain registration under this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.25,
+      274.97,
+      383.9,
+      298.31
+    ],
+    "text": "(j)qualifications and criteria for enrolment as apharmacist;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      159.69,
+      310.97,
+      383.88,
+      346.31
+    ],
+    "text": "(k)the conduct of professional examinations,qualifications of examiners and the criteria ofadmission to such examinations.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      358.97,
+      383.88,
+      394.31
+    ],
+    "text": "48.All members, officers and employees of the Councilshall be deemed to be public servants within the meaningand for the purpose of the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      430.97,
+      383.89,
+      478.31
+    ],
+    "text": "49.The Council shall be deemed to be a scheduledinstitution within the meaning of the Bribery Act(Chapter 26) and the provisions of that Act shall be construedaccordingly.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      502.97,
+      383.86,
+      526.31
+    ],
+    "text": "50.(1) The Homoeopathy Act, No. 7 of 1970 is herebyrepealed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      155.85,
+      538.97,
+      371.04,
+      550.31
+    ],
+    "text": "(2) Notwithstanding the repeal of the aforesaid Act -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.09,
+      562.97,
+      383.89,
+      634.31
+    ],
+    "text": "(a) all moneys lying to the credit of the Fundestablished under section 39 of the repealed Act,on the day immediately prior to the date ofcommencement of this Act, shall be transferredto the Fund of the Council established underthis Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.09,
+      646.97,
+      383.87,
+      670.31
+    ],
+    "text": "(b) all suits and prosecutions instituted by or againstthe Council in any Court or tribunal and pending",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      395.85,
+      360.67,
+      451.29,
+      416.66
+    ],
+    "text": "All members,officers andemployees ofthe Councildeemed to bepublic servants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      395.85,
+      431.47,
+      449.14,
+      498.14
+    ],
+    "text": "The Councildeemed to be ascheduledinstitution within the meaningof the BriberyAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      395.85,
+      505.15,
+      434.86,
+      523.82
+    ],
+    "text": "Repeal andSavings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "30Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      259.15,
+      191.57,
+      451.18,
+      254.51
+    ],
+    "text": "on the day prior to the date of commencement ofthis Act shall be deemed to be suits andprosecutions instituted by or against the Councilunder this Act and may be continuedaccordingly;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      242.11,
+      268.97,
+      451.18,
+      357.71
+    ],
+    "text": "(c) all decrees and orders entered or made by anycompetent Court in favour of or against theCouncil and remaining unsatisfied on the dateof Commencement of this Act, shall be deemedto have been entered or made in favour of oragainst the Council under this Act and may beenforced accordingly;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      241.39,
+      372.17,
+      451.18,
+      460.91
+    ],
+    "text": "(d) every regulation and rule made by the Ministerunder the repealed Act and in force on the dateof commencement of this Act and which is notinconsistent with the provisions of this Act, shallbe deemed to be a regulation made under thisAct and may be amended or varied untilregulations are made in terms of this Act;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      242.11,
+      475.37,
+      451.19,
+      564.11
+    ],
+    "text": "(e) every officer and servant appointed to theCouncil under the repealed Act, and holdingoffice on the date of commencement of this Act,shall be deemed to be officers and servantsappointed under this Act and shall continue inoffice accordingly on the same terms andconditions; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      243.67,
+      578.57,
+      451.2,
+      667.31
+    ],
+    "text": "(f) the Homoeopathic hospital administered by thegovernment under the repealed Act andfunctioning as such on the day immediatelypreceding the date of commencement of this Actshall be deemed to be a hospital establishedunder this Act and shall be continuedaccordingly.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201631",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      191.33,
+      384.85,
+      240.47
+    ],
+    "text": "51.(1) Notwithstanding the provisions of section 2,the Minister shall appoint an Interim Homoeopathic MedicalCouncil (hereinafter referred to as the \u201cInterim Council\u201d)which shall consist of the following members:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      160.05,
+      254.33,
+      384.93,
+      265.67
+    ],
+    "text": "(a)ex officio members referred to in Section 2 (3) (a);",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      160.05,
+      279.53,
+      384.83,
+      303.47
+    ],
+    "text": "(b)four registered medical practitioners ofHomoeopathy; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      160.89,
+      317.33,
+      384.84,
+      353.87
+    ],
+    "text": "(c)three persons who have distinguished themselveswith proven knowledge, experience and eminencein the fields of law, medical or science.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      367.73,
+      384.85,
+      404.27
+    ],
+    "text": "(2) The Interim Council shall carry out the functions ofthe Council until the Council is constituted within two yearsfrom the date of commencement of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      418.13,
+      384.86,
+      454.67
+    ],
+    "text": "(3) The Minister shall, appoint the Interim Council withina period of three months commencing from the appointeddate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      468.53,
+      384.85,
+      505.07
+    ],
+    "text": "(4) The Minister shall, appoint the President and theVice President of the Interim Council from among themembers referred to in paragraph (b) of subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      518.93,
+      384.85,
+      555.47
+    ],
+    "text": "(5) Subject to the provisions of subsection (2), themembers of the Interim Council shall hold office until theCouncil is appointed by the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      569.33,
+      384.82,
+      593.27
+    ],
+    "text": "(6) The quorum for a meeting of the Interim Council shallbe five.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      156.81,
+      607.13,
+      225.09,
+      618.47
+    ],
+    "text": "52.In this Act-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      180.81,
+      632.33,
+      384.84,
+      668.87
+    ],
+    "text": "\u201cCommission\u201d means the University GrantsCommission established under theUniversities Act, No.16 of 1978;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      395.85,
+      606.67,
+      446.86,
+      615.74
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      395.85,
+      191.11,
+      455.86,
+      219.38
+    ],
+    "text": "The interimHomoeopathicmedical Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "32Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      191.45,
+      451.19,
+      215.39
+    ],
+    "text": "\u201cCouncil\u201d means the Homoeopathic MedicalCouncil constituted under section 2;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      229.49,
+      451.17,
+      253.55
+    ],
+    "text": "\u201dDegree Awarding Institute\u201d has the same meaningas in the Universities Act, No.16 of 1978;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      267.65,
+      451.17,
+      317.03
+    ],
+    "text": "\u201cdispensary\u201d means any premises (howsoeverdescribed) used or intended to be used for theoutdoor treatment of persons suffering fromillnesses;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      331.13,
+      451.22,
+      469.43
+    ],
+    "text": "\u201cHomoeopathy\u201d means the system of medicineestablished by Dr. Hahneman which uses themedicine prepared according to such systemof medicine and also use all such modernadvanced methods in science and technologyas are necessary for clinical management ofdiseases, diseases prevention and forpromotion of health and includes the use ofBio chemical remedies, natural therapies,Batch flower remedies, anthropomorphicallymedicines etc;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      483.53,
+      451.18,
+      609.11
+    ],
+    "text": "\u201cHomoeopathic Medical College\u201d means a collegeof Homoeopathy, whether known by thatname or by any other name, in which a personmay undergo a course of study or trainingincluding any postgraduate course of studyor training and all other such courses relatedto Homoeopathy within or outside Sri Lanka,which grants or confers Degrees, Diplomas orany other qualifications in Homoeopathy orrelated disciplines;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      247.15,
+      623.21,
+      451.22,
+      672.83
+    ],
+    "text": "\u201c Homoeopathic Institution\u201d means any institutionother than a Homoeopathic medical collegewithin or outside Sri Lanka, which grantsDegrees, Diplomas or any other qualifications",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201633",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      203.85,
+      191.57,
+      383.9,
+      241.91
+    ],
+    "text": "in Homoeopathy or related disciplines andincludes a University or Degree AwardingInstitute and an institution referred to section20 of this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      256.61,
+      383.88,
+      306.95
+    ],
+    "text": "\u201cHomoeopathic Medical qualification\u201d means anyHomoeopathic medical qualifications whichentitle the holder to be registered under thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      321.65,
+      383.88,
+      410.99
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom the subjectof Homoeopathic System of Medicine isassigned and \u201cMinistry\u201d shall be construedaccordingly;\u201cPharmacy\u201d includes the manufacturing unit, whereHomoeopathic medicines are manufactured,prepared or compounded;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      425.57,
+      383.89,
+      449.87
+    ],
+    "text": "\u201cprescribed\u201d \u201c means prescribed by regulationsmade under this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      464.57,
+      383.89,
+      527.87
+    ],
+    "text": "\u201crecognized Homeopathic medical college orinstitution\u201d means any Homoeopathicmedical college or institution recognized bythe Council which grants or confers a medicalqualification;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      542.57,
+      383.9,
+      579.95
+    ],
+    "text": "\u201cRegister\u201d means the register of Homoeopathicpractitioners maintained by the Council undersection 28 of this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      179.85,
+      594.53,
+      383.88,
+      670.91
+    ],
+    "text": "\u201cregistered medical practitioner of Homoeopathy\u201dmeans a person who is for the time beingregistered, in the General Registermaintained under section 25 of theHomoeopathy Act, No.7 of 1970 and personswho are registered under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      166.97,
+      401.12,
+      178.31
+    ],
+    "text": "34Homoeopathy Act, No. 10 of 2016",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      139.63,
+      265.15,
+      190.64,
+      303.02
+    ],
+    "text": "Sinhala text toprevail in caseofInconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      247.15,
+      190.97,
+      427.19,
+      202.31
+    ],
+    "text": "\u201crules\u201d means any rule made under this Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      247.15,
+      214.97,
+      451.17,
+      250.31
+    ],
+    "text": "\u201cUniversity\u201d means any University established ordeemed to be established under theUniversities Act, No.16 of 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      211.15,
+      262.97,
+      451.19,
+      298.31
+    ],
+    "text": "53.In the event of any inconsistency between theSinhala and Tamil Texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      194.85,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "Homoeopathy Act, No. 10 of 201635",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

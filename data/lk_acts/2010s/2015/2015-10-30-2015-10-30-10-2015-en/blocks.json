@@ -1,0 +1,3867 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.77,
+      393.89,
+      403.04,
+      409.38
+    ],
+    "text": "FINANCE ACT, No. 10 OF 2015",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      508.09,
+      373.29,
+      519.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.29,
+      469.45,
+      370.31,
+      480.52
+    ],
+    "text": "[Certified on 30th October, 2015]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.86,
+      670.24
+    ],
+    "text": "Price : Rs.Postage : Rs.",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 30, 2015",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.97,
+      168.97,
+      378.89,
+      180.16
+    ],
+    "text": "1Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      391.17,
+      366.31,
+      427.9,
+      375.38
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      688.63,
+      252.46,
+      697.7
+    ],
+    "text": "2\u2014PL 009241\u2014450 (10/2015)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.29,
+      193.73,
+      327.59,
+      205.07
+    ],
+    "text": "[Certified on 30th October, 2015]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      218.33,
+      212.62,
+      229.67
+    ],
+    "text": "L.D.\u2014O. 10/2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      242.93,
+      378.69,
+      303.47
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE IMPOSITION OF BARS AND TAVERNS LEVY,CASINO INDUSTRY LEVY, SUPER GAIN TAX, MOBILE TELEPHONEOPERATOR LEVY, SATELLITE LOCATION LEVY, DEDICATED SPORTSCHANNEL LEVY, MANSION TAX, MIGRATING TAX AND MOTORVEHICLE IMPORTERS LICENCE FEE AND TO PROVIDE FOR MATTERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.17,
+      304.49,
+      322.15,
+      315.83
+    ],
+    "text": "CONNECTED THEREWITH AND INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      329.09,
+      378.73,
+      352.67
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      365.93,
+      378.6,
+      389.63
+    ],
+    "text": "1.This Act may be cited as the Finance Act, No. 10of 2015.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.93,
+      402.89,
+      273.93,
+      414.23
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.57,
+      427.49,
+      304.29,
+      438.83
+    ],
+    "text": "BARS AND TAVERNS LEVY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      452.09,
+      378.74,
+      524.87
+    ],
+    "text": "2.(1) There shall be levied, from every holder of alicence specified in the Schedule to this Act, issued underthe Excise Ordinance (Chapter 52), who held such licenceas at March 31, 2015, a levy to be called Bars and TavernsLevy (hereinafter in this Part referred to as \u201cthe levy\u201d) ofrupees two hundred and fifty thousand.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      538.13,
+      378.8,
+      586.43
+    ],
+    "text": "(2) Where a holder of a licence referred to in subsection(1), held more than one licence specified in the Schedule,he shall be liable to pay the levy in respect of every suchlicence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      599.69,
+      378.7,
+      623.27
+    ],
+    "text": "(3) The levy shall be paid on or before November 15,2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      636.53,
+      378.74,
+      672.47
+    ],
+    "text": "(4) The levy shall be collected by the CommissionerGeneral and shall be remitted to the Consolidated Fundwithin fifteen days from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      391.17,
+      452.59,
+      442.18,
+      480.86
+    ],
+    "text": "Imposition ofthe Bars andTaverns Levy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "2Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      193.13,
+      455.85,
+      229.67
+    ],
+    "text": "3.(1) Any holder of a licence who fails to pay the levyas provided for in section 2, shall be deemed to be a defaulterunder this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      243.53,
+      456.12,
+      280.07
+    ],
+    "text": "(2) The provisions of section 4 shall apply to and inrelation to the prosecution against any such defaulter andfor the recovery of such levy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      293.93,
+      456.19,
+      368.27
+    ],
+    "text": "4.(1) Where the amount of the levy or part thereof isin default, the Commissioner General shall issue a certificatecontaining particulars of the amount in default and thename and address of the last known place of residence orbusiness of the defaulter to the Magistrate having jurisdictionover such place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      382.13,
+      456.11,
+      431.27
+    ],
+    "text": "(2) The Magistrate shall thereupon summon thedefaulter to show cause why proceedings for the recovery ofthe amount of the levy in default should not be takenagainst him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      445.13,
+      456.17,
+      519.47
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter, theamount of the levy in default shall by Order of the Magistratebe recovered as if it was a fine imposed by the Magistrateon such defaulter and shall when recovered, be remitted tothe Commissioner General to be credited to theConsolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      533.33,
+      456.11,
+      582.47
+    ],
+    "text": "(4) In addition to the fine imposed under subsection (3),the licence issued to the relevant defaulter under ExciseOrdinance (Chapter 52), may be cancelled by theCommissioner General with effect from December 31, 2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      215.83,
+      596.33,
+      456.21,
+      620.27
+    ],
+    "text": "5.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      248.83,
+      634.13,
+      456.11,
+      670.67
+    ],
+    "text": "\u201cCommissioner General\u201d means the CommissionerGeneral of Excise appointed under section 7of the Excise Ordinance (Chapter 52).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.43,
+      193.39,
+      197.72,
+      221.66
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.43,
+      294.31,
+      201.43,
+      312.98
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.79,
+      595.15,
+      195.8,
+      604.22
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.97,
+      168.97,
+      378.89,
+      180.16
+    ],
+    "text": "3Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.37,
+      192.89,
+      275.37,
+      204.23
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217.29,
+      218.33,
+      300.57,
+      229.67
+    ],
+    "text": "CASINO INDUSTRY LEVY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      243.65,
+      378.71,
+      305.87
+    ],
+    "text": "6.(1) There shall be levied from every person whoengaged in the business of a casino, as at January 29, 2015,a levy to be called the Casino Industry Levy (hereinafter inthis Part referred to as \u201cthe levy\u201d) of rupees one thousandmillion.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      319.85,
+      378.73,
+      356.63
+    ],
+    "text": "(2) Where a person referred to in subsection (1) engagedin the business of more than one casino, such person shallbe liable to pay the levy in respect of every such casino.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      370.73,
+      378.7,
+      394.79
+    ],
+    "text": "(3) The levy shall be paid on or before November 15,2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      408.77,
+      378.74,
+      445.55
+    ],
+    "text": "(4) The levy shall be collected by the CommissionerGeneral and shall be remitted to the Consolidated Fundwithin fifteen days from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      459.53,
+      378.73,
+      496.31
+    ],
+    "text": "7.(1) Any person who fails to pay the levy as providedfor in section 6, shall be deemed to be a defaulter underthis Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      510.41,
+      378.72,
+      547.07
+    ],
+    "text": "(2) The provisions of section 8 shall apply to and inrelation to the prosecution against any such defaulter andfor the recovery of such levy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      561.17,
+      378.82,
+      635.99
+    ],
+    "text": "8.(1) Where the amount of the levy or part thereof is indefault, the Commissioner General shall issue a certificatecontaining particulars of the amount in default and the nameand address of the last known place of residence or businessof the defaulter to the Magistrate having jurisdiction oversuch place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.17,
+      650.09,
+      378.72,
+      674.15
+    ],
+    "text": "(2) The Magistrate shall thereupon summon thedefaulter to show cause why proceedings for the recovery",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.17,
+      244.03,
+      443.61,
+      272.3
+    ],
+    "text": "Imposition ofthe CasinoIndustry Levy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.17,
+      459.91,
+      444.46,
+      488.18
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.17,
+      561.91,
+      448.17,
+      580.58
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "4Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.83,
+      192.53,
+      456.09,
+      216.23
+    ],
+    "text": "of the amount of the levy in default should not be takenagainst him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.83,
+      229.49,
+      456.16,
+      302.27
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter,the amount of the levy in default shall by Order of theMagistrate be recovered as if it was a fine imposed by theMagistrate on such defaulter and shall when recovered, beremitted to the Commissioner General to be credited to theConsolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.83,
+      315.53,
+      456.21,
+      339.23
+    ],
+    "text": "9.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248.83,
+      352.49,
+      456.1,
+      376.07
+    ],
+    "text": "\u201ccasino\u201d means any premises to which individualshave access\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.55,
+      389.33,
+      406.29,
+      400.67
+    ],
+    "text": "(a)with or without payment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.55,
+      413.93,
+      407.12,
+      425.27
+    ],
+    "text": "(b)whether as of right or not,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      269.83,
+      438.53,
+      456.11,
+      548.27
+    ],
+    "text": "for the playing of any game for a stake andincludes the playing of baccarat, puntobanco,big six, blackjack, boule, chemin \u2013 de- fer,chuck \u2013 a \u2013 luck, crown and anchor, faro, farobank, hazard, poker dice, pontoon, Americanfrcanch roulette, trente \u2013 et \u2013 quarntc, vingt \u2013et \u2013 um, or wheel of fortune or any other gamewhich the Minister may, from time to timeprescribe by regulations;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248.83,
+      561.53,
+      456.11,
+      609.83
+    ],
+    "text": "\u201cCommissioner General\u201d means the CommissionerGeneral of Inland Revenue appointed ordeemed to be appointed under the InlandRevenue Act, No. 10 of 2006;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248.83,
+      623.09,
+      456.11,
+      671.27
+    ],
+    "text": "\u201cperson\u201d includes a company registered under theCompanies Act, No. 7 of 2007and a person ora company licensed under the Casino Business(Regulation ) Act, No.17 of 2010.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.83,
+      315.31,
+      194.84,
+      324.38
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.97,
+      168.97,
+      378.89,
+      180.16
+    ],
+    "text": "5Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235.41,
+      192.89,
+      271.41,
+      204.23
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      228.93,
+      216.89,
+      288.93,
+      228.23
+    ],
+    "text": "SUPER GAIN TAX",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.17,
+      240.89,
+      378.72,
+      276.23
+    ],
+    "text": "10.(1) There shall be levied, subject to the otherprovisions of this Part, a tax to be called a Super Gain Tax(hereinafter in this Part referred to as \u201cthe tax\u201d) from\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.89,
+      288.89,
+      378.75,
+      372.23
+    ],
+    "text": "(a)any company or any individual whose profit beforeincome tax as per the audited financial statementfor the year of assessment commenced on April 1,2013 exceeds rupees two thousand million, at therate of twenty five per centum on the taxable incomeof such company or individual, for such year ofassessment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      154.89,
+      384.89,
+      378.73,
+      516.23
+    ],
+    "text": "(b)each company of a group of companies, of whichthe aggregate of the profits before income tax of allsubsidiaries and the holding company in that groupof companies, exceeds rupees two thousand millionas per the audited financial statements, for the yearof assessment commenced on April 1, 2013, at therate of twenty five per centum, on the taxableincome of each such company, for such year ofassessment, notwithstanding that the profit beforeincome tax of any such company does not exceedrupees two thousand million:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175.17,
+      528.89,
+      378.73,
+      672.23
+    ],
+    "text": "Provided however, where the profit beforeincome tax of any company of a group of companiesexceeds rupees two thousand million, as per theaudited financial statement for the year ofassessment commenced on April 1, 2013, but theaggregate of the profits before income tax, of allsubsidiaries and the holding company in that groupof companies, does not exceed rupees two thousandmillion, as per the audited financial statementsfor the year of assessment commenced on April 1,2013, the tax shall be levied only from suchcompany.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      392.13,
+      242.11,
+      444.58,
+      270.38
+    ],
+    "text": "Imposition ofthe Super GainTax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "6Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.43,
+      192.53,
+      456.21,
+      203.87
+    ],
+    "text": "(2) For the purpose of subsection (1), \u201ctaxable income\u201d\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231.19,
+      216.05,
+      456.24,
+      321.83
+    ],
+    "text": "(a)in relation to a company which has entered into anagreement with the Board of Investment of Sri Lankaunder section 17 of the Board of Investment of SriLanka Law, No. 4 of 1978 and has become liableto income tax determined in accordance with suchagreement, after the expiration of its period of taxexemption set out in such agreement, means theprofit before income tax of such company, as perthe audited financial statement;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231.19,
+      334.13,
+      456.24,
+      380.87
+    ],
+    "text": "(b)in relation to an individual or a company other thanthe companies referred to in paragraph (a), shallhave the same meaning assigned to such expressionunder the Inland Revenue Act, No. 10 of 2006.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      393.05,
+      456.23,
+      463.43
+    ],
+    "text": "(3) Any individual or a company who is liable to pay thetax under this Part, shall pay the tax in three equalinstallments on or before, the thirty first day of October,thertieth day of November and thirty first day of Decemberof 2015, notwithstanding any assessment has not been madeon the taxable income of such individual or company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      475.73,
+      456.23,
+      510.59
+    ],
+    "text": "(4) The tax shall be collected by the Commissioner Generaland shall be remitted to the Consolidated Fund within fifteendays from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      522.89,
+      456.23,
+      557.87
+    ],
+    "text": "(5) The provisions which may be necessary for theimplementation of the provisions of this Part, shall beprescribed by regulations made under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      570.05,
+      456.24,
+      616.79
+    ],
+    "text": "(6) It shall be the duty of every subsidiary and the holdingcompany of a group of companies, to pay the tax calculatedunder subsection (1), as provided for in subsection (3), tothe Commissioner General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      215.47,
+      629.09,
+      456.23,
+      676.19
+    ],
+    "text": "(7) Any subsequent liquidation process of a subsidiary orthe holding company of a group of companies shall notrelease any such company from the liability to pay the taxunder this Part.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200.97,
+      168.97,
+      378.89,
+      180.16
+    ],
+    "text": "7Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.17,
+      192.29,
+      379.2,
+      215.63
+    ],
+    "text": "(8) Notwithstanding any provision contrary in any otherwritten law,\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154.89,
+      228.29,
+      379.23,
+      275.63
+    ],
+    "text": "(a)the tax levied under this Part shall be deemed to bean expenditure in the financial statement relatingto the year of assessment commenced on April 1,2013;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154.89,
+      288.29,
+      379.22,
+      335.63
+    ],
+    "text": "(b)no deduction shall be granted in calculating thetaxable income under Inland Revenue Act , No. 10of 2006, for any year of assessment, for the paymentof tax under this Part;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.61,
+      348.29,
+      379.22,
+      383.63
+    ],
+    "text": "(c)no deduction shall be granted in calculating thetax payable under Value Added Tax Act, No. 14 of2002, for the payment of tax under this Part;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      154.89,
+      396.29,
+      379.22,
+      431.63
+    ],
+    "text": "(d)no deduction shall be granted in calculating thetax payable under Nation Building Tax Act, No. 9of 2009, for the payment of tax under this Part.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.17,
+      444.29,
+      379.22,
+      503.63
+    ],
+    "text": "11.(1) Where any company, individual or a group ofcompanies who is liable to pay the tax under this Part, failsto pay such tax, as provided for in this Part, such company,individual or group of companies shall be deemed to be adefaulter of tax under this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.17,
+      516.29,
+      379.18,
+      575.63
+    ],
+    "text": "(2) The provisions of Chapter XII , Chapter XXII, ChapterXXIII, Chapter XXIV, Chapter XXV , Chapter XXVI, ChapterXXVII, Chapter XXX and Chapter XXXI of the InlandRevenue Act, No.10 of 2006 shall, mutatis mutandis, applyto and in relation to any such defaulter .",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.17,
+      588.29,
+      379.17,
+      611.63
+    ],
+    "text": "12.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.17,
+      624.29,
+      379.2,
+      671.63
+    ],
+    "text": "\u201cCommissioner General\u201d, \u201ccompany\u201dand \u201cyear ofassessment\u201d have the same meanings,respectively assigned to those expressionsunder the Inland Revenue Act, No. 10 of 2006;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      391.17,
+      446.47,
+      444.46,
+      474.74
+    ],
+    "text": "Default inpayment of thetax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      391.17,
+      589.99,
+      442.18,
+      599.06
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "8Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.83,
+      192.77,
+      456.11,
+      215.75
+    ],
+    "text": "\u201cgroup of companies\u201d means a holding companyand its subsidiaries;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.83,
+      227.81,
+      456.2,
+      309.35
+    ],
+    "text": "\u201cholding company\u201d means a company which ownsmore than fifty per centum of the shares withvoting rights of another company, directly orindirectly, other than a holding companyincorporated outside Sri Lanka and notregistered under Chapter XVIII of theCompanies Act, No.7 of 2007;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      248.83,
+      321.41,
+      456.1,
+      426.35
+    ],
+    "text": "\u201csubsidiary\u201d means a company in which more thanfifty per centum of its shares with voting rightsare owned by another company, directly orindirectly other than a subsidiary incorpratedoutside Sri Lanka and not registered underChapter XVIII of the Companies Act, No.7 of2007 of a holding company incorporatedoutside Sri Lanka and not registered underChapter XVIII of the Companies Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      317.71,
+      438.41,
+      354.42,
+      449.75
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      273.79,
+      461.81,
+      398.23,
+      473.15
+    ],
+    "text": "MOBILE TELEPONE OPERATOR LEVY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      485.21,
+      456.22,
+      555.11
+    ],
+    "text": "13.(1) There shall be levied, on every person whoengaged in the business of a licensed mobile telephoneoperator, as at March 31, 2015, a levy to be called LicensedMobile Telephone Operator Levy (hereinafter in thisPart referred to as \u201cthe levy\u201d) of rupees two hundred andfifty million.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      567.17,
+      456.1,
+      590.15
+    ],
+    "text": "(2) The levy shall be paid on or before November 15,2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      215.83,
+      602.21,
+      456.12,
+      672.11
+    ],
+    "text": "(3) The levy shall be collected by theTelecommunications Regulatory Commission of Sri Lankaestablished under the Sri Lanka Telecommunications Act,No. 25 of 1991 (hereinafter in this Part referred to as \u201ctheCommission\u201d), and shall be remitted to the ConsolidatedFund within fifteen days from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.43,
+      486.79,
+      198.43,
+      524.66
+    ],
+    "text": "Imposition ofMobileTelephoneOperator Levy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200.97,
+      168.97,
+      378.89,
+      180.16
+    ],
+    "text": "9Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      193.01,
+      379.67,
+      229.55
+    ],
+    "text": "14.(1) Any person who fails to pay the levy as providedfor in section 13, shall be deemed to be a defaulter underthis Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      243.41,
+      379.69,
+      279.95
+    ],
+    "text": "(2) The provisions of section 15 shall apply to and inrelation to the prosecution against such defaulter and forthe recovery of such levy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      293.81,
+      379.69,
+      368.15
+    ],
+    "text": "15.(1) Where the amount of the levy or part thereofis in default, the Commission shall issue a certificatecontaining particulars of the amount in default and thename and address of the last known place of residence orbusiness of the defaulter to the Magistrate havingjurisdiction over such place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      382.01,
+      379.68,
+      431.15
+    ],
+    "text": "(2) The Magistrate shall thereupon summon thedefaulter to show cause why proceedings for the recovery ofthe amount of the levy in default should not be takenagainst him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      445.01,
+      379.7,
+      519.35
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter,the amount of the levy in default shall by Order of theMagistrate be recovered as if it was a fine imposed by theMagistrate on such defaulter and shall when recovered, beremitted to the Commission to be credited to theConsolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.13,
+      533.21,
+      379.68,
+      557.15
+    ],
+    "text": "16.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.13,
+      571.01,
+      379.68,
+      632.75
+    ],
+    "text": "\u201clicensed mobile telephone operator\u201d means anoperator licensed under section 17 of the SriLanka Telecommunications Act, No. 25 of1991, other than an operator who is authorizedsolely to provide a public pay phone service;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.13,
+      646.61,
+      379.64,
+      670.55
+    ],
+    "text": "\u201cperson\u201d includes a body of persons whetherincorporated or unincorporated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.17,
+      193.87,
+      444.46,
+      222.14
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.17,
+      294.91,
+      448.17,
+      313.58
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      391.65,
+      535.03,
+      442.66,
+      544.1
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "10Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      318.91,
+      192.77,
+      352.62,
+      204.11
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      217.37,
+      382.15,
+      240.88
+    ],
+    "text": "SATELLITE LOCATION LEVYTION LEVY",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      241.97,
+      455.86,
+      302.51
+    ],
+    "text": "17.(1) There shall be levied, from any person whoowned satellites and was permitted to utilize the Sri Lankansatellite locations, as at March 31, 2015, a levy to be calledthe Satellite Location Levy (hereinafter in this Part referredto as \u201cthe levy\u201d) of rupees one thousand million.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      315.77,
+      455.86,
+      339.35
+    ],
+    "text": "(2) The levy shall be paid on or before November 15,2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      352.61,
+      455.88,
+      425.51
+    ],
+    "text": "(3) The levy shall be collected by theTelecommunications Regulatory Commission of Sri Lankaestablished under the Sri Lanka Telecommunications Act,No. 25 of 1991 (hereinafter in this Part referred to as \u201ctheCommission\u201d), and shall be remitted to the ConsolidatedFund within fifteen days from the date of collection .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      438.77,
+      455.86,
+      474.71
+    ],
+    "text": "18.(1) Any person who fails to pay the levy as providedfor in section 17, shall be deemed to be a defaulter underthis Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      487.97,
+      455.88,
+      523.91
+    ],
+    "text": "(2) The provisions of section 19 shall apply to and inrelation to the prosecution against any such defaulter andfor the recovery of such levy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      537.17,
+      455.87,
+      609.95
+    ],
+    "text": "19.(1) Where the amount of the levy or part thereof isin default, the Commission shall issue a certificate containingparticulars of the amount in default and the name andaddress of the last known place of residence or business ofthe defaulter to the Magistrate having jurisdiction oversuch place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      215.59,
+      623.21,
+      455.87,
+      671.75
+    ],
+    "text": "(2) The Magistrate shall thereupon summon the defaulterto show cause why proceedings for the recovery ofthe amount of the levy in default should not be takenagainst him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.31,
+      440.35,
+      197.6,
+      468.62
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.71,
+      536.35,
+      200.71,
+      555.02
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.35,
+      239.11,
+      197.33,
+      269.51
+    ],
+    "text": "Imposition ofthe SatelliteLocation Levy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      200.97,
+      168.97,
+      378.81,
+      180.16
+    ],
+    "text": "11Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.17,
+      193.01,
+      379.21,
+      262.91
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter,the amount of the levy in default shall by Order of theMagistrate be recovered as if it was a fine imposed by theMagistrate on such defaulter and shall when recovered, beremitted to the Commission to be credited to theConsolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.17,
+      274.97,
+      379.17,
+      297.95
+    ],
+    "text": "20.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.17,
+      308.33,
+      379.22,
+      366.47
+    ],
+    "text": "\u201cSri Lankan satellite location\u201d means an orbit slotallocated to Sri Lanka by the InternationalTelecommunications Union for the purposeof providing and obtaining services throughsatellites;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.17,
+      376.85,
+      379.19,
+      399.83
+    ],
+    "text": "\u201cperson\u201d includes a body of persons whetherincorporated or unincorporated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      240.81,
+      411.89,
+      277.52,
+      423.23
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      197.61,
+      433.61,
+      320.61,
+      444.95
+    ],
+    "text": "DEDICATED SPORTS CHANNEL LEVY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.17,
+      455.33,
+      379.23,
+      560.27
+    ],
+    "text": "21.(1) There shall be levied, on every person who wascarrying on the business of operating an island-widededicated sports channel, as at March 31, 2015, under theauthority of a Certificate of Registration issued under theSri Lanka Rupavahini Corporation Act, No. 6 of 1982, usingfive or more transmitting locations as at January 29, 2015, alevy to be called Dedicated Sports Channel Levy (hereinafterin this Part referred to as \u201cthe levy\u201d) of rupees one thousandmillion.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.17,
+      570.65,
+      379.19,
+      593.63
+    ],
+    "text": "(2) The levy shall be paid on or before November 15,2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      139.17,
+      604.01,
+      379.22,
+      674.03
+    ],
+    "text": "(3) The levy shall be collected by theTelecommunications Regulatory Commission of Sri Lankaestablished under the Sri Lanka Telecommunications Act,No. 25 of 1991 (hereinafter in this Part referred to as \u201ctheCommission\u201d) and shall be remitted to the ConsolidatedFund within fifteen days from the date of collection .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      391.17,
+      275.35,
+      442.18,
+      284.42
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      391.17,
+      456.31,
+      444.45,
+      492.38
+    ],
+    "text": "Imposition ofthe DedicatedSports ChannelLevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "12Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      192.05,
+      455.5,
+      226.31
+    ],
+    "text": "22.(1) Any person who fails to pay the levy as providedfor in section 21, shall be deemed to be a defaulter under thisAct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      238.01,
+      455.14,
+      272.39
+    ],
+    "text": "(2) The provisions of section 23 shall apply to and inrelation to the prosecution against such defaulter and forthe recovery of such levy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      283.97,
+      455.29,
+      341.39
+    ],
+    "text": "23.(1) Where the amount of the levy or part thereof is indefault, the Commission shall issue a certificate containingparticulars of the amount in default and the name and addressof the last known place of residence or business of the defaulterto the Magistrate having jurisdiction over such place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      352.97,
+      455.14,
+      387.35
+    ],
+    "text": "(2) The Magistrate shall thereupon summon the defaulterto show cause why proceedings for the recovery of the amountof the levy in default should not be taken against him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      399.05,
+      455.15,
+      456.35
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter, theamount of the levy in default shall by Order of the Magistratebe recovered as if it was a fine imposed by the Magistrate onsuch defaulter and shall when recovered, be remitted to theCommission to be credited to the Consolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      467.93,
+      455.23,
+      490.79
+    ],
+    "text": "24.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      248.47,
+      502.49,
+      455.14,
+      548.27
+    ],
+    "text": "\u201cdedicated sports channel\u201dmeans a televisionchannel of which ninety per centum of thetelecasting time is allocated for telecastingsports related programmes;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      248.47,
+      559.97,
+      455.11,
+      582.83
+    ],
+    "text": "\u201cperson\u201d includes a body of persons whetherincorporated or unincorporated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      315.43,
+      594.53,
+      355.15,
+      605.87
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      309.79,
+      616.01,
+      360.79,
+      627.35
+    ],
+    "text": "MANSION TAX",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      215.47,
+      638.93,
+      455.13,
+      673.91
+    ],
+    "text": "25.(1) There shall be levied, for every year commencingon or after April 1, 2015, on every owner of a mansionconstructed on or after April 1, 2000, a tax to be called",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      285.67,
+      200.83,
+      304.34
+    ],
+    "text": "Recovery of thelevy in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      469.15,
+      194.84,
+      478.22
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      193.15,
+      197.12,
+      221.42
+    ],
+    "text": "Default inpayment of thelevy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      143.83,
+      638.11,
+      203.83,
+      656.78
+    ],
+    "text": "Imposition ofthe Mansion Tax",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      200.97,
+      168.97,
+      378.81,
+      180.16
+    ],
+    "text": "13Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      192.65,
+      379.68,
+      215.99
+    ],
+    "text": "Mansion Tax (hereinafter in this Part referred to as \u201cthe tax\u201d)of rupees one million per annum.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      228.65,
+      379.66,
+      251.99
+    ],
+    "text": "(2) The tax shall be paid in four equal installments,respectively as follows:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      264.65,
+      379.69,
+      287.99
+    ],
+    "text": "(a)first installment on or before the fifteenth day ofJuly of the relevant year of assessment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      300.65,
+      379.7,
+      323.99
+    ],
+    "text": "(b)second installment on or before the fifteenth dayof October of the relevant year of assessment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      156.69,
+      336.65,
+      379.67,
+      371.99
+    ],
+    "text": "(c)third installment on or before the fifteenth day ofJanuary of the year succeeding the relevant yearof assessment;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      384.65,
+      379.68,
+      419.99
+    ],
+    "text": "(d)fourth installment on or before the fifteenth day ofApril of the year succeeding the relevant year ofassessment.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      432.65,
+      379.69,
+      467.99
+    ],
+    "text": "(3) The tax shall be collected by the Commissioner generaland shall be remitted to the Consolidated Fund within fifteendays from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      480.65,
+      379.71,
+      539.99
+    ],
+    "text": "(4) The provisions which may be necessary for theimplementation of the provisions of this Part, including anyadjustment to be made in determining the value of anybuilding, shall be prescribed by regulations made underthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      552.65,
+      379.68,
+      599.99
+    ],
+    "text": "26.(1) Where an owner of a mansion who is liable topay the tax under this Part fails to pay such tax, as providedfor in this Part, he shall be deemed to be a defaulter of taxunder this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.13,
+      612.65,
+      379.67,
+      671.99
+    ],
+    "text": "(2) The provisions of Chapter XII, Chapter XXII, ChapterXXIII, Chapter XXIV, Chapter XXV, Chapter XXVI, ChapterXXVII, Chapter XXX and Chapter XXXI of the InlandRevenue Act, No. 10 of 2006 shall, mutatis mutandis, applyto and in relation to any such defaulter.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      391.65,
+      555.19,
+      444.94,
+      583.46
+    ],
+    "text": "\u201cDefault inpayment of thetax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "14Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      215.11,
+      194.69,
+      455.86,
+      220.67
+    ],
+    "text": "27.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      248.11,
+      238.49,
+      455.87,
+      293.63
+    ],
+    "text": "\u201cCommissioner General\u201d means the CommissionerGeneral of Inland Revenue appointed ordeemed to be appointed under the InlandRevenue Act, No. 10 of 2006;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      248.11,
+      311.45,
+      455.91,
+      541.79
+    ],
+    "text": "\u201cmansion\u201d means any building constructed on orafter April 1, 2000 for residential purpose, ofwhich the floor area is not less than tenthousand square feet as per the building planapproved by the local authority of the localauthority area wherein such building issituated or the value of such building, as atthe first day of April of any relevant year, isnot less than rupees one hundred and fiftymillion as determined by the GovernmentChief Valuer or by an officer authorized byhim, after making any adjustment as may beprescribed and in the case of a condominiumproperty , a condominium unit of such propertyshall be deemed to be a building for thepurposes of this Part;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      248.11,
+      559.73,
+      455.87,
+      673.19
+    ],
+    "text": "\u201cowner of a mansion\u201d means a person or persons whohold the ownership of the land wherein therelevant mansion is situated, in accordancewith the written laws governing land ownershipand in the case of a condominium property, anowner of a condominium unit of such propertyshall be deemed to be the owner of the mansionfor the purposes of this Part.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      143.83,
+      194.59,
+      194.84,
+      203.66
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      200.97,
+      168.97,
+      378.81,
+      180.16
+    ],
+    "text": "15Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      235.41,
+      192.77,
+      278.85,
+      204.11
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      230.01,
+      216.77,
+      287.73,
+      228.11
+    ],
+    "text": "MIGRATING TAX",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.17,
+      240.77,
+      378.74,
+      312.11
+    ],
+    "text": "28.(1) There shall be levied,with effect from November1, 2015, from any citizen of Sri Lanka who permanentlyleaves Sri Lanka, a tax to be called Migrating Tax (hereinafterin this Part referred to as \u201cthe tax\u201d) at the rate of twenty percentum on the foreign exchange released to be taken out ofthe country by such citizen.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.17,
+      324.77,
+      378.73,
+      360.11
+    ],
+    "text": "(2) The tax shall be collected by the Commissioner Generaland shall be remitted to the Consolidated Fund within fifteendays from the date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.17,
+      372.77,
+      378.72,
+      408.11
+    ],
+    "text": "(3) The provisions which may be necessary for theimplementation of the provisions of this Part shall beprescribed by regulations made under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.17,
+      420.77,
+      378.57,
+      444.11
+    ],
+    "text": "29.In this Part of this Act, unless the context otherwiserequires\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.17,
+      456.77,
+      378.72,
+      504.11
+    ],
+    "text": "\u201cCommissioner General\u201d means the CommissionerGeneral of Inland Revenue appinted or deemedto be appointed under the Inland Revenue Act,No. 10 of 2006;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.17,
+      516.77,
+      378.71,
+      552.11
+    ],
+    "text": "\u201cCitizen of Sri Lanka\u201d has the same meaningassigned to such expression under theCitizenship Act (Chapter 349 ).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      240.57,
+      564.77,
+      277.28,
+      576.11
+    ],
+    "text": "PART IX",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      186.09,
+      588.77,
+      331.65,
+      600.11
+    ],
+    "text": "MOTOR VEHICLE IMPORTERS LICENCE FEE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      139.17,
+      612.77,
+      378.74,
+      672.11
+    ],
+    "text": "30.(1) There shall be levied, for every year commencingon or after January 1, 2016, from every importer of motorvehicles, a fee to be called a Motor Vehicle ImportersLicence Fee (hereinafter in this Part referred to as \u201cthe fee\u201d)of rupees one million five hundred thousand per annum:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      391.17,
+      242.23,
+      439.17,
+      270.5
+    ],
+    "text": "Imposition ofthe MigratingTax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      392.13,
+      421.51,
+      439.78,
+      430.58
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      391.17,
+      614.35,
+      439.17,
+      661.82
+    ],
+    "text": "Imposition ofthe MotorVehicleImportersLicence Fee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "16Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      192.53,
+      455.84,
+      215.87
+    ],
+    "text": "Provided however, any person who imports a motorvehicle for personnel use shall not be liable to pay the fee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      228.53,
+      455.88,
+      323.87
+    ],
+    "text": "(2) The ownership of a motor vehicle imported forpersonal use, in respect of which the fee was not paid undersubsection (1), shall not be transferred to a second owner,for a period of four years from the date of the registration ofsuch motor vehicle in the name of the importer, unless suchimporter proves to the satisfaction of the CommissionerGeneral of Motor Traffic that there is no commercial purposeinvolved:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      336.53,
+      455.89,
+      467.87
+    ],
+    "text": "Provided however, the transfer of ownership of suchmotor vehicle to any bank licensed under the Banking Act,No. 30 of 1988 or to any finance company licensed underthe Finance Business Act, No. 42 of 2011 or to any financeleasing establishment registered under the Finance LeasingAct, No. 56 of 2000, as a security for a hire purchaseagreement or a finance lease agreement, entered into by theimporter with such bank, finance company or finance leasingestablishment in respect of such motor vehicle shall not bedeemed to be a transfer of ownership for the purposes of thissection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      480.53,
+      455.88,
+      515.87
+    ],
+    "text": "(3) The fee shall be paid, for every year commencing onor after January 1, 2016 on or before the thirty first day ofDecember of the year preceding the relevant year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      528.53,
+      455.88,
+      575.87
+    ],
+    "text": "(4) The fee shall be collected by the Commissioner Generalof Motor Traffic, in the prescribed manner and shall beremitted to the Consolidated Fund within fifteen days fromthe date of collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      588.53,
+      455.88,
+      623.87
+    ],
+    "text": "(5) The provisions which may be necessary for theimplementation of the provisions of this Part shall beprescribed by regulations made under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      215.59,
+      636.53,
+      455.86,
+      671.87
+    ],
+    "text": "31.(1) Any person who fails to pay the fee as providedfor in section 30, shall be deemed to be a defaulter under thisAct.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      143.83,
+      638.71,
+      197.12,
+      666.98
+    ],
+    "text": "Default inpayment of thefee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      200.97,
+      168.97,
+      378.81,
+      180.16
+    ],
+    "text": "17Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.17,
+      193.25,
+      378.73,
+      231.11
+    ],
+    "text": "(2) The provisions of section 32 shall apply to and inrelation to the prosecution against any such defaulter andfor the recovery of such fee in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.17,
+      246.41,
+      378.74,
+      324.23
+    ],
+    "text": "32.(1) Where the amount of the fee or part thereof is indefault, the Commissioner General of Motor Traffic shallissue a certificate containing particulars of the amount indefault and the name and address of the last known place ofresidence or business of the defaulter to the Magistratehaving jurisdiction over such place.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.17,
+      339.53,
+      378.73,
+      390.71
+    ],
+    "text": "(2) The Magistrate shall thereupon summon the defaulterto show cause why proceedings for the recovery of theamount of the fee in default should not be taken againsthim.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.17,
+      406.01,
+      378.75,
+      483.83
+    ],
+    "text": "(3) If sufficient cause is not shown by the defaulter, theamount of the fee in default shall by Order of the Magistratebe recovered as if it was a fine imposed by the Magistrate onsuch defaulter and shall when recovered, be remitted to theCommissioner General of Motor Traffic to be credited to theConsolidated Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      139.17,
+      499.13,
+      378.72,
+      523.67
+    ],
+    "text": "33.In this Part of this Act, unless the context otherwiserequires-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.17,
+      538.97,
+      378.7,
+      590.27
+    ],
+    "text": "\u201cCommissioner General of Motor Traffic\u201d means theCommissioner General of Motor Trafficappointed under section 204 of the MotorTraffic Act (Chapter 203);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.17,
+      605.45,
+      378.73,
+      670.07
+    ],
+    "text": "\u201cmotor vehicle\u201d means a motor car, a dual purposevehicle, a light motor coach with a passengercapacity of less than sixteen passengers andany other vehicle prescribed by regulationsmade under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      391.17,
+      500.11,
+      442.18,
+      509.18
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      391.17,
+      248.11,
+      448.17,
+      266.78
+    ],
+    "text": "Recovery of thefee in default.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "18Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      318.91,
+      192.89,
+      352.62,
+      204.23
+    ],
+    "text": "PART X",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      319.99,
+      218.09,
+      351.43,
+      229.43
+    ],
+    "text": "GENREAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      243.29,
+      455.86,
+      279.83
+    ],
+    "text": "34.Where the default in payment of a levy, tax or feeimposed under this Act is made by a body of persons, if thatbody of persons is\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      231.31,
+      293.69,
+      455.87,
+      317.63
+    ],
+    "text": "(a)a body corporate, every director and officer of thatbody corporate; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      231.31,
+      331.49,
+      394.89,
+      342.83
+    ],
+    "text": "(b)a firm, every partner of that firm; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      232.03,
+      356.69,
+      455.87,
+      393.23
+    ],
+    "text": "(c)a body unincorporated other than a firm, everyofficer of that body, responsible for its managementand control,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      407.09,
+      455.86,
+      431.03
+    ],
+    "text": "shall be liable to be prosecuted for the recovery of suchlevy, tax or fee, as provided for in this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      444.89,
+      455.87,
+      481.43
+    ],
+    "text": "35.(1) The Minister may make regulations in respect ofall matters which are required to be prescribed or for whichregulations are authorized to be made under this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      495.29,
+      455.96,
+      544.43
+    ],
+    "text": "(2) Every regulation made by the Minister undersubsection (1) shall be published in the Gazette and shallcome into operation on the date of such publication or onsuch later date as may be specified therein.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      558.29,
+      455.85,
+      632.63
+    ],
+    "text": "(3) Every regulation made by the Minister shall as soonas convenient after its publication in the Gazette be broughtbefore Parliament for approval. Every regulation which isnot so approved shall be deemed to be rescinded from thedate of disapproval but without prejudice to anythingpreviously done thereunder.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      215.59,
+      646.49,
+      455.88,
+      670.43
+    ],
+    "text": "(4) Notification of the date on which any regulation isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      143.71,
+      242.83,
+      183.43,
+      271.1
+    ],
+    "text": "Default bybodies ofpersons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      143.71,
+      448.15,
+      187.15,
+      457.22
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      200.97,
+      168.97,
+      378.81,
+      180.16
+    ],
+    "text": "19Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      139.17,
+      192.77,
+      379.68,
+      228.11
+    ],
+    "text": "36.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      235.41,
+      242.59,
+      279.69,
+      251.66
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      262.51,
+      379.68,
+      290.78
+    ],
+    "text": "1.Retail licence for the sale of foreign liquor (including locallymade foreign liquor) not to be consumed on the premises.(Excise F.L.4)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      300.91,
+      379.66,
+      319.58
+    ],
+    "text": "2.Licence for the supply of foreign liquor (including locallymade malt liquor) to residents in hotels.(Excise F.L.7)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      329.71,
+      379.69,
+      357.98
+    ],
+    "text": "3.Bar licence for a place of public entertainment for the saleof foreign liquor (including locally made malt liquor) to beconsumed on the premises. (Excise F.L.9)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      368.11,
+      379.69,
+      396.38
+    ],
+    "text": "4.Licence for the sale of foreign liquor (including locallymade malt liquor) in a refreshment room or in a dining carattached to a railway train.(Excise F.L.10)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      406.51,
+      379.69,
+      434.78
+    ],
+    "text": "5.Licence for the sale of foreign liquor (including locallymade malt liquor) in a refreshment room or restaurant.(excise F.L.11)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      444.91,
+      379.69,
+      463.58
+    ],
+    "text": "6.Licence for the sale of foreign liquor (including locallymade malt liquor) in a rest house.(Excise F.L.12)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      473.71,
+      379.69,
+      492.38
+    ],
+    "text": "7.Licence for the sale of foreign liquor (including locallymade malt liquor) in a proprietary club.(excise F.L.13)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      502.51,
+      379.69,
+      530.78
+    ],
+    "text": "8.Licence for the sale of foreign liquor (including locallymade malt liquor) in a members only clubs, social andrecreational clubs.(Excise F.L.13a)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.45,
+      540.91,
+      379.68,
+      559.58
+    ],
+    "text": "9.Special licence for sale of beer, ale, stout and wines retaillicence.(Excise F.L.22 a)",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      154.89,
+      569.71,
+      379.66,
+      590.06
+    ],
+    "text": "10.Beer, ale, stout and wines retail licence to be consumed onthe premises.(Excise F.L.22 b)",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      391.17,
+      193.75,
+      451.17,
+      222.02
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      215.83,
+      168.97,
+      394.17,
+      180.04
+    ],
+    "text": "20Finance Act, No. 10 of 2015",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      145.03,
+      634.51,
+      457.03,
+      673.33
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

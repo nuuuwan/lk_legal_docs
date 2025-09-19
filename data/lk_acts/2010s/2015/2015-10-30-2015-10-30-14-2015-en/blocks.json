@@ -1,0 +1,2324 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      282.48,
+      439.75,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      194.13,
+      394.73,
+      405.56,
+      443.82
+    ],
+    "text": "BETTING AND GAMING LEVY(AMENDMENT) ACT, No. 14 OF 2015",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.13,
+      480.61,
+      369.58,
+      491.68
+    ],
+    "text": "[Certified on 30th October, 2015]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.86,
+      670.24
+    ],
+    "text": "Price : Rs. 9.00Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 30, 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.21,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "Betting and Gaming Levy (Amendment)Act, No. 14 of 20151",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.89,
+      678.19,
+      262.9,
+      687.26
+    ],
+    "text": "2\u2014PL 009238\u20142,950 (09/2015)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.13,
+      202.49,
+      330.58,
+      213.83
+    ],
+    "text": "[Certified on 30th October, 2015]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.800000190734863,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      225.29,
+      217.3,
+      236.63
+    ],
+    "text": "L.D.\u2014O. 12/2015",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164.13,
+      248.09,
+      363.67,
+      270.83
+    ],
+    "text": "AN ACT TO AMEND THE BETTING AND GAMING LEVY ACT,NO. 40 OF 1988",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      282.29,
+      383.89,
+      305.03
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      316.49,
+      383.89,
+      362.03
+    ],
+    "text": "1. This Act may be cited as the Betting and Gaming Levy(Amendment) Act, No. 14 of 2015 and shall be deemed forall purposes, to have come into operation on January 1,2015.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      373.49,
+      383.91,
+      419.03
+    ],
+    "text": "2. Section 2 of the Betting and Gaming Levy Act, No. 40of 1988 (hereinafter referred to as the \u201cprincipal enactment\u201d),as last amended by Act, No. 19 of 2013 is hereby furtheramended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.61,
+      430.49,
+      383.89,
+      464.63
+    ],
+    "text": "(1)in subsection (1A) of that section, by thesubstitution for the words \u201ca levy at the rate of fiveper centum\u201d of the following words:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.89,
+      476.09,
+      225.97,
+      487.43
+    ],
+    "text": "\u201ca levy-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.57,
+      498.89,
+      383.87,
+      533.03
+    ],
+    "text": "(a)for any year commencing on or afterJanuary 1, 2013 but prior to January 1,2015, at the rate of five per centum;or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.57,
+      544.49,
+      383.87,
+      578.63
+    ],
+    "text": "(b)for any year commencing on or afterJanuary 1, 2015, at the rate of ten percentum\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.61,
+      583.73,
+      383.89,
+      606.47
+    ],
+    "text": "(2)by the insertion immediately after subsection (1A)of that section of the following new subsection:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.85,
+      614.09,
+      383.88,
+      671.99
+    ],
+    "text": "\u201c(1AA) Every person who carries on the businessof gaming in Sri Lanka for any yearcommencing on or after January 1, 2015,shall collect a Levy (hereinafter referredto as the \u201ccasino entrance levy\u201d) of United",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      319.87,
+      446.86,
+      348.14
+    ],
+    "text": "Short title andthe date ofoperation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      373.51,
+      450.58,
+      430.58
+    ],
+    "text": "Amendment ofsection 2 of theBetting andGaming LevyAct, No. 40 of1988.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      411.76,
+      190.24
+    ],
+    "text": "2Betting and Gaming Levy (Amendment)Act, No. 14 of 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      202.97,
+      451.19,
+      262.31
+    ],
+    "text": "States Dollars one hundred or itsequivalent in any other convertible foreigncurrency or in Sri Lanka currency from anyperson who enters such place of businessof gaming:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      274.97,
+      451.16,
+      298.31
+    ],
+    "text": "Provided however, the provisions ofsubsection (1AA), shall not apply to-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.87,
+      310.97,
+      451.18,
+      358.31
+    ],
+    "text": "(a)the managing director or anymember of the Board ofManagement or any employee ofsuch place of business of gaming;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.87,
+      370.97,
+      451.18,
+      430.31
+    ],
+    "text": "(b)any officer authorized in thatbehalf to enter such place ofbusiness in the exercise,performance and discharge of hisduties under any written law; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.71,
+      442.97,
+      451.15,
+      454.31
+    ],
+    "text": "(c)any person prescribed under this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.63,
+      466.97,
+      388.41,
+      478.31
+    ],
+    "text": "(3)In subsection (1B) of that section:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      261.91,
+      490.97,
+      451.17,
+      538.31
+    ],
+    "text": "(a)by the substitution for the words andfigures \u201csubsection (1A)\u201d of the wordsand figures\u201d subsection (1A) andsubsection (1AA),\u201d ; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      261.91,
+      550.97,
+      451.16,
+      586.31
+    ],
+    "text": "(b)by the repeal of paragraph (b) and thesubstitution therefor of the followingparagraph:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      598.97,
+      451.17,
+      670.31
+    ],
+    "text": "\u201c(b) remit the levies charged andcollected under subsection (1A) andsubsection (1AA) of section 2, in respectof each month on or before the end of thefirst week of the month immediatelysucceeding that month.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.21,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "Betting and Gaming Levy (Amendment)Act, No. 14 of 20153",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.61,
+      202.97,
+      383.86,
+      250.31
+    ],
+    "text": "(4)in subsection (1C) of that section by the substitutionfor the words and figures \u201csubsection (1A),\u201d of thewords and figures \u201csubsection (1A) and subsection(1AA),\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      262.97,
+      383.88,
+      358.31
+    ],
+    "text": "3.Section 2A of the principal enactment is herebyamended in subsection (1) by the substitution for all thewords and figures from \u201cEvery person who on or after January1, 2013\", to the end of that subsection of the words \u201cEveryperson, who, on or after January 1, 2013, but prior to May 31,2013, carries on the business of a bookmaker or gamingreferred to in subsection (1) of section 2, shall register withthe Department of Inland Revenue.\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      370.97,
+      383.89,
+      394.31
+    ],
+    "text": "4. Section 4 of the principal enactment is herebyamended as follows:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.33,
+      406.97,
+      383.88,
+      454.31
+    ],
+    "text": "(1)in subsection (5) of that section by the substitutionfor the words \u201clevy payable under this Act.\u201d of thewords \u201clevy payable under subsection (1) of section2 of this Act.\u201d;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.33,
+      466.97,
+      383.89,
+      490.31
+    ],
+    "text": "(2)by the addition at the end of subsection (5) of thatsection of the following new subsection:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.85,
+      502.97,
+      383.88,
+      670.31
+    ],
+    "text": "\u201c(6)In addition to the provisions of subsection(5) of this section, the provisions ofsections 106, 107, 108 and 112 of ChapterXII relating to Returns etc., Chapter XXIIrelating to Assessments, Chapter XXIIIrelating to Appeals, Chapter XXIV relatingto Finality of Assessments and Penalty forincorrect Returns, Chapter XXVI relatingto Recovery of Tax, and Chapter XXXIrelating to General matters, of the InlandRevenue Act,No.10 of 2006, shall mutatismutandis apply to the furnishing ofreturns, assessments, appeals againstassessments, finality of assessments and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      372.67,
+      450.58,
+      410.54
+    ],
+    "text": "Amendment ofsection 4 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      264.83,
+      449.13,
+      302.49
+    ],
+    "text": "Amendment ofsection 2A ofthe principalenactment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      411.76,
+      190.24
+    ],
+    "text": "4Betting and Gaming Levy (Amendment)Act, No. 14 of 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      283.15,
+      203.09,
+      451.19,
+      253.43
+    ],
+    "text": "penalty for incorrect returns, recovery oftax, and the payment of the levy referredto in subsection (1A) of section 2 of thisAct.\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      268.13,
+      451.19,
+      292.43
+    ],
+    "text": "5.Subsection (1) of section 5 of the principal enactmentis hereby amended as follows :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      307.13,
+      451.18,
+      357.47
+    ],
+    "text": "(1)by the substitution in paragraph (a) of thatsubsection, for the words and figures \u201csection 38 ofthe Turnover Tax Act\u201d, of the words and figures\u201csection 190 of the Inland Revenue Act\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      372.05,
+      451.17,
+      435.47
+    ],
+    "text": "(2)by the substitution in paragraph (c) of thatsubsection, for the words and figures \u201csection 42 orsection 43 of the Turnover Tax Act,\u201d, of the wordsand figures \u201csection 214 or section 215 of the InlandRevenue Act,\u201d;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      450.05,
+      451.18,
+      500.39
+    ],
+    "text": "(3)by the substitution in paragraph (d) of thatsubsection, for the words and figures \u201csection 57 ofthe Turnover Tax Act\u201d, of the words and figures\u201csection 209 of the Inland Revenue Act\u201d; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.63,
+      515.09,
+      451.18,
+      565.43
+    ],
+    "text": "(4)by the substitution in paragraph (e) of thatsubsection, for the words and figures \u201csection 57 ofthe Turnover Tax Act\u201d, of the words and figures\u201csection 209 of the Inland Revenue Act\u201d.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      580.13,
+      451.2,
+      669.47
+    ],
+    "text": "6.Section 6 of the principal enactment is hereby amendedin subsections (2), (3) and (4) of that section by thesubstitution for the words \u201cDeputy Commissioner orAssessor\u201d wherever such words occur in those subsectionsof the words \u201c Commissioner, Senior Deputy Commissioner,Deputy Commissioner or Assistant Commissioner\u201drespectively.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      581.71,
+      193.88,
+      619.58
+    ],
+    "text": "Amendment ofsection 6 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      269.71,
+      193.88,
+      307.58
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.21,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "Betting and Gaming Levy (Amendment)Act, No. 14 of 20155",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      202.13,
+      383.91,
+      236.39
+    ],
+    "text": "7.The following new section is hereby insertedimmediately after section 6 of the principal enactment andshall have effect as section 6A of that enactment:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      248.09,
+      383.87,
+      282.47
+    ],
+    "text": "6A. (1) The Minister may make regulationsin respect of any matter which is required orauthorized by this Act to be prescribed.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      289.61,
+      383.91,
+      346.91
+    ],
+    "text": "(2) Every regulation made by the Ministershall be published in the Gazette and shall comeinto operation on the date of such publicationor on such later date as may be specified in theregulation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      354.05,
+      383.88,
+      445.91
+    ],
+    "text": "(3) Every regulation made by the Minister,shall, as soon as convenient after its publicationin the Gazette, be brought before Parliamentfor approval. Any regulation which is not soapproved shall be deem to be rescinded asfrom the date of disapproval but withoutprejudice to anything previously donethereunder.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      453.05,
+      383.87,
+      487.43
+    ],
+    "text": "(4) Notification of the date on which anyregulation is deemed to be rescinded undersubsection (3) shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      499.13,
+      383.9,
+      556.43
+    ],
+    "text": "8. Section 7 of the principal enactment is herebyamended by the repeal of the definition of expression\u201cAssessor\u201d, \u201cCommissioner-General\u201d, and \u201cDeputyCommissioner\u201d and the substitution therefor of the followingdefinition of expression:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      563.57,
+      383.88,
+      609.95
+    ],
+    "text": "\u201cCommissioner-General\u201d, and \u201c DeputyCommissioner\u201d shall have the respective meaningsassigned to them by section 59 of the Turnover TaxAct;\u201d",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      617.81,
+      383.89,
+      653.51
+    ],
+    "text": "9.The Schedule to the principal enactment is herebyreplaced and the following Schedule is substitutedtherefor:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      500.11,
+      450.58,
+      537.98
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      204.67,
+      455.87,
+      242.54
+    ],
+    "text": "Insertion of newsection 6A in theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      621.19,
+      450.58,
+      659.06
+    ],
+    "text": "Replacement ofthe Schedule tothe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      248.59,
+      191.14,
+      257.66
+    ],
+    "text": "\u201cRegulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      411.76,
+      190.24
+    ],
+    "text": "6Betting and Gaming Levy (Amendment)Act, No. 14 of 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      266.71,
+      328.31,
+      299.71,
+      337.17
+    ],
+    "text": "Column I",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      275.35,
+      347.51,
+      291.07,
+      356.37
+    ],
+    "text": "Year",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      367.15,
+      355.16,
+      397.22
+    ],
+    "text": "1. For every year commencing on orafter April 1, 1988, but prior to April 1,2001.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      409.15,
+      355.16,
+      439.22
+    ],
+    "text": "2. For every year commencing on orafter April 1, 2001, but prior to April 1,2002.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      451.15,
+      355.17,
+      481.22
+    ],
+    "text": "3. For every year commencing on orafter April 1, 2002 but prior to April 1,2005 \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      493.15,
+      355.17,
+      512.78
+    ],
+    "text": "(i)where live telecast facilities areused in carrying on the business.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.63,
+      524.71,
+      355.17,
+      554.78
+    ],
+    "text": "(ii)where live telecast facilities arenot used in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      566.71,
+      355.17,
+      607.22
+    ],
+    "text": "4. For every year commencing on orafter April 1, 2005 but prior to April 1,2006 for .business of bookmaker carriedout \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      225.91,
+      619.15,
+      305.84,
+      628.22
+    ],
+    "text": "(i)through Agents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.63,
+      640.15,
+      355.17,
+      670.22
+    ],
+    "text": "(ii)by the use of live telecastfacilities in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      391.15,
+      328.31,
+      427.15,
+      337.17
+    ],
+    "text": "Column II",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      381.79,
+      347.51,
+      436.51,
+      356.37
+    ],
+    "text": "Amount of Levy",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      367.15,
+      451.16,
+      386.78
+    ],
+    "text": "One hundred thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      430.15,
+      436.16,
+      439.22
+    ],
+    "text": "One million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      503.71,
+      451.15,
+      512.78
+    ],
+    "text": "Thirty thousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      545.71,
+      441.43,
+      554.78
+    ],
+    "text": "Ten thousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      619.15,
+      436.16,
+      628.22
+    ],
+    "text": "One million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.15,
+      650.71,
+      451.16,
+      670.22
+    ],
+    "text": "Two hundred and fiftythousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.43,
+      202.97,
+      358.87,
+      214.31
+    ],
+    "text": "\u201cSCHEDULE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      318.43,
+      226.97,
+      451.15,
+      250.31
+    ],
+    "text": "PART I(Section 2)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      262.97,
+      451.18,
+      310.31
+    ],
+    "text": "The amount of the levy payable by a person carrying onthe business of a bookmaker for every year specified inColumn I hereto, shall be equivalent to the amount specifiedin the corresponding entry in Column II hereto \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      183.21,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "Betting and Gaming Levy (Amendment)Act, No. 14 of 20157",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.13,
+      203.35,
+      288.95,
+      232.22
+    ],
+    "text": "(iii)where live telecast facilities arenot used in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      242.95,
+      288.83,
+      281.78
+    ],
+    "text": "5. For every year commencing on orafter April 1, 2006 but prior to April 1,2013 for business of bookmaker carriedout \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      292.51,
+      238.17,
+      301.58
+    ],
+    "text": "(i)through Agents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.29,
+      312.31,
+      288.94,
+      341.18
+    ],
+    "text": "(ii)by the use of live telecastfacilities in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.13,
+      351.91,
+      288.95,
+      380.78
+    ],
+    "text": "(iii)where live telecast facilities arenot used in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      391.51,
+      288.83,
+      430.22
+    ],
+    "text": "6. For every year commencing on orafter April 1, 2013 but prior to April 1,2015 for business of bookmaker carriedout \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      440.95,
+      238.17,
+      450.02
+    ],
+    "text": "(i)through Agents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.29,
+      460.75,
+      288.94,
+      489.62
+    ],
+    "text": "(ii)by the use of live telecastfacilities in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.13,
+      500.35,
+      288.95,
+      529.22
+    ],
+    "text": "(iii)where live telecast facilities arenot used in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      539.95,
+      288.81,
+      568.82
+    ],
+    "text": "7. For every year commencing on orafter April 1, 2015 for business ofbookmaker carried out \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      579.55,
+      238.17,
+      588.62
+    ],
+    "text": "(i)through Agents.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.29,
+      599.35,
+      288.94,
+      628.22
+    ],
+    "text": "(ii)by the use of live telecastfacilities in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.13,
+      638.95,
+      288.95,
+      667.82
+    ],
+    "text": "(iii)where live telecast facilities arenot used in carrying on thebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      213.79,
+      384.82,
+      232.7
+    ],
+    "text": "Twenty five thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      292.99,
+      369.82,
+      302.06
+    ],
+    "text": "One million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      322.63,
+      384.81,
+      341.66
+    ],
+    "text": "Three hundredthousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      362.23,
+      379.53,
+      371.3
+    ],
+    "text": "Fifty thousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      441.43,
+      372.1,
+      450.5
+    ],
+    "text": "Two million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      471.19,
+      384.81,
+      490.1
+    ],
+    "text": "Three hundredthousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      510.79,
+      384.82,
+      529.7
+    ],
+    "text": "Twenty five thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      580.03,
+      371.25,
+      589.1
+    ],
+    "text": "Four million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      609.79,
+      384.82,
+      628.7
+    ],
+    "text": "Six hundred thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.81,
+      659.23,
+      381.1,
+      668.3
+    ],
+    "text": "Fifty thousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      411.76,
+      190.24
+    ],
+    "text": "8Betting and Gaming Levy (Amendment)Act, No. 14 of 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      266.71,
+      268.31,
+      299.71,
+      277.17
+    ],
+    "text": "Column I",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      275.35,
+      287.51,
+      291.07,
+      296.37
+    ],
+    "text": "Year",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      306.55,
+      355.16,
+      334.82
+    ],
+    "text": "1. For every year commencing on orafter April 1, 1988, but prior to April 1,2001.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      344.95,
+      355.16,
+      373.22
+    ],
+    "text": "2. For every year commencing on orafter April 1, 2001, but prior to April 1,2002.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      383.35,
+      355.17,
+      411.62
+    ],
+    "text": "3. For every year commencing on orafter April 1, 2002, but prior to April 1,2005 \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.91,
+      421.75,
+      355.16,
+      450.02
+    ],
+    "text": "(i)for carrying on the business ofgaming (other than for playingrudjino).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.63,
+      460.15,
+      355.16,
+      478.82
+    ],
+    "text": "(ii)for carrying on the business ofonly playing rudjino.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      488.95,
+      355.18,
+      526.82
+    ],
+    "text": "4. For carrying on the business ofgaming including playing rudjino for everyyear commencing on or after April 1,2005, but prior to April 1, 2013.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      536.95,
+      355.18,
+      574.82
+    ],
+    "text": "5. For carrying on the business ofgaming including playing rudjino for everyyear commencing on or after April 1,2013, but prior to April 1, 2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      584.95,
+      355.18,
+      622.82
+    ],
+    "text": "6. For carrying on the business ofgaming including playing rudjino for everyyear commencing on or after April 1,2015.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      319.51,
+      203.11,
+      342.79,
+      212.18
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      222.31,
+      451.18,
+      260.18
+    ],
+    "text": "The amount of the levy payable by a person carrying on thebusiness of gaming for every year specified in Column I hereto, shallbe equivalent to the amount specified in the corresponding entry inColumn II hereto \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      391.15,
+      268.31,
+      427.15,
+      277.17
+    ],
+    "text": "Column II",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      381.79,
+      287.51,
+      436.51,
+      296.37
+    ],
+    "text": "Amount of Levy",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      325.75,
+      436.16,
+      334.82
+    ],
+    "text": "One million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      354.55,
+      437.6,
+      373.22
+    ],
+    "text": "Twenty five millionrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      440.95,
+      446.6,
+      450.02
+    ],
+    "text": "Twelve million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      460.15,
+      451.15,
+      478.82
+    ],
+    "text": "Five hundred thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      517.75,
+      439.16,
+      526.82
+    ],
+    "text": "Fifty million rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      565.75,
+      451.16,
+      584.42
+    ],
+    "text": "One Hundred millionrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      367.15,
+      604.15,
+      451.16,
+      622.82
+    ],
+    "text": "Two Hundred millionrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      183.21,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "Betting and Gaming Levy (Amendment)Act, No. 14 of 20159",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      203.09,
+      383.9,
+      324.23
+    ],
+    "text": "10.The amount of the Levies charged and collectedunder paragraph (b) of subsection (1A) and subsection (1AA)of section 2 of the principal enactment by or on behalf of theCommissioner-General by any person authorized under theprincipal enactment from any person during the periodcommencing from January 1, 2015, and ending on the date onwhich the certificate of the speaker is endorsed in respect ofthis Act, shall be deemed for all purposes, to have been validlycharged and collected by the Commissioner-General or byany such person under the principal enactment:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      337.25,
+      383.88,
+      385.19
+    ],
+    "text": "Provided that, the aforesaid provisions shall not affectany decision or Order made by any Court or any Proceedingspending in any court in respect of any levy charged andcollected during that period.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      398.33,
+      383.88,
+      434.03
+    ],
+    "text": "11.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      205.15,
+      434.86,
+      214.22
+    ],
+    "text": "Validation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      395.85,
+      400.15,
+      455.85,
+      428.42
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      411.76,
+      190.24
+    ],
+    "text": "10Betting and Gaming Levy (Amendment)Act, No. 14 of 2015",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
