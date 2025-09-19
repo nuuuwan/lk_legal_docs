@@ -1,0 +1,533 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      162.57,
+      166.37,
+      437.01,
+      220.23
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.29,
+      236.55,
+      358.42,
+      250.16
+    ],
+    "text": "Part II of July 05, 2024",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.31,
+      341.85,
+      279.92
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      294.51,
+      354.56,
+      308.12
+    ],
+    "text": "(Issued on 09.07.2024)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      185.85,
+      425.91,
+      413.85,
+      439.52
+    ],
+    "text": "LAND DEVELOPMENT (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      150.57,
+      556.97,
+      449.02,
+      580.31
+    ],
+    "text": "To be presented in Parliament by Hon. (Mrs.) Rohini Kumari Wijerathna,M. P. for Matale District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.29,
+      530.57,
+      424.3,
+      541.91
+    ],
+    "text": "to amend the Land Development Ordinance (Chapter 464)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      618.89,
+      455.86,
+      630.23
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.21,
+      499.71,
+      314.49,
+      513.32
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.85,
+      593.71,
+      392.85,
+      602.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      603.31,
+      404.13,
+      612.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      661.03,
+      401.61,
+      670.1
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.37,
+      476.67,
+      305.03,
+      490.28
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      448.97,
+      347.49,
+      460.31
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.13,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "1Land Development (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      281.83,
+      442.54,
+      290.9
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.05,
+      203.57,
+      379.77,
+      227.75
+    ],
+    "text": "AN ACT TO AMEND THE LAND DEVELOPMENT ORDINANCE(CHAPTER 464)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      242.21,
+      401.91,
+      266.51
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      280.37,
+      401.86,
+      303.71
+    ],
+    "text": "1. This Act may be cited as the Land Development(Amendment) Act, No. of 2024.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      316.37,
+      401.88,
+      351.71
+    ],
+    "text": "2. Section 48A of the principal enactment is herebyamended by the repeal of the words \u201cor upon his or hermarriage\u201d in subsection 48A 2(c).",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      376.37,
+      401.88,
+      399.71
+    ],
+    "text": "3. Section 48B of the principal enactment is herebyamended by the repeal of subsection 48B 1(a).",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      436.37,
+      401.88,
+      483.71
+    ],
+    "text": "4. Section 68 of the principal enactment is herebyamended in subsection (1) of that section by the substitutionfor the words \u201cfails to succeed\u201d of the words \u201cfails withoutreasonable cause to succeed\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      496.37,
+      401.9,
+      519.71
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      318.67,
+      452.25,
+      366.14
+    ],
+    "text": "Amendmentto section48A of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.21,
+      316.85,
+      152.21,
+      328.19
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      436.01,
+      155.01,
+      447.35
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      509.21,
+      155.01,
+      520.55
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      499.15,
+      455.14,
+      537.02
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.81,
+      438.55,
+      453.82,
+      486.02
+    ],
+    "text": "Amendmentto section 68of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      378.91,
+      451.29,
+      426.38
+    ],
+    "text": "Amendmentto section48B of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      343.87,
+      178.31
+    ],
+    "text": "2Land Development (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.99,
+      626.35,
+      349.87,
+      635.42
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
