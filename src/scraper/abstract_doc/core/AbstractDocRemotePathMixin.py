@@ -15,7 +15,7 @@ class AbstractDocRemotePathMixin:
             [
                 "https://github.com",
                 os.environ["GITHUB_USERNAME"],
-                cls.get_doc_class_label(),
+                cls.get_repo_name(),
             ]
         )
 
