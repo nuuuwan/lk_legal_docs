@@ -1,0 +1,1372 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      203.85,
+      376.04,
+      395.86,
+      390.78
+    ],
+    "text": "FINANCE ACT, No. 33 OF 2023",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.41,
+      451.61,
+      380.84,
+      462.95
+    ],
+    "text": "[Certified on 13th of December, 2023]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of December 15, 2023",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Finance Act, No. 33 of 20231",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.57,
+      202.85,
+      341.01,
+      214.19
+    ],
+    "text": "[Certified on 13th of December, 2023]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.61,
+      217.3,
+      237.95
+    ],
+    "text": "L.D.\u2014O. 76/2021",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      250.37,
+      383.85,
+      273.59
+    ],
+    "text": "AN ACT TO AMEND THE FINANCE ACT, NO.35 OF 2018 AND THE FINANCEACT, NO.12 OF 2012; TO PROVIDE FOR THE EXEMPTION OF CERTAIN",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      274.25,
+      383.85,
+      297.47
+    ],
+    "text": "PERSONS FROM THE APPLICATION OF THE IMPORTS AND EXPORTS(CONTROL) ACT, NO.1 OF 1969; AND FOR MATTERS CONNECTED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      298.01,
+      281.11,
+      309.35
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      321.77,
+      383.9,
+      344.99
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      357.53,
+      383.87,
+      380.75
+    ],
+    "text": "1. This Act may be cited as the Finance Act, No. 33 of2023.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.85,
+      393.17,
+      278.85,
+      404.51
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.05,
+      416.93,
+      355.77,
+      428.27
+    ],
+    "text": "AMENDMENT OF THE FINANCE ACT, NO. 35 OF 2018",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      440.81,
+      383.91,
+      487.79
+    ],
+    "text": "2. Section 48 of the Finance Act, No.35 of 2018 (hereinafterin this part referred to as the \u201cprincipal enactment\u201d) is herebyamended by the insertion of the following subsectionsimmediately after subsection (2) thereof:\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.81,
+      500.33,
+      383.88,
+      559.19
+    ],
+    "text": "\u201c(2A) There shall be charged with effect fromthe date of commencement of this Act, a levy of25 cents per each mobile short message, on bulkadvertisements sent through a fixed telephoneline.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.81,
+      571.73,
+      383.87,
+      618.71
+    ],
+    "text": "(2B) The levy imposed under subsection (2A),shall be paid by the advertiser who intends toadvertise by way of the mobile short messages inrespect of which the levy is charged.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      631.73,
+      383.85,
+      656.03
+    ],
+    "text": "3. Section 49 of the principal enactment is herebyamended \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      359.59,
+      431.26,
+      368.66
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      443.71,
+      441.58,
+      491.18
+    ],
+    "text": "Amendmentof section 48of FinanceAct, No.35of 2018",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      633.67,
+      450.09,
+      671.54
+    ],
+    "text": "Amendment ofsection 49 ofthe principalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "2Finance Act, No. 33 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      206.45,
+      451.17,
+      217.79
+    ],
+    "text": "(1)by the repeal of definition of expression \u201cmobile",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      223.85,
+      451.17,
+      235.19
+    ],
+    "text": "short message\u201d and the substitution therefor, of the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      241.13,
+      293.6,
+      252.47
+    ],
+    "text": "following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      275.69,
+      451.19,
+      287.03
+    ],
+    "text": "\u201c\u201cmobile short message\u201d means, a text message",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      292.97,
+      451.16,
+      304.31
+    ],
+    "text": "which is sent through mobile phones or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      310.25,
+      397.9,
+      321.59
+    ],
+    "text": "fixed telephone lines;\u201d; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      344.93,
+      451.17,
+      356.27
+    ],
+    "text": "(2)by the repeal of definition of expression \u201cbulk",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      362.21,
+      451.19,
+      373.55
+    ],
+    "text": "advertisements\u201d and the substitution therefor, of",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      379.49,
+      308.6,
+      390.83
+    ],
+    "text": "the following:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      414.05,
+      451.19,
+      425.39
+    ],
+    "text": "\u201c\u201cbulk advertisements\u201d mean, text messages",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      431.33,
+      451.16,
+      442.67
+    ],
+    "text": "being sent through mobile phones or fixed",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      448.73,
+      451.17,
+      460.07
+    ],
+    "text": "telephone lines to group of recipients for",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      283.15,
+      466.01,
+      378.45,
+      477.35
+    ],
+    "text": "commercial purposes.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      314.71,
+      500.57,
+      347.71,
+      511.91
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      240.43,
+      535.13,
+      421.87,
+      546.47
+    ],
+    "text": "AMENDMENT OF THE FINANCE ACT, NO.12 OF 2012",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.11,
+      569.81,
+      451.15,
+      581.15
+    ],
+    "text": "4. The Schedule of Part IV of the Finance Act, No.12 of",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      587.09,
+      451.19,
+      598.43
+    ],
+    "text": "2012 is hereby amended by the addition immediately after",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      604.37,
+      384.42,
+      615.71
+    ],
+    "text": "item 6 thereof, of the following new item:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      638.93,
+      449.59,
+      650.27
+    ],
+    "text": "\u201c7. Social Security Contribution Levy Act, No.25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      656.33,
+      305.59,
+      667.67
+    ],
+    "text": "of 2022.\".",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      571.15,
+      182.59,
+      637.82
+    ],
+    "text": "Amendmentof theSchedule toPart IV ofthe FinanceAct, No.12of 2012",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Finance Act, No. 33 of 20233",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      245.85,
+      203.33,
+      281.85,
+      214.67
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.13,
+      228.53,
+      372.57,
+      252.47
+    ],
+    "text": "EXEMPTION OF CERTAIN PERSONS FROM THE APPLICATION OF THEIMPORTS AND EXPORTS (CONTROL) ACT, NO.1 OF 1969",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      266.33,
+      383.74,
+      290.27
+    ],
+    "text": "5. Notwithstanding anything contrary to any other writtenlaw, a person who imported \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.57,
+      304.13,
+      383.91,
+      416.27
+    ],
+    "text": "(a)any motor vehicle imported into Sri Lanka on orafter May 22, 2020 and not removed from theSri Lanka Customs, on or prior to November 12,2021, due to the prohibitions and restrictionsimposed by Imports and Exports (Control)Regulations, No.2 of 2020 made under theImports and Exports (Control) Act, No.1 of 1969and published in the Gazette ExtraordinaryNo. 2176/19 of May 22, 2020; or",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.57,
+      430.13,
+      383.9,
+      517.07
+    ],
+    "text": "(b)any motor vehicle propelled electricallyimported into Sri Lanka on or prior to November12, 2021 and not removed from the Sri LankaCustoms on the date of coming into operationof this Act, due to non-payment of any tax whichis liable to be paid in terms of any Act referred toin Schedule hereto,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      530.93,
+      383.92,
+      567.47
+    ],
+    "text": "shall be permitted to remove such vehicle from the Sri LankaCustoms, subject to the payment of due amount of tax witha surcharge under the provisions of section 6.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      153.81,
+      581.33,
+      291.58,
+      592.67
+    ],
+    "text": "6. (1) Any person who imported -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182.61,
+      606.53,
+      383.88,
+      668.51
+    ],
+    "text": "(a) any motor vehicle referred to in paragraph (a)of section 5 shall be liable to pay, within sixtydays from the date of coming into operationof this Act, the due amount of tax in terms ofthe provisions of any Act referred to in",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      268.15,
+      442.3,
+      382.82
+    ],
+    "text": "Grantingexemption tocertainpersons fromtheapplicationof theImports andExports(Control)Act, No.1 of1969",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      582.79,
+      441.58,
+      601.46
+    ],
+    "text": "Collection ofthe tax",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "4Finance Act, No. 33 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      268.15,
+      192.29,
+      451.19,
+      260.03
+    ],
+    "text": "Schedule hereto, at the date of removing thevehicle from Sri Lanka Customs, with asurcharge of 10% of the total due amount oftax at the date of opening the letter of credit;and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      249.91,
+      276.89,
+      451.2,
+      401.03
+    ],
+    "text": "(b) any motor vehicle propelled electricallyreferred to in paragraph (b) of section 5 shallbe liable to pay, within sixty days from thedate of coming into operation of this Act, thedue amount of tax in terms of the provisionsof any Act referred to in Schedule hereto, atthe date of opening the letter of credit, with asurcharge of 10% of the total due amount oftax on the date of opening the letter of credit.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      417.89,
+      451.19,
+      471.59
+    ],
+    "text": "(2) Upon the receipt of the payments referred to insubsection (1), the Director- General of Customs shall grantpermission to remove such vehicle from the Sri LankaCustoms.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      488.45,
+      451.18,
+      542.03
+    ],
+    "text": "(3) The provisions of the Customs Ordinance(Chapter 235) relating to the collection and recovery of anycustoms duty, shall, mutatis mutandis, apply for thecollection and recovery of the tax under this Part.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      558.89,
+      435.46,
+      570.23
+    ],
+    "text": "7. In this Part unless the context otherwise requires -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      587.09,
+      451.2,
+      626.63
+    ],
+    "text": "\u201cDirector-General of Customs\u201d means, the Director-General of Customs appointed under section2 of the Customs Ordinance (Chapter 235);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.15,
+      643.49,
+      451.19,
+      668.99
+    ],
+    "text": "\u201celectrically propelled vehicle\u201d means, any motorvehicle with only electric motor for propulsion;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      560.71,
+      187.16,
+      569.78
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206.49,
+      166.97,
+      383.69,
+      178.31
+    ],
+    "text": "Finance Act, No. 33 of 20235",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      190.49,
+      281.14,
+      201.83
+    ],
+    "text": "\u201cmotor vehicle\u201d means \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.13,
+      213.29,
+      383.9,
+      293.03
+    ],
+    "text": "(a)any mechanically or electrically, or solarenergy propelled vehicle or vehiclepropelled by liquid petroleum gas orvehicle propelled by alternative fuelincluding a tractor or trailer which isintended or adapted for use on roads butdoes not include a road-roller;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.13,
+      304.49,
+      383.89,
+      418.43
+    ],
+    "text": "(b)any mechanically or electrically or solarenergy propelled vehicle, or vehiclepropelled by liquid petroleum gas orvehicle propelled for alternative fuel orintended for use on land in connectionwith an agricultural or constructionalpurpose such as leveling, dredging,earthmoving, forestry or any similaroperation but does not include a road-roller; and",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      429.89,
+      383.88,
+      475.43
+    ],
+    "text": "\u201ctax\u201d includes any tax, penalty, surcharge, levy,duty, charge for or contribution payable orlevied under the Acts referred to in Schedulein relation to import of a motor vehicle.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      486.89,
+      383.87,
+      509.63
+    ],
+    "text": "8. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      249.21,
+      534.31,
+      383.85,
+      554.78
+    ],
+    "text": "SCHEDULE(sections 5 and 6)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.13,
+      568.51,
+      338.13,
+      577.58
+    ],
+    "text": "1.Excise (Special provisions) Act, No.13 of 1989;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.13,
+      591.31,
+      269.86,
+      600.38
+    ],
+    "text": "2.Finance Act, No.35 of 2018;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.13,
+      614.11,
+      305.13,
+      623.18
+    ],
+    "text": "3.Value Added Tax Act, No.14 of 2002;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.13,
+      636.91,
+      356.12,
+      645.98
+    ],
+    "text": "4.Ports and Airports Development Act, No.18 of 2011;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      152.13,
+      660.79,
+      291.67,
+      669.86
+    ],
+    "text": "5.Customs Ordinance (Chapter 235).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      487.51,
+      443.14,
+      525.38
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "6Finance Act, No. 33 of 2023",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.27,
+      639.31,
+      450.55,
+      657.98
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

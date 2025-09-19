@@ -1,0 +1,9078 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.53,
+      371.31,
+      383.22,
+      399.08
+    ],
+    "text": "NATIONAL HYDROGRAPHIC ACT, No. 7 OF 2024",
+    "fonts": [
+      "Times,Bold",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      483.17,
+      375.37,
+      494.51
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.33,
+      452.69,
+      379.07,
+      464.03
+    ],
+    "text": "[Certified on 01st of February, 2024]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 72.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of February 02, 2024",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.13,
+      167.17,
+      382.85,
+      179.68
+    ],
+    "text": "1National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      233.29,
+      383.85,
+      244.36
+    ],
+    "text": "AN ACT TO MAKE PROVISIONS FOR GIVING EFECT TO CERTAIN SPECIFIC",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      245.17,
+      383.85,
+      256.24
+    ],
+    "text": "OBLIGATIONS OF SRI LANKA UNDER THE INTERNATIONAL",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      257.05,
+      383.85,
+      268.12
+    ],
+    "text": "CONVENTION FOR THE SAFETY OF LIFE AT SEA 1974; FOR THE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      269.05,
+      383.85,
+      280.12
+    ],
+    "text": "ESTABLISHMENT OF THE NATIONAL HYDROGRAPHIC OFFICE; FOR",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      280.93,
+      383.85,
+      292.0
+    ],
+    "text": "THE REGISTRATION OF HYDROGRAPHIC SURVEYORS AND",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      292.81,
+      383.85,
+      303.88
+    ],
+    "text": "NAUTICAL CARTOGRAPERS; AND FOR MATTERS CONNECTED",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.09,
+      304.69,
+      295.63,
+      315.76
+    ],
+    "text": "THEREWITH OR INCIDENTIAL THERETO .",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      324.61,
+      383.88,
+      383.32
+    ],
+    "text": "WHEREAS an International Convention for the Safety ofLife at Sea, 1974 was adopted by the Inter national Conferenceon Safety of Life at Sea on November 1, 1974 and entered intoforce on May 25, 1980 (in this Act referred to as the\u201cConvention\u201d):",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      392.05,
+      383.87,
+      427.0
+    ],
+    "text": "AND WHEREAS the Government of Sri Lanka acceded tothe International Convention for the Safety of Life at Sea,1974 on August 30, 1983:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      435.73,
+      383.91,
+      518.2
+    ],
+    "text": "AND WHEREAS although the Merchant ShippingAct, No. 52 of 1971 as amended by Act, No. 17 of 2019 hasalready given effect to the International Convention for theSafety of Life at Sea, 1974, it is necessary to make specificlegal provisions to give effect to Sri Lanka\u2019s obligations inrelation to Regulations 4 and 9 of Chapter V of the aforesaidConvention:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      527.05,
+      383.88,
+      550.0
+    ],
+    "text": "NOW THEREFORE, be it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      558.85,
+      383.89,
+      581.8
+    ],
+    "text": "1. (1)This Act may be cited as the National HydrographicAct, No. 7 of 2024.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      590.65,
+      383.88,
+      625.6
+    ],
+    "text": "(2)The provisions of this Act other than this sectionshall come into operation on such date as the Minister mayappoint by Order published in the Gazette.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      634.33,
+      383.89,
+      670.48
+    ],
+    "text": "(3) The provisions of this section shall come intooperation on the date on which the Bill becomes an Act ofParliament.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.89,
+      326.27,
+      427.89,
+      335.13
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.89,
+      561.47,
+      445.9,
+      588.33
+    ],
+    "text": "Short title anddate ofoperation",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.49,
+      214.93,
+      211.77,
+      226.0
+    ],
+    "text": "L.D. \u2013 O. 36/2023",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.85,
+      191.69,
+      338.86,
+      203.03
+    ],
+    "text": "[Certified on 01st of February, 2024]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "2National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      323.59,
+      192.49,
+      352.15,
+      203.56
+    ],
+    "text": "PART I",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.87,
+      215.65,
+      445.87,
+      226.72
+    ],
+    "text": "ESTABLISHMENT OF THE NATIONAL HYDROGRAPHIC OFFICE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      238.69,
+      451.68,
+      249.76
+    ],
+    "text": "2. (1) There shall be established an Office which shall be",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      253.81,
+      451.55,
+      264.88
+    ],
+    "text": "called and known as the National Hydrographic Office",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      268.93,
+      370.42,
+      280.0
+    ],
+    "text": "(hereinafter referred to as the \u201cOffice\u201d).",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      291.97,
+      451.51,
+      303.04
+    ],
+    "text": "(2) The Office shall, by the name assigned to it by",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      307.09,
+      451.52,
+      318.16
+    ],
+    "text": "subsection (1), be a body corporate and shall have perpetual",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      322.21,
+      451.55,
+      333.28
+    ],
+    "text": "succession and a common seal and may sue and be sued in",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      337.33,
+      257.84,
+      348.4
+    ],
+    "text": "such name.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.11,
+      360.37,
+      374.98,
+      371.44
+    ],
+    "text": "3. The objects of the Office shall be \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      383.53,
+      451.62,
+      394.6
+    ],
+    "text": "(a)to be responsible for the provision of",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      398.65,
+      451.52,
+      424.72
+    ],
+    "text": "hydrographic services required by theConvention;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      436.81,
+      451.68,
+      447.88
+    ],
+    "text": "(b)to produce and maintain accurate nautical",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      451.93,
+      451.53,
+      478.0
+    ],
+    "text": "charts for the safe navigation of ships andto provide information about water depths,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      482.05,
+      451.53,
+      493.12
+    ],
+    "text": "underwater features, coastlines, hazards",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      497.17,
+      377.12,
+      508.24
+    ],
+    "text": "and aids to navigation;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      520.33,
+      451.68,
+      546.4
+    ],
+    "text": "(c)to collect data for updating and improvingnautical charts and ensure maritime safety;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      558.49,
+      451.67,
+      569.56
+    ],
+    "text": "(d)to establish and maintain aids to navigation",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      573.61,
+      451.55,
+      584.68
+    ],
+    "text": "and to help mariners to determine their",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      588.73,
+      451.65,
+      614.8
+    ],
+    "text": "positions and navigate safely, especiallyin challenging conditions; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      259.15,
+      626.89,
+      451.65,
+      637.96
+    ],
+    "text": "(e)to improve hydrographic survey",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      642.01,
+      451.53,
+      653.08
+    ],
+    "text": "techniques, data processing methods and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.11,
+      657.13,
+      405.69,
+      668.2
+    ],
+    "text": "technologies used in the field.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.11,
+      236.27,
+      189.55,
+      283.53
+    ],
+    "text": "Establishmentof theNationalHydrographicOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      360.35,
+      175.15,
+      378.81
+    ],
+    "text": "Objects ofthe Office",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.13,
+      167.17,
+      382.85,
+      179.68
+    ],
+    "text": "3National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.37,
+      191.65,
+      383.85,
+      216.16
+    ],
+    "text": "4. The powers, duties and functions of the Office shallbe \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      226.69,
+      383.88,
+      291.76
+    ],
+    "text": "(a)to collect, preserve, regulate and compilemarine geospatial data for the purpose ofpreparation, distribution, sale and updatingof all types of navigational charts,publications and hygrographic services;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      302.17,
+      383.88,
+      340.24
+    ],
+    "text": "(b)to publish all types of navigational chartsrequired for the safe navigation in themaritime zones of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      350.65,
+      383.86,
+      375.16
+    ],
+    "text": "(c)to carry out hydrographic surveying ofmaritime zones of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      385.69,
+      383.89,
+      423.76
+    ],
+    "text": "(d)to keep all maritime data which may havean impact on confidentiality and safety ofnational and regional security:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215.37,
+      434.17,
+      383.89,
+      526.24
+    ],
+    "text": "Provided that, the Office shall obtain theconcurrence of the Secretary to theMinistry of the Minister assigned thesubject of Defence before publishing ordisseminating any such data which may inits opinion have a bearing on the nationalsecurity;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      536.65,
+      383.88,
+      561.16
+    ],
+    "text": "(e) to ensure the safety of internationalshipping \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.37,
+      571.69,
+      383.89,
+      623.2
+    ],
+    "text": "(i)to carry out adequate surveying inaccordance with international hydro-graphic standards and specificationsadopted by Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.37,
+      633.61,
+      383.86,
+      671.32
+    ],
+    "text": "(ii) to publish such specifications by wayof notifications published in theGazette;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      394.89,
+      193.31,
+      429.33,
+      240.57
+    ],
+    "text": "Powers,duties andfunctionsof theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "4National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.67,
+      191.65,
+      451.18,
+      289.72
+    ],
+    "text": "(iii) to prepare and issue nautical charts andnautical publications which includeroutes, lighthouses, obelisks,identification of all types of buoys andbeacons and all information of tidaldata in accordance with acceptedinternational standards;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.67,
+      301.09,
+      451.17,
+      370.12
+    ],
+    "text": "(iv) to prepare and issue notices to marinerscontaining information on maritimeaccidents and to assist in the rescue ofany person who has encountered withsuch accident; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.67,
+      381.61,
+      451.18,
+      421.72
+    ],
+    "text": "(v) to issue instructions regarding theupdated printed and electronic nauticalcharts and publications;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      257.71,
+      433.09,
+      451.18,
+      473.2
+    ],
+    "text": "(f)to maintain nautical charts and publi-cations in accordance with internationalconventions and standards;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      257.71,
+      484.57,
+      451.19,
+      524.68
+    ],
+    "text": "(g)to provide accurate and reliablehydrographic and navigational informationrelated to the maritime zones of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      257.71,
+      536.05,
+      451.19,
+      590.68
+    ],
+    "text": "(h)to conduct training on hydrographicsurveying and nautical cartography inaccordance with international conventionsand standards;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      257.71,
+      602.05,
+      451.19,
+      671.2
+    ],
+    "text": "(i)to monitor, record and prepare reports ontides in the coastal zone and to publish thesame in order to ensure safety and othernavigational requirements in the maritimezones of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176.13,
+      167.17,
+      382.85,
+      179.68
+    ],
+    "text": "5National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189.33,
+      192.37,
+      383.38,
+      244.24
+    ],
+    "text": "(j)to collect, regulate, issue, preserve andmaintain all hydrographic survey data,marine data and hydrospatial data as maybe prescribed;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      189.33,
+      254.77,
+      383.37,
+      306.64
+    ],
+    "text": "(k)to provide necessary assistance subject tothe relevant written laws to any agency,institution or organization engaged infollowing activities: -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      317.17,
+      383.27,
+      341.92
+    ],
+    "text": "(i)coastal management anddevelopment;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      352.45,
+      383.28,
+      404.32
+    ],
+    "text": "(ii)conducting feasibility studies andassessments, dredging operations,maintenance and development ofport facilities;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      414.73,
+      383.26,
+      439.48
+    ],
+    "text": "(iii)coastal erosion monitoring andcontrolling;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      450.01,
+      383.27,
+      501.88
+    ],
+    "text": "(iv)land reclamation from sea and theestablishment of disposal sites atsea for industrial wastes and themonitoring of the same;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      512.41,
+      383.26,
+      537.04
+    ],
+    "text": "(v)conducting research and developaquatic resources;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      547.57,
+      383.27,
+      585.88
+    ],
+    "text": "(vi)implementing any project in cargoand passenger transport in coastalwaters;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      596.41,
+      383.37,
+      634.6
+    ],
+    "text": "(vii)i m p l e m e n t ing infrastructureconstruction, development and anyother project in coastal waters;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.29,
+      645.13,
+      383.26,
+      670.48
+    ],
+    "text": "(viii)promoting tourism and recreationalactivities in coastal zones; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "6National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      283.63,
+      191.05,
+      451.17,
+      227.56
+    ],
+    "text": "(ix)engaging in marine pollutionprevention and disastermanagement;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      237.25,
+      451.18,
+      273.64
+    ],
+    "text": "(l)to assist and provide advice in respect ofmaritime boundary demarcation in thewaters of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      283.33,
+      451.18,
+      370.6
+    ],
+    "text": "(m)to provide necessary consultancy andother assistance for the developmentactivities including laying of pipelines,undersea cable systems and establishmentof mineral extraction wells and to preservedata and information regarding suchactivities;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      380.17,
+      451.18,
+      442.0
+    ],
+    "text": "(n)to coordinate with other educationalinstitutions engaged in the hydrographicand marine geospatial information in thewaters of Sri Lanka to maintain prescribededucational standards;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      451.69,
+      451.16,
+      488.2
+    ],
+    "text": "(o)to coordinate with other institutions withinor outside Sri Lanka to maintain highprofessional standards in hydrography;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      497.77,
+      451.19,
+      585.04
+    ],
+    "text": "(p)to conduct higher educational trainingrelated to hydrographic surveying andnautical cartography and to obtainnecessary technical and professionaltraining with the assistance of foreigninstitutions having expertise in the relevantfields;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      258.67,
+      594.73,
+      451.18,
+      670.0
+    ],
+    "text": "(q)to assist relevant authorities to enhancesafety in navigation in the waters ofSri Lanka and to provide necessaryassistance to those authorities to manageeconomic activities in the waters of SriLanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      176.13,
+      167.17,
+      382.85,
+      179.68
+    ],
+    "text": "7National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      192.37,
+      383.4,
+      217.24
+    ],
+    "text": "(r)to receive grants, gifts or donations in cashor kind:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      214.89,
+      227.89,
+      383.4,
+      321.76
+    ],
+    "text": "Provided however, the Office shallobtain the prior written approval of theDepartment of External Resources of theMinistry of the Minister assigned thesubject of Finance, in respect of all foreigngrants, gifts or donations made to theOffice;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      332.53,
+      383.4,
+      357.4
+    ],
+    "text": "(s)to open, maintain and operate any accountwith any bank as it may think appropriate;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      368.17,
+      383.4,
+      393.04
+    ],
+    "text": "(t)to manage, control, administer and operatethe Fund of the Office;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      403.69,
+      383.39,
+      442.36
+    ],
+    "text": "(u)to invest such amount of money belongingto the Office as is not immediately requiredfor the purposes of this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      453.13,
+      383.4,
+      505.6
+    ],
+    "text": "(v)to purchase, hold, take or give on lease orhire, mortgage, pledge, sell or otherwisedispose of any movable or immovableproperty;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      516.37,
+      383.41,
+      596.44
+    ],
+    "text": "(w)to enter into and perform either directly orindirectly through any authorized officeror agent of the Office, all such contracts oragreements as may be necessary, for theexercise, performance and discharge of itspowers, duties and functions;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      607.09,
+      383.4,
+      631.96
+    ],
+    "text": "(x)to make rules in respect of theadministration of the affairs of the Office;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.81,
+      642.73,
+      383.26,
+      667.0
+    ],
+    "text": "(y)to levy fees or charges for any servicerendered by the Office;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "8National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.11,
+      191.77,
+      450.22,
+      254.92
+    ],
+    "text": "(z)to appoint, employ, remunerate, exercisedisciplinary control or dismiss suchofficers, employees and agents as may benecessary for the carrying out of the objectsof the Office;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.11,
+      264.85,
+      450.21,
+      301.84
+    ],
+    "text": "(aa)to provide training to officers andemployees of the Office within or outsideSri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.11,
+      311.77,
+      450.21,
+      335.92
+    ],
+    "text": "(bb)to appoint committees for the effectivedischarge of its functions; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.11,
+      345.85,
+      450.23,
+      382.84
+    ],
+    "text": "(cc)to do all such other acts and things whichmay be incidental or conducive to theattainment of the objects of this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      320.35,
+      413.77,
+      351.91,
+      424.84
+    ],
+    "text": "PART II",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      261.91,
+      434.77,
+      410.35,
+      445.84
+    ],
+    "text": "ADMINISTRATION AND MANAGEMENT OF",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      279.55,
+      447.73,
+      380.83,
+      458.8
+    ],
+    "text": "THE AFFAIRS OF THE OFFICE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      468.73,
+      450.23,
+      505.84
+    ],
+    "text": "5. (1) The administration and management of the affairs ofthe Office shall be vested in the National HydrographicCouncil (in this Act referred to as the \u201cCouncil\u201d).",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      210.19,
+      515.77,
+      450.24,
+      578.8
+    ],
+    "text": "(2) The Council shall, for the purpose of administeringand managing the affairs of the Office in a manner expedientfor the achievement of the objects of this Act, exercise, performand discharge the powers, duties and functions conferredon, assigned to, or imposed on the Office by this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      222.19,
+      588.73,
+      365.36,
+      599.8
+    ],
+    "text": "6. (1) The Council shall consist of \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.11,
+      609.73,
+      440.96,
+      620.8
+    ],
+    "text": "(a) the following ex-officio members, namely -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      273.91,
+      630.73,
+      450.21,
+      655.84
+    ],
+    "text": "(i)Secretary to the Ministry of the Ministerassigned the subject of Defence or his",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.63,
+      469.31,
+      192.91,
+      526.17
+    ],
+    "text": "Administrationandmanagementof the Officevested in theCouncil",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.11,
+      589.31,
+      199.2,
+      607.77
+    ],
+    "text": "Constitution ofthe Council",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176.13,
+      167.17,
+      382.85,
+      179.68
+    ],
+    "text": "9National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      192.25,
+      383.39,
+      203.32
+    ],
+    "text": "representative not below the rank of an",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      207.49,
+      314.15,
+      218.56
+    ],
+    "text": "Additional Secretary;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.29,
+      230.65,
+      383.4,
+      241.72
+    ],
+    "text": "(ii)Secretary to the Ministry of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      245.89,
+      383.39,
+      256.96
+    ],
+    "text": "Minister assigned the subject of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      261.13,
+      383.4,
+      272.2
+    ],
+    "text": "Finance or his representative not below",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      276.25,
+      371.13,
+      287.32
+    ],
+    "text": "the rank of an Additional Secretary;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      203.13,
+      299.53,
+      383.4,
+      310.6
+    ],
+    "text": "(iii)Secretary to the Ministry of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      314.65,
+      383.39,
+      325.72
+    ],
+    "text": "Minister assigned the subject of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      329.89,
+      383.4,
+      340.96
+    ],
+    "text": "fisheries or his representative not below",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      345.13,
+      371.13,
+      356.2
+    ],
+    "text": "the rank of an Additional Secretary;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      202.29,
+      368.29,
+      383.4,
+      379.36
+    ],
+    "text": "(iv)Secretary to the Ministry of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      383.53,
+      383.39,
+      394.6
+    ],
+    "text": "Minister assigned the subject of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      398.65,
+      383.38,
+      409.72
+    ],
+    "text": "Foreign Affairs or his representative not",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      413.89,
+      383.36,
+      424.96
+    ],
+    "text": "below the rank of an Additional",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      429.13,
+      269.14,
+      440.2
+    ],
+    "text": "Secretary;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      204.57,
+      452.29,
+      383.37,
+      463.36
+    ],
+    "text": "(v)Commander of the Sri Lanka Navy",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      467.53,
+      383.4,
+      478.6
+    ],
+    "text": "appointed in terms of the Navy Act",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      482.65,
+      284.86,
+      493.72
+    ],
+    "text": "(Chapter 358);",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      202.29,
+      505.93,
+      383.37,
+      517.0
+    ],
+    "text": "(vi)Chairman of the Governing Board of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      521.05,
+      383.27,
+      532.12
+    ],
+    "text": "National Aquatic Resources Research",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      536.29,
+      383.27,
+      547.36
+    ],
+    "text": "and Development Agency appointed",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      551.53,
+      383.36,
+      562.6
+    ],
+    "text": "under the National Aquatic Resources",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      566.65,
+      383.37,
+      577.72
+    ],
+    "text": "Research and Development Agency",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      581.89,
+      307.28,
+      592.96
+    ],
+    "text": "Act, No. 54 of 1981;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200.85,
+      605.05,
+      316.29,
+      616.12
+    ],
+    "text": "(vii)the Surveyor-General;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200.85,
+      628.33,
+      383.38,
+      639.4
+    ],
+    "text": "(viii)Director-General of Merchant Shipping",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      643.45,
+      383.39,
+      654.52
+    ],
+    "text": "appointed under the Merchant Shipping",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      227.85,
+      658.69,
+      305.11,
+      669.76
+    ],
+    "text": "Act, No.52 of 1971;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "10National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      272.11,
+      191.77,
+      451.77,
+      228.88
+    ],
+    "text": "(ix)Harbour Master appointed under the SriLanka Ports Authority Act, No. 51 of1979;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      274.39,
+      238.81,
+      451.64,
+      288.88
+    ],
+    "text": "(x)Director-General of the Department ofCoast Guard appointed under theDepartment of Coast Guard Act, No. 41of 2009;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.11,
+      298.81,
+      451.65,
+      348.88
+    ],
+    "text": "(xi)Chairman of the University GrantsCommission appointed under theUniversities Act, No. 16 of 1978 or theVice-Chairman of the same;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.11,
+      358.81,
+      451.66,
+      408.88
+    ],
+    "text": "(xii)Chairman of the Board of Managementof the Geological Survey and MinesBureau appointed under the Mines andMinerals Act, No. 33 of 1992;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.11,
+      418.81,
+      451.76,
+      468.88
+    ],
+    "text": "(xiii)Chairman of the Marine EnvironmentProtection Authority appointed underthe Marine Pollution Prevention Act,No. 35 of 2008;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.11,
+      478.81,
+      451.66,
+      541.84
+    ],
+    "text": "(xiv)Director-General of Coast Conservationand Coastal Resource Managementappointed under the CoastConservation and Coastal ResourceManagement Act, No. 57 of 1981; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.11,
+      551.77,
+      451.67,
+      588.88
+    ],
+    "text": "(xv)Chairman of the Central EnvironmentalAuthority appointed under the NationalEnvironmental Act, No. 47 of 1980; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      259.15,
+      598.81,
+      451.79,
+      661.36
+    ],
+    "text": "(b)three members appointed by the Ministerwho shall possess academic orprofessional qualifications and haveexperience in the fields of hydrography orhydrography related discipline (hereinafter",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "11National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      214.89,
+      191.65,
+      383.76,
+      242.92
+    ],
+    "text": "referred to as \u201cappointed members\u201d)including at least one qualifiedHydrographic Surveyor and one NauticalCartographer.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      253.21,
+      383.74,
+      317.92
+    ],
+    "text": "(2) Where the Commandar of the Sri Lanka Navy isappointed as an ex officio member under subsection (1), suchappointment shall be made in terms of the Navy Act ,(Chapter 358) in respect of the performance of non-navalduties under the provisions of that Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      328.21,
+      383.68,
+      352.72
+    ],
+    "text": "7. (1) The Minister shall appoint one of the appointedmembers to be the Chairperson of the Council.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      363.01,
+      383.74,
+      400.84
+    ],
+    "text": "(2) The Chairperson may resign from his office by a letteraddressed to the Minister and such resignation shall beeffective from the date on which it is accepted by the Minister.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      411.25,
+      383.63,
+      435.64
+    ],
+    "text": "(3) The Minister may, for reasons assigned therefor removethe Chairperson from the office of Chairperson.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      445.93,
+      383.76,
+      483.88
+    ],
+    "text": "(4) Subject to the provisions of subsections (2) and (3),the term of office of the Chairperson shall be the period of hismembership of the Council.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      494.17,
+      383.78,
+      585.64
+    ],
+    "text": "(5) Where the Chairperson is temporarily unable to exercise,perform and discharge the powers, duties and functions ofhis office due to ill health, other infirmity, absence from SriLanka or any other cause, the Minister may appoint any otherappointed member to act as the Chairperson in addition to hisnormal duties as an appointed member during the absence ofthe Chairperson.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      595.93,
+      383.64,
+      620.44
+    ],
+    "text": "8. A person shall be disqualified from being appointed orcontinuing as a member of the Council, if he \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      189.81,
+      630.73,
+      383.75,
+      668.32
+    ],
+    "text": "(a)is or becomes a member of Parliament or ofany Provincial Council or of any localauthority;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.29,
+      330.47,
+      437.01,
+      358.53
+    ],
+    "text": "Chairpersonof theCouncil",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.89,
+      598.31,
+      453.34,
+      635.97
+    ],
+    "text": "Disqualificationsfrom being amember ofthe Council",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "12National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      191.77,
+      451.16,
+      202.84
+    ],
+    "text": "(b)is not or ceases to be a citizen of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      212.77,
+      451.18,
+      249.88
+    ],
+    "text": "(c)is under any law in force in Sri Lanka orany other country found or declared to beof unsound mind;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      259.81,
+      451.18,
+      309.88
+    ],
+    "text": "(d)is a person who having been declaredinsolvent or bankrupt under any law inforce in Sri Lanka and is an undischargedinsolvent or bankrupt;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      319.81,
+      451.19,
+      356.92
+    ],
+    "text": "(e)is subject to an ongoing investigation inrespect of an offence under any otherwritten law;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      366.85,
+      451.16,
+      416.92
+    ],
+    "text": "(f)is serving or has served a sentence ofimprisonment of more than six monthsimposed by any court in Sri Lanka or anyother country;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      426.73,
+      451.18,
+      463.84
+    ],
+    "text": "(g)holds or enjoys any right or benefit underany contract made by or on behalf of theOffice; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      258.19,
+      473.77,
+      451.2,
+      523.84
+    ],
+    "text": "(h)has any financial or other interest as islikely to affect prejudicially the dischargeby him of his functions as a member of theCouncil.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      533.77,
+      451.19,
+      609.88
+    ],
+    "text": "9. Every appointed member of the Council shall, unless hevacates office earlier by resignation, death or removal, holdoffice for a period of three years from the date of hisappointment and unless removed from office, shall be eligiblefor reappointment for not more than one further term, whetherconsecutive or otherwise.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      619.81,
+      451.2,
+      669.88
+    ],
+    "text": "10. (1) Any appointed member of the Council may at anytime, resign from his office by a letter to that effect, addressedto the Minister, and such resignation shall be effective fromthe date on which it is accepted by the Minister in writing.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.63,
+      621.35,
+      183.08,
+      639.81
+    ],
+    "text": "Resignationand removal",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      536.87,
+      168.44,
+      555.33
+    ],
+    "text": "Term ofoffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "13National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      191.77,
+      384.74,
+      254.92
+    ],
+    "text": "(2) Where any appointed member by reason of illness,infirmity or absence from Sri Lanka is temporarily unable todischarge the functions of his office, the Minister may, havingregard to the provisions of paragraph (b) of section 6, appointa person to act in his place during his absence.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      264.85,
+      384.74,
+      327.88
+    ],
+    "text": "(3) The Minister may for reasons assigned therefor, removean appointed member from office. An appointed member whohas been removed from office shall not be eligible forreappointment as a member of the Council or to serve theCouncil in any other capacity.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      337.81,
+      384.75,
+      413.92
+    ],
+    "text": "(4) Where an appointed member dies, resigns or isremoved from office, the Minister may having regard to theprovisions of paragraph (b) of section 6, appoint a person inhis place and the person so appointed shall hold office forthe unexpired period of the term of office of the member whomhe succeeds.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      423.73,
+      384.72,
+      460.84
+    ],
+    "text": "11. (1) The meetings of the Council shall be held at leastonce in every month and the quorum for a meeting of theCouncil shall be seven members.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      470.77,
+      384.73,
+      520.84
+    ],
+    "text": "(2) The Chairperson shall preside at every meeting of theCouncil. In the absence of the Chairperson from any meetingof the Council, a member elected by the members presentshall preside at such meeting.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      530.77,
+      347.14,
+      541.84
+    ],
+    "text": "(3) A meeting of the Council may be held either-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      551.77,
+      384.71,
+      588.88
+    ],
+    "text": "(a)by the number of members who constitute a quorumbeing assembled at the place, date and timeappointed for the meeting; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      159.57,
+      598.81,
+      384.72,
+      648.88
+    ],
+    "text": "(b)by means of audio-visual linkage by which allmembers participating and constituting a quorumcan simultaneously see and hear each participatingmember for the duration of the meeting.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.37,
+      425.51,
+      438.09,
+      453.57
+    ],
+    "text": "Quorum andmeetings ofthe Council",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "14National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      192.37,
+      451.2,
+      258.64
+    ],
+    "text": "(4) All questions for a decision at any meeting of theCouncil shall be decided by the vote of the majority ofmembers present at such meeting. In the case of an equalityof votes, the Chairperson shall, in addition to his vote havea casting vote.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      269.29,
+      451.2,
+      321.76
+    ],
+    "text": "(5) Subject to the preceding provisions of this section,the Council may regulate the procedure in relation to themeetings of the Council and the transaction of business atsuch meetings.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      332.53,
+      451.2,
+      398.8
+    ],
+    "text": "12. The Council may act notwithstanding any vacancyamong its members and any act or proceeding of the Councilshall not be or deemed to be invalid by reason only of theexistence of any vacancy among its members or any defectin the appointment of a member thereof.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      409.57,
+      451.2,
+      462.04
+    ],
+    "text": "13. The members of the Council shall be paid remunerationin such manner and at such rates as may be determined bythe Minister, with the concurrence of the Minister assignedthe subject of Finance.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      472.69,
+      451.19,
+      497.56
+    ],
+    "text": "14. (1) The seal of the Office shall be in the custody ofsuch person as the Council may decide from time to time.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      508.33,
+      451.21,
+      533.2
+    ],
+    "text": "(2) The seal of the Office may be altered in such manner asmay be determined by the Council.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      543.97,
+      451.19,
+      610.24
+    ],
+    "text": "(3) The seal of the Office shall not be affixed to anyinstrument or document except with the sanction of theCouncil and in the presence of the Chairperson and one othermember of the Council who shall sign the instrument ordocument in token of their presence:",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      620.89,
+      451.25,
+      673.36
+    ],
+    "text": "Provided however, where the Chairperson is unable to bepresent at the time when the seal of the Office is affixed toany instrument or document, any other member of the Councilauthorised in writing by the Chairperson in that behalf shall",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      333.35,
+      200.59,
+      399.81
+    ],
+    "text": "Acts orproceedingsof the Councildeemed not to beinvalid byreason of anyvacancy",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.11,
+      408.83,
+      189.56,
+      446.49
+    ],
+    "text": "Remunerationof themembers ofthe Council",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      472.55,
+      187.15,
+      500.61
+    ],
+    "text": "Seal, logo andflag of theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "15National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      192.49,
+      383.88,
+      216.16
+    ],
+    "text": "be competent to sign such instrument or document inaccordance with the preceding provision of this subsection.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      225.73,
+      383.89,
+      262.0
+    ],
+    "text": "(4) The Office shall maintain a register of the instrumentsand documents to which the seal of the Office has beenaffixed.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      155.37,
+      271.57,
+      383.86,
+      282.64
+    ],
+    "text": "(5) There shall be a logo exclusive for the use of the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      292.09,
+      383.91,
+      315.76
+    ],
+    "text": "(6) There shall be a flag to maintain the identity of theOffice.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      325.33,
+      383.91,
+      399.4
+    ],
+    "text": "(7) A person who knowingly or wilfully misuses the seal,logo or the flag of the Office under this Act, commits anoffence under this Act and shall on conviction after summarytrial before a Magistrate be liable to a fine not exceeding twomillion rupees or to imprisonment for a term not exceedingtwo years or to both such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      252.33,
+      429.49,
+      286.89,
+      440.56
+    ],
+    "text": "PART III",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164.97,
+      450.13,
+      374.25,
+      461.2
+    ],
+    "text": "NATIONAL HYDROGRAPER AND THE STAFF OF THE OFFICE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      470.77,
+      383.86,
+      507.04
+    ],
+    "text": "15. (1) There shall be a National Hydrographer of theOffice appointed by the Council in consultation with theMinister.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      537.13,
+      383.87,
+      560.8
+    ],
+    "text": "(2) The person appointed as the National Hydrographershall \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.09,
+      570.37,
+      278.64,
+      581.44
+    ],
+    "text": "(a)be a citizen of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.09,
+      590.89,
+      301.78,
+      601.96
+    ],
+    "text": "(b)be physically and mentally fit;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.81,
+      611.53,
+      383.87,
+      635.2
+    ],
+    "text": "(c)be a Hydrographic Surveyor with at least fifteenyears post qualification experience\u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      212.37,
+      644.77,
+      383.87,
+      668.68
+    ],
+    "text": "(i)in professional activities ofhydrographic surveying;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      395.85,
+      472.31,
+      444.57,
+      529.17
+    ],
+    "text": "Appointmentof theNationalHydrographerof theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "16National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      279.19,
+      192.97,
+      450.22,
+      217.36
+    ],
+    "text": "(ii) in hydrographic project management;and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      279.19,
+      227.65,
+      450.22,
+      251.92
+    ],
+    "text": "(iii) thorough understanding in nauticalcartography; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      225.91,
+      262.21,
+      450.22,
+      286.6
+    ],
+    "text": "(d)be not more than fifty five years of age as at the dateof appointment; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.63,
+      296.77,
+      450.23,
+      321.16
+    ],
+    "text": "(e)be competent, of high moral integrity and of goodrepute.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.19,
+      331.45,
+      450.23,
+      409.0
+    ],
+    "text": "(3) The National Hydrographer, unless he vacates officeearlier by death, by operation of law, resignation or removalshall hold office for a term of three years and unless removedfrom the office shall be eligible for reappointment subject to amaximum period of any three terms of office whetherconsecutive or otherwise.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.19,
+      419.17,
+      450.19,
+      443.56
+    ],
+    "text": "(4) The National Hydrographer shall, subject to the generalor special directions of the Council, \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      225.91,
+      453.73,
+      450.23,
+      491.44
+    ],
+    "text": "(a)be charged with the conduct of day to dayadministration of the affairs of the Office includingthe administration and control of the staff;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      225.91,
+      501.73,
+      450.23,
+      526.0
+    ],
+    "text": "(b)be responsible for the execution of all decisions ofthe Council; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      226.63,
+      536.29,
+      450.21,
+      560.68
+    ],
+    "text": "(c)carry out all such functions as may be assigned tohim by the Council.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.19,
+      570.85,
+      450.24,
+      621.88
+    ],
+    "text": "(5) The National Hydrographer shall be the Secretary tothe Council and entitled to be present and speak at anymeeting of the Council, but shall not be entitled to vote atsuch meeting.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      210.19,
+      632.05,
+      450.24,
+      669.76
+    ],
+    "text": "(6) The National Hydrographer may, with the approval ofthe Council, wherever he considers it necessary to do so,delegate in writing to any officer or employee of the Office,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "17National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      194.05,
+      382.92,
+      249.52
+    ],
+    "text": "any of his functions referred to in subsection (4) and theofficer or employee to whom any such function is delegatedshall discharge them subject to the directions of the NationalHydrographer.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      261.25,
+      382.9,
+      287.08
+    ],
+    "text": "(7) The Council may remove the National Hydrographerfrom office \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      298.81,
+      382.93,
+      324.64
+    ],
+    "text": "(a)if he becomes permanently incapable of performinghis duties;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      159.57,
+      336.37,
+      382.91,
+      377.08
+    ],
+    "text": "(b)if he had done any act which the Council has decidedto be of a fraudulent or illegal character or isprejudicial to the interests of the Office; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      160.29,
+      388.81,
+      382.93,
+      414.64
+    ],
+    "text": "(c)has failed to comply with any direction issued bythe Council.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      426.37,
+      382.93,
+      467.08
+    ],
+    "text": "(8) The National Hydrographer shall be paid suchremuneration as may be determined by the Council with theconcurrence of the Minister assigned the subject of Finance.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      478.81,
+      382.93,
+      534.28
+    ],
+    "text": "16. (1) Subject to the provisions of this Act, the Officemay employ or appoint such officers and employees as maybe necessary for the efficient exercise, performance anddischarge of its powers, duties and functions.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      546.01,
+      382.93,
+      571.84
+    ],
+    "text": "(2) The Council shall have the power subject to theprovisions of the Act to \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      190.89,
+      583.57,
+      382.91,
+      624.28
+    ],
+    "text": "(a)exercise disciplinary control over anddismiss the officers and employees of theOffice appointed under subsection (1);",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      190.89,
+      636.01,
+      382.91,
+      676.12
+    ],
+    "text": "(b)determine the terms and conditions ofservice of officers and employees of theOffice appointed under subsection (1); and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      394.89,
+      480.35,
+      435.34,
+      498.81
+    ],
+    "text": "Staff of theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "18National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      260.71,
+      192.25,
+      451.17,
+      244.48
+    ],
+    "text": "(c)fix the rates at which such officers andemployees shall be remunerated with theconcurrence of the Minister assigned thesubject of Finance.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.67,
+      255.13,
+      451.19,
+      334.72
+    ],
+    "text": "(3) All officers and employees of the Office shall, withinone month of employment, declare in writing to the Office oftheir personal direct or indirect interest to the affairs andtransactions of the Office including those of their closerelations or, concerns in which such officer or employee hasa substantial interest.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.67,
+      345.25,
+      451.2,
+      424.84
+    ],
+    "text": "(4) The Office may establish and regulate pension andprovident funds and schemes for the benefit of the NationalHydrographer and its officers and employees and theirdependants and nominees with the concurrence of theMinister assigned the subject of Finance and may makecontributions to any such fund or scheme.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.67,
+      435.49,
+      451.22,
+      501.4
+    ],
+    "text": "(5) The Office shall promote and sponsor the training ofits officers and employees and for this purpose, the Officeshall be authorised to defray the costs of study, in Sri Lankaor abroad of the officers and employees of the Office whoare of proven merit as determined by the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.67,
+      511.93,
+      451.17,
+      536.8
+    ],
+    "text": "(6) The Office shall establish a code of conduct whichshall be applicable to the officers and employees of the Office.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.67,
+      547.33,
+      451.17,
+      572.2
+    ],
+    "text": "(7) The Office shall not appoint any person to the staff ofthe Office under subsection (1), where such person \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      229.39,
+      582.73,
+      451.18,
+      621.28
+    ],
+    "text": "(a)has been previously found guilty of seriousmisconduct by a court or tribunal or has beensubject to a disciplinary action by a regulatory body;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      229.39,
+      631.93,
+      433.36,
+      643.0
+    ],
+    "text": "(b)has been previously dismissed from office; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "19National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      189.81,
+      193.45,
+      383.41,
+      232.0
+    ],
+    "text": "(c)has committed a breach of the provisionsof this Act, regulations or rules madethereunder.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      242.65,
+      383.4,
+      308.44
+    ],
+    "text": "(8) At the request of the Office, any officer in the publicservice may, with the consent of the officer and the PublicService Commission be temporarily appointed to the staff ofthe Office for such period as may be determined by the Officeor with like consent, be permanently appointed to such staff.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      319.09,
+      383.41,
+      385.0
+    ],
+    "text": "(9) Where any officer in the public service is temporarilyappointed to the staff of the Office, the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991, shall mutatis mutandis, applyto and in relation to such officer.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      395.65,
+      383.41,
+      461.44
+    ],
+    "text": "(10) Where any officer in the public service is permanentlyappointed to the staff of the Office, the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991, shall mutatis mutandis, applyto and in relation to such officer.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      472.09,
+      383.4,
+      538.0
+    ],
+    "text": "(11) Where the Office employs any person who has agreedto serve the Government for a specified period, any period ofservice to the Office by that person shall be regarded asservice to the Government for the purpose of discharging theobligations of such agreement.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      548.53,
+      383.39,
+      669.28
+    ],
+    "text": "(12) At the request of the Office, any officer of the SriLanka Army, Sri Lanka Navy or Sri Lanka Air Force may, withthe written sanction of the Commander of the Army,Commander of the Navy or the Commander of the Air Force,as the case may be, be temporarily appointed to the Office forsuch period as may be determined by the Office subject tothe provisions of the Army Act (Chapter 357), Navy Act(Chapter 358), and the Air Force Act (Chapter 359), as thecase may be.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "20National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      193.33,
+      451.6,
+      289.0
+    ],
+    "text": "(13) The Office may with the consent of such officer oremployee propose secondment of its officers or employeesto other state institutions or regulatory authorities in Sri Lankaor abroad for a period determined by the Office on anassignment agreed upon between such institution or theauthority and the Office. The period of secondment shall bedeemed to be considered as service to the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      318.43,
+      300.01,
+      355.15,
+      311.08
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      246.07,
+      322.09,
+      427.51,
+      347.32
+    ],
+    "text": "REGISTRATION AS HYDROGRAPHIC SURVEYORS ORNAUTICAL CARTOGRAPHERS",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      358.33,
+      451.52,
+      397.6
+    ],
+    "text": "17. (1) A person shall not practice as a HydrographicSurveyor or as a Nautical Cartographer unless such person isregistered under the provisions of section 18 of this Act:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      408.61,
+      451.55,
+      490.24
+    ],
+    "text": "Provided that, any Hydrographic Surveyor or a NauticalCartographer who is engaged in the practice of hydrographicsurveying or nautical cartography other than on the Sri Lankainternal waters on the date of commencement of this Act shall,within two years from the date of commencement of this Act,register himself under the provisions of section 18.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      501.25,
+      451.55,
+      582.76
+    ],
+    "text": "(2) Any person who fails to comply with the provisions ofsubsection (1) commits an offence under this Act and shallon conviction after summary trial before a Magistrate be liableto a fine not exceeding one hundred thousand rupees or toimprisonment for a term not exceeding six months or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      210.19,
+      593.89,
+      451.55,
+      633.76
+    ],
+    "text": "18. (1) A person who wishes to practice as a HydrographicSurveyor or a Nautical Cartographer shall make an applicationto the Office for registration.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.11,
+      359.15,
+      189.56,
+      425.61
+    ],
+    "text": "HydrographicSurveyors orNauticalCartographersto registerunder thisAct",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.15,
+      595.43,
+      187.15,
+      668.01
+    ],
+    "text": "Applicationforregistrationas aHydrographicSurveyor or aNauticalCartographer",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      176.13,
+      167.17,
+      382.77,
+      179.68
+    ],
+    "text": "21National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      192.25,
+      384.34,
+      227.44
+    ],
+    "text": "(2) The applicant under subsection (1) shall possess suchqualifications and experience as may be prescribed incompliance with international standards.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      236.53,
+      384.36,
+      271.72
+    ],
+    "text": "(3) An application under subsection (1) shall besubstantially in a form as may be prescribed by regulationand accompanied by a prescribed fee.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      280.81,
+      384.39,
+      304.0
+    ],
+    "text": "(4) The Office may require an applicant to furnish furtherinformation in connection with an application as it may specify.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      312.97,
+      384.49,
+      348.28
+    ],
+    "text": "(5) An applicant shall bear the cost incurred in connectionwith the verification of information submitted in support ofan application.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      357.25,
+      384.39,
+      440.92
+    ],
+    "text": "(6) Upon the receipt of an application under subsection(1), the office shall, on consideration of the matters containedin the application decide either to register as a HydrographicSurveyor or a Nautical Cartographer subject to the provisionsof this Act and to such terms and conditions specified thereinor for the reasons to be recorded by it, refuse to register as aHydrographic Surveyor or a Nautical Cartographer.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      450.01,
+      384.37,
+      497.32
+    ],
+    "text": "(7) The Office shall in writing inform the applicant of itsdecision and in the case of a refusal to register, it shall stateits reasons therefor within one month from the date ofinforming the said decision.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      506.41,
+      384.47,
+      565.84
+    ],
+    "text": "(8) A Hydrographic Surveyor or a Nautical Cartographerregistered under this section shall be granted with a Certificateof Registration in the respective field in the form and manneras may be prescribed (hereinafter referred to as the \u201cCertificateof Registration\u201d).",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      574.93,
+      384.36,
+      610.12
+    ],
+    "text": "(9) The Certificate of Registration shall include such termsand conditions subject to which such registration has beengranted.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.85,
+      619.21,
+      384.39,
+      668.56
+    ],
+    "text": "19. (1) A Certificate of Registration that has been grantedunder this Act shall, unless cancelled earlier be valid for aperiod of one year from the date of the issue of the Certificateof Registration.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      395.37,
+      621.11,
+      442.66,
+      639.57
+    ],
+    "text": "Duration of aregistration",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      212.11,
+      167.17,
+      437.12,
+      179.68
+    ],
+    "text": "22National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.71,
+      294.35,
+      188.0,
+      322.41
+    ],
+    "text": "Renewal ofCertificate ofRegistration",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.11,
+      488.27,
+      184.4,
+      535.53
+    ],
+    "text": "Refusal toregister orrenew aCerificate ofRegistration",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      197.05,
+      451.2,
+      208.12
+    ],
+    "text": "(2) The Office may cancel a Certificate of Registration",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      214.81,
+      451.2,
+      225.88
+    ],
+    "text": "issued under section 18, if it is satisfied that the holder of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      232.57,
+      451.2,
+      243.64
+    ],
+    "text": "Certificate of Registration has violated the provisions of the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      250.45,
+      451.19,
+      261.52
+    ],
+    "text": "Act or regulations made thereunder or any of the terms and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      268.21,
+      394.84,
+      279.28
+    ],
+    "text": "conditions of such Certificate of Registration.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      294.01,
+      451.19,
+      305.08
+    ],
+    "text": "20. A Certificate of Registration issued under section 18",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      311.77,
+      451.17,
+      322.84
+    ],
+    "text": "shall be renewable on an application in a form as may be",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      329.65,
+      451.18,
+      340.72
+    ],
+    "text": "prescribed being made in that behalf to the Office not later",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      347.41,
+      451.2,
+      358.48
+    ],
+    "text": "than thirty days before the expiry of the Certificate of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      365.17,
+      451.18,
+      376.24
+    ],
+    "text": "Registration and be accompanied by a fee as may be",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      383.05,
+      256.16,
+      394.12
+    ],
+    "text": "prescribed:",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      235.15,
+      408.85,
+      451.18,
+      419.92
+    ],
+    "text": "Provided that, any Hydrographic Surveyor or a Nautical",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      426.61,
+      451.16,
+      437.68
+    ],
+    "text": "Cartographer who is a public officer shall not be required to",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      444.37,
+      451.16,
+      455.44
+    ],
+    "text": "renew the registration under this section for so long as such",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      462.13,
+      340.86,
+      473.2
+    ],
+    "text": "officer serves as a public officer.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      223.15,
+      487.93,
+      451.18,
+      499.0
+    ],
+    "text": "21. (1) Where an application is made for the registration or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      505.81,
+      451.21,
+      516.88
+    ],
+    "text": "renewal of a Certificate of Registration, the Office may refuse",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      523.57,
+      451.17,
+      534.64
+    ],
+    "text": "to register or renew the Certificate of Registration on any of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.15,
+      541.33,
+      307.88,
+      552.4
+    ],
+    "text": "the following grounds: -",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      260.95,
+      567.13,
+      451.19,
+      578.2
+    ],
+    "text": "(a)non-compliance with the rules made in that",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      283.15,
+      585.01,
+      310.88,
+      596.08
+    ],
+    "text": "behalf;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      260.95,
+      610.81,
+      451.18,
+      621.88
+    ],
+    "text": "(b)failure to comply with the provisions of",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      283.15,
+      628.57,
+      451.16,
+      639.64
+    ],
+    "text": "this Act or, regulations or rules made",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      283.15,
+      646.33,
+      330.44,
+      657.4
+    ],
+    "text": "thereunder;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "23National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      175.65,
+      191.17,
+      382.92,
+      225.88
+    ],
+    "text": "(c)the information or documents furnished by theapplicant to the Office is false or misleading or,material omissions exist; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.93,
+      238.45,
+      382.78,
+      261.28
+    ],
+    "text": "(d)has been convicted for an offence under theprovisions of this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.13,
+      273.85,
+      382.8,
+      308.44
+    ],
+    "text": "(2) The Office shall not refuse to register or renew theCertificate of Registration without giving the applicant anopportunity of being heard.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.13,
+      321.01,
+      382.8,
+      355.72
+    ],
+    "text": "22. (1) Every Hydrographic Surveyor or a NauticalCartographer, as the case may be, who is registered undersection 18, shall have the right to use if such person is \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      193.17,
+      368.17,
+      382.89,
+      391.12
+    ],
+    "text": "(a)a Hydrographic Surveyor, the abbreviateddesignation \u201cHyS\u201d; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      193.17,
+      403.57,
+      382.91,
+      426.4
+    ],
+    "text": "(b)a Nautical Cartographer, the abbreviateddesignation \u201cNauC\u201d.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.13,
+      438.97,
+      382.94,
+      485.44
+    ],
+    "text": "(2) A person shall not use any abbreviated designationreferred to in subsection (1) unless such person is registeredas a Hydrographic Surveyor or a Nautical Cartographer underthe provisions of this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.13,
+      498.01,
+      382.8,
+      520.84
+    ],
+    "text": "23. (1) Where the Office is satisfied that any HydrographicSurveyor or a Nautical Cartographer \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      173.85,
+      533.41,
+      382.77,
+      556.24
+    ],
+    "text": "(a)has contravened the provisions of this Act, orany regulation or rule made thereunder;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      173.85,
+      580.57,
+      382.79,
+      615.28
+    ],
+    "text": "(b)has contravened any term or condition of theCertificate of Registration issued under section18; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      174.69,
+      627.73,
+      382.8,
+      674.2
+    ],
+    "text": "(c)has been found guilty of a prescribed act orprofessional misconduct, after an inquiry heldby the Complaint Resolution Committeeestablished by the Office under section 26,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      396.81,
+      322.31,
+      439.54,
+      350.37
+    ],
+    "text": "Use ofabbreviateddesignations",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      395.85,
+      499.31,
+      450.58,
+      527.37
+    ],
+    "text": "Cancellation orsuspension of aregistration",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202424",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.19,
+      194.53,
+      450.22,
+      261.52
+    ],
+    "text": "the Office shall take steps to suspend the registration ofsuch Hydrographic Surveyor or a Nautical Cartographerissued under section 18 and cause a notice of suchsuspension be issued forthwith to such HydrographicSurveyor or a Nautical Cartographer.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.19,
+      278.53,
+      450.24,
+      359.56
+    ],
+    "text": "(2) Any such notice shall specify the grounds on whichthe decision of the Office is based on, and shall indicate thatsuch Hydrographic Surveyor or the Nautical Cartographermay within a period of one month commencing from the dateof receipt of the notice submit to the Office in writing anyreason as to why the registration shall not be cancelled.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.19,
+      376.45,
+      450.24,
+      485.56
+    ],
+    "text": "(3) Where such Hydrographic Surveyor or the NauticalCartographer, as the case may be, fails to submit the reasonswithin the period of one month or where the Office is notsatisfied with the reasons given by the HydrographicSurveyor or the Nautical Cartographer, the Office may afterdue inquiry cancel the registration of such HydrographicSurveyor or the Nautical Cartographer as the case may be,and inform such person in writing about such cancellation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      210.19,
+      502.45,
+      450.22,
+      555.52
+    ],
+    "text": "(4) Where any Hydrographic Surveyor or a NauticalCartographer is convicted for an offence under this Act, theCertificate of Registration issued to such person under section18 shall \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      222.19,
+      572.53,
+      450.23,
+      597.52
+    ],
+    "text": "(a)where no appeal is preferred against the conviction,be cancelled; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      222.19,
+      614.53,
+      450.21,
+      667.6
+    ],
+    "text": "(b)where an appeal is preferred in terms of relevantwritten law, be suspended until the decision of theappellate court to which the appeal is preferred ispronounced.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "25National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      191.53,
+      382.8,
+      240.4
+    ],
+    "text": "(5) Where the registration of a Hydrographic Surveyor ora Nautical Cartographer is cancelled, the name of such personshall be removed from the registers kept under section 38 ofthis Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      254.53,
+      382.91,
+      290.8
+    ],
+    "text": "(6) Any person whose registration is cancelled under thissection shall within fourteen days handover his respectiveCertificate of Registration to the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      265.53,
+      304.93,
+      296.99,
+      316.0
+    ],
+    "text": "PART V",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      263.97,
+      330.13,
+      298.53,
+      341.2
+    ],
+    "text": "APPEALS",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      355.33,
+      382.91,
+      416.8
+    ],
+    "text": "24. (1) Any person who is aggrieved by the decision ofthe Office other than under subsection (4) of section 23 maywithin thirty days of being notified of such decision, appealto the Appeals Board appointed by the Minister for thispurpose under section 25.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      430.93,
+      382.79,
+      467.2
+    ],
+    "text": "(2) The Appeals Board may, after taking into considerationall the relevant factors and where it is appropriate andreasonable \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      174.45,
+      481.33,
+      382.91,
+      505.0
+    ],
+    "text": "(a)allow the appeal and vary the decision of theOffice or confirm such decision; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      174.45,
+      519.13,
+      275.14,
+      530.2
+    ],
+    "text": "(b)disallow the appeal.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      544.33,
+      382.89,
+      568.0
+    ],
+    "text": "25. (1) The Minster shall appoint an Appeals Board whichshall consist of \u2013",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      177.45,
+      582.13,
+      382.8,
+      618.4
+    ],
+    "text": "(a)a registered Hydrographic Surveyor and aNautical Cartographer with at least five yearsexperience;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      177.45,
+      632.53,
+      382.91,
+      669.4
+    ],
+    "text": "(b)an Attorney-at-Law who is qualified in the fieldof maritime law with at least ten years experiencein the relevant field; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      356.15,
+      424.29,
+      365.01
+    ],
+    "text": "Appeals",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      395.85,
+      545.63,
+      446.85,
+      554.49
+    ],
+    "text": "Appeals Board",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202426",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      230.47,
+      193.45,
+      451.99,
+      217.12
+    ],
+    "text": "(c)a Class 1 officer of the Sri Lanka AdministrativeService.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      231.01,
+      451.88,
+      254.56
+    ],
+    "text": "(2) The Minister when appointing the members of theAppeals Board may consult the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      268.45,
+      451.92,
+      304.6
+    ],
+    "text": "(3) The members of the Appeals Board shall hold officefor a term of three years from the date of appointment andshall be eligible for reappointment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      318.49,
+      452.08,
+      354.52
+    ],
+    "text": "(4) The Minister may make regulations prescribing themanner in which the meetings and business of the AppealsBoard shall be carried out.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      368.53,
+      451.88,
+      392.08
+    ],
+    "text": "(5) The Appeals Board shall inform its decision to theOffice.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      405.97,
+      452.0,
+      442.0
+    ],
+    "text": "(6) Upon receiving the decision of the Appeals Board,the Office shall forthwith inform the appellant of such decisionand act in accordance with the decision of the Appeals Board.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      456.01,
+      451.93,
+      492.04
+    ],
+    "text": "(7) The members of the Appeals Board may be paid suchremuneration as may be determined by the Minister with theconcurrence of the Minister assigned the subject of Finance.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      505.93,
+      452.04,
+      579.52
+    ],
+    "text": "26. (1) The Office shall establish a Complaints ResolutionCommittee (hereinafter referred to as the \u201cCommittee\u201d)comprising of such officers authorised by the Office to hearcomplaints by any person relating to the professionalmisconduct or breach of any provision of this Act, orregulations or rules made thereunder.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      213.91,
+      593.53,
+      451.9,
+      667.0
+    ],
+    "text": "(2) The Committee may hold such inquiries as may bedeemed necessary or expedient and for such purposesummon and call upon any person to appear before theCommittee to give evidence or to produce any book ordocument in the possession or control of such person as arerequired for the purpose of such inquiries.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.15,
+      509.27,
+      179.6,
+      546.93
+    ],
+    "text": "Inquiry byComplaintsResolutionCommittee",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "27National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      190.81,
+      383.66,
+      227.92
+    ],
+    "text": "(3) The Office shall establish an appropriate procedure forhandling such complaints and all matters incidental theretoby rules made under this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      242.77,
+      383.67,
+      318.88
+    ],
+    "text": "(4) The Committee may on receipt of any written complaintmade by a person, examine the evidence produced beforesuch Committee to find whether any prescribed act ofprofessional misconduct has been committed by theHydrographic Surveyor or Nautical Cartographer, againstwhom the complaint is made.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      333.85,
+      383.66,
+      422.92
+    ],
+    "text": "(5) Where the Committee finds that a person hascontravened any provision of this Act, or regulations or arules made thereunder, the Committee shall convey suchfinding with a recommendation to the Office and the Officeshall have the discretion to either give effect to suchrecommendation or take any other action as it may deemexpedient.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      437.77,
+      383.66,
+      461.8
+    ],
+    "text": "(6) The Office shall not take any action under this sectionwithout affording the person an opportunity of being heard.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      247.65,
+      502.81,
+      279.93,
+      513.88
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.85,
+      528.73,
+      383.75,
+      552.88
+    ],
+    "text": "27. (1) The Office shall have its own Fund (hereinafterreferred to as \u201cthe Fund\u201d).",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      155.85,
+      567.73,
+      317.87,
+      578.8
+    ],
+    "text": "(2) There shall be credited to the Fund \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      159.57,
+      593.77,
+      383.62,
+      617.8
+    ],
+    "text": "(a)all such sums of money as may be voted from timeto time by Parliament, for the use of the Office;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      159.57,
+      632.77,
+      383.65,
+      669.88
+    ],
+    "text": "(b)all such sums of money as may be received by theOffice in the exercise and discharge of its powers,duties and functions under this Act; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      396.81,
+      529.55,
+      437.25,
+      548.01
+    ],
+    "text": "Fund of theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      244.05,
+      483.73,
+      280.77,
+      494.8
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202428",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      228.43,
+      192.49,
+      450.22,
+      245.92
+    ],
+    "text": "(c)all such sums of money as may be received by theOffice by way of income, fees, charges, grants, giftsor donations from any source whatsoever whetherwithin or outside Sri Lanka:",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      247.99,
+      263.05,
+      450.23,
+      330.52
+    ],
+    "text": "Provided that, the Office shall obtain the priorwritten approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreigngrants, gifts or donations made to the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      223.99,
+      347.65,
+      386.72,
+      358.72
+    ],
+    "text": "(3) There shall be paid out of the Fund \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      227.71,
+      375.85,
+      450.21,
+      429.16
+    ],
+    "text": "(a)all such sums of money as are required to defrayany expenditure incurred by the Office in theexercise, performance and discharge of its powers,duties and functions under this Act; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      227.71,
+      446.29,
+      450.22,
+      471.52
+    ],
+    "text": "(b)all such sums of money as are required to be paidout of the Fund by or under this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.99,
+      488.65,
+      450.25,
+      513.76
+    ],
+    "text": "28. (1) The financial year of the Office shall be the calendaryear.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.99,
+      530.89,
+      450.23,
+      570.16
+    ],
+    "text": "(2) The Council shall cause proper books of accounts tobe kept of the income and expenditure, assets and liabilitiesand all other transactions of the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.99,
+      587.29,
+      450.22,
+      626.56
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitutionrelating to the audit of the accounts of public corporationsshall apply to the audit of accounts of the Office.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      211.99,
+      643.69,
+      450.21,
+      668.92
+    ],
+    "text": "(4) The Council shall submit the audited statement ofaccounts together with the auditor\u2019s report to the Minister",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.11,
+      490.07,
+      189.56,
+      518.13
+    ],
+    "text": "Financial yearand audit ofaccounts",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "29National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.61,
+      193.45,
+      383.9,
+      241.72
+    ],
+    "text": "within five months of the end of the financial year to whichsuch report relates. The Minister shall place such statementand the report before Parliament within two months of thereceipt thereof.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      246.45,
+      256.21,
+      284.01,
+      267.28
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      248.01,
+      283.45,
+      282.45,
+      294.52
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.61,
+      310.57,
+      383.88,
+      403.24
+    ],
+    "text": "29. (1) The Council may in writing and subject to suchconditions as may be specified therein, delegate to theNational Hydrographer the powers, duties and functionsconferred on the Council under paragraphs (a) and (b) ofsubsection (2) of section 16 and the National Hydrographershall exercise, perform and discharge such powers, dutiesand functions in the name and on behalf of the Council.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.61,
+      419.41,
+      383.89,
+      471.28
+    ],
+    "text": "(2) The Council may, notwithstanding any delegationmade under subsection (1), by itself exercise, perform ordischarge any power, duty or function so delegated and mayat any time revoke any such delegation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.61,
+      487.33,
+      383.88,
+      580.0
+    ],
+    "text": "30. No civil or criminal proceedings shall be institutedagainst the National Hydrographer, any officer or employeeof the Office or any member of the Council, for any act whichin good faith is done or purported to be done by him underthis Act or on the directions of the Office or the Council asthe case may be, if he proves that he acted in good faith andexercised all due diligence, reasonable care and skill.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.61,
+      596.17,
+      383.9,
+      661.6
+    ],
+    "text": "31. (1) Every member of the Council, the NationalHydrographer, and every officer or employee of the Officeshall, before entering into the duties of his office sign adeclaration that he will not disclose any information receivedby him or coming to his knowledge in the exercise,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      396.81,
+      313.79,
+      444.81,
+      341.85
+    ],
+    "text": "Delegation ofthe powers ofthe Council",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      397.29,
+      489.59,
+      448.3,
+      517.65
+    ],
+    "text": "Protection foraction takenunder this Act",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      396.33,
+      597.35,
+      427.78,
+      625.41
+    ],
+    "text": "Duty tomaintainSecrecy",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202430",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      192.97,
+      451.04,
+      257.32
+    ],
+    "text": "performance and discharge of his powers, duties andfunctions under this Act except for the purpose of givingeffect to the provisions of this Act to the extent permittedunder the provisions of Right to Information Act, No. 12 of2016.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      272.77,
+      451.09,
+      350.32
+    ],
+    "text": "(2) Any person who contravenes the provisions ofsubsection (1), commits an offence under this Act, and shallon conviction after summary trial before a Magistrate be liableto a fine not exceeding one hundred thousand rupees or toimprisonment of either description for a term not exceedingone year or to both such fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      365.89,
+      451.07,
+      403.6
+    ],
+    "text": "32. (1) The Office shall create, manage and maintain adatabase of all hydrographic survey data, marine data andhydrospatial data collected by the Office.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      419.05,
+      451.07,
+      456.76
+    ],
+    "text": "(2) The Office shall take all necessary steps includingtechnical safeguards to ensure the security of all its databasesand data.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      472.33,
+      451.06,
+      549.88
+    ],
+    "text": "33. (1) The duplicates of all the nautical charts and nauticalpublications prepared by every registered HydrographicSurveyor or a Nautical Cartographer during the precedingmonth to be submitted to the Office on or before the fifteenthday of every month together with a list in duplicate in suchform and manner as may be prescribed.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      565.33,
+      451.07,
+      589.72
+    ],
+    "text": "(2) The Office shall maintain such duplicates in the formand manner as may be prescribed.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      211.99,
+      605.29,
+      451.11,
+      670.0
+    ],
+    "text": "(3) Where any nautical chart or fair sheet is not preparedby a Hydrographic Surveyor or a Nautical Cartographer inany month, such person shall, unless he is absent from SriLanka furnish a nil list for that month on or before the fifteenthday of the following month.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      139.15,
+      473.39,
+      175.87,
+      482.25
+    ],
+    "text": "Duplicates",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.11,
+      367.79,
+      171.55,
+      376.65
+    ],
+    "text": "Database",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "31National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      193.33,
+      384.73,
+      231.76
+    ],
+    "text": "(4) A Hydrographic Surveyor or a Nautical Cartographerwho fails to submit the duplicates commits a professionalmisconduct under the provisions of this Act.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      248.05,
+      384.75,
+      409.84
+    ],
+    "text": "34. Any nautical chart, fair sheet or any other navigationalchart or bathymetric sheet prepared in accordance with anyother written law, purporting to be a true copy of such anautical chart or fair sheet and purporting to be signed bythe National Hydrographer or any officer acting on his behalfshall be admissible in evidence in all cases and for all purposesand may be taken as prima facie evidence of the truth of thefacts stated therein and it shall not be necessary to provethat such copy was in fact signed or authenticated by theNational Hydrographer or the officer acting on his behalf orthat it is a true copy or that the facts stated therein are accurateuntil the contrary is proved.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      426.13,
+      384.63,
+      574.24
+    ],
+    "text": "35. (1) A person who knowingly or willfully removes,destroys, alters the position of or markings on anyhydrographic survey mark at the sea or coastal area, buoysor beacons that have been placed or set up for the control ofhydrographic surveys or delineation of boundaries oridentification of danger or for the purpose of any surveyconducted under this Act, commits an offence under this Actand shall on conviction after summary trial before a Magistratebe liable to a fine not exceeding one million rupees or toimprisonment for a term not exceeding one year or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      144.81,
+      590.53,
+      384.71,
+      669.04
+    ],
+    "text": "(2) Any person who is convicted under subsection (1)shall, in addition to the fine or term of imprisonment or bothfor which such person is liable also be liable to such costs asmay be determined by the Office in respect of repairing,replacing or restoring any such survey marks, buoys orbeacons specified in subsection (1).",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      396.33,
+      428.27,
+      439.77,
+      456.33
+    ],
+    "text": "Interferencewith surveymarks",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      394.89,
+      248.27,
+      455.62,
+      276.33
+    ],
+    "text": "Authenticity ofnautical charts &etc.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202432",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      212.95,
+      191.89,
+      452.14,
+      242.32
+    ],
+    "text": "36. (1) For the purpose of exercise, performance anddischarge of the powers, duties and functions, it shall belawful for the Office or any person authorised by the Officeto conduct the following -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      270.49,
+      452.13,
+      294.64
+    ],
+    "text": "(a)to have access to any place, premises, vehicle,aircraft or a vessel;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      309.85,
+      452.16,
+      360.16
+    ],
+    "text": "(b)to place or enact any permanent light, benchmark,reference mark or any temporary flag, sign or othermark for the purpose of hydrographic surveying;and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      375.25,
+      452.13,
+      412.6
+    ],
+    "text": "(c)to remove any flora or fauna obstructing any beacon,mark, trigonometrical point, flag, buoy or signalunless it is prohibited under any other written law.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      212.95,
+      427.69,
+      452.13,
+      451.84
+    ],
+    "text": "(2) For the purpose of exercising the powers specifiedunder subsection (1) \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      466.93,
+      452.25,
+      517.36
+    ],
+    "text": "(a)prior written notice shall be given to the owner,occupier or the person in possession of the place,premises, vehicle, air craft or vessel within areasonable period of time;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      532.45,
+      452.22,
+      595.96
+    ],
+    "text": "(b)the owner, occupier or the person in possessionshall be reimbursed with any damage caused to suchperson\u2019s property while carrying out any power,duty or function under subsection (1) in the mannerspecified by the Office; or",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      224.95,
+      611.05,
+      452.15,
+      673.0
+    ],
+    "text": "(c) prior written approval of the relevant authority beobtained if the access to any place, premises,vehicle, aircraft or vessel is restricted due to nationalsecurity or under the provision of any other writtenlaw.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.11,
+      194.27,
+      196.4,
+      212.73
+    ],
+    "text": "Power to accessany place",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "33National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      193.33,
+      384.39,
+      241.36
+    ],
+    "text": "37. Any vessel used for the hydrographic surveying inthe waters of Sri Lanka and any mechanical or non-mechanicalequipment shall be approved by the Office as may be specifiedby the Office in accordance with the rules made in that behalf.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      254.89,
+      384.46,
+      302.8
+    ],
+    "text": "38. The Office shall, in accordance with the provisions ofthis Act and regulations made thereunder maintain theregisters of the Hydrographic Surveyors and NauticalCartographers in the form and manner as may be prescribed.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      316.33,
+      384.38,
+      413.56
+    ],
+    "text": "39. (1) In terms of the provisions of this Act, where anyimmovable property of the State is required for the purposesof the Office, such purpose shall be deemed to be a purposefor which a special grant or lease of such property be made tothe Office under section 6 of the Crown Lands Ordinance(Chapter 454) and accordingly the provisions of thatOrdinance shall apply to a special grant or lease of suchproperty to the Office for such purpose.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      427.09,
+      384.35,
+      487.36
+    ],
+    "text": "(2) Where any movable property of a Governmentdepartment or any public corporation is required for thepurposes of the Office, the Minister may by Order publishedin the Gazette transfer to and vest in the Office the possessionand use of such movable property.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      500.89,
+      384.37,
+      561.16
+    ],
+    "text": "(3) No Order affecting any movable property of anyGovernment department or public corporation shall be madeby the Minister under subsection (2) without the concurrenceof the Minister assigned with that department or publiccorporation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      143.85,
+      574.69,
+      384.38,
+      671.8
+    ],
+    "text": "40. Where any person contravenes any provision of thisAct or any regulations or rules made thereunder and nopenalty has been specified under this Act in respect of suchcontravention, such person shall, on conviction aftersummary trail before a Magistrate, be liable to a fine notexceeding fifty thousand rupees or to imprisonment of eitherdescription for a term not exceeding six months or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      396.81,
+      195.11,
+      444.09,
+      223.17
+    ],
+    "text": "Vessels of thehydrographicservey fleet",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      395.85,
+      257.15,
+      447.57,
+      285.21
+    ],
+    "text": "Registers to bekept by theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      396.81,
+      317.51,
+      451.54,
+      375.93
+    ],
+    "text": "State propertyboth movableand immovablebe madeavailable to theOffice",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      395.85,
+      577.79,
+      452.13,
+      634.65
+    ],
+    "text": "Penalties forcotraventionsfor which nospesificprovisions havebeen made",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202434",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      191.05,
+      452.61,
+      255.76
+    ],
+    "text": "41. An officer authorized in writing by the Office shall bedeemed to be a public servant within the meaning of section136 of the Code of Criminal Procedure Act, No. 15 of 1979, forthe purpose of instituting proceedings in respect of offencesunder this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      271.45,
+      452.26,
+      322.72
+    ],
+    "text": "42. The Office shall be deemed to be a ScheduledInstitution within the meaning of the Anti-Corruption Act,No. 9 of 2023 and the provisions of that Act shall be construedaccordingly.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      338.53,
+      452.23,
+      389.8
+    ],
+    "text": "43. All members of the Council, the National Hydrographerand all officers and employees of the Office shall be deemedto be public servants within the meaning and for the purposesof the Penal Code (Chapter 19).",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      405.49,
+      452.23,
+      470.2
+    ],
+    "text": "44. The Minister may from time to time, for the purposeof giving effect to the objects of the Act and the State policy,issue to the Council, general directions as to the exercise,performance and discharge of the powers, duties andfunctions of the Office.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      499.33,
+      452.26,
+      563.92
+    ],
+    "text": "45. The provisions of this Act shall have effectnotwithstanding anything to the contrary in any other writtenlaw and accordingly in the event of any inconsistency orconflict between the provisions of this Act and such otherwritten law, the provisions of this Act shall prevail.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      579.73,
+      452.26,
+      617.56
+    ],
+    "text": "46. (1) The Minister may make regulations in respect of allmatters required by this Act to be prescribed or in respect ofwhich regulations are authorized by this Act to be made.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      212.11,
+      633.25,
+      452.15,
+      670.36
+    ],
+    "text": "(2) In particular and without prejudice to the generality ofthe provisions contained in subsection (1), the Minister maymake regulations in regard to \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.11,
+      193.55,
+      181.39,
+      221.61
+    ],
+    "text": "Provisionregardingprosecution",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      139.63,
+      274.31,
+      199.64,
+      331.17
+    ],
+    "text": "Office deemedto be a ScheduledInstitutionwithin themeaning of theAnti-CorruptionAct",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      139.15,
+      339.59,
+      191.59,
+      397.41
+    ],
+    "text": "Members,NationalHydrographer,officers andemployees ofthe Officedeemed to bepublic servants",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.11,
+      406.55,
+      188.84,
+      422.49
+    ],
+    "text": "Directions ofthe Minister",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.71,
+      499.07,
+      187.99,
+      535.89
+    ],
+    "text": "Provisions ofthis Act toprevail overother writtenlaw",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      139.15,
+      581.51,
+      179.6,
+      590.37
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "35National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      190.33,
+      383.64,
+      227.92
+    ],
+    "text": "(a)the mode and manner of preparation andmaintenance of nautical charts in relation to thewaters of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      246.97,
+      383.66,
+      258.04
+    ],
+    "text": "(b)adaptation of international procedures related to",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      262.09,
+      271.65,
+      273.16
+    ],
+    "text": "hydrographic services;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      292.33,
+      383.61,
+      303.4
+    ],
+    "text": "(c) the manner in which hydrographic surveys to be",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      307.45,
+      383.65,
+      333.52
+    ],
+    "text": "conducted and the form and the manner in whichthe nautical charts, fair sheets, digital data and other",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      337.57,
+      383.63,
+      348.64
+    ],
+    "text": "records pertaining to a hydrographic survey to be",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      352.69,
+      383.63,
+      363.76
+    ],
+    "text": "prepared and the details to be inserted in such",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      367.81,
+      383.65,
+      378.88
+    ],
+    "text": "nautical charts, fair sheets, field books and records;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      398.05,
+      383.66,
+      424.12
+    ],
+    "text": "(d)the degree of accuracy to be attained in hydrographicsurveys and the limit of error to be allowed;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      443.29,
+      383.65,
+      454.36
+    ],
+    "text": "(e)the steps to be taken to test the accuracy of",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      458.41,
+      383.64,
+      469.48
+    ],
+    "text": "hydrographic surveys and for the correction of any",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      473.53,
+      327.96,
+      484.6
+    ],
+    "text": "inaccuracies that may be discovered;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      503.65,
+      383.63,
+      514.72
+    ],
+    "text": "(f) the courses of study and training required to be",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      518.77,
+      383.62,
+      529.84
+    ],
+    "text": "obtained by a hydrographic surveyor before",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      533.89,
+      326.36,
+      544.96
+    ],
+    "text": "renewing such person\u2019s registration;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      564.13,
+      383.62,
+      590.2
+    ],
+    "text": "(g)guidelines to be followed by registered hydrographicsurveyors and Nautical Cartographers;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      154.65,
+      609.37,
+      383.62,
+      620.44
+    ],
+    "text": "(h)form and manner and procedure relating to qualifying",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      178.65,
+      624.49,
+      383.63,
+      661.6
+    ],
+    "text": "exams and professional tests to be followed bypersons who intend to register under the provisionsthis Act; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202436",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      228.19,
+      191.41,
+      452.03,
+      239.68
+    ],
+    "text": "(i)registration of institutions which provide educationaland professional qualifications to any person whointends to obtain a registration under the provisionsof this Act.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      210.19,
+      253.45,
+      452.02,
+      289.24
+    ],
+    "text": "(3) Every regulation made by the Minister within threemonths after its publication in the Gazette be brought beforeParliament for approval.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      210.19,
+      303.01,
+      452.02,
+      338.92
+    ],
+    "text": "(4) Any regulation which is not so approved shall bedeemed to be rescinded as from the date of such disapprovalbut without prejudice to anything previously done thereunder.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      210.19,
+      352.57,
+      452.02,
+      376.12
+    ],
+    "text": "(5) Notification of the date on which any regulation is sodisapproved shall be published in the Gazette.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      210.19,
+      389.77,
+      451.97,
+      413.32
+    ],
+    "text": "47. (1) Subject to the provisions of this Act, the Councilmay make rules in respect of all or any of the following matters: -",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      222.19,
+      426.97,
+      452.01,
+      450.4
+    ],
+    "text": "(a)all matters for which rules are authorised or requiredto be made under this Act;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      222.19,
+      464.17,
+      452.0,
+      487.6
+    ],
+    "text": "(b)the meetings of the Council and the procedure to befollowed at such meetings;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      222.19,
+      501.37,
+      452.03,
+      549.64
+    ],
+    "text": "(c)code of conduct to be followed by the officers andemployees of the Office and a code of conduct to befollowed by the registered Hydrographic Surveyorsand Nautical Cartographers; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      222.19,
+      563.41,
+      452.04,
+      611.68
+    ],
+    "text": "(d)the appointment, promotion, remuneration anddisciplinary control of officers and employees andthe grant of leave and other emoluments to officersand employees.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      210.19,
+      625.33,
+      452.04,
+      673.36
+    ],
+    "text": "(2) Every rule made by the Office shall be approved by theMinister and be published in the Gazette and shall come intooperation on the date of its publication or on such later dateas may be specified therein.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      141.19,
+      389.63,
+      159.19,
+      398.49
+    ],
+    "text": "Rules",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "37National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      155.61,
+      197.89,
+      370.9,
+      208.96
+    ],
+    "text": "48. In this Act, unless the context otherwise requires-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      170.61,
+      227.29,
+      383.29,
+      282.52
+    ],
+    "text": "\u2018\u2018contiguous zone\u201d means the zone which may notextend beyond twenty four nautical milesfrom the baselines from which the breadthof the territorial sea is measured;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      170.61,
+      300.85,
+      383.32,
+      370.72
+    ],
+    "text": "\u2018\u2018digital data\u201d means information obtained or createdby the operation of electronic equipment inthe course of hydrographic surveying,nautical charting or related incidentalactivities;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      170.61,
+      389.05,
+      383.39,
+      444.16
+    ],
+    "text": "\u2018\u2018exclusive economic zone\u201d means the zone which shallnot extend beyond two hundred nauticalmiles from the baselines from which thebreadth of the territorial sea is measured;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      170.61,
+      462.49,
+      383.3,
+      488.32
+    ],
+    "text": "\u2018\u2018Fair sheets\u201d means bathymetric data set in digital orgraphic formats;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      170.61,
+      506.65,
+      383.38,
+      664.72
+    ],
+    "text": "\u2018\u2018hydrography\u201d means the branch of applied scienceswhich deals with the measurement anddescription of the physical features ofoceans, seas, coastal areas, lakes and rivers,as well as with the prediction of their changeover time, for the primary purpose of safetyof navigation and in support of all othermarine activities, including economicdevelopment, security and defence,scientific research and environmentalprotection;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      397.29,
+      198.59,
+      447.58,
+      207.45
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202438",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      238.99,
+      195.49,
+      451.17,
+      206.56
+    ],
+    "text": "\u2018\u2018hydrographic services\u201d includes the management,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      210.97,
+      451.18,
+      222.04
+    ],
+    "text": "maintenance, interpretation, certification and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      226.45,
+      451.18,
+      237.52
+    ],
+    "text": "dissemination of bathymetric,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      242.05,
+      451.16,
+      253.12
+    ],
+    "text": "hydrographic, shoreline, geodetic,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      257.53,
+      451.16,
+      268.6
+    ],
+    "text": "geospatial, geomagnetic, and tide, water",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      273.01,
+      451.19,
+      284.08
+    ],
+    "text": "level, and current information, including the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      288.49,
+      451.18,
+      299.56
+    ],
+    "text": "production of nautical charts, nautical",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      303.97,
+      451.17,
+      315.04
+    ],
+    "text": "information databases, and other products",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      319.45,
+      451.19,
+      330.52
+    ],
+    "text": "derived from hydrographic data; the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      335.05,
+      451.19,
+      346.12
+    ],
+    "text": "development of nautical information",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      350.53,
+      400.3,
+      361.6
+    ],
+    "text": "systems and related activities;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      238.99,
+      381.49,
+      451.18,
+      392.56
+    ],
+    "text": "\u2018\u2018hydrographic survey\u201d means any conduct of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      396.97,
+      334.27,
+      408.04
+    ],
+    "text": "hydrography;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      238.99,
+      427.93,
+      451.16,
+      439.0
+    ],
+    "text": "\u2018\u2018hydrographic surveyor\u201d means any person who",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      443.53,
+      451.19,
+      454.6
+    ],
+    "text": "studies and practices the science of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      459.01,
+      451.19,
+      470.08
+    ],
+    "text": "hydrography complies with the international",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      474.49,
+      451.16,
+      485.56
+    ],
+    "text": "standard of competence as laid down by the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      489.97,
+      389.02,
+      501.04
+    ],
+    "text": "international organizations;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      238.99,
+      520.93,
+      451.18,
+      532.0
+    ],
+    "text": "\u2018\u2018hydrospatial \u201d means the hydrospatial sciences and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      536.53,
+      451.17,
+      547.6
+    ],
+    "text": "denoting data, information and knowledge",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      552.01,
+      451.17,
+      563.08
+    ],
+    "text": "that is associated with a particular location",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      567.49,
+      451.19,
+      578.56
+    ],
+    "text": "and time of the earth\u2019s water and there",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      582.97,
+      353.0,
+      594.04
+    ],
+    "text": "contiguous zones;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      238.99,
+      613.93,
+      451.19,
+      625.0
+    ],
+    "text": "\u2018\u2018internal waters\u201d mean waters located landward of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      629.53,
+      451.18,
+      640.6
+    ],
+    "text": "the base lines from which the territorial sea",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      645.01,
+      451.15,
+      656.08
+    ],
+    "text": "is measured and includes such as rivers,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      277.99,
+      660.49,
+      441.43,
+      671.56
+    ],
+    "text": "lakes, ponds and reservoirs of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "39National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      171.69,
+      195.73,
+      384.36,
+      206.8
+    ],
+    "text": "\u201cmarine\u201d means anything related to navigation or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      211.45,
+      384.37,
+      222.52
+    ],
+    "text": "shipping and includes anything related to",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      227.29,
+      384.36,
+      238.36
+    ],
+    "text": "or connected with the sea and refers to",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      243.13,
+      384.34,
+      254.2
+    ],
+    "text": "things which are used or adopted for the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      258.85,
+      254.14,
+      269.92
+    ],
+    "text": "use at sea;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      171.69,
+      290.53,
+      384.35,
+      301.6
+    ],
+    "text": "\u201cmarine data\u201d means data relating to navigation or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      306.25,
+      384.34,
+      317.32
+    ],
+    "text": "shipping and includes any data related to or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      322.09,
+      384.35,
+      333.16
+    ],
+    "text": "connected with sea and the refers to data",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      337.93,
+      384.34,
+      349.0
+    ],
+    "text": "which are used or adopted for the use at",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      353.65,
+      227.13,
+      364.72
+    ],
+    "text": "sea;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      171.69,
+      385.33,
+      384.35,
+      396.4
+    ],
+    "text": "\u2018\u2018marine geospatial data \u201d includes dense data on the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      401.05,
+      384.34,
+      412.12
+    ],
+    "text": "depth of oceans, magnetic nature, gravity",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      416.89,
+      384.46,
+      427.96
+    ],
+    "text": "changes, sound wave propagation in sea",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      432.73,
+      384.45,
+      443.8
+    ],
+    "text": "water temperature and pressure variations,",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      448.45,
+      384.38,
+      459.52
+    ],
+    "text": "behaviour of ocean currents and tides in the",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      464.29,
+      313.42,
+      475.36
+    ],
+    "text": "coastal zone of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      171.69,
+      495.85,
+      384.36,
+      506.92
+    ],
+    "text": "\u2018\u2018maritime\u201d means bordering on, concerned with or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      511.69,
+      299.98,
+      522.76
+    ],
+    "text": "related to the sea; and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      171.69,
+      543.25,
+      384.37,
+      554.32
+    ],
+    "text": "\u2018\u2018maritime zone\u201d means any maritime zone declared",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      559.09,
+      384.35,
+      570.16
+    ],
+    "text": "under the Maritime Zones Law, No. 22 of",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      210.69,
+      574.93,
+      290.13,
+      586.0
+    ],
+    "text": "1976 and includes \u2013",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      250.41,
+      606.49,
+      360.1,
+      617.56
+    ],
+    "text": "(a)the contiguous zone;",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      250.41,
+      638.05,
+      384.36,
+      649.12
+    ],
+    "text": "(b)the exclusive economic",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      273.69,
+      653.89,
+      295.41,
+      664.96
+    ],
+    "text": "zone;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202440",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      318.67,
+      192.49,
+      445.66,
+      203.56
+    ],
+    "text": "(c)the continental shelf; and",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      317.95,
+      220.69,
+      450.21,
+      245.92
+    ],
+    "text": "(d)the pollution preventionzone,",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      278.11,
+      263.05,
+      450.21,
+      316.36
+    ],
+    "text": "declared by Proclamation in terms of theaforesaid Law, and any other zonewhich may be declared at a futuredate under the said Law;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      278.11,
+      333.49,
+      450.2,
+      386.92
+    ],
+    "text": "\u2018\u2018Minister\u201d means the Minister assigned thesubject of the Defence underArticle 44 or 45 of theConstitution;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      278.11,
+      404.05,
+      450.1,
+      499.72
+    ],
+    "text": "\u2018\u2018nautical cartography\u201d means the art andscience of expressing electronic orprinted nautical charts by meansof computer hardware andsoftware which aids humans tomake decisions and perform theirfunctions;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      278.11,
+      516.85,
+      450.11,
+      612.52
+    ],
+    "text": "\u2018\u2018nautical cartographer\u201d means the personemployed in drawing andconstructing electronic or printednautical charts complies with theinternational standard ofcompetence as laid down by theinternational organizations;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      278.11,
+      629.65,
+      450.21,
+      668.92
+    ],
+    "text": "\u2018\u2018nautical charting\u201d means the activity orprocess of making a digital orprinted chart of water bodies;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "41National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      194.77,
+      384.36,
+      283.24
+    ],
+    "text": "\u2018\u2018nautical charts\u201d means a chart specificallydesigned to meet the requirementsof marine navigation, showingdepths of water, nature of bottom,elevations, configuration andcharacteristics of coast, dangers,and aids to navigation;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      297.97,
+      384.36,
+      334.84
+    ],
+    "text": "\u2018\u2018navigation\u201d means the process of directingthe movement of a craft from onepoint to another;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      349.57,
+      384.36,
+      412.24
+    ],
+    "text": "\u2018\u2018notices to mariners\u201d means corrections tonautical charts and publications.These only contain informationwhich is vitally important to safetyat sea;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      426.97,
+      384.35,
+      502.48
+    ],
+    "text": "\u2018\u2018ocean\u201d means the vast body of water onthe surface of the globe, whichsurrounds the land the main orgreat sea, one of the main areasinto which this body of water isdivided geographically;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      517.21,
+      384.37,
+      631.48
+    ],
+    "text": "\u2018\u2018pollution prevention zone\u2019\u2019 means the zonewhich is formulated to prevent,reduce, control and managepollution arising out of ship basedactivity and shore based maritimerelated activity in the territorialwaters of Sri Lanka or any othermaritime zone, its fore-shore andthe coastal zone of Sri Lanka;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      211.89,
+      646.21,
+      384.34,
+      670.24
+    ],
+    "text": "\u2018\u2018prescribed\u201d means prescribed byregulations made under this Act;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      218.11,
+      169.69,
+      433.41,
+      182.44
+    ],
+    "text": "National Hydrographic Act, No. 7 of 202442",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      277.15,
+      193.69,
+      451.18,
+      228.76
+    ],
+    "text": "\u2018\u2018public officer\u201d shall have the same meaningassigned to such expression underthe Constitution;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      277.15,
+      241.69,
+      451.16,
+      264.76
+    ],
+    "text": "\u2018\u2018sea\u201d means the great body of salt water ingeneral, as opposed to land;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      277.15,
+      277.69,
+      451.16,
+      312.76
+    ],
+    "text": "\u2018\u2018territorial waters\u201d includes the territorial seaand the historic waters ofSri Lanka;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      277.15,
+      325.69,
+      451.18,
+      360.76
+    ],
+    "text": "\u2018\u2018waters of Sri Lanka\u201d includes internalwaters and territorial sea ofSri Lanka.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      211.15,
+      376.33,
+      451.18,
+      400.96
+    ],
+    "text": "49. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      140.71,
+      376.55,
+      193.16,
+      406.41
+    ],
+    "text": "Sinhala text toprevail in caseofinconsistency",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      174.09,
+      167.17,
+      382.77,
+      181.0
+    ],
+    "text": "43National Hydrographic Act, No. 7 of 2024",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      146.85,
+      637.15,
+      455.13,
+      655.82
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

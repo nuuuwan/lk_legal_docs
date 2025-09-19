@@ -1,0 +1,669 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      166.41,
+      281.33,
+      434.83,
+      335.18
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      149.85,
+      373.11,
+      449.87,
+      415.52
+    ],
+    "text": "SHOP AND OFFICE EMPLOYEES (REGULATION OFEMPLOYMENT AND REMUNERATION)(AMENDMENT) ACT, No. 28 OF 2024",
+    "fonts": [
+      "Times,Bold",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.05,
+      484.13,
+      375.37,
+      495.47
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.05,
+      453.65,
+      369.34,
+      464.99
+    ],
+    "text": "[Certified on 13th of May, 2024]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.69,
+      581.83,
+      393.69,
+      590.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.41,
+      591.43,
+      404.85,
+      600.5
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      611.09,
+      456.68,
+      622.43
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.81,
+      538.13,
+      442.53,
+      561.47
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of May 17, 2024",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      661.39,
+      345.55,
+      670.46
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.45,
+      166.97,
+      385.61,
+      202.31
+    ],
+    "text": "1Shop and Office Employees (Regulation ofEmployment and Remuneration) (Amendment)Act, No. 28 of 2024",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      227.17,
+      205.29,
+      238.24
+    ],
+    "text": "L.D.-O. 27/2022",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146.49,
+      250.97,
+      381.33,
+      262.31
+    ],
+    "text": "AN ACT TO AMEND THE SHOP AND OFFICE EMPLOYEES (REGULATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.61,
+      262.97,
+      376.17,
+      274.31
+    ],
+    "text": "OF EMPLOYMENT AND REMUNERATION) ACT (CHAPTER 129)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      286.97,
+      383.9,
+      310.31
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      322.97,
+      383.89,
+      358.31
+    ],
+    "text": "1. This Act may be cited as the Shop and Office Employees(Regulation of Employment and Remuneration)(Amendment) Act, No. 28 of 2024.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      370.97,
+      383.9,
+      418.31
+    ],
+    "text": "2. Section 10 of the Shop and Office Employees(Regulation of Employment and Remuneration) Act(Chapter 129) (in this Act referred to as the \u201cprincipalenactment\u201d) is hereby amended as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      430.97,
+      383.89,
+      490.31
+    ],
+    "text": "(1)in subparagraph (iii) of paragraph (b) of subsection(2) thereof, by the substitution for the words andfigures \u201cbetween 6.00 p.m. and 8.00 p.m.; and\u201d ofthe words and figures \u201cbetween 6.00 p.m. and 8.00p.m.;\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      502.97,
+      383.9,
+      562.31
+    ],
+    "text": "(2)in subparagraph (iv) of paragraph (b) of subsection(2) thereof, by the substitution for the words andfigures \u201cbetween 6.00 p.m. and 10.00 p.m.\u201d of thewords and figures \u201cbetween 6.00 p.m. and 10.00p.m.; and \u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.29,
+      574.97,
+      383.89,
+      610.31
+    ],
+    "text": "(3)by the insertion, immediately after subparagraph(iv) of paragraph (b) of subsection (2) of thefollowing: -",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.89,
+      622.97,
+      383.87,
+      670.91
+    ],
+    "text": "\u201c(v) any female who has attained the age ofeighteen years may be employed in anyinstitution which is engaged in business,based on information technology and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      398.85,
+      324.55,
+      433.3,
+      333.62
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      398.85,
+      372.19,
+      444.58,
+      410.06
+    ],
+    "text": "Amendmentof section 10of Chapter129",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.73,
+      207.89,
+      332.03,
+      219.23
+    ],
+    "text": "[Certified on 13th of May, 2024]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      424.52,
+      202.31
+    ],
+    "text": "2Shop and Office Employees (Regulation ofEmployment and Remuneration) (Amendment)Act, No. 28 of 2024",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.15,
+      216.65,
+      451.18,
+      292.91
+    ],
+    "text": "knowledge process outsourcing or businessprocess outsourcing, or engaged inadministration and accounts or related workin a back office for an institute situatedabroad before 6.00 a.m. or after 6.00 p.m. onany day.\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      307.61,
+      451.19,
+      344.99
+    ],
+    "text": "3. Section 66 of the principal enactment is herebyamended by the insertion immediately after paragraph (f) ofsubsection (2) thereof, of the following: -",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      248.23,
+      359.57,
+      451.19,
+      448.91
+    ],
+    "text": "\u201c(fa) in respect of the terms and conditions to befollowed by an employer who employs anyfemales, relating to the welfare of suchfemales, including their security, transportfacilities and facilities to rest when suchfemales are employed after 10.00 p.m. andbefore 6.00 a.m.;\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      463.61,
+      451.17,
+      487.91
+    ],
+    "text": "4. Section 68 of the principal enactment is herebyamended as follows: -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      502.61,
+      451.18,
+      539.87
+    ],
+    "text": "(1)in paragraph (a) thereof, in the definition of theexpression \u201coffice\u201d, by the substitution for the words\u201cliterature), and\u201d of the words \u201cliterature);\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      554.57,
+      451.15,
+      591.95
+    ],
+    "text": "(2)in paragraph (b) thereof, by the substitution for thewords \u201cfor the purposes of this Act;\u201d of the words\u201cfor the purposes of this Act; and\u201d;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      606.53,
+      451.12,
+      630.95
+    ],
+    "text": "(3)by the addition, immediately after paragraph (b)thereof, of the following: -",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      645.53,
+      451.16,
+      669.95
+    ],
+    "text": "\u201c(c)any institution engaged in business, basedon information technology and knowledge",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.11,
+      307.75,
+      199.4,
+      345.62
+    ],
+    "text": "Amendment ofsection 66 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      465.79,
+      198.44,
+      503.66
+    ],
+    "text": "Amendment ofsection 68 of theprincipalenactment",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.45,
+      166.97,
+      385.61,
+      202.31
+    ],
+    "text": "3Shop and Office Employees (Regulation ofEmployment and Remuneration) (Amendment)Act, No. 28 of 2024",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.85,
+      216.65,
+      385.93,
+      279.95
+    ],
+    "text": "process outsourcing or business processoutsourcing or engaged in administration andaccounts or related work in a back office inconnection with any institution situatedabroad;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      294.65,
+      385.93,
+      318.95
+    ],
+    "text": "5. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      398.85,
+      295.15,
+      449.86,
+      333.02
+    ],
+    "text": "Sinhala text toprevail in thecase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      424.52,
+      202.31
+    ],
+    "text": "4Shop and Office Employees (Regulation ofEmployment and Remuneration) (Amendment)Act, No. 28 of 2024",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141.31,
+      629.11,
+      449.59,
+      647.78
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
