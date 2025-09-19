@@ -51,7 +51,9 @@ class Act(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
+            doc_number_cleaned = doc_number.replace("/", "-").replace(
+                " ", "_"
+            )
             num = f"{date_str}-{doc_number_cleaned}-{lang}"
             yield cls(
                 num=num,

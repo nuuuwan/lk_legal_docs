@@ -2,3 +2,4 @@
 # flake8: noqa: F408
 
 from lk_legal_docs.legal_docs.Act import Act
+from lk_legal_docs.legal_docs.Bill import Bill
