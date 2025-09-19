@@ -1,0 +1,1981 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      96.54,
+      114.01,
+      330.85,
+      127.29
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      130.63,
+      134.01,
+      293.98,
+      147.3
+    ],
+    "text": "SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      174.59,
+      154.02,
+      250.08,
+      167.3
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.01,
+      227.75,
+      320.39,
+      241.04
+    ],
+    "text": "INLAND REVENUE (AMENDMENT)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.78,
+      265.54,
+      216.0,
+      276.61
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      199.64,
+      283.54,
+      224.59,
+      294.61
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.59,
+      321.54,
+      322.64,
+      332.61
+    ],
+    "text": "To amend the Inland Revenue Act, No. 24 of 2017",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.0,
+      357.34,
+      339.8,
+      392.68
+    ],
+    "text": "Presented by the Minister of Finance, Planning and Economic Development on 01st of March, 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.829999923706055,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.75,
+      405.34,
+      308.53,
+      416.68
+    ],
+    "text": "(Published in the Gazette on February 21, 2025)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.66,
+      429.34,
+      285.59,
+      440.68
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.42,
+      537.64,
+      229.31,
+      545.39
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.68,
+      478.22,
+      298.64,
+      483.76
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.45,
+      487.82,
+      313.96,
+      493.36
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.32,
+      496.74,
+      351.99,
+      507.45
+    ],
+    "text": "Price : Rs. 84.00\u0003Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS-KSCms-UHC",
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.12,
+      459.64,
+      114.51,
+      470.98
+    ],
+    "text": "[Bill No. 4]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.38,
+      46.35,
+      307.8,
+      57.42
+    ],
+    "text": "1Inland Revenue (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.28,
+      81.11,
+      269.96,
+      91.07
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.99,
+      107.11,
+      362.28,
+      156.06
+    ],
+    "text": "Clause 2: This clause amends section 150 of the Inland Revenue Act, No.24 of 2017 KHUHLQDIWHU\u0003UHIHUUHG\u0003WR\u0003DV\u0003WKH\u0003\u00b3SULQFLSDO\u0003HQDFWPHQW\u00b4 \u0003DQG\u0003WKH\u0003OHJDO\u0003H\u0d75HFW\u0003RI\u0003WKDW\u0003VHFWLRQ\u0003as amended is to reduce the time period within which a refund may be requested by a tax payer, from four years to two and a half years.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.99,
+      172.1,
+      362.29,
+      221.05
+    ],
+    "text": "Clause 3: This clause amends the First Schedule of the principal enactment and the OHJDO\u0003H\u0d75HFW\u0003RI\u0003WKDW\u00036FKHGXOH\u0003DV\u0003DPHQGHG\u0003LV\u0003WR\u0003LQFUHDVH\u0003WKH\u0003WD[\u0010IUHH\u0003WKUHVKROG\u0003DSSOLFDEOH\u0003IRU\u00033HUVRQDO\u0003,QFRPH\u00037D[\u0003DQG\u0003UHYLVH\u0003WD[\u0003UDWHV\u0003IRU\u0003FHUWDLQ\u0003JDLQV\u0003DQG\u0003SUR\u00bfWV\u0003HDUQHG\u0003E\\\u0003individuals and companies.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.99,
+      237.09,
+      362.31,
+      286.04
+    ],
+    "text": "Clause 4: This clause amends the Third Schedule of the principal enactment and the OHJDO\u0003H\u0d75HFW\u0003RI\u0003WKDW\u00036FKHGXOH\u0003DV\u0003DPHQGHG\u0003LV\u0003WR\u0003H[FOXGH\u0003JDLQV\u0003DQG\u0003SUR\u00bfWV\u0003GHULYHG\u0003IURP\u0003UHQGHULQJ\u0003FHUWDLQ\u0003VHUYLFHV\u0003IURP\u0003WKH\u0003H[HPSWLRQV\u0003JUDQWHG\u0003XQGHU\u0003WKDW\u00036FKHGXOH\u0003ZLWK\u0003H\u0d75HFW\u0003from April 1, 2025.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.99,
+      302.08,
+      362.29,
+      325.04
+    ],
+    "text": "Clause 5: This clause amends the Fifth Schedule of the principal enactment and is consequential to the amendment made by clause 3.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.28,
+      46.28,
+      307.7,
+      57.35
+    ],
+    "text": "\u0014Inland Revenue (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      81.99,
+      127.89,
+      91.96
+    ],
+    "text": "/\u0011'\u0011\u00102\u0011\u0003\u001b\u0015\u0012\u0015\u0013\u0015\u0017",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.56,
+      107.1,
+      282.43,
+      131.17
+    ],
+    "text": "$\u0d87\u0003$\u0d7c\u0d8d\u00037\u0d88\u0003$\u0d86\u0d7e\u0d87\u0d7d\u00037\u0d81\u0d7e\u0003,\u0d87\u0d85\u0d7a\u0d87\u0d7d\u00035\u0d7e\u0d8f\u0d7e\u0d87\u0d8e\u0d7e\u0003$\u0d7c\u0d8d\u000f1\u0d88\u0011\u0003\u0015\u0017\u00032\u0d7f\u0003\u0015\u0013\u0014\u001a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      146.1,
+      309.04,
+      170.17
+    ],
+    "text": "%(\u0003LW\u0003HQDFWHG\u0003E\\\u0003WKH\u00033DUOLDPHQW\u0003RI\u0003WKH\u0003'HPRFUDWLF\u00036RFLDOLVW\u00035HSXEOLF\u0003RI\u00036UL\u0003/DQND\u0003DV\u0003IROORZV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      185.1,
+      309.66,
+      209.17
+    ],
+    "text": "\u0003 \u0014\u0011\u0003 \u0014 \u0003 7KLV\u0003 $FW\u0003 PD\\\u0003 EH\u0003 FLWHG\u0003 DV\u0003 WKH\u0003 ,QODQG\u0003 5HYHQXH\u0003 $PHQGPHQW \u0003$FW\u000f\u00031R\u0011\u0003\u0003\u0003RI\u0003\u0015\u0013\u0015\u0018\u0011",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      224.1,
+      309.67,
+      248.17
+    ],
+    "text": "\u0003 \u0015 \u00037KH\u0003SURYLVLRQV\u0003RI\u0003WKLV\u0003$FW\u0003VKDOO\u0003FRPH\u0003LQWR\u0003RSHUDWLRQ\u0003RQ\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      263.1,
+      309.69,
+      300.17
+    ],
+    "text": "\u0003 \u0015\u0011\u00036HFWLRQ\u0003\u0014\u0018\u0013\u0003RI\u0003WKH\u0003,QODQG\u00035HYHQXH\u0003$FW\u000f\u00031R\u0011\u0003\u0015\u0017\u0003RI\u0003\u0015\u0013\u0014\u001a\u0003 KHUHLQDIWHU\u0003 UHIHUUHG\u0003 WR\u0003 DV\u0003 WKH\u0003 \u00b3SULQFLSDO\u0003 HQDFWPHQW\u00b4 \u0003 LV\u0003KHUHE\\\u0003DPHQGHG\u0003DV\u0003IROORZV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.9,
+      315.1,
+      307.12,
+      326.17
+    ],
+    "text": "\u0003 \u0014 \u0003LQ\u0003SDUDJUDSK\u0003 D \u0003RI\u0003VXEVHFWLRQ\u0003 \u0015$ \u0003RI\u0003WKDW\u0003VHFWLRQ\u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.9,
+      341.1,
+      309.65,
+      456.17
+    ],
+    "text": "D \u0003\u0003 E\\\u0003 WKH\u0003 VXEVWLWXWLRQ\u0003 IRU\u0003 WKH\u0003 ZRUGV\u0003 \u00b3QRW\u0003H[FHHGLQJ\u0003RQH\u0003KXQGUHG\u0003WKRXVDQG\u0003UXSHHV\u000f\u00b4\u000f\u0003 RI\u0003 WKH\u0003 ZRUGV\u0003 DQG\u0003 \u00bf\u0003JXUHV\u0003 \u00b3QRW\u0003H[FHHGLQJ\u0003 VL[W\\\u0003 WKRXVDQG\u0003 UXSHHV\u0003 IRU\u0003 D\u0003\\HDU\u0003RI\u0003DVVHVVPHQW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u0003RU\u0003QRW\u0003H[FHHGLQJ\u0003RQH\u0003KXQGUHG\u0003DQG\u0003HLJKW\\\u0003WKRXVDQG\u0003UXSHHV\u0003IRU\u0003D\u0003\\HDU\u0003RI\u0003DVVHVVPHQW\u0003FRPPHQFLQJ\u0003RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u000f\u00b4 \u0003DQG",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.9,
+      471.1,
+      309.65,
+      547.17
+    ],
+    "text": "E \u0003\u0003 LQ\u0003 WKH\u0003 SURYLVR\u0003 WR\u0003 WKDW\u0003 SDUDJUDSK\u000f\u0003 E\\\u0003 WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003\u00b3QRW\u0003H[FHHGLQJ\u0003WZHQW\\\u0003 \u00bf\u0003YH\u0003 WKRXVDQG\u0003 UXSHHV\u0003 IRU\u0003 DQ\\\u0003TXDUWHU\u00b4\u000f\u0003 RI\u0003 WKH\u0003 ZRUGV\u0003 DQG\u0003 \u00bf\u0003JXUHV\u0003 \u00b3QRW\u0003H[FHHGLQJ\u0003VL[W\\\u0003WKRXVDQG\u0003UXSHHV\u0003IRU\u0003D\u0003\\HDU\u0003RI\u0003DVVHVVPHQW\u0003RU\u0003\u00bf\u0003IWHHQ\u0003WKRXVDQG\u0003UXSHHV\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.7,
+      223.23,
+      60.7,
+      234.3
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.7,
+      315.43,
+      60.7,
+      326.5
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.7,
+      396.63,
+      60.7,
+      407.7
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.7,
+      470.37,
+      60.7,
+      481.44
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.7,
+      539.23,
+      60.7,
+      550.3
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      314.3,
+      187.19,
+      361.64,
+      215.25
+    ],
+    "text": "6KRUW\u0003WLWOH\u0003DQG\u0003WKH\u0003GDWH\u0003RI\u0003RSHUDWLRQ",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.9,
+      263.99,
+      361.22,
+      301.65
+    ],
+    "text": "$PHQGPHQW\u0003RI\u0003VHFWLRQ\u0003\u0014\u0018\u0013\u0003RI\u0003$FW\u000f\u00031R\u0011\u0003\u0015\u0017\u0003RI\u0003\u0015\u0013\u0014\u001a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.06,
+      46.27,
+      268.51,
+      57.35
+    ],
+    "text": "Inland Revenue (Amendment)\u0015",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150.42,
+      79.8,
+      320.97,
+      142.87
+    ],
+    "text": "IRU\u0003D\u0003TXDUWHU\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u000f\u0003RU\u0003ZLWK\u0003H\u0d75\u0003HFW\u0003 IURP\u0003$SULO\u0003 \u0014\u000f\u0003 \u0015\u0013\u0015\u0018\u0003 QRW\u0003 H[FHHGLQJ\u0003RQH\u0003KXQGUHG\u0003DQG\u0003HLJKW\\\u0003WKRXVDQG\u0003UXSHHV\u0003IRU\u0003 D\u0003 \\HDU\u0003 RI\u0003 DVVHVVPHQW\u0003 RU\u0003 IRUW\\\u0003 \u00bf\u0003YH\u0003WKRXVDQG\u0003UXSHHV\u0003IRU\u0003DQ\\\u0003TXDUWHU\u00b4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      157.8,
+      321.0,
+      194.87
+    ],
+    "text": "\u0003 \u0015 \u0003\u0003 LQ\u0003VXEVHFWLRQ\u0003 \u0016 \u0003RI\u0003WKDW\u0003VHFWLRQ\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003\u00b3$\u0003UHIXQG\u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b33ULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0017\u000f\u0003D\u0003UHIXQG\u00b4 \u0003DQG",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      209.8,
+      321.0,
+      233.87
+    ],
+    "text": "\u0003 \u0016 \u0003E\\\u0003WKH\u0003DGGLWLRQ\u0003LPPHGLDWHO\\\u0003DIWHU\u0003VXEVHFWLRQ\u0003 \u0016 \u0003RI\u0003WKDW\u0003VHFWLRQ\u000f\u0003RI\u0003WKH\u0003IROORZLQJ\u0003QHZ\u0003VXEVHFWLRQ \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.42,
+      248.8,
+      320.98,
+      311.87
+    ],
+    "text": "\u00b3 \u0017 \u0003 :LWK\u0003 UHJDUG\u0003 WR\u0003 DQ\\\u0003 \\HDU\u0003 RI\u0003DVVHVVPHQW\u0003FRPPHQFLQJ\u0003RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0017\u000f\u0003D\u0003UHIXQG\u0003RU\u0003FUHGLW\u0003PD\\\u0003EH\u0003PDGH\u0003XQGHU\u0003 WKLV\u0003 VHFWLRQ\u0003 RQO\\\u0003 LI\u0003 WKH\u0003 WD[SD\\HU\u0003DSSOLHV\u0003IRU\u0003VXFK\u0003UHIXQG\u0003RU\u0003FUHGLW\u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      326.8,
+      320.98,
+      376.87
+    ],
+    "text": "\u0003 D \u0003 ZLWKLQ\u0003WKLUW\\\u0003PRQWKV\u0003RI\u0003WKH\u0003ODVW\u0003GDWH\u0003RI\u0003WKH\u0003UHOHYDQW\u0003\\HDU\u0003RI\u0003DVVHVVPHQW\u000f\u0003ZKHUH\u0003WKH\u0003WD[SD\\HU\u0003LV\u0003UHTXLUHG\u0003WR\u0003\u00bf\u0003OH\u0003D\u0003WD[\u0003UHWXUQ\u0003XQGHU\u0003WKLV\u0003$FW \u0003RU",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      391.8,
+      320.97,
+      454.87
+    ],
+    "text": "\u0003 E \u0003 ZLWKLQ\u0003 WKH\u0003 WLPH\u0003 SHULRG\u0003 VSHFL\u00bf\u0003HG\u0003E\\\u0003WKH\u0003&RPPLVVLRQHU\u0010*HQHUDO\u000f\u0003ZKHUH\u0003VXFK\u0003UHIXQG\u0003RU\u0003FUHGLW\u0003LV\u0003PDGH\u0003RQ\u0003WKH\u0003&RPPLVVLRQHU\u0010*HQHUDO\u00b6V\u0003LQLWLDWLYH\u0011\u00b4\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      469.8,
+      321.0,
+      493.87
+    ],
+    "text": "\u0003 \u0016\u0011\u0003 7KH\u0003)LUVW\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW\u0003LV\u0003KHUHE\\\u0003DPHQGHG\u0003DV\u0003IROORZV \u0003\u0010\u0003",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.42,
+      504.8,
+      247.21,
+      515.87
+    ],
+    "text": "\u0003 \u0014 \u0003LQ\u0003SDUDJUDSK\u0003\u0014\u0003RI\u0003WKDW\u00036FKHGXOH\u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.42,
+      527.8,
+      320.98,
+      551.87
+    ],
+    "text": "D \u0003LQ\u0003VXESDUDJUDSK\u0003 \u0014& \u0003RI\u0003WKDW\u0003SDUDJUDSK\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.57,
+      132.8,
+      71.57,
+      143.87
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.57,
+      224.0,
+      72.57,
+      235.07
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.42,
+      300.32,
+      71.42,
+      311.39
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.82,
+      392.1,
+      72.82,
+      403.17
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.57,
+      469.8,
+      366.25,
+      518.77
+    ],
+    "text": "\u0015\u0018$PHQGPHQW\u0003RI\u0003WKH\u0003)LUVW\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.28,
+      46.28,
+      307.7,
+      57.35
+    ],
+    "text": "\u0016Inland Revenue (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.9,
+      79.72,
+      307.21,
+      116.79
+    ],
+    "text": "\u00b3IURP\u0003$SULO\u0003 \u0014\u000f\u0003 \u0015\u0013\u0015\u0016\u00b4\u000f\u0003 RI\u0003 WKH\u0003 ZRUGV\u0003 DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3IURP\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u00b4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.9,
+      131.72,
+      304.76,
+      168.79
+    ],
+    "text": "E E\\\u0003WKH\u0003LQVHUWLRQ\u0003LPPHGLDWHO\\\u0003DIWHUVXESDUDJUDSK\u0003 \u0014& \u0003 RI\u0003 WKDW\u0003 SDUDJUDSK\u000f\u0003 RIWKH\u0003IROORZLQJ\u0003QHZ\u0003VXESDUDJUDSK \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      153.9,
+      183.72,
+      307.24,
+      259.79
+    ],
+    "text": "\u0003 \u00b5\u00b5 \u0014' \u0003 6XEMHFW\u0003 WR\u0003 WKH\u0003 SURYLVLRQV\u0003RI\u0003 VXESDUDJUDSK\u0003 \u0015 \u000f\u0003 WKH\u0003 WD[DEOH\u0003LQFRPH\u0003RI\u0003D\u0003UHVLGHQW\u0003RU\u0003QRQ\u0010UHVLGHQW\u0003LQGLYLGXDO\u0003 IRU\u0003 D\u0003 \\HDU\u0003 RI\u0003 DVVHVVPHQW\u0003FRPPHQFLQJ\u0003IURP\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u0003VKDOO\u0003EH\u0003WD[HG\u0003DW\u0003WKH\u0003IROORZLQJ\u0003UDWHV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.56,
+      274.72,
+      295.59,
+      285.79
+    ],
+    "text": "Taxable income Tax Payable",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.9,
+      300.72,
+      303.14,
+      532.79
+    ],
+    "text": "1RW\u0003H[FHHGLQJ\u0003\u0019\b\u0003RI\u0003WKH\u00035V\u0011\u0003\u0014\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013\u0003DPRXQW\u0003LQH[FHVV\u0003RI\u00035V\u0011\u0013([FHHGLQJ\u00035V\u0011\u0003\u0019\u0013\u000f\u0013\u0013\u0013\u0003SOXV\u00035V\u0011\u0003\u0014\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013\u0003\u0003\u0014\u001b\b\u0003RI\u0003WKH\u0003EXW\u0003QRW\u0003DPRXQW\u0003LQ\u0003H[FHHGLQJ\u0003H[FHVV\u0003RI\u00035V\u0011\u0003\u0014\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013\u00035V\u0011\u0003\u0014\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013([FHHGLQJ\u00035V\u0011\u0003\u0014\u0018\u0013\u000f\u0013\u0013\u0013\u0003SOXV5V\u0011\u0003\u0014\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013\u0003\u0003\u0015\u0017\b\u0003RI\u0003WKH\u0003EXW\u0003QRW\u0003DPRXQW\u0003LQH[FHHGLQJ\u0003H[FHVV\u0003RI\u00035V\u0011\u0003\u0015\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013\u00035V\u0011\u0003\u0014\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013([FHHGLQJ\u00035V\u0011\u0003\u0015\u001a\u0013\u000f\u0013\u0013\u0013\u0003SOXV5V\u0011\u0003\u0015\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013\u0003\u0003\u0016\u0013\b\u0003RI\u0003WKHEXW\u0003QRW\u0003DPRXQW\u0003LQH[FHHGLQJ\u0003H[FHVV\u0003RI\u00035V\u0011\u0003\u0015\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013\u00035V\u0011\u0003\u0015\u000f\u0013\u0013\u0013\u000f\u0013\u0013\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.55,
+      145.52,
+      61.55,
+      156.59
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.55,
+      223.72,
+      61.55,
+      234.79
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.55,
+      314.92,
+      61.55,
+      325.99
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.9,
+      384.66,
+      62.9,
+      395.73
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.3,
+      447.72,
+      61.3,
+      458.79
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.3,
+      510.72,
+      61.3,
+      521.79
+    ],
+    "text": "\u0016\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.06,
+      46.27,
+      268.51,
+      57.35
+    ],
+    "text": "Inland Revenue (Amendment)\u0017",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.02,
+      95.24,
+      320.58,
+      210.32
+    ],
+    "text": "\u0003\u0003\u0003([FHHGLQJ\u00035V\u0011\u0003\u0017\u0015\u0013\u000f\u0013\u0013\u0013\u0003SOXV\u0003\u0003\u00035V\u0011\u0003\u0015\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013\u0003\u0003\u0016\u0019\b\u0003RI\u0003WKH\u0003DPRXQW\u0003\u0003\u0003\u0003LQ\u0003H[FHVV\u0003RI\u0003\u0003\u0003\u0003\u00035V\u0011\u0003\u0015\u000f\u0018\u0013\u0013\u000f\u0013\u0013\u0013\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 F \u0003 E\\\u0003WKH\u0003UHSHDO\u0003RI\u0003LWHP\u0003 F \u0003RI\u0003VXESDUDJUDSK\u0003 \u0015 \u0003 RI\u0003 WKDW\u0003 SDUDJUDSK\u0003 DQG\u0003 WKH\u0003 VXEVWLWXWLRQ\u0003WKHUHIRU\u000f\u0003RI\u0003WKH\u0003IROORZLQJ\u0003LWHP \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.02,
+      225.24,
+      320.57,
+      262.32
+    ],
+    "text": "\u00b3 F \u0003 WKH\u0003 W\\SH\u0003 RI\u0003 EXVLQHVV\u0003 LQFRPH\u0003UHIHUUHG\u0003 WR\u0003 LQ\u0003 VXESDUDJUDSK\u0003 \u0017 \u0003 VKDOO\u0003 EH\u0003WD[HG\u0003DW\u0003WKH\u0003UDWH\u0003RI\u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.02,
+      277.24,
+      312.35,
+      288.32
+    ],
+    "text": "L \u0003\u0017\u0013\b\u000f\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u0003DQG",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.02,
+      303.24,
+      320.54,
+      327.32
+    ],
+    "text": "LL \u0003 \u0017\u0018\b\u000f\u0003 ZLWK\u0003 H\u0d75\u0003HFW\u0003 IURP\u0003 $SULO\u0003 \u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u0003DQG\u00b4 \u0003DQG",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.02,
+      342.24,
+      320.58,
+      379.32
+    ],
+    "text": "\u0003 G \u0003 E\\\u0003WKH\u0003DGGLWLRQ\u0003LPPHGLDWHO\\\u0003DIWHU\u0003VXESDUDJUDSK\u0003 \u0018 \u0003RI\u0003WKDW\u0003SDUDJUDSK\u000f\u0003RI\u0003WKH\u0003IROORZLQJ\u0003QHZ\u0003VXESDUDJUDSK \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150.02,
+      394.24,
+      320.6,
+      457.32
+    ],
+    "text": "\u00b3 \u0019 \u00031RWZLWKVWDQGLQJ\u0003DQ\\WKLQJ\u0003WR\u0003WKH\u0003FRQWUDU\\\u0003LQ\u0003WKH\u0003SURYLVLRQV\u0003RI\u0003VXESDUDJUDSK\u0003 \u0014' \u000f\u0003DQ\u0003LQGLYLGXDO\u00b6V\u0003IROORZLQJ\u0003JDLQV\u0003DQG\u0003SUR\u00bf\u0003WV\u0003VKDOO\u0003EH\u0003WD[HG\u0003DW\u0003WKH\u0003PD[LPXP\u0003UDWH\u0003RI\u0003\u0014\u0018\b\u0003ZLWK\u0003H\u0d75\u0003HFW\u0003IURP\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.02,
+      472.24,
+      320.57,
+      548.32
+    ],
+    "text": "\u0003 D \u0003 WKH\u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003 HDUQHG\u0003 RU\u0003GHULYHG\u0003 IURP\u0003 DQ\\\u0003 VHUYLFH\u0003 UHQGHUHG\u0003LQ\u0003RU\u0003RXWVLGH\u00036UL\u0003/DQND\u0003WR\u0003DQ\\\u0003SHUVRQ\u0003WR\u0003 EH\u0003 XWLOL]HG\u0003 RXWVLGH\u0003 6UL\u0003 /DQND\u000f\u0003ZKHUH\u0003WKH\u0003SD\\PHQW\u0003IRU\u0003VXFK\u0003VHUYLFHV\u0003LV\u0003 UHFHLYHG\u0003 LQ\u0003 IRUHLJQ\u0003 FXUUHQF\\\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.42,
+      171.12,
+      71.42,
+      182.19
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.42,
+      251.32,
+      71.42,
+      262.39
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.42,
+      354.52,
+      71.42,
+      365.59
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.42,
+      511.12,
+      71.42,
+      522.19
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.42,
+      432.32,
+      71.42,
+      443.39
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.28,
+      46.28,
+      307.7,
+      57.35
+    ],
+    "text": "\u0018Inland Revenue (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.9,
+      81.64,
+      308.44,
+      105.71
+    ],
+    "text": "DQG\u0003UHPLWWHG\u0003WKURXJK\u0003D\u0003EDQN\u0003WR\u00036UL\u0003/DQND",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.9,
+      120.64,
+      308.44,
+      196.71
+    ],
+    "text": "\u0003 E \u0003 WKH\u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003 HDUQHG\u0003 RU\u0003GHULYHG\u0003 IURP\u0003 DQ\\\u0003 IRUHLJQ\u0003 VRXUFH\u0003ZKHUH\u0003 VXFK\u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003DUH\u0003 HDUQHG\u0003 RU\u0003 GHULYHG\u0003 LQ\u0003 IRUHLJQ\u0003FXUUHQF\\\u0003 DQG\u0003 UHPLWWHG\u0003 WKURXJK\u0003 D\u0003EDQN\u0003WR\u00036UL\u0003/DQND\u0011\u00b4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.9,
+      211.64,
+      234.68,
+      222.71
+    ],
+    "text": "\u0003 \u0015 \u0003LQ\u0003SDUDJUDSK\u0003\u0017\u0003RI\u0003WKDW\u00036FKHGXOH\u0003\u00b1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.9,
+      237.64,
+      308.45,
+      300.71
+    ],
+    "text": "D \u0003LQ\u0003VXESDUDJUDSK\u0003 \u0014 \u0003RI\u0003WKDW\u0003SDUDJUDSK\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3VXESDUDJUDSKV\u0003 \u0015 \u000f\u0003 \u0015$ \u000f\u0003 \u0015% \u0003DQG\u0003 \u0016 \u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3VXESDUDJUDSKV\u0003 \u0015 \u000f\u0003 \u0015$ \u000f\u0003 \u0015% \u000f\u0003 \u0015& \u0003DQG\u0003 \u0016 \u00b4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.9,
+      315.64,
+      308.45,
+      391.71
+    ],
+    "text": "E \u0003\u0003 LQ\u0003VXESDUDJUDSK\u0003 \u0015% \u0003RI\u0003WKDW\u0003SDUDJUDSK\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3FRPPHQFLQJ\u0003RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3FRPPHQFLQJ\u0003RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u000f\u00b4 \u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.9,
+      406.64,
+      308.46,
+      443.71
+    ],
+    "text": "F \u0003E\\\u0003WKH\u0003DGGLWLRQ\u0003LPPHGLDWHO\\\u0003DIWHU\u0003VXESDUDJUDSK\u0003 \u0015% \u0003 RI\u0003 WKDW\u0003 SDUDJUDSK\u000f\u0003 RI\u0003WKH\u0003IROORZLQJ\u0003QHZ\u0003VXESDUDJUDSK \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154.9,
+      458.64,
+      308.45,
+      547.71
+    ],
+    "text": "\u00b3 \u0015& \u0003 6XFK\u0003 SDUW\u0003 RI\u0003 WKH\u0003 IROORZLQJ\u0003JDLQV\u0003DQG\u0003SUR\u00bf\u0003WV\u0003RI\u0003D\u0003FRPSDQ\\\u0003ZKLFK\u0003LQFOXGHV\u0003LQ\u0003LWV\u0003WD[DEOH\u0003LQFRPH\u0003IRU\u0003DQ\\\u0003\\HDU\u0003 RI\u0003 DVVHVVPHQW\u0003 FRPPHQFLQJ\u0003 RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u000f\u0003WKH\u0003JDLQV\u0003DQG\u0003SUR\u00bf\u0003WV\u0003RI\u0003D\u0003FRPSDQ\\\u0003VKDOO\u0003EH\u0003WD[HG\u0003DW\u0003WKH\u0003IROORZLQJ\u0003UDWHV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.55,
+      148.74,
+      58.55,
+      159.81
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.55,
+      236.94,
+      59.55,
+      248.01
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.55,
+      315.14,
+      59.55,
+      326.21
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.55,
+      469.74,
+      59.55,
+      480.82
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.55,
+      380.83,
+      59.55,
+      391.9
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.9,
+      535.25,
+      59.9,
+      546.32
+    ],
+    "text": "\u0016\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.06,
+      46.27,
+      268.51,
+      57.35
+    ],
+    "text": "Inland Revenue (Amendment)\u0019",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.82,
+      80.64,
+      321.89,
+      319.71
+    ],
+    "text": "\u0003 D \u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003 HDUQHG\u0003 RU\u0003GHULYHG\u0003IURP\u0003DQ\\\u0003VHUYLFH\u0003UHQGHUHG\u0003LQ\u0003RU\u0003RXWVLGH\u00036UL\u0003/DQND\u0003WR\u0003 DQ\\\u0003 SHUVRQ\u0003 WR\u0003 EH\u0003 XWLOL]HG\u0003RXWVLGH\u0003 6UL\u0003 /DQND\u000f\u0003 ZKHUH\u0003 WKH\u0003SD\\PHQW\u0003 IRU\u0003 VXFK\u0003 VHUYLFHV\u0003 LV\u0003UHFHLYHG\u0003LQ\u0003IRUHLJQ\u0003FXUUHQF\\\u0003DQG\u0003UHPLWWHG\u0003 WKURXJK\u0003 D\u0003 EDQN\u0003 WR\u0003 6UL\u0003/DQND\u0003\u0010\u0014\u0018\b \u0003\u0003\u0003 E \u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003 HDUQHG\u0003 RU\u0003GHULYHG\u0003IURP\u0003DQ\\\u0003IRUHLJQ\u0003VRXUFH\u0003ZKHUH\u0003 VXFK\u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003DUH\u0003HDUQHG\u0003RU\u0003GHULYHG\u0003LQ\u0003IRUHLJQ\u0003FXUUHQF\\\u0003DQG\u0003UHPLWWHG\u0003WKURXJK\u0003D\u0003EDQN\u0003WR\u00036UL\u0003/DQND\u0003\u00b1\u0003\u0014\u0018\b \u0003\u0003 F \u0003 JDLQV\u0003DQG\u0003SUR\u00bf\u0003WV\u0003IURP\u0003FRQGXFWLQJ\u0003 EHWWLQJ\u0003 DQG\u0003 JDPLQJ\u0003\u00b1\u0003\u0017\u0018\b \u0003DQG\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.82,
+      332.64,
+      321.89,
+      391.71
+    ],
+    "text": "\u0003 G \u0003 JDLQV\u0003 DQG\u0003 SUR\u00bf\u0003WV\u0003 IURP\u0003 WKH\u0003PDQXIDFWXUH\u0003DQG\u0003VDOH\u0003RU\u0003LPSRUW\u0003DQG\u0003VDOH\u0003RI\u0003DQ\\\u0003OLTXRU\u0003RU\u0003WREDFFR\u0003SURGXFW\u0003RWKHU\u0003WKDQ\u0003WKH\u0003H[SRUW\u0003RI\u0003VXFK\u0003SURGXFW\u0003\u00b1\u0003\u0017\u0018\b\u0011\u00b4 \u0003DQG",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.82,
+      404.64,
+      321.94,
+      499.71
+    ],
+    "text": "\u0003 \u0016 \u0003E\\\u0003WKH\u0003UHSHDO\u0003RI\u0003LWHP\u0003 G LL \u0003RI\u0003VXESDUDJUDSK\u0003 \u0014 \u0003RI\u0003SDUDJUDSK\u0003\u0014\u0013\u0003RI\u0003WKDW\u00036FKHGXOH\u000f\u0003DQG\u0003WKH\u0003VXEVWLWXWLRQ\u0003WKHUHIRU\u000f\u0003RI\u0003WKH\u0003IROORZLQJ\u0003LWHP \u0003\u0010\u0003\u00b3 LL \u0003LQWHUHVW\u0003RU\u0003GLVFRXQW\u0003SDLG\u0003\u00b1\u0003\u0003 D \u0003 ZLWK\u0003H\u0d75\u0003HFW\u0003IURP\u0003-DQXDU\\\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u0003\u0010\u0003\u0018\b",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.82,
+      512.65,
+      321.87,
+      535.71
+    ],
+    "text": "\u0003 E \u0003 ZLWK\u0003 H\u0d75\u0003HFW\u0003 IURP\u0003$SULO\u0003 \u0014\u000f\u0003 \u0015\u0013\u0015\u0018\u0003 \u00b1\u0003\u0014\u0013\b \u00b4\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.57,
+      131.71,
+      71.57,
+      142.78
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.57,
+      201.91,
+      72.57,
+      212.98
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.57,
+      266.11,
+      72.57,
+      277.18
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.57,
+      418.71,
+      72.57,
+      429.78
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.57,
+      348.8,
+      72.57,
+      359.87
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      61.57,
+      513.57,
+      71.57,
+      524.64
+    ],
+    "text": "\u0016\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.28,
+      46.28,
+      307.7,
+      57.35
+    ],
+    "text": "\u001aInland Revenue (Amendment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      82.57,
+      308.48,
+      106.64
+    ],
+    "text": "\u0003 \u0017\u0011\u00037KH\u00037KLUG\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW\u0003LV\u0003KHUHE\\\u0003DPHQGHG\u0003LQ\u0003SDUDJUDSK\u0003 X \u0003RI\u0003WKDW\u00036FKHGXOH\u0003DV\u0003IROORZV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      134.57,
+      308.46,
+      197.64
+    ],
+    "text": "\u0003\u0003 \u0014 \u0003LQ\u0003 VXESDUDJUDSK\u0003 LLL \u0003 RI\u0003 WKDW\u0003 SDUDJUDSK\u000f\u0003 E\\\u0003 WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3RQ\u0003RU\u0003DIWHU\u0003-DQXDU\\\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0013 \u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3RQ\u0003RU\u0003DIWHU\u0003-DQXDU\\\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0013\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u00b4 \u0003DQG\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      212.57,
+      308.46,
+      262.64
+    ],
+    "text": "\u0003 \u0015 \u0003LQ\u0003 VXESDUDJUDSK\u0003 LY \u0003 RI\u0003 WKDW\u0003 SDUDJUDSK\u000f\u0003 E\\\u0003 WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3RQ\u0003RU\u0003DIWHU\u0003-DQXDU\\\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0013 \u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3RQ\u0003RU\u0003DIWHU\u0003-DQXDU\\\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0013\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u00b4\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      277.57,
+      308.48,
+      301.64
+    ],
+    "text": "\u0003 \u0018\u0011\u00037KH\u0003)LIWK\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW\u0003LV\u0003KHUHE\\\u0003DPHQGHG\u0003LQ\u0003VXESDUDJUDSK\u0003 D \u0003RI\u0003SDUDJUDSK\u0003\u0015\u0003DV\u0003IROORZV \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      316.57,
+      308.48,
+      353.64
+    ],
+    "text": "\u0003 \u0014 \u0003LQ\u0003LWHP\u0003 LLL \u0003RI\u0003WKDW\u0003VXESDUDJUDSK\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0015 \u0003DQG\u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0015 \u00b4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      368.57,
+      308.47,
+      418.64
+    ],
+    "text": "\u0003 \u0015 \u0003LQ\u0003LWHP\u0003 LY \u0003RI\u0003WKDW\u0003VXESDUDJUDSK\u000f\u0003E\\\u0003WKH\u0003VXEVWLWXWLRQ\u0003IRU\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u00b4\u000f\u0003RI\u0003WKH\u0003ZRUGV\u0003DQG\u0003\u00bf\u0003JXUHV\u0003\u00b3$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0016\u000f\u0003EXW\u0003SULRU\u0003WR\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018 \u0003DQG\u00b4 \u0003DQG\u0003",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      433.57,
+      308.48,
+      457.64
+    ],
+    "text": "\u0003 \u0016 \u0003E\\\u0003WKH\u0003DGGLWLRQ\u0003LPPHGLDWHO\\\u0003DIWHU\u0003LWHP\u0003 LY \u0003RI\u0003WKDW\u0003VXESDUDJUDSK\u000f\u0003RI\u0003WKH\u0003IROORZLQJ\u0003QHZ\u0003LWHP \u0003\u0010",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.9,
+      472.57,
+      308.41,
+      496.64
+    ],
+    "text": "\u0003\u00b3 Y \u0003 5V\u0011\u0003\u0014\u000f\u001b\u0013\u0013\u000f\u0013\u0013\u0013\u000f\u0003IRU\u0003HDFK\u0003\\HDU\u0003RI\u0003DVVHVVPHQW\u0003FRPPHQFLQJ\u0003RQ\u0003RU\u0003DIWHU\u0003$SULO\u0003\u0014\u000f\u0003\u0015\u0013\u0015\u0018\u000f\u00b4\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.9,
+      508.57,
+      308.47,
+      532.64
+    ],
+    "text": "\u0003 \u0019\u0011\u0003\u0003,Q\u0003WKH\u0003HYHQW\u0003RI\u0003DQ\\\u0003LQFRQVLVWHQF\\\u0003EHWZHHQ\u0003WKH\u00036LQKDOD\u0003DQG\u00037DPLO\u0003WH[WV\u0003RI\u0003WKLV\u0003$FW\u000f\u0003WKH\u00036LQKDOD\u0003WH[W\u0003VKDOO\u0003SUHYDLO\u0011",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.7,
+      164.37,
+      60.7,
+      175.44
+    ],
+    "text": "\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.3,
+      238.77,
+      61.3,
+      249.84
+    ],
+    "text": "\u0014\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      49.5,
+      330.57,
+      59.5,
+      341.64
+    ],
+    "text": "\u0014\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      48.9,
+      406.17,
+      58.9,
+      417.24
+    ],
+    "text": "\u0015\u0013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      313.9,
+      279.17,
+      356.12,
+      326.42
+    ],
+    "text": "$PHQGPHQW\u0003RI\u0003WKH\u0003)LIWK\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.3,
+      509.16,
+      357.86,
+      546.82
+    ],
+    "text": "6LQKDOD\u0003WH[W\u0003WR\u0003SUHYDLO\u0003LQ\u0003FDVH\u0003RI\u0003LQFRQVLVWHQF\\",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      314.3,
+      82.19,
+      356.52,
+      129.45
+    ],
+    "text": "$PHQGPHQW\u0003RI\u0003WKH\u00037KLUG\u00036FKHGXOH\u0003WR\u0003WKH\u0003SULQFLSDO\u0003HQDFWPHQW",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50.1,
+      506.97,
+      60.1,
+      518.04
+    ],
+    "text": "\u0015\u0018",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.56,
+      555.59,
+      323.96,
+      562.23
+    ],
+    "text": "35,17('\u0003$7\u00037+(\u0003'(3$570(17\u00032)\u0003*29(510(17\u000335,17,1*\u000f\u000365,\u0003/$1.$\u0011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]
