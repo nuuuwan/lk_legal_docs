@@ -1,0 +1,741 @@
+THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA
+
+Part II of April 10, 2024
+
+SUPPLEMENT
+
+(Issued on 17.04.2024)
+
+GENDER EQUALITY
+
+A
+
+BILL
+
+Ordered to be published by the Minister of Women, Child Affairsand Social Empowerment
+
+Price : Rs. 42.00Postage : Rs. 150.00
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+This Gazette Supplement can be downloaded from www.documents.gov.lk
+
+to make provisions for the formulation and implementation of the NationalPolicy on Gender Equality and Empowerment of Women; to appoint ordesignate Gender Focal Point; to ensure gender equality of persons ofdifferent gender identities; to provide for matters connected therewith or incidental thereto
+
+1Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+L.D.—O. 43/2023
+
+AN ACT TO MAKE PROVISIONS FOR THE FORMULATION AND
+
+IMPLEMENTATION OF THE NATIONAL POLICY ON GENDER EQUALITY
+
+AND EMPOWERMENT OF WOMEN; TO APPOINT OR DESIGNATE GENDER
+
+FOCAL POINT; TO ENSURE GENDER EQUALITY OF PERSONS OF DIFFERENT
+
+GENDER IDENTITIES; TO PROVIDE FOR MATTERS CONNECTED
+
+THEREWITH OR INCIDENTAL THERETO.
+
+WHEREAS the Constitution of the Democratic SocialistRepublic of Sri Lanka recognizes that all persons are equalbefore the law and entitled to equal protection of the lawand are entitled to all rights and freedoms withoutdiscrimination based on race, religion, language, caste, sex,political opinion, place of birth or any one of such grounds:
+
+AND WHEREAS the State ensures equal opportunity to allpersons irrespective of differences in sex or gender identityin the National Policy on Gender Equality and Empowermentof Women:
+
+WHEREAS the Constitution of the Democratic SocialistRepublic of Sri Lanka also recognizes special provisionsbeing made by law, subordinate legislation or executiveaction for the advancement of women in order to eliminategender disparity:
+
+NOW THEREFORE BE it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:-
+
+1. (1) This Act may be cited as the Gender Equality Act,No. of 2024.
+
+(2) The provisions of this Act other than this section,shall come into operation on such date as the Minister mayappoint by Order published in the Gazette. (hereinafterreferred to as the “appointed date”).
+
+Preamble
+
+Short titleand date ofoperation
+
+Gender Equality2
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(3) This section shall come into operation on the date onwhich the Bill becomes an Act of Parliament.
+
+2. The objects of this Act shall be –
+
+(a)to establish and facilitate gender equality principlesin making social, economic, political, cultural andtechnological policies;
+
+(b)to ensure that every person enjoys, withoutdiscrimination based on sex or gender identity thefundamental rights and freedoms guaranteed by theConstitution;
+
+(c)to facilitate the identification and elimination ofsystemic and structural causes of gender inequalityand gender-based discrimination, including directdiscrimination and indirect discrimination,multiple and intersectional discrimination, inpolicy, programmes and delivery of services topersons of different gender identities;
+
+(d)to take measures to redress disadvantage,marginalization, sexism, stigma, categorising,stereotyping, prejudice and violence and toaccommodate men, women and persons of differentgender identities through structural change;
+
+(e)to protect human dignity irrespective of sex orgender identity;
+
+(f)to provide equal opportunities and an enablingenvironment to achieve results on gender equality;and
+
+Objects ofthe Act
+
+3Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(g)to establish principles of gender equality and ensurecompliance of such principles in the conduct ofpublic institutions, businesses, civil societyorganizations, employment and other legal entitiesand individuals.
+
+3. Every person shall have the right to gender equalityand no person shall be denied of such right.
+
+4. (1) For the purpose of achieving the objects of thisAct and implementing the provisions of this Act, the Ministershall be responsible for –
+
+(a)prescribing a framework to facilitate and ensuregender equality (hereinafter referred to as the“framework”) in consultation with the GenderEquality Council established under section 5;
+
+(b)issuing guidelines by way of regulations for thedevelopment and implementation of the framework,including plans and measures undertaken by publicinstitution and private institution;
+
+(c)the collection, analysis and updating of informationon the plans and measures submitted annually bypublic institution and private institution for theimplementation of the framework;
+
+(d)calling for updates and reports in relation to mattersset out in paragraphs (b) and (c) and specifyprocedures and measures required to ensurecompliance with the framework by publicinstitution and private institution;
+
+Protectionandadvancementof genderequality
+
+Powers of theMinister inensuringimplementationof this Act
+
+Gender Equality4
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(e)implementing regular monitoring and evaluationmeasures to ensure that administrative proceduresand practices of public institutions and privateinstitutions are in accordance with accepted normsand standards on gender equality as per theNational Policy on Gender Equality andEmpowerment of Women;
+
+(f)prescribing measures and mechanisms for theprotection, promotion and strengthening of genderequality;
+
+(g)prescribing the manner of establishing a supportsystem for assisting persons of different genderidentities to obtain redress for gender-basedviolence and discrimination; and
+
+(h)all such other acts which are not inconsistent withthe provisions of this Act and expedient for theaccomplishment of the objects of this Act.
+
+(2) Any person who fails to comply with any guidelineissued under subsection (1) shall inform the Minister inwriting the reasons for such noncompliance. If the Ministeris satisfied with the reasons given, the Minister may extendthe period for compliance.
+
+(3) Where the guidelines issued by the Minister have notbeen complied within the extended period of time referredto in subsection (2), the Minister may report in respect ofsuch non-compliance to the Cabinet of Ministers.
+
+5Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+PART I
+
+ESTABLISHMENT OF GENDER EQUALITY COUNCIL
+
+5. (1) There shall be established a Council which shallbe called and known as the Gender Equality Council(hereinafter referred to as the “Council”).
+
+(2) The Council shall, by the name assigned to it bysubsection (1), be a body corporate and shall have perpetualsuccession and a common seal and may sue and be sued insuch name.
+
+6. (1) The Council shall consist of -
+
+(a)five ex-officio members, namely –
+
+(i)the Secretary to the Ministry of the Ministerassigned the subject of Women or hisrepresentative holding a post not below theposition of an Additional Secretary;
+
+(ii)the Secretary to the Ministry of the Ministerassigned the subject of Justice or hisrepresentative holding a post not below theposition of an Additional Secretary;
+
+(iii)the Secretary to the Ministry of the Ministerassigned the subject of Education or hisrepresentative holding a post not below theposition of an Additional Secretary;
+
+(iv)the Secretary to the Ministry of the Ministerassigned the subject of Youth Affairs or hisrepresentative holding a post not below theposition of an Additional Secretary; and
+
+(v)the Inspector General of Police or hisrepresentative not below the rank of a DeputyInspector General of Police; and
+
+Establishmentof theGenderEqualityCouncil
+
+Compositionof theCouncil
+
+30
+
+Gender Equality6
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(b)the following four members appointed by theMinister (hereinafter referred to as “appointedmembers”) –
+
+(i)two persons from among persons who haveachieved eminence in the fields of genderstudies and health studies; and
+
+(ii)two persons among persons who haveachieved eminence in the field of human rightsor social empowerment.
+
+(2) The Minister shall endeavour to ensure that theappointment made under paragraph (b) of subsection (1)shall reflect the gender equality.
+
+7. The powers, duties and functions of the Council shallbe –
+
+(a)to recommend measures to the Government on thepromotion, protection, upgrading and advancementof gender equality and to have an integratedmachinery for the implementation of NationalPolicy on Gender Equality and Empowerment ofWomen;
+
+(b)to scrutinize pending Bills before the legislaturewhich may have an impact on women from a genderequality and women’s empowerment perspective;
+
+(c)to advice the Minister on the formulation ofregulations and directions as required under thisAct;
+
+(d)to give such directions and take all such othermeasures as are necessary, in consultation with the
+
+Powers,duties andfunctions ofthe Council
+
+7Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+relevant public institution and private institution,to promote the furtherance of, and safeguarding theright to gender equality;
+
+(e)to initiate and implement schemes for thepromotion, protection and advancement of genderequality;
+
+(f)to identify the principal causes of gender inequalityand promote effective measures for its preventionand control;
+
+(g)to report to the Minister with a copy to the WomenCaucus of Parliament appointed by the Speaker onmainstreaming of gender issues and regarding stepsto be taken for implementing;
+
+(h)to provide necessary support to public institutionsand private institutions for taking special measuresto implement the National Policy on GenderEquality and Empowerment of Women;
+
+(i)to evaluate public institutions and privateinstitutions in the implementation of NationalPolicy on Gender Equality and Empowerment ofWomen under paragraph (h);
+
+(j)to undertake research, educational programmes andother measures including gender mainstreaming anddigitalization, for the purpose of promoting genderequality, in society and in workplaces;
+
+(k)to organize periodic awareness training programmeson gender equality to government officials and thegeneral public;
+
+Gender Equality8
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(l)to promote awareness, education and research ongender related issues;
+
+(m)to develop an annual work plan to implement theprovisions of this Act;
+
+(n)to review the annual progress in line with theAnnual work plan and report to the Minister who inturn shall report to the relevant Minister forimmediate attention for ensuring gender equality;and
+
+(o)to do all such other acts or things as may benecessary for the discharge of all or any of functionsof the Council.
+
+8. Every appointed member of the Council, shall unlesshe vacates office earlier by death, resignation or removal,hold office for a period of three years from the date of hisappointment and unless removed from office shall be eligiblefor reappointment for not more than one further term, whetherconsecutive or otherwise.
+
+9. (1) The Minister shall appoint one of the appointedmembers who has excelled in promotion of gender equalityto be the Chairperson of the Council.
+
+(2) The Chairperson may resign from office by letteraddressed to the Minister and such resignation shall beeffective from the date on which it is accepted by theMinister.
+
+(3) The Minister may for reasons assigned therefor removethe Chairperson from the office of the Chairperson.
+
+Term ofoffice
+
+Chairpersonof theCouncil
+
+9Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(4) Subject to the provisions of subsections (2) and (3),the term of office of the Chairperson shall be the period ofhis membership of the Council.
+
+(5) Where the Chairperson is temporarily unable toexercise, perform and discharge the powers, duties andfunctions of his office due to ill health, other infirmity,absence from Sri Lanka or any other cause, the Minister mayappoint any other appointed member to act as the Chairpersonin addition to his normal duties as an appointed member.
+
+10. A person shall be disqualified from being appointedor continuing as a member of the Council, if such person –
+
+(a)is or becomes a Member of Parliament, of anyProvincial Council or of any local authority;
+
+(b)is not, or ceases to be, a citizen of Sri Lanka;
+
+(c)has been or is adjudged an insolvent by a court ofcompetent jurisdiction;
+
+(d)is or becomes unfit to continue in office by reasonof illness or other infirmity of mind or body;
+
+(e)has been or is declared to be of unsound mind by acourt of competent jurisdiction;
+
+(f)is serving or has served a sentence of imprisonmentimposed by any court in Sri Lanka or any othercountry; or
+
+(g)has been removed from office during a previousterm in which he was appointed as a member of theCouncil.
+
+Disqualificationsfor beingappointed orcontinuing asa member ofthe Council
+
+Gender Equality10
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+11. (1) Any appointed member of the Council may at anytime, resign from his office by a letter to that effect, addressedto the Minister, and such resignation shall be effective fromthe date on which it is accepted by the Minister in writing.
+
+(2) Where any appointed member by reason of illness,infirmity or absence from Sri Lanka is temporarily unable todischarge the functions of his office, the Minister may,having regard to the provisions of section 6 appoint someother person to act in his place.
+
+(3) The Minister may for reasons assigned, remove anappointed member from office. An appointed member whohas been removed from office shall not be eligible forreappointment as a member of the Council or to serve theCouncil in any other capacity.
+
+(4) Where an appointed member dies, resigns or isremoved from office, the Minister may having regard tosection 6, appoint another person in his place and the personso appointed shall hold office for the unexpired period ofthe term of office of the member whom he succeeds.
+
+12. (1) The meeting of the Council shall be held at leastonce in every month and the quorum for a meeting of theCouncil shall be five members.
+
+(2) The Chairperson shall preside at every meeting of theCouncil. In the absence of the Chairperson from any meetingof the Council, a member elected by the members presentshall preside at such meeting.
+
+(3) A meeting of the Council may be held either-
+
+(a)by the number of members who constitute a quorumbeing assembled at the place, date and timeappointed for the meeting; or
+
+Resignationand removalof members
+
+Quorum andmeetings ofthe Council
+
+11Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(b)by means of audio-visual communication by whichall members participating and constituting aquorum can simultaneously see and hear eachparticipating member for the duration of the meeting.
+
+(4) All questions for decision at any meeting of the Councilshall be decided by the vote of the majority of the memberspresent at such meeting. In the case of an equality of votes,the Chairperson shall, in addition to his vote have a castingvote.
+
+(5) Subject to the preceding provisions of this section,the Council may regulate the procedure in relation to themeetings of the Council and the transaction of businesses atsuch meetings.
+
+13. The salaries of the members of the Council shall bedetermined by the Parliament and shall be charged on theConsolidated Fund.
+
+14. A member who is directly or indirectly interested inany decision that is to be taken on any matter by the Councilshall disclose the nature of such interest at the meeting ofthe Council where such decision is being taken, and suchdisclosure shall be recorded in the minutes of the meetingsof the Council and such member shall not take part in anydeliberation or decision of the Council with regard to thatmatter and shall not be present at such meeting while suchdeliberation is in progress or such decision is being made.
+
+15. No proceeding, act or decision of the Council shallbe invalidated by reason only of the existence of a vacancyamong its members or of any defect in the appointment of amember thereof.
+
+Remunerationof members
+
+Members todisclose anyinterest
+
+Proceeding,act ordecision notinvalidatedby reason ofa vacancy
+
+Gender Equality12
+
+5
+
+10
+
+15
+
+20
+
+25
+
+PART II
+
+STAFF OF THE GENDER EQUALITY COUNCIL
+
+16. (1) The Council may appoint such number of officersand employees, as the Council may deem necessary for theproper and efficient discharge of its functions.
+
+(2) The Council may –
+
+(a)subject to any written law and any guideline issuedby the Government from time to time fix the wagesor salaries or other remuneration of such officersand employees including the terms and conditionsof employment and schemes of recruitment;
+
+(b)exercise disciplinary control over or dismiss anyofficer or employee of the Council; and
+
+(c)establish and regulate a provident fund and anyother welfare and security schemes for the benefitof the officers and employees of the Council subjectto relevant written law and make contributions toany such fund or scheme.
+
+(3) At the request of the Council, any officer in the publicservice may, with the consent of that officer and the PublicService Commission and the appointing Authority of suchofficer be temporarily appointed to the staff of the Councilfor such period as may be determined by the Council, orwith like consent, be permanently appointed to such staff.
+
+(4) Where any officer in the public service is temporarilyappointed to the staff of the Council, the provisions ofsubsection (2) of section 14 of the National Transport
+
+Staff of theCouncil
+
+13Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Commission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to, such officer.
+
+(5) Where any officer in the public service is permanentlyappointed to the staff of the Council, the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to, such officer.
+
+(6) Where the Council employs any person who hasentered into any contract with the Government by which hehas agreed to serve the Government for a specified period,any period of service to the Council by that person shall beregarded as service to the Government for the purpose ofdischarging his obligations under such contract.
+
+(7) The Council may delegate to any officer appointed toassist the Council any of its powers, duties or functions in sofar as is required for the efficient functioning of the Counciland the person to whom such powers are so delegated shallexercise such powers, duties and functions subject to thedirection and control of the Council. Any delegation madeunder this section may be withdrawn by the Council.
+
+PART III
+
+GENDER FOCAL POINT
+
+17. (1) Every public institution and private institutionshall appoint or designate from amongst its staff a personresponsible for identifying and reporting activities relevantto gender mainstreaming and gender equality (hereinafterreferred to as the “Gender Focal Point”).
+
+(2) The Gender Focal Point shall, be an officer who holdsa position not below an Additional Secretary or an Additional
+
+Gender FocalPoint
+
+Gender Equality14
+
+5
+
+10
+
+15
+
+20
+
+25
+
+or a Deputy to the Head of the respective institution, and bethe main point of contact in the respective institution withregard to addressing gender issues.
+
+(3) Each Gender Focal Point shall prepare a plan ofactivities targeting their areas of responsibility and reportdirectly to the Council on a quarterly basis with a copy toWomen Parliamentarians Caucus in Parliament.
+
+18. Each Gender Focal Point shall, within their respectivepublic institution -
+
+(a)promote implementation, of gender equality-basedpolicies and practices;
+
+(b)be responsible for mainstreaming gender equalityissues in the programmes;
+
+(c)make recommendation to the Council to reviewand amend the policies and programmes to alignwith the achievement of gender equality and inaccordance with gender budgeting principles, toensure gender mainstreaming;
+
+(d)organize and implement programmes, systems andmeasures to minimize the occurrence of gender-based discrimination or violence;
+
+(e)conduct follow-ups, analysis and audits on theimplementation of programmes from a genderequality perspective and in accordance with genderbudgeting principals;
+
+(f)endeavour to promote gender balance in decisionmaking processes;
+
+Functions ofthe GenderFocal Point
+
+15Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(g)to promote the adherence to guidelines on genderequality at inquiries regarding work place sexualharassment;
+
+(h)create an environment, free of harassment andviolence and set up appropriate follow-upmechanisms;
+
+(i)provide access to counselling services and healthcare services for individuals affected by gender-based violence or discrimination; and
+
+(j)support to the Council to implement the Annualwork plan.
+
+PART IV
+
+FINANCE
+
+19. (1) The Council shall have its own Fund (hereinafterreferred to as the “Fund”).
+
+(2) There shall be credited to the Fund –
+
+(a)all sums of money as may be voted from time totime by Parliament, for the use of the Council;
+
+(b)all such sums of money as may be received by theCouncil in the exercise and discharge of its powers,duties and functions under this Act; and
+
+(c)all such sums of money as may be received by theCouncil by way of income, grants, gifts or donationsfrom any source whatsoever whether within oroutside Sri Lanka:
+
+Fund of theCouncil
+
+Gender Equality16
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Provided that, the Council shall obtain the priorwritten approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreigngrants, gifts or donations made to the Council.
+
+(3) There shall be paid out of the Fund –
+
+(a)all such sums of money as are required to defrayany expenditure incurred by the Council in theexercise, performance and discharge of its powers,duties and functions under this Act; and
+
+(b)all such sums of money as are required to be paidout of the Fund by or under this Act.
+
+20. The Council may open and maintain any accountswith any State Bank as it may think appropriate, and suchaccounts shall be operated in accordance with prevailingfinancial regulations of the Government pertaining tofinancial transactions of public corporations.
+
+21. (1) The financial year of the Council shall be thecalendar year.
+
+(2) The Council shall cause proper books of accounts tobe kept of the income and expenditure, assets and liabilitiesand all other transactions of the Council.
+
+(3) The provisions of Article 154 of the Constitutionrelating to the audit of accounts of public corporations shallapply to the audit of accounts of the Council.
+
+Council tomaintainaccounts
+
+Financialyear andaudit ofaccounts
+
+17Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+PART V
+
+GENERAL
+
+22. (1) The Council shall within six months of the end ofeach financial year, submit to the Minister an annual reportof the activities carried out by the Council during thatfinancial year, and cause a copy each of the followingdocuments relating to that year to be attached to the report–
+
+(a)the audited accounts of the Council for the yearalong with the Auditor-General’s report; and
+
+(b)a report of proposed activities for the yearimmediately following, the year to which suchreport and accounts relates.
+
+(2) The Minister shall lay copies of the report anddocuments submitted under subsection (1) before Parliamentwithin six months from the date of receipt of such report.
+
+23. Every member of the Council and all officers andemployees of the Council shall, before entering upon hisduties, sign a declaration pledging to observe strict secrecyin respect of all matters connected with the affairs of theCouncil, which has come to his knowledge in theperformance or exercise of his powers and functions underthis Act and shall by such declaration pledge himself not todisclose any such matter, except –
+
+(a)when required to do so by a court of law; or
+
+(b)for the purpose of exercising or performing thepowers and functions under this Act or any otherwritten law.
+
+AnnualReport
+
+Declarationof secrecy
+
+Gender Equality18
+
+5
+
+10
+
+15
+
+20
+
+25
+
+24. (1) The Council may in writing and subject to suchconditions as may be specified therein, delegate to theChairperson or any officer of the Council any of its powers,duties or functions and any such officer shall exercise orperform such power or function in the name and on behalf,of the Council.
+
+(2) The Council may, notwithstanding any delegationmade under subsection (1), by itself exercise, perform ordischarge any power, duty or function so delegated and mayat any time revoke any such delegation.
+
+25. Any person who –
+
+(a)contravenes the provisions of this Act or anyregulation made thereunder; or
+
+(b)fails to comply with an order or directive of theCouncil;
+
+shall be guilty of an offence under this Act and shall onconviction after summary trial before a Magistrate, be liableto a fine not exceeding fifty thousand rupees or toimprisonment for a term not exceeding three months or toboth such fine and imprisonment.
+
+26. In the case of any offence under this Act committedby a body of persons, then –
+
+(a)where such body of persons is a body corporate,every director, secretary and officer of that bodycorporate; and
+
+(b)where that body of persons is a firm, every partnerof that firm,
+
+Delegation ofpowers of theCouncil
+
+Offences
+
+Offences bybodies ofpersons
+
+19Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+shall be deemed to be guilty of that offence, unless thedirector, secretary, officer or partner as the case may be,proves that the offence was committed without theknowledge of such director, secretary, officer or partner andthat all due diligence was exercised by them to prevent thecommission of the offence.
+
+27. (1) The Minister may, for the purpose of giving effectto the principles of this Act, make regulations in respect ofany matter which is required by this Act to be prescribed orin respect of which regulations are required or authorized tobe made under this Act.
+
+(2) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication, or on such later date as may bespecified in the regulation.
+
+(3) (a) Every regulation made by the Minister shall, withinthree months after its publication in the Gazette, be broughtbefore Parliament for approval.
+
+(b) Any regulation which is not so approved shall bedeemed to be rescinded as from the date of such disapproval,but without prejudice to anything duly done thereunder.
+
+(4) Notification of the date on which a regulation isdeemed to be rescinded shall be published in the Gazette.
+
+28. Notwithstanding anything to the contrary in theprovisions of any other written law for time being in force,the provisions of this Act shall have effect in respect of allmatters relating to the achievement and enhancement ofgender equality and accordingly in the event of anyinconsistency or conflict between the provisions of this Actand such other written law the provisions of this Act shallprevail.
+
+Regulations
+
+This Act toprevail incase ofinconsistency
+
+Gender Equality20
+
+5
+
+10
+
+15
+
+20
+
+25
+
+29. Unless the context otherwise requires –
+
+“discrimination”. means the differential treatmentof an individual or group of people basedon a specific characteristic including race,caste, color, sex, gender identity, nationalorigin, language, religion, age, marital andparental status, disability, or health status;
+
+“direct discrimination” means different treatmentexplicitly based on grounds of sex or genderidentity;
+
+“gender identity” means the cultural, economic,social and political characteristics, role andopportunities through which women, menand others are socially constructed andvalued;
+
+“gender-based discrimination” means anydistinction, exclusion or restriction madeon the basis of sex or gender identity whichhas the effect or purpose of impairing ornullifying the recognition on the basis ofequality of persons, of human rights andfundamental freedoms in the political,economic, social, cultural, civil or anyother field;
+
+“gender budgeting” is an application of gendermainstreaming in the budgetary processwhich means a gender-based assessment ofbudgets, policy on resource allocation andtaxation, incorporating a genderperspective at all levels of the budgetaryprocess and restructuring revenues andexpenditures in order to promote genderequality;
+
+Interpretation
+
+30
+
+21Gender Equality
+
+5
+
+10
+
+15
+
+20
+
+“gender equality” means equality between personsof different sex and gender identity withoutgender based discrimination and includeequal opportunity of enjoyment of, or accessto, –
+
+(a)education;
+
+(b)employment;
+
+(c)health care and health careinformation;
+
+(d)private and family life;
+
+(e)justice and dispute resolution;
+
+(f)public places and buildings;
+
+(g)public services;
+
+(h)media, information andcommunication technologies;
+
+(i)protection from violence; and
+
+(j)economic, political and socialactivities;
+
+“gender mainstreaming” means the process ofassessing the implications for persons ofdifferent sex, gender and gender identityof any planned action, includinglegislation, policies or programmes, in allareas and at all levels;
+
+Gender Equality22
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+“indirect discrimination” means discrimination thatoccurs when a law, policy, programme orpractice appears to be neutral in so far as itrelates to persons of different sex or genderidentity;
+
+“Minister” means the Minister to whom theimplementation of this Act is assigned;
+
+“prescribed” means prescribed by regulations madeunder this Act;
+
+“public corporation” means any corporation, boardor other body which was or is establishedby or under any written law, with funds orcapital wholly or partly provided by theGovernment;
+
+“public institution” means a department orinstitution of the Government, a publiccorporation or a statutory institution andincludes a higher educational institution,a university and a professional institutionand an institution offering vocational ortechnical education funded wholly by theGovernment, a public corporation or astatutory body; and
+
+“private institution” means an institutionestablished, recognized or licensed underany written law, and include a highereducational institution, a university and aprofessional institution and an institutionoffering vocational or technical education,other than those funded wholly by theGovernment.
+
+23Gender Equality
+
+Sinhala testto prevail incase ofinconsistency
+
+30. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.
+
+Gender Equality24
+
+DEPARTMENT OF GOVERNMENT PRINTING
