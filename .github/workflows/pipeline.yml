@@ -13,6 +13,13 @@ on:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        doc_class_label: ["lk_acts", "lk_bills"]
+
     container:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
 
@@ -49,7 +56,7 @@ jobs:
           git config --global --add safe.directory /__w/${{ env.REPO_MAIN }}/${{ env.REPO_MAIN }}
 
           git pull origin main --rebase
-          python workflows/pipeline.py ${{ github.event.inputs.max_dt }} lk_acts
+          python workflows/pipeline.py ${{ github.event.inputs.max_dt }} "${{ matrix.doc_class_label }}"
 
       - name: "⬆️ Push main"
         run: |
