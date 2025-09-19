@@ -1,0 +1,1637 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.05,
+      282.48,
+      439.75,
+      335.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.49,
+      382.73,
+      432.2,
+      448.62
+    ],
+    "text": "HANGURANKETHA MADANWALARAJAMAHA VIHARA DEVELOPMENTFOUNDATION (INCORPORATION)ACT, No. 26 OF 2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      520.09,
+      373.29,
+      531.16
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.29,
+      491.17,
+      361.28,
+      502.24
+    ],
+    "text": "[Certified on 21st May, 2013]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.86,
+      670.24
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of May 23, 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.49,
+      166.81,
+      383.81,
+      200.92
+    ],
+    "text": "1Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      485.95,
+      432.58,
+      495.02
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      682.63,
+      263.02,
+      691.7
+    ],
+    "text": "2\u2014PL 006081\u20143,090 (06/2011)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      298.03,
+      431.14,
+      307.1
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.77,
+      214.73,
+      325.06,
+      226.07
+    ],
+    "text": "[Certified on 21st May, 2013]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      238.13,
+      234.57,
+      249.47
+    ],
+    "text": "L.D.\u2014O. Inc. 20/2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.77,
+      261.53,
+      370.04,
+      284.63
+    ],
+    "text": "AN ACT TO INCORPORATE THE HANGURANKETHA MADANWALARAJAMAHA VIHARA DEVELOPMENT FOUNDATION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      296.69,
+      383.9,
+      366.47
+    ],
+    "text": "WHEREAS a foundation called and known as the\u201cHanguranketha Madanwala Rajamaha Vihara DevelopmentFoundation\u201d has heretofore been established in Sri Lankafor the purpose of effectually carrying out its objects andtransacting all matters connected with the said Foundationaccording to the rules agreed to by its members:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      378.53,
+      383.9,
+      436.67
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was formed and has applied to beincorporated and it will be for the public advantage to grantthe said application:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      448.73,
+      383.95,
+      471.83
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      483.89,
+      383.89,
+      518.63
+    ],
+    "text": "1.This Act may be cited as the HangurankethaMadanwala Rajamaha Vihara Development Foundation(Incorporation) Act, No. 26 of 2013.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      528.89,
+      383.9,
+      669.95
+    ],
+    "text": "2.From and after the date of commencement of this Actsuch and so many persons as now are members of the\u201cHanguranketha Madanwala Rajamaha Vihara DevelopmentFoundation\u201d (hereinafter referred to as \u201cFoundation\u201d) or shallhereafter be admitted as members of the Corporation herebyconstituted shall be a body corporate with perpetualsuccession under the name and style of the \u201cHangurankethaMadanwala Rajamaha Vihara Dvelopment Foundation\u201d(hereinafter referred to as \u201cthe Corporation\u201d), and by thatname may sue and be sued with full power and authority tohave, and use a common seal and to alter the same at itspleasure.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      530.71,
+      455.13,
+      606.98
+    ],
+    "text": "Incorporation oftheHangurankethaMadanwalaRajamahaViharaDevelopmentFoundation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.75,
+      166.81,
+      428.49,
+      201.16
+    ],
+    "text": "Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      166.97,
+      217.11,
+      178.31
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.63,
+      215.45,
+      451.63,
+      239.39
+    ],
+    "text": "3.(1) The Objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.35,
+      253.49,
+      451.67,
+      302.99
+    ],
+    "text": "(a)to conserve, renovate and maintain all the buildingsof Sri Dharmodaya Pirivena and Maha Viharasituated at Madanwala, Hanguranketha, which arepresently over one hundred years old;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.35,
+      316.97,
+      451.64,
+      341.03
+    ],
+    "text": "(b)to foster, develop and maintain the Pirivena andMaha Vihara referred to in paragraph (a);",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.19,
+      355.13,
+      451.68,
+      404.51
+    ],
+    "text": "(c)to formulate and implement social, cultural,educational and welfare programmes for the benefitof the members of the Corporation and otherSri Lankans;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.35,
+      418.61,
+      451.67,
+      480.71
+    ],
+    "text": "(d)to promote economic development of the poor andneedy people of Sri Lanka, by introducing andimplementing appropriate skills developmentprogrammes and self employment orientedprogrammes; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.19,
+      494.81,
+      451.67,
+      556.91
+    ],
+    "text": "(e)to work in close association with Governmentaland Non-Governmental Organizations, religiousbodies, cultural groups, International organizationsand other institutions and organizations havingobjects similar to those of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.63,
+      571.01,
+      451.71,
+      620.39
+    ],
+    "text": "(2) The Corporation shall ensure that the implementationof the objects of the Corporation shall be carried out withoutany distinction based on race, religion, language, caste, sexor political opinion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.63,
+      634.49,
+      451.69,
+      671.27
+    ],
+    "text": "4.Subject to the provisions of this Act and anyother written law, the Corporation shall have the power todo, perform and execute all such acts and matters as are",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      215.11,
+      195.44,
+      243.38
+    ],
+    "text": "General Objectsof theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      636.91,
+      187.15,
+      655.58
+    ],
+    "text": "Powers of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.49,
+      166.81,
+      383.81,
+      200.92
+    ],
+    "text": "3Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      214.97,
+      383.86,
+      250.31
+    ],
+    "text": "necessary or desirable for the promotion or furtherance ofthe objects of the Corporation or any one of them includingthe power \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      262.97,
+      383.92,
+      298.31
+    ],
+    "text": "(a)to purchase, acquire, rent, construct, renovate andotherwise obtain lands or buildings which may berequired for the purposes of the Corporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      310.97,
+      383.85,
+      334.31
+    ],
+    "text": "(b)to raise funds and receive grants, gifts or donationsin cash or kind:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      346.97,
+      383.89,
+      418.31
+    ],
+    "text": "Provided that, the Executive Committee shallobtain the prior written approval of the Departmentof External Resources of the Ministry of the Ministerassigned the subject of Finance, in respect of allforeign grants, gifts or donations made to theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      430.97,
+      383.89,
+      490.31
+    ],
+    "text": "(c)to make, draw, accept, discount, endorse, negotiate,buy, sell and issue bills of exchange, cheques,promissory notes and other negotiable instrumentsand to open, operate, maintain and close accountsin any bank;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      502.13,
+      383.88,
+      549.47
+    ],
+    "text": "(d)to enter into contracts, partnerships or agreementswith any Governmental or non-Governmentalorganizations or any other person or institutionwhether in Sri Lanka or aboard;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.29,
+      557.93,
+      383.89,
+      604.43
+    ],
+    "text": "(e)to invest any funds that are not immediately requiredfor the purposes of the Corporation, in suchmanner as the Executive Committee maydetermine;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      612.77,
+      383.88,
+      670.91
+    ],
+    "text": "(f)to appoint, employ, dismiss or terminate the servicesof officers and servants of the Corporation andexercise disciplinary control over them and to paythem such salaries, allowances and gratuities as maybe determined by the Corporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235.75,
+      166.81,
+      428.49,
+      201.16
+    ],
+    "text": "Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      166.97,
+      217.11,
+      178.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      214.97,
+      451.18,
+      238.31
+    ],
+    "text": "(g)to train personnel in Sri Lanka or abroad for thepurposes of the Corporation; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      250.97,
+      451.19,
+      286.31
+    ],
+    "text": "(h)to do all other things as are necessary or expedientfor the proper and effective carrying out of theobjects of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      298.97,
+      451.24,
+      394.31
+    ],
+    "text": "5.Subject to the provisions of this Act, the Corporationshall be able and capable in law to take and hold any propery,movable or immovable, which may become vested in it byvirtue of any purchase, grant, gift, testamentary disposition orotherwise, and all such property shall be held by theCorporation for the purpose of this Act and subject to the rulesof the Corporation made under section 7 with power to sell,mortgage, lease, exchange or otherwise dispose of the same.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      406.97,
+      451.2,
+      478.31
+    ],
+    "text": "6.(1) The management and administration of the affairsof the Corporation shall subject to the provisions of this Actbe administered by a Executive Committee consisting ofsuch number of office bearers elected in the manner as maybe provided by the rules of the Corporation made undersection 7.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      490.97,
+      451.18,
+      538.31
+    ],
+    "text": "(2) The Minister assigned the subject of Buddhasasanaand Religious shall appoint an officer not below the rank ofa Senior Assistant Secretary of that Ministry as an ex-officiomember of the Executive Committee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      546.89,
+      451.21,
+      594.23
+    ],
+    "text": "(3) The first Executive Committee of the Corporationshall consists of the members of the Executive Committeeof the Foundation who hold office on the day immediatelypreceding the date of commencement of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      602.93,
+      451.18,
+      638.27
+    ],
+    "text": "(4) (a) No office bearer of the Executive Committee shallhold office for more than three consecutive years, in thesame post:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      646.97,
+      451.2,
+      670.67
+    ],
+    "text": "Provided that such office bearer may be re-appointed tothe same post after laps of two years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      407.71,
+      197.6,
+      435.98
+    ],
+    "text": "Management ofthe affairs of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      300.19,
+      181.88,
+      347.66
+    ],
+    "text": "Corporationmay holdpropertymovable, orimmovable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167.49,
+      166.81,
+      383.81,
+      200.92
+    ],
+    "text": "5Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      214.97,
+      383.9,
+      262.31
+    ],
+    "text": "(b) For the avoidance of doubt it is hereby declared thatno person shall continue to hold the same post in theExecutive Committee ( including the post of patron) for thelife period of such person.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      274.97,
+      383.92,
+      346.31
+    ],
+    "text": "7.(1) It shall be lawful for the Corporation, from timeto time, at any general meeting of the Corporation and by amajority of not less than two-thirds of the members presentand voting, to make rules, not inconsistent with theprovisions of this Act or any other written law, for all or anyof the following matters:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      358.97,
+      383.86,
+      394.31
+    ],
+    "text": "(a)the classification of membership, admission,withdrawal, expulsion or resignation of membersand fees payable by the members;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      406.97,
+      383.9,
+      442.31
+    ],
+    "text": "(b)the election of the office bearers of the ExecutiveCommittee or vacation of or removal from office andthe powers, duties and functions of the office bearers;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      454.97,
+      383.86,
+      490.31
+    ],
+    "text": "(c)the appointment, powers, founctions and duties andthe terms and conditions of the various officers,agents and servants of the Corporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      502.97,
+      383.89,
+      574.31
+    ],
+    "text": "(d)the procedure to be followed at the summoningand holding of meetings of the ExecutiveCommittee, the Corporation or any sub-committeethereof, filling of vacancies, notices and agenda ofsuch meetings, the quorum and the conduct ofbusiness thereat;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      586.97,
+      383.88,
+      622.31
+    ],
+    "text": "(e)the qualifications and disqualifications for membersof the Executive Committee and the Corporation;and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      634.97,
+      383.9,
+      670.31
+    ],
+    "text": "(f)the administration and management of the propertyof the Corporation for the accomplishment of theobjects of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      276.91,
+      440.85,
+      295.58
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235.75,
+      166.81,
+      428.49,
+      201.16
+    ],
+    "text": "Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      166.97,
+      217.11,
+      178.31
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      215.45,
+      451.2,
+      250.79
+    ],
+    "text": "(2) Any rule made by the Corporation may be amended,altered, added to or rescinded at a like meeting and in likemanner, as a rule made under subsection (1) of this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      263.45,
+      451.18,
+      298.79
+    ],
+    "text": "(3) The members of the Corporation shall at all times besubject to the rules of the Corporation made under thissection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      311.45,
+      424.9,
+      322.79
+    ],
+    "text": "8.(1) The Corporation shall have its own fund.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      335.45,
+      451.23,
+      394.79
+    ],
+    "text": "(2) All moneys received by way of gift, bequest, donation,subscription, contribution, fees or grant for and on accountof the Corporation shall be deposited in one or more banksapproved by the Executive Committee to the credit of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      403.49,
+      451.19,
+      450.83
+    ],
+    "text": "(3) There shall be paid out of the Fund, all sums of moneyas are required to defray any expenditure incurred by theCorporation in the exercise, performance and discharge ofits powers, duties and functions under the Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      459.41,
+      451.18,
+      482.75
+    ],
+    "text": "9.(1) The financial year of the Corporation shall bethe calendar year.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      491.45,
+      451.19,
+      526.79
+    ],
+    "text": "(2) The Corporation shall cause proper accounts to bekept of its income and expenditure, assets and liabilitiesand all other transactions of the Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      535.49,
+      451.19,
+      582.83
+    ],
+    "text": "(3) The accounts of the Corporation shall be auditedannually by the Auditor General or a qualified auditorappointed by the Auditor General in terms of Article 154 ofthe Constitution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      591.41,
+      415.19,
+      602.75
+    ],
+    "text": "(4) In this section, \u201cqualified auditor\u201d means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      611.45,
+      451.18,
+      671.63
+    ],
+    "text": "(a)an individual who, being a member of the Instituteof Chartered Accountants of Sri Lanka or of anyother Institute established by law, possesses acertificate to practice as an Accountant, issued bythe Council of such Institute; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      311.95,
+      184.15,
+      330.62
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      461.11,
+      187.16,
+      479.78
+    ],
+    "text": "Accounts andAuditing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167.49,
+      166.81,
+      383.81,
+      200.92
+    ],
+    "text": "7Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.57,
+      215.69,
+      383.88,
+      287.03
+    ],
+    "text": "(b)a firm of Accountants, each of the resident partnersof which, being a member of the Institute ofChartered Accountants of Sri Lanka or of any otherInstitute established by law, who possesses acertificate to practice as an Accountant, issued bythe Council of such Institute.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      295.73,
+      383.9,
+      367.07
+    ],
+    "text": "10.All debts and liabilities of the Foundation existingon the day immediately preceding the date of commencementof this Act, shall be paid by the Corporation herebyconstituted and all debts due to subscriptions andcontributions payable to the Foundation on that day shallbe paid to the Corporation for the purposes of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      375.77,
+      383.91,
+      435.11
+    ],
+    "text": "11.No member of the Corporation shall, for the purposeof discharging the debts and liabilities of the Corporation, orfor any other purpose, be liable to make any contributionexceeding the amount of such membership fees as may bedue from time to time to the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      441.77,
+      383.89,
+      489.11
+    ],
+    "text": "12.(1) The Corporation shall be a non-profitorganization and no part of the gains, profits or dividends, ifany, of the Corporation shall be distributed among themembers of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      495.77,
+      383.9,
+      591.11
+    ],
+    "text": "(2) If upon the dissolution of the Corporation thereremains after the satisfaction of all its debts and liabilitiesany money or property, such money or property shall notbe distributed among the members of the Corporation, butshall be given or transferred to any other institution havingobjects similar to those of the Corporation, and which is bythe rules thereof prohibited from distributing any income orproperty among its members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      597.77,
+      383.91,
+      669.11
+    ],
+    "text": "13.The seal of the Corporation shall not be affixed toany instrument whatsoever, except in the presence of twomembers of the Executive Committee of the Corporationand who shall sign their names to the instrument in token oftheir presence and such signing shall be independent of thesigning of any person as a witness.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      378.19,
+      442.3,
+      406.46
+    ],
+    "text": "Limitation ofliability ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      444.19,
+      447.58,
+      482.06
+    ],
+    "text": "Corporation tobe anon-profitorganization.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      600.19,
+      440.85,
+      618.86
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      297.79,
+      452.14,
+      326.06
+    ],
+    "text": "Debts due byand payable tothe Foundation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      235.75,
+      166.81,
+      428.49,
+      201.16
+    ],
+    "text": "Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      166.97,
+      217.11,
+      178.31
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      214.97,
+      451.21,
+      298.31
+    ],
+    "text": "14. The Executive Committee shall prepare a report of theactivities of the Corporation for each financial year and submitsuch report together with the audited statement of accountsto the Secretary of the Ministry of the Minister assigned thesubject of Buddhasasana and Religious Affairs before theexpiration of six months of the year succeeding the year towhich such report relates.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      310.97,
+      451.17,
+      346.31
+    ],
+    "text": "15.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic orCorporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      358.97,
+      451.18,
+      394.31
+    ],
+    "text": "16.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      314.83,
+      186.43,
+      343.1
+    ],
+    "text": "Saving of therights of theRepublic.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      214.99,
+      193.15,
+      224.06
+    ],
+    "text": "Annual Report.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      360.79,
+      199.15,
+      389.06
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      167.49,
+      166.81,
+      383.81,
+      200.92
+    ],
+    "text": "9Hanguranketha Madanwala Rajamaha ViharaDevelopment Foundation (Incorporation)Act, No. 26 of 2013",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      632.23,
+      455.85,
+      671.17
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

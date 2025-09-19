@@ -1,0 +1,435 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.85,
+      383.33,
+      437.84,
+      432.42
+    ],
+    "text": "DEFENCE SERVICES COMMAND ANDSTAFF COLLEGE (AMENDMENT)ACT, No. 29 OF 2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.05,
+      478.69,
+      361.78,
+      489.76
+    ],
+    "text": "[Certified on 08th July, 2013]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.73,
+      670.24
+    ],
+    "text": "Price : Rs. 2.50Postage : Rs. 5.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of July 12, 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.49,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "1Defence Services Command andStaff College (Amendment) Act, No. 29 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      682.15,
+      259.3,
+      691.22
+    ],
+    "text": "2\u2014PL 007121\u20144090 (03/2013)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      325.03,
+      431.86,
+      334.1
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.77,
+      202.97,
+      325.06,
+      214.31
+    ],
+    "text": "[Certified on 08th July, 2013]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      226.97,
+      217.3,
+      238.31
+    ],
+    "text": "L.D.\u2014O. 17/2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.57,
+      250.97,
+      377.13,
+      274.31
+    ],
+    "text": "AN ACT TO AMEND THE DEFENCE SERVICES COMMAND AND STAFFCOLLEGE ACT, NO. 5 OF 2008",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      286.97,
+      383.91,
+      310.31
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      322.97,
+      383.89,
+      358.31
+    ],
+    "text": "1.This Act may be cited as the Defence ServicesCommand and Staff College (Amendment) Act, No. 29 of2013.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      370.97,
+      383.89,
+      430.31
+    ],
+    "text": "2.Section 7 of the Defence Services Command and StaffCollege Act, No. 5 of 2008 (hereinafter referred to as \u201ctheprincipal enactment\u201d) is hereby amended in subsection (1)of that section by the repeal of paragraph (f) of that subsectionand the substitution therefor, of the following paragraph:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.29,
+      442.97,
+      383.87,
+      466.31
+    ],
+    "text": "\u201c(f)the Vice-Chancellor of the General Sir JohnKotelawala Defence University;\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      478.97,
+      383.88,
+      526.31
+    ],
+    "text": "3.Section 15 of the principal enactment is herebyamended in subsection (1) of that section by the repeal ofparagraph (b) of that subsection and the substitution therefor,of the following paragraph:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.13,
+      538.97,
+      383.89,
+      574.31
+    ],
+    "text": "\u201c(b)a representative nominated by the Vice-Chancellorof the General Sir John Kotelawala DefenceUniversity;\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      586.97,
+      383.9,
+      610.31
+    ],
+    "text": "4.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      371.11,
+      450.58,
+      408.98
+    ],
+    "text": "Amendment ofsection 7 of theAct, No. 5 of2008.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      479.11,
+      455.14,
+      516.98
+    ],
+    "text": "Amendment ofsection 15 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      588.19,
+      455.85,
+      616.46
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      427.54,
+      190.24
+    ],
+    "text": "2Defence Services Command andStaff College (Amendment) Act, No. 29 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

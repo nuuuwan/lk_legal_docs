@@ -1,0 +1,2422 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      176.13,
+      396.77,
+      423.6,
+      429.06
+    ],
+    "text": "TAX APPEALS COMMISSION(AMENDMENT) ACT, No. 20 OF 2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      236.49,
+      478.69,
+      363.22,
+      489.76
+    ],
+    "text": "[Certified on 24th April, 2013]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 10.00Postage : Rs. 15.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of April 26, 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "1Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      687.19,
+      259.3,
+      696.26
+    ],
+    "text": "2\u2014PL 007104\u20144090 (03/2013)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      289.51,
+      432.58,
+      298.58
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.85,
+      203.09,
+      326.86,
+      214.43
+    ],
+    "text": "[Certified on 24th April, 2013]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      227.69,
+      220.29,
+      239.03
+    ],
+    "text": "L.D.\u2014O. (9/2013).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.49,
+      252.29,
+      354.2,
+      275.99
+    ],
+    "text": "AN ACT TO AMEND THE TAX APPLEALS COMMISSIONACT, NO. 23 OF 2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      289.25,
+      383.9,
+      312.83
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      326.09,
+      383.86,
+      349.79
+    ],
+    "text": "1.This Act may be cited as the Tax Appeals Commission(Amendment) Act, No. 20 of 2013.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      363.05,
+      383.9,
+      423.59
+    ],
+    "text": "2. Section 2 of the Tax Appeals Commission Act,No. 23 of 2011 (hereinafter referred to as the \u201cprincipalenactment\u201d) as last amended by the Tax Appeals Commission(Amendment) Act, No.4 of 2012 is hereby further amendedas follows:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      436.85,
+      383.88,
+      497.39
+    ],
+    "text": "(1)in subsection (2) thereof, by the substitution for thewords \u201cnot more than three members one of whomshall be\u201d and the words \u201ctwo other members\u201d of thewords \u201cnot more than nine members three of whomshall be\u201d and \u201csix other members\u201d respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.57,
+      510.65,
+      383.88,
+      534.23
+    ],
+    "text": "(2)by the addition, immediately after subsection (2)thereof of the following new subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.85,
+      547.49,
+      383.9,
+      620.39
+    ],
+    "text": "\u201c(2A) The Chairman of the Commission shallconstitute three panels comprising three memberseach, from among the members appointed undersubsection (2) one of whom shall be a Judge asspecified in subsection (2) to hear and determineany matter before the Commission.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      633.65,
+      383.88,
+      669.59
+    ],
+    "text": "3.Section 5 of the principal enactment is herebyamended by the substitution for the words \u201cshall be fivemembers.\u201d of the words \u201cshall be seven members.\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      327.91,
+      450.58,
+      384.98
+    ],
+    "text": "Amendment ofsection 2 of theTax AppealsCommissionAct, No.23 of2011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.81,
+      635.23,
+      451.54,
+      671.78
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "2Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      203.09,
+      451.17,
+      239.03
+    ],
+    "text": "4.Section 7 of the principal enactment as last amendedby the Tax Appeals Commission (Amendment) Act, No.4 of2012 is hereby further amended as follows:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      252.29,
+      451.16,
+      275.99
+    ],
+    "text": "(1)by the repeal of subsection (1) thereof and thesubstitution therefor of the following:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      289.25,
+      451.14,
+      312.83
+    ],
+    "text": "\u201c(1) A person who is aggrieved by thedetermination \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      262.87,
+      326.09,
+      451.19,
+      435.83
+    ],
+    "text": "(a)of the Commissioner-General of InlandRevenue appointed in terms of the InlandRevenue Act, (hereinafter referred to as the\u201cCommissioner-General\u201d) given inrespect of any matter relating to impositionof any tax, levy, charge, duty or penaltyunder the provisions of any of theenactments specified in Column I ofSchedule I, or Schedule II to this Act; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      262.87,
+      449.09,
+      451.19,
+      509.63
+    ],
+    "text": "(b)of the Director-General of Customs(hereinafter referred to as the \u201cDirector-General\u201d) given in respect of any matterspecified in subsection (1A) of section 10of the Customs Ordinance (Chapter 235),",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      522.89,
+      451.19,
+      546.59
+    ],
+    "text": "may appeal to the Commission in accordance withthe provisions hereinafter set out:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      559.85,
+      451.19,
+      632.63
+    ],
+    "text": "Provided that, every person who wishes toappeal to the Commission under paragraph (a)shall, at the time of making of such appeal, berequired to pay into a special account which shallbe opened and operated by the Commission forsuch purpose, an amount-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      262.87,
+      645.89,
+      451.15,
+      669.59
+    ],
+    "text": "(a)as is equivalent to ten per centum which isnon-refundable; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      203.11,
+      193.88,
+      240.98
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "3Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.57,
+      202.97,
+      383.88,
+      274.31
+    ],
+    "text": "(b)as is equivalent to twenty five per centumwhich is refundable subject to subsection(1A) of this section or a bank guarantee forthe equivalent amount which shall remainvalid until the appeal is determined by theCommission,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      286.97,
+      383.88,
+      334.31
+    ],
+    "text": "of the sum as assessed by the Commissioner-Generalas being payable by such person as tax, levy, charge,duty or penalty under any of the said enactmentsand which assessment is the subject of the appeal.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      346.97,
+      383.89,
+      370.31
+    ],
+    "text": "(2)by the insertion immediately after subsection (1)thereof, of the following new subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182.85,
+      382.97,
+      383.89,
+      502.31
+    ],
+    "text": "\u201c(1A) (a) The amount referred to in paragraph(a) or (b) of the proviso to subsection (1), as thecase may be, shall be transferred to theCommissioner-General upon the determination ofthe respective appeal to which such amount isapplicable and which shall be set off against thesum as assessed by the Commissioner-General asbeing payable by such person as tax, levy, charge,duty or penalty under any of the said enactmentsand which assessment is the subject of the appeal.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182.85,
+      514.97,
+      383.9,
+      598.31
+    ],
+    "text": "(b)Any excess of the amount referred to inparagraph (b) of the proviso to subsection (1), maybe set off against the taxes due and which areadministrated by the Commissioner-General.Where any balance if any of such amount shall berefunded to the appellant on request made in thatbehalf in writing to the Commissioner-General.\u201d;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      610.97,
+      383.9,
+      670.31
+    ],
+    "text": "(3)in subsection (2) of that section, by the substitutionfor the words and figures \u201cspecified in Column I ofSchedule I and Schedule II to this Act\u201d of the wordsand figures \u201cspecified in paragraphs (a) and (b) ofsubsection (1) of section 7 \u201d;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "4Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      202.97,
+      451.17,
+      261.23
+    ],
+    "text": "(4) in subsection (3) of that section, by the substitutionfor the words \u201cnotification to the Commissioner-General\u201d of the words \u201cnotification to theCommissioner-General or the Director-General, asthe case may be.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      273.29,
+      451.17,
+      319.67
+    ],
+    "text": "5.Section 8 of the principal enactment as last amendedby the Tax Appeals Commission (Amendment) Act, No. 4 of2012 is hereby repealed and the following is substitutedtherefor :-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      331.73,
+      451.16,
+      354.83
+    ],
+    "text": "8. (1) Any person aggrieved by thedetermination of\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.87,
+      366.89,
+      451.18,
+      413.27
+    ],
+    "text": "(a)the Commissioner-General, inrespect of any matter relating to theimposition of any tax, levy, charge,duty or penalty; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.87,
+      425.33,
+      451.16,
+      460.07
+    ],
+    "text": "(b)the Director-General undersubsection (1B) of section 10 of theCustoms Ordinance (Chapter 235),",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      472.13,
+      451.22,
+      530.27
+    ],
+    "text": "may if he is dissatisfied with the reasons statedby the Commissioner-General or the Director-General, as the case may be, prefer the appealtherefrom to the Commission within thirty daysfrom the date of receipt of such reasons; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      542.33,
+      451.19,
+      623.87
+    ],
+    "text": "(2) Where the Director-General fails to givesuch determination within the time periodspecified in subsection (1B) of section 10 ofthe said Ordinance, such person also mayappeal to the Commission at the expiration ofthe time period specified in subsection (1B) ofsection 10 of the said Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      265.15,
+      635.93,
+      451.18,
+      670.67
+    ],
+    "text": "(3) The manner and the form of submittingsuch appeal, the procedure to be followed bythe Commission in the hearing and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      274.15,
+      193.88,
+      321.62
+    ],
+    "text": "Repeal andreplacement ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      332.71,
+      257.59,
+      370.58
+    ],
+    "text": "\u201cProcedureforpreferring anappeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "5Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      202.61,
+      383.89,
+      248.39
+    ],
+    "text": "determining of such appeal and the fees if anyin respect thereof shall be determined by theCommission by rules made, from time to time,in that behalf.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      258.65,
+      383.87,
+      292.91
+    ],
+    "text": "6.Section 9 of the principal enactment as last amendedby the Tax Appeals Commission (Amendment) Act, No.4 of2012 is hereby further amended as follows:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.97,
+      303.05,
+      383.89,
+      348.95
+    ],
+    "text": "(1)in subsection (1) thereof, by the substitution for thewords \u201cto the Commissioner-General.\u201d of the words\u201cto the Commissioner-General or the Director-General, as the case may be.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.97,
+      359.09,
+      383.9,
+      473.87
+    ],
+    "text": "(2)in subsection (2) thereof, by the substitution for thewords \u201cThe Commissioner-General shall\u201d and thewords and figures \u201cspecified in Column I ofSchedule I and Schedule II to this Act\u201d, of thewords \u201cThe Commissioner-General or the Director-General, as the case may be, shall\u201d and the wordsand figures \u201cspecified in Column I of Schedule I orSchedule II to this Act or any applicable provisionsof the Customs Ordinance (Chapter 235), as thecase may be,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.97,
+      484.13,
+      383.88,
+      506.87
+    ],
+    "text": "(3)by the repeal of subsection (4) thereof and thesubstitution therefor of the following:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.85,
+      517.13,
+      383.87,
+      585.95
+    ],
+    "text": "\u201c(4) (a) in respect of an appeal under paragraph(a) of subsection (1) of section 7, theAssessor who made the assessmentappealed aginst or a person authorizedby the Commissioner-General in thatbehalf; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.57,
+      594.05,
+      383.87,
+      639.95
+    ],
+    "text": "(b) in respect of an appeal under paragraph(b) of subsection (1) of section 7, anyofficer authorized by the Director-General in that behalf,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.85,
+      648.05,
+      383.89,
+      671.27
+    ],
+    "text": "Shall attend the hearing of the Commission at whichsuch appeal is heard, in support of the determination",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      257.71,
+      450.58,
+      295.58
+    ],
+    "text": "Amendment ofsection 9 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "6Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.15,
+      202.61,
+      451.16,
+      225.47
+    ],
+    "text": "of the Commissioner-General or the Director-General, as the case may be.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.27,
+      235.61,
+      451.16,
+      292.91
+    ],
+    "text": "(4)in subsection (5) thereof, by the substitution for thewords and figures \u201cspecified in Column I ofSchedule I and Schedule II to this Act,\u201d of the words\u201cspecified in Column I of Schedule I or Schedule IIto this Act,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.27,
+      303.05,
+      451.17,
+      348.95
+    ],
+    "text": "(5)in subsection (8) thereof, by the substitution for thewords \u201cCommissioner-General\u201d wherever thosewords appear of the words \u201cCommissioner-Generalor the Director-General, as the case may be,\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.27,
+      359.09,
+      451.18,
+      427.91
+    ],
+    "text": "(6)in subsection (10) thereof, by the substitution forthe words \u201cas stated in the decision of theCommission. The decision of the Commission shallbe notified to the appellant and the Commissioner-General in writing.\u201d of the words \u201cas stated in thedecision of the Commission.\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.27,
+      437.09,
+      451.2,
+      459.95
+    ],
+    "text": "(7)by the addition immediately after subsection (10)thereof the following:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.15,
+      469.13,
+      451.19,
+      514.91
+    ],
+    "text": "\u201c(11) The decision of the Commission shall befinal and be notified to the appellant, and theCommissioner-General or the Director-General asthe case may be.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      526.61,
+      451.19,
+      583.91
+    ],
+    "text": "7.Section 10 of the principal enactment as last amendedby the Tax Appeals Commission (Amendment) Act, No.4 of2012 is hereby amended by the substitution for all the wordscommencing from \u201ctwo hundred and seventy days\u201d to theend of that section, of the following:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      241.15,
+      593.09,
+      451.19,
+      627.47
+    ],
+    "text": "\u201ctwo hundred and seventy days from the date of thecommencement of its sittings for the hearing of eachsuch appeal:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      241.15,
+      636.53,
+      451.19,
+      671.27
+    ],
+    "text": "Provided that, all appeals pending before therespective Board or Boards of Review in terms of theprovisions of the respective enactments specified in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      527.23,
+      198.44,
+      565.1
+    ],
+    "text": "Amendment ofsection 10 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      185.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "7Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.85,
+      202.61,
+      383.9,
+      340.43
+    ],
+    "text": "Column I of Schedule I, or Schedule II to this Act,notwithstanding the fact that such provisions areapplicable to different taxable periods as specifiedtherein shall with effect from the date of cominginto operation of the provision of this Act be deemedto stand transferred to the Commission, and theCommission shall notwithstanding anythingcontained in any other written law make itsdetermination in respect thereof, within twenty fourmonths from the date on which the Commission shallcommence its sittings for the hearing of each suchappeal.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      349.61,
+      383.89,
+      383.99
+    ],
+    "text": "8.The following new section is hereby insertedimmediately after section 11 of the principal enactment andshall have effect as section 11A of that enactment:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      390.05,
+      383.92,
+      573.95
+    ],
+    "text": "11A. (1) Either the person who preferred anappeal to the Commission under paragraph (a)of subsection (1) of section 7 of this Act(hereinafter in this Act referred to as the\u201cappellant\u201d) or the Commissioner-General maymake an application requiring the Commissionto state a case on a question of law for theopinion of the Court of Appeal. Suchapplication shall not be entertained unless it ismade in writing and delivered to the secretaryto the Commission, together with a fee of onethousand and five hundred rupees, within onemonth from the date on which the decision ofthe Commission was notified in writing to theCommissioner-General or the appellant, as thecase may be.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.85,
+      580.13,
+      383.89,
+      672.11
+    ],
+    "text": "(2) The case stated by the Commission shallset out the facts, the decision of the Commission,and the amount of the tax in dispute where suchamount exceeds five thousand rupees, and theparty requiring the Commission to state suchcase shall transmit such case, when stated andsigned to the Court of Appeal, within fourteendays after receiving the same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      349.75,
+      454.29,
+      387.62
+    ],
+    "text": "Insertion of newsection 11A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      391.15,
+      189.58,
+      438.62
+    ],
+    "text": "\u201cAppeals ona question oflaw to theCourt ofAppeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "8Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.15,
+      202.61,
+      451.17,
+      236.99
+    ],
+    "text": "(3) For the purpose of the application of theprovisions of the Stamp Duty Act, No. 43 of1982 \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      286.87,
+      247.13,
+      451.18,
+      373.43
+    ],
+    "text": "(a)all proceedings before the Court ofAppeal on any case stated under thissection or incidental to the hearing,determination or disposal of anysuch case, shall be deemed to be civilproceedings before the Court ofAppeal of the value of five thousandrupees or of such greater amount asis set out by the Commission in thestated case as the amount of the taxin dispute;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      286.87,
+      385.13,
+      451.17,
+      453.95
+    ],
+    "text": "(b)every such case stated shall, togetherwith all books, documents andpapers annexed thereto by theCommission, be deemed to be asingle exhibit in civil proceedingsbefore the Court of Appeal; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      287.71,
+      465.53,
+      451.18,
+      534.47
+    ],
+    "text": "(c)the Commissioner-General, if he isthe appellant, shall be deemed to bea Government officer suing, or if heis the respondent to the appeal, aGovernment officer being sued, in asuit virtue offcii.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.15,
+      546.05,
+      451.19,
+      614.87
+    ],
+    "text": "(4) At or before the time when he transmitsthe stated case to the Court of Appeal, the partyrequiring it shall send to the other party, anotice in writing informing him that a case hasbeen stated on his application and shall supplyhim with a copy of the stated case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      265.15,
+      626.57,
+      451.19,
+      673.19
+    ],
+    "text": "(5) Any two or more Judges of the Court ofAppeal may cause a stated case to be sent backto the Commission for amendment, and theCommission shall amend the case accordingly.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      185.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "9Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      203.21,
+      383.87,
+      350.99
+    ],
+    "text": "(6) Any two or more Judges of the Court ofAppeal may hear and determine any questionof law arising on the stated case and may inaccordance with the decision of Court uponsuch question, confirm, reduce, increase orannul the assessment determined by theCommission, or may remit the case to theCommission with the opinion of the Court,thereon. Where a case is so remitted by theCourt, the Commission shall revise theassessment in accordance with the opinion ofthe Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      364.37,
+      383.89,
+      450.11
+    ],
+    "text": "(7) The Court of Appeal may, pending thedetermination of the case stated to such Court,make an interim determination as regards theamount of tax recoverable by theCommissioner-General in respect of theamount of tax in dispute, on the basis of a reportfurnished by the Commissioner-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      463.61,
+      383.9,
+      524.51
+    ],
+    "text": "(8) In any proceedings before the Court ofAppeal under this section, the Court may makesuch order in regard to costs in the Court ofAppeal and in regard to the sum paid undersubsection (1), as the Court may deem fit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      197.85,
+      538.01,
+      383.91,
+      636.11
+    ],
+    "text": "(9) For the purposes of enabling theCommissioner- General or any other party toappeal to the Supreme Court against any orderof the Court of Appeal under subsection (6),and for the purpose of the application of theprovisions of any written law relating to appealsto the Supreme Court from the decisions of theCourt of Appeal \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      207.09,
+      649.61,
+      383.88,
+      673.31
+    ],
+    "text": "(a)an order made by the Court of Appealunder subsection (6) shall, together",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "10Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      295.15,
+      202.97,
+      451.19,
+      262.31
+    ],
+    "text": "with any order of that Court undersubsection (8), be deemed to be a finaljudgment of the Court of Appeal in acivil action between the Commissioner-General and such other party;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      274.39,
+      274.97,
+      451.19,
+      310.31
+    ],
+    "text": "(b)the value of the matter in dispute insuch civil action shall be deemed to befive thousand rupees:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      295.15,
+      322.97,
+      451.18,
+      418.31
+    ],
+    "text": "Provided that, where theCommission in the stated case, setout an amount higher than fivethousand rupees as the amount ofthe tax in dispute, the value of thematter in dispute in such civil actionshall be deemed to be that higheramount; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      275.11,
+      430.97,
+      451.18,
+      490.31
+    ],
+    "text": "(c)in respect of any such appeal, theCommissioner-General shall not berequired to make any deposit or payany fee or furnish any securityprescribed by such written law.\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      502.97,
+      451.21,
+      538.31
+    ],
+    "text": "9. Section 13 of the principal enactment is herebyamended by the repeal of that section and the substitutiontherefor of the following:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      265.15,
+      550.97,
+      451.19,
+      622.31
+    ],
+    "text": "13. The provisions of the enactmentsspecified in Column I of Schedule I are herebyamended or repealed in the sections or partsthereof as are specified in Column II of thatSchedule to the extent and in the manner asshall be specified therein.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      634.97,
+      451.16,
+      658.31
+    ],
+    "text": "10.Section 13A of the principal enactment is herebyrepealed.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      504.79,
+      198.44,
+      542.66
+    ],
+    "text": "Replacement ofsection 13 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.15,
+      551.11,
+      244.15,
+      560.18
+    ],
+    "text": "\u201cRepeals.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      636.43,
+      190.87,
+      672.74
+    ],
+    "text": "Repeal ofsection 13A ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      185.61,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "11Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      203.33,
+      383.88,
+      239.63
+    ],
+    "text": "11.The following new section is hereby insertedimmediately after section 13 of the principal enactment andshall have effect as section 13A of that enactment:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      197.85,
+      253.25,
+      383.84,
+      277.19
+    ],
+    "text": "13A. For the purposes of this Act, unless thecontext otherwise requires\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      209.85,
+      290.81,
+      383.88,
+      327.11
+    ],
+    "text": "\u201cAssessor\u201d shall have the same meaning asassigned to it in the Inland RevenueAct;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      209.85,
+      340.85,
+      383.88,
+      414.59
+    ],
+    "text": "\u201cInland Revenue Act\u201d means the InlandRevenue Act, No. 10 of 2006 andincludes where necessary andappropriate, the Inland Revenue Act,No. 28 of 1979 and Inland RevenueAct, No. 38 of 2000.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      428.33,
+      383.9,
+      464.63
+    ],
+    "text": "12.The Schedule I of the principal enactment is herebyrepealed and the following new Schedule is substitutedtherefor:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      243.21,
+      493.15,
+      284.5,
+      502.22
+    ],
+    "text": "\u201cSchedule I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      174.81,
+      514.43,
+      329.86,
+      523.29
+    ],
+    "text": "Column IColumn II",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      153.81,
+      535.67,
+      352.65,
+      544.53
+    ],
+    "text": "Names of EnactmentsApplicable Amendment",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.29,
+      567.31,
+      383.85,
+      586.94
+    ],
+    "text": "(a)by the repeal of sections 166, 167,168, 169 and 170; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      244.29,
+      599.11,
+      383.87,
+      671.78
+    ],
+    "text": "(b)by the substitution in subsection(2) and (3) of section 172 thereoffor the words \u201cBoard of Review\u201dof the words and figures \u201cTaxAppeal Commission established bythe Tax Appeals Commission Act,No.23 of 2011\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      146.85,
+      566.11,
+      224.86,
+      584.78
+    ],
+    "text": "1. Inland Revenue Act,No. 10 of 2006",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      203.11,
+      454.29,
+      240.98
+    ],
+    "text": "Insertion of newsection 13A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      253.51,
+      192.83,
+      262.58
+    ],
+    "text": "\u201cInterpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.85,
+      428.71,
+      450.58,
+      466.58
+    ],
+    "text": "Replacement ofSchedule 1 ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "12Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      311.71,
+      202.75,
+      451.15,
+      220.58
+    ],
+    "text": "(a)by the repeal of sections 137, 138,139, 140 and 141 ; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      311.71,
+      227.11,
+      451.17,
+      287.78
+    ],
+    "text": "(b)by the substitution in subsection(2) and (3) of section 143 thereoffor the words \u201cBoard of Review\u201dof the words \u201cTax AppealsCommission established by the TaxAppeals Commission Act, No.23of 2011\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      311.71,
+      294.31,
+      451.15,
+      312.02
+    ],
+    "text": "(a)by the repeal of sections 118, 119,120, 121 and 122 ; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      311.71,
+      318.55,
+      451.17,
+      379.22
+    ],
+    "text": "(b)by the substitution in subsection(2) and (3) of section 124 thereoffor the words \u201cBoard of Review\u201dof the words \u201cTax AppealCommission established by the TaxAppeals Commission Act, No.23of 2011\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      331.15,
+      385.75,
+      451.17,
+      394.82
+    ],
+    "text": "by the repeal of sections 35 and 36",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      331.15,
+      412.27,
+      451.17,
+      479.78
+    ],
+    "text": "Section 8 is hereby amended bythe substitution for the words andfigures \u201cChapter XXII relating toappeals other than sections 166,167, 168 and 169 of the words andfigures \u201cChapter XXIII relating toappeals other than sections 166,167, 168, 169 and 170.\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      331.15,
+      486.31,
+      451.18,
+      544.94
+    ],
+    "text": "Section 11 is hereby amended bythe substitution for the words\u201crelating respectively to appeals\u201dof the words and figures \u201crelatingrespectively to appeals other thanthe provisions in sections 166, 167,168, 169 and 170\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      331.15,
+      551.47,
+      451.17,
+      671.06
+    ],
+    "text": "Section 11 of the Stamp Duty(Special Provisions) Act is herebyamended by the substitution for thewords \u201cChapters XVIII to XXIVof the Inland Revenue Act relatingto Assessment, Appeals,Determination of Appeals\u201d of thewords \u201cChapters XVIII to XXIVof the Inland Revenue Act relatingto Assessments, Appeals,Determination of Appeals, otherthan sections 166, 167, 168, 169and 170 relating to appeals toBoard of Review\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      214.15,
+      549.31,
+      293.59,
+      577.58
+    ],
+    "text": "5. Stamp Duty (SpecialProvisions) Act, No.12 of 2006.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      214.15,
+      483.19,
+      293.6,
+      511.46
+    ],
+    "text": "4. Economic ServiceCharge Act, No.13of 2006",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      214.15,
+      412.15,
+      293.6,
+      430.82
+    ],
+    "text": "3. Nation Building TaxAct, No.9 of 2009",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      224.11,
+      203.11,
+      293.59,
+      221.78
+    ],
+    "text": "Inland Revenue Act,No.38 of 2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      224.11,
+      295.15,
+      293.59,
+      313.82
+    ],
+    "text": "Inland Revenue Act,No.28 of 1979",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      214.15,
+      385.39,
+      293.6,
+      402.98
+    ],
+    "text": "2. Value Added TaxAct, No.14 of 2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      185.61,
+      166.97,
+      383.85,
+      190.24
+    ],
+    "text": "13Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      202.97,
+      383.88,
+      238.31
+    ],
+    "text": "13.Schedule II of the principal enactment is herebyamended by the insertion immediately after item 2, of thefollowing:-",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      182.85,
+      250.97,
+      319.29,
+      262.31
+    ],
+    "text": "\u201c3.Finance Act, No.11 of 2004.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187.29,
+      274.97,
+      338.13,
+      286.31
+    ],
+    "text": "4.Debits Tax Act, No.16 of 2002.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      298.97,
+      383.96,
+      370.31
+    ],
+    "text": "14.(1) The amendments made to the principal enactment[other than the amendments made to section 2, the provisoto subsection (1) of section 7 and the amendments made inrelation to the appeals under the Customs Ordinance(Chapter 235)] by the provisions of this Act shall be deemedfor all purposes to have come into force on April 1, 2011.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      382.97,
+      383.96,
+      478.31
+    ],
+    "text": "(2) The amendment made to section 2 of the principalenactment by the Tax Appeals Commission Act, No.4 of2012 shall be deemed for all purposes to have come intoforce on March 31, 2011 and any act or decision made bythe Commission during the period commencing on March31, 2011 up to the date of coming into operation of this Actshall be deemed to have for all purposes to have been validlymade.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      490.97,
+      383.91,
+      586.31
+    ],
+    "text": "15.For the avoidance of doubts, it is hereby declared,that the Commission shall have the power in accordancewith the provisions of the principal enactment as amendedby this Act, to hear and determine any appeal that was deemedtransferred to the Commission under section 10 of theprincipal enactment, notwithstanding the expiry of thetwelve months granted for its determination by that sectoin,prior to its amindment by this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      598.97,
+      383.88,
+      634.31
+    ],
+    "text": "16.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      599.11,
+      455.85,
+      627.38
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      492.43,
+      443.86,
+      511.1
+    ],
+    "text": "Avoidance ofdoubts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      204.19,
+      455.85,
+      242.06
+    ],
+    "text": "Amendment ofShedule II of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      395.85,
+      299.95,
+      443.13,
+      318.62
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      211.15,
+      166.97,
+      409.89,
+      190.24
+    ],
+    "text": "14Tax Appeals Commission (Amendment)Act, No. 20 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.05,
+      381.77,
+      427.72,
+      430.86
+    ],
+    "text": "LOCAL AUTHORITIES FILLING OFVACANCIES (SPECIAL PROVISIONS)ACT, No. 30 OF 2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.05,
+      478.69,
+      361.78,
+      489.76
+    ],
+    "text": "[Certified on 12th July, 2013]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 2. 50Postage : Rs. 5. 00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of July 12, 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "1Local Authorities Filling of Vacancies(Special Provisions) Act, No. 30 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      681.13,
+      261.57,
+      692.2
+    ],
+    "text": "2\u2014PL 007411\u2014 4090 (07/2013)",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      352.03,
+      431.86,
+      361.1
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.77,
+      202.61,
+      324.95,
+      213.95
+    ],
+    "text": "[Certified on 12th July, 2013]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      225.65,
+      219.58,
+      236.99
+    ],
+    "text": "L.D.\u2014O. 31/2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      248.57,
+      383.85,
+      271.43
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE FILLING OF VACANCIES IN THE OFFICE OFMAYOR, DEPUTY MAYOR OR A MEMBER OF LOCAL AUTHORITIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      271.61,
+      383.85,
+      294.47
+    ],
+    "text": "ELECTED UNDER THE LOCAL AUTHORITIES ELECTIONS ORDINANCE(CHAPTER 262); AND FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.85,
+      294.65,
+      227.83,
+      305.99
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      316.13,
+      383.9,
+      338.99
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      350.57,
+      383.87,
+      373.43
+    ],
+    "text": "1.This Act may be cited as the Local Authorities Fillingof Vacancies (Special Provisions) Act, No. 30 of 2013.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      385.13,
+      383.9,
+      499.91
+    ],
+    "text": "2.For the purpose of filling of a vacancy in the office ofMayor, Deputy Mayor or a Member, elected to any localauthority under the provisions of the Local AuthoritiesElections Ordinance (Chapter 262), which were in operationon the date immediately preceding the date of coming intooperation of the Local Authorities Elections (Amendment)Act, No. 22 of 2012, the provisions of the said Ordinance,shall apply to and in relation to the filling of such vacancies,notwithstanding the repealing or amendment of the relevantprovisions by the Act, No. 22 of 2012:",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      510.05,
+      383.9,
+      567.47
+    ],
+    "text": "Provided however that, where a vacancy occurs in theoffice of Mayor in the circumstances specified in subsection(4) of section 66B, inserted in the said Ordinance by the Act,No. 22 of 2012, then the provisions of that subsection shallapply in relation thereto.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      579.05,
+      383.88,
+      613.43
+    ],
+    "text": "3.The provisions of this Act shall be in operation for aperiod of four years commencing from the date ofcommencement of this Act.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      625.13,
+      383.89,
+      670.91
+    ],
+    "text": "4.Any vacancy in the office of Mayor, Deputy Mayoror Member, filled during the period commencing fromJanuary 1, 2013 and ending on the date of commencementof this Act in terms of the provisions of the Local Authorities",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      385.63,
+      447.57,
+      471.5
+    ],
+    "text": "Filling ofvacancies ofMayor etc.elected underthe LocalAuthoritiesElectionsOrdinance(Chapter 262).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      582.19,
+      450.57,
+      600.86
+    ],
+    "text": "Duration of theAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      626.11,
+      434.86,
+      635.18
+    ],
+    "text": "Validation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      412.89,
+      190.24
+    ],
+    "text": "2Local Authorities Filling of Vacancies(Special Provisions) Act, No. 30 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      202.97,
+      451.2,
+      262.31
+    ],
+    "text": "Elections Ordinance (Chapter 262) which were in operationon the date immediately preceding the date of coming intoopreation of the Local Authorities Elections (Amendment)Act, No. 22 of 2012 shall be deemed to have been validlyfilled.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.15,
+      274.97,
+      292.99,
+      286.31
+    ],
+    "text": "5.In this Act\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.15,
+      298.97,
+      451.19,
+      334.31
+    ],
+    "text": "\u201cDeputy Mayor\u201d means the Deputy Mayor of aMunicipal Council or the Vice-Chairman of anUrban Council or a Pradeshiya Sabha; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.15,
+      346.97,
+      451.18,
+      382.31
+    ],
+    "text": "\u201cMayor\u201d means the Mayor of a Municipal Councilor the Chairman of an Urban Council or aPradeshiya Sabha.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      394.97,
+      451.2,
+      418.31
+    ],
+    "text": "6.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      396.79,
+      199.15,
+      425.06
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      276.55,
+      190.16,
+      285.62
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      182.61,
+      166.97,
+      383.69,
+      190.24
+    ],
+    "text": "3Local Authorities Filling of Vacancies(Special Provisions) Act, No. 30 of 2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      632.23,
+      455.85,
+      671.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
