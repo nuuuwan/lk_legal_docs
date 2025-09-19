@@ -1,20 +1,20 @@
 {
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
-  "doc_class_description": "A Bill in Sri Lanka is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-09-19 17:40:45",
+  "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
+  "time_updated": "2025-09-19 18:15:45",
   "n_docs": 4056,
-  "n_docs_with_pdfs": 32,
-  "n_docs_with_text": 32,
+  "n_docs_with_pdfs": 33,
+  "n_docs_with_text": 33,
   "date_str_min": "2010-05-10",
   "date_str_max": "2025-09-18",
-  "dataset_size": 51239394,
+  "dataset_size": 55917640,
   "url_source": "https://documents.gov.lk/view/bills/bl_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
