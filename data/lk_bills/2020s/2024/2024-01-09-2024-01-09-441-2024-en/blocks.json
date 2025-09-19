@@ -1,0 +1,710 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      236.98,
+      442.53,
+      293.53
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      304.97,
+      330.68,
+      316.31
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      571.01,
+      195.45,
+      582.35
+    ],
+    "text": "[Bill No. 229]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      554.57,
+      330.68,
+      565.91
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.45,
+      475.13,
+      421.93,
+      500.92
+    ],
+    "text": "Presented by the Minister of Finance,Economic Stabilizationand National Policies on 09th of January, 2024",
+    "fonts": [
+      "NewYork",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.09,
+      513.65,
+      395.37,
+      524.99
+    ],
+    "text": "(Published in the Gazette on November 10, 2023)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      537.65,
+      369.36,
+      548.99
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      374.31,
+      299.27,
+      387.92
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      398.67,
+      309.81,
+      412.28
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      588.67,
+      394.65,
+      597.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      598.27,
+      398.61,
+      607.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      615.29,
+      451.18,
+      626.63
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 150.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.09,
+      688.59,
+      169.65,
+      702.2
+    ],
+    "text": "2-2d",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.13,
+      629.31,
+      78.57,
+      642.59
+    ],
+    "text": "2-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      663.07,
+      340.89,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.69,
+      125.43,
+      143.13,
+      138.71
+    ],
+    "text": "Ww",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.09,
+      84.75,
+      174.81,
+      98.03
+    ],
+    "text": "ws",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.65,
+      331.45,
+      394.64,
+      347.32
+    ],
+    "text": "MORTGAGE (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.89,
+      429.89,
+      381.44,
+      441.23
+    ],
+    "text": "to amend the Mortgage Act (Chapter 89)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      454.37,
+      330.68,
+      465.71
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230.11,
+      255.97,
+      369.68,
+      267.04
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.83,
+      277.57,
+      455.88,
+      324.21
+    ],
+    "text": "Clause 2 : This clause inserts the new section 68A in the Mortgage Act (Chapter 89),and the legal effect of that section is to limit the applicability of Part III of the MortgageAct, in relation to movable property upon coming into operation of the SecuredTransactions Act, No. of 2023.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      395.85,
+      167.17,
+      400.85,
+      178.24
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      195.13,
+      226.53,
+      206.2
+    ],
+    "text": "L.D.- O. 65/2017",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181.05,
+      219.13,
+      383.61,
+      230.2
+    ],
+    "text": "AN ACT TO AMEND THE MORTGAGE ACT (CHAPTER 89)",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      243.85,
+      401.88,
+      267.88
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      282.85,
+      401.87,
+      306.88
+    ],
+    "text": "1. (1) This Act may be cited as the Mortgage(Amendment) Act, No. of 2024.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      321.85,
+      401.86,
+      358.84
+    ],
+    "text": "(2) The provisions of this Act, other than the provisionsof this section, shall come into operation on such date as theMinister may appoint by Order published in the Gazette.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      373.81,
+      401.86,
+      410.92
+    ],
+    "text": "(3) The provisions of this section shall come intooperation on the date on which the Bill becomes an Act ofParliament.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      425.77,
+      401.88,
+      475.84
+    ],
+    "text": "2. The following new section is hereby insertedimmediately after section 68 of the Mortgage Act(Chapter 89) and shall have effect as section 68A of thatenactment :-",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217.89,
+      490.81,
+      401.89,
+      579.88
+    ],
+    "text": "68A. The provisions of Part III of this Act,shall only apply to any movable property in sofar as they are not inconsistent with theprovisions of the Secured Transactions Act,No. of 2023, from and after the date of cominginto operation of the said Secured TransactionsAct.\u2019\u2019.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.81,
+      594.73,
+      401.88,
+      618.88
+    ],
+    "text": "3. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      409.65,
+      286.31,
+      448.66,
+      314.37
+    ],
+    "text": "Short titleand date ofoperation",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.09,
+      596.27,
+      455.14,
+      635.61
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      427.07,
+      449.85,
+      464.73
+    ],
+    "text": "Insertion ofnew section68A inChapter 89",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163.89,
+      490.69,
+      210.34,
+      532.53
+    ],
+    "text": "\u201cApplicationof Part III tomovableproperty.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.89,
+      399.13,
+      157.89,
+      410.2
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.89,
+      491.17,
+      157.89,
+      502.24
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.89,
+      555.61,
+      157.89,
+      566.68
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.85,
+      322.09,
+      154.85,
+      333.16
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      250.29,
+      168.13,
+      347.73,
+      179.2
+    ],
+    "text": "Mortgage (Amendment)",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      167.17,
+      162.15,
+      178.24
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239.59,
+      666.91,
+      354.31,
+      673.15
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.5,
+      5.5249433517456055
+    ]
+  }
+]

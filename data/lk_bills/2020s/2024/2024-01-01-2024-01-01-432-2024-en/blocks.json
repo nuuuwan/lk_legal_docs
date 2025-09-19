@@ -1,0 +1,9930 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      153.01,
+      150.41,
+      449.51,
+      208.37
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.66,
+      227.3,
+      373.39,
+      243.91
+    ],
+    "text": "Part II of December 29, 2023",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.47,
+      254.39,
+      349.56,
+      273.77
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.2,
+      286.1,
+      354.85,
+      302.06
+    ],
+    "text": "(Issued on 01.01.2024)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      210.02,
+      611.97,
+      389.0,
+      618.71
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      194.79,
+      623.97,
+      404.32,
+      630.71
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.53,
+      635.47,
+      454.53,
+      647.93
+    ],
+    "text": "Price : Rs. 60'00 Postal Fee : Rs. 150'00",
+    "fonts": [
+      "FMAbabldBold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.98,
+      673.07,
+      378.91,
+      683.71
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.68,
+      402.01,
+      450.08,
+      430.25
+    ],
+    "text": "COMMISSION FOR TRUTH, UNITY AND RECONCILIATION IN SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.6,
+      441.56,
+      303.55,
+      456.78
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.85,
+      466.76,
+      313.29,
+      481.98
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.58,
+      492.21,
+      458.09,
+      568.05
+    ],
+    "text": "An act to provide for the establishment of the Commission for Truth, Unity and Reconciliation in Sri Lanka; to set out the powers and functions of such Commission; to provide for monitoring of the implementation of the recommendations of the Commission or Truth, Unity and Reconciliation in Sri Lanka and to provide for matters connected therewith or incidental thereto.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.6,
+      587.55,
+      416.54,
+      600.85
+    ],
+    "text": "Ordered to be published by the Minister of Foreign Affairs",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.0,
+      183.48,
+      228.66,
+      196.95
+    ],
+    "text": "L.D.-O. 25/2023",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.0,
+      208.28,
+      404.54,
+      308.55
+    ],
+    "text": "An act to provide for the establishment of the commission for truth, unity and reconciliation in sri lanka; to set out the powers and functions of such commission; to provide for monitoring of the implementation of the recommendations of the commission for truth, unity and reconciliation in sri lanka and to provide for matters connected therewith or incidental thereto.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.0,
+      319.48,
+      404.59,
+      380.95
+    ],
+    "text": "WHEREAS the Constitution of Sri Lanka recognises the inherent dignity and equal and inalienable human rights of all Sri Lankans, including the right to equality and equal protection of the law of all persons, and the State\u2019s obligation to respect, promote and protect these rights;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.0,
+      391.48,
+      404.57,
+      488.95
+    ],
+    "text": "AND WHEREAS a truth-seeking mechanism, anchored in the right of all Sri Lankans to know the truth as an integral part of their right to an effective remedy, will contribute to the promotion of national unity, peace, rule of law, co-existence, equality with tolerance and respect for diversity, and reconciliation among the people of Sri Lanka and non-recurrence of disharmony and violence for the well-being and security of all Sri Lankans including future generations;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.0,
+      499.48,
+      404.61,
+      668.95
+    ],
+    "text": "AND WHEREAS respecting the fundamental rights and duties and implementing the directive principles of State policy enshrined in the Constitution being a primary objective of all the organs of the Government of Sri Lanka, and having solemnly resolved to ratify the immutable republican principles of representative democracy and assuring all peoples\u2019 freedom, equality, justice, fundamental human rights as the intangible heritage that guarantees the dignity and well-being of succeeding generations of the people of Sri Lanka, and recognising that a national policy of truth seeking and the advancement of national unity and reconciliation furthers the State\u2019s assurance to all people of Sri Lanka freedom, equality, justice, fundamental human rights and the independence of the judiciary recognised under the Constitution;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.98,
+      320.18,
+      438.19,
+      330.96
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      369.72,
+      148.89,
+      383.21
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.0,
+      441.02,
+      153.6,
+      454.51
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.0,
+      513.39,
+      153.6,
+      526.88
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.0,
+      573.07,
+      153.6,
+      586.56
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.09,
+      632.69,
+      153.69,
+      646.18
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka2",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      183.48,
+      399.79,
+      209.35
+    ],
+    "text": "NOW THEREFORE, BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      220.52,
+      399.78,
+      246.55
+    ],
+    "text": "1.(1) This Act may be cited as the Commission for Truth, Unity and Reconciliation in Sri Lanka Act, No. of 2024.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      257.88,
+      399.79,
+      296.15
+    ],
+    "text": "(2) The provisions of this Act, other than this section shall come into operation on the date of expiration of two months from the date on which this Bill becomes an Act of Parliament.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      307.48,
+      399.91,
+      333.35
+    ],
+    "text": "(3) The provisions of this section shall come into operation on the date on which this Bill becomes an Act of Parliament.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      261.12,
+      356.92,
+      293.46,
+      370.76
+    ],
+    "text": "PART I",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167.73,
+      381.72,
+      389.35,
+      420.36
+    ],
+    "text": "ESTABLISHMENT OF THE COMMISSION FOR TRUTH, UNITY AND RECONCILIATION IN SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      431.32,
+      399.76,
+      482.15
+    ],
+    "text": "2. (1) There shall be established a Commission which shall be called and known as the Commission for Truth, Unity and Reconciliation in Sri Lanka (hereinafter referred to as the \u201cCommission\u201d).",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      493.48,
+      399.74,
+      519.35
+    ],
+    "text": "(2) The Commission shall be a body corporate with a common seal, and may sue and be sued in its corporate name.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      530.68,
+      399.78,
+      568.95
+    ],
+    "text": "(3) The seal of the Commission shall be in the custody of the Chairperson of the Commission and may be altered in such manner as may be determined by the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      580.28,
+      399.77,
+      618.55
+    ],
+    "text": "(4) The common seal of the Commission shall be authenticated by the signature of the Chairperson of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.3,
+      629.88,
+      399.8,
+      655.75
+    ],
+    "text": "(5) The Commission shall be located in Colombo and may conduct its sittings in any place in Sri Lanka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.28,
+      223.52,
+      440.82,
+      254.29
+    ],
+    "text": "Short title and date of operation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.28,
+      432.33,
+      451.94,
+      503.1
+    ],
+    "text": "Establishment of the Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.85,
+      257.67,
+      147.65,
+      271.16
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.54,
+      354.86,
+      150.14,
+      368.35
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.96,
+      444.14,
+      150.56,
+      457.63
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.96,
+      531.3,
+      150.56,
+      544.79
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.61,
+      606.55,
+      150.21,
+      620.04
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      397.18,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "3",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      183.48,
+      404.48,
+      209.35
+    ],
+    "text": "(6) The Commission may set up such regional offices as necessary.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      220.52,
+      404.47,
+      258.95
+    ],
+    "text": "3. (1) The Commission shall consist of not less than seven members and not more than twenty-one members, all of whom shall be citizens of Sri Lanka.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      270.28,
+      404.61,
+      382.95
+    ],
+    "text": "(2) The composition of the Commission shall reflect the pluralistic nature of Sri Lanka, including gender, and all members shall be persons of integrity and credibility appointed on the basis of their knowledge and practical experience in disciplines relating to law, human rights and humanitarian law, history, social sciences, psychology, investigations, post conflict studies and reconciliation, and may possess other qualifications relevant to the carrying out of functions of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      394.28,
+      404.53,
+      482.15
+    ],
+    "text": "(3) Any person who intends to be appointed as a member of the Commission or who wishes to nominate any other suitable person, whom he deems it expedient to be appointed as a member of the Commission, may make an application to the Constitutional Council expressing his intention to be so appointed or nominating such other person, in such manner as may be specified in the rules made under this Act.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      493.48,
+      404.49,
+      531.75
+    ],
+    "text": "(4) The members of the Commission shall be appointed by the President on the recommendation of the Constitutional Council.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      543.08,
+      404.58,
+      593.75
+    ],
+    "text": "(5) In making its recommendations under subsection (4), the Constitutional Council shall have due regard to the provisions of subsection (2) and shall take in to account the applications made under subsection (3).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.0,
+      605.08,
+      404.48,
+      655.75
+    ],
+    "text": "(6) The Constitutional Council shall recommend three names from among the members of the Commission to the President out of whom the President shall appoint one person as Chairperson of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.55,
+      245.66,
+      152.35,
+      259.15
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.15,
+      321.06,
+      154.75,
+      334.55
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.24,
+      394.12,
+      154.84,
+      407.61
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.24,
+      457.94,
+      154.84,
+      471.43
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.24,
+      543.76,
+      154.84,
+      557.25
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.24,
+      618.79,
+      154.84,
+      632.28
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.98,
+      223.52,
+      449.54,
+      264.29
+    ],
+    "text": "The composition of the Commission",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka4",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.3,
+      183.32,
+      399.87,
+      234.15
+    ],
+    "text": "4.(1) Unless such member vacates the office earlier under subsection (2), every member of the Commission shall hold office for a period from the date of appointment, up to the end of the term of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168.64,
+      245.48,
+      365.48,
+      258.95
+    ],
+    "text": "(2) The office of a member shall become vacant -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.3,
+      270.28,
+      327.49,
+      283.75
+    ],
+    "text": "(a) upon the death of such member;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159.13,
+      295.08,
+      399.78,
+      320.95
+    ],
+    "text": "(b) upon such member resigning from such office by writing addressed to the President;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.3,
+      332.28,
+      399.77,
+      407.75
+    ],
+    "text": "(c) upon such member being removed from office on any ground specified in subsection (2); or (d) on the expiration of the term of the Commission and the consequent expiration of a member\u2019s term of office.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.3,
+      419.08,
+      399.9,
+      457.35
+    ],
+    "text": "(3) A member of the Commission may be removed from office, by the President with the concurrence of the Constitutional Council, if such person \u2013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.98,
+      461.88,
+      399.74,
+      487.75
+    ],
+    "text": "(a) is or becomes a member of Parliament, or a member of any Provincial Council or any Local Authority;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.98,
+      494.28,
+      399.79,
+      520.15
+    ],
+    "text": "(b) is adjudged an insolvent by a court of competent jurisdiction;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.98,
+      526.68,
+      399.78,
+      570.15
+    ],
+    "text": "(c) is found by the President, acting on the advice of the Prime Minister to have a conflict of interest with his duties as a member of the Commission:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.98,
+      576.68,
+      399.86,
+      620.15
+    ],
+    "text": "Provided that, the Prime Minister shall advise the President in consultation with the Speaker and the Leader of the Opposition;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.98,
+      631.48,
+      399.78,
+      669.75
+    ],
+    "text": "(d) is certified on the basis of professional opinion to be unfit to continue in office by reason of infirmity of mind or body;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.28,
+      185.1,
+      450.59,
+      215.88
+    ],
+    "text": "Term of office and removal of members",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.44,
+      246.83,
+      148.24,
+      260.32
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141.55,
+      343.55,
+      151.15,
+      357.04
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.46,
+      431.5,
+      150.06,
+      444.99
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.46,
+      508.05,
+      150.06,
+      521.54
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.55,
+      590.67,
+      150.15,
+      604.16
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      397.18,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.68,
+      179.53,
+      404.49,
+      205.4
+    ],
+    "text": "(e) is declared to be of unsound mind by a court of competent jurisdiction;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.68,
+      216.73,
+      404.47,
+      242.6
+    ],
+    "text": "(f) is convicted for a criminal offence by a court of law;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.68,
+      253.93,
+      404.48,
+      279.8
+    ],
+    "text": "(g) absents himself from three consecutive meetings without obtaining leave of the Commission; or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      184.68,
+      291.13,
+      404.56,
+      317.0
+    ],
+    "text": "(h) is unable to perform the duties of office for a continuous period exceeding three months.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      328.33,
+      404.31,
+      354.2
+    ],
+    "text": "(4) The Chairperson may resign from the office of Chairperson by letter addressed to the President.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      365.53,
+      404.48,
+      403.8
+    ],
+    "text": "(5) Subject to the provisions of subsection (1), the term of office of the Chairperson shall be the period of membership of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      415.13,
+      404.54,
+      490.6
+    ],
+    "text": "(6) If the Chairperson of the Commission becomes temporarily unable to perform the duties of office by reason of illness or other infirmity, or absence from Sri Lanka, or any other such reason, the President may appoint any other member of the Commission to act in his place until the Chairperson is able to resume office:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      501.93,
+      404.52,
+      552.6
+    ],
+    "text": "Provided however, the members of the Commission shall select a member from amongst themselves to act in such position until the President appoints any other member to act in his place.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      563.93,
+      404.49,
+      627.0
+    ],
+    "text": "(7) If a Member of the Commission becomes temporarily unable to perform the duties of office by reason of illness or other infirmity, or absence from Sri Lanka, or any other such reason, the President may appoint any other person to act in his place until such member is able to resume office.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.0,
+      638.33,
+      404.47,
+      676.6
+    ],
+    "text": "(8) The provisions of section 3 shall mutatis mutandis apply in respect of acting appointments made in terms of sub sections (6) and (7) of this section.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.55,
+      253.76,
+      152.35,
+      267.25
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.15,
+      342.27,
+      154.75,
+      355.76
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.24,
+      428.33,
+      154.84,
+      441.82
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.24,
+      503.11,
+      154.84,
+      516.6
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.15,
+      577.89,
+      154.75,
+      591.38
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.15,
+      652.67,
+      154.75,
+      666.16
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka6",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      192.33,
+      399.87,
+      244.2
+    ],
+    "text": "(9) No act or proceeding of the Commission shall be deemed to be invalid by reason only of the existence of any vacancy among its members, or defect in the appointment of any member thereof.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      256.17,
+      399.89,
+      308.2
+    ],
+    "text": "5. The Chairperson and at least three other members of the Commission shall work full-time. The Constitutional Council shall designate, which of the members are appointed on full time basis.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      320.17,
+      399.8,
+      423.4
+    ],
+    "text": "6. The Commission shall appoint an \u201cinformation officer\u201d and a \u201cdesignated officer\u201d for purpose of the Right to Information Act, No. 12 of 2016. 7. (1) The Commission shall conduct sittings as provided in subsection (5) of section 2 to receive, obtain and collect information and material in respect of the matters referred to in section 12.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      435.53,
+      399.8,
+      513.0
+    ],
+    "text": "(2) The Commission shall undertake investigations and inquiries by panels consisting of not less than three members of the Commission. The members shall be assigned to the panels by the Chairperson of the Commission. One member of such panel shall be designated as the Chairperson of the panel by the Chairperson of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      525.13,
+      399.91,
+      564.2
+    ],
+    "text": "(3) All sittings of the Commission shall, subject to the provisions of subsection (4), be held in public, and all persons shall be entitled freely to attend such sittings.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.3,
+      576.33,
+      399.78,
+      602.6
+    ],
+    "text": "(4) The Commission may, in its discretion, whenever it considers it desirable, including -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      183.82,
+      614.73,
+      364.52,
+      628.2
+    ],
+    "text": "(a) in proceedings relating to sexual matters;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      183.82,
+      640.33,
+      397.16,
+      666.2
+    ],
+    "text": "(b) in the interests of national security or public safety;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.28,
+      259.29,
+      434.93,
+      279.68
+    ],
+    "text": "Full-time members",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.28,
+      321.23,
+      444.24,
+      360.83
+    ],
+    "text": "Information officer and designated officer",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.28,
+      372.23,
+      448.97,
+      392.63
+    ],
+    "text": "Sittings of the commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.44,
+      256.39,
+      147.24,
+      269.88
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.55,
+      332.58,
+      150.15,
+      346.07
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.46,
+      411.46,
+      149.06,
+      424.95
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.46,
+      487.34,
+      149.06,
+      500.83
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.55,
+      575.22,
+      149.15,
+      588.71
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      397.18,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "7",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.52,
+      179.53,
+      402.54,
+      193.0
+    ],
+    "text": "(c) in the interest of personal security of any person;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.52,
+      204.33,
+      404.5,
+      267.4
+    ],
+    "text": "(d) in the interest of guaranteeing confidentiality or creating an enabling environment for truth telling; (e) in the interests of maintaining order and security within the precincts of the Commission; or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      278.73,
+      404.55,
+      490.6
+    ],
+    "text": "(f) where there is a risk of prejudice being caused to any ongoing or prospective legal proceedings, exclude therefrom such persons as are not directly interested or involved in proceedings therein, or such other persons as the Commission may deem it necessary to exclude, particularly in the interest of the personal security of any person. (5) Notwithstanding anything to the contrary in any other written law, where the Commission conducts closed sittings, as referred to in subsection (4) or receives information, the publication of which is likely to threaten the security of any person or compromise national security or public safety, such information or any part thereof shall not be made public in any manner, and no person shall, in any manner disclose such information to any other party, that was not privy to the said closed sittings:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      162.0,
+      501.93,
+      404.6,
+      651.8
+    ],
+    "text": "Provided however, the Commission may publish a record of proceedings of such sittings or information after redacting such portions thereof as necessary to protect the security or interests of any person or national security or public safety. (6) The Commission shall conduct its proceedings in Sinhala and Tamil, or English as deemed necessary. The Commission shall provide simultaneous interpretations or translations into Sinhala, Tamil or English as it deems necessary. Where necessary, the Commission may additionally use sign language to assist those with hearing impairment, who engage in the proceedings of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      147.55,
+      254.42,
+      152.35,
+      267.91
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.15,
+      340.93,
+      154.75,
+      354.42
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.15,
+      416.51,
+      154.75,
+      430.0
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.24,
+      477.87,
+      154.84,
+      491.36
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.15,
+      564.57,
+      154.75,
+      578.06
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.15,
+      627.46,
+      154.75,
+      640.95
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka8",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      191.93,
+      399.77,
+      230.2
+    ],
+    "text": "(7) All proceedings of the Commission shall be recorded verbatim in writing, as well as by way of audio, or audio-visual recordings.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      241.37,
+      399.89,
+      279.8
+    ],
+    "text": "8. (1) The members of the Commission shall meet, at least once every fortnight to consider and deliberate on the business and affairs of the Commission:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      291.13,
+      399.86,
+      329.4
+    ],
+    "text": "Provided that, any member unable to attend a meeting in person may participate at such meetings by means of telephone or video link or by means of other such technological facilities.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      340.73,
+      399.8,
+      403.8
+    ],
+    "text": "(2) The Chairperson of the Commission shall preside at all meetings of the Commission. In the event of the absence of the Chairperson from any meeting, the members of the Commission present at such meeting shall appoint one from amongst themselves to preside at such meeting.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      415.13,
+      399.85,
+      465.8
+    ],
+    "text": "(3) The quorum for meetings or sittings of the Commission shall be the majority of the total number of members appointed for the time being of the Commission, which shall, in any event be not less than five members.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      477.13,
+      399.79,
+      540.2
+    ],
+    "text": "(4) A decision on any matter before the Commission shall be by a majority of votes of the members present. In the case of an equality of votes, the Chairperson or the member presiding at any meeting shall have a casting vote in addition to an individual vote.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      551.53,
+      399.8,
+      589.8
+    ],
+    "text": "(5) The Commission shall cause minutes of all proceedings of its meetings to be entered in records maintained for that purpose.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.3,
+      601.13,
+      399.78,
+      664.2
+    ],
+    "text": "(6) Subject to the provisions of this Act, the Commission may regulate the procedure in regard to the conduct of meetings and sittings of the Commission, the transaction of business and affairs of the Commission, and subject to the law, the disciplinary procedure relating to its officers and staff.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.85,
+      243.27,
+      446.07,
+      273.26
+    ],
+    "text": "Meetings of the Commission 5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.45,
+      339.13,
+      150.05,
+      352.62
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.54,
+      414.02,
+      150.14,
+      427.51
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.54,
+      489.04,
+      150.14,
+      502.53
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.45,
+      564.74,
+      150.05,
+      578.23
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.45,
+      639.44,
+      150.05,
+      652.93
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      397.18,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "9",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      191.77,
+      404.34,
+      217.8
+    ],
+    "text": "9. The term of the Commission shall be five years from the date of coming into operation of this Act:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      229.13,
+      404.48,
+      292.2
+    ],
+    "text": "Provided however, the term of the Commission may be extended by the President, if the President deems such extension to be necessary, for another preiod of one year at a time, so however, the aggregate period of such extension shall not exceed two years.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      303.37,
+      404.58,
+      341.8
+    ],
+    "text": "10. From the date of establishment and throughout its existence the Commission shall take all appropriate measures to inform the public of its existence and its objectives.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      352.97,
+      404.49,
+      403.8
+    ],
+    "text": "11. In the performance of its functions under this Act, the Commission shall be considered an autonomous institution and shall not be subject to the control or direction of any person or authority.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      263.87,
+      414.97,
+      300.09,
+      428.81
+    ],
+    "text": "PART II",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      439.77,
+      404.42,
+      453.61
+    ],
+    "text": "OBJECTIVES AND MANDATE OF THE COMMISSION",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      464.57,
+      404.6,
+      577.4
+    ],
+    "text": "12. (1) Notwithstanding the provisions of any other written law, the Commission shall investigate, inquire, and make recommendations in respect of complaints or allegations or reports relating to damage or harm caused to persons or property, loss of life or alleged violation of human rights anywhere in Sri Lanka, which were caused in the course of, or reasonably connected to, or consequent to the conflict which took place in the Northern and Eastern Provinces during the period 1983 to 2009, or its aftermath.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.0,
+      588.73,
+      404.49,
+      614.6
+    ],
+    "text": "(2) Subject to the provisions of subsection (1), the mandate of the Commission includes the following:-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      188.52,
+      625.93,
+      404.55,
+      664.2
+    ],
+    "text": "(a) the promotion of truth telling, national unity, peace, rule of law, co-existence, equality with tolerance and respect for diversity, and reconciliation among",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.98,
+      194.09,
+      448.96,
+      214.48
+    ],
+    "text": "Term of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.98,
+      305.08,
+      444.1,
+      335.07
+    ],
+    "text": "Duty to inform the public",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.98,
+      354.72,
+      450.77,
+      394.31
+    ],
+    "text": "Commission not subject to control or direction",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.98,
+      467.78,
+      457.61,
+      497.77
+    ],
+    "text": "Objectives and mandate of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      147.55,
+      255.56,
+      152.35,
+      269.05
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.15,
+      330.1,
+      154.75,
+      343.59
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.24,
+      413.99,
+      154.84,
+      427.48
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.24,
+      503.01,
+      154.84,
+      516.5
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.24,
+      565.03,
+      154.84,
+      578.52
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.24,
+      653.02,
+      154.84,
+      666.51
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka10",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199.82,
+      181.53,
+      399.79,
+      244.6
+    ],
+    "text": "the people of Sri Lanka, by establishing a truthful, accurate, impartial, complete record of the alleged damage or harm caused to persons or property loss of life or alleged violation of human rights referred to in subsection (1);",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183.82,
+      255.93,
+      399.84,
+      331.4
+    ],
+    "text": "(b) investigation and making recommendations in respect of the causes of the alleged damage or harm caused to persons or property, loss of life or alleged violation of human rights referred to in subsection (1) to the fullest degree possible, in the interest of prevention of the future occurrence of thereof;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183.82,
+      342.73,
+      399.81,
+      430.6
+    ],
+    "text": "(c) helping restore the dignity of aggrieved persons by providing an opportunity for them to give an account of the alleged damage or harm caused to persons or property, loss of life or alleged violation of human rights referred to in subsection (1), giving special attention to the experiences of women, children and persons with disability;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183.82,
+      441.93,
+      399.79,
+      492.6
+    ],
+    "text": "(d) providing the people of Sri Lanka with a platform and opportunity for truth telling and relating their narratives, including positive experiences and providing them the necessary protection;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183.82,
+      503.93,
+      399.89,
+      579.4
+    ],
+    "text": "(e) recommending, ways and means of effective remedies for aggrieved persons and diverse reparation measures in respect of them, including by the referral of matters to the Office for Reparations established under the Office for Reparations Act, No. 34 of 2018;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      183.82,
+      590.73,
+      399.83,
+      666.2
+    ],
+    "text": "(f) making recommendations with regard to institutional, administrative and legislative policy and resource allocation measures that should be taken or introduced to prevent, and ensure non-recurrence of the alleged damage or harm caused to persons or property, loss of life or alleged violation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.85,
+      232.51,
+      147.65,
+      246.0
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.45,
+      307.05,
+      150.05,
+      320.54
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.54,
+      379.74,
+      150.14,
+      393.23
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.54,
+      455.43,
+      150.14,
+      468.92
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.54,
+      531.12,
+      150.14,
+      544.61
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.45,
+      603.81,
+      150.05,
+      617.3
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "11",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.52,
+      177.53,
+      404.48,
+      203.4
+    ],
+    "text": "of human rights referred to in subsection (1), and to promote reconciliation;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.52,
+      214.73,
+      404.57,
+      253.0
+    ],
+    "text": "(g) compiling a report providing as comprehensive an account of the activities, investigations and recommendations of the Commission, including-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198.85,
+      264.33,
+      404.57,
+      339.8
+    ],
+    "text": "(i) recording of positive experiences of aggrieved persons and the potential to use them towards non-recurrence of alleged damage or harm caused to persons or property or alleged violation of human rights referred to in subsection (1);",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198.85,
+      351.13,
+      404.59,
+      463.8
+    ],
+    "text": "(ii) general recommendations on measures to prevent the future occurrence of the alleged damage or harm caused to persons or property, loss of life or alleged violation of human rights referred to in subsection (1), including recommendations on promotion of reconciliation, co-existence among diverse communities, good governance, justice, respect for the rule of law and combating impunity; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      198.86,
+      475.13,
+      404.54,
+      538.2
+    ],
+    "text": "(iii) the Commission\u2019s investigations and recommendations in respect of allegations of denial of economic, social, cultural, including language rights or making recommendations on how to address such issues;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      188.54,
+      549.53,
+      404.57,
+      612.6
+    ],
+    "text": "(h) investigating and making recommendations in respect of the allegations of damage or harm caused to persons or property or loss of life or alleged violation of human rights referred to in subsection (1), including-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215.88,
+      623.93,
+      404.52,
+      674.6
+    ],
+    "text": "(i) acts or omissions resulting in the arbitrary deprivation of human life or any attempt thereto, extrajudicial killings, assassinations and mass murders;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      147.57,
+      240.5,
+      152.37,
+      253.99
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.17,
+      313.04,
+      154.77,
+      326.53
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.26,
+      389.73,
+      154.86,
+      403.22
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.26,
+      451.42,
+      154.86,
+      464.91
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.26,
+      523.11,
+      154.86,
+      536.6
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.17,
+      600.8,
+      154.77,
+      614.29
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka12",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.16,
+      197.33,
+      399.87,
+      223.6
+    ],
+    "text": "(ii) acts of torture, cruel, inhumane and degrading treatment;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.17,
+      235.73,
+      399.81,
+      287.6
+    ],
+    "text": "(iii) sexual violence, abuse and exploitation of persons, with due regard to particular experiences of women, children, persons with disability, detainees and prisoners;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.17,
+      299.73,
+      399.79,
+      326.0
+    ],
+    "text": "(iv) abduction, hostage taking, enforced disappearances;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.17,
+      338.13,
+      397.29,
+      351.6
+    ],
+    "text": "(v) arbitrary or unlawful arrests or detentions;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.17,
+      363.73,
+      399.79,
+      479.6
+    ],
+    "text": "(vi) fact finding in respect of alleged corruption and intentional misuse of equipment and financial resources in relation to the conflict which took place in the Northern and Eastern provinces that contributed to the loss of life or grave risk of loss of life of persons, including members of the armed forces, the Police and civil defence personnel of Sri Lanka;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.17,
+      491.73,
+      399.87,
+      556.4
+    ],
+    "text": "(vii) fact finding in respect of the incidence of recruitment of children into armed groups connected with the conflict which took place in the Northern and Eastern provinces or its aftermath;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      208.34,
+      568.53,
+      399.8,
+      607.6
+    ],
+    "text": "(viii) fact finding in respect of allegations of forcible transfer or displacement of persons or populations within Sri Lanka;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.18,
+      619.73,
+      399.87,
+      658.8
+    ],
+    "text": "(ix) fact finding in respect of allegations of arbitrary or unlawful deprivation of property, whether temporary or permanent;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      142.87,
+      264.62,
+      147.67,
+      278.11
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.47,
+      363.02,
+      150.07,
+      376.51
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.56,
+      429.36,
+      150.16,
+      442.85
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.56,
+      504.7,
+      150.16,
+      518.19
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.47,
+      584.4,
+      150.07,
+      597.89
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "13",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      215.86,
+      185.53,
+      404.5,
+      327.0
+    ],
+    "text": "(x) inquiry into the existence, if any, of practices that have led to discriminatory treatment or violations of individual rights based on religion, ethnicity, gender, place of origin, political opinion, language or caste; (xi) inquiry into whether any of the alleged violations and abuses referred to in subsection (1) were committed as part of systemic crimes; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      215.86,
+      339.13,
+      404.57,
+      416.6
+    ],
+    "text": "(xii) making findings in regard to those responsible for the commission of the alleged violations and abuses referred to in subsection (1), including those who advised, planned, directed, commanded or ordered such atrocities;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188.53,
+      428.73,
+      404.61,
+      480.6
+    ],
+    "text": "(i) making recommendations regarding schemes to empower affected communities by providing peace building and conflict transformation and livelihood training opportunities by those qualified to do so;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      218.7,
+      492.73,
+      404.51,
+      544.6
+    ],
+    "text": "(i) the alleged damage or harm caused to persons or property or loss of life or alleged violation of human rights referred to in subsection (1);",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      218.7,
+      556.73,
+      404.49,
+      583.0
+    ],
+    "text": "(ii) any conflict amongst the different ethnic or religious groups in Sri Lanka;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188.52,
+      595.13,
+      401.89,
+      621.4
+    ],
+    "text": "(j) making recommendations regarding the non-recurrence of, and addressing the root causes for-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      188.52,
+      631.93,
+      404.56,
+      672.8
+    ],
+    "text": "(k) creating awareness among the public of the objective of this Act and the recourse available; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147.55,
+      238.49,
+      152.35,
+      251.98
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.15,
+      314.03,
+      154.75,
+      327.52
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.24,
+      389.72,
+      154.84,
+      403.21
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.24,
+      468.41,
+      154.84,
+      481.9
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.15,
+      557.6,
+      154.75,
+      571.09
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka14",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      196.4,
+      399.83,
+      234.67
+    ],
+    "text": "(l) compiling comprehensive reports of the activities, investigations, implementations and recommendations of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      257.23,
+      270.64,
+      297.35,
+      284.48
+    ],
+    "text": "PART III",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.3,
+      295.44,
+      399.75,
+      321.68
+    ],
+    "text": "POWERS, DUTIES AND FUNCTIONS OF THE COMMISSION",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.3,
+      332.64,
+      399.79,
+      371.07
+    ],
+    "text": "13. Notwithstanding anything to the contrary in any other written law, the Commission may exercise any or all of the following powers for the purpose of discharging its functions:-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      382.4,
+      399.89,
+      420.67
+    ],
+    "text": "(a) to prepare its own internal regulations, procedures and guidelines setting out in particular its structure and administrative arrangements;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      432.0,
+      399.85,
+      482.67
+    ],
+    "text": "(b) to make guidelines or by-laws, including formulating gender-sensitive policies, to be followed by all staff of the Commission concerning the performance of duties and functions;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      494.0,
+      399.8,
+      569.47
+    ],
+    "text": "(c) to appoint staff, the composition of which shall reflect the pluralistic nature of Sri Lanka, including gender, and to provide training facilities to them as relevant to the work of the Commission. The Commission may request secondment of public officers to the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      580.8,
+      324.57,
+      594.27
+    ],
+    "text": "(d) to dismiss staff for good cause;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.82,
+      605.6,
+      399.85,
+      656.27
+    ],
+    "text": "(e) to establish committees, units or divisions in addition to those units and divisions specifically mentioned in this Act, to perform duties and functions of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.28,
+      335.2,
+      448.07,
+      355.6
+    ],
+    "text": "Powers of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.85,
+      295.28,
+      147.65,
+      308.77
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.45,
+      381.47,
+      150.05,
+      394.96
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.54,
+      457.27,
+      150.14,
+      470.76
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.54,
+      532.4,
+      150.14,
+      545.89
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.54,
+      619.65,
+      150.14,
+      633.14
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      192.41,
+      404.55,
+      230.68
+    ],
+    "text": "(f) to delegate powers to such committees, units, divisions or individuals appointed by the Commission as appropriate and necessary;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      242.01,
+      404.57,
+      379.48
+    ],
+    "text": "(g) to enter into agreements with any person or entity necessary to achieve the objectives of the Commission including Office on Missing Persons established under Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016, Office for Reparations established under Office for Reparations Act, No. 34 of 2018 and Office for National Unity and Reconciliation established under Office for National Unity and Reconciliation Act, No\u2026\u2026\u2026 of 2024;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      390.81,
+      404.48,
+      478.68
+    ],
+    "text": "(h) to raise funds in order to achieve the objectives of the Commission, including but not limited to obtaining any grants, gifts or endowments: Provided that, all funds received from outside Sri Lanka shall be channelled through the External Resources Department.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      490.01,
+      350.89,
+      503.48
+    ],
+    "text": "(i) to open and maintain bank accounts;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      514.81,
+      404.48,
+      540.68
+    ],
+    "text": "(j) to control, supervise and administer the assets of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      552.01,
+      404.6,
+      590.28
+    ],
+    "text": "(k) to seek technical assistance from any person or institution or organisation in the interest of advancement of the commission\u2019s work;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      601.61,
+      404.59,
+      627.48
+    ],
+    "text": "(l) to draw on the work of other bodies, including previous Commissions of inquiry;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      188.52,
+      638.81,
+      404.57,
+      664.68
+    ],
+    "text": "(m) to prioritize proceedings with the objective of promoting national reconciliation, peace, co-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      147.55,
+      254.26,
+      152.35,
+      267.75
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.15,
+      318.33,
+      154.75,
+      331.82
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.24,
+      389.31,
+      154.84,
+      402.8
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.15,
+      463.08,
+      154.75,
+      476.57
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.15,
+      565.06,
+      154.75,
+      578.55
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.15,
+      651.11,
+      154.75,
+      664.6
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka16",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      199.82,
+      179.53,
+      399.79,
+      205.4
+    ],
+    "text": "existence and non-recurrence within the context of this Act;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      216.73,
+      399.81,
+      267.4
+    ],
+    "text": "(n) subject to subsection (3) of section 7, to conduct public sittings and when the Commission considers it possible publicly broadcast or telecast its proceedings either simultaneously or otherwise;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      278.73,
+      399.8,
+      317.0
+    ],
+    "text": "(o) subject to subsection (4) of section 7 to conduct closed sittings where the Commission deems it necessary;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      328.33,
+      399.9,
+      379.0
+    ],
+    "text": "(p) to create, maintain and take steps to ensure deposit and continuity of a complete database and archive of all materials collected or received by the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      390.33,
+      399.8,
+      478.2
+    ],
+    "text": "(q) to initiate, on its own motion or on a complaint made to it by an aggrieved person or group of persons or a person acting on behalf of an aggrieved person or a group of persons, and investigations in respect of alleged damage or harm caused to persons or property, or violations of human rights, referred to in subsection (1) of section 12;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      489.53,
+      399.86,
+      540.2
+    ],
+    "text": "(r) to receive from any aggrieved persons complaints or reports relating to the alleged damage or harm caused to persons or property referred to in subsection (1) of section 12;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      183.82,
+      551.53,
+      399.88,
+      651.8
+    ],
+    "text": "(s) to gather any information that the Commission considers relevant to fulfilling its mandate, including requisition of reports, records, documents or information from governmental authorities or any source and to compel the production of such material as and when necessary, including through access to archival material and classified documentation;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      142.85,
+      243.05,
+      147.65,
+      256.54
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.45,
+      330.74,
+      150.05,
+      344.23
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.54,
+      403.28,
+      150.14,
+      416.77
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.54,
+      465.97,
+      150.14,
+      479.46
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.54,
+      552.66,
+      150.14,
+      566.15
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.45,
+      612.43,
+      150.05,
+      625.92
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "17",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.52,
+      179.53,
+      404.48,
+      230.2
+    ],
+    "text": "(t) to summon any person residing in Sri Lanka, to attend any meeting or hearing of the Commission to provide information or produce any document or other thing in such person\u2019s possession;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.52,
+      241.53,
+      404.48,
+      304.6
+    ],
+    "text": "(u) to procure and receive all such material, written or oral, and to interview all such persons as the Commission deems necessary, or require such persons to produce any document or other thing in their possession;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.52,
+      315.93,
+      404.48,
+      379.0
+    ],
+    "text": "(v) to require evidence (whether written or oral) of any witness, to be given on oath or affirmation, and to administer and cause to be administered by an officer authorized in that behalf by the Commission on oath or affirmation to every such witness;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.52,
+      390.33,
+      404.59,
+      639.4
+    ],
+    "text": "(w) to request assistance necessary for the achieving of its mandate, from any State, Governmental, provincial or local authority or agency, or any officer thereof. Notwithstanding anything to the contrary in any other written law, any such authority, agency or officer to which a request for assistance is made by the Commission shall forthwith render such assistance. Such assistance shall include but not be limited to providing information, documents or any other thing, in the possession or custody of such authority, agency or officer, or access to such places as the Commission may determine necessary to visit; (x) to receive information in confidence from any person, where essential for truth seeking and only under exceptional circumstances, where in the opinion of the Commission, the disclosure of such information would pose a risk or threat to life or security of any person:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      188.52,
+      650.73,
+      404.49,
+      676.6
+    ],
+    "text": "Provided that, except in the performance of official responsibilities under this Act, every",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      147.55,
+      242.57,
+      152.35,
+      256.06
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.15,
+      317.11,
+      154.75,
+      330.6
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.24,
+      391.8,
+      154.84,
+      405.29
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.24,
+      454.49,
+      154.84,
+      467.98
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.24,
+      517.18,
+      154.84,
+      530.67
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.15,
+      589.87,
+      154.75,
+      603.36
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.15,
+      651.48,
+      154.75,
+      664.97
+    ],
+    "text": "35",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka18",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      183.82,
+      179.53,
+      399.87,
+      341.8
+    ],
+    "text": "member, officer, servant or consultant of the Commission shall preserve and aid in preserving confidentiality of such information: Provided further, notwithstanding anything to the contrary in any other law, the Commission shall not be compelled to disclose the identity of any person supplying information in confidence to the Commission, or any part of such information that would reveal the identity of such person, where in the opinion of the Commission, the disclosure of such information would pose a risk or threat to life or security of any person;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      183.82,
+      353.13,
+      399.89,
+      416.2
+    ],
+    "text": "(y) to admit, notwithstanding any of the provisions of the Evidence Ordinance (Chapter 14), any information, whether written or oral, which might be inadmissible in civil or criminal proceedings in order to facilitate truth seeking;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      183.82,
+      427.53,
+      399.88,
+      527.8
+    ],
+    "text": "(z) to make an application to a Magistrate having jurisdiction, for the issuance of a search warrant, to enable the Police, to search any premises suspected to contain material relevant to an investigation being conducted by the Commission. The provisions of the Code of Criminal Procedure Act, No. 15 of 1979 shall, mutatis mutandis apply in such instances;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      183.82,
+      539.13,
+      399.87,
+      676.6
+    ],
+    "text": "(za) to search and inspect identified premises under the authority of a search warrant issued by a Magistrate, and examine, make copies of, extract from, seize and retain, any object that is deemed necessary for any investigation being conducted by the Commission and to ensure that any such site that may have been allegedly used for torture or illegal places of detention are located and preserved. The provisions of the Code of Criminal Procedure Act, No. 15 of 1979 shall, mutatis mutandis apply in such instances;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      142.85,
+      242.05,
+      147.65,
+      255.54
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.45,
+      304.59,
+      150.05,
+      318.08
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.54,
+      379.28,
+      150.14,
+      392.77
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.54,
+      452.97,
+      150.14,
+      466.46
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.54,
+      516.66,
+      150.14,
+      530.15
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.45,
+      590.35,
+      150.05,
+      603.84
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.45,
+      651.04,
+      150.05,
+      664.53
+    ],
+    "text": "35",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "19",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      191.93,
+      404.58,
+      230.2
+    ],
+    "text": "(zb) to seek the assistance of the Sri Lanka Police as necessary to advance the investigations of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      241.53,
+      404.57,
+      317.0
+    ],
+    "text": "(zc) to make an application to a Magistrate, having jurisdiction, to excavate sites of suspected graves or mass graves and to act as observers at such excavations or exhumations. The provisions of the Code of Criminal Procedure Act, No. 15 of 1979 shall, mutatis mutandis apply in such instances;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      328.33,
+      404.55,
+      428.6
+    ],
+    "text": "(zd) to refer matters to the relevant law enforcement or prosecuting authorities of Sri Lanka for further investigation and necessary action, where it appears to the Commission that an offence or offences punishable under the Penal Code (Chapter 19) or any other law of Sri Lanka has been committed, subject to the provisions of paragraph (y);",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      439.93,
+      404.55,
+      503.0
+    ],
+    "text": "(ze) to obtain assistance from the Government of Sri Lanka to secure cooperation from authorities of foreign states in terms of the Mutual Legal Assistance in Criminal Matters Act, No. 25 of 2002 to access information available overseas;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      514.33,
+      404.58,
+      577.4
+    ],
+    "text": "(zf) to seek assistance from community leaders and organisations to facilitate its public sessions and in resolving local conflicts in support of reconciliation and non-recurrence as the Commission may deem necessary; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      187.52,
+      588.73,
+      404.49,
+      639.4
+    ],
+    "text": "(zg) notwithstanding anything to the contrary in any other written law, to do all such things as necessary to achieving the objectives and mandate of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      148.06,
+      253.91,
+      152.86,
+      267.4
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.75,
+      327.45,
+      155.35,
+      340.94
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.75,
+      393.14,
+      155.35,
+      406.63
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.75,
+      466.83,
+      155.35,
+      480.32
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.75,
+      538.52,
+      155.35,
+      552.01
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.66,
+      612.21,
+      155.26,
+      625.7
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka20",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.3,
+      179.37,
+      399.91,
+      230.2
+    ],
+    "text": "14. All persons including members of the Government, public officials and authorities shall co-operate with the Commission and its staff in the fulfillment of the Commission\u2019s objectives and mandate under this Act.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      257.6,
+      253.77,
+      297.16,
+      267.61
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      167.82,
+      278.57,
+      389.25,
+      304.81
+    ],
+    "text": "REPORTS AND RECOMMENDATIONS OF THE COMMISSION",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.29,
+      315.77,
+      399.83,
+      366.6
+    ],
+    "text": "15. (1) The Commission shall submit its\u2019 final report to the President at the expiration of its term containing a comprehensive account of its activities, including its recommendations.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.29,
+      377.93,
+      399.85,
+      441.0
+    ],
+    "text": "(2) The Commission shall submit interim reports bi-annually with recommendations prior to the submission of its final report, following a sustained period of investigations, at least annually, detailing the work of the Commission. Such Interim Reports shall be submitted to the President.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.29,
+      452.33,
+      399.93,
+      552.6
+    ],
+    "text": "(3) Immediately upon submitting the final report and such interim reports as provided for under subsections (1) and (2) to the President, the Commission shall publish all such reports, using print and electronic media, including social media, and shall make copies of the reports or summaries thereof, widely available to the public in Sinhala, Tamil and English languages. The Commission shall ensure wide publicity for its recommendations, by involving inter alia, the media.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.28,
+      563.93,
+      399.85,
+      614.6
+    ],
+    "text": "(4) Within twenty-one days from the date of receipt of an interim report or the final report of the Commission in terms of subsections (1) and (2), the President shall have such reports tabled in Parliament.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      168.62,
+      625.93,
+      382.59,
+      639.4
+    ],
+    "text": "(5) The final report of the Commission shall include -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      179.96,
+      650.73,
+      399.83,
+      664.2
+    ],
+    "text": "(a) root causes of the alleged damage or harm caused",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.28,
+      183.11,
+      444.26,
+      232.3
+    ],
+    "text": "All persons shall co-operate with the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.28,
+      318.56,
+      450.27,
+      338.96
+    ],
+    "text": "Reports of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      142.85,
+      252.5,
+      147.65,
+      265.99
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.54,
+      340.86,
+      150.14,
+      354.35
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.45,
+      416.0,
+      150.05,
+      429.49
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.54,
+      491.14,
+      150.14,
+      504.63
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.54,
+      563.25,
+      150.14,
+      576.74
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.54,
+      649.93,
+      150.14,
+      663.42
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "21",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      204.52,
+      179.53,
+      404.48,
+      205.4
+    ],
+    "text": "to persons or property or loss of life, described in section 12;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      216.73,
+      404.49,
+      255.0
+    ],
+    "text": "(b) observations of the Commission on alleged damage or harm or loss of life caused to persons or property described in section 12;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      266.33,
+      404.54,
+      292.2
+    ],
+    "text": "(c) recommendations addressing issues relating to women and children;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      303.53,
+      404.52,
+      329.4
+    ],
+    "text": "(d) observations and recommendations on child soldiers, and their recovery and reintegration;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      340.73,
+      404.49,
+      366.6
+    ],
+    "text": "(e) recommendations relating to forced displacement of persons or groups of persons within Sri Lanka;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      377.93,
+      404.55,
+      441.0
+    ],
+    "text": "(f) recommendations for, inter alia, legal, political, socio-economic reforms, including in particular education, health, cultural, administrative and institutional reforms deemed necessary for non-recurrence; and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      184.68,
+      452.33,
+      404.48,
+      478.2
+    ],
+    "text": "(g) recommendations on reparations, including psycho-social support, while identifying priorities.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.0,
+      489.37,
+      404.48,
+      527.8
+    ],
+    "text": "16. (1) The Commission\u2019s recommendations shall not be deemed to be a determination of civil or criminal liability of any person.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.0,
+      539.13,
+      404.49,
+      627.0
+    ],
+    "text": "(2) Notwithstanding anything to the contrary in the Code of Criminal Procedure Act, No. 15 of 1979 or any other law, it shall be lawful for the Attorney-General to institute criminal proceedings in a designated court of law in respect of any offence based on material collected in the course of an investigation or inquiry or both, as the case may be, by the Commission established under this Act.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      162.0,
+      638.33,
+      404.49,
+      664.2
+    ],
+    "text": "(3) Parliament may take cognizance of the recommendations of the Commission or a panel of the Commission contained",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.98,
+      491.12,
+      448.96,
+      530.71
+    ],
+    "text": "Recomm-endations of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      147.55,
+      243.06,
+      152.35,
+      256.55
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.24,
+      340.86,
+      154.84,
+      354.35
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.24,
+      414.37,
+      154.84,
+      427.86
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.24,
+      502.6,
+      154.84,
+      516.09
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.15,
+      579.25,
+      154.75,
+      592.74
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.15,
+      651.93,
+      154.75,
+      665.42
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka22",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      179.53,
+      399.91,
+      230.2
+    ],
+    "text": "it is interim reports or final report submitted to the President and tabled in Parliament, as the case may be, and pass such resolution it may consider necessary to promote national unity and reconciliation.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      259.63,
+      253.77,
+      295.12,
+      267.61
+    ],
+    "text": "PART V",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      278.57,
+      399.84,
+      304.81
+    ],
+    "text": "PROTECTION OF THE RIGHTS OF AGGRIEVED PERSONS AND WITNESSES",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      315.77,
+      399.88,
+      354.2
+    ],
+    "text": "17. Notwithstanding anything to the contrary in any other written law, the Commission shall develop and enforce a system for the protection of aggrieved persons and witnesses.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      365.37,
+      399.84,
+      441.0
+    ],
+    "text": "18. (1) The Commission shall recommend the granting of material or symbolic reparations to individual aggrieved persons and witnesses who engage with the Commission, and who are entitled in the opinion of the Commission to such reparations, including but not limited to restitution, financial compensation, welfare services and rehabilitation.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      452.33,
+      399.79,
+      490.6
+    ],
+    "text": "(2) The Commission shall also recommend that collective reparations be granted in order to facilitate reconciliation and non-recurrence.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      501.93,
+      399.92,
+      552.6
+    ],
+    "text": "(3) The Commission may direct its recommendations to the appropriate authorities, including to the Office for Reparations established under the Office for Reparations Act, No. 34 of 2018.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.3,
+      563.77,
+      399.92,
+      627.0
+    ],
+    "text": "19. The Commission shall prioritize and facilitate the provision of medical and psycho-social support to aggrieved persons and witnesses during the proceedings of the Commission, when in the opinion of the Commission, such services are required, including by\u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      179.98,
+      638.33,
+      399.72,
+      676.6
+    ],
+    "text": "(a) providing psycho-social training for all staff members of the Commission to enable efficient handling of aggrieved persons and witnesses;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.28,
+      318.57,
+      447.13,
+      358.16
+    ],
+    "text": "Protection for aggrieved persons and witnesses",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.28,
+      367.85,
+      441.52,
+      378.64
+    ],
+    "text": "Reparations",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.28,
+      566.81,
+      448.61,
+      596.81
+    ],
+    "text": "Medical and psycho-social support",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      142.85,
+      251.98,
+      147.65,
+      265.47
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.54,
+      341.86,
+      150.14,
+      355.35
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.45,
+      415.37,
+      150.05,
+      428.86
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.54,
+      502.71,
+      150.14,
+      516.2
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.45,
+      577.95,
+      150.05,
+      591.44
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      140.45,
+      651.19,
+      150.05,
+      664.68
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "23",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      184.68,
+      191.93,
+      404.51,
+      230.2
+    ],
+    "text": "(b) provision of onsite psycho-social counsellors at all public or closed sittings with aggrieved persons and witnesses; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      184.68,
+      241.53,
+      404.58,
+      317.0
+    ],
+    "text": "(c) conducting psycho-social briefings and debriefings or evaluations for aggrieved persons and witnesses as necessary prior to public or closed sittings to ensure that aggrieved persons are psychologically prepared, addressing in particular the needs of children.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      162.0,
+      328.17,
+      404.48,
+      379.0
+    ],
+    "text": "20. (1) The Commission shall take measures to protect the identity or ensure the safety and protection of aggrieved persons and witnesses, who in the opinion of the Commission require such protective measures.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      162.0,
+      390.33,
+      404.48,
+      453.4
+    ],
+    "text": "(2) The Commission shall in particular ensure that statements of children are obtained in closed proceedings and information leading to the identity of children are removed or redacted from public transcripts and their confidentiality duly protected.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      162.0,
+      464.73,
+      404.55,
+      540.2
+    ],
+    "text": "(3) The Commission shall, upon a request by a child or by his or her guardian, afford such child the option of either submitting a video recording of his or her statement to the Commission, or appearing before the Commission via audio-visual link, in lieu of appearing in person before the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      162.0,
+      551.37,
+      404.49,
+      614.6
+    ],
+    "text": "21. The Commission shall endeavor as far as practicable to conduct its sittings in such locations and in such form to enable easy access to aggrieved persons and witnesses, especially addressing the needs of women, children and persons with disability.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      162.0,
+      625.77,
+      404.49,
+      664.2
+    ],
+    "text": "22. The Commission may provide funding for the travel of witnesses or persons summoned by the Commission, at the discretion of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      407.98,
+      330.73,
+      441.96,
+      351.12
+    ],
+    "text": "Protective measures",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      407.98,
+      554.82,
+      448.43,
+      594.41
+    ],
+    "text": "Access for aggrieved persons and witnesses",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      147.55,
+      254.82,
+      152.35,
+      268.31
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.15,
+      327.36,
+      154.75,
+      340.85
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.24,
+      404.05,
+      154.84,
+      417.54
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.24,
+      478.74,
+      154.84,
+      492.23
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.24,
+      552.43,
+      154.84,
+      565.92
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.15,
+      626.12,
+      446.87,
+      657.9
+    ],
+    "text": "30Funding for travel of witnesses",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka24",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      179.37,
+      399.91,
+      279.8
+    ],
+    "text": "23. The Commission shall inform aggrieved persons, witnesses and other informants, who provide information to the Commission, of the potential use of any information provided by them and their right to directly refer matters to relevant authorities, including their right to report serious crimes to the relevant law enforcement or prosecuting authorities of Sri Lanka and of the availability of any mechanisms through which they may make claims for administrative relief.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      290.97,
+      399.87,
+      354.2
+    ],
+    "text": "24. In exercising its powers under this Act, the Commission shall ensure that the rights of aggrieved persons, witnesses and any other persons shall be enforced on a basis of equality without regard to status and without discrimination on any grounds whatsoever.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      257.6,
+      365.37,
+      296.98,
+      379.21
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      161.52,
+      390.17,
+      393.04,
+      404.01
+    ],
+    "text": "THE SECRETARIAT AND THE DIRECTOR GENERAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.486832618713379
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      414.97,
+      399.84,
+      490.6
+    ],
+    "text": "25. The Commission shall have a Secretariat which shall be charged with the responsibility for the administration of the affairs of the Commission. The Secretariat shall include, the Victim and Witness Protection Division and the Data Management Division and such other division as the Commission may consider necessary.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      501.77,
+      399.93,
+      589.8
+    ],
+    "text": "26. (1) The President shall, in consultation with the Commission, appoint a person with suitable academic and professional qualifications and work experience as the Director General of the Commission, who shall be the Chief Executive Officer of the Secretariat and who shall be subject to the authority of the Commission and report to the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      601.13,
+      399.66,
+      627.0
+    ],
+    "text": "(2) The President may, in consultation with the Commission, remove the Director General for good cause.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.3,
+      638.33,
+      399.78,
+      664.2
+    ],
+    "text": "(3) The Director General shall be responsible for the management and administration of the business and affairs",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.28,
+      182.75,
+      450.53,
+      241.54
+    ],
+    "text": "Duty to inform people of their rights and potential use of their information",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.28,
+      295.56,
+      452.52,
+      373.55
+    ],
+    "text": "Duty to ensure the rights of aggrieved persons, and any other person without discrimination",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.28,
+      417.19,
+      438.99,
+      427.98
+    ],
+    "text": "Secretariat",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.28,
+      504.79,
+      432.2,
+      525.18
+    ],
+    "text": "Director General",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      142.85,
+      230.86,
+      147.65,
+      244.35
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.45,
+      303.52,
+      150.05,
+      317.01
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.54,
+      390.58,
+      150.14,
+      404.07
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.54,
+      465.77,
+      150.14,
+      479.26
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.54,
+      540.46,
+      150.14,
+      553.95
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      140.45,
+      613.15,
+      150.05,
+      626.64
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      179.53,
+      404.41,
+      205.4
+    ],
+    "text": "of the Commission, including but not limited to the following functions\u2013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      184.68,
+      216.73,
+      404.47,
+      242.6
+    ],
+    "text": "(a) day to day management and administration of the business and affairs of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      184.68,
+      253.93,
+      404.5,
+      279.8
+    ],
+    "text": "(b) maintaining custody and preservation of all records, documents and materials of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      184.68,
+      291.13,
+      404.57,
+      341.8
+    ],
+    "text": "(c) management of the assets of the Commission; and (d) performance of such other duties as may be assigned by the Commission from time to time.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      352.97,
+      404.48,
+      391.4
+    ],
+    "text": "27. (1) All divisions of the Secretariat, unless otherwise provided for by the Commission, shall be under the purview of the Director General of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      402.73,
+      404.48,
+      453.4
+    ],
+    "text": "(2) All officers and staff of such divisions shall be appointed by the Commission, and shall be full-time employees of the Commission, unless otherwise decided by the Director General and approved by the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      464.73,
+      404.34,
+      490.6
+    ],
+    "text": "(3) All such officers and staff shall be removed by the Commission only for good cause.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      501.93,
+      404.48,
+      527.8
+    ],
+    "text": "(4) The officers and staff of all such divisions shall reflect the pluralistic nature of Sri Lanka, including gender.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      538.57,
+      404.48,
+      612.6
+    ],
+    "text": "28. (1) There shall be a Victim and Witness Protection Division that shall assist the Commission in developing and enforcing a system for aggrieved persons and witness protection, and in particular in the discharge of the Commission\u2019s duties and responsibilities under sections 17, 18, 19, 20, 21, 22, 23 and 24 of this Act.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      162.0,
+      623.93,
+      404.48,
+      674.6
+    ],
+    "text": "(2) The Victim and Witness Protection Division shall facilitate the provision of personal security, psycho social support and the protection of the rights of all aggrieved persons and, witnesses who engage with the Commission,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      407.98,
+      355.72,
+      456.27,
+      404.91
+    ],
+    "text": "All Divisions to be under the purview of the Director General",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      407.98,
+      540.86,
+      445.62,
+      580.45
+    ],
+    "text": "Victim and Witness Protection Division",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      147.55,
+      256.33,
+      152.35,
+      269.82
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.24,
+      354.05,
+      154.84,
+      367.54
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.15,
+      428.36,
+      154.75,
+      441.85
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.24,
+      514.82,
+      154.84,
+      528.3
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.15,
+      589.42,
+      154.75,
+      602.91
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.15,
+      661.61,
+      154.75,
+      675.1
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka26",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      179.53,
+      399.78,
+      205.4
+    ],
+    "text": "and also endeavour to provide or facilitate the provision of administrative and welfare services requested by such persons.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      216.73,
+      399.89,
+      317.0
+    ],
+    "text": "(3) The Victim and Witness Protection Division shall be fully supported by the National Authority for the Protection of Victims of Crime and Witnesses established under the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023. The Commission shall be deemed to be a \u201cCommission\u201d for purposes of the Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      328.33,
+      399.79,
+      366.6
+    ],
+    "text": "(4) The Victim and Witness Protection Division may co-ordinate with law enforcement agencies where it deems necessary.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      377.77,
+      399.8,
+      416.2
+    ],
+    "text": "29. (1) There shall be a Data Management Division, which shall be responsible for the creation, maintenance and management of the Database of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      427.53,
+      399.83,
+      515.4
+    ],
+    "text": "(2) The Data Management division shall take all necessary steps, including technical safeguards to ensure the security of all its databases and data, and take all necessary measures to ensure archiving of materials, preservation of records and maintenance of a database and institutional memory. The Data Management division shall at all times ensure the protection of confidentiality of information gathered on such basis.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      526.57,
+      399.81,
+      612.6
+    ],
+    "text": "30. In addition to the above-named divisions, the Commission may appoint or establish specific mechanisms and procedures to address the experiences and specific requirements of women, children, persons with disabilities, and disadvantaged groups, as well as advisors with relevant expertise to advise the Commission on specific disciplines, subjects or issues as it deems fit.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.3,
+      623.77,
+      399.89,
+      662.2
+    ],
+    "text": "31. The Commission may issue directions and instructions to the divisions and units of the Commission directly or seek their advice directly as it deems fit.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      402.42,
+      381.04,
+      446.15,
+      411.03
+    ],
+    "text": "Data Management Division",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      402.42,
+      528.78,
+      444.07,
+      577.97
+    ],
+    "text": "Specific mechanisms andadvisors",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      403.27,
+      625.57,
+      446.07,
+      665.16
+    ],
+    "text": "The Commission may issue directions",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      142.85,
+      241.55,
+      147.65,
+      255.04
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      141.4,
+      304.66,
+      151.0,
+      318.15
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.54,
+      389.77,
+      150.14,
+      403.26
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.54,
+      466.46,
+      150.14,
+      479.95
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.54,
+      541.15,
+      150.14,
+      554.64
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.45,
+      601.84,
+      150.05,
+      615.33
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "27",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      179.37,
+      404.49,
+      230.2
+    ],
+    "text": "32. (1) There shall be established an Advisory Panel for the purpose of advising the Commission, the panels of the Commission and the Secretariat on matters referred to the Advisory Panel by the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      241.53,
+      404.56,
+      341.8
+    ],
+    "text": "(2) The Advisory Panel shall consist of a minimum of ten members appointed by the President on the recommendation of the Commission. The members so appointed to the Advisory Panel shall consist of persons with recognised integrity, empathy, stature and respect with a demonstrated commitment to the values of truth, reconciliation, equity, and justice, and may include competent persons from any other jurisdiction.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      353.13,
+      404.49,
+      416.2
+    ],
+    "text": "(3) The Commission shall, prior to the submission of the draft interim and final reports of the Commission to the President, make the same available to the Advisory Panel for its comments or recommendations for the consideration of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      427.53,
+      404.58,
+      478.2
+    ],
+    "text": "(4) The remuneration payable to and the terms of engagement of the members of the Advisory Panel shall be decided by the President, on the recommendation of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      260.35,
+      489.37,
+      303.61,
+      503.21
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      259.21,
+      514.17,
+      304.76,
+      528.01
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      538.97,
+      404.48,
+      589.8
+    ],
+    "text": "33. The State shall provide the Commission with adequate funds to enable the Commission to discharge the functions assigned to it by this Act. Such funds shall be charged on the Consolidated Fund.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      162.0,
+      600.97,
+      404.51,
+      651.8
+    ],
+    "text": "34. The Commission shall commence with an initial capital of financial resources required for its work and such amount of this initial capital shall be paid out of the Consolidated Fund and shall be credited to the Fund established under section 35.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.98,
+      180.9,
+      438.98,
+      201.3
+    ],
+    "text": "Advisory Panel",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      147.55,
+      242.05,
+      152.35,
+      255.54
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.15,
+      305.59,
+      154.75,
+      319.08
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.24,
+      379.28,
+      154.84,
+      392.77
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.24,
+      452.97,
+      154.84,
+      466.46
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.24,
+      552.43,
+      154.84,
+      565.92
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.24,
+      625.06,
+      154.84,
+      638.55
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.98,
+      542.67,
+      456.99,
+      563.06
+    ],
+    "text": "Funding of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.98,
+      603.8,
+      450.01,
+      614.59
+    ],
+    "text": "Initial capital",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka28",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      185.37,
+      399.78,
+      211.4
+    ],
+    "text": "35. (1) The Commission shall have its own Fund. There shall be credited to the Fund of the Commission \u2014",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      179.98,
+      222.73,
+      399.78,
+      248.6
+    ],
+    "text": "(a) money received from the Consolidated Fund, as initial capital of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      179.98,
+      259.93,
+      399.78,
+      285.8
+    ],
+    "text": "(b) all such sums of money as may be received by the Commission in the discharge of its functions;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      179.98,
+      297.13,
+      399.78,
+      335.4
+    ],
+    "text": "(c) all such sums of money as may be received by the Commission by way of donations, gifts or grants from any lawful source:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      179.98,
+      346.73,
+      399.78,
+      385.0
+    ],
+    "text": "provided that such funds received from outside Sri Lanka are channeled through the Department of External Resources; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      179.98,
+      396.33,
+      399.84,
+      422.2
+    ],
+    "text": "(d) all funds raised by the Commission in terms of paragraph (h) of section 13.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      433.53,
+      399.79,
+      484.2
+    ],
+    "text": "(2) There shall be paid out of the Fund of the Commission all such sums of money as may be required to defray any expenditure incurred by the Commission in the discharge of its functions under this Act.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      495.37,
+      399.8,
+      546.2
+    ],
+    "text": "36. The salaries of the members of the Commission shall be determined by the Cabinet of Ministers and shall be charged on the Consolidated Fund and shall not be diminished during their terms of office.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      557.37,
+      399.78,
+      608.2
+    ],
+    "text": "37. The Commission shall cause proper accounts to be kept of its income and expenditure, and assets and liabilities. The accounts of the Commission shall be audited by the Auditor- General in terms of Article 154 of the Constitution.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.3,
+      619.37,
+      399.89,
+      670.2
+    ],
+    "text": "38. The Commission shall submit annual reports of the Commission\u2019s accounts to Parliament, which shall be simultaneously published and disseminated to the public including through electronic media and internet.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      403.28,
+      187.53,
+      446.07,
+      207.92
+    ],
+    "text": "Fund of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      403.28,
+      497.67,
+      451.19,
+      527.66
+    ],
+    "text": "Remuneration of the members",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      403.28,
+      560.44,
+      446.07,
+      590.44
+    ],
+    "text": "Accounts of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      403.28,
+      622.57,
+      429.04,
+      642.96
+    ],
+    "text": "Annual Reports",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      142.85,
+      261.12,
+      147.65,
+      274.61
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.45,
+      346.66,
+      150.05,
+      360.15
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.54,
+      433.7,
+      150.14,
+      447.19
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.54,
+      506.96,
+      150.14,
+      520.45
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.54,
+      582.66,
+      150.14,
+      596.15
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.54,
+      656.29,
+      150.14,
+      669.78
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "29",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      258.41,
+      182.21,
+      305.56,
+      196.05
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      163.83,
+      207.01,
+      402.65,
+      233.25
+    ],
+    "text": "THE IMPLEMENTATION OF THE COMMISSION\u2019S RECOMMENDATIONS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      162.0,
+      244.21,
+      404.55,
+      344.64
+    ],
+    "text": "39. Within one month from the date of publication of the first interim report or the making of interim recommendations by the Commission, the President shall establish a Monitoring Committee to monitor and facilitate the implementation of the recommendations of the Commission (hereinafter reffered to as the \u201cCommittee\u201d). The President shall specify the term of office of the Committee in consultation with the Prime Minister, and may renew such term as deemed necessary.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      162.0,
+      355.81,
+      404.47,
+      381.84
+    ],
+    "text": "40. (1) The Committee, shall consist of eleven persons, appointed by the President, of whom -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      184.68,
+      393.17,
+      404.49,
+      419.04
+    ],
+    "text": "(a) five persons shall be the following ex-officio members :-",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.52,
+      430.37,
+      404.41,
+      468.64
+    ],
+    "text": "(i) Secretary to the Ministry of the Minister assigned the subject of Finance or his nominee;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.52,
+      479.97,
+      404.5,
+      518.24
+    ],
+    "text": "(ii) Secretary to the Ministry of the Minister assigned the subject of Justice, Law and Order or his nominee;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.53,
+      529.57,
+      404.58,
+      567.84
+    ],
+    "text": "(iii) Secretary to the Ministry of the Minister assigned the subject of Defence or his nominee;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.54,
+      579.17,
+      404.54,
+      617.44
+    ],
+    "text": "(iv) Secretary to the Ministry of the Minister assigned the subject of Public Administration or his nominee;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      204.54,
+      628.77,
+      404.49,
+      667.04
+    ],
+    "text": "(v) Secretary to the Ministry of the Minister assigned the subject of Women, Child affairs and Social Empowerment or his nominee; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      408.98,
+      246.87,
+      454.37,
+      296.06
+    ],
+    "text": "Implemen-tation of the recommen-dations of the Commission",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      408.98,
+      357.48,
+      451.11,
+      397.07
+    ],
+    "text": "Compositionof theCommittee & C.",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      147.55,
+      257.06,
+      152.35,
+      270.55
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      145.15,
+      319.6,
+      154.75,
+      333.09
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      145.24,
+      407.29,
+      154.84,
+      420.78
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      145.24,
+      493.98,
+      154.84,
+      507.47
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      145.24,
+      580.67,
+      154.84,
+      594.16
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      145.15,
+      653.3,
+      154.75,
+      666.79
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka30",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      179.98,
+      179.53,
+      399.74,
+      217.8
+    ],
+    "text": "(b) six other persons who shall be citizens of Sri Lanka appointed on the recommendation of the Constitutional Council,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      229.13,
+      399.89,
+      304.6
+    ],
+    "text": "(2) The composition of the Committee shall reflect a gender balance and the pluralistic nature of Sri Lanka, and all members of the Committee shall be persons of integrity and credibility appointed on the basis of knowledge, practical experience and qualifications relevant to the carrying out of functions of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      315.93,
+      399.87,
+      354.2
+    ],
+    "text": "(3) The members referred to in paragraph (b) of subsection (1) shall be appointed for a period of three years and shall be eligible for reappointment.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      365.53,
+      399.78,
+      403.8
+    ],
+    "text": "(4) The remuneration of the members appointed under paragraph (b) of subsection (1) shall be determined by the Cabinet of Ministers.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      415.13,
+      399.8,
+      453.4
+    ],
+    "text": "(5) The provisions of subsections (3), (4) and (5) of section 3, shall, mutatis mutandis apply in respect of appointments to the Committee.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      464.73,
+      399.79,
+      527.8
+    ],
+    "text": "(6) In carrying out its work, the Committee shall liaise with Government ministries, departments, organisations or any person as it deems necessary, and such entities or person shall provide the Committee with the required support and assistance.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      539.13,
+      399.8,
+      589.8
+    ],
+    "text": "(7) The Government shall provide the Committee with adequate resources to fulfill their responsibilities in monitoring and facilitating the implementation of the recommendations of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.3,
+      601.13,
+      399.83,
+      627.0
+    ],
+    "text": "(8) The office of a member of the Committee shall become vacant \u2013",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      179.98,
+      638.33,
+      399.88,
+      664.2
+    ],
+    "text": "(a) upon removal from office by the President with the approval of the Constitutional Council;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      142.85,
+      242.03,
+      147.65,
+      255.52
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.45,
+      315.57,
+      150.05,
+      329.06
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.54,
+      389.26,
+      150.14,
+      402.75
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.54,
+      476.95,
+      150.14,
+      490.44
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.54,
+      551.64,
+      150.14,
+      565.13
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.45,
+      639.33,
+      150.05,
+      652.82
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "31",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      184.68,
+      180.48,
+      333.09,
+      193.95
+    ],
+    "text": "(b) upon the death of such member;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      184.68,
+      205.28,
+      404.47,
+      231.15
+    ],
+    "text": "(c) upon such member resigning from such office by writing addressed to the President;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      184.68,
+      242.48,
+      404.48,
+      280.75
+    ],
+    "text": "(d) on the expiration of the term of the Committee and the consequent expiration of a member\u2019s term of office.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      162.0,
+      292.08,
+      404.59,
+      404.75
+    ],
+    "text": "(9) The Committee shall submit bi-annual reports to the President every six months, evaluating the efforts of the Government and the efforts of any other person or body concerned to implement the recommendations of the Commission and other previous Commissions of Inquiry and the President shall table such reports in Parliament not later than two weeks from the receipt of such report. The Committee shall make copies of such reports available to the public in Sinhala, Tamil and English languages.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      162.0,
+      416.08,
+      404.62,
+      479.15
+    ],
+    "text": "(10) Where the implementation of any recommendation has not been fully complied with, the reports of the Committee shall include the reasons for non-implementation as provided by the persons or organisations responsible for the implementation thereof.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      262.21,
+      490.32,
+      301.76,
+      504.16
+    ],
+    "text": "PART IX",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      257.54,
+      515.12,
+      306.99,
+      528.96
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      162.0,
+      539.92,
+      404.48,
+      615.55
+    ],
+    "text": "41. The members of the Commission (for the limited purpose of their functions under the Act) and the officers and staff of the Commission shall be deemed to be \u201cpublic officers\u201d for the purposes of the Penal Code (Chapter 19), the Anti-Corruption Act, No. 9 of 2023 and the Evidence Ordinance (Chapter 14).",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      162.0,
+      626.72,
+      404.61,
+      677.55
+    ],
+    "text": "42. The Commission shall be deemed to be a \u201cscheduled institution\u201d within the meaning of the Anti-Corruption Act, No. 9 of 2023, and the provisions of that Act shall be construed accordingly.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      147.55,
+      254.1,
+      152.35,
+      267.59
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.24,
+      329.58,
+      154.84,
+      343.07
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.24,
+      391.23,
+      154.84,
+      404.72
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.15,
+      465.64,
+      154.75,
+      479.13
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.24,
+      566.8,
+      154.84,
+      580.29
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.24,
+      640.32,
+      154.84,
+      653.81
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      407.98,
+      542.63,
+      452.68,
+      591.82
+    ],
+    "text": "Members of the Commission to be deemed public officers",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      407.98,
+      628.67,
+      452.68,
+      697.06
+    ],
+    "text": "Commission to be deemed a scheduled institution under Anti-Corruption Act",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka32",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.3,
+      179.37,
+      399.82,
+      279.8
+    ],
+    "text": "43. No member of the Commission or officer or member of the staff of the Commission shall make private use of, or profit from, any confidential information gained as a result of such member\u2019s work in the Commission, or divulge such information to any other person except in the course of his functions as a member of the Commision or officer or member of the, staff of the Commission. This obligation shall survive the expiration of the term of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.3,
+      290.97,
+      399.91,
+      366.6
+    ],
+    "text": "44. Each Member of the Commission or officer or member of the staff of the Commission shall act impartially and without conflict of interest. Accordingly, such member, officer or staff member shall avoid taking any action which could create an appearance of partiality or undermine the integrity of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      168.64,
+      377.77,
+      260.56,
+      391.61
+    ],
+    "text": "45. (1) If any person \u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.15,
+      402.73,
+      399.88,
+      441.0
+    ],
+    "text": "(a) fails without cause to appear before the Commission pursuant to summons issued by the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.15,
+      452.33,
+      399.77,
+      478.2
+    ],
+    "text": "(b) refuses without cause to answer any question put to him by the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.15,
+      489.53,
+      399.81,
+      540.2
+    ],
+    "text": "(c) refuses or fails without cause to comply with the requirements of a notice or written order or direction issued or made to him, by the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.15,
+      551.53,
+      399.79,
+      602.2
+    ],
+    "text": "(d) upon whom a summons is served, refuses or fails without cause to produce any document or other thing, which is in his possession or control;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      194.15,
+      613.53,
+      399.77,
+      651.8
+    ],
+    "text": "(e) resists or obstructs an officer authorized under the Act in the exercise by that officer of the powers conferred on him;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      403.28,
+      180.46,
+      450.65,
+      220.05
+    ],
+    "text": "Prohibition on using information for private use",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      403.28,
+      294.3,
+      449.1,
+      324.3
+    ],
+    "text": "Members and staff to be non-partisan",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      403.28,
+      377.1,
+      431.13,
+      387.9
+    ],
+    "text": "Offences",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      142.95,
+      230.39,
+      147.75,
+      243.88
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.46,
+      302.96,
+      150.06,
+      316.45
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.55,
+      380.06,
+      150.15,
+      393.55
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.55,
+      466.23,
+      150.15,
+      479.72
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.55,
+      555.8,
+      150.15,
+      569.29
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      140.55,
+      627.3,
+      150.15,
+      640.79
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "33",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      179.53,
+      404.5,
+      217.8
+    ],
+    "text": "(f) knowingly hinders or obstructs the Commission in the fulfillment or execution of its powers, obligations and duties;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      229.13,
+      404.47,
+      267.4
+    ],
+    "text": "(g) performs any act aimed at improperly influencing or interfering with the work of the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      278.73,
+      404.56,
+      329.4
+    ],
+    "text": "(h) threatens, intimidates or improperly influences, or attempts to threaten, intimidate or improperly influence any person who has co-operated, or is intending to cooperate with the Commission;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      340.73,
+      404.48,
+      366.6
+    ],
+    "text": "(i) discloses any confidential information in contravention of the provisions of this Act;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      377.93,
+      404.43,
+      403.8
+    ],
+    "text": "(j) without reasonable excuse fails to comply with any other order of the Commission; or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      198.85,
+      415.13,
+      381.99,
+      428.6
+    ],
+    "text": "(k) contravenes the provisions of section 49,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      162.0,
+      439.93,
+      404.48,
+      465.8
+    ],
+    "text": "such person shall be guilty of an offence of contempt against the authority of the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      162.0,
+      477.13,
+      404.48,
+      552.6
+    ],
+    "text": "(2) Where it appears that a person is guilty of an offence of contempt, the Commission shall report such matter to the Court of Appeal. Every offence of contempt committed against the authority of the Commission shall be punishable by the Court of Appeal as though it were an offence of contempt committed against the Court of Appeal.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      162.0,
+      563.77,
+      404.61,
+      627.0
+    ],
+    "text": "46. (1) No order, decision, act or omission of the Commission or any member, officer or servant thereof acting in hereunder shall be questioned in any proceedings or any court of law, save and except in proceedings under Articles 126 and 140 of the Constitution.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      162.0,
+      638.33,
+      404.49,
+      664.2
+    ],
+    "text": "(2) The Writ jurisdiction conferred on the Court of Appeal by Article 140 of the Constitution in relation to any order,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      147.65,
+      241.33,
+      152.45,
+      254.82
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      145.16,
+      316.0,
+      154.76,
+      329.49
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      145.25,
+      415.99,
+      154.85,
+      429.48
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      145.25,
+      502.81,
+      154.85,
+      516.3
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      145.16,
+      575.57,
+      154.76,
+      589.06
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      145.25,
+      651.32,
+      154.85,
+      664.81
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      407.98,
+      566.25,
+      452.76,
+      596.24
+    ],
+    "text": "Special immunity for witnesses",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka34",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      157.3,
+      179.53,
+      399.8,
+      229.0
+    ],
+    "text": "decision, act or omission of the Commission, a panel of the Commission or any member, officer or servant thereof, shall be exercised by the Supreme Court and not the Court of the Appeal.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      168.64,
+      239.37,
+      273.08,
+      253.21
+    ],
+    "text": "47. Subject to section 45 -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      179.98,
+      263.53,
+      399.82,
+      349.0
+    ],
+    "text": "(a) no proceedings civil or criminal, shall be instituted against any member of the Commission or any officer or servant appointed to assist the Commission, other than for contempt against the authority of the Commission, for any act which in good faith is done or omitted to be done, by him, as such member or officer or servant;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      179.98,
+      359.53,
+      399.8,
+      433.0
+    ],
+    "text": "(b) no proceedings civil or criminal, shall be instituted against any member of the Commission in respect of any report made in good faith by the Commission under this Act or against any other person in respect of the publication by such person of a true accounts of such report; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      179.98,
+      443.53,
+      399.78,
+      493.0
+    ],
+    "text": "(c) no proceedings civil, or criminal, or administrative, shall be instituted against any person consequent to such person in good faith, providing evidence, information or documentation to the Commission.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      157.3,
+      503.37,
+      399.83,
+      565.0
+    ],
+    "text": "48. No evidence of any statement made or given by any person to or before the Commission for the purposes of the Commission shall be admissible against that person in any action, prosecution, or other proceedings in any civil or criminal court.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      157.3,
+      575.37,
+      399.8,
+      685.4
+    ],
+    "text": "49. In the case of any inquiry into the disappearance of a person or persons within the mandate of the Commission, the Commission shall defer such investigation if requested by the Office on Missing Persons established under Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016, until such time when the Commission could resume such investigation without compromising the inquiries conducted by the Office on Missing Persons.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      403.28,
+      245.31,
+      446.8,
+      265.7
+    ],
+    "text": "Protection of action",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      403.28,
+      506.84,
+      444.82,
+      536.83
+    ],
+    "text": "No evidence shall be admissible",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      403.28,
+      579.18,
+      448.95,
+      647.57
+    ],
+    "text": "Commission to defer investigations at the request of the Office of Missing Persons",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      142.85,
+      240.4,
+      147.65,
+      253.89
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.45,
+      311.59,
+      150.05,
+      325.08
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.54,
+      384.28,
+      150.14,
+      397.77
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.54,
+      456.97,
+      150.14,
+      470.46
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.54,
+      529.66,
+      150.14,
+      543.15
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.45,
+      601.35,
+      150.05,
+      614.84
+    ],
+    "text": "30",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      140.45,
+      660.33,
+      150.05,
+      673.82
+    ],
+    "text": "35",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      193.43,
+      154.88,
+      371.93,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      392.38,
+      155.47,
+      401.98,
+      168.96
+    ],
+    "text": "35",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      179.37,
+      404.49,
+      217.8
+    ],
+    "text": "50. (1) The Commission may make rules in respect of all or any matter for which rules are authorised or required by this Act to be made.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      229.13,
+      404.48,
+      255.0
+    ],
+    "text": "(2) Every rule made under subsection (1) shall come into force upon publication in the Gazette.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      266.17,
+      404.48,
+      292.2
+    ],
+    "text": "51. The provisions of this Act shall apply notwithstanding any provisions to the contrary in any other written law.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      173.34,
+      315.77,
+      394.41,
+      329.61
+    ],
+    "text": "52. Unless the context otherwise requires, in this Act \u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      173.34,
+      340.73,
+      293.58,
+      354.2
+    ],
+    "text": "\u201can aggrieved person\u201d means;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      184.68,
+      365.53,
+      404.49,
+      416.2
+    ],
+    "text": "(a) a victim who has suffered damage or harm caused to persons as a result of loss of life, or damage or harm caused to persons or property, described under section 12; or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      184.68,
+      427.53,
+      404.56,
+      490.6
+    ],
+    "text": "(b) relatives of a victim described under paragraph (a), provided such victim is deceased, or a \u201cmissing person\u201d as defined under section 27 of the Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      501.93,
+      376.1,
+      515.4
+    ],
+    "text": "\u201cchildren\u201d mean persons under eighteen years of age;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      526.73,
+      404.43,
+      552.6
+    ],
+    "text": "\u201cdamage or harm to persons\u201d includes physical or mental damage or harm;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      563.93,
+      404.48,
+      589.8
+    ],
+    "text": "\u201cdamage or harm to property\u201d includes destruction, damage, loss, or deprivation of property; and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      162.0,
+      601.13,
+      404.37,
+      627.0
+    ],
+    "text": "\u201crelatives\u201d in relation to a deceased victim or a missing person include the following;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      184.68,
+      638.33,
+      234.52,
+      651.8
+    ],
+    "text": "(a) spouse;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      184.68,
+      663.13,
+      240.07,
+      676.6
+    ],
+    "text": "(b) children;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      407.98,
+      181.78,
+      425.42,
+      192.57
+    ],
+    "text": "Rules",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      407.98,
+      268.49,
+      451.08,
+      308.08
+    ],
+    "text": "Provisions of this Act to prevail over other law",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      407.98,
+      319.77,
+      452.83,
+      330.57
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      146.65,
+      243.01,
+      151.45,
+      256.5
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      144.25,
+      367.63,
+      153.85,
+      381.12
+    ],
+    "text": "10",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      144.25,
+      441.01,
+      153.85,
+      454.5
+    ],
+    "text": "15",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      145.25,
+      528.22,
+      154.85,
+      541.71
+    ],
+    "text": "20",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      145.25,
+      615.43,
+      154.85,
+      628.92
+    ],
+    "text": "25",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      157.3,
+      154.47,
+      374.35,
+      177.8
+    ],
+    "text": "Commission for Truth, Unity and Reconciliation in Sri Lanka36",
+    "fonts": [
+      "MinionPro-Regular",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      179.98,
+      183.48,
+      231.48,
+      196.95
+    ],
+    "text": "(c) parents;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      179.98,
+      208.28,
+      273.7,
+      221.75
+    ],
+    "text": "(d) brothers or sisters;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      179.98,
+      233.08,
+      399.77,
+      258.95
+    ],
+    "text": "(e) parents-in law, brothers or sisters-in law, sons or daughters in law;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      179.98,
+      270.28,
+      333.94,
+      296.15
+    ],
+    "text": "(f) grandchildren and grandparents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      157.3,
+      307.32,
+      399.78,
+      333.35
+    ],
+    "text": "53. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      403.28,
+      308.61,
+      446.71,
+      357.8
+    ],
+    "text": "Sinhala textto prevail in case of any inconsistency",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      142.95,
+      269.51,
+      147.75,
+      283.0
+    ],
+    "text": "5",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      206.05,
+      669.63,
+      391.92,
+      681.77
+    ],
+    "text": "Printed at the Department of Government Printing",
+    "fonts": [
+      "MinionPro-Regular"
+    ],
+    "sizes": [
+      9.0
+    ]
+  }
+]
