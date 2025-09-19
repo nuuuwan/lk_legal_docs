@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_22:53:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_23:20:33-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**100,946** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**1.8 GB**), from **2010-01-01** to **2025-09-18**, scraped from **[https://documents.gov.lk/view/extra-gazettes/egz_2025.html](https://documents.gov.lk/view/extra-gazettes/egz_2025.html)**
+- [**100,946** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**2.0 GB**), from **2010-01-01** to **2025-09-18**, scraped from **[https://documents.gov.lk/view/extra-gazettes/egz_2025.html](https://documents.gov.lk/view/extra-gazettes/egz_2025.html)**
 
 - In **JSON**, **PDF** (1%), **TXT** (1%) & **🤗 Hugging Face** (1%)
 

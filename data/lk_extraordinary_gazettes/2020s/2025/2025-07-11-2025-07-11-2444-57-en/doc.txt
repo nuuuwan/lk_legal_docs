@@ -1,0 +1,89 @@
+(Published by Authority)
+
+ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ගැසට් පත්‍රය
+
+අති විශෙෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS
+
+Title Registration
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 97 of Block 2, contained in the Cadastral Map No. 720101, situated in the Village of Ampitiya within the Grama Niladhari Division of No. 127B - Bohitiya in the Divisional Secretary's Division of Moneragala, in the District of Monaragala, in the Province of Uva, referred to in Notice No. 72/0255 calling for claims to land parcels which was duly published in the Gazette No. 2294/24 of 22nd August, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 03rd March, 2025.
+
+අංක 2444/57 - 2025 ජූලි මස 11 වැනි සිකුරාදා - 2025.07.11
+
+No. 2444/57 – FRIDAY, JULY 11, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044804 - 04 (2025/07)
+
+2 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:97 0.1722 Aluth Gedara Wimalathunga 761312030V Full 1st Class _ Subject to the Ampitiya, Dombgahawela Conditions of L D O EOG 07 - 0126/1
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 11, 1 : 38 and 1 : 67 of Block 2, contained in the Cadastral Map No. 720103, situated in the Village of Kawudawa within the Grama Niladhari Division of No. 129H - Hulandawa South in the Divisional Secretary's Division of Moneragala, in the District of Monaragala, in the Province of Uva, referred to in Notice No. 72/0256 calling for claims to land parcels which was duly published in the Gazette No. 2294/24 of 22nd August, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 03rd March, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:11 0.3676 Kondadeniya Mudiyanselage 630663954V Full 1st Class _ Subject to the Kakubanda Conditions of No. 17, Gemunupura, L D O Hulandawa South, Monaragala 1:38 0.3611 Pare Gedara Sirisena 196331703524 Full 1st Class _ Subject to the Pragathi Mawatha, Sirigala, Conditions of Monaragala L D O 1:67 0.2206 Weerasooriya Mudiyanselage Sarath 196521701443 Full 1st Class _ Subject to the Weerasooriya Conditions of No. 02/35, Hulandawa South, L D O Monaragala EOG 07 - 0126/2
+
+3 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 82 and 1 : 117 of Block 2, contained in the Cadastral Map No. 720105, situated in the Village of Wedikumbura within the Grama Niladhari Division of No. 127A - Veheragala in the Divisional Secretary's Division of Moneragala, in the District of Monaragala, in the Province of Uva, referred to in Notice No. 72/0271 calling for claims to land parcels which was duly published in the Gazette No. 2294/16 of 22nd August, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 03rd March, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:82 0.6824 Konara Mudiyanselage Senevirathna 673392237V Full 1st Class _ Subject to the Godolbedda, Weheragala, Conditions of Wedikumbura, Monaragala L D O 1:117 0.4047 Konara Mudiyanselage Ananda 197917603452 Full 1st Class _ Subject to the Rajakaruna Conditions of Gadolbedda, Weheragala, L D O Wedikumbura, Monaragala EOG 07 - 0126/3
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 14, 1 : 15, 1 : 44, 1 : 55, 1 : 62, 1 : 69, 1 : 72, 1 : 75, 1 : 76, 1 : 77, 1 : 79, 1 : 85, 1 : 86, 1 : 90, 1 : 91, 1 : 92, 1 : 98, 1 : 100, 1 : 102, 1 : 106, 1 : 107, 1 : 109, 1 : 112, 1 : 113, 1 : 114, 1 : 115, 1 : 116, 1 : 117 and 1 : 119 of Block 3, contained in the Cadastral Map No. 720105, situated in the Village of Weheragala within the Grama Niladhari Division of No. 127A - Veheragala in the Divisional Secretary's Division of Moneragala, in the District of Monaragala, in the Province of Uva, referred to in Notice No. 72/0348 calling for claims to land parcels which was duly published in the Gazette No. 2354/35 of 21st October, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 03rd March, 2025.
+
+4 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:14 0.4047 The State Full 1st Class _ Possessed by Galauda Gedara Sujeewa Malkanthi Gadolbedda, Weheragala, Wedikumbura Under the Licence No. 127A/271/2017 1:15 0.3617 The State Full 1st Class _ Possessed by Galauda Gedara Lalani Damayanthi No. 57, Zone 02, Viyali Govipola, Muthukandiya, Siyambalanduwa Under the Licence No. 127A/294/2019 1:44 0.8094 The State Full 1st Class _ Possessed by Pulihingayalage Sunil Dematapitiya, Gadolbedda, Weheragala Wedikumbura Under the Licence No 127A/194/2014 1:55 0.8094 Konara Mudiyanselage Gunasekara 660063603V Full 1st Class _ Subject to the Gadolbedda, Weheragala, Conditions of Monaragala L D O 1:62 0.2918 The State Full 1st Class _ _ 1:69 0.0075 The State Full 1st Class _ _ 1:72 0.2162 The State Full 1st Class _ _ 1:75 0.0300 The State Full 1st Class _ _ 1:76 0.8094 The State Full 1st Class _ _ 1:77 0.8094 The State Full 1st Class _ _ 1:79 0.8094 The State Full 1st Class _ _ 1:85 0.8094 The State Full 1st Class _ _ 1:86 0.4273 The State Full 1st Class _ _ 1:90 0.6245 The State Full 1st Class _ _ 1:91 0.8094 The State Full 1st Class _ _ 1:92 0.7630 The State Full 1st Class _ _ 1:98 0.3106 The State Full 1st Class _ _ 1:100 2.7505 The State Full 1st Class _ _ 1:102 0.1560 The State Full 1st Class _ _ 1:106 0.8094 The State Full 1st Class _ _ 1:107 1.1996 The State Full 1st Class _ _ 1:109 0.4710 The State Full 1st Class _ _ 1:112 0.3385 The State Full 1st Class _ _
+
+5 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+1:113 0.8094 The State Full 1st Class _ _ 1:114 0.5964 The State Full 1st Class _ _ 1:115 0.7909 The State Full 1st Class _ Possessed by Aluth Gedara Sriyani Amarathunga No. 69, Thanagallanda, Marawa, Monaragala Under the Licence No. 127A/256/2017 1:116 0.8094 The State Full 1st Class _ _ 1:117 0.0772 The State Full 1st Class _ _ 1:119 0.0316 The State Full 1st Class _ _ EOG 07 - 0126/4
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 10, 1 : 12, 1 : 17, 1 : 19, 1 : 22, 1 : 26, 1 : 34 and 1 : 38 of Block 11, contained in the Cadastral Map No. 720108, situated in the Village of Thenagalalanda within the Grama Niladhari Division of No. 125B - Thenagallanda in the Divisional Secretary's Division of Moneragala, in the District of Monaragala, in the Province of Uva, referred to in Notice No. 72/0351 calling for claims to land parcels which was duly published in the Gazette No. 2363/38 of 20th December, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 03rd March, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:10 0.2566 The State Full 1st Class _ Possessed by Horathal Pedige Shelton
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+6 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+Suranimala No.06, Thanagallanda, Marawa, Monaragala Under the Licence No. 125B/398/2019 1:12 0.8094 The State Full 1st Class _ Possessed by Wickramsingha Arachchi Pemawathi, Thanagallanda, Marawa, Monaragala Under the Licence No. 125B/253/2017 1:17 1.0117 Weerasingha Arachchilage Sumithra 797285277V Full 1st Class _ Subject to the Weerasingha Conditions of Thanagallanda, Marawa, L D O Monaragala 1:19 0.3096 The State Full 1st Class _ Possessed by Kaluwage Geetha Kanthi, Thanagallanda, Marawa, Monaragala Under the Licence No. 125B/408/2019 1:22 0.8094 Mahagoda Vithanage Kamalawathi 195375910109 Full 1st Class Subject to the Subject to the Benkuwe Gedara, Thenagallanda, Mortgage to Conditions of Marawa, Monaragala No. 61 - L D O Dated 13.03.2023 Monaragala East Samurdhi Bank Society 1:26 0.8094 The State Full 1st Class _ Possessed by Wahumpura Dewayalage Sisira Jayantha No. 281, Huladawa Wama, Marawa, Monaragala Under the Licence No. 125B/151/2011 1:34 0.6070 Athukoralage heen Banda 195730803270 Full 1st Class _ Subject to the Thenagallanda, Marawa, Conditions of Monaragala L D O
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+7 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.11 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.07.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+1:38 0.8094 The State Full 1st Class _ Possessed by Wadiya Ralale Sujith Priyantha Bandara, Thanagallanda, Marawa, Monaragala Under the Licence No. 125B/152/2011 EOG 07 - 0126/5
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)

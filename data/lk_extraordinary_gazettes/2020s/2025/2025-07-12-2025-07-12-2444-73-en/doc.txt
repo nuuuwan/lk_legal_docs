@@ -1,0 +1,65 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 144, 1 : 145, 1 : 147, 1 : 149 and 1 : 151 of Block 1, contained in the Cadastral Map No. 110570, situated in the Village of Perimiyankulama within the Grama Niladhari Division of No. 529 - Perimiyankulama in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0462 calling for claims to land parcels which was duly published in the Gazette No. 2358/34 of 14th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+අංක 2444/73 - 2025 ජූලි මස 12 වැනි ෙසනසුරාදා - 2025.07.12
+
+No. 2444/73 – SATURDAY, JULY 12, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044820 - 04 (07/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.12 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.07.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:144 0.3996 The State Full 1st Class _ _ 1:145 0.2388 The State Full 1st Class _ _ 1:147 0.5590 The State Full 1st Class _ _ 1:149 1.0414 The State Full 1st Class _ _ 1:151 0.6928 The State Full 1st Class _ _ EOG 07 - 0142/1 _______________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 113, 1 : 119, 1 : 121, 1 : 124, 1 : 134 and 1 : 138 of Block 3, contained in the Cadastral Map No. 110570, situated in the Village of Orukmankulama within the Grama Niladhari Division of No. 529 - Perimiyankulama in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0464 calling for claims to land parcels which was duly published in the Gazette No. 2363/38 of 20th December, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:113 0.1404 The State Full 1st Class _ _ 1:119 0.0382 The State Full 1st Class _ _ 1:121 8.0383 The State Full 1st Class _ _ 1:124 0.5481 The State Full 1st Class _ _ 1:134 0.0280 The State Full 1st Class _ _ 1:138 0.0120 The State Full 1st Class _ _ EOG 07 - 0142/2
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.12 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.07.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 129 of Block 4, contained in the Cadastral Map No. 110600, situated in the Village of Thirappanegama within the Grama Niladhari Division of No. 533 - Thirappanegama in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0466 calling for claims to land parcels which was duly published in the Gazette No. 2363/38 of 20th December, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:129 0.3759 The State Full 1st Class _ Road EOG 07 - 0142/3 _______________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 189 and 1 : 216 of Block 5, contained in the Cadastral Map No. 110600, situated in the Village of Thirappanegama within the Grama Niladhari Division of No. 533 - Thirappanegama in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0487 calling for claims to land parcels which was duly published in the Gazette No. 2369/47 of 20th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.12 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.07.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:189 0.0068 The State Full 1st Class _ Possessed by Thilakarathnage Ranjani Thilakarathna under the licence 750/519 , Subject to the conditions of L.D.O 1:216 0.1202 The State Full 1st Class _ _ EOG 07 - 0142/4 ____________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 5 : 82, 5 : 100, 5 : 101, 5 : 102, 5 : 103, 5 : 104, 5 : 105, 5 : 106, 5 : 107, 10 : 59, 10 : 60, 10 : 73, 10 : 119, 10 : 120, 10 : 121, 10 : 122, 10 : 240, 10 : 241, 10 : 242, 10 : 245, 10 : 246, 10 : 247 and 10 : 248 of Block 1, contained in the Cadastral Map No. 110609, situated in the Village of Alisthana within the Grama Niladhari Division of No. 548 - Alisthana in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0493 calling for claims to land parcels which was duly published in the Gazette No. 2376/10 of 18th March, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 5:100 0.1083 The State Full 1st Class _ _ 5:101 0.0728 The State Full 1st Class _ _ 5:102 0.0836 The State Full 1st Class _ _ 5:103 0.0595 The State Full 1st Class _ _ 5:104 0.1020 The State Full 1st Class _ _ 5:105 0.0895 The State Full 1st Class _ _
+
+5 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.12 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.07.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 5:106 0.0941 The State Full 1st Class _ _ 5:107 0.0606 The State Full 1st Class _ _ 10:59 0.0030 The State Full 1st Class _ Canal 10:60 0.0746 The State Full 1st Class _ Canal 10:73 0.5959 The State Full 1st Class _ _ 10:119 0.0231 The State Full 1st Class _ Land allocated along the canal 10:120 0.1728 The State Full 1st Class _ Road 10:121 0.1112 The State Full 1st Class _ Canal 10:122 0.0591 The State Full 1st Class _ Open wasteland 10:123 3.1818 The State Full 1st Class _ Open wasteland 10:124 0.9743 The State Full 1st Class _ Land allocated for roads and along canals 10:125 0.2123 The State Full 1st Class _ Road 10:126 0.8554 The State Full 1st Class _ Spill Canal 10:127 0.0379 The State Full 1st Class _ _ 10:178 0.0182 The State Full 1st Class _ Land allocated along the canal 10:234 0.0706 The State Full 1st Class _ Land allocated along the canal 10:235 0.0368 The State Full 1st Class _ Canal 10:236 0.0635 The State Full 1st Class _ Land allocated along the canal 10:237 0.0613 The State Full 1st Class _ _ 10:238 0.1487 The State Full 1st Class _ Land allocated along the canal 10:239 0.1258 The State Full 1st Class _ Canal 10:240 0.3057 The State Full 1st Class _ Road and lane 10:241 0.0441 The State Full 1st Class _ Land allocated along the canal 10:242 0.5991 The State Full 1st Class _ _ 10:245 0.0469 The State Full 1st Class _ Road 10:246 0.0688 The State Full 1st Class _ Possessed by Wilegoda Gamage Dinesha Erandi Gamage under the licence No 133/1228 Subject to the conditions of L.D.O 10:247 0.0286 The State Full 1st Class _ Land allocated along the canal 10:248 0.0178 The State Full 1st Class _ Canal EOG 07 - 0142/5
+
+6 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.12 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.07.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 107 of Block 3, contained in the Cadastral Map No. 110609, situated in the Village of Wanamal Uyana (Meegasseegama) within the Grama Niladhari Division of No. 548 - Alisthana in the Divisional Secretary's Division of Thirappane, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0467 calling for claims to land parcels which was duly published in the Gazette No. 2363/38 of 20th December, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd May, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:107 1.6070 The State Full 1st Class _ _ EOG 07 - 0142/6
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
