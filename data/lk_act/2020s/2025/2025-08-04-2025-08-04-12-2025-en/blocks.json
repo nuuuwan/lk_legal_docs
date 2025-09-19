@@ -1,0 +1,5449 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      71.58,
+      159.44,
+      348.49,
+      208.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.17,
+      466.47,
+      364.15,
+      475.32
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.05,
+      477.14,
+      307.37,
+      482.68
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.17,
+      489.08,
+      362.17,
+      501.12
+    ],
+    "text": "Price : Rs. 80.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.17,
+      538.46,
+      236.68,
+      547.32
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.36,
+      243.75,
+      347.68,
+      257.36
+    ],
+    "text": "COMPANIES (AMENDMENT) ACT, No. 12 OF 2025",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.26,
+      303.78,
+      281.48,
+      314.85
+    ],
+    "text": "[Certi\ufb01 ed on 04th of August, 2025]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.88,
+      350.78,
+      280.88,
+      361.85
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.57,
+      407.78,
+      352.99,
+      432.85
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of August 07, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 20251",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      88.37,
+      120.59,
+      99.71
+    ],
+    "text": "L.D.- O. 61/2024",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      106.37,
+      281.11,
+      117.71
+    ],
+    "text": "AN ACT TO AMEND THE COMPANIES ACT, NO. 07 OF 2007",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      132.37,
+      293.95,
+      156.71
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      171.37,
+      293.93,
+      195.71
+    ],
+    "text": "1. (1) This Act may be cited as the Companies (Amendment) Act, No. 12 of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      210.37,
+      293.93,
+      247.71
+    ],
+    "text": "(2) The provisions of this Act other than the provisions of this section shall come into operation on such date as the Minister may appoint by Order published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      262.37,
+      293.94,
+      286.71
+    ],
+    "text": "(3) The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      301.37,
+      293.94,
+      351.71
+    ],
+    "text": "2. Section 4 of the Companies Act, No. 07 of 2007 (hereinafter referred to as the \u201cprincipal enactment\u201d) is hereby amended by the repeal of subsection (2) thereof and the substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.43,
+      366.37,
+      293.94,
+      403.71
+    ],
+    "text": "\u201c(2) A company, other than a company limited by guarantee, may have a single shareholder, who may -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      418.37,
+      293.92,
+      481.71
+    ],
+    "text": "(a) be a natural person; (b) be a body corporate; or (c) be the Secretary to the Treasury holding shares on behalf of the Government of Sri Lanka.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      496.37,
+      293.94,
+      546.71
+    ],
+    "text": "3. Section 11 of the principal enactment is hereby amended in subsection (5) thereof by the substitution for the words \u201cten working days\u201d, of the words \u201ctwenty working days\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.4,
+      303.69,
+      358.28,
+      331.96
+    ],
+    "text": "Amendment of section 4 of Act, No. 07 of 2007",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.4,
+      498.04,
+      353.62,
+      535.91
+    ],
+    "text": "Amendment of section 11 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.4,
+      173.61,
+      362.51,
+      192.28
+    ],
+    "text": "Short title and the date of operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.78,
+      72.78,
+      241.89,
+      83.85
+    ],
+    "text": "[Certi\ufb01 ed on 04th of August, 2025]",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "2Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.13,
+      80.42,
+      370.63,
+      105.16
+    ],
+    "text": "4. Section 51 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.13,
+      120.62,
+      370.63,
+      145.36
+    ],
+    "text": "(1) by the insertion immediately after subsection (1) thereof, of the following new subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.13,
+      160.82,
+      370.62,
+      212.36
+    ],
+    "text": "\u201c(1A) A company shall not issue a share warrant to bearer or bearer share irrespective of whether its articles of association purport to authorise it to do so.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.13,
+      227.82,
+      334.12,
+      239.16
+    ],
+    "text": "For the purposes of this subsection -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202.13,
+      254.62,
+      370.62,
+      346.36
+    ],
+    "text": "\u201cshare warrant to bearer\u201d means a negotiable instrument whose ownership is determined by possession of the issued physical warrant certi\ufb01 cate, and any other similar warrant or instrument without traceability, but does not include \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.13,
+      361.82,
+      370.62,
+      480.36
+    ],
+    "text": "(a) any instrument that only confers rights to subscribe for shares in a company under speci\ufb01 ed conditions, but not ownership or entitlement to ownership in shares, unless and until the instrument is exercised or redeemed; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.13,
+      495.82,
+      370.63,
+      547.36
+    ],
+    "text": "(b) a dematerialised or registered form of warrant or any other instrument whose owners can be identi\ufb01 ed; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.13,
+      80.85,
+      106.34,
+      118.72
+    ],
+    "text": "Amendment of section 51 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 20253",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125.43,
+      80.42,
+      293.93,
+      239.16
+    ],
+    "text": "\u201cbearer share\u201d means a negotiable instrument which may contain the rights speci\ufb01 ed in section 49 but whose ownership is determined by the simple possession of a physically issued share certi\ufb01 cate, and any other similar instrument such as security to the bearer named in section 110(1)(b)(iii), without traceability, but does not include a dematerialised or registered form of share certi\ufb01 cate whose owners can be identi\ufb01 ed.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      254.62,
+      293.92,
+      306.16
+    ],
+    "text": "(2) in sub-paragraph (i) of paragraph (a) of subsection (4) thereof, by the substitution for the words \u201cshares issued;\u201d, of the words \u201cshares issued and names of the persons to whom such shares are issued;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      321.62,
+      293.95,
+      373.16
+    ],
+    "text": "5. The following new section is hereby inserted immediately after section 51 of the principal enactment, which shall have effect as section 51A of the principal enactment:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.43,
+      388.62,
+      293.93,
+      493.76
+    ],
+    "text": "51A. (1) Every holder of any share warrant to bearer or bearer shares shall, within sixty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 inform the issuing company of such fact and provide to the secretary of the company in writing his name, address and other contact details.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.43,
+      509.22,
+      293.93,
+      547.36
+    ],
+    "text": "(2) The company shall, upon the receipt of details under subsection (1) maintain a register and record such details forthwith.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.4,
+      322.62,
+      357.83,
+      360.49
+    ],
+    "text": "Insertion of new section 51A of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.71,
+      390.23,
+      97.57,
+      456.91
+    ],
+    "text": "\u201cDuty of the existing holder of any share warrant to bearer or bearer share.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "4Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      182.13,
+      80.42,
+      370.62,
+      155.76
+    ],
+    "text": "(3) Where any holder of any share warrants to bearer or bearer shares fails to comply with the provisions of subsection (1), any rights associated with such share warrants to bearer or bearer shares shall stand nulli\ufb01 ed at the end of such period speci\ufb01 ed in that subsection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      182.13,
+      170.02,
+      370.62,
+      283.76
+    ],
+    "text": "(4) Every holder of any share warrants to bearer or bearer shares shall, within sixty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 or upon the nulli\ufb01 cation under subsection (3), convert such share warrants to bearer or bearer shares to shares in registerable form for the purpose of the shareholder register under the provisions of section 123(1).\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      298.02,
+      370.63,
+      334.96
+    ],
+    "text": "6. Section 52 of the principal enactment is hereby amended by the repeal of subsection (3) thereof, and the substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      349.22,
+      370.63,
+      488.56
+    ],
+    "text": "\u201c(3) Upon receipt of the consideration, the company shall make an allotment of the shares within twenty working days of the receipt of such consideration: Provided however, that the period of time speci\ufb01 ed in this subsection shall not apply in respect of the issuance of shares which are fully paid up from the reserves of the company to all shareholders of the same class in proportion to the number of shares held by each shareholder.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      502.82,
+      370.64,
+      552.56
+    ],
+    "text": "7. The following new division is hereby inserted immediately after section 130 (SHARE REGISTER) of the principal enactment and shall have effect as a new division of that enactment: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.13,
+      299.83,
+      106.34,
+      337.7
+    ],
+    "text": "Amendment of section 52 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.6,
+      504.8,
+      107.04,
+      542.67
+    ],
+    "text": "Insertion of new division in the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 20255",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153.03,
+      81.13,
+      245.8,
+      92.47
+    ],
+    "text": "\u201cBENEFICIAL OWNERSHIP",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.43,
+      107.63,
+      293.94,
+      213.47
+    ],
+    "text": "130A. (1) Every company incorporated or registered under this Act or any former written law relating to companies (under this heading referred to as the \u201ccompany\u201d) shall, at the time of incorporation or within twenty working days of the issue of any shares or transfer of shares, give notice to the Registrar in the prescribed form of-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.43,
+      229.13,
+      293.92,
+      294.47
+    ],
+    "text": "(a) the full names and previous full names (if any) as appearing in the identi\ufb01 cation document of bene\ufb01 cial owners of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.43,
+      310.12,
+      293.92,
+      375.47
+    ],
+    "text": "(b) the dates and places of birth, nationalities, countries of residence, and the last known addresses of bene\ufb01 cial owners of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.43,
+      391.12,
+      293.91,
+      456.47
+    ],
+    "text": "(c) the residential addresses, business addresses, email addresses, and postal addresses of bene\ufb01 cial owners of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.43,
+      472.12,
+      293.92,
+      550.96
+    ],
+    "text": "(d) the National Identity Card numbers, Tax Identi\ufb01 cation Numbers, or passport numbers and the countries of issuance of bene\ufb01 cial owners of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.23,
+      109.67,
+      100.56,
+      166.74
+    ],
+    "text": "Details of the bene\ufb01 cial ownership of a company to be given to the Registrar.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "6Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.1,
+      80.42,
+      370.61,
+      104.86
+    ],
+    "text": "(e) the contact details of bene\ufb01 cial owners of the company; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.1,
+      119.72,
+      370.63,
+      157.26
+    ],
+    "text": "(f) a full statement describing the nature and the extent of the bene\ufb01 cial ownership.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      182.1,
+      172.12,
+      370.62,
+      222.76
+    ],
+    "text": "(2) Every shareholder shall, within ten working days of the subscription of any shares or transfer of shares give the details speci\ufb01 ed in subsection (1) to the company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      182.1,
+      237.62,
+      370.62,
+      314.46
+    ],
+    "text": "(3) Every director or secretary of the company shall disclose the details referred to in subsection (1) relating to bene\ufb01 cial owners of the company to the Registrar when such director or secretary becomes aware of such details.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      182.1,
+      329.32,
+      370.62,
+      432.36
+    ],
+    "text": "(4) (a) The company shall maintain a register and record the details speci\ufb01 ed in subsection (1) when it becomes aware of such details and the company shall keep such register of bene\ufb01 cial owners of the company subject to the provisions of paragraph (b) of subsection (3) of section 116 at its registered of\ufb01 ce.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      182.1,
+      447.22,
+      370.62,
+      497.86
+    ],
+    "text": "(b) The provisions of section 124 relating to the place of the share register of a company shall mutatis mutandis apply to the register of bene\ufb01 cial owners of the company.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      182.1,
+      512.72,
+      370.63,
+      550.26
+    ],
+    "text": "(5) (a) A company shall keep and maintain records of the details of the bene\ufb01 cial owners of the company and the nature and extent of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 20257",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      79.71,
+      293.72,
+      117.65
+    ],
+    "text": "the bene\ufb01 cial ownership of the company for a period of at least ten years after the date on which the record was made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      132.91,
+      293.73,
+      250.65
+    ],
+    "text": "(b) The administrator or liquidator of a company under dissolution and any other person involved in the dissolution of a company shall keep and maintain records of the details of the bene\ufb01 cial owners of the company and the nature and extent of the bene\ufb01 cial ownership of the company for a period of at least \ufb01 ve years after the date on which the company is dissolved or otherwise ceases to exist.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      265.91,
+      293.73,
+      290.55
+    ],
+    "text": "(6) The Registrar shall maintain a register to record the details speci\ufb01 ed in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      305.81,
+      293.72,
+      383.65
+    ],
+    "text": "(7) The company shall, within fourteen working days upon the receipt of details that a person holds, acquires, or effects a subsequent change of bene\ufb01 cial ownership of a company, notify the Registrar of such details speci\ufb01 ed in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      398.91,
+      293.72,
+      463.45
+    ],
+    "text": "(8) Every company shall, subject to the provisions of subsection (7) deliver the details of bene\ufb01 cial owners of the company in a form as may be prescribed together with the annual return of the company under section 131.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.43,
+      478.71,
+      293.72,
+      543.25
+    ],
+    "text": "(9) The provisions of section 181 relating to the power to require information as to persons interested in shares or debentures shall mutatis mutandis apply to bene\ufb01 cial owners of the company.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "8Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      182.13,
+      81.12,
+      370.62,
+      157.47
+    ],
+    "text": "(10) Notwithstanding the provisions of subsection (2) of section 262, the provisions of sections 130A to 130J shall apply to an offshore company incorporated outside Sri Lanka and registered under this Act and an overseas company registered under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      182.13,
+      172.13,
+      370.63,
+      235.47
+    ],
+    "text": "(11) In this section, the expression \u201cformer written law relating to companies\u201d means any written law repealed by the Companies Ordinance (Chapter 145) or the Companies Act, No. 17 of 1982 or this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      182.13,
+      250.13,
+      370.63,
+      430.47
+    ],
+    "text": "130B. A company or the Registrar shall, upon a request made by the Attorney-General, Financial Intelligence Unit established under the Financial Transactions Reporting Act, No. 6 of 2006, Director-General of Customs, Commissioner-General of Inland Revenue, any public authority having the responsibility for investigating or prosecuting money laundering, terrorist \ufb01 nancing or any other criminal offences, any public procurement authority, or any regulatory authority make available the details of the bene\ufb01 cial owners of the company held or submitted under section 130A.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      182.13,
+      445.12,
+      370.62,
+      482.46
+    ],
+    "text": "130C. (1) A company shall appoint, in a prescribed manner a natural person residing in Sri Lanka as the authorised person who is \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.13,
+      497.12,
+      370.61,
+      534.46
+    ],
+    "text": "(a) responsible for the safe keeping of the register of the bene\ufb01 cial owners of the company; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128.2,
+      251.86,
+      170.64,
+      270.53
+    ],
+    "text": "Details to be furnished.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128.2,
+      447.23,
+      177.07,
+      504.3
+    ],
+    "text": "Appointment of a person for safekeeping and making available details.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 20259",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.43,
+      80.42,
+      293.71,
+      156.76
+    ],
+    "text": "(b) authorised by the company to make the details of the bene\ufb01 cial owners of the company recorded in terms of section 130A available to the person or authority speci\ufb01 ed in section 130B.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      171.42,
+      293.72,
+      234.76
+    ],
+    "text": "(2) The company shall disclose the details of the authorised person referred to in subsection (1) at the time of incorporation and any subsequent changes to such authorised person in a form as may be prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      249.42,
+      293.72,
+      351.76
+    ],
+    "text": "(3) Every company incorporated or registered under the Companies Act, No. 07 of 2007 or any former written law relating to companies shall, within a period of three months from the date of operation of the Companies (Amendment) Act, No. 12 of 2025, disclose the details of the authorised person referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      366.42,
+      293.73,
+      494.76
+    ],
+    "text": "130D. (1) The Registrar shall make the details of the bene\ufb01 cial owners of a company promptly accessible to the public, whether electronically or physically. Such details shall be limited to the full names and former full names (if any), nationalities (including dual citizenship, where applicable), countries of residence, business addresses, and the nature and extent of bene\ufb01 cial ownership in the company:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      509.22,
+      293.73,
+      546.16
+    ],
+    "text": "Provided however, any member of the public seeking any further information set out in subsection (1) of section 130A, may make",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51.43,
+      368.05,
+      87.42,
+      386.72
+    ],
+    "text": "Details for public.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "10Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182.2,
+      80.81,
+      370.63,
+      117.95
+    ],
+    "text": "an application for information in terms of the provisions of the Right to Information Act, No. 12 of 2016.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182.2,
+      132.61,
+      370.63,
+      195.95
+    ],
+    "text": "(2) Any member of the public who intends to obtain an authenticated copy of the details referred to in subsection (1) shall make an application to the Registrar accompanied by a fee as may be prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182.2,
+      210.21,
+      370.62,
+      234.35
+    ],
+    "text": "130E. If the Registrar has reasonable grounds to believe that a company-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      161.2,
+      248.61,
+      370.62,
+      298.35
+    ],
+    "text": "(a) has failed or fails to keep and maintain a register of bene\ufb01 cial owners of the company referred to in section 130A; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      161.2,
+      312.61,
+      370.62,
+      349.55
+    ],
+    "text": "(b) has failed or fails to comply with any time period referred to in section 130A,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182.2,
+      363.81,
+      370.63,
+      426.35
+    ],
+    "text": "the Registrar shall, in writing issue a directive to the company instructing the company to comply with the provisions of section 130A within a period of seven working days from the date of receiving the directive.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      182.2,
+      440.61,
+      370.63,
+      528.75
+    ],
+    "text": "130F. Notwithstanding anything to the contrary in any other written law, a claim to bene\ufb01 cial ownership of a company may not be claimed or be recognised for any lawful purpose, unless such bene\ufb01 cial ownership is disclosed and registered in the manner set out under this heading.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      442.39,
+      167.01,
+      470.67
+    ],
+    "text": "A claim for bene\ufb01 cial ownership.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.28,
+      212.13,
+      178.28,
+      269.21
+    ],
+    "text": "Failing to keep and maintain a register of bene\ufb01 cial owners of the company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202511",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      118.43,
+      80.42,
+      238.85,
+      91.76
+    ],
+    "text": "130G. (1) A company which \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.43,
+      105.42,
+      293.94,
+      141.76
+    ],
+    "text": "(a) contravenes or fails to comply with subsection (1), (3), (4), (7) or (8) of section 130A;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.43,
+      154.92,
+      293.94,
+      228.76
+    ],
+    "text": "(b) knowingly provides false or misleading details about a bene\ufb01 cial owner of the company or the nature and extent of the bene\ufb01 cial ownership of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.43,
+      241.92,
+      293.94,
+      303.26
+    ],
+    "text": "(c) knowingly withholds details of a bene\ufb01 cial owner of the company that should be entered into the register referred to in subsection (1) of section 130A; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.43,
+      316.42,
+      293.94,
+      352.76
+    ],
+    "text": "(d) knowingly makes a false entry into the register referred to in subsection (1) of section 130A,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      105.43,
+      365.92,
+      293.95,
+      427.26
+    ],
+    "text": "shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding one million rupees or to imprisonment of either description for a period not exceeding ten years or to both such \ufb01 ne and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      105.43,
+      440.42,
+      293.96,
+      551.76
+    ],
+    "text": "(2) Where an offence under this section is committed, then every person who at the time of the commission of the offence was a director or an of\ufb01 cer of such company shall be deemed to have committed that offence unless such person proves that the offence was committed without such person\u2019s knowledge, or that such person exercised all due diligence to prevent the commission of such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      81.25,
+      84.3,
+      90.32
+    ],
+    "text": "Offences.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "12Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      182.13,
+      81.12,
+      369.61,
+      196.47
+    ],
+    "text": "(3) A shareholder, secretary or authorised person who contravenes or fails to comply with the provisions under subsection (2) of section 130A or subsection (3) of section 130A or 130C shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding one million rupees or to imprisonment of either description for a period not exceeding ten years or to both such \ufb01 ne and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      182.13,
+      211.13,
+      369.61,
+      365.47
+    ],
+    "text": "130H. (1) Every company incorporated or registered under the Companies Act, No. 07 of 2007 or any former written law relating to companies and having bene\ufb01 cial owners on the date of operation of the Companies (Amendment) Act, No. 12 of 2025 shall, in the prescribed form and manner, forward to the Registrar the details relating to bene\ufb01 cial owners of that company in terms of section 130A within six months from the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      182.13,
+      380.12,
+      369.62,
+      508.47
+    ],
+    "text": "(2) Every depositary of a licensed stock exchange shall, within thirty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 in the prescribed form and manner, be required to verify, report, record and notify the Registrar of the details of the shareholders of a company who held ten per cent or more of the issued shares of the company on the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      182.13,
+      523.12,
+      369.61,
+      547.46
+    ],
+    "text": "(3) Every company shall, within thirty days from the date of operation of the Companies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128.13,
+      212.28,
+      173.01,
+      307.76
+    ],
+    "text": "Special provisions relating to reporting, receiving, etc. of details relating to bene\ufb01 cial ownership of the company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202513",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      105.63,
+      81.13,
+      293.92,
+      157.47
+    ],
+    "text": "(Amendment) Act, No. 12 of 2025, in the prescribed form and manner, be required to verify, report, record and notify the Registrar of the details of bene\ufb01 cial owners of the company on the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      105.63,
+      172.13,
+      293.93,
+      261.47
+    ],
+    "text": "(4) A company which contravenes or fails to comply with any provisions of this section shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding \ufb01 fty thousand rupees or to imprisonment of either description for a period not exceeding six months, or to both such \ufb01 ne and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      105.63,
+      276.13,
+      293.93,
+      339.47
+    ],
+    "text": "(5) In this section, the expression \u201cformer written law relating to companies\u201d means any written law repealed by the Companies Ordinance (Chapter 145) or the Companies Act, No. 17 of 1982 or this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      105.63,
+      354.12,
+      293.93,
+      378.46
+    ],
+    "text": "130I. The Minister may make regulations in respect of all or any of the following matters: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84.63,
+      393.12,
+      293.92,
+      430.46
+    ],
+    "text": "(a) maintenance of the register of bene\ufb01 cial ownership of the company;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84.63,
+      445.12,
+      293.92,
+      482.46
+    ],
+    "text": "(b) reporting of an acquisition of bene\ufb01 cial ownership of the company; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84.63,
+      497.12,
+      293.92,
+      534.46
+    ],
+    "text": "(c) for obtaining details relating to bene\ufb01 cial ownership of the company.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51.43,
+      356.14,
+      93.65,
+      365.21
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "14Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      195.13,
+      80.96,
+      305.56,
+      92.3
+    ],
+    "text": "130J. Under this heading -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      224.13,
+      107.96,
+      369.61,
+      294.8
+    ],
+    "text": "\u201cbene\ufb01 cial owner\u201d means a natural person who ultimately owns or controls ten per cent or more of a company, in whole or in part, through, direct or indirect ownership or control of shares or voting rights or other ownership interest in that company, and also includes a natural person who exercises effective control through other means, and bene\ufb01 cial ownership is to be construed accordingly;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      224.13,
+      310.46,
+      369.61,
+      483.8
+    ],
+    "text": "\u201ceffective control\u201d includes a situation where control is exercised indirectly either through a chain of ownership or by appointment or removal of a director or by any other means of indirect control, such as the ability to take strategic decision that affects the operation of the company, its business practices or general direction of the company.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      128.13,
+      499.46,
+      369.62,
+      537.8
+    ],
+    "text": "8. Section 206 of the principal enactment is hereby amended by the repeal of subsections (2) and (3) thereof and the substitution therefor, of the following new subsections: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.13,
+      503.31,
+      106.34,
+      541.18
+    ],
+    "text": "Amendment of section 206 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      128.13,
+      80.85,
+      173.67,
+      89.92
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202515",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.43,
+      80.42,
+      293.74,
+      195.76
+    ],
+    "text": "\u201c(2) Where a company intends to remove a director and appoint a new director in the place of the director so removed, a special notice shall be given to all shareholders of the company and it shall be the duty of the secretary to the company to send a copy of the special notice to the director who is to be removed. Such director shall be entitled to be heard at such meeting irrespective of whether or not such director is a shareholder of that company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.43,
+      210.42,
+      293.74,
+      286.76
+    ],
+    "text": "(3) Upon the receipt of the special notice under subsection (2), the director concerned may, within fourteen working days from the date of receipt of the special notice make a representation to the company in writing requiring the company to notify each shareholder of the company.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.43,
+      301.42,
+      293.73,
+      416.76
+    ],
+    "text": "(4) The secretary to the company shall forthwith send a copy of the representation to every shareholder of the company. Where a copy of the representation has not been sent due to negligence of the company or due to the fact that the representation was received after the expiry of a period speci\ufb01 ed therein, the secretary to the company shall read out the representation at the meeting, if such director so requires:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.43,
+      431.42,
+      293.73,
+      546.76
+    ],
+    "text": "Provided that where the company is able to satisfy the court that the provisions of this section are being abused by the director concerned in order to secure unnecessary publicity of a defamatory nature, the company may seek an order of the court for costs to be paid by such director, and to refrain from sending such representation to the shareholders or reading such representation at the meeting.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "16Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      128.13,
+      80.88,
+      369.62,
+      157.22
+    ],
+    "text": "9. Section 211 of the principal enactment is hereby amended in subsection (1) thereof, by the substitution for the words \u201cvalid only for one year from his appointment.\u201d of the words and \ufb01 gures, \u201cvalid till the next annual general meeting subject to paragraph (b) of subsection (1) of section 133 of the Act.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      128.13,
+      171.88,
+      369.61,
+      196.22
+    ],
+    "text": "10. Section 270 of the principal enactment is hereby amended by the repeal of paragraph (c) thereof.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      128.13,
+      223.88,
+      369.61,
+      261.22
+    ],
+    "text": "11. Section 272 of the principal enactment is hereby amended by the repeal of subparagraph (i) of paragraph (a) of subsection (1) thereof.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      128.13,
+      275.88,
+      369.61,
+      313.22
+    ],
+    "text": "12. Section 341 of the principal enactment is hereby amended by the repeal of subsection (3) thereof and the substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      165.13,
+      327.88,
+      369.61,
+      482.22
+    ],
+    "text": "\u201c(3) Within one week from the date of the meetings referred to in subsection (1), or where no such meetings are held on the same date, from the date of the subsequent meeting, the liquidator shall send to the Registrar a copy of the accounts and shall make a return to him con\ufb01 rming the fact of the holding of the meetings and of their dates, and where the copy is not sent or the return is not made in accordance with the provisions of this subsection, the liquidator shall be guilty of an offence and on conviction, be liable a \ufb01 ne not exceeding \ufb01 fty thousand rupees .\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      128.13,
+      496.88,
+      369.62,
+      547.22
+    ],
+    "text": "13. Section 424 of the principal enactment is hereby amended in subsection (2) thereof, by the substitution for the words \u201cit may reasonably require.\u201d, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.3,
+      498.64,
+      106.52,
+      546.11
+    ],
+    "text": "Amendment of section 424 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.21,
+      173.53,
+      106.43,
+      211.41
+    ],
+    "text": "Amendment of section 270 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.3,
+      225.69,
+      106.52,
+      263.56
+    ],
+    "text": "Amendment of section 272 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      55.71,
+      277.67,
+      105.93,
+      315.54
+    ],
+    "text": "Amendment of section 341 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.04,
+      80.85,
+      106.26,
+      118.72
+    ],
+    "text": "Amendment of section 211 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202517",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      88.43,
+      80.17,
+      197.57,
+      91.51
+    ],
+    "text": "\u201cit may reasonably require:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      88.43,
+      106.17,
+      293.74,
+      260.51
+    ],
+    "text": "Provided however, where an administrator is unable to provide the required information within the period of time speci\ufb01 ed in the notice made under this subsection, such administrator may forward an application to the Registrar setting out therein the reasons for such inability. Upon consideration of the application and reasons, the Registrar may extend, subject to any terms and conditions, if any, the period of time speci\ufb01 ed for the providing of information. The Registrar shall, in writing communicate his decision to the administrator and the creditors\u2019 committee.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      51.43,
+      275.17,
+      293.73,
+      299.51
+    ],
+    "text": "14. Section 471 of the principal enactment is hereby amended as follows: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      51.43,
+      314.17,
+      293.71,
+      351.51
+    ],
+    "text": "(1) in subsection (1) thereof, by the insertion immediately after paragraph (a), of the following new paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      84.43,
+      366.17,
+      293.72,
+      403.51
+    ],
+    "text": "\u201c(aa) persons by name or by of\ufb01 ce, to be or to act as Additional Registrars-General of Companies;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      51.43,
+      418.17,
+      293.72,
+      494.51
+    ],
+    "text": "(2) in subsection (2) thereof, by the substitution for the words and \ufb01 gure \u201csubsection (1) as a Deputy Registrar-General of Companies\u201d, of the words and \ufb01 gure \u201csubsection (1) as an Additional Registrar-General of Companies or a Deputy Registrar-General of Companies\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      51.43,
+      509.17,
+      293.74,
+      533.51
+    ],
+    "text": "(3) by the addition immediately after subsection (2) thereof, of the following new subsection: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      303.4,
+      276.9,
+      353.62,
+      314.78
+    ],
+    "text": "Amendment of section 471 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "18Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      176.89,
+      80.42,
+      370.42,
+      169.76
+    ],
+    "text": "\u201c(3) Any class or category of of\ufb01 cers of the Department of the Registrar-General of Companies may be paid incentive allowance in such manner and at such rates, and shall be subject to such conditions of service, as may be prescribed in consultation with the Minister in charge of the subject of Finance.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      127.89,
+      184.42,
+      370.42,
+      221.76
+    ],
+    "text": "15. Section 472 of the principal enactment is hereby amended by the repeal of subsection (1) thereof and the substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      127.89,
+      236.42,
+      370.44,
+      364.76
+    ],
+    "text": "\u201c(1) A person who is aggrieved by an act or decision of the Registrar may appeal to the court within \ufb01 fteen working days after the date of receiving notice of the act or decision or such further time as the court may allow.\u201d. 16. The following new section is hereby inserted immediately after section 484 of the principal enactment, which shall have effect as section 484A of the principal enactment: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      181.89,
+      379.42,
+      370.42,
+      546.76
+    ],
+    "text": "484A. (1) Where a company is unable to furnish such information or produce any book, register or other document before the date speci\ufb01 ed in the notice under subsection (1) of section 484, such company may make an application together with the reasons therefor to the Registrar for an extension of such period. Upon the consideration of the application and reasons, the Registrar may extend the time period subject to the terms and conditions as he may think \ufb01 t to impose. The Registrar shall in writing communicate his decision to the company.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      128.13,
+      381.23,
+      177.12,
+      428.7
+    ],
+    "text": "\u201cRegistrar\u2019s power to grant extension for acts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      56.13,
+      185.75,
+      106.34,
+      223.62
+    ],
+    "text": "Amendment of section 472 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      56.01,
+      315.08,
+      110.44,
+      352.96
+    ],
+    "text": "Insertion of new section 484A of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202519",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      105.63,
+      79.71,
+      293.93,
+      117.05
+    ],
+    "text": "(2) Where the company fails to comply with the direction within the extended period of time under subsection (1)\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      84.63,
+      131.71,
+      293.92,
+      182.05
+    ],
+    "text": "(a) the company shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding \ufb01 ve hundred thousand rupees;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      84.63,
+      196.71,
+      293.92,
+      260.05
+    ],
+    "text": "(b) every of\ufb01 cer of the company who is in default shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding two hundred thousand rupees.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      51.63,
+      274.71,
+      293.94,
+      325.05
+    ],
+    "text": "17. Section 487 of the principal enactment is hereby amended in subsection (5) thereof, by the substitution for the words \u201cshall vest in and be at the disposal of the State.\u201d, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      82.63,
+      339.71,
+      274.28,
+      351.05
+    ],
+    "text": "\u201cshall vest in and be at the disposal of the State:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      81.63,
+      365.71,
+      293.94,
+      546.05
+    ],
+    "text": "Provided that any company of which, the name has been struck off under subsection (3) may before the expiry of a period of ten years from the date of operation of the Companies (Amendment) Act, No. 12 of 2025, apply to court making the Attorney-General a party to such application and show cause to the satisfaction of the court stating reasons why such company was unable to comply with the provisions of subsection (1). After such inquiry as the court may deem necessary, the court may permit the re-registration of the company and upon such registration, make an order for the return to the company of all property previously vested in the State under this subsection:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      303.4,
+      276.03,
+      353.62,
+      313.9
+    ],
+    "text": "Amendment of section 487 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "20Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      158.13,
+      80.77,
+      370.66,
+      157.11
+    ],
+    "text": "Provided further that where property vested in the State under the provisions of this subsection has been dealt with or disposed of, by the State, the rights of third parties who have acquired such rights from the State in good faith shall not be affected in any manner:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      158.13,
+      171.77,
+      370.65,
+      222.11
+    ],
+    "text": "Provided however, where the property has been destroyed or damaged or, physical possession of the property has not been taken by the State, the State shall not be liable to any party in any manner.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.13,
+      236.77,
+      370.65,
+      274.11
+    ],
+    "text": "18. Section 508 of the principal enactment is hereby amended by the repeal of subsection (1) thereof and substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.13,
+      288.77,
+      255.61,
+      300.11
+    ],
+    "text": "\u201c(1) A party to a dispute \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      134.13,
+      314.77,
+      370.64,
+      339.11
+    ],
+    "text": "(a) arising in giving effect to the provisions of this Act; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      134.13,
+      353.77,
+      370.65,
+      378.11
+    ],
+    "text": "(b) which relates to the management of affairs of any company,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.13,
+      392.77,
+      370.66,
+      469.11
+    ],
+    "text": "may request the Companies Disputes Board that the dispute may be referred to for mediation before a member of the Companies Disputes Board and the President of the Companies Disputes Board may, if he deems appropriate, refer the same for mediation to any member of the Companies Disputes Board.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.13,
+      483.77,
+      370.67,
+      534.11
+    ],
+    "text": "19. The following new section is hereby inserted immediately after section 513 of the principal enactment, and shall have effect as section 513A of the principal enactment: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      55.99,
+      484.87,
+      110.43,
+      522.75
+    ],
+    "text": "Insertion of new section 513A in the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      56.7,
+      239.29,
+      106.92,
+      277.16
+    ],
+    "text": "Amendment of section 508 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202521",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      105.43,
+      80.42,
+      293.73,
+      213.26
+    ],
+    "text": "513A. (1) A person, a director, a secretary or an of\ufb01 cer who contravenes or fails to comply with any provisions of this Act or any regulation made thereunder for which no punishment is expressly provided for such offence shall be guilty of an offence and be liable on conviction to a \ufb01 ne not exceeding one million rupees or to imprisonment of either description for a period not exceeding six months, or to both such \ufb01 ne and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      105.43,
+      228.92,
+      293.73,
+      294.26
+    ],
+    "text": "(2) Where any provision of this Act is contravened or omitted or failed to comply with by a body of persons and where no punishment is expressly provided in this Act, if such body of persons \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      84.43,
+      309.92,
+      293.72,
+      348.26
+    ],
+    "text": "(a) is a body corporate, every director, manager or secretary of such body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      84.43,
+      363.92,
+      293.72,
+      388.76
+    ],
+    "text": "(b) is a \ufb01 rm, every partner of that \ufb01 rm; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      84.43,
+      404.42,
+      293.71,
+      442.76
+    ],
+    "text": "(c) is an unincorporated body other than a \ufb01 rm, every member of such body,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      105.43,
+      458.42,
+      293.73,
+      537.26
+    ],
+    "text": "shall be deemed to have committed an offence and shall, on conviction be liable to a \ufb01 ne not exceeding \ufb01 ve hundred thousand rupees or to imprisonment of either description for a period not exceeding one year or to both such \ufb01 ne and imprisonment:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      51.43,
+      81.56,
+      89.43,
+      100.23
+    ],
+    "text": "\u201cGeneral penalties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "22Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      182.13,
+      81.12,
+      370.65,
+      157.46
+    ],
+    "text": "Provided however, that no such person shall be deemed to be guilty an offence if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of the offence.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      128.13,
+      172.12,
+      370.65,
+      222.46
+    ],
+    "text": "20. Section 529 of the principal enactment is hereby amended by the repeal of paragraph (a) of the de\ufb01 nition of the expression \u201cdistribution\u201d and the substitution therefor, of the following: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      128.13,
+      237.12,
+      370.65,
+      274.46
+    ],
+    "text": "\u201c(a) the direct or indirect transfer of money or property other than the shares of the company, to or for the bene\ufb01 t of a shareholder; or\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      128.13,
+      289.12,
+      370.65,
+      365.46
+    ],
+    "text": "21. The sections of the principal enactment speci\ufb01 ed in Column I of the Schedule hereto, are hereby amended by the substitution for the words and \ufb01 gures speci\ufb01 ed in the corresponding entry in Column II, of the words and \ufb01 gures speci\ufb01 ed in the corresponding entry in Column III of that Schedule.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      128.13,
+      380.12,
+      370.65,
+      404.46
+    ],
+    "text": "22. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      227.24,
+      420.95,
+      269.01,
+      430.02
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      330.14,
+      433.95,
+      368.13,
+      443.02
+    ],
+    "text": "[section 21]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      134.5,
+      447.74,
+      195.47,
+      456.82
+    ],
+    "text": "No.Column I",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      165.59,
+      466.94,
+      195.8,
+      485.62
+    ],
+    "text": "Sections Amended",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      234.35,
+      447.74,
+      267.02,
+      456.82
+    ],
+    "text": "Column II",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      239.58,
+      476.54,
+      261.8,
+      485.62
+    ],
+    "text": "Repeal",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      312.47,
+      447.74,
+      347.8,
+      456.82
+    ],
+    "text": "Column III",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      320.8,
+      476.54,
+      339.46,
+      485.62
+    ],
+    "text": "Insert",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      132.38,
+      490.09,
+      346.8,
+      499.16
+    ],
+    "text": "119(2)paragraph \u201c(c)\u201dparagraph \u201c(b)\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      132.38,
+      513.24,
+      354.94,
+      531.91
+    ],
+    "text": "228(1)\u201ccomply with the requirments\u201d \u201ccomply with the requirements\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      56.13,
+      173.33,
+      106.34,
+      211.2
+    ],
+    "text": "Amendment of section 529 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      56.13,
+      292.26,
+      107.01,
+      330.14
+    ],
+    "text": "Amendment ofcertain sectionsof the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      56.13,
+      382.8,
+      113.0,
+      409.47
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202523",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      85.1,
+      274.89,
+      103.77
+    ],
+    "text": "337(3)(a)\u201cto the shatres or debentures;\u201d\u201cto the shares or debentures;\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      117.85,
+      272.68,
+      136.52
+    ],
+    "text": "440(3)(b)\u201cthe dosuments (if any)\u201d\u201cthe documents (if any)\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      150.6,
+      257.45,
+      169.27
+    ],
+    "text": "540(4) \u201cWhere a prosopectus\u201d\u201cWhere a prospectus\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      173.74,
+      184.74,
+      202.02
+    ],
+    "text": "641 (Marginal Note)\u201cCivil liability untrue in prospectus\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      219.69,
+      173.74,
+      272.79,
+      211.62
+    ],
+    "text": "\u201cCivil liability in respect ofuntrue statementin prospectus.\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      225.69,
+      274.35,
+      234.76
+    ],
+    "text": "741(2)(c)\u201cpubilc notice\u201d\u201cpublic notice\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      248.84,
+      263.67,
+      267.51
+    ],
+    "text": "844(b)\u201creferrence incorporated\u201d\u201creference incorporated\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      271.98,
+      258.8,
+      290.66
+    ],
+    "text": "961(3)(b)\u201crelive the director\u201d\u201crelieve the director\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      295.13,
+      276.33,
+      304.2
+    ],
+    "text": "1064(3)(a)\u201cmakes and offer\u201d\u201cmakes an offer\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      318.28,
+      287.01,
+      336.95
+    ],
+    "text": "1167(2)(b)\u201cpruposes of section 56.\u201d \u201cpurposes of section 56.\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      341.43,
+      288.34,
+      360.1
+    ],
+    "text": "1277(1)\u201ctitle to the shares or debters\u201d, \u201ctitle to the shares or debtors\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      374.17,
+      276.35,
+      383.24
+    ],
+    "text": "1384(2)\u201csame priorites\u201d \u201csame priorities\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      397.32,
+      275.89,
+      415.99
+    ],
+    "text": "1484(4)\u201cissue of another denenture\u201d,\u201cissue of another debenture\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      430.07,
+      201.94,
+      458.34
+    ],
+    "text": "1584(5)\u201cpriority which any person would have had\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      220.69,
+      430.07,
+      285.34,
+      458.34
+    ],
+    "text": "\u201cpriority which any person would have had\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      482.01,
+      279.44,
+      500.69
+    ],
+    "text": "1686(3)\u201cshares have been transfered\u201d, \u201cshares have been transferred\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.68,
+      514.76,
+      284.45,
+      533.43
+    ],
+    "text": "1792(1)(b)\u201ctransaction for the purpose\u201d, \u201ctransaction for the purpose\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "24Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      85.46,
+      346.76,
+      94.53
+    ],
+    "text": "1892(1)(e)\u201csuchection (1)\u201d, subsection (1)\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      108.6,
+      355.94,
+      127.27
+    ],
+    "text": "1995(2)\u201cunder susection (1)\u201d, \u201cunder subsection (1)\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      141.35,
+      360.38,
+      150.42
+    ],
+    "text": "2098(2)\u201cand the compnay\u201d \u201cand the company\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      164.5,
+      358.5,
+      183.17
+    ],
+    "text": "21102(4)\u201cprovisions of this secetion,\u201d \u201cprovisions of this section,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      197.24,
+      347.16,
+      215.92
+    ],
+    "text": "22102(11)(a)\u201c\ufb01 fty thouand rupees;\u201d, \u201c\ufb01 fty thousand rupees;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      229.99,
+      353.5,
+      239.06
+    ],
+    "text": "23111(4)\u201cfails to compaly\u201d, \u201cfails to comply\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      253.14,
+      361.13,
+      271.81
+    ],
+    "text": "24116(2)\u201cand the refereces is paragraph (h)\u201d, \u201cand the references in paragraph (h)\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      288.02,
+      287.1,
+      316.29
+    ],
+    "text": "25119(1)(b)\u201cwritten communications to all sharehloders\u201d,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      297.39,
+      288.02,
+      360.5,
+      316.29
+    ],
+    "text": "\u201cwritten communications to all shareholders\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      330.37,
+      350.7,
+      349.04
+    ],
+    "text": "26127\u201cany nawspaper circulating\u201d, \u201cany newspaper circulating\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      363.11,
+      348.26,
+      381.79
+    ],
+    "text": "27129(1)\u201centered on the shareregister\u201d, \u201centered on the share register\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      394.82,
+      361.93,
+      413.49
+    ],
+    "text": "28142(5)\u201ccompany\u2019s costs on an applicaition\u201d, \u201ccompany\u2019s cost on an application\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      427.57,
+      358.38,
+      436.64
+    ],
+    "text": "29152(1)(c)\u201csign on behlaf\u201d, \u201csigned on behalf\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      450.71,
+      347.92,
+      469.39
+    ],
+    "text": "30167(1)\u201cannual general meeting report\u201d, \u201cannual report\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      481.11,
+      343.27,
+      490.19
+    ],
+    "text": "31168(1)(j)\u201csubsidaries\u201d, \u201csubsidiaries\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.38,
+      505.38,
+      358.6,
+      533.65
+    ],
+    "text": "32168(2)\u201cin paragraphs (b) to (j) of subsection (1).\u201d, \u201cin paragraphs (d) to (j) of subsection (1).\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202525",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      85.1,
+      282.13,
+      94.17
+    ],
+    "text": "33175(5)\u201cNotwithstansing\u201d, \u201cNotwithstanding\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      119.09,
+      285.66,
+      137.76
+    ],
+    "text": "34180(4)\u201cwhere an inspector is appinted\u201d, \u201cwhere an inspector is appointed\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      151.84,
+      266.13,
+      170.51
+    ],
+    "text": "35182(3)\u201cappeal to the court\u201d, \u201cappeal to the court\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      174.99,
+      264.11,
+      193.66
+    ],
+    "text": "36185(2)\u201ccorporal or incorporeal\u201d, \u201ccorporeal or incorporeal\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      202.82,
+      268.57,
+      221.49
+    ],
+    "text": "37220(1)\u201cworking days form\u201d, \u201cworking days from\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      225.97,
+      266.34,
+      244.64
+    ],
+    "text": "38220(4)\u201cauothorises or permits\u201d, \u201cauthorises or permits\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      260.42,
+      231.69,
+      269.49
+    ],
+    "text": "39228(c)(iiii)(iii)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      278.81,
+      266.57,
+      297.49
+    ],
+    "text": "40241(3)(e)\u201cnecessary to enble\u201d \u201cnecessary to enable\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      301.96,
+      266.57,
+      320.63
+    ],
+    "text": "41242(1)(b)(iii)\u201cthe board is sati\ufb01 ed\u201d, \u201c the board is satis\ufb01 ed\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      325.11,
+      261.24,
+      343.78
+    ],
+    "text": "42242(5)\u201cshall sign a ceri\ufb01 cate\u201d\u201cshall sign a certi\ufb01 cate\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      348.26,
+      276.12,
+      366.93
+    ],
+    "text": "43245(f)\u201cby or against an amagamating\u201d, \u201cby or against an amalgamating\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      378.87,
+      283.45,
+      397.54
+    ],
+    "text": "44246(3)\u201cwhcih are to be so acquired\u201d, \u201cwhich are to be so acquired\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      411.62,
+      279.44,
+      439.89
+    ],
+    "text": "45248(2)\u201cunder paragraph (d) of subsection (1)\u201d, \u201cunder paragraph (e) of subsection (1)\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      450.73,
+      285.47,
+      459.8
+    ],
+    "text": "46249(2)(b)(vii)\u201ccontaining detalis\u201d, \u201ccontaining details\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      473.87,
+      266.56,
+      502.15
+    ],
+    "text": "47273(1)\u201cOn hearing a winding-up pritition\u201d, \u201cOn hearing a winding up petition\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      55.68,
+      513.19,
+      281.22,
+      531.87
+    ],
+    "text": "48274(b)\u201cto restrain further peoceedings\u201d,\u201cto restrain further proceedings\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "26Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      85.81,
+      277.34,
+      114.08
+    ],
+    "text": "49283(1)\"when the securites were respectively given\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      296.38,
+      85.81,
+      363.26,
+      114.08
+    ],
+    "text": "\u201cwhen the securities were respectively given\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      129.57,
+      363.24,
+      148.24
+    ],
+    "text": "50284(1)\u201cIn the case where a windingup order\u201d, \u201cIn the case where a winding up order\u201d .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      171.92,
+      357.64,
+      180.99
+    ],
+    "text": "51287\u201cshall have affact\u201d, \u201cshall have effect\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      195.07,
+      357.03,
+      213.74
+    ],
+    "text": "52290\u201cWhere a windingup order\u201d, \u201cWhere a winding up order\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      227.81,
+      287.63,
+      294.49
+    ],
+    "text": "53292(2)(c)\u201csequsetration in respect of that balance as a separate debt due from the bankrupt or insolvent, and ratebly with the other seperate creditors;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      296.39,
+      227.81,
+      351.93,
+      313.69
+    ],
+    "text": "\u201csequestration in respect of that balance separate debt due from the bankrupt or insolvent, and ratebly with the other separate creditors \u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      332.93,
+      349.94,
+      351.6
+    ],
+    "text": "54292(2)(h)\u201cwindingup the affairs\u201d \u201cwinding up the affairs\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      360.53,
+      350.59,
+      369.6
+    ],
+    "text": "55296(4)\u201cprescrihed fee\u201d,\u201cprescribed fee\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      383.68,
+      341.04,
+      402.35
+    ],
+    "text": "56298(1)\u201cmade a \ufb01 nal retuen\u201d, \u201cmade a \ufb01 nal return\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      416.42,
+      364.59,
+      435.1
+    ],
+    "text": "57298(3)\u201cdischarge him form all liability\u201d, \u201cdischarge him from all liability\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      449.17,
+      362.6,
+      458.24
+    ],
+    "text": "58299(1)\u201cseperate meetings\u201d, \u201cseparate meetings\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      472.32,
+      348.83,
+      490.99
+    ],
+    "text": "59324(1)\u201cnot exceeding twelve moths\u201d\u201cnot exceeding twelve months\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      132.38,
+      514.66,
+      347.04,
+      533.34
+    ],
+    "text": "60326(2)\u201cdirectors shall cease, execpt\u201d, \u201cdirectors shall cease, except\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202527",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      85.81,
+      286.79,
+      104.48
+    ],
+    "text": "61328(1)\u201con the liquidator or an anthority\u201d, \u201con the liquidator or an authority\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      116.93,
+      284.13,
+      135.6
+    ],
+    "text": "62352\u201cfor the prupose of giving jurisdiction\u201d, \u201cfor the purpose of giving jurisdiction\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      149.68,
+      258.12,
+      168.35
+    ],
+    "text": "63358(11)(a)\u201cmakes or authourises\u201d, \u201cmakes or authorizes\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      182.33,
+      269.89,
+      201.01
+    ],
+    "text": "64373(4)(a)\u201cthe period of one moth\u201d, \u201cperiod of one month\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      215.08,
+      194.28,
+      243.35
+    ],
+    "text": "65377(6)\u201cthe lessor\u2019s convenants in the lease\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      219.68,
+      215.08,
+      273.68,
+      243.35
+    ],
+    "text": "\u201cthe lessor\u2019s covenants in the lease\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      250.13,
+      275.45,
+      278.4
+    ],
+    "text": "66387\u201cshall be exempt form stamp duty\u201d, \u201cshall be exempt from the stamp duty\u201d.\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      287.33,
+      266.12,
+      306.0
+    ],
+    "text": "67389(3)\u201cappeal to the Court of Appeal\u201d, \u201cappeal to the courts\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      320.08,
+      268.79,
+      338.75
+    ],
+    "text": "68396(3)\u201cto the Deputy Secretaty\u201d, \u201cto the Deputy Secretary\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      352.83,
+      200.04,
+      381.1
+    ],
+    "text": "69404(5)\u201cshall prepare proposals in accodroance with\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      219.68,
+      352.83,
+      277.44,
+      381.1
+    ],
+    "text": "\u201cshall prepare proposals in accordance with\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      393.77,
+      267.24,
+      412.45
+    ],
+    "text": "70414 (Marginal Note)\u201cConsentto be appointmented.\u201d\u201cConsent to beappointed.\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      426.52,
+      287.2,
+      435.59
+    ],
+    "text": "71428(2)\u201cshall be registrered\u201d, \u201cshall be registered\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      449.67,
+      197.84,
+      487.54
+    ],
+    "text": "72428(3)\u201csections 16 to 22 of the Registration of Decuments Ordinance\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      219.69,
+      449.67,
+      281.24,
+      487.54
+    ],
+    "text": "\u201csections 16 to 22 of the Registration of Documents Ordinance\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.68,
+      500.93,
+      213.16,
+      529.2
+    ],
+    "text": "73431(6)\u201cunless the \ufb02 oating charge was registered in repsect of that land\u201d,",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      219.69,
+      500.93,
+      286.11,
+      538.8
+    ],
+    "text": "\u201cunless the \ufb02 oating charge was registered in respect of that land\u201d.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "28Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      85.1,
+      343.51,
+      113.37
+    ],
+    "text": "74449(2)(a)\u201cto obtain the mortagee\u2019s consent\u201d, \u201cto obtain the mortgagee\u2019s consent\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      127.45,
+      359.08,
+      146.12
+    ],
+    "text": "75450(3)(d)\u201ccalled upon to ful\ufb01 l obligations\u201d, \u201ccalled upon to ful\ufb01 ll obligations\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      160.2,
+      343.51,
+      178.87
+    ],
+    "text": "76450(4)\u201crefrains form acting\u201d \u201crefrains from acting\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      183.34,
+      356.61,
+      192.42
+    ],
+    "text": "77470(1)\u201cfor the pruposes\u201d, \u201cfor the purposes\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      206.49,
+      272.53,
+      234.76
+    ],
+    "text": "78472(2)\u201ccourt\u201d (wherever it appears in that subsection)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.96,
+      206.49,
+      319.5,
+      215.56
+    ],
+    "text": "\u201ccourt\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      245.3,
+      289.01,
+      273.57
+    ],
+    "text": "79481(3)\u201cnothing in this section shall, rejudice the operation\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.96,
+      245.3,
+      347.74,
+      283.17
+    ],
+    "text": "\u201cnothing in this section shall, prejudice the operation\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      293.84,
+      276.32,
+      322.11
+    ],
+    "text": "80482\u201cDepartment of the Registrar-General\u201d (wherever occurs)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.96,
+      293.84,
+      363.94,
+      322.11
+    ],
+    "text": "\u201cDepartment of the Registrar-General of Companies\u201d",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      336.19,
+      283.89,
+      364.46
+    ],
+    "text": "81514(1)\u201ccredited to the Fund estabilshed under this Act.\u201d,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      295.96,
+      336.19,
+      351.96,
+      364.46
+    ],
+    "text": "\u201ccredited to the Fund established under this Act.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      374.98,
+      344.17,
+      403.26
+    ],
+    "text": "82519(3)(c)\u201ca pertnership formed for the purpose\u201d, \u201ca partnership formed for the purpose\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      412.73,
+      345.06,
+      431.4
+    ],
+    "text": "83First Schedule 17(3)\u201cless that ten per centum\u201d, \u201cless than ten per centum\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      445.48,
+      343.06,
+      464.15
+    ],
+    "text": "84First Schedule 17(4)\u201cless that ten per centum\u201d, \u201cless than ten per centum\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      478.22,
+      353.06,
+      496.9
+    ],
+    "text": "85First Schedule 31(1)\u201cboard may form time to time\u201d \u201cboard may from time to time\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      131.95,
+      510.97,
+      186.85,
+      539.24
+    ],
+    "text": "86Fourth Schedule Part I 7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      212.56,
+      510.97,
+      345.72,
+      529.64
+    ],
+    "text": "\u201ceach provious allotment\u201d, \u201ceach previous allotment\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      80.59,
+      44.42,
+      291.24,
+      55.76
+    ],
+    "text": "Companies (Amendment) Act, No. 12 of 202529",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      85.1,
+      110.58,
+      113.37
+    ],
+    "text": "87Fourth Schedule Part I 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      136.29,
+      85.1,
+      272.78,
+      103.77
+    ],
+    "text": "\u201cthose shates or debentures\u201d, \u201cthose shares or debentures\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      121.04,
+      125.47,
+      149.31
+    ],
+    "text": "88Fourth Schedule Part II 20(3)(b)(i)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      136.29,
+      121.04,
+      287.01,
+      139.71
+    ],
+    "text": "\u201ccombine assest and liabilities\u201d, \u201ccombine assets and liabilities\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      163.39,
+      118.8,
+      201.26
+    ],
+    "text": "89Fourth Schedule Part II 20(3)(b)(ii)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      136.29,
+      163.39,
+      257.47,
+      182.06
+    ],
+    "text": "\u201cassets and liabilites\u201d \u201cassets and liabilities\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      211.83,
+      128.12,
+      240.1
+    ],
+    "text": "90Fourth Schedule Part II 22(1)(a)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      136.29,
+      211.83,
+      260.12,
+      230.5
+    ],
+    "text": "\u201cshares or debentrures\u201d \u201cshares and debentures\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      254.18,
+      128.12,
+      282.45
+    ],
+    "text": "91Fourth Schedule Part II 22(2)(b)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      136.29,
+      254.18,
+      286.11,
+      272.85
+    ],
+    "text": "\u201cbody corporate has subsidaries\u201d \u201cbody corporate has subsidiaries\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      296.53,
+      282.35,
+      315.2
+    ],
+    "text": "92Fifth Schedule (a)\u201cgeneral meering\u201d \u201cgeneral meeting\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      55.68,
+      329.27,
+      285.22,
+      347.95
+    ],
+    "text": "93Fifth Schedule (b)\u201cshareholders at the date of the retuen\u201d \u201cshareholders at the date of the return\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      129.17,
+      44.46,
+      338.96,
+      56.11
+    ],
+    "text": "30Companies (Amendment) Act, No. 12 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      62.3,
+      528.96,
+      363.93,
+      547.63
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OF GOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
