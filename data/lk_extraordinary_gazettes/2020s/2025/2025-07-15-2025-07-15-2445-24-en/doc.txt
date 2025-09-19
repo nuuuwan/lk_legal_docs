@@ -1,0 +1,127 @@
+(Published by Authority)
+
+ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ගැසට් පත්‍රය
+
+අති විශෙෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS
+
+Title Registration
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 71, 1 : 237, 1 : 238 and 1 : 239 of Block 1, contained in the Cadastral Map No. 830068, situated in the Village of Medaweleana within the Grama Niladhari Division of No. 2 - Medawelena in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0066 calling for claims to land parcels which was duly published in the Gazette No. 1641/10 of 15th February, 2010 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+අංක 2445/24 - 2025 ජූලි මස 15 වැනි අඟහරුවාදා - 2025.07.15
+
+No. 2445/24 – TUESDAY, JULY 15, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044839 - 04 (2025/07)
+
+2 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:71 0.0455 Rathu Baduge Jinasena 651640881V Full 1st Class _ _ No. 921, Debarawewa, Tissamaharamaya 1:237 0.0207 Private _ Full 1st Class _ _ 1:238 0.0955 Rathu Baduge Jinasena 651640881V Full 1st Class _ _ No. 921, Debarawewa, Tissamaharamaya 1:239 0.0634 Rathu Baduge Jinasena 651640881V Full 1st Class _ _ No. 921, Debarawewa, Tissamaharamaya EOG 07 - 0169/1
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 81 and 1 : 82 of Block 5, contained in the Cadastral Map No. 830077, situated in the Village of Thanja Town within the Grama Niladhari Division of No. 11 - Mahasenpura in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0364 calling for claims to land parcels which was duly published in the Gazette No. 2224/40 of 23rd April, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:81 0.2771 Ediriweera Galappaththi Arachchige 810894091V Full 1st Class _ Subject to the Namal Thushara Conditions of No. 647, Mahasenpura, L D O Tissamaharamaya 1:82 0.5145 Ediriweera Galappaththi Arachchige 810894091V Full 1st Class _ Subject to the Namal Thushara Conditions of No. 647, Mahasenpura, L D O Tissamaharamaya EOG 07 - 0169/2
+
+3 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 49, 1 : 58, 1 : 61, 1 : 64, 1 : 70, 1 : 81, 1 : 85, 1 : 89 and 1 : 101 of Block 7, contained in the Cadastral Map No. 830077, situated in the Village of Mahasenpura within the Grama Niladhari Division of No. 11 - Mahasenpura in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0396 calling for claims to land parcels which was duly published in the Gazette No. 2299/29 of 28th September, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:49 1.000 Akuratiya Gamage Sunethra 508160380V Full 1st Class Iresh Subject to the No. 506, Kuda Gammana 05, Kaluarachchi Conditions of Beralihela, Tissamaharamaya named as L D O, successor 1:58 1.0469 The State Full 1st Class _ Subject to the Conditions of L D O, Possessed by Anoma Malkanthi Under the Licence No. Hm/11/76/2315 1:61 0.8853 Hetti Hennadige Padmini 196480402906 Full 1st Class _ Subject to the No. 521, Kuda Gammana 05, Conditions of Saddhatissapura Newtown, L D O Tissamaharamaya 1:64 0.9503 Dodampe Gamagei Nandasena 195232200217 Full 1st Class _ Subject to the No. 524, Saddhatissapura Newtown, Conditions of Beralihela, Tissamaharamaya L D O 1:70 1.0826 Kaluarachchige Pemachandra 522925209V Full 1st Class _ Subject to the No. 503, Kuda Gammana 05, Conditions of Saddhatissapura Newtown, L D O Beralihela, Tissamaharamaya 1:81 1.0518 The State Full 1st Class _ Subject to the Conditions of L D O, Possessed by Rathnayaka Liyanage Nandasena Under the Licence No. Hm/11/75/5907
+
+4 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+1:85 0.9842 Buddha Koralage Disna Priyadarshani 698242493V Full 1st Class _ Subject to the No. 34, Canal Road, Kachcheriyagama, Conditions of Tissamaharamaya L D O 1:89 0.9832 Ranjith Abesingha 742671224V Full 1st Class _ Subject to the No. 584, Kuda Gammana 06, Conditions of Beralihela, Tissamaharamaya L D O 1:101 1.1282 Rathnayaka Appuhamillage Jayarathna 500480530v Full 1st Class _ Subject to the No. 324, Kuda Gammana 05, Conditions of Beralihela, Tissamaharamaya L D O EOG 07 - 0169/3
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 39 of Block 8, contained in the Cadastral Map No. 830077, situated in the Village of Mahasenpura within the Grama Niladhari Division of No. 11 - Mahasenpura in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0397 calling for claims to land parcels which was duly published in the Gazette No. 2299/29 of 28th September, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:39 0.4047 The State Full 1st Class _ Subject to the Conditions of L D O, Possessed by Polwaththa Gallage Wimalarathna Under the Licence No. DST 10547 EOG 07 - 0169/4
+
+SCHEDULE ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+5 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 2 : 1 and 2 : 2 of Block 11, contained in the Cadastral Map No. 830077, situated in the Village of Mahasenpura within the Grama Niladhari Division of No. 11 - Mahasenpura in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0432 calling for claims to land parcels which was duly published in the Gazette No. 2358/34 of 14th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 2:1 0.0930 The State Full 1st Class _ _ 2:2 32.0256 The State Full 1st Class _ _ EOG 07 - 0169/5
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 2 : 1, 2 : 3 and 2 : 4 of Block 1, contained in the Cadastral Map No. 830086, situated in the Village of Magama within the Grama Niladhari Division of No. 20 - Magama in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0176 calling for claims to land parcels which was duly published in the Gazette No. 1745/16 of 16th February, 2012 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+6 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 2:1 0.1292 The State Full 1st Class _ _ 2:3 0.0189 The State Full 1st Class _ _ 2:4 0.3229 The State Full 1st Class _ _ EOG 07 - 0169/6
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 6 : 1, 6 : 2, 6 : 4, 6 : 9 and 6 : 11 of Block 1, contained in the Cadastral Map No. 830088, situated in the Village of Nedigamwila within the Grama Niladhari Division of No. 22 - Nedigamvila in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0027 calling for claims to land parcels which was duly published in the Gazette No. 1616/07 of 24th August, 2009 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 6:1 0.2395 The State Full 1st Class _ _ 6:2 0.0990 The State Full 1st Class _ _ 6:4 0.0180 The State Full 1st Class _ _ 6:9 0.0450 The State Full 1st Class _ _ 6:11 0.0919 The State Full 1st Class _ _ EOG 07 - 0169/7
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 54 of Block 3, contained in the Cadastral Map No. 830092, situated in the Village of Saliyapura, Saliyapura/Amajimulla within the Grama Niladhari
+
+7 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+Division of No. 26 - Saliyapura in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0359 calling for claims to land parcels which was duly published in the Gazette No. 2218/08 of 08th March, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:54 0.8705 Yakalle Kankanamge Pradeep 700860086V Full 1st Class _ Subject to the Lasantha Conditions of No. 764, Senapura, Tissamaharamaya L D O EOG 07 - 0169/8
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 31 of Block 4, contained in the Cadastral Map No. 830100, situated in the Village of Debarawewa within the Grama Niladhari Division of No. 37 - Debarawewa in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0368 calling for claims to land parcels which was duly published in the Gazette No. 2257/07 of 04th December, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:31 0.0485 Suwanda Hennedige Kusumawathi 194963002400 Full 1st Class _ Subject to the No. 234/7, Kambiwatta, Conditions of Debarawewa, Tissamaharamaya L R C EOG 07 - 0169/9
+
+8 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.07.15 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.07.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 32 and 1 : 33 of Block 2, contained in the Cadastral Map No. 830102, situated in the Village of Sadungama within the Grama Niladhari Division of No. 39 - Sandungama in the Divisional Secretary's Division of Thissamaharama, in the District of Hambantota, in the Province of Southern, referred to in Notice No. 83/0340 calling for claims to land parcels which was duly published in the Gazette No. 2192/29 of 09th September, 2020 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 29th April, 2025.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:32 0.1045 Malagoda Gamage Seminona 195964002992 Full 1st Class _ Subject to the . No. 83, Sandungama, Conditions of Tissamaharamaya N H D A 1:33 0.0209 Private Full 1st Class _ Access Road for parcel Nos. 830102/02/30, 31, 32, 34, 35 EOG 07 - 0169/10

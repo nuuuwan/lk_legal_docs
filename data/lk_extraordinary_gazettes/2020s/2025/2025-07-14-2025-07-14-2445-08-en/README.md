@@ -1,0 +1,35 @@
+1AIII කොˁොටස – ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය – 2025.07.14PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.07.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA. 1A – G 044826 – 05 (07/2025)
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ ගැැසට් පත්‍රයThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අති විශෙˤෂ EXTRAORDINARY
+
+අංංක 2445/08 – 2025 ජූලි මස 14 වැැනි සඳුදාා – 2025.07.14No. 2445/08 – MONDAY, JULY 14, 2025
+
+(Published by Authority)
+
+PART III – LANDSPART III – LANDS
+
+Land Acquisition Notices
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+Declaration under Section 5
+
+I, Kuragamage Don Lal Kantha, Minister of Agriculture, Livestock, Land and Irrigation, hereby declare, under Sub section (1) of Section 5 of the Land Acquisition Act, that the land described below is needed for a public purpose and will be acquired under the provisions of that Act.
+
+All that allotment of lands depicted in the Advanced Tracing No. KU/BMK/2021/02 dated 30.11.2022, prepared by the Surveyor General, situated at the Village of Wathukana, in No. 1226, Wathukana Grama Niladhari Division, in the Divisional Secretary’s Division of Bamunakotuwa, in Kurunegala District, North Western Province and bounded as follows:
+
+01. Lot ‘A’ – Wathukana Viharamaluwa – Extent: 0.2991 Hectare North: Wathukana Viharamaluwa claimed by Sri Shailagiri Raja Maha Viharaya and Kosgodahena
+
+claimed by A. M. Ariyarathne Athapattu; East: Kosgodahena claimed by A. M. Ariyarathne Athapattu and Pradeshiya Sabha road; South: Wathukana Viharamaluwa claimed by Sri Shailagiri Raja Maha Viharaya; West: Wathukana Viharamaluwa claimed by Sri Shailagiri Raja Maha Viharaya.
+
+K. D. Lal Kantha, Minister of Agriculture, Livestock, Land Irrigation.
+
+My No.: 4-3/18/2019/WS/401.Ministry of Agriculture, Livestock, Land and Irrigation,“Mihikatha Medura”,Rajamalwatta Road, Battaramulla.09th April, 2025.
+
+EOG 07 – 0152
