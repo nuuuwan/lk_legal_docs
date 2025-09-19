@@ -1,0 +1,8279 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.09,
+      169.28,
+      433.53,
+      220.28
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      227.61,
+      229.2,
+      371.62,
+      241.2
+    ],
+    "text": "Part II of February 03, 2022",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.61,
+      253.56,
+      341.61,
+      265.56
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.89,
+      277.92,
+      354.37,
+      290.04
+    ],
+    "text": "(Issued on 07.02.2022)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      247.77,
+      426.96,
+      364.06,
+      438.96
+    ],
+    "text": "ANIMAL WELFARE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      485.87,
+      311.85,
+      495.87
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      188.49,
+      563.27,
+      411.19,
+      573.27
+    ],
+    "text": "Ordered to be published by the Minister of Agriculture",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.13,
+      594.9,
+      392.13,
+      602.9
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      607.5,
+      454.88,
+      629.31
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5Price : Rs. 48.00Postage : Rs. 35.00",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.65,
+      686.91,
+      174.09,
+      700.44
+    ],
+    "text": "2-2d",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      662.25,
+      401.85,
+      670.34
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      457.79,
+      303.71,
+      467.79
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      512.27,
+      455.88,
+      546.27
+    ],
+    "text": "to provide for Animal Welfare and to prevent cruelty to Animals; to repealthe prevention of cruelty to Animals Ordinance (Chapter 475); and formatters connected therewith or incidental thereto",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      250.05,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Animal Welfare1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      361.17,
+      148.85,
+      371.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      204.45,
+      225.56,
+      214.45
+    ],
+    "text": "L.D.\u2013O. 5/2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      228.45,
+      401.85,
+      238.45
+    ],
+    "text": "AN ACT TO PROVIDE FOR ANIMAL WELFARE AND TO PREVENT CRUELTY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      240.45,
+      401.85,
+      250.45
+    ],
+    "text": "TO ANIMALS; TO REPEAL THE PREVENTION OF CRUELTY TO ANIMALS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      252.45,
+      401.73,
+      262.45
+    ],
+    "text": "ORDINANCE (CHAPTER 475); AND FOR MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      264.45,
+      257.11,
+      274.45
+    ],
+    "text": "OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      288.45,
+      401.85,
+      310.45
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      324.35,
+      401.83,
+      346.45
+    ],
+    "text": "1.This Act may be cited as the Animal Welfare Act,No. of 2022.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      360.35,
+      332.84,
+      370.45
+    ],
+    "text": "2.The objects of this Act shall be to\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.57,
+      384.35,
+      401.86,
+      430.45
+    ],
+    "text": "(a) foster kindness, compassion and responsiblebehavior towards animals and secure theprotection, welfare and wellbeing of animals;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.57,
+      444.35,
+      333.57,
+      454.45
+    ],
+    "text": "(b) protect animals from cruelty.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.85,
+      468.45,
+      296.85,
+      478.45
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.13,
+      492.45,
+      300.57,
+      502.45
+    ],
+    "text": "CHAPTER I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      241.29,
+      516.35,
+      322.3,
+      526.35
+    ],
+    "text": "Cruelty to Animals",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      540.35,
+      284.13,
+      550.45
+    ],
+    "text": "3.(1) A person shall not\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.57,
+      564.35,
+      401.86,
+      622.45
+    ],
+    "text": "(a) beat, kick, override, overload, overwork, over-walk, overbreed, torture, terrify or otherwisetreat an animal so as to subject it to unnecessarypain or, being a person in charge of an animal,permit the animal to be so treated;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.57,
+      636.35,
+      401.85,
+      670.45
+    ],
+    "text": "(b) use an animal in any work or labour or for anyother purpose for which by reason of anydisease, infirmity, wound, or other cause, such",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      408.33,
+      325.5,
+      444.33,
+      333.5
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.37,
+      444.09,
+      153.81,
+      454.09
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.33,
+      564.09,
+      154.77,
+      574.09
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      636.57,
+      154.29,
+      646.57
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      361.74,
+      443.85,
+      379.34
+    ],
+    "text": "Objects ofthe Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      544.74,
+      446.13,
+      571.94
+    ],
+    "text": "Offence ofcruelty toanimals",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "2Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      204.81,
+      397.17,
+      240.01
+    ],
+    "text": "animal is unfit to be so used or being the personin charge of the animal, permit any such unfitanimal to be so used;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194.71,
+      255.11,
+      397.16,
+      303.01
+    ],
+    "text": "(c) train an animal in a way that is detrimental toits health and welfare, including forcing ananimal to exceed its natural capacity orstrength;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.87,
+      318.11,
+      397.16,
+      378.61
+    ],
+    "text": "(d) willfully and unreasonably administer anypoison, injurious drug or substance to an animalor willfully and unreasonably cause or attemptto cause any poison, injurious drug or substanceto be taken by an animal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194.71,
+      393.71,
+      397.15,
+      416.41
+    ],
+    "text": "(e) convey or carry an animal in such a position soas to subject it to unnecessary pain;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.15,
+      431.51,
+      397.16,
+      479.41
+    ],
+    "text": "(f) keep or confine an animal in any cage or placewhich does not measure sufficiently in height,length and breadth to permit the animal areasonable opportunity for movement;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.87,
+      494.51,
+      397.17,
+      555.01
+    ],
+    "text": "(g) keep an animal for an unreasonable length oftime, chained or tethered upon an unreasonablyshort or unreasonably heavy chain or cord orkeeps an animal tied or bound or yoked in sucha manner as to subject it to unnecessary pain;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.87,
+      570.11,
+      397.15,
+      605.41
+    ],
+    "text": "(h) being the person in charge of an animal,willfully deprive an animal of food, water orshelter;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.15,
+      620.51,
+      397.17,
+      668.41
+    ],
+    "text": "(i) being the person in charge of an animal, killthe animal or it\u2019s offspring unless such animalconstitute a grave and immediate danger tothe public;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.31,
+      268.17,
+      146.31,
+      278.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.91,
+      343.65,
+      149.35,
+      353.65
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      431.61,
+      149.59,
+      441.61
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      138.91,
+      507.69,
+      149.35,
+      517.69
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      582.93,
+      149.59,
+      592.93
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      659.37,
+      149.59,
+      669.37
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250.05,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Animal Welfare3",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.85,
+      204.71,
+      401.87,
+      227.41
+    ],
+    "text": "(j) being a person in charge of an animal neglectthe animal causing starvation and pain; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199.29,
+      242.51,
+      401.86,
+      265.21
+    ],
+    "text": "(k) cause unnecessary pain to an animal by anyother willful act or omission.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      280.41,
+      401.87,
+      353.41
+    ],
+    "text": "(2) Any person who acts in contravention of theprovisions of subsection (1) commits an offence and shall,upon conviction after trial by a Magistrate be liable to a finenot exceeding seventy thousand rupees or to imprisonmentfor a term not exceeding two years, or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      368.51,
+      401.89,
+      441.61
+    ],
+    "text": "4.Any person who kills, any animal in a cruel manner,commits an offence and shall upon conviction after trial bya Magistrate be liable to a fine not exceeding one hundredand twenty five thousand rupees or to imprisonment for aterm not exceeding three years or both such fine andimprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      456.71,
+      401.85,
+      555.01
+    ],
+    "text": "5.(1) Any person who intentionally kills or knowinglysells or delivers for killing, any pregnant animal except whenthe said animal constitutes a grave and immediate danger tothe public, commits an offence and shall upon convictionafter trial by a Magistrate be liable to a fine not exceedingone hundred and twenty five thousand rupees or toimprisonment for a term not exceeding four years or to bothsuch fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      570.21,
+      401.87,
+      668.41
+    ],
+    "text": "(2) If in a prosecution for an offence under subsection (1)the question arises as to whether the animal in relation towhich the offence has been committed was pregnant at thetime of the commission of the offence, a certificate under thehand of a Veterinary Surgeon to the effect that the animalwas pregnant at the time of the commission of the offenceshall be admissible in evidence and shall, unless there isevidence to the contrary, be proof of the facts stated therein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146.49,
+      280.41,
+      151.49,
+      290.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.05,
+      343.89,
+      155.49,
+      353.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      418.89,
+      154.77,
+      428.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.33,
+      494.97,
+      154.77,
+      504.97
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      569.97,
+      154.29,
+      579.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      633.21,
+      155.13,
+      643.21
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      371.22,
+      452.13,
+      408.02
+    ],
+    "text": "Offence ofkilling ofanimals withcruelty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      458.7,
+      446.13,
+      495.5
+    ],
+    "text": "Offence ofkilling ofpregnantanimals",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "4Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      204.35,
+      396.21,
+      250.45
+    ],
+    "text": "6.Without prejudice to the provisions of the Faunaand Flora Protection Ordinance (Chapter 469), a person shallnot without any reasonable excuse, set or cause to be set atrap to capture, harm or kill an animal.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.15,
+      264.35,
+      376.98,
+      274.45
+    ],
+    "text": "7.A person shall not confine a bird by means of\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192.91,
+      288.35,
+      396.2,
+      310.45
+    ],
+    "text": "(a) a ring, chain, string, cord or wire attached to itsleg;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      192.91,
+      324.35,
+      363.19,
+      334.45
+    ],
+    "text": "(b) a restraint around its neck or body; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193.63,
+      348.35,
+      253.63,
+      358.45
+    ],
+    "text": "(c) pinioning.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      372.35,
+      396.19,
+      406.45
+    ],
+    "text": "8.A person shall not without reasonable cause permitany diseased or disabled animal to die in any public place,street or park.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.15,
+      444.35,
+      345.29,
+      454.45
+    ],
+    "text": "9.A person shall not abandon an animal.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      480.35,
+      396.19,
+      502.45
+    ],
+    "text": "10.A person shall not permit any animal to be subjectedto\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      516.35,
+      396.21,
+      574.45
+    ],
+    "text": "(a)any medical treatment by any person other than bya Veterinary Surgeon or by a Ayurvedic practitionerwith experience in treating animals registered withthe Ayurvedic Medical Council established by theAyurveda Act, No. 31 of 1961; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      588.35,
+      396.18,
+      610.45
+    ],
+    "text": "(b)any surgical treatment by any person other than bya Veterinary Surgeon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      624.35,
+      396.21,
+      670.45
+    ],
+    "text": "11.A person shall not castrate or sterilize an animal orcause animal to be castrated or sterilized unless suchcastration or sterilization is performed by or under thesupervision of a Veterinary Surgeon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141.31,
+      265.41,
+      146.31,
+      275.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      371.97,
+      150.31,
+      381.97
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      491.97,
+      149.59,
+      501.97
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      563.97,
+      149.59,
+      573.97
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.11,
+      647.97,
+      150.55,
+      657.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      205.98,
+      446.47,
+      242.78
+    ],
+    "text": "Setting trapsto capture &etc.prohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      265.5,
+      440.47,
+      302.3
+    ],
+    "text": "Unlawfulrestraint ofbirdsprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      373.74,
+      450.91,
+      439.34
+    ],
+    "text": "Permittingdiseased ordisabledanimals to diein publicplacesprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      445.26,
+      451.15,
+      472.46
+    ],
+    "text": "Abandonmentof animalsprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      481.26,
+      449.47,
+      518.06
+    ],
+    "text": "Treatment byunqualifiedpersonprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      402.19,
+      626.7,
+      445.63,
+      673.1
+    ],
+    "text": "Unlawfulcastration orsterilizationof animalsprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      250.05,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Animal Welfare5",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      204.35,
+      401.87,
+      238.45
+    ],
+    "text": "12.A person shall not use an animal, to test cosmetics,cosmetic ingredients or cosmetic products unless it is forprescribed purposes.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      276.35,
+      401.86,
+      310.45
+    ],
+    "text": "13.A person shall not keep for sale or display for saleany animal in such circumstances as would, cause pain ordistress to the animal.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      336.35,
+      401.88,
+      382.45
+    ],
+    "text": "14.A person shall not sell or offer for sale or contract tosell any animal which is in pain by reason of illness, disease,mutilation, starvation, thirst, over - crowding or ill treatment,except for the purpose of medical treatment and care.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      396.35,
+      401.86,
+      430.45
+    ],
+    "text": "15.A person shall not make an animal available in anymanner for the purpose of being hunted, injured or killed byanother animal.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      456.35,
+      401.87,
+      490.45
+    ],
+    "text": "16.(1) A person shall not participate in, organize,manage, facilitate or advertise any of the following events(hereinafter referred to as \u201cprohibited events\u201d):\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      504.35,
+      401.86,
+      538.45
+    ],
+    "text": "(a)sport-hunting or any other kind of recreational sportinvolving injury to or destruction of the lives ofanimals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      552.35,
+      401.87,
+      586.45
+    ],
+    "text": "(b)any shooting match or competition in which ananimal is released from captivity for the purpose ofshooting or hunting that animal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.29,
+      600.35,
+      401.87,
+      646.45
+    ],
+    "text": "(c)any sporting event or entertainment that involvesthe confining of any animal (including tying of ananimal) as an object of prey for any other animal orinciting any animal to fight any other animal; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      660.35,
+      333.34,
+      670.45
+    ],
+    "text": "(d)fighting or baiting of any animal.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.29,
+      288.09,
+      150.29,
+      298.09
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      372.57,
+      154.29,
+      382.57
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      467.97,
+      154.29,
+      477.97
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.33,
+      551.97,
+      154.77,
+      561.97
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      624.69,
+      154.29,
+      634.69
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      206.46,
+      450.57,
+      262.46
+    ],
+    "text": "Use ofanimals fortestingcosmetics &etc.prohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      277.26,
+      447.57,
+      323.65
+    ],
+    "text": "Pain ordistress toanimals forsaleprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      338.09,
+      455.85,
+      384.49
+    ],
+    "text": "Unlawful saleof animalsuffering ofpainprohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      397.73,
+      449.85,
+      453.74
+    ],
+    "text": "Makingavailable ananimal forhunting &etc.prohibited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      458.22,
+      444.57,
+      475.82
+    ],
+    "text": "Prohibitedevents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "6Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      204.45,
+      397.16,
+      237.97
+    ],
+    "text": "(2) A person shall not permit any premises of which he isthe owner or of which he is in charge, to be used for aprohibited event.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      251.37,
+      397.14,
+      273.01
+    ],
+    "text": "(3) A person shall not supply or train any animal for aprohibited event.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      286.31,
+      397.17,
+      354.97
+    ],
+    "text": "17.Any person who acts in contravention of theprovisions of sections 6 to 16 commits an offence and shall,upon conviction after trial by a Magistrate be liable to a finenot exceeding fifty thousand rupees or to imprisonment fora term not exceeding one year or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.15,
+      368.27,
+      395.73,
+      378.37
+    ],
+    "text": "18.The provisions of this chapter, shall not apply to\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.91,
+      391.67,
+      397.17,
+      460.21
+    ],
+    "text": "(a) the dehorning of cattle or buffaloes,castration, branding or fixing identitynumbers, nose-roping of an animal, orrestricting movements of elephants in publicplaces, done by a Veterinary Surgeon or aperson qualified to do such practices;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.91,
+      473.51,
+      397.16,
+      507.01
+    ],
+    "text": "(b) depopulation of poultry or destruction ofanimals for control of diseases under theAnimal Diseases Act, No. 59 of 1992;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      199.63,
+      520.31,
+      397.16,
+      565.57
+    ],
+    "text": "(c) slaughter of animals for food consumptionperformed under the provisions of Butchers\u2019Ordinance (Chapter 272) and any otherwritten law on slaughter of animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.91,
+      578.87,
+      397.17,
+      624.01
+    ],
+    "text": "(d) transport of poultry from hatchery to farms,production centers and processing ormarketing places under the Animals Act,No.29 of 1958;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      199.63,
+      637.31,
+      397.15,
+      671.05
+    ],
+    "text": "(e) use of animals for testing of drugs orcosmetics in accordance with prescribedprocedure;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.31,
+      263.37,
+      146.31,
+      273.37
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      137.83,
+      332.97,
+      148.27,
+      342.97
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      414.81,
+      150.55,
+      424.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      485.85,
+      150.55,
+      495.85
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      555.81,
+      150.55,
+      565.81
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.51,
+      638.13,
+      149.95,
+      648.13
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      288.3,
+      448.87,
+      325.1
+    ],
+    "text": "Punishmentfor engagingin prohibitedconduct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      369.78,
+      448.87,
+      416.18
+    ],
+    "text": "Provisionsrelating tooffences, notto apply forcertain acts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      250.05,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Animal Welfare7",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      205.89,
+      204.35,
+      401.85,
+      237.25
+    ],
+    "text": "(f) withdrawal or limiting of food necessary foranimal production chain or slaughter underthe Animals Act, No.29 of 1958; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      203.61,
+      249.83,
+      401.86,
+      282.49
+    ],
+    "text": "(g) slaughter or culling of animals under theAnimals Act, No.29 of 1958 and Butchers\u2019Ordinance (Chapter 272).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      261.69,
+      295.05,
+      302.13,
+      305.05
+    ],
+    "text": "CHAPTER II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235.77,
+      317.63,
+      328.04,
+      327.63
+    ],
+    "text": "Transport of Animals",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      340.19,
+      401.89,
+      395.53
+    ],
+    "text": "19.A person shall not convey, carry or transport, orcause to be conveyed, carried or transported any animal insuch a manner so as to subject such animal to unnecessarypain or suffering or that is likely to cause injury or danger tosuch animal.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      407.99,
+      401.86,
+      463.21
+    ],
+    "text": "20.Without prejudice to the generality of the foregoingprovisions and in addition to any conditions of transportimposed under any other written law, it shall be the duty ofany person who conveys, carries or transports any animal toensure the following:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      475.79,
+      401.84,
+      497.17
+    ],
+    "text": "(a)that injury to such animal during loading andunloading and during transport is avoided;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      509.63,
+      401.86,
+      553.69
+    ],
+    "text": "(b)that the animal is provided adequate space, air,hygienic conditions and reasonable comfort duringthe period of transit, from the time of loading to thetime of unloading;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.29,
+      566.15,
+      297.33,
+      576.25
+    ],
+    "text": "(c)that no animal which is\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      201.81,
+      588.81,
+      238.29,
+      598.81
+    ],
+    "text": "(i) ill; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      194.85,
+      611.49,
+      401.86,
+      670.69
+    ],
+    "text": "(ii) pregnant and is reasonably likely to give birthin transit or within forty eight hours thereafter, is conveyed, carried or transported, other than forpurposes of medical treatment or the animals ownsafety;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      146.85,
+      262.17,
+      151.85,
+      272.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.33,
+      350.61,
+      154.77,
+      360.61
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      418.53,
+      155.01,
+      428.53
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      486.57,
+      155.01,
+      496.57
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      566.61,
+      155.01,
+      576.61
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.93,
+      650.97,
+      155.37,
+      660.97
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      341.22,
+      455.85,
+      387.62
+    ],
+    "text": "Transportationof animalsunder certainconditions bean offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      410.22,
+      455.85,
+      447.02
+    ],
+    "text": "Conditionsapplicable totransportationof animals",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "8Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      205.07,
+      398.23,
+      227.41
+    ],
+    "text": "(d)that any vehicle used in the conveyance, carriageor transportation of the animal has\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      196.15,
+      242.01,
+      398.11,
+      264.37
+    ],
+    "text": "(i) facilities for the easy observance and inspectionof the animal carried therein; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      193.15,
+      278.97,
+      398.09,
+      301.21
+    ],
+    "text": "(ii) a ramp to load and unload such animal in ahumane manner;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173.71,
+      315.71,
+      398.23,
+      350.41
+    ],
+    "text": "(e)that the floor of any vehicle used in suchconveyance, carriage or transportation is free fromholes or cracks likely to cause injury to any animal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.15,
+      364.91,
+      398.24,
+      448.81
+    ],
+    "text": "(f)that any vehicle used in such conveyance, carriageor transportation has adequate covering so as togive the animal such protection as is appropriate tothe circumstances having regard to the type ofanimal being transported, the distance to be coveredand the environmental factors such as the weather,temperature and terrain;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      463.31,
+      398.23,
+      522.61
+    ],
+    "text": "(g)that no animal prone to aggressiveness is conveyed,carried or transported together with other animalsunless adequate precaution is taken to prevent suchanimal attacking or causing harm or injury to suchother animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      537.11,
+      398.23,
+      596.41
+    ],
+    "text": "(h)that such conveyance, carriage or transportationfrom the point of loading to the point of unloadingis carried out without unnecessary delay and withoutconfining any animal for an unreasonable period oftime;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.15,
+      610.91,
+      398.22,
+      670.21
+    ],
+    "text": "(i)that where conditions of transport require that ananimal be deprived of food and water duringtransport care is taken to ensure that the journey isno longer that the animal can endure without foodor water;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.31,
+      280.41,
+      146.31,
+      290.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      364.89,
+      150.31,
+      374.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      426.81,
+      149.59,
+      436.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      500.85,
+      149.59,
+      510.85
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      574.89,
+      149.59,
+      584.89
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.51,
+      648.21,
+      149.95,
+      658.21
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      250.05,
+      168.35,
+      401.69,
+      178.45
+    ],
+    "text": "Animal Welfare9",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      179.85,
+      206.27,
+      401.86,
+      254.17
+    ],
+    "text": "(j)that animals are provided with, adequate food, waterand rest time depending on the duration of thejourney as may be prescribed taking intoconsideration the respective species of animals; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178.29,
+      269.27,
+      401.87,
+      304.57
+    ],
+    "text": "(k)where practicable during long journeys sufficientsteps are made to enable animal to be given rest,food and water and to attend to its hygiene.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      319.67,
+      401.86,
+      392.77
+    ],
+    "text": "21. Any person who fails to comply with or contravenesthe provisions of sections 19 or 20 commits an offence andshall upon conviction after trial by a Magistrate be liable toa fine not exceeding seventy thousand rupees or toimprisonment for a term not exceeding two years or bothsuch fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      260.13,
+      407.97,
+      303.69,
+      417.97
+    ],
+    "text": "CHAPTER III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.29,
+      433.07,
+      391.29,
+      455.67
+    ],
+    "text": "Use of live Animals for Experimental and TeachingPurposes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      470.87,
+      401.86,
+      569.17
+    ],
+    "text": "22.Nothing contained in this Act shall render unlawfulthe performance of experiments on animals for the purposeof advancement by new discovery of knowledge which shallbe useful for saving life, for prolonging life, for alleviatingsuffering, for combating any disease, for improvingproductivity, for testing safety or efficacy of pharmaceuticalson human beings, animals or plants or for the use of animalsfor teaching:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      584.37,
+      401.87,
+      669.97
+    ],
+    "text": "Provided that, when making decisions on the conduct ofsuch experiments the party concerned shall consider, theavailability of alternative methods and devices that do notinvolve experimentation on live animals, includingcomputer simulations and other audio-visual methods,synthetically produced models, ethically sourced cadaversand clinical experiences.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      146.49,
+      269.61,
+      151.49,
+      279.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      320.7,
+      455.85,
+      357.5
+    ],
+    "text": "Punishmentsfor engagingin unlawfultransportation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      472.02,
+      452.13,
+      489.62
+    ],
+    "text": "Experimentson animals",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      344.37,
+      154.29,
+      354.37
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      432.93,
+      154.29,
+      442.93
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      509.37,
+      155.25,
+      519.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.17,
+      584.61,
+      155.61,
+      594.61
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      649.89,
+      154.29,
+      659.89
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "10Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.15,
+      204.11,
+      340.16,
+      214.21
+    ],
+    "text": "23.(1) An Animal welfare officer may\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199.87,
+      227.51,
+      397.14,
+      272.77
+    ],
+    "text": "(a)enter at any time considered reasonable bysuch officer and inspect any institution orplace in which experiments on animals arebeing carried on; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      199.87,
+      286.07,
+      397.14,
+      319.57
+    ],
+    "text": "(b)require any person to produce any data orrecord kept by him with respect toexperiments on animals.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      332.97,
+      397.28,
+      389.77
+    ],
+    "text": "(2) Any person who violates any regulation relating toexperiment of an animal commits an offence and shall onconviction after trial by a Magistrate be liable to a fine notexceeding twenty five thousand rupees or to imprisonmentfor a term not exceeding three months or to both.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      255.43,
+      403.77,
+      298.87,
+      413.77
+    ],
+    "text": "CHAPTER IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198.43,
+      427.31,
+      355.87,
+      437.31
+    ],
+    "text": "Regulation of Sale of Animals as Pets",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      450.71,
+      397.16,
+      472.57
+    ],
+    "text": "24.(1) Any person who keeps or maintains a pet shopshall adhere to the following conditions:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      485.87,
+      397.15,
+      519.37
+    ],
+    "text": "(a)animals at all times shall be kept in accommodationsuitable in regard to size, temperature, lighting,ventilation and cleanliness;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      532.67,
+      397.17,
+      554.41
+    ],
+    "text": "(b)animals shall be adequately supplied with suitablefood and drink and visited at suitable intervals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173.71,
+      567.71,
+      397.16,
+      589.57
+    ],
+    "text": "(c)animals, being mammals, shall not be sold at agebelow the prescribed age;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.87,
+      602.87,
+      397.17,
+      636.37
+    ],
+    "text": "(d)all reasonable precautions shall be taken to preventthe spread of infectious diseases among animals;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      173.71,
+      649.67,
+      397.15,
+      671.65
+    ],
+    "text": "(e)appropriate steps shall be taken in case of fire orother emergency.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.99,
+      262.41,
+      144.99,
+      272.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.19,
+      345.45,
+      148.63,
+      355.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      138.67,
+      427.41,
+      149.11,
+      437.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.63,
+      508.41,
+      150.07,
+      518.41
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.63,
+      602.97,
+      150.07,
+      612.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      206.58,
+      439.15,
+      233.78
+    ],
+    "text": "Power ofentry andinspection",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      451.74,
+      448.15,
+      469.34
+    ],
+    "text": "Regularizingof pet shops",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      250.05,
+      168.35,
+      401.85,
+      178.45
+    ],
+    "text": "Animal Welfare11",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      205.29,
+      401.85,
+      268.45
+    ],
+    "text": "(2) Any person who contravenes the provisions of thissection, commits an offence and shall upon conviction aftertrial by a Magistrate be liable to a fine not exceeding thirtythousand rupees or to imprisonment for a term not exceedingthree months or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      173.85,
+      284.99,
+      268.41,
+      295.09
+    ],
+    "text": "25.Any person who\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.57,
+      311.63,
+      401.85,
+      348.25
+    ],
+    "text": "(a) carries on the business of selling animals aspets on any part of a street, road or publicplace; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      204.57,
+      364.79,
+      401.85,
+      388.21
+    ],
+    "text": "(b) sells any animal as a pet to a person who isbelow the age of fifteen years,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      404.73,
+      401.86,
+      454.69
+    ],
+    "text": "commits an offence and shall upon conviction after trial bya Magistrate be liable to a fine not exceeding ten thousandrupees or to imprisonment for a term not exceeding threemonths or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      471.11,
+      401.86,
+      561.01
+    ],
+    "text": "26.(1) An Animal Welfare Officer may subject tocompliance with such precautionary measures as may beprescribed from time to time, to prevent the spread amonganimals of infectious diseases, enter and inspect any petshop at all reasonable times of the day for the purpose ofascertaining whether an offence has been or is beingcommitted under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      577.65,
+      401.85,
+      667.45
+    ],
+    "text": "(2) Any person who willfully obstructs or delays anAnimal Welfare Officer in the exercise of his powers of entryor inspection under this section commits an offence andshall upon conviction after trial by a Magistrate be liable toa fine not exceeding twenty five thousand rupees and toimprisonment for a term not exceeding three months or toboth such fine and imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      148.53,
+      260.13,
+      153.53,
+      270.13
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      364.89,
+      154.29,
+      374.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      445.41,
+      155.25,
+      455.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      525.93,
+      155.25,
+      535.93
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.17,
+      605.13,
+      155.61,
+      615.13
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      286.74,
+      446.13,
+      323.54
+    ],
+    "text": "Offence ofsellinganimals onstreets etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      471.42,
+      454.29,
+      489.02
+    ],
+    "text": "Inspection ofpet shops",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "12Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      204.45,
+      397.26,
+      262.45
+    ],
+    "text": "(3) For the purpose of this Chapter \u201cpet shop\u201d means anypremises where any person carrying on a business of sellinganimals as pets including a private dwelling and the keepingor maintenance of animals in any such premises for thepurpose of selling by the keeper or by any other person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      260.71,
+      276.45,
+      293.71,
+      286.45
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      163.51,
+      300.45,
+      390.79,
+      310.45
+    ],
+    "text": "ESTABLISHMENT OF THE ANIMAL WELFARE ADVISORY COMMITTEE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      324.35,
+      397.16,
+      370.45
+    ],
+    "text": "27.(1) There shall be established a Committee whichshall be called the Animal Welfare Advisory Committee(hereinafter referred to as the \u201cAdvisory Committee\u201d)comprising of the following\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      172.87,
+      384.35,
+      312.92,
+      394.45
+    ],
+    "text": "(a) ex-officio members, namely\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      202.15,
+      408.45,
+      397.16,
+      442.45
+    ],
+    "text": "(i) the Secretary to the Ministry of the Ministerassigned the subject of LivestockDevelopment or his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      199.15,
+      456.45,
+      397.16,
+      490.45
+    ],
+    "text": "(ii) the Secretary to the Ministry of the Ministerassigned the subject of Local Authorities orhis nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.15,
+      504.45,
+      397.16,
+      538.45
+    ],
+    "text": "(iii) the Secretary to the Ministry of the Ministerassigned the subject of Fisheries or hisnominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.87,
+      552.45,
+      397.16,
+      586.45
+    ],
+    "text": "(iv) the Director-General of Animal Productionand Health appointed by Animal DiseasesAct, No. 59 of 1992 or his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      199.87,
+      600.45,
+      397.13,
+      622.45
+    ],
+    "text": "(v) the Director General of the Department ofWild Life Conservation or his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.87,
+      636.45,
+      397.16,
+      670.45
+    ],
+    "text": "(vi) the Director General of National ZoologicalGardens appointed by National ZoologicalGardens Act, No. 41 of 1982 or his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      325.74,
+      451.15,
+      372.14
+    ],
+    "text": "Establishmentof an AnimalWelfareAdvisoryCommittee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      142.87,
+      252.57,
+      147.87,
+      262.57
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      349.41,
+      149.59,
+      359.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.15,
+      434.97,
+      149.59,
+      444.97
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.11,
+      518.37,
+      150.55,
+      528.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.51,
+      600.57,
+      149.95,
+      610.57
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      250.05,
+      168.35,
+      401.85,
+      178.45
+    ],
+    "text": "Animal Welfare13",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      198.57,
+      204.45,
+      401.85,
+      249.61
+    ],
+    "text": "(vii) the Director General of the CentralEnvironmental Authority appointed byNational Environmental Act, No. 47 of 1980or his nominee;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      195.57,
+      263.01,
+      401.83,
+      284.77
+    ],
+    "text": "(viii) Director, Veterinary Research Institute of theDepartment of Animal Production and Health;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      201.57,
+      298.17,
+      401.85,
+      331.57
+    ],
+    "text": "(ix) the Inspector General of Police or hisnominee, not below the rank of a DeputyInspector General of Police;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204.57,
+      344.97,
+      401.86,
+      366.61
+    ],
+    "text": "(x) the president of the Council of VeterinarySurgeons; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      201.57,
+      380.01,
+      401.86,
+      413.41
+    ],
+    "text": "(xi) the Dean of the Faculty on VeterinaryMedicine and Animal Science of theUniversity of Peradeniya or his nominee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      178.65,
+      426.71,
+      350.6,
+      436.81
+    ],
+    "text": "(b) members appointed by the Minister:\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      206.85,
+      450.21,
+      401.87,
+      495.37
+    ],
+    "text": "(i) a veterinary surgeon actively engaged inanimal welfare nominated by the Secretary,Ministry of the Minister assigned the subjectof livestock Development;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      203.85,
+      508.77,
+      401.85,
+      553.81
+    ],
+    "text": "(ii) two academics involved in animalexperimentation nominated by UniversityGrants Commission established by UniversityAct, No. 16 of 1978;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      200.85,
+      567.21,
+      401.86,
+      600.61
+    ],
+    "text": "(iii) one person from registered animalassociations dealing with laboratory animalscience nominated by such associations;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      201.57,
+      614.01,
+      401.84,
+      635.77
+    ],
+    "text": "(iv) two persons from registered animal welfareorganizations; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      204.57,
+      649.17,
+      401.86,
+      671.05
+    ],
+    "text": "(v) two persons representing poultry andlivestock industries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147.57,
+      262.65,
+      152.57,
+      272.65
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      346.41,
+      154.29,
+      356.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      427.89,
+      154.29,
+      437.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      509.37,
+      154.29,
+      519.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.09,
+      577.65,
+      154.53,
+      587.65
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      663.93,
+      154.29,
+      673.93
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "14Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      204.69,
+      397.14,
+      238.09
+    ],
+    "text": "(2) The Minister shall appoint a Chairman of the AdvisoryCommittee from among the members of the AdvisoryCommittee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      251.49,
+      397.17,
+      273.25
+    ],
+    "text": "(3) It shall be the duty of the Advisory Committee toadvise the Minister -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      172.87,
+      286.55,
+      370.14,
+      296.65
+    ],
+    "text": "(a)on the issues relating to welfare of animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      172.87,
+      309.95,
+      397.16,
+      331.69
+    ],
+    "text": "(b)on the measures need to be taken for the protectionof animals and prevention of cruelty to animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      173.71,
+      344.99,
+      397.17,
+      378.49
+    ],
+    "text": "(c)on international laws and standards relating toanimal welfare and review the provisions of thisAct;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      172.87,
+      391.79,
+      397.17,
+      413.65
+    ],
+    "text": "(d)on any matter relating to laboratory facilities forexperiments on animals; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      173.71,
+      426.95,
+      397.13,
+      448.69
+    ],
+    "text": "(e)relating to any matter on which regulations are tobe made under this Act,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      462.09,
+      343.86,
+      472.09
+    ],
+    "text": "as the Minister may require from time to time.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      485.49,
+      397.14,
+      507.25
+    ],
+    "text": "(4) The Advisory Committee shall meet at least once inevery three months.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      520.65,
+      397.16,
+      589.09
+    ],
+    "text": "(5) Every appointed member of the Advisory Committeeshall, unless he vacates office earlier by death, resignationor removal, hold office for a period of three years from thedate of his appointment and unless removed from office shallbe eligible for re-appointment for not more than one furtherterm, whether consecutive or otherwise.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      602.49,
+      397.17,
+      635.89
+    ],
+    "text": "(6) The Advisory Committee may regulate its ownprocedure in regard to its meetings and in relation to theperformance of its duties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      649.29,
+      397.14,
+      671.17
+    ],
+    "text": "(7) The quorum for any meeting of the AdvisoryCommittee shall be eleven members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      143.83,
+      262.65,
+      148.83,
+      272.65
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      357.45,
+      149.59,
+      367.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.11,
+      439.89,
+      150.55,
+      449.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.15,
+      532.41,
+      149.59,
+      542.41
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      140.47,
+      603.57,
+      150.91,
+      613.57
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      250.05,
+      168.35,
+      401.85,
+      178.45
+    ],
+    "text": "Animal Welfare15",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      263.85,
+      205.05,
+      299.85,
+      215.05
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      244.77,
+      229.53,
+      319.05,
+      239.53
+    ],
+    "text": "GENERAL PROVISIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      253.79,
+      401.87,
+      300.49
+    ],
+    "text": "28.(1) Notwithstanding anything to the contrary in thisAct or any other written law, an animal shall not be subjectedto any act which is permissible under this Act or any otherwritten law, unless such act is carried out in a humane manner.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      314.85,
+      401.87,
+      361.45
+    ],
+    "text": "(2) For the purpose of this section \u201chumane manner\u201dmeans carrying out or performing an act in such manner,that it causes the least amount of distress, pain, suffering,trauma, anguish or torment to any such animal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      375.93,
+      401.87,
+      446.89
+    ],
+    "text": "(3) Any person who acts in contravention of theprovisions of subsection (1) commits an offence and shall,upon conviction after trial by a Magistrate be liable to a finenot exceeding seventy thousand rupees or to imprisonmentfor a term not exceeding two years, or to both such fine andimprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      461.15,
+      401.86,
+      495.61
+    ],
+    "text": "29.All offences under this Act shall be deemed to becognizable offences within the meaning of the Code ofCriminal Procedure Act, No. 15 of 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      509.99,
+      401.83,
+      556.69
+    ],
+    "text": "30. For the purpose of carrying on an investigation, anAnimal Welfare Officer accompanied by a Police Officer notbelow the rank of a Sub Inspector may, upon obtaining awarrant from Magistrate\u2019s Court\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      177.57,
+      570.95,
+      401.85,
+      617.65
+    ],
+    "text": "(a)enter and inspect any premises where he has reasonto believe that an offence under this Act has beencommitted, is being committed or is about to becommitted;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      177.57,
+      631.91,
+      401.86,
+      666.49
+    ],
+    "text": "(b)examine any books, registers or electronic data andrecords relating to animals maintained at suchpremises;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      407.85,
+      512.34,
+      455.85,
+      568.34
+    ],
+    "text": "Prevention ofthecommissionor continuedcommissionof an offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      407.85,
+      463.62,
+      446.13,
+      500.42
+    ],
+    "text": "Offencesunder thisAct to becognizable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      147.09,
+      255.06,
+      449.85,
+      291.86
+    ],
+    "text": "No animalshall besubjected tocruelty5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.29,
+      352.17,
+      152.73,
+      362.17
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.37,
+      425.73,
+      153.81,
+      435.73
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.33,
+      510.21,
+      154.77,
+      520.21
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.61,
+      583.41,
+      154.05,
+      593.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      658.89,
+      154.29,
+      668.89
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      168.35,
+      309.07,
+      178.45
+    ],
+    "text": "16Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      173.71,
+      204.83,
+      397.17,
+      238.93
+    ],
+    "text": "(c)question any person in any such premises withregard to the commission or imminent commissionof an offence under this Act; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      172.87,
+      252.83,
+      397.13,
+      274.93
+    ],
+    "text": "(d)take any photograph or video, relating to suchoffence:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      193.15,
+      288.93,
+      397.17,
+      478.93
+    ],
+    "text": "Provided that, where upon information received,such Animal Welfare Officer is of the view that it isurgently required to take any of the steps referredto in paragraph (a), (b), (c) or (d) to prevent thecommission or continued commission of an offence,or to prevent the destruction of any document orother thing that may constitute evidence of thecommission of an offence under this Act or to ensurethe welfare of any animal, it shall be lawful for suchofficer to take any of the steps referred to inparagraph (a), (b), (c) or (d) before obtaining awarrant and such officer shall, within twenty fourhours of having taken such step, submit to court areport on the steps taken and the reasons whichwarranted the taking of such steps withoutobtaining a warrant.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      492.83,
+      397.2,
+      526.93
+    ],
+    "text": "31.(1) Upon an investigation being carried out undersection 30, where an Animal Welfare Officer has reasonablegrounds to believe that an animal\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      175.87,
+      540.83,
+      282.43,
+      550.93
+    ],
+    "text": "(a) is not being cared for;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      175.87,
+      564.83,
+      397.15,
+      598.93
+    ],
+    "text": "(b) is not provided with adequate food, water or shelterin accordance with recommended animal husbandryor rearing practices;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      173.71,
+      612.83,
+      320.48,
+      622.93
+    ],
+    "text": "(c)is experiencing excessive pain;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      172.87,
+      636.83,
+      323.48,
+      646.93
+    ],
+    "text": "(d)requires veterinary treatment; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      173.71,
+      660.83,
+      342.92,
+      670.93
+    ],
+    "text": "(e)is being worked while unfit for work,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      403.15,
+      493.74,
+      437.59,
+      530.54
+    ],
+    "text": "Issue ofanimalwelfaredirections",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.83,
+      264.45,
+      145.83,
+      274.45
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      338.25,
+      150.55,
+      348.25
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.11,
+      396.69,
+      150.55,
+      406.69
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      138.19,
+      456.21,
+      148.63,
+      466.21
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.51,
+      542.37,
+      149.95,
+      552.37
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.63,
+      637.89,
+      150.07,
+      647.89
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      250.05,
+      168.35,
+      401.85,
+      178.45
+    ],
+    "text": "Animal Welfare17",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      203.97,
+      401.87,
+      249.97
+    ],
+    "text": "he may issue a written direction which shall be called an\u201canimal welfare direction\u201d (hereinafter referred to as the\u201cdirection\u201d) in form \u201cA\u201d set out in the Schedule to this Actto the person in charge of the animal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      263.97,
+      401.86,
+      297.97
+    ],
+    "text": "(2) Upon receiving a direction under subsection (1), theperson in charge of that animal shall take remedial steps andin particular do one or more of the following:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.57,
+      311.87,
+      401.83,
+      333.97
+    ],
+    "text": "(a) care for or treat the animal in the manner stated inthe direction;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.57,
+      347.87,
+      401.83,
+      369.97
+    ],
+    "text": "(b) provide the animal with food, water, rest, shelter orother living conditions stated in the direction;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      181.29,
+      383.87,
+      401.84,
+      405.97
+    ],
+    "text": "(c) relocate the animal for any of the purposes statedin paragraphs (a), or (b); and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.57,
+      419.87,
+      401.86,
+      453.97
+    ],
+    "text": "(d) refrain from moving the animal from the premiseswhere it is kept until such date mentioned in thatdirection.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      467.97,
+      401.87,
+      549.97
+    ],
+    "text": "(3) Nothing contained in subsection (1) shall prevent theAnimal Welfare Officer from taking any of the remedial stepsmentioned in subsection (2) where such welfare officer is ofthe opinion that it is in the best interests of the animal to doso. In such an event the Animal Welfare Officer shall recordhis reasons for taking such steps and shall forthwith make acomplain to the Police Station of the area.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      563.97,
+      401.87,
+      609.97
+    ],
+    "text": "(4) A person who fails to comply with a direction givenunder subsection (1) without reasonable cause, commits anoffence and shall upon conviction after trial by a Magistratebe liable to a fine not exceeding twenty five thousand rupees.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      623.97,
+      401.87,
+      669.97
+    ],
+    "text": "(5) The issue of a direction under this section in respectof any act or omission shall not by itself prejudice theinstitution of a prosecution for an offence under this Act inrespect of such act or omission.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      147.57,
+      263.97,
+      152.57,
+      273.97
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      347.73,
+      155.25,
+      357.73
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      142.89,
+      433.17,
+      153.33,
+      443.17
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.85,
+      505.77,
+      154.29,
+      515.77
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.17,
+      576.93,
+      155.61,
+      586.93
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.33,
+      648.45,
+      154.77,
+      658.45
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "18Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      142.51,
+      255.45,
+      147.51,
+      265.45
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      357.45,
+      150.31,
+      367.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      444.45,
+      150.31,
+      454.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      510.45,
+      150.31,
+      520.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      624.45,
+      150.31,
+      634.45
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      204.83,
+      397.16,
+      278.41
+    ],
+    "text": "32.A Magistrate may, upon application made by anAnimal Welfare Officer or a Police Officer, or on his ownmotion, make order that any animal in respect of whom anoffence is alleged to have been committed, is beingcommitted or is likely to be committed, be placed in the careand custody of\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.87,
+      293.63,
+      289.16,
+      303.73
+    ],
+    "text": "(a)an Animal Care Center;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.87,
+      319.07,
+      397.16,
+      341.89
+    ],
+    "text": "(b)a non-governmental organization whose primaryobject is concern with the welfare of animals; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      173.71,
+      357.23,
+      397.15,
+      379.93
+    ],
+    "text": "(c)a person referred to in paragraphs (a) and (b) ofsection 36,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      395.37,
+      397.14,
+      430.81
+    ],
+    "text": "in order to prevent the continued commission of an offenceor for the purpose of providing such animal with necessarycare or medical treatment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      446.03,
+      397.17,
+      519.61
+    ],
+    "text": "33.Any person who obstructs or resists an AnimalWelfare Officer or Police Officer in the exercise of any powersunder this Act commits an offence and shall upon convictionafter trial before a Magistrate, be liable to a fine not exceedingthree thousand rupees or to imprisonment for a term notexceeding three years or both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      534.95,
+      397.15,
+      557.77
+    ],
+    "text": "34.A prosecution for an offence under this Act may beinstituted by\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.87,
+      573.11,
+      303.44,
+      583.21
+    ],
+    "text": "(a)an Animal Welfare Officer;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.87,
+      598.43,
+      265.87,
+      608.53
+    ],
+    "text": "(b)a peace officer; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      173.71,
+      623.97,
+      397.15,
+      672.01
+    ],
+    "text": "(c)any person on the basis of a complaint made to aMagistrate having jurisdiction in terms of section136(1) (a) of the Code of Criminal Procedure Act,No. 15 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      403.15,
+      446.34,
+      444.43,
+      511.94
+    ],
+    "text": "Obstructingan AnimalWelfareOfficer orPoliceOfficer, bean offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      403.15,
+      206.34,
+      448.15,
+      281.54
+    ],
+    "text": "Placinganimals inshelter &care duringinvestigationand trial toensure itswelfare",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      403.15,
+      536.34,
+      447.43,
+      573.14
+    ],
+    "text": "By whomprosecutionscan beinstituted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      249.57,
+      168.45,
+      401.85,
+      178.83
+    ],
+    "text": "19Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      147.21,
+      262.41,
+      152.21,
+      272.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.61,
+      349.41,
+      154.05,
+      359.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.57,
+      420.45,
+      155.01,
+      430.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.57,
+      516.45,
+      155.01,
+      526.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.57,
+      601.41,
+      155.01,
+      611.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.57,
+      661.41,
+      155.01,
+      671.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      204.35,
+      401.87,
+      250.45
+    ],
+    "text": "35.(1) Where any person is convicted of an offence inrelation to an animal under this Act, the Magistrate may, inaddition to any punishment that may be imposed, orderfor\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      177.57,
+      264.35,
+      401.85,
+      286.45
+    ],
+    "text": "(a)the forfeiture of the animal in respect of which theoffence was committed;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      177.57,
+      300.35,
+      401.84,
+      322.45
+    ],
+    "text": "(b)the forfeiture of any weapon, instrument or vehicleused in the commission of the offence; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      178.29,
+      336.35,
+      401.86,
+      382.45
+    ],
+    "text": "(c)the re-imbursement of expenses incurred by anyperson or institution in whose care and custodyany animal was placed in terms of the provisions ofthis Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      396.35,
+      401.86,
+      430.45
+    ],
+    "text": "(2) Where an animal is forfeited under paragraph (a) ofsubsection (1), the Magistrate making such order may directsuch animal be handed into\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      177.57,
+      444.35,
+      347.86,
+      454.45
+    ],
+    "text": "(a)the custody of an animal care center;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      177.57,
+      468.35,
+      401.83,
+      490.45
+    ],
+    "text": "(b)any non- governmental organization whose primaryobjective is concerned with welfare of animals; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      178.29,
+      504.35,
+      401.85,
+      538.45
+    ],
+    "text": "(c)the custody of any person whom the court issatisfied, to be actively engaged in caring foranimals.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      552.45,
+      401.88,
+      586.45
+    ],
+    "text": "(3) It shall be the duty of such animal care center, non-governmental organization or person as the case may be, tocare for such animal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      600.45,
+      401.86,
+      670.45
+    ],
+    "text": "(4) Where the owner of the weapon, instrument or vehicleis a third party not being the spouse or child of the personconvicted, an order of forfeiture under paragraph (b) ofsubsection (1) shall be made only after giving notice to suchowner to show cause why such an order should not be madeand no such order shall be made if the owner establishes to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      407.85,
+      204.3,
+      453.57,
+      260.3
+    ],
+    "text": "Forfeitureand re-imbursementof expenses,afterconviction",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "20Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      142.51,
+      268.41,
+      147.51,
+      278.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      342.45,
+      150.31,
+      352.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      432.45,
+      150.31,
+      442.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      519.45,
+      150.31,
+      529.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      608.37,
+      150.31,
+      618.37
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      204.81,
+      397.17,
+      252.61
+    ],
+    "text": "the satisfaction of the court that he had taken all precautionsto prevent the use of the weapon, instrument or vehicle inthe commission of the offence, or that the weapon, instrumentor vehicle has been used without his knowledge:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      267.81,
+      397.17,
+      315.61
+    ],
+    "text": "Provided that, where the weapon, instrument or vehiclehas been used for the commission of an offence for the secondtime, the Magistrate shall make an order forfeiting suchweapon, instrument or vehicle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      330.81,
+      397.11,
+      353.41
+    ],
+    "text": "(5) Any animal, weapon, instrument or vehicle forfeitedto the state by an order of court shall\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      172.87,
+      368.51,
+      397.14,
+      416.41
+    ],
+    "text": "(a)if no appeal is preferred against such order, vestabsolutely in the State with effect from the date onwhich the period prescribed for preferring an appealagainst such order expires;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      172.87,
+      431.51,
+      397.17,
+      479.41
+    ],
+    "text": "(b)if an appeal has been preferred against such order,vest absolutely in the State with effect from thedate on which the order is finally affirmed on appeal;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      173.71,
+      494.51,
+      397.17,
+      504.61
+    ],
+    "text": "(c)be dealt with in terms of the provisions of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      519.71,
+      397.15,
+      542.41
+    ],
+    "text": "36.Where an animal becomes a subject of courtproceedings, it shall be lawful for\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      172.87,
+      557.51,
+      397.16,
+      580.21
+    ],
+    "text": "(a)a person authorized by an Animal Welfare Society;or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      172.87,
+      595.31,
+      397.17,
+      630.61
+    ],
+    "text": "(b)a person in the opinion of the court is considered asa suitable person under the circumstances to makerepresentations on behalf of the animal,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      645.81,
+      397.15,
+      668.41
+    ],
+    "text": "to intervene in the court proceedings to safeguard the interestsof the animal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.15,
+      520.74,
+      445.87,
+      567.14
+    ],
+    "text": "Rights ofinterventionin casesinvolvinganimals",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      249.57,
+      168.45,
+      401.85,
+      178.83
+    ],
+    "text": "21Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      147.21,
+      255.45,
+      152.21,
+      265.45
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      343.41,
+      155.01,
+      353.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      444.45,
+      155.01,
+      454.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      521.37,
+      155.01,
+      531.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      594.45,
+      155.01,
+      604.45
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      204.71,
+      401.87,
+      277.81
+    ],
+    "text": "37.Every person who commits an offence under thisAct or under regulations made thereunder for which nopunishment is expressly provided shall upon conviction aftertrial by a Magistrate be liable to a fine not exceeding fivethousand rupees or to imprisonment for a term not exceedingsix months or to both such fine and imprisonment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      292.91,
+      401.84,
+      315.61
+    ],
+    "text": "38.Where an offence under this Act is committed by abody of persons, then\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      177.57,
+      330.71,
+      401.85,
+      353.41
+    ],
+    "text": "(a)if that body of persons is a body corporate everydirector or officer of that body corporate; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      177.57,
+      368.51,
+      401.83,
+      391.21
+    ],
+    "text": "(b)if that body of persons is a firm, every partner ofthat firm,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      406.41,
+      336.61,
+      416.41
+    ],
+    "text": "shall be deemed to be guilty of an offence:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      431.61,
+      401.9,
+      492.01
+    ],
+    "text": "Provided that, a Director or an officer of such bodycorporate or partner of such firm shall not be deemed to beguilty of such offence if he establishes that such offence wascommitted without his knowledge or that he exercised duediligence to prevent the commission of such offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      507.11,
+      401.85,
+      555.01
+    ],
+    "text": "39.Any person who abets the commission of an offenceor attempts or conspires to commit an offence under thisAct, commits an offence and shall upon conviction be liableto the same punishment as is provided for the offence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      570.11,
+      401.91,
+      605.41
+    ],
+    "text": "40.A prosecution for an offence committed under thisAct shall not be instituted after the expiration of twelvemonths from the date of the commission of the offence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      620.51,
+      401.87,
+      668.05
+    ],
+    "text": "41.The provisions of this Act shall not apply to pestcontrol activities or to any reasonable measures taken underany written law to safeguard human life, animal life orproperty.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      205.74,
+      446.85,
+      252.14
+    ],
+    "text": "Penalty foroffenceswhere notexpresslyprovided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      291.78,
+      453.57,
+      328.58
+    ],
+    "text": "Offencescommittedby a body ofpersons",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      507.78,
+      449.13,
+      525.38
+    ],
+    "text": "Abetting anoffence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      570.78,
+      454.29,
+      597.98
+    ],
+    "text": "Limitation oftime forprosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      622.38,
+      446.85,
+      630.38
+    ],
+    "text": "Exemption",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "22Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      141.55,
+      267.45,
+      146.55,
+      277.45
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      138.91,
+      342.45,
+      149.35,
+      352.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      420.45,
+      150.31,
+      430.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      495.45,
+      150.31,
+      505.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      571.41,
+      150.31,
+      581.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      647.37,
+      150.31,
+      657.37
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      204.83,
+      397.15,
+      227.53
+    ],
+    "text": "42.(1) The Prevention of Cruelty to Animals Ordinance(Chapter 475) is hereby repealed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      242.97,
+      397.16,
+      278.41
+    ],
+    "text": "(2) Notwithstanding the repeal of Prevention of Crueltyto Animals Ordinance (hereinafter referred to as \u201cthe repealedOrdinance\u201d)\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      172.87,
+      293.63,
+      397.17,
+      379.93
+    ],
+    "text": "(a)all decrees, orders and judgments entered or madeby a competent court or tribunal under the repealedOrdinance on the date preceding the date ofoperation of this Act shall with effect from the dateof operation of this Act be deemed to have beenmade under this Act, and may be enforcedaccordingly; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      172.87,
+      395.27,
+      397.16,
+      468.85
+    ],
+    "text": "(b)every order or rule made under the repealedOrdinance and in force on the day immediatelypreceding the date of operation of this Act and notinconsistent with the provisions of this Act, shallcontinue to be in force until the regulations aremade under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      484.19,
+      397.17,
+      545.05
+    ],
+    "text": "43.(1) The Minister may, in consultation with theAdvisory Committee make regulations in respect of allmatters which are stated or required by this Act to beprescribed or in respect of all matters for which regulationsare required or authorized to be made by this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      560.49,
+      397.15,
+      633.97
+    ],
+    "text": "(2) In particular, and without prejudice to the generalityof powers conferred by subsection (1), the Minister may, inconsultation with the Advisory Committee make regulationstaking into consideration international norms and practices,where he considers it necessary in respect of any of thefollowing matters: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      172.87,
+      649.31,
+      397.16,
+      672.01
+    ],
+    "text": "(a)the maximum load to be carried or drawn by anyanimal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.15,
+      204.3,
+      445.15,
+      221.9
+    ],
+    "text": "Repeals andsavings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.15,
+      483.78,
+      444.43,
+      491.78
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      249.57,
+      168.45,
+      401.85,
+      178.83
+    ],
+    "text": "23Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      147.09,
+      264.09,
+      152.09,
+      274.09
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.45,
+      365.13,
+      154.89,
+      375.13
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.45,
+      457.17,
+      154.89,
+      467.17
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.45,
+      552.21,
+      154.89,
+      562.21
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.45,
+      632.25,
+      154.89,
+      642.25
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      204.11,
+      401.86,
+      237.37
+    ],
+    "text": "(b)the conditions to be observed for preventing theovercrowding of animals in any vehicle, cage orenclosure;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      178.29,
+      250.43,
+      401.85,
+      272.17
+    ],
+    "text": "(c)regulating the use of any type of bit or harness andconduct of the business of a farrier;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      285.23,
+      401.85,
+      295.33
+    ],
+    "text": "(d)the precautions to be taken in the capture of animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      178.29,
+      308.51,
+      401.83,
+      330.13
+    ],
+    "text": "(e)the conditions and means under which animals maybe transported;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.85,
+      343.31,
+      358.29,
+      353.41
+    ],
+    "text": "(f)conditions relating to Zoo and aquaria;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      366.47,
+      401.83,
+      388.21
+    ],
+    "text": "(g)boarding kennels, hostels for pets and other similarInstitutions run on a commercial basis;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      401.27,
+      401.84,
+      423.01
+    ],
+    "text": "(h)conditions relating to animals in theme parks,performing animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.85,
+      436.07,
+      401.85,
+      446.17
+    ],
+    "text": "(i)conditions relating to use of animals in experiments;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.85,
+      459.23,
+      401.83,
+      469.33
+    ],
+    "text": "(j)conditions of animals in captivity and stray animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      178.29,
+      482.51,
+      401.84,
+      504.13
+    ],
+    "text": "(k)formulation of Codes of Practices relating to animalwelfare;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      179.85,
+      517.31,
+      401.86,
+      538.93
+    ],
+    "text": "(l)conditions relating to pet shops and control of pestsin animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      176.13,
+      552.11,
+      401.85,
+      573.73
+    ],
+    "text": "(m)conditions relating to livestock and alliedindustries;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      586.91,
+      389.12,
+      597.01
+    ],
+    "text": "(n)the age below which animals shall not be sold;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      610.07,
+      401.87,
+      643.33
+    ],
+    "text": "(o)the purposes in respect of which animals may beused to cosmetics, cosmetic ingredients or cosmeticproducts;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      177.57,
+      656.75,
+      323.84,
+      666.85
+    ],
+    "text": "(p)conditions for animal training;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "24Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      142.39,
+      275.13,
+      147.39,
+      285.13
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.75,
+      336.09,
+      150.19,
+      346.09
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.75,
+      420.45,
+      150.19,
+      430.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.75,
+      480.33,
+      150.19,
+      490.33
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.75,
+      564.09,
+      150.19,
+      574.09
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      172.87,
+      204.35,
+      323.59,
+      214.45
+    ],
+    "text": "(q)conditions for keeping animals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      174.43,
+      228.35,
+      397.15,
+      250.45
+    ],
+    "text": "(r)conditions relating to care of animals during anillness or injury; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      174.43,
+      264.35,
+      397.17,
+      346.45
+    ],
+    "text": "(s)the standards to be maintained by, the manner ofobtaining approval and the procedure to befollowed for the establishment, monitoring andinspection of any animal care center, non-governmental organization or person referred to inparagraphs (a), (b) and (c) of subsection (2) of section35.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      360.45,
+      397.17,
+      406.45
+    ],
+    "text": "(3) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication or on such date as may bespecified in such regulation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      420.45,
+      397.17,
+      490.45
+    ],
+    "text": "(4) Every regulation made by the Minister shall after threemonths of its publication in the Gazette, be brought beforeParliament. Any regulation which is not approved by theParliament shall be deemed to be rescinded from the date ofdisapproval but without prejudice to anything previouslydone there under.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      169.15,
+      504.35,
+      394.85,
+      514.45
+    ],
+    "text": "44.In this Act, unless the context otherwise requires\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      169.15,
+      528.45,
+      397.17,
+      586.45
+    ],
+    "text": "\u201canimal\u201d means, any living being other than a humanbeing and includes domestic animal, farmanimal, animal in captivity, wild animal,companion animal, aquatic animal, stray animaland food animal;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      193.15,
+      600.45,
+      397.15,
+      634.45
+    ],
+    "text": "\u201canimal care center\u201d means, a place for care ofanimals other than a Veterinary clinic or anAnimal hospital;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      193.15,
+      648.45,
+      397.16,
+      670.45
+    ],
+    "text": "\u201canimal welfare officer\u201d means, any governmentveterinary surgeon;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.15,
+      504.78,
+      451.15,
+      512.78
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      649.41,
+      150.31,
+      659.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      249.57,
+      168.45,
+      401.85,
+      178.83
+    ],
+    "text": "25Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      147.09,
+      255.33,
+      152.09,
+      265.33
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.45,
+      345.21,
+      154.89,
+      355.21
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.45,
+      433.29,
+      154.89,
+      443.29
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.45,
+      522.45,
+      154.89,
+      532.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.45,
+      624.45,
+      154.89,
+      634.45
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      204.93,
+      401.86,
+      278.41
+    ],
+    "text": "\u201canimal welfare society\u201d means, an animal welfare societyregistered under companies Act, No. 7 of 2007or registered as a non governmental organizationunder the Voluntary Social ServicesOrganization (Registration and Supervision)Act, No. 31 of 1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      293.73,
+      401.84,
+      316.45
+    ],
+    "text": "\u201ccage\u201d includes a pen, kennel, hutch or any other similarreceptacle;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      331.89,
+      401.87,
+      354.61
+    ],
+    "text": "\u201cconfine\u201d in relation to an animal, means, to restrict itsfreedom of movement including \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      210.57,
+      369.83,
+      401.85,
+      405.37
+    ],
+    "text": "(a) by enclosure in a cage, pit, yard, field orother enclosure serving to restrict freedomof access and movement; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      210.57,
+      420.71,
+      401.87,
+      443.41
+    ],
+    "text": "(b) by pinioning, tethering or other manner ofrestraint;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      458.85,
+      401.85,
+      481.57
+    ],
+    "text": "\u201cinfirmary\u201d means, a shelter established to keep sick oraged or disabled animals;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      497.01,
+      401.87,
+      532.33
+    ],
+    "text": "\u201cMinister\u201d means, the Minister to whom this Act isassigned under Article 44 or 45 of theConstitution;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      547.77,
+      401.86,
+      570.49
+    ],
+    "text": "\u201cover-walking\u201d in relation to an animal means, forciblewalking under cruel or distressful conditions;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      585.81,
+      401.86,
+      595.81
+    ],
+    "text": "\u201cpain\u201d includes, distress and mental or physical suffering;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      611.25,
+      401.86,
+      633.97
+    ],
+    "text": "\u201cpeace officer\u201d includes, any Government VeterinarySurgeon;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.85,
+      649.41,
+      401.83,
+      672.01
+    ],
+    "text": "\u201cperson\u201d includes, any body of persons, cooperate orunincorporated;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "26Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      142.39,
+      276.21,
+      147.39,
+      286.21
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.87,
+      349.41,
+      150.31,
+      359.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.75,
+      432.09,
+      150.19,
+      442.09
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.87,
+      516.45,
+      150.31,
+      526.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.87,
+      613.41,
+      150.31,
+      623.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      204.45,
+      397.13,
+      226.45
+    ],
+    "text": "\u201cpinioning\u201d in relation to a bird means disabling a bird\u2019swing or removing a part of a bird\u2019s wing;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      240.45,
+      397.17,
+      262.45
+    ],
+    "text": "\u201cprescribed\u201d means, prescribed by regulations by or underthis Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      276.45,
+      397.13,
+      310.45
+    ],
+    "text": "\u201cshelter\u201d means, a shelter or infirmary or any otherlocation or transit point used for safe keepingand maintenance of animal;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      324.45,
+      397.21,
+      370.45
+    ],
+    "text": "\u201ctrap\u201d means a net, cage, snare, pen, pitfall, or electricaldevice or, mechanical thing used for the purposeof killing, entrapping, entangling, restraining,or immobilizing an animal, but does not include\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      204.91,
+      384.35,
+      397.16,
+      418.45
+    ],
+    "text": "(a) any fenced area of land or other effectiveenclosure used for handling, herding, ormustering an animal; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      204.91,
+      432.35,
+      397.16,
+      454.45
+    ],
+    "text": "(b) any enclosure, such as a cage used fortransporting an animal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      468.45,
+      397.17,
+      490.45
+    ],
+    "text": "\u201cvehicle\u201d means, any conveyance used as a means oftransport;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      504.45,
+      397.17,
+      538.45
+    ],
+    "text": "\u201cVeterinary Surgeon\u201d means, a Veterinary Surgeonregistered under the Veterinary Surgeons andPractitioners Act, No. 46 of 1956;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      169.15,
+      552.45,
+      347.6,
+      562.45
+    ],
+    "text": "\u201cveterinary treatment of an animal\u201d means\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      205.87,
+      576.35,
+      397.15,
+      598.45
+    ],
+    "text": "(a) consulting with a Veterinary Surgeon aboutan animal\u2019s condition;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      205.87,
+      612.35,
+      397.17,
+      634.45
+    ],
+    "text": "(b) a medical or surgical procedure performedon an animal by a Veterinary Surgeon; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      206.71,
+      648.35,
+      397.16,
+      670.45
+    ],
+    "text": "(c) a medical procedure of a curative orpreventive nature performed on animal.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      249.57,
+      168.45,
+      401.85,
+      178.83
+    ],
+    "text": "27Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      173.85,
+      204.45,
+      401.85,
+      226.45
+    ],
+    "text": "\u201cwelfare of an animal\u201d includes, the health, safety andwell-being of an animal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      240.35,
+      401.83,
+      262.45
+    ],
+    "text": "45.In the event of an inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      358.29,
+      288.3,
+      401.73,
+      296.3
+    ],
+    "text": "[Section 31]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      267.21,
+      307.5,
+      296.49,
+      315.5
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      260.13,
+      326.61,
+      303.57,
+      334.61
+    ],
+    "text": "FORM \u201cA\u201d",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      217.29,
+      345.81,
+      346.29,
+      353.81
+    ],
+    "text": "ANIMAL WELFARE DIRECTION",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      179.85,
+      365.1,
+      339.56,
+      421.1
+    ],
+    "text": "Name of the person in charge of the animal:-Address:-Address where animal is kept:-Identification of the animal, if any:-Special marks, if any:-Sex, Breed and type of animal:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      179.85,
+      432.3,
+      335.13,
+      440.3
+    ],
+    "text": "Conditions under which the animal is kept:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      179.85,
+      451.5,
+      242.13,
+      459.5
+    ],
+    "text": "Direction issued:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      179.85,
+      470.7,
+      241.29,
+      478.7
+    ],
+    "text": "Remarks, if any:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      179.85,
+      489.9,
+      237.57,
+      497.9
+    ],
+    "text": "Date and Time:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      268.89,
+      509.1,
+      366.32,
+      517.1
+    ],
+    "text": "Signature of the Inspector:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      268.89,
+      528.3,
+      354.32,
+      536.3
+    ],
+    "text": "Name and Designation:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      190.05,
+      547.41,
+      373.76,
+      555.41
+    ],
+    "text": "Declaration by the person in charge of the animal",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      566.7,
+      401.87,
+      603.5
+    ],
+    "text": "I agree to abide by the foregoing direction issued to me in the interestof the said animal/s. I hereby undertake to comply with the saiddirection, failing which I am aware that I may be charged for breachof the provisions of the Animal Welfare Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      185.85,
+      614.7,
+      358.3,
+      622.7
+    ],
+    "text": "Signature of the person in charge of the animal:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      185.85,
+      633.9,
+      207.57,
+      641.9
+    ],
+    "text": "Date:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      653.1,
+      401.86,
+      672.38
+    ],
+    "text": "(In the case compliance is refused, the Inspector shall record it andthe action taken by him under the remarks column)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.85,
+      241.98,
+      455.13,
+      278.78
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      168.45,
+      309.31,
+      178.83
+    ],
+    "text": "28Animal Welfare",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      232.15,
+      660.54,
+      358.15,
+      668.54
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

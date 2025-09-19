@@ -1,0 +1,3489 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      168.44,
+      441.33,
+      219.44
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.85,
+      231.36,
+      368.86,
+      243.36
+    ],
+    "text": "Part II of January 13, 2022",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      260.16,
+      341.85,
+      272.16
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      288.96,
+      354.61,
+      301.08
+    ],
+    "text": "(Issued on 19.01.2022)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      150.21,
+      428.4,
+      449.48,
+      454.8
+    ],
+    "text": "GALAHA BHADDRAWATHIE NATIONAL BHIKKHUCARE CENTRE TRUST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      469.31,
+      303.71,
+      479.31
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      493.31,
+      311.85,
+      503.31
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      520.19,
+      455.84,
+      553.71
+    ],
+    "text": "to provide for the establishment of a trust called the Galaha BhaddrawathieNational Bhikkhu Care Centre Trust and for matters connected therewith or incidental thereto",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.21,
+      572.27,
+      401.49,
+      582.27
+    ],
+    "text": "Ordered to be published by the Minister of Health",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      623.87,
+      455.86,
+      633.87
+    ],
+    "text": "Price : Rs. 24.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.85,
+      602.34,
+      392.85,
+      610.34
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      611.94,
+      404.13,
+      619.94
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      662.25,
+      401.85,
+      670.34
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.05,
+      168.35,
+      401.69,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      320.37,
+      149.81,
+      330.37
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      391.17,
+      153.93,
+      401.17
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      460.65,
+      153.93,
+      470.65
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      518.25,
+      153.93,
+      528.25
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      204.21,
+      234.57,
+      214.21
+    ],
+    "text": "L.D.\u2014O. 26/2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      227.61,
+      401.85,
+      249.37
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A TRUST CALLED THEGALAHA BHADDRAWATHIE NATIONAL BHIKKHU CARE CENTRE TRUST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      251.01,
+      398.83,
+      261.01
+    ],
+    "text": "AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      274.41,
+      401.86,
+      331.21
+    ],
+    "text": "WHEREAS a Trust called and known as the \u201cGalahaBhaddrawathie National Bhikkhu Care Centre Trust\u201d hasheretofore been established by a Public Trust dated February7, 2003 for the purpose of establishing and maintaining aBhikkhu Care Centre, for Bhikkhus who are sick and helpless:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      344.61,
+      401.88,
+      436.57
+    ],
+    "text": "AND WHEREAS it has now become apparent that the saidTrust is not functioning properly and therefore it is not possibleto maintain the said Galaha Bhaddrawathie National BhikkhuCare Centre due to various reasons including the absence ofproper administration in the said Galaha BhaddrawathieNational Bhikkhu Care Centre and the absence of a regularand adequate funding system for the proper functioning of thesaid Galaha Bhaddrawathie National Bhikkhu Care Centre:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      449.97,
+      401.89,
+      530.17
+    ],
+    "text": "AND WHEREAS it has become necessary to enact legislationto provide for the establishment of a Trust called the GalahaBhaddrawathie National Bhikkhu Care Centre Trust toachieve the objects of the said Galaha BhaddrawathieNational Bhikkhu Care Centre for the benefit of the Bhikkhuswho are sick and helpless and to matters connected therewithor incidental thereto:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      543.57,
+      401.88,
+      565.21
+    ],
+    "text": "NOW THEREFORE BE it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      578.51,
+      401.84,
+      600.37
+    ],
+    "text": "1.This Act may be cited as the Galaha BhaddrawathieNational Bhikkhu Care Centre Trust Act, No. of 2022.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      613.67,
+      401.87,
+      647.53
+    ],
+    "text": "2.(1) There shall be established a Trust to be called theGalaha Bhaddrawathie National Bhikkhu Care Centre Trust(hereinafter referred to as the \u201cTrust\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      580.38,
+      441.57,
+      588.38
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      276.9,
+      440.13,
+      284.9
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      614.82,
+      455.85,
+      670.82
+    ],
+    "text": "Establishmentof the GalahaBhaddrawathieNationalBhikkhu CareCentre Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      612.45,
+      154.29,
+      622.45
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "2Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      251.61,
+      144.15,
+      261.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      336.93,
+      149.59,
+      346.93
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      408.57,
+      149.59,
+      418.57
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      482.37,
+      149.59,
+      492.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      551.97,
+      149.59,
+      561.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      204.45,
+      397.15,
+      262.45
+    ],
+    "text": "(2) The Trust shall, by the name assigned to it by subsection(1), be a body corporate and shall have perpetual successionand by that name may sue and be sued with full power andauthority to have, and use a common seal and to alter thesame.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      276.35,
+      397.17,
+      322.45
+    ],
+    "text": "3.The object of the Trust shall be to facilitate theaccommodation and caring for sick and helpless Bhikkhusin the Galaha Bhaddrawathie National Bhikkhu Care Centre(hereinafter referred to as the \u201cBhikkhu Care Centre\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.15,
+      336.35,
+      313.15,
+      346.45
+    ],
+    "text": "4.The functions of the Trust are \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.87,
+      360.35,
+      397.16,
+      430.45
+    ],
+    "text": "(a)to maintain the Galaha BhaddrawathieNational Bhikkhu Care Centre for Bhikkhuswho are sick and helpless and accommodatesick and helpless Bhikkhus in the BhikkhuCare Centre on such conditions and criteriaas prescribed by section 8;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.87,
+      444.35,
+      397.17,
+      502.45
+    ],
+    "text": "(b)to provide the Bhikkhus residing in theBhikkhu Care Centre who are sick, with allthe necessities including the day to dayrequirements and to facilitate the obtainingof medicines and medical treatment;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197.71,
+      516.35,
+      397.16,
+      574.45
+    ],
+    "text": "(c)to organize and conduct meditationprogrammes and other Buddhist programmesfor the Bhikkhus residing in the Bhikkhu CareCentre with a view to improving the mentalhealth of those Bhikkhus; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.87,
+      588.35,
+      397.17,
+      622.45
+    ],
+    "text": "(d)to maintain a library in order to facilitateimproving and refreshing the knowledge ofBuddhism of the resident Bhikkhus.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      636.35,
+      397.16,
+      670.45
+    ],
+    "text": "5. (1) The administration, management and control ofthe affairs of the Trust shall be vested in a Board ofManagement (hereinafter referred to as \u201cthe Board\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.11,
+      637.89,
+      150.55,
+      647.89
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      278.82,
+      449.59,
+      296.42
+    ],
+    "text": "The object ofthe Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      639.06,
+      448.15,
+      666.26
+    ],
+    "text": "Board ofManagementof the Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      404.11,
+      338.1,
+      447.55,
+      355.7
+    ],
+    "text": "Functions ofthe Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.05,
+      168.35,
+      401.69,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust3",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.81,
+      271.89,
+      149.81,
+      281.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      336.45,
+      153.93,
+      346.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      403.41,
+      153.93,
+      413.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      471.45,
+      153.93,
+      481.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.85,
+      203.85,
+      298.3,
+      213.85
+    ],
+    "text": "(2) The Board shall consist of\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201.57,
+      225.95,
+      364.41,
+      236.05
+    ],
+    "text": "(a)the following ex-officio members:\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224.85,
+      248.25,
+      401.86,
+      291.49
+    ],
+    "text": "(i) the Secretary to the Ministry of theMinister assigned the subject of Healthor his representative who is not belowthe rank of an Additional Secretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221.85,
+      303.69,
+      401.86,
+      358.09
+    ],
+    "text": "(ii) the Secretary to the Ministry of theMinister assigned the subject of BuddhaSasana or his representative who is notbelow the rank of an AdditionalSecretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218.85,
+      370.29,
+      401.86,
+      424.69
+    ],
+    "text": "(iii) the Secretary to the Ministry of theMinister assigned the subject of SocialServices or his representative who is notbelow the rank of an AdditionalSecretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219.57,
+      436.89,
+      401.86,
+      480.25
+    ],
+    "text": "(iv) the Secretary to the Ministry of theMinister assigned the subject of Financeor his representative who is not belowthe rank of an Additional Secretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222.57,
+      492.45,
+      401.86,
+      524.65
+    ],
+    "text": "(v) the Commissioner-General of theDepartment of Buddhist Affairs or hisrepresentative;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219.57,
+      536.85,
+      401.84,
+      557.89
+    ],
+    "text": "(vi) Diyawadane Nilame of Sri DaladaMaligawa or his representative;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.57,
+      570.09,
+      401.87,
+      591.25
+    ],
+    "text": "(vii) the Public Trustee or his representative;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.61,
+      603.35,
+      401.84,
+      635.65
+    ],
+    "text": "(b) the following members appointed by the Minister(hereinafter referred to as the \u201cappointedmembers\u201d):\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224.85,
+      647.85,
+      401.85,
+      668.89
+    ],
+    "text": "(i) two members having knowledge andexperience in administration and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      548.97,
+      154.29,
+      558.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.89,
+      624.93,
+      156.33,
+      634.93
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "4Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.11,
+      263.97,
+      145.11,
+      273.97
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      331.41,
+      149.59,
+      341.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      412.41,
+      149.59,
+      422.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      470.25,
+      149.59,
+      480.25
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.11,
+      540.45,
+      150.55,
+      550.45
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      235.15,
+      204.21,
+      397.16,
+      237.37
+    ],
+    "text": "accountancy appointed by the Ministerin consultation with the Secretary to theMinistry;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.15,
+      250.53,
+      397.16,
+      318.61
+    ],
+    "text": "(ii) four Bhikkhus nominated by theMahanayaka Theros of the Malwathu,Asgiri, Amarapura and Ramanna Chaptersto represent such Chapters one of whomshall be appointed as the Chairperson ofthe Board;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      214.15,
+      331.77,
+      397.14,
+      353.41
+    ],
+    "text": "(iii) the President of the Dayaka Sabha of theGalaha Bhaddrawathie temple.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      366.57,
+      397.19,
+      399.73
+    ],
+    "text": "(3) Any person who has become a member of the Board inhis ex-offficio capacity shall hold office as long as he holdssuch office by virtue of which he is a member of the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      413.01,
+      397.16,
+      492.61
+    ],
+    "text": "(4) Any appointed member of the Board shall unless avacancy arises in his post by resignation, death or removalfrom office, hold office for three years from the date ofappointment. Any member whose term is due to end otherwisethan by removal shall be eligible for reappointment. Suchreappointment shall be for not more than one further term,whether consecutive or not.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      505.77,
+      397.16,
+      573.73
+    ],
+    "text": "(5) In the event of the vacation of office by death,resignation or removal of any appointed member, the Ministershall, subject to paragraph (b) of subsection (2), appointanother person to fill such vacancy and such person shallhold office for the un-expired period of the term of office ofthe member whom he succeeds.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      587.01,
+      397.16,
+      666.73
+    ],
+    "text": "(6) Any appointed member who is temporarily unable todischarge his duties and functions as a member of the Boarddue to ill health, infirmity, being absent from Sri Lanka or forother reason for not less than three months shall inform thatto the Minister in writing. In such event the Minister shallhaving regard to the provisions of subsection (2), appointanother person to act in the place of such member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      610.41,
+      149.59,
+      620.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196.05,
+      168.35,
+      401.69,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust5",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.85,
+      204.35,
+      245.13,
+      214.45
+    ],
+    "text": "6. Any person\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.57,
+      228.35,
+      401.85,
+      262.45
+    ],
+    "text": "(a) if such person is or becomes a Member ofParliament or a Provincial Council or anyLocal Authority;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.57,
+      276.35,
+      401.86,
+      310.45
+    ],
+    "text": "(b) if such person is under any law in force inSri Lanka or in any other country found ordeclared to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      205.29,
+      324.35,
+      401.87,
+      382.45
+    ],
+    "text": "(c) if such person is a person having beendeclared as an insolvent or a bankrupt personunder any law in Sri Lanka or any othercountry and is an undischarged insolvent orbankrupt;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.57,
+      396.35,
+      401.86,
+      430.45
+    ],
+    "text": "(d) if such person is serving or has served asentence of imprisonment imposed by anycourt in Sri Lanka or any other country,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      444.45,
+      401.87,
+      466.45
+    ],
+    "text": "he shall be disqualified from being appointed or continue tobe a member of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      480.35,
+      401.83,
+      502.45
+    ],
+    "text": "7. The Board shall subject to the provisions of this Actor any other written law, have the power\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.09,
+      516.35,
+      401.85,
+      550.45
+    ],
+    "text": "(a)to receive grants, gifts and donations, both movableand immovable in cash or in kind, whether fromlocal or foreign sources:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      197.85,
+      564.45,
+      401.86,
+      610.45
+    ],
+    "text": "Provided that, the Board shall obtain prior writtenapproval of the Department of External Resourcesin respect of all foreign grants, gifts or donationsmade to the Trust;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.09,
+      624.35,
+      401.87,
+      670.57
+    ],
+    "text": "(b)to acquire or hold any property, movable orimmovable, which may become vested in the Trustby this Act or by virtue of any purchase, gift, grant,testamentary disposition or otherwise and, for the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      276.93,
+      149.81,
+      286.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      347.97,
+      153.93,
+      357.97
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      420.21,
+      153.93,
+      430.21
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      517.89,
+      153.93,
+      527.89
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      589.41,
+      153.93,
+      599.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.81,
+      658.41,
+      155.25,
+      668.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      482.58,
+      455.13,
+      499.1
+    ],
+    "text": "Powers of theBoard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      205.62,
+      455.85,
+      230.66
+    ],
+    "text": "Disqualificationfor being amember",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "6Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      193.15,
+      205.05,
+      397.17,
+      254.05
+    ],
+    "text": "purpose of this Act to sell, mortgage, lease, grant,convey, device, assign, exchange or otherwisedispose of any property to which the Trust maybecome entitled to;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.11,
+      269.99,
+      397.17,
+      345.13
+    ],
+    "text": "(c)to enter into and perform, either directly or throughofficers, employees and agents authorized in thatbehalf by the Board, all such contracts andagreements as may be necessary for the exercise,performance and discharge of the powers, dutiesand functions of the Trust; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.39,
+      360.95,
+      397.14,
+      384.13
+    ],
+    "text": "(d)to open, operate and close bank accounts in anyBank as may be recommended by the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      399.95,
+      397.16,
+      436.09
+    ],
+    "text": "8.The conditions and criteria for accommodatingBhikkhus in the Bhikkhu Care Centre and caring for suchBhikkhus shall be as prescribed by regulations.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      451.91,
+      397.15,
+      514.09
+    ],
+    "text": "9.The Trust shall be capable in law to take and holdproperty, movable or immovable, which may become vestedin it by virtue of any purchase, grant, gift, testamentarydisposition or otherwise and all such property shall be heldby the Trust for the purposes of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      529.91,
+      397.13,
+      553.09
+    ],
+    "text": "10.(1) Meetings of the Board shall be held at least oncein three months.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      569.01,
+      397.17,
+      631.09
+    ],
+    "text": "(2) The Chairman shall, if present preside at every meetingof the Board. In the absence of the Chairman from anymeeting of the Board, the members present at such meetingshall elect from among themselves a member to preside atsuch meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      647.01,
+      397.22,
+      670.09
+    ],
+    "text": "(3) The quorum for any meeting of the Board shall benine members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      270.93,
+      145.11,
+      280.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      335.37,
+      149.59,
+      345.37
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      426.45,
+      149.59,
+      436.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      504.45,
+      149.59,
+      514.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      596.97,
+      149.59,
+      606.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      402.3,
+      451.15,
+      427.34
+    ],
+    "text": "Accommodationetc. ofBhikkhus",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      454.38,
+      448.15,
+      479.42
+    ],
+    "text": "Power of theTrust to holdproperty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      532.14,
+      444.43,
+      548.54
+    ],
+    "text": "Meetings ofthe Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196.05,
+      168.35,
+      401.69,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust7",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      267.45,
+      148.85,
+      277.45
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      339.93,
+      154.29,
+      349.93
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      425.97,
+      154.29,
+      435.97
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      499.65,
+      154.29,
+      509.65
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      204.57,
+      401.87,
+      239.17
+    ],
+    "text": "(4) If there is an equality of votes at any meeting, theChairman or the member presiding at such meeting shall inaddition to his vote, have a casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      253.77,
+      401.87,
+      288.37
+    ],
+    "text": "(5) The Board may subject to the provisions of this Actregulate the procedure to be followed in regard to its meetingsand the transaction of its business.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      302.97,
+      401.86,
+      349.93
+    ],
+    "text": "(6) No act, decision or proceeding of the Board shall bedeemed to be invalid by reason only of the existence of avacancy among its members or any defect in the appointmentof any member thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      364.43,
+      401.86,
+      411.37
+    ],
+    "text": "11.The members of the Board may be paid suchremuneration for attendance at meetings of the Board asmay be determined by the Minister with the concurrence ofthe Minister assigned the subject of Finance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      425.87,
+      401.86,
+      472.93
+    ],
+    "text": "12.There shall be an advisory committee consisting ofthe Mahanayake Theros of the Malwathu, Asgiri, Amarapuraand Ramanna Chapters to advise the Board on mattersrelating to the Bhikkhu Care Centre.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      487.43,
+      401.87,
+      546.73
+    ],
+    "text": "13.(1) There shall be established a Fund called theGalaha Bhaddrawathie National Bhikkhu Care Centre TrustFund (hereinafter referred to as the \u201cFund\u201d). Themanagement, administration, control and operation of theFund shall be vested in the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.85,
+      561.33,
+      328.3,
+      571.33
+    ],
+    "text": "(2) There shall be paid into the Fund\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.57,
+      585.83,
+      401.86,
+      620.53
+    ],
+    "text": "(a) all such sums of monies allocated by theParliament, from time to time, for the purposeof carrying out the objects of the Fund;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      198.57,
+      635.03,
+      401.85,
+      669.73
+    ],
+    "text": "(b) any grant, gift or donation in cash or kind, fromSri Lanka or outside to achieve the objects ofthe Fund, subject to section 7(2)(a).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      584.37,
+      154.29,
+      594.37
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      661.89,
+      154.29,
+      671.89
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      367.14,
+      455.85,
+      400.58
+    ],
+    "text": "Remunerationfor attendingthe meetingsof the Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      427.14,
+      445.29,
+      443.54
+    ],
+    "text": "AdvisoryCommittee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      489.06,
+      455.85,
+      548.06
+    ],
+    "text": "Establishmentof GalahaBhaddrawathieNationalBhikkhu CareCentre TrustFund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "8Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      204.21,
+      397.17,
+      249.37
+    ],
+    "text": "(3) There shall be paid out of the Fund all such sums ofmoney required to defray the expenditure incurred by theTrust in the exercise, performance and discharge of its powers,duties and functions under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      262.67,
+      397.15,
+      296.17
+    ],
+    "text": "14.(1) The Trust may appoint such number of officersand employees as it may consider necessary for the efficientdischarge of its functions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      309.57,
+      397.16,
+      331.21
+    ],
+    "text": "(2) The Trust may in respect of the officers and employeesappointed under subsection (1) \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.39,
+      344.51,
+      397.16,
+      366.37
+    ],
+    "text": "(a)exercise disciplinary control over or dismiss suchofficers and employees;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.39,
+      379.67,
+      397.16,
+      401.41
+    ],
+    "text": "(b)determine the terms and conditions of employmentof such officers and employees; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      173.11,
+      414.71,
+      397.15,
+      448.21
+    ],
+    "text": "(c)pay such officers and employees such remunerationas may be determined by the Board in consultationwith the Minister assigned the subject of Finance.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      461.51,
+      397.17,
+      530.17
+    ],
+    "text": "15.(1) At the request of the Board, any officer in thepublic service may, with the consent of that officer and ofthe Public Service Commission be temporarily appointed tothe staff of the Trust for such period as may be determinedby the Board, or with like consent, be permanently appointedto such staff.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      543.57,
+      397.17,
+      600.37
+    ],
+    "text": "(2) Where any officer in the public service is temporarilyappointed to the staff of the Trust the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to such officer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      613.77,
+      397.16,
+      670.81
+    ],
+    "text": "(3) Where any officer in the public service is permanentlyappointed to the staff of the Trust the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall, mutatis mutandis,apply to and in relation to such officer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      261.93,
+      144.15,
+      271.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      345.45,
+      149.59,
+      355.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      426.45,
+      149.59,
+      436.45
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      496.17,
+      149.59,
+      506.17
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      566.97,
+      149.59,
+      576.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.11,
+      637.41,
+      150.55,
+      647.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      264.66,
+      450.43,
+      289.58
+    ],
+    "text": "Appointmentof the staff ofthe Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      463.14,
+      448.87,
+      488.06
+    ],
+    "text": "Appointmentof publicofficers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      196.05,
+      168.35,
+      401.69,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust9",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      284.97,
+      148.85,
+      294.97
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      361.41,
+      154.29,
+      371.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      439.41,
+      154.29,
+      449.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      544.17,
+      154.29,
+      554.17
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      620.97,
+      154.29,
+      630.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      204.95,
+      401.83,
+      228.13
+    ],
+    "text": "16.(1) The financial year of the Trust shall be thecalendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      244.05,
+      401.86,
+      267.13
+    ],
+    "text": "(2) The Board shall cause proper books of accounts to bekept of the income and expenditure of the Trust.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      283.05,
+      401.85,
+      319.09
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitutionrelating to the audit of accounts of Public Corporations shallapply to the audit of accounts of the Trust.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      335.03,
+      401.87,
+      384.13
+    ],
+    "text": "17.(1) The Board shall within six months of the end ofeach financial year submit to the Minister an annual reporton the activities carried out by the Trust along with theaudited accounts of the Trust for the year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      400.05,
+      401.86,
+      449.05
+    ],
+    "text": "(2) The Minister shall within three months from the dateof receipt of the annual report, table such report along withthe documents specified in subsection (1) in Parliament forits consideration.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      173.85,
+      464.99,
+      302.85,
+      475.09
+    ],
+    "text": "18.(1) The seal of the Board\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215.13,
+      490.91,
+      401.86,
+      527.05
+    ],
+    "text": "(a) shall be determined by the Board and maybe altered in such manner as may bedetermined by the Board;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215.13,
+      542.99,
+      401.86,
+      579.01
+    ],
+    "text": "(b) shall be in the custody of such person asthe Board may determine, from time totime;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      215.85,
+      594.95,
+      401.88,
+      670.09
+    ],
+    "text": "(c) shall not be affixed to any instrument ordocument except with the sanction of theBoard and in the presence of the Chairmanand another member of the Board whoshall sign the instrument or document intoken of their presence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      206.46,
+      439.29,
+      239.9
+    ],
+    "text": "Financialyear andaudit ofaccounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      336.54,
+      433.29,
+      354.14
+    ],
+    "text": "Annualreports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      408.81,
+      466.98,
+      447.09,
+      484.58
+    ],
+    "text": "The seal ofthe Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "10Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      266.97,
+      144.15,
+      276.97
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      340.41,
+      149.59,
+      350.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      401.37,
+      149.59,
+      411.37
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      476.13,
+      149.59,
+      486.13
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      560.97,
+      149.59,
+      570.97
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      623.37,
+      149.59,
+      633.37
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      204.57,
+      397.17,
+      239.17
+    ],
+    "text": "(2) The Board shall maintain a register in respect of theinstruments and documents to which the seal of the Board isaffixed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      253.67,
+      397.17,
+      312.97
+    ],
+    "text": "19.(1) Any expense incurred by the Trust in any suit orprosecution brought by, or against the Trust before any court,shall be paid out of the moneys of the Fund and any costrecovered by the Trust in any such suit or prosecution shallbe credited to the Fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      327.57,
+      397.17,
+      411.37
+    ],
+    "text": "(2) Any expense incurred by any member of the Board orany officer or employee of the Trust in any suit or prosecutionbrought against him in any court in respect of any act whichis done or purported to be done by him under this Act or onthe direction of the Board shall, if the court holds that suchact was done in good faith, be paid out of the Fund unlesssuch expense is recovered by him in such suit or prosecution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      425.87,
+      397.16,
+      485.17
+    ],
+    "text": "20.(1) The Minister may in consultation with theMahanayaka Theros of the Malwathu, Asgiri, Amarapuraand Ramanna Chapters, make regulations for matters requiredby this Act to be prescribed or in respect of which regulationsare authorized to be made.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      499.77,
+      397.17,
+      546.73
+    ],
+    "text": "(2) Every regulation made by the Minister shall bepublished in the Gazette and shall come into operation onthe date of such publication or such later date as may bespecified in such regulations.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      561.33,
+      397.17,
+      632.77
+    ],
+    "text": "(3) Every regulation made by the Minister shall withinthree months after its publication in the Gazette, be broughtbefore Parliament for its approval. Every regulation whichis not so approved by Parliament shall be deemed to berescinded as from the date of such disapproval, but withoutprejudice to anything previously done thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      647.37,
+      397.15,
+      669.73
+    ],
+    "text": "(4) Notice of the date on which any regulation is sodisapproved shall be published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      255.66,
+      449.59,
+      297.62
+    ],
+    "text": "Recovery ofexpensesfrom any suitorprosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      427.14,
+      443.59,
+      435.14
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      196.05,
+      168.35,
+      401.85,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust11",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      262.89,
+      148.85,
+      272.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      356.37,
+      154.29,
+      366.37
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      437.37,
+      154.29,
+      447.37
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      613.41,
+      154.29,
+      623.41
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      204.11,
+      401.86,
+      225.97
+    ],
+    "text": "21.(1) The Board may make rules in respect of allmatters authorized to be made by this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      239.37,
+      401.86,
+      272.77
+    ],
+    "text": "(2) Without prejudice to the generality of the provisionsof subsection (1), rules may be made in respect of all or anyof the following matters:\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180.57,
+      286.07,
+      397.3,
+      296.17
+    ],
+    "text": "(a) the administration and management of the Trust;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180.57,
+      309.47,
+      401.84,
+      319.57
+    ],
+    "text": "(b) conduct of its meetings and matteers relating thereto;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      181.29,
+      332.87,
+      401.84,
+      366.37
+    ],
+    "text": "(c) to conduct inquiries in respect of breach of conditionsand criteria relating to accommodating and caringfor Bhikkhus in the Bhikku Care Centre; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      180.57,
+      379.67,
+      401.86,
+      401.41
+    ],
+    "text": "(d) the programmes organized and conducted by theBhikkhu Care Centre.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      414.71,
+      401.85,
+      448.21
+    ],
+    "text": "22.All officers and servants of the Trust shall be deemedto be public servants within the meaning and for the purposeof the Penal Code (Chapter 19).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      496.67,
+      401.86,
+      518.41
+    ],
+    "text": "23.The Trust shall be deemed to be a scheduledinstitution within the meaning of the Bribery Act (Chapter 26).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      578.51,
+      401.85,
+      600.37
+    ],
+    "text": "24.In this Act, unless the context otherwiserequires:\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179.85,
+      613.77,
+      401.85,
+      635.41
+    ],
+    "text": "\u201cBhikkhu\u201d shall have the same meaning as assigned to it inthe Buddhist Temporalities Ordinance (Chapter 318);",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      179.85,
+      648.81,
+      401.85,
+      670.93
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom the implementationof the provisions of this Act is assigned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      580.14,
+      455.13,
+      588.14
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      415.62,
+      454.29,
+      486.62
+    ],
+    "text": "Officers andservants ofthe Trustdeemed to bepublicservantsunder thePenal Code",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      497.94,
+      455.13,
+      568.94
+    ],
+    "text": "Trust isdeemed to bea scheduledinstitutionwithin themeaning ofthe BriberyAct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      206.1,
+      426.57,
+      214.1
+    ],
+    "text": "Rules",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      168.35,
+      363.06,
+      190.35
+    ],
+    "text": "12Galaha Bhaddrawathie National BhikkhuCare Centre Trust",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      204.35,
+      397.16,
+      238.45
+    ],
+    "text": "25.In the event of any inconsistency between theSinhala and the Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      206.34,
+      450.43,
+      243.14
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      196.05,
+      168.35,
+      401.85,
+      190.35
+    ],
+    "text": "Galaha Bhaddrawathie National BhikkhuCare Centre Trust13",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      245.85,
+      632.58,
+      353.85,
+      640.58
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
