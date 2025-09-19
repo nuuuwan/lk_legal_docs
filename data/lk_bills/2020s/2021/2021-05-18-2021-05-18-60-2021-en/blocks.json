@@ -1,0 +1,653 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.37,
+      433.77,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.57,
+      228.75,
+      359.01,
+      242.36
+    ],
+    "text": "Part II of May 13, 2021",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      257.55,
+      341.85,
+      271.16
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      286.35,
+      354.61,
+      299.96
+    ],
+    "text": "(Issued on 18.05.2021)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      152.13,
+      411.27,
+      447.56,
+      453.68
+    ],
+    "text": "LIONS CLUBS INTERNATIONAL DISTRICT 306A -NATIONAL DEVELOPMENT FOUNDATION TRUST(INCORPORATION) (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      483.89,
+      303.71,
+      495.23
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      507.89,
+      311.85,
+      519.23
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      586.99,
+      391.17,
+      596.06
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      599.59,
+      402.81,
+      608.66
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      618.89,
+      455.72,
+      630.23
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.33,
+      661.87,
+      402.33,
+      670.94
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.05,
+      461.69,
+      348.33,
+      473.03
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.29,
+      528.77,
+      442.27,
+      551.87
+    ],
+    "text": "to amend the Lions Clubs International District 306A - NationalDevelopment Foundation Trust (Incorporation) Act, No. 28 of 1986",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.49,
+      557.93,
+      441.26,
+      581.27
+    ],
+    "text": "To be presented in Parliament by Hon. Gayantha Karunatilleka, M.P.for Galle District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.49,
+      166.97,
+      366.21,
+      202.31
+    ],
+    "text": "Lions Clubs International District 306A - National Development Foundation Trust(Incorporation) (Amendment)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.69,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "1",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.81,
+      315.89,
+      152.81,
+      327.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      389.69,
+      153.93,
+      401.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      475.73,
+      153.93,
+      487.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      551.09,
+      153.93,
+      562.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.05,
+      215.57,
+      391.77,
+      251.75
+    ],
+    "text": "AN ACT TO AMEND THE LIONS CLUBS INTERNATIONAL DISTRICT306A- NATIONAL DEVELOPMENT FOUNDATION TRUST(INCORPORATION) ACT, NO. 28 OF1986",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      265.25,
+      401.89,
+      350.99
+    ],
+    "text": "WHEREAS the Corporate members of the Lions ClubsInternational District 306A - National DevelopmentFoundation Trust (Incorporation) incorporated under theLions Clubs International District 306A - NationalDevelopment Foundation Trust (Incorporation) Act, No. 28of 1986 have passed a resolution to amend the name of saidTrust:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      364.37,
+      401.91,
+      412.91
+    ],
+    "text": "AND WHEREAS the said Trust, for the purpose of giveneffect to the said resolution, has applied to change the nameof such Trust; and it will be expedient to grant suchapplication:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      426.41,
+      401.91,
+      450.11
+    ],
+    "text": "BE it therefore, enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      463.61,
+      401.86,
+      499.67
+    ],
+    "text": "1.This Act may be cited as the Lions Clubs InternationalDistrict 306A - National Development Foundation Trust(Incorporation) (Amendment) Act, No. of 2021.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      513.17,
+      401.89,
+      673.31
+    ],
+    "text": "2.In every context in which the Lions Clubs InternationalDistrict 306A - National Development Foundation Trust ismentioned whether by that name or by the name \u201cLions ClubsInternational District 306A - National Development FoundationTrust\u201d or by the abbreviation \u201cTrust\u201d in the Institute of LionsClubs International District 306A - National DevelopmentFoundation Trust (Incorporation) Act or any notice or otherdocument issued under that Act, there shall, unless the contextotherwise requires, be substituted for the expressions \u201cLionsClubs International District 306A - National DevelopmentFoundation Trust\u201d, the expression \u201cLions Clubs InternationalDistrict 306A 1 and District 306A 2 - National DevelopmentFoundation Trust\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      465.19,
+      443.86,
+      474.26
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      265.03,
+      442.29,
+      274.1
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      514.15,
+      449.13,
+      552.02
+    ],
+    "text": "Generalamendmentto Act, No.28 of 1986.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      612.89,
+      154.29,
+      624.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      361.51,
+      202.31
+    ],
+    "text": "2Lions Clubs International District 306A - National Development Foundation Trust(Incorporation) (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      141.19,
+      263.45,
+      146.19,
+      274.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      325.97,
+      149.59,
+      337.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.11,
+      215.21,
+      398.24,
+      348.95
+    ],
+    "text": "3.Every contract, agreement or other instrument ordocument whatsoever made, issued or executed prior to thedate of commencement of this Act, by or in favour of theLions Clubs International District 306A - NationalDevelopment Foundation Trust shall be deemed on and afrerthe date of commencement of this Act to be and to have beenmade issued or executed by or in favour of the expressionLions Clubs International District 306A - NationalDevelopment Foundation Trust, the expression \u201cLions ClubsInternational District, 306A 1, District 306A 2 - NationalDevelopment Foundation Trust\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.11,
+      361.73,
+      398.28,
+      385.07
+    ],
+    "text": "4.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      216.43,
+      448.16,
+      235.1
+    ],
+    "text": "Saving forcontracts etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      404.11,
+      361.87,
+      452.12,
+      399.74
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.49,
+      166.97,
+      366.21,
+      202.31
+    ],
+    "text": "Lions Clubs International District 306A - National Development Foundation Trust(Incorporation) (Amendment)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      396.69,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "3",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236.13,
+      618.55,
+      365.14,
+      627.62
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

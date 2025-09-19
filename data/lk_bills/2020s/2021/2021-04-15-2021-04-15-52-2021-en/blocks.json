@@ -1,0 +1,3971 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      166.37,
+      441.33,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.77,
+      233.67,
+      361.05,
+      247.28
+    ],
+    "text": "Part II of April 09, 2021",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      262.47,
+      341.85,
+      276.08
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      291.27,
+      354.61,
+      304.88
+    ],
+    "text": "(Issued on 15.04.2021)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.21,
+      418.71,
+      392.49,
+      432.32
+    ],
+    "text": "PUBLIC HEALTH EMERGENCY",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      495.41,
+      311.85,
+      506.75
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      520.97,
+      455.85,
+      556.31
+    ],
+    "text": "to provide for the Declaration of a State of Public Health Emergency; toprovide for the Adoption of Special Measures in the Interests of Public Health; and to provide for matters connected therewith or incidental thereto",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.05,
+      566.93,
+      418.79,
+      590.27
+    ],
+    "text": "To be presented in Parliament by Hon. M. A. Sumanthiran,M. P. for Jaffna District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      446.93,
+      347.51,
+      458.27
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      469.97,
+      303.71,
+      481.31
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.09,
+      620.21,
+      455.95,
+      631.55
+    ],
+    "text": "Price : Rs. 23.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.09,
+      599.71,
+      393.09,
+      608.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      609.31,
+      404.25,
+      618.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      661.15,
+      401.85,
+      670.22
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      178.31
+    ],
+    "text": "1Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      150.33,
+      330.89,
+      155.33,
+      342.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      411.89,
+      155.73,
+      423.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      492.89,
+      155.01,
+      504.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      550.49,
+      155.01,
+      561.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      620.93,
+      156.09,
+      632.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      202.73,
+      401.85,
+      237.23
+    ],
+    "text": "AN ACT TO TO PROVIDE FOR THE DECLARATION OF A STATE OF PUBLICHEALTH EMERGENCY; TO PROVIDE FOR THE ADOPTION OF SPECIALMEASURES IN THE INTERESTS OF PUBLIC HEALTH; AND TO PROVIDE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      237.53,
+      380.85,
+      248.87
+    ],
+    "text": "FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      260.69,
+      401.88,
+      283.67
+    ],
+    "text": "WHEREAS Covid 19 pandemic has continued to spreadthroughout the world:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      295.49,
+      401.87,
+      318.47
+    ],
+    "text": "AND WHEREAS it is expedient to lawfully provide formeasures to combit it and any other pandemics in the furure:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      330.29,
+      401.8,
+      353.27
+    ],
+    "text": "THEREFORE BE it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      365.09,
+      401.89,
+      399.59
+    ],
+    "text": "1.This Act may be cited as the Public Health EmergencyAct, No. of 2021 and shall come into force on the date ofCertification in terms of Article 79 of the Constitution.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.85,
+      411.53,
+      296.85,
+      422.87
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.13,
+      434.69,
+      297.57,
+      446.03
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      457.85,
+      401.91,
+      573.59
+    ],
+    "text": "2.Wherer, in view of the existence or imminence of astate of public health emergency, Parliament is of the opinionthat it is expedient so to do in the interests of public health,and upon the written advice of the Director General if HealthServices, it may by Resolution by not less than two-thirds ofthe whole number of Members (including those not present)has arisen and the provisions of Part II of this Act shall,forthwith or on such date as may by specified in theResolution, come into operation throughout Sri Lanka or insuch part or parts of Sri Lanka as may be so specified.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      585.53,
+      401.9,
+      667.07
+    ],
+    "text": "3.(1) Notwithstanding anything to the contrary in anyother law, Parliament, the Cabiner of Ministers, courts, thePublic Health Emergency Council as hereinafter providedfor, and any other such bodies and institutions, may sit,convene, and hole sessions through the use ofconemporaneous or near contemporaneous audio-visuallinkage during the period of a public health emergency.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      263.11,
+      440.85,
+      272.18
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      368.11,
+      442.3,
+      377.18
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      460.63,
+      448.3,
+      498.5
+    ],
+    "text": "Declarationof a publichealthemergency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      587.95,
+      448.29,
+      606.62
+    ],
+    "text": "Remoteconverning",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency2",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.71,
+      262.49,
+      151.71,
+      273.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      335.45,
+      150.31,
+      346.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      395.45,
+      150.31,
+      406.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      466.49,
+      150.31,
+      477.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.95,
+      562.97,
+      151.39,
+      574.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      202.97,
+      397.19,
+      250.31
+    ],
+    "text": "(2) All necessary technical, infrastructural and monetaryresources required for the purpose of such contemporaneousor near contemporaneous audio-visual linkage shall be madeavailable to the relevant bodies and institutions.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      262.97,
+      397.2,
+      310.31
+    ],
+    "text": "(3) All minutes of such meetings held in terms ofsubsection (1) shall be recorded and stored in electronicform and transcribed thereafter in accordance with theordinary rules applicable to such meetings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      322.97,
+      397.2,
+      430.31
+    ],
+    "text": "4.(1) Notwithstanding anything to the contrary in anyother law, during the period of a public health emergency,and to the extent that is reasonable, any person may accessany public service, including the issuance or renewal ofidentity documentation, the issuance of birty, death ormarriage certificates, the issuance of certificates of absence,and the issuance or renewal of licenses, through remoteelectronic means, whereby the person is not required to bephysically present for the purpose of receiving such service.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      442.97,
+      397.25,
+      502.31
+    ],
+    "text": "(2) All necessary technical, infrastructural and monetaryresources required for the purpose of such remote electronicaccess shall be made available to the relevant bodies andinstitution providing a public service specified insubsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.71,
+      514.97,
+      293.71,
+      526.31
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.43,
+      538.97,
+      343.87,
+      550.31
+    ],
+    "text": "STATE OF PUBLIC HEALTH EMERGENCY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      562.97,
+      397.18,
+      598.31
+    ],
+    "text": "5.Any Resolution adopted under section 2 of this Actshall specify the contagious disease that is the primary causefor a state of public health emergency:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      610.97,
+      397.21,
+      670.67
+    ],
+    "text": "Provided that where a contagious disease is incorrectlyidentified in the Resolution adopted under section 2,Parliament may amend the Resolution without prejudice tothe measures taken under Part II of this Act in pursuance ofsuch Resolution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      325.15,
+      430.87,
+      343.82
+    ],
+    "text": "Remoteservices",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.95,
+      635.45,
+      151.39,
+      646.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      564.31,
+      441.44,
+      592.58
+    ],
+    "text": "Specifyingcontagiousdisease",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      178.31
+    ],
+    "text": "3Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149.25,
+      265.97,
+      154.25,
+      277.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      366.89,
+      155.01,
+      378.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      480.41,
+      155.01,
+      491.75
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      606.41,
+      155.01,
+      617.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      203.33,
+      401.88,
+      252.47
+    ],
+    "text": "6.(1) Where a public health emergency has beendeclared under section 2 of this Act, there shall be constituteda body called the Public Health Emergency Council(hereinafter in this Act referred to as the \u201cCouncil\u201d).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.85,
+      266.33,
+      312.57,
+      277.67
+    ],
+    "text": "(2) The Council shall consist of\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.57,
+      291.53,
+      401.87,
+      315.47
+    ],
+    "text": "(a) the President, who shall be the Chairman of theCouncil;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.57,
+      329.33,
+      401.86,
+      353.27
+    ],
+    "text": "(b) the Prime Minister, who shall be the Vice-Chairman of the Council;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.29,
+      367.13,
+      330.58,
+      378.47
+    ],
+    "text": "(c) the Leader of the Opposition;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      192.57,
+      392.33,
+      401.87,
+      416.27
+    ],
+    "text": "(d) the Minister in charge of the followingsubjects:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      218.37,
+      430.13,
+      263.86,
+      441.47
+    ],
+    "text": "(i) Health;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215.37,
+      455.33,
+      296.86,
+      466.67
+    ],
+    "text": "(ii) Social Welfare;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      212.37,
+      480.53,
+      290.86,
+      491.87
+    ],
+    "text": "(iii) Environment;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213.09,
+      505.73,
+      290.85,
+      517.07
+    ],
+    "text": "(iv) Home Affairs;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.09,
+      530.93,
+      343.31,
+      542.27
+    ],
+    "text": "(v) Science and Techonology;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213.09,
+      556.13,
+      269.84,
+      567.47
+    ],
+    "text": "(vi) Defence;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.09,
+      581.33,
+      262.3,
+      592.67
+    ],
+    "text": "(vii) Police;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207.09,
+      606.53,
+      269.14,
+      617.87
+    ],
+    "text": "(viii) Finance;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      213.09,
+      631.73,
+      296.13,
+      643.07
+    ],
+    "text": "(ix) foregin Affairs;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.09,
+      656.93,
+      296.86,
+      668.27
+    ],
+    "text": "(x) Education; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      205.15,
+      455.13,
+      233.42
+    ],
+    "text": "Public HealthEmergencyCouncil",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency4",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145.63,
+      268.97,
+      150.63,
+      280.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      355.97,
+      150.31,
+      367.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      444.89,
+      150.31,
+      456.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      531.89,
+      150.31,
+      543.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      620.93,
+      150.31,
+      632.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      208.39,
+      205.37,
+      397.19,
+      254.51
+    ],
+    "text": "(xi) Any other such Ministers in charge ofsubjects deemed relevant by Parliamentto the public health emergency declaredunder section 2 of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      170.11,
+      268.37,
+      352.41,
+      279.71
+    ],
+    "text": "(e) The Director General of Health Services;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.67,
+      293.57,
+      350.11,
+      304.91
+    ],
+    "text": "(f) the persons referred to in subsection (3).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      318.77,
+      397.18,
+      367.91
+    ],
+    "text": "(3) The Speaker shall in consultation with the Leader ofthe Opposition, nominate five persons from amongst theOpposition Members of Parliament to be members of theCouncil.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      381.77,
+      397.16,
+      405.71
+    ],
+    "text": "(4) The functions of the Council shall be to formulateand implement a national plan and program for\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.63,
+      419.57,
+      397.17,
+      456.11
+    ],
+    "text": "(i) the effective use of resources for the detection andcontainment of the contagious disease specifiedunder section 5 of this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.63,
+      469.97,
+      397.24,
+      519.11
+    ],
+    "text": "(ii) the enhancement of public awareness and training tohelp members of the public protect themselves fromthe said contagious disease specified under section5 of this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      166.63,
+      532.97,
+      397.17,
+      556.91
+    ],
+    "text": "(iii) the uninterrupted supply of goods and servicesspecified in section 10 of this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167.47,
+      570.77,
+      397.21,
+      607.31
+    ],
+    "text": "(iv) the provision of the goods and services specified insection 10 of this Act to persons unable to accesssuch goods and services owing to destitution;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      170.47,
+      621.17,
+      397.19,
+      670.31
+    ],
+    "text": "(v) the adoption of all other measures necessary tocounter the contagious disease specified undersection 5 of this Act as may be decided by the Councilfor such purposes.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      178.31
+    ],
+    "text": "5Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150.57,
+      264.89,
+      155.57,
+      276.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      347.93,
+      156.09,
+      359.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      406.97,
+      155.01,
+      418.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      478.97,
+      156.09,
+      490.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      432.71,
+      454.29,
+      460.77
+    ],
+    "text": "End of publichealthemergency",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      562.97,
+      155.01,
+      574.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      656.93,
+      155.01,
+      668.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      204.89,
+      401.91,
+      251.99
+    ],
+    "text": "(5) The Council shall recommend to Parliament theallocation of all technical, infrastructral and monetaryresources as may be required to implement the national planformulated under subsection (4).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      264.41,
+      401.9,
+      299.51
+    ],
+    "text": "(6) The Council may make rules to regulate the procedurein regard to the conduct of its meetings, and the transactionof business at such meetings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      312.05,
+      401.86,
+      335.27
+    ],
+    "text": "(7) The quorum for any meeting of the Council shall beone-third of its total membership.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      347.69,
+      401.89,
+      418.55
+    ],
+    "text": "7.Where the provisions of Part II of this Act have comeinto operation on any date by virtue of a Resolution undersection 2, those provisions shall be in operation for a periodof sixty days from that date, but without prejudice to theearlier revocation of the Resolution or the adoption of afurther Resolution at or before the end of that period.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      430.97,
+      401.9,
+      489.95
+    ],
+    "text": "8.When the period of a public health emergency comesto an end, any order, direction or decision under this Part ofthe Act issued during and in pursuance to a state of publichealth emergency shall cease to have effect with respect toany time following the end of such period.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      502.37,
+      401.93,
+      549.47
+    ],
+    "text": "9.(1) The Minister may, on the written advice of theDirector General of Health Services, by Order published inthe Gazette, and for a period not exceeding fourteen days,probibit or restrict in a manner specified in such Order:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.09,
+      561.89,
+      267.58,
+      573.23
+    ],
+    "text": "(a) public assemblies;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.09,
+      585.65,
+      401.86,
+      608.87
+    ],
+    "text": "(b) religious worship, observance, practice, and teachingin public;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.81,
+      621.41,
+      401.91,
+      644.63
+    ],
+    "text": "(c) engagement in an occupation not specified in section10 of this Act;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.09,
+      657.05,
+      344.86,
+      668.39
+    ],
+    "text": "(d) travel to and from places of dwelling;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      350.51,
+      452.86,
+      378.57
+    ],
+    "text": "Period ofpublic healthemergency",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      505.07,
+      454.3,
+      542.73
+    ],
+    "text": "Temporaryrestriction offundamentalrights",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency6",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170.11,
+      202.73,
+      397.19,
+      249.23
+    ],
+    "text": "(e) being on any public road, railway, public park, publicrecreation ground, the seashore, or in a publicrestaurant, hotel, place of public entertainment, orany other such public place,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      261.29,
+      397.2,
+      296.03
+    ],
+    "text": "except under the authority of a written permit granted bysuch designated person or authority as may be specified insuch Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      308.21,
+      397.2,
+      343.55
+    ],
+    "text": "(2) Any Order issued under subsection (1) shall forthwithbe communicated to Parliament, which may by Resolutionrevoke such Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      356.21,
+      397.2,
+      415.55
+    ],
+    "text": "(3) Parliament may, by Resolution, extend an Order issuedunder subsection (1) for a further period not exceedingfourteen days, and may by similar Resolutions thereafterextend such Order for further periods not exceeding fourteendays.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      428.21,
+      397.21,
+      475.55
+    ],
+    "text": "(4) Any person who without reasonable cause fails tocomply with an Order issued under subsection (1) shall beguilty of an offence, and shall be liable to be placed inquarantine in terms of section 13(1)(a) of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      488.21,
+      397.21,
+      535.55
+    ],
+    "text": "(5) Every person who commits an offence under thissection shall, on conviction after summary trial before aMagistrate, be liable to a fine not exceeding ten thousandrupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      548.21,
+      397.18,
+      571.55
+    ],
+    "text": "10.(1) An person engaged in a lawfull occupationessential services relating to:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      168.91,
+      584.21,
+      236.12,
+      595.55
+    ],
+    "text": "(a) health care;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      168.91,
+      608.21,
+      397.19,
+      631.55
+    ],
+    "text": "(b) the provision of a public utility service, includingwater, electricity, or sanitation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.63,
+      644.21,
+      397.2,
+      667.55
+    ],
+    "text": "(c) the production, transport, and delivery of medicines,healthcare technology and medical-surgical devices;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145.87,
+      260.93,
+      150.87,
+      272.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      332.45,
+      150.31,
+      343.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      404.45,
+      150.31,
+      415.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      487.97,
+      150.31,
+      499.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      559.97,
+      150.31,
+      571.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      656.93,
+      150.31,
+      668.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      550.63,
+      433.87,
+      569.3
+    ],
+    "text": "Essentialservices",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      178.31
+    ],
+    "text": "7Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      202.97,
+      401.9,
+      226.31
+    ],
+    "text": "(d) the production, transport and delivery of agriculturaland food products;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.33,
+      238.97,
+      318.11,
+      250.31
+    ],
+    "text": "(e) Law enforcement and defence;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175.89,
+      262.97,
+      401.87,
+      286.31
+    ],
+    "text": "(f) Any activity functional to the facing of the publichealth emergency,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      298.97,
+      401.86,
+      322.31
+    ],
+    "text": "shall be permitted to engage in such lawful occupationnotwithstanding the provisions of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      334.97,
+      401.89,
+      394.31
+    ],
+    "text": "(2) The Council specified in section 6 of this Act mayrecommend to Parliament that monetary resources be madefor the purpose of maintaining any institution or undertakingthat is in the business of providing goods or services specifiedin subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      406.97,
+      401.88,
+      442.31
+    ],
+    "text": "11.(1) The Minister may, on the written advice of theDirector General of Health Services, by Order published inthe Gazette, and in the manner specified in such Order:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      454.97,
+      401.89,
+      490.31
+    ],
+    "text": "(a) require maintenance or construction of suitableestablishments for the purposes of quarantiningpersons;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      502.97,
+      401.9,
+      574.31
+    ],
+    "text": "(b) requisition any premises, other than premises usedfor the purposes of dwelling or for any lawfuloccupation specified in section 10 of this Act, forthe purposes of providing health care to persons, orfor use as a suitable establishment for quarantiningpersons or things;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.33,
+      586.97,
+      401.88,
+      622.31
+    ],
+    "text": "(c) requisition any privately-owned hospital or otherpremises used for the purposes of providing healthcare to persons;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      634.97,
+      401.87,
+      670.31
+    ],
+    "text": "(d) temporarily recruit workers to be deployed inhospitals and other premises used for the purposesof providing health care to persons:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      408.43,
+      453.58,
+      417.5
+    ],
+    "text": "Health sector",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      150.57,
+      276.41,
+      155.57,
+      287.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.65,
+      359.45,
+      156.09,
+      370.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      431.45,
+      155.01,
+      442.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.65,
+      516.41,
+      156.09,
+      527.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      587.45,
+      155.01,
+      598.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      661.49,
+      155.01,
+      672.83
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency8",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      188.11,
+      203.09,
+      397.19,
+      263.63
+    ],
+    "text": "Provided that such requisition or temporaryrecruitment shall have effect only for the periodspecified in such Order, and where such period shallnot extend beyond the period of a public healthemergency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      276.89,
+      397.2,
+      337.43
+    ],
+    "text": "(2) Any person suffering loss as a direct result of arequisition under subsection (1)(c) shall be entitled tocompensation of such sum as may be duly determined to benecessary to restore the premises to their condition or statusprior to such requisition.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      350.69,
+      397.22,
+      423.59
+    ],
+    "text": "(3) The Director General of Health Services or hisauthorised representative shall be permitted to enter anypremises used for the purposes of providing health care topersons, or of any lawful occupation specified in section 10of this Act, or of quarantining persons, in order to inspectthe premises.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      436.85,
+      397.22,
+      509.63
+    ],
+    "text": "(4) Pursuant to an inspection conducted in terms ofsubsection (3), any person may be required to submit himselffor medical examination and for quarantining thereafter if ahealth inspector forms the reasonable opinion that suchperson may be infected by the contagious disease specifiedin terms of section 5 of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      522.89,
+      397.23,
+      558.83
+    ],
+    "text": "12.(1) The Minister may, on the written advice of theDirector General of Health Services, by Order published inthe Gazette:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      169.87,
+      572.09,
+      397.16,
+      608.03
+    ],
+    "text": "(a) prohibit or restrict movement or transport of personsthrough ports, airports and other points of entry for aperiod not exceeding fourteen days:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      187.15,
+      621.29,
+      397.2,
+      669.59
+    ],
+    "text": "Provided that such prohibition or restriction shallnot apply to the movement or transport of goods, orany persons engaged in the business or occupationof transporting goods;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      145.87,
+      252.89,
+      150.87,
+      264.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      326.93,
+      150.31,
+      338.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      399.89,
+      150.31,
+      411.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.95,
+      473.93,
+      151.39,
+      485.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      547.97,
+      150.31,
+      559.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      634.97,
+      150.31,
+      646.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      524.59,
+      437.59,
+      543.26
+    ],
+    "text": "Ports andTransport",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      178.31
+    ],
+    "text": "9Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      202.97,
+      401.89,
+      250.31
+    ],
+    "text": "(b) impose duties on masters, pilots, train managers andother persons on board conveyances and on ownersand managers of ports, airports and other points ofentry;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175.29,
+      262.97,
+      401.88,
+      310.31
+    ],
+    "text": "(c) require persons at ports, airports and other points ofentry to provide information or answer questions,including information or questions relating to theirhealth.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      322.97,
+      401.9,
+      358.31
+    ],
+    "text": "(2) Any Order issued under subsection (1) shall forthwithbe communicated to Parliament, which may by Resolutionrevoke such Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      370.97,
+      401.9,
+      430.31
+    ],
+    "text": "(3) Parliament may by Resolution extend an Order issuedunder subsection (1) for a further period not exceedingfourteen days, and may by similar Resolutions thereafterextend such Order for further periods not exceeding fourteendays.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      442.97,
+      401.9,
+      478.31
+    ],
+    "text": "13.(1) Any designated person may, for the sole purposeof preventing the spread of a disease specified in a Resolutionadopted under section 2 of this Act, reasonably require:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      490.97,
+      401.87,
+      514.31
+    ],
+    "text": "(a) that a person or thing be kept in isolation orquarantine in a suitable establishment;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      526.97,
+      377.64,
+      538.31
+    ],
+    "text": "(b) that a person submit to medical examination;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175.29,
+      550.97,
+      401.89,
+      574.31
+    ],
+    "text": "(c) that a person be removed to a hospital or othersuitable establishment;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      174.57,
+      586.97,
+      401.89,
+      610.31
+    ],
+    "text": "(d) that a person be detained in a hospital or othersuitable establishment;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175.29,
+      622.97,
+      401.87,
+      646.31
+    ],
+    "text": "(e) that a person, thing, or premises be disinfected ordecontaminated;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176.85,
+      658.97,
+      349.81,
+      670.31
+    ],
+    "text": "(f) that a person wear protective clothing;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      150.57,
+      262.97,
+      155.57,
+      274.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.61,
+      334.97,
+      154.05,
+      346.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      406.97,
+      155.01,
+      418.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      490.97,
+      155.01,
+      502.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      586.97,
+      155.01,
+      598.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      444.67,
+      452.86,
+      463.34
+    ],
+    "text": "quarantiningetc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency10",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      203.57,
+      397.16,
+      227.99
+    ],
+    "text": "(g) that a person provide information or answer questionsabout the person\u2019s health or other circumstances;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      242.57,
+      397.16,
+      266.99
+    ],
+    "text": "(h) that a person\u2019s health be monitored and the resultsreported;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.15,
+      281.57,
+      397.17,
+      318.95
+    ],
+    "text": "(i) that a person attend trainig or advice sessions onhow to reduce the risk of infecting or contaminatingothers;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.15,
+      333.65,
+      397.19,
+      357.95
+    ],
+    "text": "(j) that a person be subject to restrictions on where theperson goes or with whom the person has contact;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      170.71,
+      372.65,
+      375.08,
+      383.99
+    ],
+    "text": "(k) that a person abstain from working or trading;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.15,
+      398.57,
+      324.1,
+      409.91
+    ],
+    "text": "(l) that a thing be seized or retained;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      168.43,
+      424.61,
+      397.2,
+      448.91
+    ],
+    "text": "(m) in the case of a dead body, that the body be buried orcremated;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      463.61,
+      397.16,
+      487.91
+    ],
+    "text": "(n) in any other case, that a thing be destroyed ordisposed of;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      502.61,
+      285.08,
+      513.95
+    ],
+    "text": "(o) that premises be closed;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      528.53,
+      397.2,
+      552.95
+    ],
+    "text": "(p) that, in the case of a conveyance or movable structure,the conveyance or structure be detained;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      169.87,
+      567.53,
+      397.18,
+      591.95
+    ],
+    "text": "(q) that, in the case of a building, conveyance orstructure, the premises be destroyed.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      606.53,
+      397.21,
+      669.95
+    ],
+    "text": "(2) Any person who without reasonable cause fails tocomply with a direction under subsection (1) shall be guiltyof an offence, and shall, on conviction after summary trialbefore a Magistrate, be liable to a fine not exceeding TenThousand rupees.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      145.87,
+      281.93,
+      150.87,
+      293.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.95,
+      372.89,
+      151.39,
+      384.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      476.93,
+      150.31,
+      488.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      580.97,
+      150.31,
+      592.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      657.89,
+      150.31,
+      669.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      229.77,
+      166.97,
+      402.81,
+      178.31
+    ],
+    "text": "11Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      202.73,
+      401.91,
+      249.23
+    ],
+    "text": "(3) The Minister may by Order published in the Gazettespecify the minimum standards that suitable establishments,used for the purposes of quarantining persons and things,must comply with.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      261.29,
+      401.93,
+      354.47
+    ],
+    "text": "14.(1) The Minister in charge of the subject of SocialWelfare shall, on the advice of the Council established undersection 6 of this Act, and by Order published in the Gazette,provide that all reasonable measures be taken to ensure theprovision, free of charge or for a nominal cost, of such goodsand services specified in section 10 of this Act to personswho are unable to access such services owing to destitutionduring the period of a public health emergency.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      366.53,
+      401.9,
+      389.63
+    ],
+    "text": "(2)The Minister shall present to the Council a weeklyreport of all provisions made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      401.69,
+      401.89,
+      459.83
+    ],
+    "text": "15.(1) The Minister may by Order published in theGazette require the temporary closure of any educationalpremises, and such direction shall remain valid for a periodspecified in such Order, provided that such period shall notextend beyond the period of a public health emergency.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      471.89,
+      401.89,
+      530.03
+    ],
+    "text": "(2)Any person responsible for the management oradministration of any educational premises shall complywith an Order issued under subsection (1) and shall takereasonable steps to ensure that persons do not attend suchpremises for the period specified in such Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      542.09,
+      401.89,
+      611.87
+    ],
+    "text": "(3)The Minister may by Order published in the Gazettedirect any school within the meaning of Educational Premisesto provide lessons to students through contemporaneous ornear contemporaneous audio-visual linkage during a periodspecified in such Order, and which period shall not extendbeyond the period of a public health emergency.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      161.85,
+      623.93,
+      401.9,
+      670.55
+    ],
+    "text": "(4)Any school specified in such Order under subsection(3) shall be provided with necessary technical, infrastructuraland monetary resources as may be required to comply withsuch Order.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      150.57,
+      260.93,
+      155.57,
+      272.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.65,
+      318.89,
+      156.09,
+      330.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      402.89,
+      155.01,
+      414.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.65,
+      473.93,
+      156.09,
+      485.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      542.93,
+      155.01,
+      554.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      600.89,
+      155.01,
+      612.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      260.95,
+      441.58,
+      279.62
+    ],
+    "text": "Specialassistance",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      407.85,
+      402.91,
+      449.86,
+      421.58
+    ],
+    "text": "Educationalpremises",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency12",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      145.87,
+      249.89,
+      150.87,
+      261.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.95,
+      319.97,
+      151.39,
+      331.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      389.93,
+      150.31,
+      401.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.95,
+      460.97,
+      151.39,
+      472.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      539.93,
+      150.31,
+      551.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      615.89,
+      150.31,
+      627.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      202.73,
+      397.19,
+      284.27
+    ],
+    "text": "16.Parliament may by Resolution declare certainindustries and sector that employ large numbers of workersto be \u2018protected industries\u2019 or \u2018protected sectors\u2019 for thepurpose of receiving special monetary assistance solely toensure that persons employed in such industries are retainedin employment during the period of a public healthemergency.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      296.33,
+      397.21,
+      331.07
+    ],
+    "text": "17.Any Order issued under this Act shall be madeavailable to the public on the official website of Parliamentand the Department of Government Printers.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      343.13,
+      397.21,
+      424.67
+    ],
+    "text": "18.Any person who maliciously disclose the identityof a person who is infected, or had been infected, or issuspected of being infected with the contagious diseasespecified under section 5 of this Act shall be guilty of anoffence, and shall, on conviction after summary trail beforea Magistrate, be liable to a fine not exceeding Fifty Thousandrupees.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      436.73,
+      397.18,
+      494.87
+    ],
+    "text": "19.The provisions of this Act shall have effectnotwithstanding anything to the contrary in any other writtenlaw, and accordingly in the event of any inconsistency orconflict between the provisions of this Act and such otherwritten law, the provisions of this Act shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      169.15,
+      506.93,
+      392.73,
+      518.27
+    ],
+    "text": "20.In this Act, unless the context otherwise requires-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      169.15,
+      527.69,
+      397.2,
+      562.43
+    ],
+    "text": "\u201cdesignated person\u201d means any law enforcement official,or other person specified by any Order issued underthis Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      169.15,
+      571.73,
+      299.62,
+      583.07
+    ],
+    "text": "\u201cEducational premises\u201d means\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.87,
+      592.49,
+      397.17,
+      627.23
+    ],
+    "text": "(a)a goverment school, assisted school, orunaided school within the meaning of theEducation Ordinance, No. 31 of 1939;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.87,
+      636.53,
+      397.18,
+      671.51
+    ],
+    "text": "(b)an institution within the further educationsector, within the meaning of the HigherEducation Act, No. 20 of 1966;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      205.15,
+      429.43,
+      214.22
+    ],
+    "text": "Labour",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      298.15,
+      440.59,
+      316.82
+    ],
+    "text": "PublishingOrders",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      343.63,
+      442.88,
+      371.9
+    ],
+    "text": "Disclosingthe identityof a patient",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      438.67,
+      449.59,
+      486.14
+    ],
+    "text": "Provisions ofthis Act toprevail overother writtenlaws",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      506.71,
+      451.16,
+      515.78
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      229.77,
+      166.97,
+      402.81,
+      178.31
+    ],
+    "text": "13Public Health Emergency",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      150.57,
+      264.41,
+      155.57,
+      275.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.65,
+      336.41,
+      156.09,
+      347.75
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      202.29,
+      202.97,
+      401.89,
+      238.31
+    ],
+    "text": "(c)a provider of education or training within themeaning of the Teritary And VocationalEducation Act, No. 20 of 1990;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173.85,
+      250.97,
+      401.91,
+      322.31
+    ],
+    "text": "\u201csuitable establishment\u201d means any premises that maybe reasonably repurposed for the provision of healthservices to persons, or for any other purpose directlyrelevant to the detection or containment of acontagious disease specified under section 5 of thisAct.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      334.97,
+      401.86,
+      370.31
+    ],
+    "text": "21.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      407.85,
+      336.19,
+      455.14,
+      374.06
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      178.31
+    ],
+    "text": "Public Health Emergency14",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.15,
+      645.31,
+      358.17,
+      654.38
+    ],
+    "text": "Department of Government Printing",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
