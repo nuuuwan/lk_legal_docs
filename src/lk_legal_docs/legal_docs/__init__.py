@@ -3,3 +3,4 @@
 
 from lk_legal_docs.legal_docs.Act import Act
 from lk_legal_docs.legal_docs.Bill import Bill
+from lk_legal_docs.legal_docs.ExtraordinaryGazette import ExtraordinaryGazette
