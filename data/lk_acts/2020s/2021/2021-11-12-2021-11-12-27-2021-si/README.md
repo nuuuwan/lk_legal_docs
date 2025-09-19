@@ -1,0 +1,59 @@
+YS% ,xldm%cd;dka;%sl iudcjd§ ckrcfhamd¾,sfïka;=j
+
+2021 wxl 27 ork wd.dñl yd ú.dñl
+
+^ixfYdaOk& mk;
+
+wdKavqfõ kshuh mßÈ uqøKh lrk ,§
+
+[iy;slh igyka lf<a 2021 fkdjeïn¾ ui 12 jk Èk]
+
+2021 fkdjeïn¾ ui 12 jk Èk YS% ,xld m%cd;dka;%sl iudcjd§ ckrcfha.eiÜ m;%fha II jk fldgfia w;sf¾lhla jYfhka m<lrk ,§
+
+Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'fld<U 5" rcfha m%ldYk ld¾hdxYfhka ñ,§ ,nd.; yels h'
+
+ñ, : re' 5'00 ;eme,a .dia;=j : re' 15'00
+
+——————
+
+——————
+
+——————
+
+fuu mk; www.documents.gov.lk fjí wvúfhka nd.; l< yel'
+
+12021 wxl 27 ork wd.dñl yd ú.dñl^ixfYdaOk& mk;
+
+[iy;slh igyka lf<a 2021 fkdjeïn¾ ui 12 jk Èk]
+
+t,a' ã'—´' 24$2018
+
+^351 jk wêldrh jQ& wd.dñl yd ú.dñl mk;ixfYdaOkh lsÍu i|yd jQ mk;ls
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha md¾,sfïka;=j úiskafufia mkjkq ,efí:–
+
+1'fï mk; 2021 wxl 27 ork wd.dñl yd ú.dñl^ixfYdaOk& mk; hkqfjka y÷kajkq ,efí'
+
+2'^351 jk wêldrh jQ & wd.dñl yd ú.dñl mkf;a14 jk j.ka;sh my; ±lafjk mßÈ fuhska ixfYdaOkh lrkq,efí :–
+
+^1&tys ^1& jk Wmj.ka;sfha “wjqreÿ folla” hk jpkfjkqjg “wjqreÿ myla” hk jpk wdfoaY lsÍfuka;
+
+^2&tys ^2& jk Wmj.ka;sfha “wjqreÿ folla blaujktfy;a wjqreÿ myla fkdblaujk” hk jpk fjkqjg“wjqreÿ myla blaujk tfy;a wjqreÿ oyhlafkdblaujk” hk jpk wdfoaY lsÍfuka; iy
+
+^3&tys ^3& jk Wmj.ka;shg blaì;sj u my; ±lafjkWmj.ka;sh we;=<;a lsÍfuka :–
+
+“^3w& ^w& ^1& jk iy ^2& jk Wmj.ka;sj, ksYaÑ;jolajd we;s ld,iSud ljrla jqj o" iaÓr jdi ùidm;%hl ld,h wud;Hjrhd úiska ksYaph lrkq ,eìhyels h'
+
+^wd& ^w& fþofha ld¾hh i|yd “iaÓr jdi ùidm;%hla” hkafkka" fï mk; hgf;a idok ,o ksfhda.hgf;a m%Þkh lrk ùid m;%hla woyia fõ'”'
+
+3' fï mkf;a isxy, yd fou< NdId mdG w;r hïwkkql+,;djla we;sjqjfyd;a" túg" isxy, NdId mdGhn,meje;aúh hq;= h'
+
+¨yq`vq kduh
+
+wkkql+,;djlawe;s jQ úg isxy,NdId mdGhn,meje;aúh hq;=nj
+
+351 jkwêldrfha14 jk j.ka;shixfYdaOkh lsÍu
+
+22021 wxl 27 ork wd.dñl yd ú.dñl^ixfYdaOk& mk;
+
+md¾,sfïka;=fõ isxy, mk;a" wxl 118" fÞia;r veksiag¾ o is,ajd udj;" fld<U 08"rcfha uqøKd,fha msysá —m%ldYk mshi˜ ys § ñ, § .; yels h'

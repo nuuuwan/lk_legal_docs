@@ -1,0 +1,4060 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.1,
+      441.55,
+      338.65
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      576.67,
+      392.13,
+      585.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      586.27,
+      404.13,
+      595.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      609.89,
+      455.83,
+      621.23
+    ],
+    "text": "Price : Rs. 27.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      528.89,
+      441.81,
+      552.23
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of September 17, 2021",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      659.95,
+      344.59,
+      669.02
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      223.29,
+      482.93,
+      370.29,
+      494.27
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.77,
+      452.93,
+      379.07,
+      464.27
+    ],
+    "text": "[Certified on 15th of September 2021]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      213.81,
+      385.11,
+      387.93,
+      398.72
+    ],
+    "text": "FINANCE ACT, No. 18 OF 2021",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.49,
+      166.97,
+      383.81,
+      178.31
+    ],
+    "text": "1Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.33,
+      440.11,
+      430.78,
+      449.18
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.81,
+      203.69,
+      342.84,
+      215.03
+    ],
+    "text": "[Certified on 15th of September 2021]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      228.29,
+      213.8,
+      239.63
+    ],
+    "text": "L. D.- O 21/2021",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      252.89,
+      384.8,
+      264.23
+    ],
+    "text": "AN ACT TO ENABLE PERSONS TO VOLUNTARILY DISCLOSE UNDISCLOSED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      265.13,
+      384.81,
+      276.47
+    ],
+    "text": "TAXABLE SUPPLIES, INCOME AND ASSETS REQUIRED TO BE DISCLOSED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      277.49,
+      384.81,
+      288.83
+    ],
+    "text": "UNDER CERTAIN LAWS; TO PROVIDE FOR THE IMPOSITION OF A TAX ON",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      289.73,
+      384.81,
+      301.07
+    ],
+    "text": "THE TAXABLE SUPPLIES, INCOME AND ASSETS SO DISCLOSED; TO",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      302.09,
+      384.81,
+      313.43
+    ],
+    "text": "INDEMNIFY THE PERSONS WHO VOLUNTARILY DISCLOSE ANY SUCH",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      314.33,
+      384.81,
+      325.67
+    ],
+    "text": "TAXABLE SUPPLY, INCOME OR ASSET AGAINST LIABILITY FROM",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      326.69,
+      384.83,
+      338.03
+    ],
+    "text": "INVESTIGATION, PROSECUTION AND PENALTIES UNDER SPECIFIED LAWS;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      338.93,
+      384.81,
+      350.27
+    ],
+    "text": "TO GRANT CERTAIN CONCESSIONS TO PERSONS WHO HAD ALREADY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      351.29,
+      384.81,
+      362.63
+    ],
+    "text": "DISCLOSED TAXABLE SUPPLIES, INCOME AND ASSETS UNDER SPECIFIED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      363.53,
+      384.81,
+      374.87
+    ],
+    "text": "LAWS; AND FOR MATTERS CONNECTED THEREWITH AND INCIDENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.81,
+      375.89,
+      186.79,
+      387.23
+    ],
+    "text": "THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      400.49,
+      384.86,
+      424.07
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      437.33,
+      384.83,
+      461.03
+    ],
+    "text": "1.This Act may be cited as the Finance Act, No. 18 of2021.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.81,
+      474.29,
+      279.81,
+      485.63
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.37,
+      498.89,
+      347.25,
+      510.23
+    ],
+    "text": "IMPOSING THE TAX ON VOLUNTARY DISCLOSURE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      523.49,
+      384.95,
+      645.47
+    ],
+    "text": "2.(1) The provisions of this Part shall, subject to theprovisions of subsection (2), apply to any person who hasnot disclosed any amount of taxable supply, income or assetwhich was required to be disclosed under the provisions ofany law specified in Schedule I hereto (hereinafter in thisPart referred to as \u201cundisclosed taxable supply, income orasset\u201d), in a Value Added Tax Return for any taxable periodended on or prior to March 31, 2020 or in a return of incomefor any year of assessment ended on or prior to March 31,2020.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.89,
+      658.73,
+      353.4,
+      670.07
+    ],
+    "text": "(2) The provisions of this Part shall not apply to-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      397.29,
+      525.19,
+      449.73,
+      553.46
+    ],
+    "text": "Persons towhom this Partapplies",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 20212",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      203.93,
+      452.24,
+      251.27
+    ],
+    "text": "(a)any person in relation to whom investigations orlegal proceedings under the provisions of any lawspecified in Schedule II is pending, in relation toany undisclosed taxable supply, income or asset;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      263.93,
+      452.25,
+      311.27
+    ],
+    "text": "(b)any person who has been convicted of an offenceunder the provisions of any law specified inSchedule II in relation to any undisclosed taxablesupply, income or asset; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.67,
+      323.93,
+      452.27,
+      383.27
+    ],
+    "text": "(c)any amount of undisclosed taxable supply, incomeor asset held by any person, in respect of which anassessment under the provisions of any respectivelaw specified in Schedule I or Schedule IV has beenmade:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      395.93,
+      452.25,
+      443.27
+    ],
+    "text": "Provided however, the provisions of paragraph (c) shallnot apply to any amount of undisclosed taxable supply,income or asset which has not been taken into account inmaking an assessment referred to in that paragraph.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      455.93,
+      452.23,
+      503.27
+    ],
+    "text": "(3) Every person referred to in subsection (1), not being aperson referred to in paragraph (a), (b) or (c) of subsection(2), shall hereinafter in this Part referred to as the \u201cperson towhom this Part applies\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      515.93,
+      452.25,
+      563.27
+    ],
+    "text": "3.(1) A person to whom this Part applies, shall invest ordeposit an amount equivalent to the undisclosed taxablesupply, income or asset, subject to the provisions ofsubsections (2) and (3).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      212.11,
+      575.93,
+      452.13,
+      611.27
+    ],
+    "text": "(2) If a person to whom this Part applies, intends to investan amount equivalent to the undisclosed taxable supply,income or asset, he shall \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.95,
+      623.93,
+      452.16,
+      647.27
+    ],
+    "text": "(a)where he is able to immediately invest such amount,purchase-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      254.11,
+      659.93,
+      423.44,
+      671.27
+    ],
+    "text": "(i)shares issued by a resident company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      517.15,
+      198.44,
+      564.62
+    ],
+    "text": "Undisclosedtaxable supplies,income or assetsto be invested ordeposited",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206.49,
+      166.97,
+      383.81,
+      178.31
+    ],
+    "text": "3Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.81,
+      204.89,
+      384.83,
+      240.23
+    ],
+    "text": "(ii)treasury bills or treasury bonds issued by theCentral Bank on behalf of the Government ofSri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      252.89,
+      384.82,
+      276.23
+    ],
+    "text": "(iii)any quoted debt securities issued by aresident company in Sri Lanka; or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.65,
+      288.89,
+      384.83,
+      312.23
+    ],
+    "text": "(iv)any movable or immovable property in SriLanka,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      324.89,
+      384.83,
+      348.23
+    ],
+    "text": "on or after the date of commencement of this Actbut prior to March 31, 2022; or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.65,
+      360.89,
+      384.98,
+      432.23
+    ],
+    "text": "(b)where he is unable to immediately invest suchamount available in cash whether in Sri Lankanrupees or in foreign currency, he shall deposit suchamount in a bank account, on or after the date ofcommencement of this Act but prior to March31, 2022.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.81,
+      444.89,
+      384.85,
+      492.23
+    ],
+    "text": "(3) Notwithstanding the provisions of subsection (1), theprovisions of subsection (2) shall not apply to a person towhom this Part applies who, prior to the date ofcommencement of this Act \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.65,
+      504.89,
+      384.97,
+      540.23
+    ],
+    "text": "(a)has utilized an amount equivalent to theundisclosed taxable supply, income or asset, topurchase-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186.81,
+      552.89,
+      356.62,
+      564.23
+    ],
+    "text": "(i)shares issued by a resident company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.81,
+      576.89,
+      384.94,
+      612.23
+    ],
+    "text": "(ii)treasury bills or treasury bonds issued by theCentral Bank on behalf of the Government ofSri Lanka;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      624.89,
+      384.94,
+      648.23
+    ],
+    "text": "(iii)any quoted debt securities issued by aresident company in Sri Lanka; or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.65,
+      660.89,
+      370.92,
+      672.23
+    ],
+    "text": "(iv) any movable or immovable property; or",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 20214",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      203.57,
+      451.16,
+      240.95
+    ],
+    "text": "(b)has deposited an amount equivalent to theundisclosed taxable supply, income or asset in abank account.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      255.65,
+      451.2,
+      305.99
+    ],
+    "text": "4. (1) A person to whom this Part applies shall be liableto pay a tax to be called the \u201cTax on Voluntary Disclosure\u201dto the Commissioner-General prior to making the declarationunder section 5 subject to the provisions of subsection (2).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      320.57,
+      451.19,
+      344.99
+    ],
+    "text": "(2) Where a person to whom this Part applies intends todisclose \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      359.57,
+      451.24,
+      448.91
+    ],
+    "text": "(a)any undisclosed taxable supply, income or assetother than immovable or movable property in thedeclaration made under subsection (1) of section 5,he is liable to pay the Tax on Voluntary Disclosureat the rate of one per centum of such amount orincome, or on the cost of such asset invested ordeposited under section 3; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      463.61,
+      451.23,
+      526.91
+    ],
+    "text": "(b)any immovable or movable property in thedeclaration made under subsection (1) of section 5,he is liable to pay Tax on Voluntary Disclosure atthe rate of one per centum on the market value ofsuch property on the date of the declaration.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      541.61,
+      451.18,
+      604.91
+    ],
+    "text": "(3) Any amount of the Tax on Voluntary Disclosure paidby a person to whom this Part applies shall not be deemed tobe a tax credit or an expenditure within the meaning of theInland Revenue Act, No. 24 of 2017 and shall not berefundable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      619.61,
+      451.23,
+      669.95
+    ],
+    "text": "5. (1) Any person to whom this Part applies who hasinvested or deposited any undisclosed taxable supply,income or asset as specified in section 3 and has paid theTax on Voluntary Disclosure as specified in section 4, shall",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      255.31,
+      175.87,
+      283.58
+    ],
+    "text": "Tax onVoluntaryDisclosure",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.11,
+      619.39,
+      194.83,
+      657.26
+    ],
+    "text": "Disclosure ofundisclosedtaxable supply,income or asset",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206.49,
+      166.97,
+      383.81,
+      178.31
+    ],
+    "text": "5Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      202.73,
+      383.94,
+      305.27
+    ],
+    "text": "on or prior to March 31, 2022, submit to theCommissioner-General a declaration (hereinafter in this Partreferred to as the \u201cdeclarant\u201d) in relation to any undisclosedtaxable supply, income or asset, substantially in the relevantform specified in Part I or Part II of Schedule V hereto alongwith the documents to prove the ownership, date ofacquisition and cost or market value of the asset, subject tothe guidelines issued by the Commissioner-General undersubsection (2).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      316.73,
+      383.9,
+      373.67
+    ],
+    "text": "(2) For the effective implementation of the provisions ofthis Act, the Commissioner-General may issue necessaryguidelines specifying the manner of payment and filing thedeclaration within one week of the date of coming intooperation of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      385.13,
+      383.88,
+      419.27
+    ],
+    "text": "(3) (a) Upon receipt of a declaration made undersubsection (1), the Commissioner-General shall verifywhether such declaration is in accordance with this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      430.73,
+      383.9,
+      476.27
+    ],
+    "text": "(b) Where the declaration is in accordance with this Act,the Commissioner-General shall accept the declaration inwriting and inform of such acceptance to the declarant withinthirty days of the date of receipt of the declaration.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      487.73,
+      383.91,
+      544.67
+    ],
+    "text": "(c) If the declaration is not in accordance with theprovisions of this Act, the Commissioner-General shall rejectthe declaration and inform the declarant in writing thereasons for his rejection within thirty days of the date ofreceipt of such declaration.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      556.13,
+      383.9,
+      590.27
+    ],
+    "text": "(d) If the Commissioner-General fails to inform thedeclarant as specified in paragraph (b) and (c) within thirtydays the declaration shall be deemed to have been accepted.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      601.73,
+      383.88,
+      670.91
+    ],
+    "text": "(4) Any declarant whose declaration is rejected in termsof subsection (3), shall be entitled to submit a freshdeclaration remedying any defects specified in theCommissioner-General\u2019s decision under subsection (3)within thirty days of the receipt of the Commissioner-General\u2019s decision.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 20216",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      203.33,
+      451.2,
+      265.07
+    ],
+    "text": "(5) Any declarant who provides false or incorrectinformation in the declaration made under subsection (1)shall not be entitled to the immunity granted under section6, notwithstanding the acceptance of such declaration bythe Commissioner-General under subsection (3).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      278.33,
+      451.21,
+      352.67
+    ],
+    "text": "6.(1) A declarant whose declaration has been acceptedby the Commissioner-General under subsection (3) of section5 and, who has paid the Tax on Voluntary Disclosure asspecified in section 4, shall be entitled to enjoy the fullimmunity from liability to pay any tax, penalty or interest orfrom any investigation or prosecution \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      366.53,
+      451.18,
+      440.87
+    ],
+    "text": "(a)under the provisions of any law specified inSchedule I hereto, other than the Value Added TaxAct, No. 14 of 2002, in relation to any year ofassessment ending on or prior to March 31, 2020in relation to the income or asset disclosed in thedeclaration made under subsection (1) of section 5;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.87,
+      454.73,
+      451.18,
+      529.07
+    ],
+    "text": "(b)under the provisions of the Value Added Tax Act,No. 14 of 2002 in relation to any year of any periodending on or prior to March 31, 2020 in relation tothe amount of taxable supplies disclosed in thedeclaration made under subsection (1) of section 5,unless such tax has been collected by such declarant.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      542.93,
+      451.2,
+      592.07
+    ],
+    "text": "(2) Subject to the provisions of subsection (5) ofsection 5, the Commissioner-General shall ensure that fullimmunity as specified above, be granted to any declarantreferred to in subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      605.93,
+      451.2,
+      667.67
+    ],
+    "text": "7.(1) The Commissioner-General or any officer of theDepartment of Inland Revenue, shall preserve and aid inpreserving official secrecy in respect of the identity of adeclarant and any matter or thing contained in a declarationmade under subsection (1) of section 5 of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      280.15,
+      176.11,
+      308.42
+    ],
+    "text": "Immunitygranted todeclarants",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.11,
+      608.11,
+      167.83,
+      617.18
+    ],
+    "text": "Secrecy",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206.49,
+      166.97,
+      383.81,
+      178.31
+    ],
+    "text": "7Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      203.33,
+      384.95,
+      265.07
+    ],
+    "text": "(2) All provisions of the Inland Revenue Act, No. 24 of2017 applicable to the maintenance of official secrecyincluding punishment for the breach of such secrecy undersection 100 of such Act, shall mutatis mutandis be applicableto a declaration made under this Act.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      279.89,
+      384.95,
+      333.59
+    ],
+    "text": "8.Where any person to whom this Part applies fails tocomply with the provisions of this Act, he shall be liable tobe dealt with in terms of the provisions of the respective lawspecified in Schedule I or Schedule IV hereto.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      350.45,
+      384.89,
+      418.19
+    ],
+    "text": "9. For the avoidance of doubt it is hereby declared thatthe provisions of this Part shall apply to any person to whomthis Part applies, notwithstanding anything done or anyamnesty granted under the provisions of Inland Revenue(Regulation of Amnesty) Act, No. 10 of 2004.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      248.37,
+      435.05,
+      281.37,
+      446.39
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      146.73,
+      463.25,
+      383.01,
+      474.59
+    ],
+    "text": "PROVISIONS TO WRITE OFF TAX ARREARS UNDER CERTAIN LAWS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      491.45,
+      384.93,
+      601.43
+    ],
+    "text": "10. The provisions of this Part shall apply to any personwho, is liable to pay any tax arrears under the provisions ofany law specified in Schedule I, Schedule III or Schedule IVor, is liable to pay any penalty imposed under the provisionsof any such law, for any year of assessment commencingprior to April 1, 2020 or for any period commencing prior toDecember 31, 2020 (hereinafter in this Part referred to as the\u201ctaxpayer\u201d).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.81,
+      618.29,
+      384.98,
+      671.99
+    ],
+    "text": "11.Notwithstanding anything to the contrary in anylaw or any provision of any law specified in Schedule IIIhereto or Value Added Tax Act, No.14 of 2002, theCommissioner-General shall write off, subject to sections",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      396.33,
+      282.19,
+      454.06,
+      329.66
+    ],
+    "text": "Consequence offailure tocomply with theprovisions ofthis Act",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      352.15,
+      443.86,
+      370.82
+    ],
+    "text": "Avoidance ofdoubt",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      396.33,
+      494.11,
+      448.77,
+      522.38
+    ],
+    "text": "Persons towhom this Partapplies",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      397.29,
+      621.19,
+      455.01,
+      659.06
+    ],
+    "text": "Tax arrears tobe written off inrespect ofcertain taxes",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 20218",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      203.33,
+      451.16,
+      265.07
+    ],
+    "text": "14 and 15, any tax arrears under any law in Part A ofSchedule III hereto or under the specific provisions of theValue Added Tax Act, No.14 of 2002 specified in Part B ofSchedule III hereto, in respect of any period ending on orprior to December 31, 2020, in relation to a taxpayer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      278.93,
+      451.18,
+      378.47
+    ],
+    "text": "12.The Commissioner-General shall write off, subjectto sections 14 and 15, any tax arrears payable under theprovisions of any law specified in Schedule I other thanValue Added Tax Act, No.14 of 2002, as at December 31,2020, by any individual whose assessable income,calculated in terms of the provisions of the Inland RevenueAct, No. 24 of 2017, for the year of assessment ending onMarch 31, 2020, does not exceed rupees three million:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      392.33,
+      451.16,
+      428.87
+    ],
+    "text": "Provided however, the provisions of this section shallnot apply to any such individual, under the followingcircumstances: -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      442.73,
+      451.19,
+      504.47
+    ],
+    "text": "(a)where the assessable income of the relevantindividual exceeds rupees three million withoutdeducting any loss including an unrelieved loss, interms of the provisions of the Inland Revenue Act,No. 24 of 2017;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.87,
+      518.33,
+      451.19,
+      592.67
+    ],
+    "text": "(b)where the assessable income of the relevantindividual exceeds rupees three million in aggregatewith the income from final withholding payments,gains and profits exempted from income tax in termsof the provisions of the Inland Revenue Act, No. 24of 2017;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      227.71,
+      606.53,
+      451.2,
+      668.51
+    ],
+    "text": "(c)where the annual gross turnover for the year ofassessment ending on March 31, 2020, of a businessor partnership of which the relevant individual is apartner, is not less than rupees five hundredmillion; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.11,
+      280.15,
+      197.83,
+      327.62
+    ],
+    "text": "Tax arrears tobe written off inrespect ofcertainindividuals",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      206.49,
+      166.97,
+      383.81,
+      178.31
+    ],
+    "text": "9Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.65,
+      203.57,
+      384.85,
+      265.79
+    ],
+    "text": "(d)where the assessable income of the relevantindividual includes an income earned fromconducting a business of betting and gaming orany business of liquor excluding such incomewhich is merely incidental to another business.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      279.89,
+      384.85,
+      380.15
+    ],
+    "text": "13.(1) The Commissioner-General shall write off anypenalty or interest, calculated in terms of the provisions ofany law specified in Schedule I or Schedule IV hereto, inrelation to a taxpayer, in respect of which the payment duedate was December 31, 2020 or a date prior to that date, ifthe taxpayer pays the full amount of the tax outstanding,under the provisions of said laws, on or prior to March 31,2022.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      394.25,
+      384.96,
+      456.35
+    ],
+    "text": "(2) Nothing in subsection (1) shall be read and construedas imposing a liability on the taxpayer to pay any tax, interestor penalty thereon, in respect of any tax arrears written off interms of the provisions of the Inland Revenue Act, No. 24 of2017 or the provisions of section 11 or 12 of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      470.33,
+      384.89,
+      583.31
+    ],
+    "text": "14.Where there is any dispute in relation to any taxarrears referred to in section 11 or 12, in respect of which adecision is pending before or has been made by the TaxAppeals Commission or any court of law, before thecommencement of this Act, under the provisions of anyrespective law specified in Schedule I or Schedule III hereto,on an assessment made in relation to a taxpayer, shall not bewritten off under the provisions of section 11 and 12, as thecase may be.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.81,
+      597.41,
+      384.85,
+      672.95
+    ],
+    "text": "15.Any tax refund pending payment on the date ofcommencement of this Act duly claimed by a taxpayer, underthe provisions of any law specified in Schedule I, ScheduleIII or Schedule IV hereto, for any period ending prior toDecember 31, 2020 shall be set off against any tax arrearswritten off under the provisions of section 11 or 12:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      397.29,
+      282.19,
+      451.3,
+      310.46
+    ],
+    "text": "Penalty on taxin default to bewritten off",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      397.29,
+      472.15,
+      446.01,
+      500.42
+    ],
+    "text": "Tax arrears indispute not tobe written off",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      397.29,
+      599.11,
+      449.01,
+      646.58
+    ],
+    "text": "Tax refunds tobe set offagainst the taxarrears writtenoff",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202110",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      204.65,
+      452.16,
+      241.91
+    ],
+    "text": "Provided however, the provisions of this section shallhave no application to any penalty imposed by law in aperiod subsequent to the period in which the refund is due.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      256.61,
+      452.16,
+      293.99
+    ],
+    "text": "16.(1) The Commissioner-General shall communicatein writing, to every taxpayer, the amount of refund to be setoff against the tax arrears in terms of section 15.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      308.57,
+      452.31,
+      410.99
+    ],
+    "text": "(2) If such person is dissatisfied with the amounts of therefund to be set off against the tax arrears so written off, heshall within a period of fourteen days from the date of thecommunication of the Commissioner-General, make awritten request to the Commissioner-General to not to setoff the refunds against the tax arrears as specified by theCommissioner-General and shall settle the full amount ofthe tax arrears on or prior to March 31, 2022.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      425.57,
+      452.16,
+      501.95
+    ],
+    "text": "(3) (a) The Commissioner-General may, upon a requestmade by the taxpayer under subsection (2), grant approvalto such taxpayer to settle the tax arrears referred to insubsection (1) on or prior to March 31, 2022, in accordancewith a suitable payment plan submitted along with therequest under subsection (2).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      516.53,
+      452.27,
+      579.95
+    ],
+    "text": "(b) The Commissioner-General shall write off any interestor penalty on such tax arrears, if the taxpayer acts incompliance with the payment plan approved under paragraph(a) on or prior to the dates approved by the Commissioner-General in such payment plan.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      212.11,
+      594.53,
+      452.26,
+      670.91
+    ],
+    "text": "(4) Where the taxpayer does not make a request undersubsection (2) or does not settle the tax arrears according tothe payment plan accepted by the Commissioner-General,the Commissioner-General shall proceed to set off the refundsagainst the tax arrears as specified in his communicationunder subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      256.15,
+      195.44,
+      303.62
+    ],
+    "text": "Commissioner-General toinform amountsset off againsttax arrears",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "11Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      204.89,
+      384.85,
+      242.99
+    ],
+    "text": "17.The Commissioner-General shall maintain properrecords with regard to the tax arrears and penalties writtenoff under the provisions of sections 11, 12 and 13.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.81,
+      258.53,
+      384.96,
+      296.63
+    ],
+    "text": "18. In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      154.89,
+      312.05,
+      378.11,
+      323.39
+    ],
+    "text": "19. In this Act unless the context otherwise requires-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      338.93,
+      384.96,
+      457.43
+    ],
+    "text": "\u201casset\u201d means money or any immovable or movableproperty, including bank balances, financialinstruments, shares, derivatives, treasury bills, fixeddeposits, time deposits, bonds or other forms ofdeposits, money given by way of security or loans,cash, gem or gold in hand, any other monetary rightbut excluding any intangible asset unless suchintangible asset has been purchased by the taxpayerfrom any other person;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      472.85,
+      384.84,
+      511.07
+    ],
+    "text": "\u201cbank account\u201d means any bank account opened andmaintained by a declarant in a bank licensed underthe Banking Act, No. 30 of 1988;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      526.49,
+      384.83,
+      551.27
+    ],
+    "text": "\u201cCommissioner-General\u201d shall have the same meaningas in the Inland Revenue Act, No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      566.69,
+      384.85,
+      604.79
+    ],
+    "text": "\u201cCentral Bank\u201d means the Central Bank of Sri Lankaestablished under the Monetary Law Act (Chapter422);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      162.81,
+      620.33,
+      384.84,
+      671.99
+    ],
+    "text": "\u201cFinal withholding payments\u201d shall have the samemeaning assigned to such payment as provided insection 88 of the Inland Revenue Act, No. 24 of2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      397.29,
+      205.63,
+      449.01,
+      233.9
+    ],
+    "text": "Proper recordsshall bemaintained",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      396.81,
+      261.19,
+      454.54,
+      289.46
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      397.29,
+      315.67,
+      445.3,
+      324.74
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202112",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      205.61,
+      450.23,
+      242.99
+    ],
+    "text": "\u201cimmovable property\u201d includes any building inSri Lanka or abroad whether constructed or underconstruction;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      257.57,
+      450.25,
+      281.99
+    ],
+    "text": "\u201cincome\u201d means any gain, profit or receipt derived fromany source whether in Sri Lanka or abroad;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      296.57,
+      450.21,
+      333.95
+    ],
+    "text": "\u201closs\u201d shall have the same meaning assigned to suchexpression under section 19 of the Inland RevenueAct, No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      348.65,
+      450.2,
+      372.95
+    ],
+    "text": "\u201cmoney\u201d includes local currency and foreign currencywhether retained in Sri Lanka or abroad;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      387.65,
+      450.23,
+      424.91
+    ],
+    "text": "\u201cmovable property\u201d includes all forms of movableproperty in Sri Lanka or abroad including gold butdoes not include money;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      439.61,
+      450.23,
+      476.87
+    ],
+    "text": "\u201cperson\u201d shall have the same meaning assigned to suchexpression under the Inland Revenue Act, No. 24of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      491.57,
+      450.25,
+      567.95
+    ],
+    "text": "\u201creturn\u201d means a return of income or Value Added Taxreturn that a person is required to file with theDepartment of Inland Revenue in terms of therespective law specified in Schedule I, includingany certificate, declaration or any other attachmentrequired to be furnished with the return;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      582.53,
+      450.23,
+      619.91
+    ],
+    "text": "\u201cresident company\u201d means a company within themeaning of subsection (4) of section 69 of the InlandRevenue Act, No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      228.19,
+      634.61,
+      450.23,
+      671.87
+    ],
+    "text": "\u201ctax\u201d in Part II shall include any tax, surcharge, levy,duty, charge or contribution payable or levied underthe respective law specified in Schedule I, III or IV;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "13Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      205.37,
+      383.87,
+      241.91
+    ],
+    "text": "\u201ctaxable supply\u201d shall have the same meaning assignedto such expression under section 83 of the ValueAdded Tax Act, No.14 of 2002;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      255.77,
+      383.9,
+      342.71
+    ],
+    "text": "\u201ctax arrears\u201d means a tax that remain unpaid after thepayment due date in compliance with the respectivelaw and includes a tax in default or other penaltyimposed under any such law and withholding taxor tax deducted on employment income by anemployer, that remain unpaid in accordance withthe records of the Commissioner-General;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      356.57,
+      383.89,
+      393.11
+    ],
+    "text": "\u201cTax Appeals Commission\u201d means Tax AppealsCommission established under the Tax AppealsCommission Act, No. 23 of 2011;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      406.97,
+      383.88,
+      443.51
+    ],
+    "text": "\u201cunrelieved loss\u201d shall have the same meaning assignedto such expression under section 19 of the InlandRevenue Act, No. 24 of 2017;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      457.37,
+      383.88,
+      493.91
+    ],
+    "text": "\u201cyear of assessment\u201d shall have the same meaningassigned to such expression under section 20 of theInland Revenue Act, No. 24 of 2017.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      239.13,
+      509.59,
+      288.57,
+      518.66
+    ],
+    "text": "SCHEDULE I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      256.29,
+      534.79,
+      383.72,
+      543.86
+    ],
+    "text": "(sections 2,6,8,10,12,13,14 and 15)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      559.99,
+      295.31,
+      569.06
+    ],
+    "text": "1. Inland Revenue Act, No. 28 of 1979",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      585.19,
+      295.31,
+      594.26
+    ],
+    "text": "2. Inland Revenue Act, No. 38 of 2000",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      610.39,
+      295.31,
+      619.46
+    ],
+    "text": "3. Inland Revenue Act, No. 10 of 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      635.59,
+      295.31,
+      644.66
+    ],
+    "text": "4. Inland Revenue Act, No. 24 of 2017",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      155.85,
+      660.79,
+      302.14,
+      669.86
+    ],
+    "text": "5. Value Added Tax Act, No. 14 of 2002",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202114",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      305.95,
+      204.07,
+      452.11,
+      222.74
+    ],
+    "text": "SCHEDULE II(section 2)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      232.63,
+      437.11,
+      241.7
+    ],
+    "text": "1.Prevention of Money Laundering Act, No. 5 of 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      251.59,
+      452.14,
+      270.14
+    ],
+    "text": "2.Convention on the Suppression of Terrorist Financing Act,No. 25 of 2005",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      280.15,
+      337.39,
+      289.22
+    ],
+    "text": "3.Bribery Act (Chapter 26)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      299.11,
+      452.12,
+      317.66
+    ],
+    "text": "4.Conventions Against Illicit Traffic in Narcotic Drugs andPsychotropic Substances Act, No. 1 of 2008",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      304.39,
+      337.15,
+      359.82,
+      346.22
+    ],
+    "text": "SCHEDULE III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      356.95,
+      356.11,
+      452.23,
+      365.18
+    ],
+    "text": "(sections 10,11,14 and 15)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      320.95,
+      375.07,
+      343.39,
+      384.14
+    ],
+    "text": "Part A",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      394.15,
+      452.14,
+      412.7
+    ],
+    "text": "1.Wealth Tax and Gifts Tax imposed under Inland RevenueAct, No. 28 of 1979",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      422.59,
+      371.82,
+      431.66
+    ],
+    "text": "2.Turnover Tax Act, No. 69 of 1981",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      441.55,
+      413.12,
+      450.62
+    ],
+    "text": "3.Surcharge on Wealth Tax Act, No. 25 of 1982",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      460.63,
+      408.57,
+      469.7
+    ],
+    "text": "4.Surcharge on Wealth Tax Act, No. 8 of 1989",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      479.59,
+      415.38,
+      488.66
+    ],
+    "text": "5.Surcharge on Income Tax Act, No. 26 of 1982",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      498.55,
+      415.38,
+      507.62
+    ],
+    "text": "6.Surcharge on Income Tax Act, No. 12 of 1984",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      517.63,
+      410.84,
+      526.7
+    ],
+    "text": "7.Surcharge on Income Tax Act, No. 7 of 1989",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      536.59,
+      404.84,
+      545.66
+    ],
+    "text": "8.National Security Levy Act, No. 52 of 1991",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      232.39,
+      555.55,
+      421.41,
+      564.62
+    ],
+    "text": "9.Save the Nation Contribution Act, No. 5 of 1996",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.95,
+      574.63,
+      408.55,
+      583.7
+    ],
+    "text": "10.Goods and Services Tax Act, No. 34 of 1996",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.95,
+      593.59,
+      410.84,
+      602.66
+    ],
+    "text": "11.Surcharge on Income Tax Act, No. 6 of 2001",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.95,
+      612.55,
+      360.56,
+      621.62
+    ],
+    "text": "12.Debits Tax Act, No. 16 of 2002",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.95,
+      631.63,
+      452.13,
+      650.18
+    ],
+    "text": "13.Social Responsibility Levy imposed under Finance Act,No. 5 of 2005",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      227.95,
+      660.31,
+      414.59,
+      669.38
+    ],
+    "text": "14.Economic Service Charge Act, No. 13 of 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "15Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      202.87,
+      323.25,
+      211.94
+    ],
+    "text": "15.Nation Building Tax Act, No. 9 of 2009",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      160.65,
+      221.35,
+      384.82,
+      239.54
+    ],
+    "text": "16.Economic Service Charge imposed under Finance Act,No. 11 of 2004",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      254.01,
+      248.95,
+      275.73,
+      258.02
+    ],
+    "text": "Part B",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      165.57,
+      267.31,
+      384.93,
+      285.62
+    ],
+    "text": "1.Optional Value Added Tax imposed under section 25H ofthe Value Added Tax Act, No.14 of 2002",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      165.57,
+      294.91,
+      384.81,
+      313.22
+    ],
+    "text": "2.VAT Advance Payment deducted under section 26A of theValue Added Tax Act, No.14 of 2002",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      237.09,
+      331.75,
+      292.53,
+      340.82
+    ],
+    "text": "SCHEDULE IV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      287.37,
+      350.11,
+      384.81,
+      359.18
+    ],
+    "text": "(sections 2,8,10,13 and 15)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164.13,
+      368.47,
+      347.27,
+      377.54
+    ],
+    "text": "1.Betting and Gaming Levy Act, No. 40 of 1988",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164.13,
+      386.95,
+      282.79,
+      396.02
+    ],
+    "text": "2.Finance Act, No. 11 of 2002",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164.13,
+      405.31,
+      297.1,
+      414.38
+    ],
+    "text": "3.Stamp Duty Act, No. 43 of 1982",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      164.13,
+      423.67,
+      370.55,
+      432.74
+    ],
+    "text": "4.Stamp Duty (Special Provisions) Act, No. 12 of 2006",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      234.09,
+      451.27,
+      286.53,
+      460.34
+    ],
+    "text": "SCHEDULE V",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      338.37,
+      469.75,
+      375.81,
+      478.82
+    ],
+    "text": "(section 5)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      250.65,
+      488.11,
+      270.09,
+      497.18
+    ],
+    "text": "Part I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      208.65,
+      506.47,
+      315.09,
+      515.54
+    ],
+    "text": "Tax on Voluntary Disclosure",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      210.21,
+      524.95,
+      314.5,
+      534.02
+    ],
+    "text": "Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      194.13,
+      543.31,
+      330.56,
+      552.38
+    ],
+    "text": "DECLARATION UNDER SECTION 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      203.01,
+      561.67,
+      320.74,
+      570.74
+    ],
+    "text": "To be furnished by an Individual",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      580.15,
+      381.07,
+      589.22
+    ],
+    "text": "National Identity Card No. ............................................................",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      598.51,
+      318.8,
+      607.58
+    ],
+    "text": "Passport No. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.81,
+      616.87,
+      384.83,
+      672.26
+    ],
+    "text": "1.I, Rev./ Mr./ Mrs./ Miss/..........................................\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026(fullname) holder of NIC No./ Passport No. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. of\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026......(address) make adeclaration with respect to the taxable supply, income or asset interms of Part I of the Finance Act, No. 18 of 2021.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202116",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      205.15,
+      452.15,
+      233.42
+    ],
+    "text": "2. I do hereby declare following taxable supply, income or assetwhich were held by me as at March 31, 2020 in Sri Lanka or anyother country .",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      214.15,
+      243.55,
+      440.95,
+      281.42
+    ],
+    "text": "Serial Type of taxable Place of the taxable Quantity/Amount /No.supply, incomesupply, income orAccountMarketor assetasset held / Entity/No.ValueBank invested",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      329.95,
+      340.4,
+      339.02
+    ],
+    "text": "Total Amount / Market Value",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      224.11,
+      349.87,
+      345.67,
+      358.94
+    ],
+    "text": "3.Money declared as above are-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      230.95,
+      371.35,
+      296.11,
+      380.42
+    ],
+    "text": "(i)invested on -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      252.67,
+      392.71,
+      452.11,
+      433.82
+    ],
+    "text": "(a)\u2026\u2026\u2026\u2026\u2026. (quantity) shares/ debt securities of\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026............ (name of thecompany), amounting to Rs. \u2026\u2026..................... on\u2026\u2026\u2026\u2026\u2026\u2026..(date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      252.67,
+      446.23,
+      452.12,
+      476.66
+    ],
+    "text": "(b)treasury bills / treasury bonds issued by the CentralBank of Sri Lanka Rs. ..............\u2026\u2026\u2026\u2026\u2026. on\u2026\u2026\u2026\u2026\u2026\u2026\u2026(date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      253.39,
+      488.95,
+      452.14,
+      540.86
+    ],
+    "text": "(c)\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.....\u2026..\u2026(movable orimmovable property such as land, building, motorvehicle, gold etc. please specify) in Sri LankaRs. ............\u2026\u2026\u2026\u2026\u2026\u2026...\u2026\u2026\u2026 on \u2026\u2026.............(date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      224.95,
+      553.15,
+      452.13,
+      594.38
+    ],
+    "text": "(ii)deposited in my \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026......... account bearingNo. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. at the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.....\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026branch of\u2026\u2026\u2026\u2026\u2026.............\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 on \u2026\u2026\u2026\u2026\u2026.....\u2026\u2026\u2026.. (date).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      212.11,
+      606.67,
+      452.13,
+      669.5
+    ],
+    "text": "4.I have paid the tax on aggregate amount/ market value referredto in paragraph 2, at the rate of 1% in terms of section 4 of theFinance Act, No. 18 of 2021 amounting to Rs. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. on\u2026\u2026..............\u2026\u2026\u2026\u2026\u2026...(date of payment) under the referenceNo. ..........\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026to the account ofCommissioner-General of Inland Revenue.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "17Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      203.71,
+      384.85,
+      223.22
+    ],
+    "text": "5.In relation to the amount of taxable supply, income or assetdeclared\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.37,
+      234.91,
+      384.84,
+      306.38
+    ],
+    "text": "(a)I have no investigations or pending cases or, I have notbeen convicted of an offence, under the provisions ofPrevention of Money Laundering Act, No. 5 of 2006,Convention on the Suppression of Terrorist Financing Act,No. 25 of 2005, Bribery Act (Chapter 26), or ConventionsAgainst Illicit Traffic in Narcotic Drugs and PsychotropicSubstances Act, No. 1 of 2008; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.37,
+      318.07,
+      384.83,
+      348.02
+    ],
+    "text": "(b)No assessment has been made under any law referred to inSchedule I or Schedule IV of the Finance Act, No. 18 of2021.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      359.71,
+      384.86,
+      389.54
+    ],
+    "text": "I do solemnly and sincerely declare that the above particulars givenby me herein are, true and correct to the best of my knowledge andbelief.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      401.35,
+      384.82,
+      431.18
+    ],
+    "text": "Date:........................................Signature of the declarant",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      155.85,
+      442.87,
+      384.85,
+      462.38
+    ],
+    "text": "Note: Where the space in this form is inadequate, a separate sheetof paper may be used and signed by the declarant.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      474.07,
+      384.81,
+      493.58
+    ],
+    "text": "(The declaration shall be submitted, on or prior to March 31, 2022, tothe Commissioner-General of Inland Revenue)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      253.65,
+      505.27,
+      381.79,
+      514.34
+    ],
+    "text": "Part II(section 5)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207.57,
+      526.15,
+      314.01,
+      535.22
+    ],
+    "text": "Tax on Voluntary Disclosure",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      210.33,
+      546.91,
+      312.32,
+      555.98
+    ],
+    "text": "Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      193.05,
+      567.67,
+      329.48,
+      576.74
+    ],
+    "text": "DECLARATION UNDER SECTION 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      175.65,
+      588.55,
+      354.11,
+      607.94
+    ],
+    "text": "To be furnished by an entity( *company, partnership, fund, society, NGO etc.)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      619.75,
+      365.26,
+      628.82
+    ],
+    "text": "Taxpayer Identification No. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      640.51,
+      380.27,
+      649.58
+    ],
+    "text": "Type of the Entity: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.81,
+      661.27,
+      369.83,
+      670.34
+    ],
+    "text": "Entity Registration No. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202118",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      204.19,
+      452.24,
+      290.9
+    ],
+    "text": "1. I, Mr./ Mrs./ Miss/ \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...(fullname) holder of NIC No. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. of\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...............(address) being\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. (designation)of\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026. ( name of theentity) is the authorized person to make a declaration with respect tothe amount of taxable supply, income or asset of the above\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. \u2026.(type of entity) in terms ofPart I of the Finance Act, No.18 of 2021.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.11,
+      301.27,
+      452.15,
+      339.38
+    ],
+    "text": "2. I do hereby declare following taxable supply, income orasset which were held as at March 31, 2020 in Sri Lanka or any othercountry by \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. (nameof the entity).",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      224.11,
+      456.55,
+      347.95,
+      465.62
+    ],
+    "text": "3.Money declared as above are -",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      230.95,
+      476.11,
+      296.71,
+      485.18
+    ],
+    "text": "(i)invested on -",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      252.67,
+      495.67,
+      452.23,
+      534.14
+    ],
+    "text": "(a)\u2026\u2026\u2026\u2026\u2026. (quantity) shares/ debt securities of\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026(name of the company),amounting to Rs. \u2026......................................on\u2026\u2026\u2026\u2026\u2026\u2026\u2026..(date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      252.67,
+      544.75,
+      452.26,
+      573.38
+    ],
+    "text": "(b)treasury bills / treasury bonds issued by the CentralBank of Sri Lanka Rs. ..................................on\u2026\u2026\u2026\u2026\u2026\u2026\u2026(date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      253.39,
+      583.87,
+      452.23,
+      622.34
+    ],
+    "text": "(c)\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026(movableor immovable property such as land, building, motorvehicle, gold etc. please specify) in Sri LankaRs. \u2026\u2026\u2026..on \u2026\u2026\u2026\u2026\u2026\u2026. (date).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      228.67,
+      632.95,
+      452.14,
+      671.42
+    ],
+    "text": "(ii)deposited in (type of entity) \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. accountbearing No. \u2026..... at the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026branchof \u2026\u2026\u2026\u2026\u2026.......................\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..on \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. (date).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      213.43,
+      347.71,
+      440.35,
+      385.58
+    ],
+    "text": "SerialType of taxablePlace of the taxable Quantity/Amount /No.supply, incomesupply, income orAccountMarketor assetasset held / Entity/No.ValueBank invested",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.47,
+      434.11,
+      336.2,
+      443.18
+    ],
+    "text": "Total Amount / Market Value",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      206.49,
+      166.97,
+      383.85,
+      178.31
+    ],
+    "text": "19Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      203.59,
+      384.84,
+      260.66
+    ],
+    "text": "4.I have paid the tax on aggregate amount/ market value referredto in paragraph 2 on behalf of the*\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..,at the rate of 1% in terms of section 4 of the Finance Act, No. 18 of2021 amounting to Rs. \u2026\u2026\u2026\u2026...\u2026..... on\u2026\u2026.........(date ofpayment) under the reference No. \u2026\u2026\u2026\u2026\u2026 to the account ofCommissioner-General of Inland Revenue.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      270.79,
+      384.33,
+      289.46
+    ],
+    "text": "5. In relation to the amount of taxable supply, income or assetdeclared\u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.37,
+      299.59,
+      384.36,
+      395.06
+    ],
+    "text": "(a)the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026( name of thecompany, partnership, fund, society, NGO etc.) has noinvestigations or pending cases or ..................................( the name of the company, partnership, fund, society,NGO etc.) has not been convicted of an offence, under theprovisions of Prevention of Money Laundering Act, No. 5of 2006, Convention on the Suppression of TerroristFinancing Act, No. 25 of 2005, Bribery Act (Chapter 26),or Conventions Against Illicit Traffic in Narcotic Drugsand Psychotropic Substances Act, No. 1 of 2008; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.37,
+      405.19,
+      384.35,
+      433.46
+    ],
+    "text": "(b)No assessment has been made under any law referred to inSchedule I or Schedule IV of the Finance Act, No. 18 of2021.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      443.59,
+      384.38,
+      481.46
+    ],
+    "text": "I do solemnly and sincerely declare that the above particulars givenby me on behalf of \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 (name of theentity) in the capacity of \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 (designation)herein are, true and correct to the best of my knowledge and belief.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      491.59,
+      384.34,
+      529.46
+    ],
+    "text": "Date:..................................................Signature of the Chairman/Managing Director/Partner/President",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      151.89,
+      539.59,
+      384.35,
+      558.26
+    ],
+    "text": "Note: Where the space in this form is inadequate, a separate sheet ofpaper may be used and signed by the declarant.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.81,
+      568.39,
+      384.34,
+      588.62
+    ],
+    "text": "(The declaration shall be submitted, on or prior to March 31, 2022 tothe Commissioner-General of Inland Revenue)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      212.11,
+      166.97,
+      388.52,
+      178.31
+    ],
+    "text": "Finance Act, No. 18 of 202120",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      140.59,
+      625.15,
+      448.87,
+      643.82
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

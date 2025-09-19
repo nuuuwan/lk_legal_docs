@@ -1,0 +1,1558 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.1,
+      441.55,
+      338.65
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      576.67,
+      392.13,
+      585.74
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      586.27,
+      404.13,
+      595.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      609.89,
+      455.83,
+      621.23
+    ],
+    "text": "Price : Rs. 14.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      528.89,
+      441.81,
+      552.23
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 27, 2021",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.61,
+      659.95,
+      344.59,
+      669.02
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      223.29,
+      478.97,
+      370.29,
+      490.31
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      227.85,
+      452.93,
+      371.86,
+      464.27
+    ],
+    "text": "[Certified on 23rd of August 2021]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      177.09,
+      373.11,
+      424.49,
+      386.72
+    ],
+    "text": "CORONAVIRUS DISEASE 2019 (COVID - 19)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.01,
+      387.51,
+      383.71,
+      415.52
+    ],
+    "text": "(TEMPORARY PROVISIONS)ACT, No. 17 OF 2021",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.21,
+      166.97,
+      384.65,
+      190.31
+    ],
+    "text": "1Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      396.19,
+      452.86,
+      443.66
+    ],
+    "text": "Short title,duration andextension ofoperation of theAct",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.65,
+      202.49,
+      336.09,
+      213.83
+    ],
+    "text": "[Certified on 23rd of August 2021]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      225.29,
+      209.25,
+      236.63
+    ],
+    "text": "L.D.-O 19/2020",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      248.09,
+      384.81,
+      259.43
+    ],
+    "text": "AN ACT TO MAKE TEMPORARY PROVISIONS IN RELATION TO SITUATIONS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      259.49,
+      384.81,
+      270.83
+    ],
+    "text": "WHERE PERSONS WERE UNABLE TO PERFORM CERTAIN ACTIONS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      270.89,
+      384.81,
+      282.23
+    ],
+    "text": "REQUIRED BY LAW TO BE PERFORMED WITHIN THE PRESCRIBED TIME",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      282.29,
+      384.81,
+      293.63
+    ],
+    "text": "PERIODS DUE TO COVID - 19 CIRCUMSTANCES; TO ASSIGN ALTERNATIVE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      293.69,
+      384.81,
+      305.03
+    ],
+    "text": "COURTS WHERE A COURT CANNOT FUNCTION DUE TO COVID - 19",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      305.09,
+      384.81,
+      316.43
+    ],
+    "text": "CIRCUMSTANCES; TO CONDUCT COURT PROCEEDINGS USING REMOTE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      316.49,
+      384.93,
+      327.83
+    ],
+    "text": "COMMUNICATION TECHNOLOGY TO FACILITATE THE CONTROL OF",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      327.89,
+      384.81,
+      339.23
+    ],
+    "text": "CORONAVIRUS DISEASE 2019 (COVID - 19); AND FOR MATTERS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.81,
+      339.29,
+      324.07,
+      350.63
+    ],
+    "text": "CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      362.09,
+      384.84,
+      384.83
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      396.29,
+      384.84,
+      441.83
+    ],
+    "text": "1. (1) This Act may be cited as the Coronavirus Disease2019 (COVID -19) (Temporary Provisions) Act, No. 17 of2021. The provisions of this Act shall be in operation for aperiod of two years commencing from March 1, 2020.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      453.29,
+      384.86,
+      498.83
+    ],
+    "text": "(2) The Minister may, at any time within one month priorto the expiration of the period of operation of this Act, byOrder published in the Gazette, extend for a further periodthe operation of the Act:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      510.29,
+      384.94,
+      533.03
+    ],
+    "text": "Provided however, the aggregate period of any extensionshall not exceed two years from the date of such extension.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.65,
+      544.49,
+      259.65,
+      555.83
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.01,
+      567.29,
+      380.73,
+      578.63
+    ],
+    "text": "RELIEF FOR INABILITY TO COMPLY WITH PRESCRIBED TIME PERIODS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      590.09,
+      384.97,
+      624.23
+    ],
+    "text": "2. (1) Where any court, tribunal or any other authorityestablished by or under any law is satisfied that, a personwas prevented from-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.65,
+      635.69,
+      384.87,
+      670.31
+    ],
+    "text": "(a)instituting or filing any action, application, appealor other legal proceeding, as the case may be, withinthe period prescribed by law for such purpose; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      590.59,
+      452.85,
+      638.06
+    ],
+    "text": "Relief in respectof inability tocomply withprescribed timeperiods",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      420.79,
+      190.31
+    ],
+    "text": "2Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      204.29,
+      451.19,
+      228.23
+    ],
+    "text": "(b)performing any act which is required by law to bedone or performed within a prescribed time period,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      242.09,
+      451.2,
+      354.23
+    ],
+    "text": "due to any COVID - 19 circumstance, it shall be competentfor such court, tribunal or any other authority established byor under any law to allow, admit or entertain an action,application, appeal, other proceeding or act, referred to inparagraph (a) or (b), notwithstanding the lapse of the timeperiod prescribed by law for such purpose and subject to theprovisions of section 9, the period within which such personwas subject to such COVID - 19 circumstance shall beexcluded in calculating the said prescribed time period.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      368.09,
+      451.17,
+      392.03
+    ],
+    "text": "(2) Any relief granted under subsection (1) shall not applyin relation to any application or appeal-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.87,
+      405.89,
+      391.16,
+      417.23
+    ],
+    "text": "(a)to which the following rules apply-",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      247.15,
+      431.09,
+      451.15,
+      467.63
+    ],
+    "text": "(i) the Supreme Court (Temporary Provisions)Rules, 2020 published in the GazetteExtraordinary No. 2174/4 of May 6, 2020;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      244.15,
+      481.49,
+      451.15,
+      518.03
+    ],
+    "text": "(ii) the Supreme Court (Temporary Provisions)Rules, 2021 published in the GazetteExtraordinary No. 2211/56 of January 21, 2021;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.15,
+      531.89,
+      451.17,
+      593.63
+    ],
+    "text": "(iii) the Court of Appeal (Procedure for Appealsfrom High Courts established by Article 154Pof the Constitution) (Temporary Provisions)Rules, 2020 published in the GazetteExtraordinary No. 2175/2 of May 12, 2020; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      241.87,
+      607.49,
+      451.16,
+      669.23
+    ],
+    "text": "(iv) the Court of Appeal (Procedure for Appealsfrom High Courts established by Article 154Pof the Constitution) (Temporary Provisions)Rules, 2021 published in the GazetteExtraordinary No. 2211/56 of January 21, 2021;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.21,
+      166.97,
+      384.65,
+      190.31
+    ],
+    "text": "3Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      203.93,
+      383.88,
+      270.59
+    ],
+    "text": "(b)to which any Supreme Court Rule or Court ofAppeal Rule as may be made under Article 136 ofthe Constitution within the period of operation ofthis Act, granting any exclusion of time period as arelief in respect of any COVID - 19 circumstance,apply.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      247.29,
+      281.33,
+      280.29,
+      292.67
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.29,
+      303.29,
+      331.41,
+      314.63
+    ],
+    "text": "DESIGNATION OF ATLERNATIVE COURTS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      325.25,
+      383.92,
+      446.63
+    ],
+    "text": "3.(1) Subject to the provisions of sections 46 and 47 ofthe Judicature Act, No. 2 of 1978, where the ordinaryfunctioning of any court of first instance is disrupted due toany COVID - 19 circumstance, the Judicial ServiceCommission may designate the nearest court of concurrentjurisdiction as the alternative court in place of such court,for the period during which such COVID - 19 circumstanceexists. Any action, prosecution, proceeding or matter filedin or considered by such court of first instance or any newaction, prosecution, proceeding or matter filed, shall beconsidered or heard by the court so designated:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      457.25,
+      383.9,
+      490.67
+    ],
+    "text": "Provided however, no transfer of an action, prosecution,proceeding or matter referred to in this subsection shall bemade where-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      501.29,
+      383.86,
+      534.59
+    ],
+    "text": "(a)any such court of first instance has reserved suchaction, prosecution, proceeding or matter forjudgment, order or other pronouncement; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      159.57,
+      545.33,
+      383.88,
+      578.63
+    ],
+    "text": "(b)all hearings in such action, prosecution, proceedingor matter have been concluded before such court offirst instance.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      589.25,
+      383.9,
+      667.31
+    ],
+    "text": "(2) An action, prosecution, proceeding or matter filed inor considered by an alternative court referred to in subsection(1) may, by the presiding Judge of the alternative court,subsequently be transferred to the court of first instancewhich previously exercised jurisdiction in relation to suchaction upon the resumption of ordinary functions of suchoriginal court:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.85,
+      325.51,
+      447.58,
+      392.18
+    ],
+    "text": "Designation ofalternativecourts in placeof courtsaffected byCOVID - 19circumstances",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      166.97,
+      420.79,
+      190.31
+    ],
+    "text": "4Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      203.45,
+      451.2,
+      240.11
+    ],
+    "text": "Provided however, no transfer of an action, prosecution,proceeding or matter referred to in this subsection shall bemade where-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      254.21,
+      451.19,
+      290.99
+    ],
+    "text": "(a)the alternative court has reserved such action,prosecution, proceeding or matter for judgment,order or other pronouncement; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      304.97,
+      451.18,
+      341.75
+    ],
+    "text": "(b)all hearings in such action, prosecution, proceedingor matter have been concluded before suchalternative court.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.99,
+      355.85,
+      331.99,
+      367.19
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      213.07,
+      381.17,
+      449.34,
+      405.23
+    ],
+    "text": "CONDUCTING COURT PROCEEDINGS USING REMOTE COMMUNICATIONTECHNOLOGY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      419.33,
+      451.21,
+      455.99
+    ],
+    "text": "4.(1) Notwithstanding anything contained in any otherwritten law, where, in any action, application, appeal or otherproceeding before a court of first instance, \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      470.09,
+      419.6,
+      481.43
+    ],
+    "text": "(a)any person is unable to appear in court; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      495.53,
+      451.17,
+      519.47
+    ],
+    "text": "(b)the proceedings of the court cannot be conductedunder the ordinary procedure,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.15,
+      533.57,
+      451.18,
+      583.07
+    ],
+    "text": "due to any COVID - 19 circumstance, such action,application, appeal or proceeding before such court may beconducted by means of a live video or live television linkcreated using a remote communication technology.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.15,
+      597.05,
+      313.86,
+      608.39
+    ],
+    "text": "(2) The provisions of\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      226.87,
+      622.49,
+      451.18,
+      671.87
+    ],
+    "text": "(a)the Supreme Court (Electronic Filing and UrgentDigital Virtual Hearings) (Special Provisions) Rules,2021 published in the Gazette ExtraordinaryNo. 2212/54 of January 29, 2021;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      419.59,
+      193.88,
+      476.66
+    ],
+    "text": "Conductingcourtproceedingsusing remotecommunicationtechnology",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.21,
+      166.97,
+      384.65,
+      190.31
+    ],
+    "text": "5Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.57,
+      203.45,
+      383.89,
+      252.83
+    ],
+    "text": "(b)the Court of Appeal (Electronic Filing and UrgentDigital Virtual Hearings) (Special Provisions) Rules,2021 published in the Gazette ExtraordinaryNo. 2216/8 of February 23, 2021; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.29,
+      266.93,
+      383.89,
+      329.03
+    ],
+    "text": "(c)any other Supreme Court Rule or Court of AppealRule as may be made under Article 136 of theConstitution within the period of operation of thisAct, in relation to conducting of court proceedingsusing remote communication technology,",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      343.13,
+      383.9,
+      392.51
+    ],
+    "text": "shall, mutatis mutandis, apply to the extent possible, inrelation to any action, application, appeal or proceedingconducted before any court of first instance undersubsection (1).",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      245.49,
+      406.61,
+      282.2,
+      417.95
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248.13,
+      431.93,
+      279.57,
+      443.27
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      457.37,
+      383.86,
+      481.43
+    ],
+    "text": "5.Any period excluded as a relief under section 2 ofthis Act shall not exceed a period of twelve months:",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      495.53,
+      383.94,
+      557.63
+    ],
+    "text": "Provided that, a period exceeding twelve months may beexcluded as a relief where the court, tribunal or any otherauthority established by or under any law is satisfied that itis just and equitable to do so and the period so excludedshall not exceed a period of further six months:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      571.73,
+      383.88,
+      595.67
+    ],
+    "text": "Provided further, that the period excluded as a relief shallnot exceed eighteen months in the aggregate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      609.77,
+      383.9,
+      671.87
+    ],
+    "text": "6. The burden of proof that the inability to complywith the prescribed time periods for the purpose of section 2is due to any COVID - 19 circumstance, shall be onthe party making the application for relief under suchsection.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      458.71,
+      452.14,
+      486.98
+    ],
+    "text": "Limitations onrelief under thisAct",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.85,
+      611.11,
+      454.29,
+      620.18
+    ],
+    "text": "Burden of proof",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      166.97,
+      420.79,
+      190.31
+    ],
+    "text": "6Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      203.09,
+      451.2,
+      275.99
+    ],
+    "text": "7.(1) Any guideline, direction, circular, notice ordecision whether in the printed or electronic form, made bythe Government in relation to any COVID - 19 circumstanceshall be admissible as prima facie evidence in any action,application, appeal or other legal proceeding instituted ormade under this Act, without further proof.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      289.25,
+      451.18,
+      349.79
+    ],
+    "text": "(2) Where a party to such action, application, appeal orother legal proceeding disputes the admissibility of suchguideline, direction, circular, notice or decision as evidence,the burden of proof shall be on the party who disputes suchadmissibility.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.15,
+      363.05,
+      451.19,
+      411.23
+    ],
+    "text": "(3) For the purpose of this section, \u201cGovernment\u201d meansany proper authority as defined in any regulation made underthe Quarantine and Prevention of Diseases Ordinance(Chapter 222) in relation to COVID-19.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      424.49,
+      446.07,
+      435.83
+    ],
+    "text": "8.In this Act, unless the context otherwise requires \u2013",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      243.19,
+      449.09,
+      451.18,
+      534.23
+    ],
+    "text": "\u201cCOVID - 19\u201d means the Coronavirus Disease 2019(COVID - 19) declared as a quarantinabledisease by Notification published in theGazette Extraordinary No. 2167/18 ofMarch 20, 2020 under the Quarantine andPrevention of Diseases Ordinance(Chapter 222);",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      243.19,
+      547.49,
+      396.92,
+      558.83
+    ],
+    "text": "\u201cCOVID - 19 circumstance\u201d includes-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      262.87,
+      572.09,
+      345.46,
+      583.43
+    ],
+    "text": "(a)COVID - 19; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      262.87,
+      596.69,
+      451.18,
+      632.63
+    ],
+    "text": "(b)any other circumstance arising out of orconsequential to the circumstancesreferred to in paragraph (a); and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      244.15,
+      645.89,
+      451.17,
+      669.59
+    ],
+    "text": "\u201cMinister\u201d means the Minister assigned this Actunder Article 44 or 45 of the Constitution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      204.19,
+      194.6,
+      270.86
+    ],
+    "text": "Guidelines, &con anyCOVID -19circumstance tobe consideredprima facieevidence",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      423.19,
+      187.16,
+      432.26
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.21,
+      166.97,
+      384.65,
+      190.31
+    ],
+    "text": "7Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      203.09,
+      383.88,
+      226.79
+    ],
+    "text": "9. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.85,
+      203.71,
+      453.58,
+      231.98
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.15,
+      166.97,
+      420.79,
+      190.31
+    ],
+    "text": "8Coronavirus Disease 2019 (COVID - 19)(Temporary Provisions) Act, No. 17 of 2021",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.67,
+      651.43,
+      449.95,
+      670.1
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OFGOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
