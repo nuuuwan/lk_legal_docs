@@ -1,0 +1,87 @@
+1Samurdhi (Amendment)THE GAZETTE OF THE DEMOCRATIC
+
+SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+Part II of May 30, 2025
+
+SUPPLEMENT
+
+(Issued on 04.06.2025)
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+Price : Rs. 6.00 Postage : Rs. 150.00
+
+SAMURDHI (AMENDMENT)
+
+A
+
+BILL
+
+to amend the Samurdhi Act, No. 1 of 2013
+
+Ordered to be published by the Minister of Rural Development, Social Security and Community Empowerment
+
+This Gazette Supplement can be downloaded from www.documents.gov.lk
+
+Samurdhi (Amendment)2
+
+STATEMENT OF LEGAL EFFECT
+
+Clause 2: This clause inserts new section 28A to the Samurdhi Act, No. 1 of 2013 (hereinafter referred to as the “principal enactment”) and the legal effect of that section as inserted is to make provisions to audit accounts of samurdhi community based banks.
+
+Clause 3: This clause inserts new section 35A to the principal enactment and the legal effect of that section as inserted is to make provisions to audit accounts of samurdhi community based banking societies.
+
+1Samurdhi (Amendment)
+
+Short title
+
+Insertion of new section 28A in Act, No. 1 of 2013
+
+Insertion of new section 35A in the principal enactment
+
+L. D. - O 52/2024
+
+An Act to amend the Samurdhi Act, No. 1 of 2013
+
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -
+
+1. This Act may be cited as the Samurdhi (Amendment) Act, No. of 2025.
+
+2. The following new section is hereby inserted immediately after section 28 of the Samurdhi Act, No. 1 of 2013 (in this Act referred to as the “principal enactment”) and shall have effect as section 28A of that enactment:–
+
+28A. The provisions of Article 154 of the Constitution relating to audit of accounts of public corporations and the provisions of the National Audit Act, No. 19 of 2018 shall apply to the audit of the accounts of samurdhi community based banks.”.
+
+3. The following new section is hereby inserted immediately after section 35 of the principal enactment and shall have effect as section 35A of that enactment: –
+
+35A. The provisions of Article 154 of the Constitution relating to audit of accounts of public corporations and the provisions of the National Audit Act, No. 19 of 2018 shall apply to the audit of the accounts of samurdhi community based banking societies.”.
+
+4. In the event of any inconsistency between Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+“Audit of
+
+accounts of samurdhi community based banks
+
+“Audit of
+
+accounts of samurdhi community based banking societies
+
+Sinhala text to prevail in case of inconsistency
+
+Samurdhi (Amendment)2
+
+DEPARTMENT OF GOVERNMENT PRINTING
