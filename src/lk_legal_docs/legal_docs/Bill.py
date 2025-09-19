@@ -10,8 +10,7 @@ log = Log("Act")
 
 
 @dataclass
-class Act(AbstractPDFDoc):
-    doc_number: str
+class Bill(AbstractPDFDoc):
 
     @classmethod
     def get_url_base(cls) -> str:
@@ -38,7 +37,7 @@ class Act(AbstractPDFDoc):
         tds = tr.find_all("td")
         if len(tds) != 4:
             return
-        doc_number = tds[0].text.strip()
+        act_number = tds[0].text.strip()
         date_str = tds[1].text.strip()
         assert len(date_str) == 10  # YYYY-MM-DD
         description = tds[2].text.strip()
@@ -51,8 +50,8 @@ class Act(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
-            num = f"{date_str}-{doc_number_cleaned}-{lang}"
+            act_number_cleaned = act_number.replace("/", "-").replace(" ", "_")
+            num = f"{date_str}-{act_number_cleaned}-{lang}"
             yield cls(
                 num=num,
                 date_str=date_str,
@@ -60,7 +59,7 @@ class Act(AbstractPDFDoc):
                 url_metadata=url_metadata,
                 lang=lang,
                 url_pdf=url_pdf,
-                doc_number=doc_number,
+                act_number=act_number,
             )
 
     @classmethod
