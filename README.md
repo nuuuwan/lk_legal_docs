@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-09-19 05:12:57**.*
+*Last Updated **2025-09-19 05:45:13**.*
 
 **44,667** documents (24.4 MB), from 1981-01-22 to 2025-09-18.
 
@@ -54,7 +54,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**15** Documents
 
 - ✍️ [2025-09-18] [Protection of Occupants - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/634-2025)
 - ✍️ [2025-09-18] [Rent (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/bills/2025/633-2025)
@@ -71,4 +71,3 @@ For best results, use a desktop browser.
 - 📢 [2025-09-12] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iib-advertising)
 - 📢 [2025-09-12] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-iia-advertising)
 - 📢 [2025-09-12] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/gazettes/2025/2025-09-12-i-general)
-- 🚨 [2025-09-11] [2453/24](https://github.com/nuuuwan/lk_legal_docs_data/tree/data_2020s/data/extra-gazettes/2025/2453-24)
