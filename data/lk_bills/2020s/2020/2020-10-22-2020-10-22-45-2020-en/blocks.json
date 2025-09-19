@@ -1,0 +1,925 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      251.14,
+      442.53,
+      307.69
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      315.89,
+      330.68,
+      327.23
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      559.49,
+      330.68,
+      570.83
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.61,
+      488.93,
+      422.71,
+      500.27
+    ],
+    "text": "Presented by the Minister of Labour on 22nd of October, 2020",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.81,
+      512.93,
+      391.55,
+      524.27
+    ],
+    "text": "(Published in the Gazette on October 08, 2020)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      536.93,
+      369.36,
+      548.27
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      374.91,
+      299.27,
+      388.52
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      403.71,
+      309.81,
+      417.32
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      467.21,
+      330.68,
+      478.55
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      617.09,
+      451.15,
+      628.43
+    ],
+    "text": "Price : Rs. 12.00Postage : Rs. 15.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.13,
+      663.07,
+      341.73,
+      672.14
+    ],
+    "text": "This Bill can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      575.09,
+      190.17,
+      586.43
+    ],
+    "text": "[Bill No. 11]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      202.17,
+      592.75,
+      388.17,
+      601.82
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.89,
+      602.35,
+      399.45,
+      611.42
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      212.61,
+      338.79,
+      377.61,
+      352.4
+    ],
+    "text": "FACTORIES (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.09,
+      440.09,
+      398.38,
+      451.43
+    ],
+    "text": "to amend the Factories Ordinance (Chapter 128)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      244.39,
+      258.43,
+      366.67,
+      267.5
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.47,
+      278.47,
+      455.5,
+      317.9
+    ],
+    "text": "Clause 2 : This clause repeals paragraph (b) of section 67 of the Factories Ordinance(Chapter 128) (hereinafter referred to as the \u201cprincipal enactment\u201d) and the legal effect ofthat section as amended is to broaden the choice of hours which a young person can workwithin a day.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.47,
+      328.87,
+      455.48,
+      348.14
+    ],
+    "text": "Clause 3 : This clause amends subsection (1) of section 68 of the principal enactmentand legal effect of that section is to avoid repetition of the age of young persons.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.47,
+      359.11,
+      455.48,
+      378.26
+    ],
+    "text": "Clause 4 : This clause amends subsection (1) of section 71 of the principal enactmentand is consequential to the amendment made by clause 3.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.47,
+      389.35,
+      396.94,
+      398.42
+    ],
+    "text": "Clause 5 : This clause repeals section 77 of the principal enactment.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.47,
+      409.39,
+      455.49,
+      428.54
+    ],
+    "text": "Clause 6 : This clause amends paragraph (c) of section 86 of the principal enactmentand is consequential to the amendment made by clause 3.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.47,
+      439.63,
+      455.52,
+      468.86
+    ],
+    "text": "Clause 7 : This clause amends subsection (1) of section 127 of the principal enactmentand the legal effect of that section as amended is to amend the definition of the expression\u201cyoung person\u201d to change the age to be within the ages of sixteen to eighteen years.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      234.57,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "Factories (Amendment)1",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.57,
+      580.97,
+      155.01,
+      592.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.85,
+      412.73,
+      154.29,
+      424.07
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      203.57,
+      234.57,
+      214.91
+    ],
+    "text": "L.D.\u2014O. 35/2018",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.05,
+      229.61,
+      391.77,
+      240.95
+    ],
+    "text": "AN ACT TO AMEND THE FACTORIES ORDINANCE (CHAPTER 128)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      255.65,
+      401.91,
+      279.95
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      294.65,
+      401.89,
+      318.95
+    ],
+    "text": "1.This Act may be cited as the Factories (Amendment)Act, No. of 2020.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      333.65,
+      401.92,
+      383.99
+    ],
+    "text": "2.Section 67 of the Factories Ordinance (Chapter 128)(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended by the repeal of paragraph (b) and the substitutiontherefor of the following paragraph:-",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182.85,
+      398.57,
+      401.9,
+      461.87
+    ],
+    "text": "\u201c(b) in the case of young persons the period ofemployment shall not exceed twelve hours in anyday and shall neither begin earlier than 6 a.m. norend later than 8 p.m., and on one day in the week,the period of employment shall end by 1 p.m.;\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      476.57,
+      401.86,
+      500.87
+    ],
+    "text": "3.Section 68(1) of the principal enactment is herebyamended as follows:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.57,
+      515.57,
+      401.87,
+      552.95
+    ],
+    "text": "(1)by the repeal of the words \u201cwho have attainedsixteen years of age but have not attained eighteenyears of age\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.57,
+      567.53,
+      401.87,
+      604.91
+    ],
+    "text": "(2)in the proviso to that subsection by the repeal of thewords \u201cwho has attained the age of sixteen yearsbut not attained the age of eighteen years,\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      619.61,
+      401.88,
+      656.87
+    ],
+    "text": "4.Section 71(1) of the principal enactment is herebyamended in the proviso to that section by the repeal of thewords \u201cwho has attained the age of sixteen\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      297.07,
+      443.86,
+      306.14
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      333.67,
+      452.86,
+      371.54
+    ],
+    "text": "Amendmentof section 67of Chapter128.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      477.79,
+      452.86,
+      525.26
+    ],
+    "text": "Amendmentof section 68of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      619.15,
+      452.86,
+      666.62
+    ],
+    "text": "Amendmentof section 71of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.01,
+      335.69,
+      154.01,
+      347.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.41,
+      488.69,
+      155.85,
+      500.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      166.97,
+      324.31,
+      178.31
+    ],
+    "text": "2Factories (Amendment)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      202.97,
+      397.12,
+      226.31
+    ],
+    "text": "5.Section 77 of the principal enactment is herebyrepealed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      250.97,
+      397.2,
+      298.31
+    ],
+    "text": "6.Section 86 of the principal enactment is herebyamended in paragraph (c) thereof by the repeal of the words\u201cand as if the references to young persons included referencesto all persons who had not attained the age of eighteen\u201d.",
+    "fonts": [
+      "Times",
+      "Times,Bold",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      310.97,
+      397.2,
+      358.31
+    ],
+    "text": "7.Section 127 of the principal enactment is herebyamended in subsection (1) thereof by the repeal of thedefinition of the expression \u201cyoung person\u201d, and thesubstitution therefor, of the following definition:-",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.19,
+      370.97,
+      397.18,
+      406.31
+    ],
+    "text": "\u201c \u201cyoung person\u201d means a person who has attainedthe age of sixteen years but is under the age ofeighteen years;\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      418.97,
+      397.2,
+      442.31
+    ],
+    "text": "8.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403.15,
+      420.79,
+      451.16,
+      455.9
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403.15,
+      205.15,
+      448.17,
+      243.02
+    ],
+    "text": "Repeal ofsection 77 ofthe principalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403.15,
+      251.11,
+      448.16,
+      298.58
+    ],
+    "text": "Amendmentof section 86of theprincipalenactment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.67,
+      312.19,
+      445.88,
+      359.66
+    ],
+    "text": "Amendmentof section127 of theprincipalenactment.10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.83,
+      275.45,
+      148.83,
+      286.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.63,
+      430.49,
+      150.07,
+      441.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234.57,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "Factories (Amendment)3",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.65,
+      642.91,
+      352.65,
+      651.98
+    ],
+    "text": "DEPARTMENT OF GOVERNMENT PRINTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
