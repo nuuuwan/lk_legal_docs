@@ -1,0 +1,580 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.13,
+      282.42,
+      441.55,
+      338.54
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      177.21,
+      390.77,
+      422.54,
+      423.06
+    ],
+    "text": "SRI LANKA TRANSPORT BOARD(AMENDMENT) ACT, No. 39 OF 2008",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      515.17,
+      373.29,
+      526.24
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.57,
+      478.69,
+      374.12,
+      489.76
+    ],
+    "text": "[Certified on 07th November, 2008]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      626.71,
+      392.13,
+      635.78
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      636.31,
+      404.13,
+      645.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      659.17,
+      455.73,
+      670.24
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 5.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.97,
+      571.97,
+      441.69,
+      595.31
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of November 07, 2008",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.89,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "1Sri Lanka Transport Board (Amendment)Act, No. 39 of 2008",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      687.19,
+      261.58,
+      696.26
+    ],
+    "text": "2\u2014PL 003229\u20144,250 (09/2008)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.21,
+      203.45,
+      332.49,
+      214.79
+    ],
+    "text": "[Certified on 07th November, 2008]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      228.77,
+      218.14,
+      240.11
+    ],
+    "text": "L. D. \u2014O. 10/2008.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      163.29,
+      254.21,
+      364.29,
+      278.27
+    ],
+    "text": "AN ACT TO AMEND THE SRI LANKA TRANSPORT BOARDACT, NO. 27 OF 2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      292.25,
+      383.89,
+      316.31
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      330.41,
+      383.89,
+      354.47
+    ],
+    "text": "1.This Act may be cited as the Sri Lanka Transport Board(Amendment) Act, No. 39 of 2008.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      368.45,
+      383.92,
+      430.67
+    ],
+    "text": "2.The Sri Lanka Transport Board Act, No. 27 of 2005(hereinafter referred to as the \u201cprincipal enactment\u201d) is herebyamended by the insertion immediately after section 1 thereofof the following new section which shall have effect as section1A of that enactment :\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.85,
+      444.65,
+      383.88,
+      481.43
+    ],
+    "text": "1A. (1) There shall be established a Boardwhich shall be called the \u201cSri Lanka TransportBoard\u201d (hereinafter referred to as the \u201cBoard\u201d).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.85,
+      495.53,
+      383.88,
+      544.91
+    ],
+    "text": "(2) The Board shall by the name assigned toit by subsection (1), be a body corporate withperpetual succession and a common seal andmay sue and be sued in such name.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      559.01,
+      383.9,
+      583.07
+    ],
+    "text": "3.Section 2 of the principal enactment is hereby amendedas follows :\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.29,
+      597.05,
+      383.9,
+      671.87
+    ],
+    "text": "(1)in subsection 1 of that section, by the substitutionfor the words, \u201cThere shall be established a Boardwhich shall be called the \u201cSri Lanka Transport Board\u201d(hereinafter referred to as the \u201cBoard\u201d) and whichshall consist of the following members :\u2013 \u201cof thewords,\u201d The Board shall consist of-\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      333.19,
+      433.3,
+      342.26
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      369.67,
+      452.85,
+      407.54
+    ],
+    "text": "Insertion of newsection in theAct, No. 27 of2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.85,
+      560.71,
+      450.58,
+      598.58
+    ],
+    "text": "Amendment ofsection 2 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      445.75,
+      192.81,
+      483.62
+    ],
+    "text": "\u201cEstablishmentof Sri LankaTransportBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      166.97,
+      413.61,
+      190.24
+    ],
+    "text": "2Sri Lanka Transport Board (Amendment)Act, No. 39 of 2008",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      202.97,
+      451.19,
+      226.31
+    ],
+    "text": "(2)by the substitution for paragraph (iii) of that section,the following new paragraph :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      244.87,
+      238.97,
+      451.19,
+      298.31
+    ],
+    "text": "\u201c(iii)an officer not below the rank of AdditionalSecretary of the Ministry of the Minister incharge of the subject of Finance or the Director-General of the Treasury nominated by theSecretary to the Treasury.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      227.71,
+      310.97,
+      451.19,
+      334.31
+    ],
+    "text": "(3)by the substitution for the marginal note to thatsection of the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      257.11,
+      346.97,
+      370.89,
+      358.31
+    ],
+    "text": "\u201cComposition of the Board\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      370.97,
+      451.21,
+      418.31
+    ],
+    "text": "4.The amendment made to the principal enactment bysection 1A of this Act, shall for all purposes be deemed tohave come into force on the date of coming into operation ofthe principal enactment.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.15,
+      430.97,
+      451.19,
+      454.31
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      373.15,
+      187.15,
+      391.82
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      432.67,
+      198.44,
+      460.94
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.89,
+      166.97,
+      383.81,
+      190.24
+    ],
+    "text": "3Sri Lanka Transport Board (Amendment)Act, No. 39 of 2008",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
