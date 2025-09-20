@@ -1,0 +1,2357 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      162.33,
+      233.02,
+      430.95,
+      289.79
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.09,
+      475.57,
+      418.29,
+      499.78
+    ],
+    "text": "Presented by the Minister of Labour and Labour Relationson 10th February, 2011",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.57,
+      552.49,
+      373.9,
+      564.7
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      624.02,
+      391.18,
+      634.69
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      633.62,
+      402.81,
+      644.29
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      657.64,
+      455.82,
+      671.49
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      443.04,
+      335.85,
+      459.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      579.0,
+      335.85,
+      595.01
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      606.64,
+      194.9,
+      620.49
+    ],
+    "text": "[Bill No. 73]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      294.6,
+      335.85,
+      310.61
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.49,
+      520.51,
+      399.0,
+      533.85
+    ],
+    "text": "(Published in the Gazette on December 13, 2010)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      203.85,
+      318.35,
+      395.84,
+      349.37
+    ],
+    "text": "EMPLOYEES\u2019 PROVIDENT FUND(AMENDMENT)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      363.16,
+      303.71,
+      377.01
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      387.16,
+      311.84,
+      401.01
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.65,
+      417.4,
+      429.11,
+      431.25
+    ],
+    "text": "to amend the Employees\u2019 Provident Fund Act, No. 15 of 1958",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.79,
+      276.36,
+      360.07,
+      287.35
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      296.18,
+      452.19,
+      335.65
+    ],
+    "text": "Clause 2 : This clause introduces a new subsection to section 3 of the Employees\u2019Provident Fund Act, No. 15 of 1958, (hereinafter referred to as the \u201cprincipal enactment\u201d)and the legal effect of the new subsection will be to assign an identification number to anemployee and employer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      344.18,
+      451.77,
+      374.05
+    ],
+    "text": "Clause 3 : This clause amends section 5 of the principal enactment and the legal effectof that section as amended will be to invest the moneys in the Fund to erect a building andto pay interest on the monies lying in the suspense account, for the actual period.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      382.58,
+      451.99,
+      412.45
+    ],
+    "text": "Clause 4 : This clause inserts new section 23A of the principal enactment and the legaleffect of that section will be to extend housing benefits and benefits relating to medicaltreatment to every member of the Fund.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      420.98,
+      451.79,
+      441.25
+    ],
+    "text": "Clause 5 : This clause inserts new section 24A in the principal enactment and the legaleffect of that section will be to establish an insurance scheme or a pension scheme.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      449.78,
+      451.79,
+      470.05
+    ],
+    "text": "Clause 6 : This clause amends section 31A of the principal enactment and the legaleffect of that section as amended will be to increase the surcharge to two per centum.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      478.58,
+      451.81,
+      508.45
+    ],
+    "text": "Clause 7 : This clause inserts new section 31B of the principal enactment and the legaleffect of that section will be to impose a duty on every employer having in his employmenta minimum of fifty employees, to furnish a monthly return.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      516.98,
+      451.69,
+      537.25
+    ],
+    "text": "Clause 8 : This clause amends section 37 of the principal enactment and the legal effectof that section as amended will be to increase the fine and imprisonment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.87,
+      545.78,
+      451.85,
+      566.05
+    ],
+    "text": "Clause 9 : This clause amends section 46 of the principal enactment is consequential tothe amendments made by clause 5.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197.49,
+      165.55,
+      402.89,
+      178.89
+    ],
+    "text": "1Employees\u2019 Provident Fund (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      301.46,
+      446.15,
+      312.13
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.57,
+      336.55,
+      155.57,
+      349.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.29,
+      411.07,
+      155.73,
+      424.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.65,
+      483.55,
+      156.09,
+      496.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.65,
+      571.51,
+      156.09,
+      584.85
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.65,
+      633.07,
+      156.09,
+      646.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.85,
+      675.98,
+      242.8,
+      686.65
+    ],
+    "text": "2\u2014005332\u2014425 (11/2010)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      201.67,
+      241.22,
+      215.01
+    ],
+    "text": "L. D. \u2014O. 43/2008.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.57,
+      226.27,
+      374.13,
+      239.61
+    ],
+    "text": "AN ACT TO AMEND THE EMPLOYEES\u2019 PROVIDENT FUND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.13,
+      238.63,
+      321.68,
+      251.97
+    ],
+    "text": "ACT, NO. 15 OF 1958",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      263.23,
+      401.93,
+      288.81
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      300.07,
+      401.98,
+      325.77
+    ],
+    "text": "1.This Act may be cited as the Employees\u2019 ProvidentFund (Amendment) Act, No. of 2011.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      337.03,
+      402.07,
+      399.57
+    ],
+    "text": "2.Section 3 of the Employees\u2019 Provident Fund Act, No.15 of 1958, (hereinafter referred to as the \u201cprincipalenactment\u201d) is hereby amended by the insertion immediatelyafter subsection (1) of that section, of the following newsubsection:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185.85,
+      410.83,
+      401.96,
+      473.37
+    ],
+    "text": "\u201c(1A) Where an employee becomes a member of theFund established under subsection (1), theCommissioner-General of Labour shall assign anidentification number to such employee and employerin the prescribed manner.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.85,
+      484.63,
+      401.97,
+      510.21
+    ],
+    "text": "3.Section 5 of the principal enactment is herebyamended in subsection (1) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.57,
+      521.47,
+      401.82,
+      559.41
+    ],
+    "text": "(1)by the insertion immediately after paragraph (e)of that subsection, of the following newparagraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.29,
+      570.67,
+      402.0,
+      670.17
+    ],
+    "text": "\u201c(ee)may invest according to such terms andconditions as may be prescribed such amountof moneys of the Fund wihch may becomenecessary for the construction on any land,purchased for that purpose or belonging to orheld by the Fund, of a Secretariat on behalf ofthe Employees\u2019 Provident Fund, for the useof the Fund;\u201d and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      337.58,
+      451.31,
+      377.05
+    ],
+    "text": "Amendmentof section 3of Act, No.15 of 1958.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      407.85,
+      485.06,
+      451.31,
+      534.13
+    ],
+    "text": "Amendmentof section 5of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      165.55,
+      361.69,
+      178.89
+    ],
+    "text": "Employees\u2019 Provident Fund (Amendment)2",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.63,
+      259.99,
+      150.63,
+      273.33
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.87,
+      341.47,
+      150.31,
+      354.81
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.87,
+      432.55,
+      150.31,
+      445.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.87,
+      520.03,
+      150.31,
+      533.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.95,
+      587.47,
+      151.39,
+      600.81
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.87,
+      201.67,
+      397.28,
+      249.81
+    ],
+    "text": "(2)in paragraph (ff) of that subsection, by thesubstitution for the words \u201caccount, for a periodnot exceeding six years prior to the date of suchtransfer, and\u201d of the words \u201caccount and\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      260.35,
+      397.16,
+      296.85
+    ],
+    "text": "4. The following new section is hereby insertedimmediately after section 23 of the principal enactment andshall have effect as section 23A of that enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223.15,
+      306.43,
+      394.07,
+      319.77
+    ],
+    "text": "23A. (1) Every member of the Fund who\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235.87,
+      329.47,
+      397.26,
+      342.81
+    ],
+    "text": "(a) has made contributions to the Fund",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253.15,
+      340.99,
+      397.24,
+      354.33
+    ],
+    "text": "for a period of not less than ten years;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235.87,
+      364.03,
+      364.18,
+      377.37
+    ],
+    "text": "(b) is presently employed; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236.71,
+      386.95,
+      397.07,
+      400.29
+    ],
+    "text": "(c) possesses not less than three",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253.15,
+      398.47,
+      397.08,
+      423.33
+    ],
+    "text": "hundred thousand rupees to hiscredit in his individual account,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      432.91,
+      317.71,
+      446.25
+    ],
+    "text": "shall, for the purpose of\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244.15,
+      454.51,
+      306.39,
+      467.85
+    ],
+    "text": "(i) housing; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241.15,
+      474.91,
+      334.85,
+      488.25
+    ],
+    "text": "(ii) medical treatment,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      496.51,
+      397.31,
+      532.77
+    ],
+    "text": "be entitled to withdraw such amount as doesnot exceed thirty per centum of the amountlying to his credit in his individual account.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.15,
+      542.47,
+      397.33,
+      670.77
+    ],
+    "text": "(2) A member of the Fund who subject tothe provisions of subsection (1) makes awithdrawal from the amount lying to his creditin his account, shall upon the completion of aperiod of ten years from the date of suchwithdrawal, subject to the provisions ofparagraphs (b) and (c) of subsection (1) beentitled to make a second withdrawal of suchamount as does not exceed thirty per centumfrom such account for any one of the abovepurposes.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.15,
+      261.98,
+      444.46,
+      366.13
+    ],
+    "text": "Insertion ofnew section23A in theprincipalenactment.\u201c Housingbenefits andbenefitsrelating tomedicaltreatment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.95,
+      646.51,
+      151.39,
+      659.85
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      197.49,
+      165.55,
+      402.89,
+      178.89
+    ],
+    "text": "3Employees\u2019 Provident Fund (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.57,
+      262.51,
+      155.57,
+      275.85
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.57,
+      348.55,
+      155.01,
+      361.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.57,
+      434.47,
+      155.01,
+      447.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.57,
+      531.55,
+      155.01,
+      544.89
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145.05,
+      634.51,
+      155.49,
+      647.85
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      215.85,
+      201.55,
+      401.97,
+      250.89
+    ],
+    "text": "(3) Every member shall, during the periodhe is a contributor to the Fund be entitled toonly two withdrawals from his individualaccount.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      227.85,
+      261.55,
+      374.95,
+      274.89
+    ],
+    "text": "(4) For the purpose of this section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233.85,
+      282.55,
+      323.1,
+      295.89
+    ],
+    "text": "\u201chousing\u201d includes\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      303.55,
+      401.96,
+      328.89
+    ],
+    "text": "(a)the construction of a house on aland belonging to a member ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      336.55,
+      401.9,
+      361.89
+    ],
+    "text": "(b)the purchase of a land for theconstruction of a house;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.29,
+      369.55,
+      362.15,
+      382.89
+    ],
+    "text": "(c)the purchase of a house;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      390.55,
+      401.91,
+      415.89
+    ],
+    "text": "(d)the redemption of a mortgage onhousing property; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.29,
+      423.55,
+      401.89,
+      460.89
+    ],
+    "text": "(e)the settlement of an outstandingbalance of the housing loanreceived from the approved bank,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      245.85,
+      468.55,
+      332.9,
+      481.89
+    ],
+    "text": "by such member; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233.85,
+      489.55,
+      363.57,
+      502.89
+    ],
+    "text": "\u201cmedical treatment\u201d includes\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      510.55,
+      320.09,
+      523.89
+    ],
+    "text": "(a)heart surgery;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      531.55,
+      330.62,
+      544.89
+    ],
+    "text": "(b)by-pass surgery;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.29,
+      552.55,
+      401.74,
+      577.89
+    ],
+    "text": "(c)treatment for cancer includingsurgery;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      243.57,
+      585.55,
+      382.38,
+      598.89
+    ],
+    "text": "(d)kidney transplant or surgery;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.29,
+      609.55,
+      353.85,
+      622.89
+    ],
+    "text": "(e)cesarean operation; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      245.85,
+      633.55,
+      401.95,
+      671.01
+    ],
+    "text": "(f)hospitalization for not less thanfourteen days on the account of anaccident.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      165.55,
+      361.69,
+      178.89
+    ],
+    "text": "Employees\u2019 Provident Fund (Amendment)4",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.87,
+      262.03,
+      150.87,
+      275.37
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.87,
+      333.07,
+      150.31,
+      346.41
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.87,
+      405.07,
+      150.31,
+      418.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.87,
+      489.55,
+      150.31,
+      502.89
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.15,
+      201.55,
+      397.21,
+      238.89
+    ],
+    "text": "(5) A member of the Fund, his or her spouseand his or her children shall be entitled to themedical treatment referred to in this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.15,
+      249.55,
+      397.25,
+      298.89
+    ],
+    "text": "(6) The Minister may appoint, by Orderpublished in the Gazette different dates for thebringing in to operation of the provisions ofsub-paragraph (i) or (ii) of subsection (1) .\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      309.55,
+      397.16,
+      346.89
+    ],
+    "text": "5.The following new section is hereby insertedimmediately after section 24 of the principal enactment andshall have effect as section 24A of that enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.15,
+      357.55,
+      397.28,
+      418.89
+    ],
+    "text": "24A. (1) The Commissioner-General ofLabour may establish an insurance scheme anda pension scheme as the case as may be for thebenefit of the members of the Fund subject tosuch terms and conditions as may be prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.15,
+      429.55,
+      397.24,
+      478.89
+    ],
+    "text": "(2) Every member of the Fund who wishesto join the insurance scheme or the pensionscheme or the both schemes, shall be requiredto contribute the prescribed amount.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      489.55,
+      397.29,
+      526.89
+    ],
+    "text": "6.Section 31A of the principal enactment is herebyamended, by the substitution for the words \u201cat the rate ofone per centum\u201d of the words \u201cat the rate of two per centum\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      537.55,
+      397.21,
+      574.89
+    ],
+    "text": "7.The following new section is hereby insertedimmediately after section 31A of the principal enactmentand shall have effect as section 31B of that enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.15,
+      585.55,
+      397.28,
+      670.89
+    ],
+    "text": "31B. It shall be the duty of every employerhaving in his employment a minimum of fiftyemployees to furnish a monthly returncontaining such particulars as may beprescribed, to the Commissioner-General ofLabour with a copy to the Central Bank notlater than the end of the succeeding month.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      311.06,
+      444.46,
+      386.29
+    ],
+    "text": "Insertion ofnew section24A in theprincipalenactment.\u201cInsurance orpensionscheme.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.15,
+      582.98,
+      187.89,
+      612.85
+    ],
+    "text": "\u201cDuty tofurnishreturns.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.87,
+      490.82,
+      446.61,
+      588.13
+    ],
+    "text": "Amendmentof section31A of theprincipalenactment.Insertion ofnew section31B in theprincipalenactment.25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.87,
+      633.67,
+      150.31,
+      647.01
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.49,
+      165.55,
+      402.89,
+      178.89
+    ],
+    "text": "5Employees\u2019 Provident Fund (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.85,
+      201.43,
+      402.06,
+      285.21
+    ],
+    "text": "8.Section 37 of the principal enactment is herebyamended, by the substitution for the words \u201cfine notexceeding one thousand rupees\u201d, \u201cterm not exceeding sixmonths\u201d and \u201cfine not exceeding fifty rupees for each day\u201dof the words \u201cfine not exceeding twenty thousand rupees\u201d,\u201cterm not exceeding twelve months\u201d and \u201cfine not exceedingtwo hundred rupees for each day\u201d respectively.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.85,
+      295.27,
+      402.06,
+      343.77
+    ],
+    "text": "9.Section 46 of the principal enactment is herebyamended in subsection (1) thereof by the insertionimmediately after paragraph (n) of that subsection of thefollowing new paragraph:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      167.85,
+      353.83,
+      402.01,
+      390.57
+    ],
+    "text": "\u201c(nn)in respect of the procedure to be followed in grantinghousing benefits and benefits relating to medicaltreatment;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      161.85,
+      401.11,
+      401.98,
+      438.45
+    ],
+    "text": "10.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150.57,
+      201.62,
+      453.58,
+      261.81
+    ],
+    "text": "Amendmentof section 37of theprincipalenactment.5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.57,
+      318.55,
+      155.01,
+      331.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.57,
+      400.51,
+      455.81,
+      442.09
+    ],
+    "text": "15Sinhala textto prevail incase of anyinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      407.85,
+      294.98,
+      453.58,
+      344.05
+    ],
+    "text": "Amendmentof section 46of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      165.55,
+      361.69,
+      178.89
+    ],
+    "text": "Employees\u2019 Provident Fund (Amendment)6",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236.95,
+      227.66,
+      394.53,
+      238.33
+    ],
+    "text": "SCHEDULE(Section 5B)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      246.62,
+      397.14,
+      266.29
+    ],
+    "text": "1. A person shall be disqualified from being appointed or continuingas a member of the Committee\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.71,
+      273.62,
+      397.01,
+      293.29
+    ],
+    "text": "(a)if he is or becomes a Member of Parliament, a ProvincialCouncil or any local authority;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.71,
+      300.62,
+      365.61,
+      311.29
+    ],
+    "text": "(b)if he is not or ceases to be a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.43,
+      318.62,
+      397.02,
+      338.29
+    ],
+    "text": "(c)if he is under any law in force in Sri Lanka or in any othercountry, found or declared to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.71,
+      345.62,
+      397.35,
+      365.29
+    ],
+    "text": "(d)if he is serving or has served a sentence of imprisonmentimposed by any court in Sri Lanka or any other country; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      174.43,
+      372.62,
+      397.15,
+      392.29
+    ],
+    "text": "(e)if he had been removed from membership of the Committeefor misconduct.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      399.62,
+      397.07,
+      437.29
+    ],
+    "text": "2. Every appointed member shall, unless he vacates office earlierby death, resignation or removal, hold office for a term of three yearsfrom the date of his appointment and unless he has been removedfrom office, be eligible for re-appointment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      444.98,
+      397.38,
+      484.45
+    ],
+    "text": "3. The Minister may by Order published in the Gazette, removefrom office the appointed member of the Committee for physical ormental incapacity or for any act or thing which in the opinion of theMinister is likely to bring disrepute to the Committee.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      483.74,
+      397.39,
+      544.93
+    ],
+    "text": "4. Where an appointed member of the Committee is, by reason ofillness, infirmity or absence from Sri Lanka for a period not less thanthree months, is temporarily unable to perform his duties, it shall bethe duty of such member to inform the Minister in writing of suchinability. The Minister may having regard to section 5B, appoint someother person to act in his place during the absence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      554.42,
+      397.21,
+      585.37
+    ],
+    "text": "5. The members of the Committee shall be remunerated in suchmanner and at such rates as may be determined by the Minister, inconsultation with the Minister in charge of the subject of Finance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      594.38,
+      397.26,
+      633.49
+    ],
+    "text": "6. (1) The Chairman of the Committee shall if present, preside atall meetings of the Committee. In the absence of the Chairman fromany such meeting, the Commissioner General of Labour shall presideat such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.15,
+      642.02,
+      397.41,
+      662.29
+    ],
+    "text": "(2) An ex-officio member may at any time by prior notice inwriting, nominate his deputy to represent him at any meeting of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.15,
+      436.52,
+      449.57,
+      451.73
+    ],
+    "text": "Disqualificationfrom appointment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.15,
+      589.52,
+      447.42,
+      604.73
+    ],
+    "text": "Term of office ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.15,
+      634.52,
+      441.44,
+      656.93
+    ],
+    "text": "Termination ofappointment ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.87,
+      259.51,
+      150.87,
+      272.85
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.87,
+      330.55,
+      150.31,
+      343.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      197.49,
+      165.55,
+      402.89,
+      178.89
+    ],
+    "text": "7Employees\u2019 Provident Fund (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.85,
+      201.98,
+      401.88,
+      222.25
+    ],
+    "text": "Committee to be held on a given date, if he is unable to attend suchmeeting due to unavoidable circumstances.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.85,
+      230.78,
+      402.04,
+      270.25
+    ],
+    "text": "(3) The quorum for any meeting of the Committee shall be threemembers and the Committee may regulate the procedure in regard tothe conduct of its meetings and the transaction of business at suchmeetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.85,
+      278.78,
+      401.83,
+      312.73
+    ],
+    "text": "7. No act or proceeding of the Committee shall be invalid byreason only of the existence of a vacancy among its members or anydefect in the appointment of a member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      407.85,
+      203.48,
+      437.11,
+      218.69
+    ],
+    "text": "Absence ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      407.85,
+      274.52,
+      450.61,
+      289.73
+    ],
+    "text": "Remuneration ofmembers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      407.85,
+      457.88,
+      454.28,
+      501.89
+    ],
+    "text": "Proceedings, actor decision not todeemed invalid byreason of anydefect in theappointment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      407.85,
+      314.6,
+      447.59,
+      329.81
+    ],
+    "text": "Meetings of theCommittee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.15,
+      165.55,
+      361.69,
+      178.89
+    ],
+    "text": "Employees\u2019 Provident Fund (Amendment)8",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      139.15,
+      630.38,
+      451.17,
+      670.97
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

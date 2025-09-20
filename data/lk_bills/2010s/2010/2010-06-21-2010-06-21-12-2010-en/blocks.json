@@ -1,0 +1,1906 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      163.77,
+      164.38,
+      436.07,
+      222.0
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.29,
+      231.95,
+      361.41,
+      248.57
+    ],
+    "text": "Part II of June 18, 2010",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      258.71,
+      341.8,
+      275.33
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      243.57,
+      285.03,
+      355.91,
+      299.68
+    ],
+    "text": "(Issued on 21. 06.2010)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.21,
+      424.19,
+      398.5,
+      455.09
+    ],
+    "text": "PHARMACEUTICAL SOCIETY OFSRI LANKA(INCORPORATION)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.21,
+      591.49,
+      443.23,
+      615.7
+    ],
+    "text": "To be published in Parliament by Dr. Jayalath Jayawardana, M. P. forGampaha District",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.57,
+      625.58,
+      392.13,
+      636.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.57,
+      635.18,
+      404.13,
+      645.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      657.64,
+      455.69,
+      671.49
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.29,
+      501.11,
+      303.95,
+      517.73
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.21,
+      527.51,
+      314.5,
+      544.13
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.13,
+      558.28,
+      417.71,
+      572.13
+    ],
+    "text": "to incorporate the Pharmaceutical Society of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.57,
+      471.97,
+      347.04,
+      484.18
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      206.85,
+      165.55,
+      402.89,
+      190.78
+    ],
+    "text": "1Pharmaceutical Society of Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.29,
+      299.47,
+      156.29,
+      312.81
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      381.55,
+      155.73,
+      394.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      477.55,
+      155.01,
+      490.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      561.55,
+      155.01,
+      574.89
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      630.07,
+      155.01,
+      643.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      244.46,
+      443.14,
+      255.13
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      480.02,
+      444.57,
+      490.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.05,
+      202.75,
+      385.65,
+      229.89
+    ],
+    "text": "AN ACT TO INCORPORATE THE PHARMACEUTICAL SOCIETY OFSRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      244.15,
+      402.06,
+      340.29
+    ],
+    "text": "WHEREAS a Society called and known as the\u201cPharmaceutical Society of Sri Lanka\u201d has been establishedin Sri Lanka for the common progress of involving inPharmacology and all its branches and for the purpose ofeffectually carrying out and transacting all objects andmatters connected with the Society according to the rulesagreed by its members:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      354.55,
+      401.86,
+      423.09
+    ],
+    "text": "AND WHEREAS the said Society has heretofore successfullycarried out and transacted the several objects and matters forwhich it was established and has applied to be incorporatedand it will be for the public advantage to grant theapplication:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      437.35,
+      401.67,
+      464.49
+    ],
+    "text": "BE it therefore enacted by Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      478.75,
+      401.71,
+      505.89
+    ],
+    "text": "1.This Act may be cited as the Pharmaceutical Societyof Sri Lanka (Incorporation) Act, No. of 2010.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      520.15,
+      402.32,
+      671.49
+    ],
+    "text": "2.From and after the date at commencement of this Actsuch and so many persons as now are members of thePharmaceutical Society of Sri Lanka (hereinafter referred toas \u201cSociety\u201d) or shall hereafter be admitted members of theCorporation hereby constituted shall be and becomea body corporate (herein after referred to as \u201cthe Corporation\u201d)with perpetual succession under the style and the name ofthe \u201cPharmaceutical Society of Sri Lanka\u201d and by thatname may sue and be sued in all courts with full power andauthority to have and to use a common seal and to alter thesame at its pleasure.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      519.98,
+      455.83,
+      569.05
+    ],
+    "text": "Incorporationof thePharmaceuticalSociety of SriLanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      165.55,
+      352.3,
+      190.78
+    ],
+    "text": "Pharmaceutical Society of Sri Lanka(Incorporation)2",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.71,
+      274.99,
+      151.71,
+      288.33
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      349.03,
+      150.31,
+      362.37
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      435.07,
+      150.31,
+      448.41
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      546.07,
+      150.31,
+      559.41
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.95,
+      631.51,
+      151.39,
+      644.85
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      203.18,
+      450.44,
+      233.05
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      201.67,
+      397.08,
+      227.37
+    ],
+    "text": "3.The general objects for which the corporation isconstituted are hereby declared to be:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      238.63,
+      397.06,
+      264.21
+    ],
+    "text": "(a)to promote and advance the science of Pharmacyand its applications in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      275.47,
+      397.32,
+      338.01
+    ],
+    "text": "(b)to advise the Government and give council to publiccorporations, local bodies and other institutionson all matters connected with the application ofpharmacy to progress and development of theCountry;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      349.27,
+      397.02,
+      374.97
+    ],
+    "text": "(c)to promote the acquisition, dissemination andinterchange of pharmaceutical knowledge by",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199.15,
+      386.23,
+      397.31,
+      424.17
+    ],
+    "text": "(i)providing a forum for the presentation oforiginal communications and discussionsthereon;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.15,
+      435.43,
+      375.48,
+      448.77
+    ],
+    "text": "(ii)establishing and maintaining libraries;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.15,
+      460.03,
+      397.12,
+      485.61
+    ],
+    "text": "(iii)publishing matters of interest to theprofessions of pharmacy; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      193.87,
+      496.87,
+      286.87,
+      510.21
+    ],
+    "text": "(iv)any other means;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      521.47,
+      386.42,
+      534.81
+    ],
+    "text": "(d)to promote education in pharmacy at all levels;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      546.07,
+      397.36,
+      571.77
+    ],
+    "text": "(e)to promote, encourage and foster original researchin pharmacy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      583.03,
+      397.35,
+      608.61
+    ],
+    "text": "(f)to assess the eligibility of candidates for admissionto the various grades of membership;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      619.87,
+      397.34,
+      670.17
+    ],
+    "text": "(g)to conduct or provide for the conduct of thequalifying examinations for all grades ofmembership of the Society and to promote, provideor approve courses of study for such examinations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206.85,
+      165.55,
+      402.89,
+      190.78
+    ],
+    "text": "3Pharmaceutical Society of Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.21,
+      247.51,
+      152.21,
+      260.85
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      329.47,
+      155.01,
+      342.81
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      413.47,
+      155.01,
+      426.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      484.03,
+      155.01,
+      497.37
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      542.47,
+      155.01,
+      555.81
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      613.99,
+      155.01,
+      627.33
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      201.55,
+      403.4,
+      273.93
+    ],
+    "text": "(h)to conduct or provide for conduct of examinationsfor the award of diplomas, certificates and otherdistinctions in such branches of pharmacy as theSociety may from time to time deem necessary andto prescribe, approve or provide courses of studyfor such examinations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      284.23,
+      402.66,
+      321.09
+    ],
+    "text": "(i)to ensure the maintenance of high standards in theprofessional activities and the general conduct ofits members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      331.39,
+      402.63,
+      356.49
+    ],
+    "text": "(j)to establish liaison with other scientific andprofessional organization;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      366.79,
+      402.68,
+      391.89
+    ],
+    "text": "(k)to establish and enhance the status of the professionof Pharmacy in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      402.19,
+      402.75,
+      439.05
+    ],
+    "text": "(l)to take any other measure that may be necessary forthe attainment of all or any of the objects of theSociety.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      449.35,
+      403.05,
+      568.89
+    ],
+    "text": "4.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts, matters and thingswhatsoever, as are necessary or desirable for the furtheranceof the objects of the Corporation or any one of them,including the power or open, operate or close bank accountsto borrow or raise moneys with or without security to receiveto collect grants and donations, to invest its funds, to engage,employ and dismiss personnel required for carrying out ofthe objects of the Corporation.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      579.19,
+      402.65,
+      627.93
+    ],
+    "text": "5.(1) The affairs of the Corporation shall subject to therules and by-laws in force for the time being of theCorporation administered by a Council consists of personselected in accordance with such rules and by-laws.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      638.11,
+      402.94,
+      675.21
+    ],
+    "text": "(2) The first Council of the Corporation shall be theCouncil of the Society holding office on the day precedingthe date of commencement of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      450.02,
+      455.89,
+      479.89
+    ],
+    "text": "Generalpowers of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      579.98,
+      453.58,
+      619.45
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      165.55,
+      352.3,
+      190.78
+    ],
+    "text": "Pharmaceutical Society of Sri Lanka(Incorporation)4",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.71,
+      246.55,
+      151.71,
+      259.89
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      317.47,
+      150.31,
+      330.81
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      399.55,
+      150.31,
+      412.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      470.47,
+      150.31,
+      483.81
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      552.55,
+      150.31,
+      565.89
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      201.31,
+      397.69,
+      296.61
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation from time totime at any Annual General Meeting or at a special GeneralMeeting of the Society and by the requisite majority of themembers voting, to make rules and by-laws not inconsistencewith the provisions of this Act or any other written law forthe management of the affairs of the society andaccomplishment if its objectives including all or any of thefollowing matters:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      306.67,
+      397.22,
+      331.65
+    ],
+    "text": "(a)the classification of membership and admission,withdrawal, expulsion of members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      341.71,
+      397.51,
+      378.45
+    ],
+    "text": "(b)the election of the office bearers who shall serve inan honorary capacity, Auditor and Members of theCouncil;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      388.51,
+      397.21,
+      425.25
+    ],
+    "text": "(c)the appointment of committees, the powers,conduct, duties and functions of various officers,agents and servants of the Corporation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      435.31,
+      397.62,
+      495.45
+    ],
+    "text": "(d)the procedure to be observed in the meetings, thesummoning and holding of the Council, the time,places, notices and agenda of such meeting, thequorum thereof and the conduct of business atthereat;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      505.51,
+      397.29,
+      542.25
+    ],
+    "text": "(e)the administration and the management of theproperty of the Corporation, the custody of its fundsand the maintenance and audit of its accounts; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.15,
+      552.31,
+      397.37,
+      577.41
+    ],
+    "text": "(f)generally the management of the affairs of theCorporation and the accomplishment of its objects.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      587.47,
+      397.08,
+      635.85
+    ],
+    "text": "(2) Any rule and by-law made by the Corporation maybe amended, altered, added to or rescinded at a likemeeting and in like manner as a rule or by-law made undersubsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      645.91,
+      396.98,
+      671.13
+    ],
+    "text": "(3) The members of the Corporation shall be subject tothe rules and by-laws of the Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      203.06,
+      448.13,
+      242.53
+    ],
+    "text": "Rules andby-laws oftheCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      621.07,
+      150.31,
+      634.41
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      206.85,
+      165.55,
+      402.89,
+      190.78
+    ],
+    "text": "5Pharmaceutical Society of Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150.57,
+      251.47,
+      155.57,
+      264.81
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      327.55,
+      155.01,
+      340.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      404.47,
+      155.01,
+      417.81
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      480.55,
+      155.01,
+      493.89
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      569.47,
+      155.01,
+      582.81
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      658.51,
+      155.01,
+      671.85
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      202.03,
+      402.44,
+      278.85
+    ],
+    "text": "7.All debts and liabilities of the Society existing onthe day immediately preceding the date of commencementof this Act, shall be paid and discharged by the Corporationand all debts due to, subscription and contributions payableto the Society shall be paid to the Corporation for the purposeof this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      290.83,
+      402.4,
+      380.37
+    ],
+    "text": "8.(1) The Corporation shall be capable in law to takeand hold any property movable or immovable which maybecome vested in it by virtue of any purchase, grant, gift,testamentary disposition or otherwise and all such propertyshall be held by the Corporation for the purpose of this Act,and subject to the rules of the Corporation with full power tosell, mortgage, lease, exchange or dispose of the same.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      392.47,
+      402.19,
+      443.85
+    ],
+    "text": "(2) The Corporation shall have the power to borrow orraise money necessary for the furtherance of its objects andto create, execute, grant or issue any mortgages, bounds orobligations to secure the payment of such money.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      455.95,
+      402.36,
+      494.73
+    ],
+    "text": "(3) All property of the Society, movable and immovableshall vest in the Corporation from the date of commencementof this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      506.71,
+      401.7,
+      532.77
+    ],
+    "text": "9.The Society shall be able and capable in law tocharge :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      544.87,
+      401.83,
+      583.65
+    ],
+    "text": "(a)such fees as the Society may deem reasonable, foradmission to any seminar, course or examinationconducted by the Society;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      595.63,
+      401.76,
+      621.69
+    ],
+    "text": "(b)fees for admission of persons to any class ofmembership of the Society; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.29,
+      633.79,
+      402.07,
+      672.45
+    ],
+    "text": "(c)such subscriptions and fees, as the Society maydeem reasonable in respect of the services by theSociety.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      205.58,
+      454.31,
+      240.25
+    ],
+    "text": "Debts due byor payable tothe Society.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      291.62,
+      451.31,
+      350.29
+    ],
+    "text": "Corporationmay holdmovable orimmovableproperty.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      507.86,
+      442.29,
+      518.53
+    ],
+    "text": "Powers to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      520.1,
+      447.61,
+      530.77
+    ],
+    "text": "charge fees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      532.46,
+      420.57,
+      543.13
+    ],
+    "text": "and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      544.7,
+      455.82,
+      555.37
+    ],
+    "text": "subscriptions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      165.55,
+      352.3,
+      190.78
+    ],
+    "text": "Pharmaceutical Society of Sri Lanka(Incorporation)6",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145.51,
+      249.31,
+      150.51,
+      262.65
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      321.55,
+      150.31,
+      334.89
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.75,
+      393.31,
+      150.19,
+      406.65
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      201.55,
+      397.21,
+      274.89
+    ],
+    "text": "10.The Society shall have the power to appoint anAdmissions and Ethical Practices Committee and to takesuch other steps as may be found necessary from time totime for the maintenance of professional standards anddiscipline among persons practicing or acting as pharmacistsin Sri Lanka.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      285.55,
+      397.1,
+      358.89
+    ],
+    "text": "11.The seal of the Corporation may not be affixed toany instrument whatsoever except in the presence of twomembers who shall sign the documents or the Council shallfrom time to time by authorized standing orders and suchsigning shall be independent of the signing of any person asa witness.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      369.55,
+      397.28,
+      430.89
+    ],
+    "text": "12.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or any body politic orcorporate or of any other persons except such as arementioned in this Act and those claiming by from or underthe them.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      441.67,
+      397.38,
+      479.61
+    ],
+    "text": "13.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      202.58,
+      443.6,
+      249.25
+    ],
+    "text": "Admissionsand EthicalPracticesCommittee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      287.66,
+      448.15,
+      346.33
+    ],
+    "text": "How the sealof theCorporationis to beaffixed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      371.06,
+      450.41,
+      410.53
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      442.58,
+      451.2,
+      482.05
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      206.85,
+      165.55,
+      402.89,
+      190.78
+    ],
+    "text": "7Pharmaceutical Society of Sri Lanka(Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      630.38,
+      455.85,
+      670.97
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
