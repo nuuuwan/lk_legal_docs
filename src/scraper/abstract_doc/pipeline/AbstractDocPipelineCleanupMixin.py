@@ -1,7 +1,7 @@
 import os
 import shutil
 
-from utils import JSONFile, Log
+from utils import Log
 
 log = Log("AbstractDocPipelineCleanupMixin")
 

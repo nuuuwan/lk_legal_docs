@@ -7,6 +7,7 @@ from scraper.abstract_doc.core.AbstractDocMetadataMixin import \
     AbstractDocMetadataMixin
 from scraper.abstract_doc.core.AbstractDocRemotePathMixin import \
     AbstractDocRemotePathMixin
+from scraper.abstract_doc.core.AbstractDocTextMixin import AbstractDocTextMixin
 from scraper.abstract_doc.hugging_face import AbstractDocHuggingFaceMixin
 from scraper.abstract_doc.pipeline.AbstractDocPipelineMixin import \
     AbstractDocPipelineMixin
@@ -28,5 +29,6 @@ class AbstractDoc(
     AbstractDocHuggingFaceMixin,
     AbstractDocPipelineMixin,
     AbstractDocGlobalReadMeMixin,
+    AbstractDocTextMixin,
 ):
     pass

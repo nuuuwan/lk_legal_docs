@@ -49,22 +49,7 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         assert os.path.exists(self.blocks_path)
         return JSONFile(self.blocks_path).read()
 
-    # Text (Extracted from Blocks)
-    # ----------------------------------------------------------------
-
-    @cached_property
-    def text_path(self) -> str:
-        return os.path.join(self.dir_doc, "doc.txt")
-
-    @property
-    def has_text(self) -> bool:
-        return os.path.exists(self.text_path)
-
-    @cached_property
-    def doc_readme_path(self) -> str:
-        return os.path.join(self.dir_doc, "README.md")
-
-    def extract_text(self):
+    def extract_text(self):  # overrides AbstractDocTextMixin
         blocks = self.get_blocks()
         text_list = [block["text"] for block in blocks if block["text"]]
         content = "\n\n".join(text_list)
@@ -73,11 +58,6 @@ class AbstractPDFDoc(AbstractDoc, ABC):
 
         File(self.doc_readme_path).write(content)
         log.info(f"Wrote {self.doc_readme_path}")
-
-    def get_text(self):
-        if not os.path.exists(self.doc_readme_path):
-            return ""
-        return File(self.doc_readme_path).read()
 
     # All
     # ----------------------------------------------------------------

@@ -14,5 +14,6 @@ from scraper.abstract_doc import (AbstractDoc, AbstractDocBase,
                                   AbstractDocPipelineMixin,
                                   AbstractDocReadMeMixin,
                                   AbstractDocRemotePathMixin,
-                                  AbstractDocSummaryMixin)
+                                  AbstractDocSummaryMixin,
+                                  AbstractDocTextMixin)
 from scraper.abstract_pdf_doc import AbstractPDFDoc

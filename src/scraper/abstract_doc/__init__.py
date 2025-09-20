@@ -6,7 +6,8 @@ from scraper.abstract_doc.core import (AbstractDocBase,
                                        AbstractDocBasePathsMixin,
                                        AbstractDocGeneratorMixin,
                                        AbstractDocMetadataMixin,
-                                       AbstractDocRemotePathMixin)
+                                       AbstractDocRemotePathMixin,
+                                       AbstractDocTextMixin)
 from scraper.abstract_doc.hugging_face import AbstractDocHuggingFaceMixin
 from scraper.abstract_doc.pipeline import (
     AbstractDocPipelineCleanupMixin, AbstractDocPipelineExtendedDataMixin,

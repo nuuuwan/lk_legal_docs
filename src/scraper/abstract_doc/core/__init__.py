@@ -10,3 +10,4 @@ from scraper.abstract_doc.core.AbstractDocMetadataMixin import \
     AbstractDocMetadataMixin
 from scraper.abstract_doc.core.AbstractDocRemotePathMixin import \
     AbstractDocRemotePathMixin
+from scraper.abstract_doc.core.AbstractDocTextMixin import AbstractDocTextMixin
