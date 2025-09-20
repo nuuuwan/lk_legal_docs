@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_09:05:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_09:30:23-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**7.0 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk/view/acts/acts_2025.html](https://documents.gov.lk/view/acts/acts_2025.html)**
+- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**7.4 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk/view/acts/acts_2025.html](https://documents.gov.lk/view/acts/acts_2025.html)**
 
-- In **JSON**, **PDF** (62%), **TXT** (62%) & **🤗 Hugging Face** (62%)
+- In **JSON**, **PDF** (63%), **TXT** (63%) & **🤗 Hugging Face** (63%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 

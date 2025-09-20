@@ -1,0 +1,1658 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      515.64,
+      338.19,
+      529.49
+    ],
+    "text": "Price : Rs. 6.75Postage : Rs. 4.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.95,
+      480.12,
+      292.74,
+      492.13
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.39,
+      495.96,
+      306.19,
+      507.97
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 01",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      7.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.83,
+      124.38,
+      316.77,
+      181.16
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      60.55,
+      225.26,
+      303.63,
+      244.65
+    ],
+    "text": "YOUTH CORPS ACT, No. 21 OF 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      40.03,
+      427.47,
+      324.61,
+      453.41
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October 04, 2002",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.79,
+      327.84,
+      252.67,
+      341.69
+    ],
+    "text": "[Certified on 04th October, 2002]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.39,
+      359.49,
+      255.48,
+      371.7
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.67,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "1Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.15,
+      44.55,
+      213.37,
+      57.89
+    ],
+    "text": "[Certified on 04th October, 2002]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      68.55,
+      102.23,
+      81.89
+    ],
+    "text": "L.D.\u2014O. 47/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      89.55,
+      266.35,
+      102.89
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A YOUTH CORP ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      101.55,
+      266.35,
+      114.89
+    ],
+    "text": "FOR THE SETTING UP OF A COUNCIL FOR YOUTH AFFAIRS ; AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      113.55,
+      266.35,
+      126.89
+    ],
+    "text": "TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      128.71,
+      70.03,
+      138.05
+    ],
+    "text": "THERETO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      147.51,
+      266.47,
+      172.85
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      186.51,
+      266.27,
+      211.85
+    ],
+    "text": "1.This Act may be cited as the Youth Corps Act,No. 21 of 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      130.99,
+      222.51,
+      161.72,
+      235.85
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.63,
+      249.51,
+      204.08,
+      262.85
+    ],
+    "text": "COUNCIL OF THE YOUTH CORPS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      271.47,
+      266.55,
+      356.81
+    ],
+    "text": "2.(1) There shall be established a Council of the Youthcorps (hereinafter referred to as \u201cthe Council\u201d) which shallconsist of five members one of whom shall be a female, asmay be appointed by the Minister who shall nominate one ofthem as the Chairman of the Council. The members shall bechosen from among persons having knowledge and experiencein the fields of youth development, employment and education.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      365.55,
+      266.41,
+      390.89
+    ],
+    "text": "(2) All matters in respect of the administration of theCouncil shall be as prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      398.55,
+      266.39,
+      423.89
+    ],
+    "text": "(3) The term of office of the members of the Council shallbe three years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      432.51,
+      266.53,
+      493.85
+    ],
+    "text": "(4) There shall be appointed three committees for thepurpose of vocational training, youth development andplacement as are necessary for the administration of the affairsof the Council. The Council may delegate its powers to suchCommittees.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      501.51,
+      266.57,
+      526.85
+    ],
+    "text": "(5) The constitution of such Committees and the procedureto be adopted by such Committees shall be as prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      273.22,
+      336.0,
+      303.09
+    ],
+    "text": "Establishment ofthe Council of theYouth Corps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      188.62,
+      312.06,
+      199.29
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      536.98,
+      133.77,
+      547.65
+    ],
+    "text": "2\u2014H 016444 \u2014 5,550 (07/2002)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      278.41,
+      33.89
+    ],
+    "text": "2Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      44.55,
+      333.64,
+      69.89
+    ],
+    "text": "3.The Youth Corps shall be a non-military organizationfor youth, having as its objectives\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.01,
+      74.55,
+      331.96,
+      87.89
+    ],
+    "text": "(a) youth development and employment training ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.01,
+      92.55,
+      214.98,
+      105.89
+    ],
+    "text": "(b) vocational education.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      116.91,
+      267.1,
+      130.85
+    ],
+    "text": "4.The Council shall have the power\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.01,
+      141.87,
+      333.56,
+      167.69
+    ],
+    "text": "(a) to prepare plans and programmes for the YouthCorps ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.01,
+      179.43,
+      333.65,
+      217.73
+    ],
+    "text": "(b) to monitor and report on the implementation of suchplans and programmes prepared under paragraph (a),as are approved by the Minister ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.49,
+      229.35,
+      333.51,
+      255.17
+    ],
+    "text": "(c) to supervise the training of the members of the YouthCorps ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.01,
+      266.91,
+      333.75,
+      330.17
+    ],
+    "text": "(d) to specify in consultation with the Director of theYouth Corps, the conditions relating to the trainingand efficiency of the members of the Corps and thedegree of proficiency required to be attained by aranger.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.61,
+      339.87,
+      230.68,
+      353.21
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.01,
+      364.83,
+      240.42,
+      378.17
+    ],
+    "text": "YOUTH CORPS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      389.91,
+      333.76,
+      428.21
+    ],
+    "text": "5.There shall be raised and Maintained, in accordancewith the provisions of this Act, a Corp to be known as theYouth Corps (hereinafter referred to as \u201cthe Corps\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      439.83,
+      333.8,
+      478.25
+    ],
+    "text": "6.(1) The Corps shall be formed into such units andshall consist of such strength as the Minister may from timeto time determine.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      489.87,
+      333.79,
+      528.17
+    ],
+    "text": "(2) The structure and ranks of the Corps and theappointments, promotions and demotions to and from, suchranks, shall be prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      44.98,
+      76.01,
+      65.25
+    ],
+    "text": "Objectives of theYouth Corps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      118.78,
+      65.51,
+      139.05
+    ],
+    "text": "Powers of theCouncil.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      391.06,
+      63.95,
+      401.73
+    ],
+    "text": "Youth Corps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      440.62,
+      71.23,
+      480.09
+    ],
+    "text": "Minister todetermine unitsstrengths ofCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.67,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "3Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      44.91,
+      266.49,
+      95.33
+    ],
+    "text": "7.The Minister shall appoint a fit and proper person asthe Director of the Corps, who shall be responsible for theadministration, training, discipline and efficiency of theCorps.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      102.99,
+      190.63,
+      116.93
+    ],
+    "text": "8.The Director of the Corps shall\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.59,
+      123.99,
+      266.49,
+      149.33
+    ],
+    "text": "(a) give effect to the decisions of the Council and ensurethat the decisions of the Council are given effect to ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.59,
+      156.99,
+      266.45,
+      194.33
+    ],
+    "text": "(b) furnish to the Council such information as it mayrequire for the exercise, performance and dischargeof its powers, duties and functions.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      201.99,
+      266.47,
+      227.33
+    ],
+    "text": "9.The officers of the Corps shall be appointed by theSecretary to the Ministry of the Minister.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      234.99,
+      266.48,
+      308.33
+    ],
+    "text": "10.Any member of the armed forces, the police force,the public service or a public corporation having specialaptitude in the fields of youth development and employmenttraining may be seconded for service in the corps on fulltime or part time basis and shall be subject to such terms andconditions as may be prescribed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      315.99,
+      266.54,
+      389.33
+    ],
+    "text": "11.The Director may with the approval of the Minister,by Notification published in the Gazette, invite persons whoare not below eighteen years and not above twenty eight yearsof age to render voluntary service in the Corps as a ranger.The manner of selection of such persons to whom theprovisions of this section shall apply shall be prescribed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      396.99,
+      266.54,
+      458.33
+    ],
+    "text": "12.A ranger may, on the expiration of the period forwhich he was enrolled be discharged from the Corps, subjectto the regulations made under this Act. Any ranger sodischarged may, where necessary be enrolled in terms of anagreement entered into in that behalf.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      468.99,
+      135.72,
+      482.93
+    ],
+    "text": "13.Any ranger who\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.59,
+      489.99,
+      266.3,
+      527.33
+    ],
+    "text": "(a) in such manner as to show willful defiance ofauthority, disobeys an lawful command given to himor conveyed to him personally by an officer ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      104.26,
+      325.43,
+      134.13
+    ],
+    "text": "Duties of theDirector of theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      47.98,
+      336.83,
+      58.65
+    ],
+    "text": "Director of Corps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      203.86,
+      330.27,
+      224.13
+    ],
+    "text": "Minister toappoint officers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      237.22,
+      327.39,
+      278.25
+    ],
+    "text": "Secondment ofofficers &c. forservice in theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      319.18,
+      331.59,
+      349.05
+    ],
+    "text": "Voluntaryenlistment in theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      398.98,
+      322.86,
+      448.05
+    ],
+    "text": "Rangers to bedischarged onexpiration ofperiod ofenrollment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      472.18,
+      322.28,
+      502.05
+    ],
+    "text": "Discipline ofrangers of theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      278.41,
+      33.89
+    ],
+    "text": "4Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.01,
+      44.55,
+      333.8,
+      69.89
+    ],
+    "text": "(b) contravenes or fails to comply with any order orregulation made under this Act,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      77.55,
+      301.16,
+      90.89
+    ],
+    "text": "shall be disciplined in such manner as is prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      98.55,
+      333.84,
+      147.89
+    ],
+    "text": "14.The Minister may with the concurrence of theMinister in charge of the subject of Finance determine theremuneration and other allowances of the officers and rangersof the Corps.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      161.55,
+      333.88,
+      306.89
+    ],
+    "text": "15.All property belonging to the Corps other than theproperty of individual members of the Corps and the exclusiveright to sue, and recover, moneys and other property due tothe Corps or any part of the Corps, shall vest in the Directorof the Corps for the time being, with power for him to sue, tomake contracts and conveyances, and to do all other lawfulthings relating to such property, and any civil or criminalproceedings taken by virtue of this section by the Director ofthe Corps shall not be discontinued and shall not abate byreason of his death, resignation, retirement, or removal fromoffice but may be carried on by, and in the name of, hissuccessor in office.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      312.51,
+      333.94,
+      373.85
+    ],
+    "text": "16.(1) The Cabinet of Ministers may direct anyGovernment department, public corporation, statutory bodyor any other Government institution to extend such servicesas forms part of the ordinary activities of such department,corporation, board or institution, to the Corps.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      379.47,
+      333.76,
+      452.81
+    ],
+    "text": "(2) The Cabinet of Ministers may appoint such numberof Committees as it may consider necessary for theconsideration of the manner in which such services are to beextended. The Cabinet of Ministers shall determine thefunctions of such Committees and the procedure to befollowed by such Committees.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      194.93,
+      463.47,
+      232.38,
+      476.81
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      196.25,
+      484.47,
+      231.06,
+      497.81
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      505.47,
+      333.71,
+      530.81
+    ],
+    "text": "17.Article 154 of the Constitution shall apply to the auditof the accounts of the Corp.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      100.42,
+      65.58,
+      159.09
+    ],
+    "text": "Minister todetermineallowances ofofficers andrangers of theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      162.58,
+      80.47,
+      202.05
+    ],
+    "text": "Property of theCorps to vest inthe Director of theCorps.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      313.18,
+      65.51,
+      343.05
+    ],
+    "text": "Powers of theCabinet ofMinisters.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      24.65,
+      505.78,
+      68.42,
+      526.05
+    ],
+    "text": "Accounts andAudit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      81.67,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "5Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      44.55,
+      266.37,
+      81.89
+    ],
+    "text": "18.(1) The Minister may make regulations for thepurpose of carrying out and giving effect to the principlesand provisions of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      92.55,
+      266.42,
+      141.89
+    ],
+    "text": "(2) In particular and without prejudice to the generalityof the powers conferred by subsection (1), the Minister maymake regulations for or in respect of all or any of the followingmatters :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.59,
+      149.55,
+      266.47,
+      174.89
+    ],
+    "text": "(a) the appointment of members and the organization,control, administration and discipline of the Corps ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.59,
+      182.55,
+      266.15,
+      195.89
+    ],
+    "text": "(b) the uniforms to be worn by members of the Corps ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45.19,
+      203.55,
+      156.22,
+      216.89
+    ],
+    "text": "(c) the training of rangers ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.59,
+      224.55,
+      266.45,
+      249.89
+    ],
+    "text": "(d) the disbandment of the whole or any part of any unitof the Corps ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      45.19,
+      257.55,
+      266.32,
+      306.89
+    ],
+    "text": "(e) the age and other qualifications for rangermembership, promotion, advancement or reductionin rank of rangers and dispensation with the servicesof rangers ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      46.87,
+      314.55,
+      266.44,
+      339.89
+    ],
+    "text": "(f) the termination of the service of any member of theCorps other than a ranger ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.59,
+      347.55,
+      266.54,
+      384.89
+    ],
+    "text": "(g) the procedure to be followed for the constitution ofthe Committees to be appointed by the Council andthe composition of the same ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.59,
+      395.55,
+      266.26,
+      420.89
+    ],
+    "text": "(h) any matter in respect of which regulations arerequired to be made.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      431.55,
+      266.5,
+      480.89
+    ],
+    "text": "(3) Every regulation made by the Minister undersubsection (1) shall be published in the Gazette and shall comeinto operation on the date of such publication or on such laterdate as may be specified in the regulation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      491.55,
+      266.47,
+      528.89
+    ],
+    "text": "(4) Every regulation made by the Minister undersubsection (1) shall as soon as convenient after its publicationin the Gazette be brought before Parliment for approval. Any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      48.46,
+      318.45,
+      59.13
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      278.41,
+      33.89
+    ],
+    "text": "6Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      44.55,
+      333.8,
+      105.89
+    ],
+    "text": "regulation which is not so approved shall be deemed to berescinded as from the date of such disapproval but withoutprejudice to anything previously done thereunder. Notificationof the date of which a regulation is deemed to be rescindedshall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      116.55,
+      248.88,
+      130.49
+    ],
+    "text": "19.For the purposes of this Act\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.65,
+      140.55,
+      333.78,
+      165.89
+    ],
+    "text": "\u201cyouth\u201d means a person not below the age of eighteenyears and not above the age of twenty eight years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      176.55,
+      333.64,
+      201.89
+    ],
+    "text": "20.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      119.38,
+      67.19,
+      130.05
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      178.18,
+      76.1,
+      208.05
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.67,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "7Youth Corps Act, No. 21 of 2002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      486.58,
+      338.35,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
