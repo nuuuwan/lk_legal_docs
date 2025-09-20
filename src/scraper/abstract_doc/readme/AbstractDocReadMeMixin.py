@@ -107,12 +107,13 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
         ]
 
     @classmethod
-    def get_lines_chart_docs_by_year(cls) -> list[str]:
-        cls.build_chart()
+    def get_lines_chart_docs_by_year_and_lang(cls, summary) -> list[str]:
+        year_to_lang_to_n = summary["year_to_lang_to_n"]
+        cls.build_chart_by_year_and_lang(year_to_lang_to_n)
         return [
-            "## Documents By Year",
+            "## Documents By Year & Language",
             "",
-            f"![Documents by year]({cls.get_chart_image_name()})",
+            f"![Documents By Year & Language]({cls.get_chart_image_name()})",
             "",
         ]
 
@@ -182,7 +183,7 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
             cls.get_lines_for_header(summary)
             + cls.get_lines_for_blurb(summary)
             + cls.get_lines_for_metadata_example(summary)
-            + cls.get_lines_chart_docs_by_year()
+            + cls.get_lines_chart_docs_by_year_and_lang(summary)
             + cls.get_lines_for_hugging_face()
             + cls.get_lines_for_latest_docs()
             + cls.get_lines_for_more_datasets()

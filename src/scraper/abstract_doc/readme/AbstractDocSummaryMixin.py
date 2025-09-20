@@ -32,6 +32,7 @@ class AbstractDocSummaryMixin:
         url_data = cls.get_remote_data_url_for_class()
         latest_doc_d = latest_doc.to_dict()
         langs = set([doc.lang for doc in doc_list])
+        year_to_lang_to_n = cls.get_year_to_lang_to_n()
 
         return dict(
             doc_class_label=doc_class_label,
@@ -48,6 +49,7 @@ class AbstractDocSummaryMixin:
             url_data=url_data,
             langs=list(langs),
             latest_doc_d=latest_doc_d,
+            year_to_lang_to_n=year_to_lang_to_n,
         )
 
     @classmethod

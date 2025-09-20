@@ -17,18 +17,17 @@ class AbstractDocChartDocsByYearMixin:
 
     @classmethod
     def get_chart_image_name(cls) -> str:
-        return "docs_by_year.png"
+        return "docs_by_year_and_lang.png"
 
     @classmethod
     def get_chart_image_path(cls) -> str:
-        # E.g. ../lk_acts_data/data/lk_acts/docs_by_year.png
+        # E.g. ../lk_acts_data/data/lk_acts/docs_by_year_and_lang.png
         return os.path.join(
             cls.get_dir_docs_for_cls(), cls.get_chart_image_name()
         )
 
     @classmethod
-    def build_chart(cls):
-        year_to_lang_to_n = cls.get_year_to_lang_to_n()
+    def build_chart_by_year_and_lang(cls, year_to_lang_to_n):
 
         years = sorted(year_to_lang_to_n.keys())
         langs = sorted(
