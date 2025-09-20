@@ -1,0 +1,53 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 6, 1 : 10, 1 : 11, 1 : 12, 1 : 121, 1 : 122 and 1 : 123 of Block 10, contained in the Cadastral Map No. 710064, situated in the Village of Bimmalamulla within the Grama Niladhari Division of No. 7A - Dambana in the Divisional Secretary's Division of Mahiyanganaya, in the District of Badulla, in the Province of Uva, referred to in Notice No. 71/0185 calling for claims to land parcels which was duly published in the Gazette No. 2359/46 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 03rd February, 2025
+
+අංක 2429/59 - 2025 මාර්තු මස 28 වැනි සිකුරාදා - 2025.03.28
+
+No. 2429/59 – FRIDAY, MARCH 28, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044082 - 04 (03/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.28 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 28.03.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:6 0.0076 The State Full 1st Class _ Land reserved for the road 1:10 0.0940 The State Full 1st Class _ Weddaweldeniya streamlet 1:11 0.0354 The State Full 1st Class _ Land reserved for the road 1:12 0.2843 The State Full 1st Class _ Land reserved along the Weddaweldeniya streamlet 1:121 0.0451 The State Full 1st Class _ Weddaweldeniya streamlet 1:122 0.0542 The State Full 1st Class _ Weddaweldeniya streamlet (cancel) 1:123 0.0897 The State Full 1st Class _ Open waste land EOG 03 - 0276/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 2, 1 : 3, 1 : 4, 1 : 5, 1 : 7, 1 : 10, 1 : 11, 1 : 12, 1 : 13, 1 : 14, 1 : 15, 1 : 16, 1 : 18, 1 : 19, 1 : 20, 1 : 21, 1 : 22, 1 : 24, 1 : 25, 1 : 26, 1 : 27, 1 : 28, 1 : 29, 1 : 30, 1 : 32, 1 : 34, 1 : 35, 1 : 36, 1 : 38, 1 : 40, 1 : 43, 1 : 44, 1 : 45, 1 : 46, 1 : 47, 1 : 48, 1 : 50, 1 : 51, 1 : 52, 1 : 53, 1 : 54, 1 : 55, 1 : 56, 1 : 57, 1 : 58, 1 : 60, 1 : 62, 1 : 65, 1 : 67, 1 : 69, 1 : 71, 1 : 72, 1 : 73, 1 : 74, 1 : 78, 1 : 79, 1 : 80, 1 : 81, 1 : 82, 1 : 83, 1 : 84, 1 : 85, 1 : 86, 1 : 87, 1 : 88, 1 : 89, 1 : 91, 1 : 93, 1 : 95, 1 : 96, 1 : 97, 1 : 99, 1 : 100, 1 : 101, 1 : 102, 1 : 103, 1 : 105, 1 : 106, 1 : 109, 1 : 110 and 1 : 111 of Block 6, contained in the Cadastral Map No. 710068, situated in the Village of Haddattawa within the Grama Niladhari Division of No. 2 A Haddattawa in the Divisional Secretary's Division of Mahiyanganaya, in the District of Badulla, in the Province of Uva, referred to in Notice No. 71/0189 calling for claims to land parcels which was duly published in the Gazette No. 2388/36 of 15th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 03rd February, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:1 0.2204 The State Full 1st Class _ Road 1:2 0.0669 The State Full 1st Class _ Land reserved for the road 1:3 0.0900 The State Full 1st Class _ Aluththarama Oya
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.28 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 28.03.2025
+
+SCHEDULE (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:4 0.1088 The State Full 1st Class _ Land reserved along the Aluththarama Oya 1:5 0.2789 The State Full 1st Class _ _ 1:7 0.1591 The State Full 1st Class _ Land reserved along the streamlet 1:10 0.0769 The State Full 1st Class _ _ 1:11 0.0256 The State Full 1st Class _ Land reserved along the canal 1:12 0.0109 The State Full 1st Class _ Canal 1:13 0.0086 The State Full 1st Class _ Access road 1:14 0.0022 The State Full 1st Class _ Land reserved along the canal 1:15 0.0123 The State Full 1st Class _ Drain 1:16 0.0427 The State Full 1st Class _ Access road 1:18 0.3511 The State Full 1st Class _ _ 1:19 0.0281 The State Full 1st Class _ Land reserved along the water way 1:20 0.0864 The State Full 1st Class _ Water way 1:21 0.1682 The State Full 1st Class _ Land reserved along the water way 1:22 0.1626 The State Full 1st Class _ _ 1:24 0.0750 The State Full 1st Class _ Land reserved along the streamlet 1:25 0.0236 The State Full 1st Class _ Canal 1:26 0.0917 The State Full 1st Class _ Road 1:27 0.0333 The State Full 1st Class _ Land reserved along the road 1:28 0.0202 The State Full 1st Class _ Canal 1:29 0.0016 The State Full 1st Class _ Canal 1:30 0.0315 The State Full 1st Class _ Land reserved along for canal and road 1:32 0.3445 The State Full 1st Class _ _ 1:34 0.2169 The State Full 1st Class _ _ 1:35 0.0103 The State Full 1st Class _ Drain 1:36 0.0332 The State Full 1st Class _ Access road 1:38 0.1255 The State Full 1st Class _ Land reserved along the waterway 1:40 0.3318 The State Full 1st Class _ _ 1:43 0.0391 The State Full 1st Class _ Land reserved along the canal 1:44 0.0649 The State Full 1st Class _ Canal 1:45 0.1015 The State Full 1st Class _ Land reserved along the canal 1:46 0.0100 The State Full 1st Class _ Land reserved along the canal 1:47 0.1101 The State Full 1st Class _ Land reserved for the road 1:48 0.1115 The State Full 1st Class _ _ 1:50 0.0981 The State Full 1st Class _ _ 1:51 0.0145 The State Full 1st Class _ Access road 1:52 0.0333 The State Full 1st Class _ Access road 1:53 0.0126 The State Full 1st Class _ Access road 1:54 0.0026 The State Full 1st Class _ Drain
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.28 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 28.03.2025
+
+SCHEDULE (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:55 0.0066 The State Full 1st Class _ Land reserved along the canal 1:56 0.1940 The State Full 1st Class _ _ 1:57 0.0045 The State Full 1st Class _ Drain 1:58 0.0197 The State Full 1st Class _ Land reserved along the canal 1:60 0.0169 The State Full 1st Class _ Access road 1:62 0.0225 The State Full 1st Class _ Access road 1:65 0.4075 The State Full 1st Class _ _ 1:67 0.0221 The State Full 1st Class _ Access road 1:69 0.0201 The State Full 1st Class _ Land reserved for the road 1:71 0.0080 The State Full 1st Class _ Drain 1:72 0.0229 The State Full 1st Class _ Land reserved for the road 1:73 0.0543 The State Full 1st Class _ Road 1:74 0.0274 The State Full 1st Class _ Canal 1:78 0.0901 The State Full 1st Class _ _ 1:79 0.0076 The State Full 1st Class _ Land reserved along the water way 1:80 0.0048 The State Full 1st Class _ Water way 1:81 0.0113 The State Full 1st Class _ Land reserved along the water way 1:82 0.0064 The State Full 1st Class _ Land reserved along the water way 1:83 0.0444 The State Full 1st Class _ _ 1:84 0.0212 The State Full 1st Class _ Water way 1:85 0.0424 The State Full 1st Class _ Land reserved along the water way 1:86 0.0414 The State Full 1st Class _ Land reserved along the water way 1:87 0.0062 The State Full 1st Class _ Drain 1:88 0.0230 The State Full 1st Class _ _ 1:89 0.0227 The State Full 1st Class _ Access road 1:91 0.0225 The State Full 1st Class _ Access road 1:93 0.0325 The State Full 1st Class _ Land reserved for the road 1:95 0.2510 The State Full 1st Class _ _ 1:96 0.0400 The State Full 1st Class _ Land reserved along the canal 1:97 0.3610 The State Full 1st Class _ _ 1:99 0.0619 The State Full 1st Class _ Land reserved along the canal 1:100 0.0173 The State Full 1st Class _ Canal 1:101 0.0276 The State Full 1st Class _ Land reserved along the canal and road 1:102 0.0063 The State Full 1st Class _ Drain 1:103 0.1267 The State Full 1st Class _ – 1:105 0.0196 The State Full 1st Class _ Access road 1:106 0.0051 The State Full 1st Class _ Drain 1:109 0.0177 The State Full 1st Class _ Access road
+
+5 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.28 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 28.03.2025
+
+SCHEDULE (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:110 0.0577 The State Full 1st Class _ Land reserved along the canal and for road 1:111 0.0839 The State Full 1st Class _ Road EOG 03 - 0276/2
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
