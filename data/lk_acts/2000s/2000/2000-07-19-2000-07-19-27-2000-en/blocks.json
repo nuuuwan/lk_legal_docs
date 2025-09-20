@@ -1,0 +1,721 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      78.07,
+      484.06,
+      262.75,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.63,
+      499.66,
+      273.19,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      14.35,
+      516.08,
+      326.46,
+      528.55
+    ],
+    "text": "Price : Rs. 4.50 Postage : Rs. 3.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      126.31,
+      208.06,
+      214.31,
+      218.73
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      35.47,
+      125.14,
+      305.21,
+      185.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      20.35,
+      434.55,
+      319.4,
+      460.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of July 21, 2000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      97.87,
+      372.57,
+      242.87,
+      384.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      126.79,
+      404.98,
+      214.79,
+      415.65
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.07,
+      335.64,
+      233.57,
+      349.49
+    ],
+    "text": "[Certified on 19th July, 2000]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.35,
+      245.06,
+      266.4,
+      281.25
+    ],
+    "text": "STAMP DUTY (AMENDMENT)ACT, No. 27 OF 2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.645511627197266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      126.31,
+      300.46,
+      214.31,
+      311.13
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.75,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "1Stamp Duty (Amendment)Act, No. 27 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.67,
+      56.55,
+      207.99,
+      69.89
+    ],
+    "text": "[Certified on 19th July, 2000]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      75.51,
+      102.23,
+      88.85
+    ],
+    "text": "L.D.\u2014O. 13/2000.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36.07,
+      96.51,
+      256.63,
+      109.85
+    ],
+    "text": "AN ACT TO AMEND THE STAMP DUTY ACT, NO. 43 OF 1982",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      117.51,
+      266.39,
+      142.85
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      150.51,
+      266.53,
+      175.85
+    ],
+    "text": "1.This Act may be cited as the Stamp Duty (Amendment)Act, No. 27 of 2000.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      181.47,
+      266.44,
+      230.81
+    ],
+    "text": "2.Section 5 of the Stamp Duty Act, No. 43 of 1982(hereinafter referred to as \u201cthe principal enactment\u201d) as lastamended by Act No. 25 of 1999 is hereby amended by theaddition, at the end of that section, of the following paragraphs :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      236.55,
+      266.37,
+      261.89
+    ],
+    "text": "\u201c(28)a forward contract between a buyer and a seller,for the sale of agricultural produce ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      267.51,
+      266.38,
+      304.85
+    ],
+    "text": "(29)a bill of exchange or inland bill of exchange drawnin connection with a contract referred to inparagraph (28).\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      310.47,
+      266.35,
+      335.81
+    ],
+    "text": "3.Section 13 of the principal enactment as last amendedby Act No. 29 of 1993 is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      44.71,
+      341.55,
+      266.46,
+      378.89
+    ],
+    "text": "(1) by the repeal of subsection (2) of that section, andthe substitution of the following subsectiontherefor :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.27,
+      382.47,
+      266.56,
+      407.81
+    ],
+    "text": "\u201c(2) Notwithstanding the preceding provisions ofthis section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.87,
+      412.47,
+      266.41,
+      473.81
+    ],
+    "text": "(i) any person making payments to onehundred employees or more in respectof their employment shall collectstamp duty payable on the receipts forsuch payment ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.11,
+      476.55,
+      266.55,
+      525.89
+    ],
+    "text": "(ii) every bank, approved credit agency,institution, company or licensed stockbroker shall collect the stamp dutypayable in respect of every bill of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      311.62,
+      331.42,
+      349.29
+    ],
+    "text": "Amendment ofsection 13 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      182.62,
+      328.79,
+      211.29
+    ],
+    "text": "Amendment ofsection 5 of ActNo. 43 of 1982.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      153.46,
+      312.06,
+      164.13
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      534.72,
+      135.84,
+      546.73
+    ],
+    "text": "2\u2014H 006524\u2014 7,075 (00/03)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      265.32,
+      45.78
+    ],
+    "text": "2Stamp Duty (Amendment)Act, No. 27 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183.65,
+      56.19,
+      333.81,
+      321.41
+    ],
+    "text": "exchange (other than a cheque),promissory note, trust receipt, letter oftrust or declaration of trust taken by it,every pledge in respect of corporealmovables made to it, every applicationmade to it for a letter of credit (otherthan an application in respect of whicha letter of credit is opened on or afterApril 1, 2000, solely for the purposeof import of goods into Sri Lanka fromanother country including imports onentrepot terms) every certificate ofdeposit issued by it, any one of thedocuments of payment presented to itin respect of any corporeal movable(being any corporeal movable inrespect of which a letter of credit hasnot been opened with it), sharecertificate issued by it, and theinstrument effecting a transfer ofshares in a quoted public companyeffected by him or it ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.65,
+      332.07,
+      333.68,
+      405.41
+    ],
+    "text": "(iii) The Director - General of Customsshall collect stamp duty on everyinvoice presented to him for thepurpose of import of goods into SriLanka including imports made onentrepot terms,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159.65,
+      416.07,
+      333.79,
+      525.41
+    ],
+    "text": "and shall, in every such case, unlessotherwise directed, remit to theCommissioner-General quarterly, withinfifteen days of the end of each quarter endingon March 31, June 30, September 30 andDecember 31 of every year, the sums payableas stamp duty during each preceding quarter,together with a certified statement ofcollection.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.75,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "3Stamp Duty (Amendment)Act, No. 27 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.71,
+      56.55,
+      266.52,
+      81.53
+    ],
+    "text": "(2) by the repeal of subsection (4) of that section, and thesubstitution, of the following subsection therefor :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.27,
+      91.71,
+      266.65,
+      468.41
+    ],
+    "text": "\u201c(4) Where the payment of the stamp duty withwhich every bill of exchange (other than acheque) promissory note, trust receipt, letterof trust, declaration of trust, pledge in respectof corporeal movables, application made for aletter of credit, an invoice presented to theDirector- General of Customs for the purposeof import of goods, certificate of deposit, anyone of the documents of payment presentedto it in respect of any corporeal movable(being any corporeal movable in respect ofwhich a letter of credit has not been openedwith it), share certificate or instrumenteffecting a transfer of shares in a quoted publiccompany has been compounded or collectedand remitted, as the case may be, in accordancewith this section, the bank, the approved creditagency, institution, company, licensed stockbroker or the Director-General of Customs, asthe case may be, shall certify on such bill ofexchange (other than a cheque), promissorynote, trust receipt, letter of trust, declarationof trust, pledge in respect of corporealmovable, application made for a letter of credit,invoice for the import of goods, certificate ofdeposit, document of payment, sharecertificate or instrument effecting transfer ofshares in a quoted public company, as the casemay be, that the stamp duty payable on it hasbeen compounded or collected and remitted,as the case may be. Such certificate shall besubstantially in the following form :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.35,
+      478.71,
+      266.28,
+      526.85
+    ],
+    "text": "\u201cIt is hereby certified that the stamp dutypayable in respect of this instrument, namely,Rs. \u2026\u2026\u2026\u2026 has been compounded in termsof section 13 of the Stamp Duty Act.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      265.32,
+      45.78
+    ],
+    "text": "4Stamp Duty (Amendment)Act, No. 27 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      56.55,
+      333.87,
+      177.89
+    ],
+    "text": "4.The provisions of this Act shall be deemed to havecome into force on April 1, 2000, and accordingly, where thestamp duty payable on an invoice for the import of goods hasbeen compounded by the Director-General of Customs, inaccordance with the provisions of section 13 of the principalenactment as amended by section 3 of this Act, at any timeduring the period commencing on April 1, 2000 and endingon the date on which this Act is certified as an Act ofParliament, such compounding shall be deemed to have been,and to be, validly made.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      188.55,
+      333.73,
+      213.89
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      59.02,
+      65.24,
+      79.29
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      191.02,
+      76.1,
+      220.89
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.75,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "5Stamp Duty (Amendment)Act, No. 27 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      25.39,
+      496.18,
+      337.35,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
