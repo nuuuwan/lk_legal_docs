@@ -1,0 +1,1810 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.37,
+      433.77,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.57,
+      237.75,
+      368.02,
+      251.36
+    ],
+    "text": "Part II of October 16, 2015",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.55,
+      341.85,
+      280.16
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 19. 10. 2015)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.29,
+      432.03,
+      448.25,
+      445.64
+    ],
+    "text": "RAVICHANDRA FOUNDATION (INCORPORATION)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      503.93,
+      303.71,
+      515.27
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      527.93,
+      311.85,
+      539.27
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.21,
+      548.93,
+      392.48,
+      560.27
+    ],
+    "text": "to incorporate the Ravichandra Foundation",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.29,
+      585.89,
+      442.38,
+      609.23
+    ],
+    "text": "To be presented in Parliament by Hon. J. M. Ananda Kumarasiri, M.P. for Monaragala District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      639.55,
+      402.81,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      658.97,
+      455.73,
+      670.31
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      469.49,
+      347.49,
+      480.83
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "1Ravichandra Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.29,
+      293.93,
+      156.29,
+      305.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      371.93,
+      155.73,
+      383.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      475.49,
+      155.01,
+      486.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      541.49,
+      155.01,
+      552.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      618.41,
+      155.01,
+      629.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      244.03,
+      443.14,
+      253.1
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      439.63,
+      444.58,
+      448.7
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.49,
+      216.05,
+      381.2,
+      227.39
+    ],
+    "text": "AN ACT TO INCORPORATE THE RAVICHANDRA FOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      242.09,
+      401.89,
+      305.39
+    ],
+    "text": "WHEREAS an Association called and known as the\u201cRavichandra Foundation\u201d has heretofore been formed inColombo for the purpose of effectually carrying out andtransacting the objects and matters connected with the saidAssociation according to the rules agreed to by its members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      320.09,
+      401.89,
+      383.39
+    ],
+    "text": "AND WHEREAS the said Ravichandra Foundation hasheretofore successfully carried out and transacted the severalobjects and matters for which it was established and hasapplied to be incorporated and it will be for the publicadvantage to grant the said application:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      398.09,
+      401.89,
+      422.39
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      437.09,
+      401.74,
+      461.39
+    ],
+    "text": "1.This Act may be cited as the Ravichandra Foundation(Incorporation) Act, No. of 2015.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      476.09,
+      401.93,
+      591.47
+    ],
+    "text": "2.From and after the date of commencement of thisAct, such and so many persons as now are members of the\u201cRavichandra Foundation\u201d or shall hereafter be admitted asmembers of the Corporation hereby constituted, shall be abody corporate with perpetual succession, under the nameand style of the \u201cRavichandra Foundation\u201d (hereinafterreferred to as \u201cthe Corporation\u201d) and by that name may sue,and be sued in all courts, with full power and authority tohave and use a common seal and alter the same at its pleasure.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      606.05,
+      401.87,
+      630.47
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      645.05,
+      401.89,
+      669.47
+    ],
+    "text": "(a)to assist the relevant authorities in promoting andnurturing our national heritage and unique cultures;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      476.11,
+      455.86,
+      513.98
+    ],
+    "text": "Incorporationof theRavichandraFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      607.15,
+      455.14,
+      635.42
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      190.31
+    ],
+    "text": "Ravichandra Foundation(Incorporation)2",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.87,
+      272.93,
+      150.87,
+      284.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      343.97,
+      150.31,
+      355.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      414.41,
+      150.31,
+      425.75
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      495.89,
+      150.31,
+      507.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.95,
+      578.45,
+      151.39,
+      589.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      215.57,
+      397.19,
+      262.43
+    ],
+    "text": "(b)to assist the relevant authorities that promotecreation and protection of innovative products byfurthering 3.(a) above and in generating of selfemployment;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      274.49,
+      397.21,
+      320.99
+    ],
+    "text": "(c)to assist the relevant authorities to create businessopportunities to market products that protect andpromote our culture, secure a reasonable price fortheir products and protect their professions;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      333.05,
+      397.2,
+      367.79
+    ],
+    "text": "(d)to assist the relevant authorities to protect nationalarts and culture for posterity and creating businessopportunities for the sale of such products;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      379.85,
+      397.19,
+      426.23
+    ],
+    "text": "(e)to promote economic development by assisting therelevant authorities to implement agriculturalprojects such as promotion of usage of organicfertilizer;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      438.29,
+      397.2,
+      461.39
+    ],
+    "text": "(f)to assist the relevant authorities in providing reliefto those affected by natural disasters;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      473.45,
+      397.19,
+      519.83
+    ],
+    "text": "(g)to assist the relevant authorities in the private,public and NGO sector to uplift educational, healthand economic standards of the underprivilegedpersons in the nation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      531.89,
+      397.18,
+      554.99
+    ],
+    "text": "(h)to assist the relevant authorities to provide financialand other assistance to underprivileged students;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      567.05,
+      397.18,
+      613.43
+    ],
+    "text": "(i)to assist the relevant authorities to establish and ormaintain vocational/technical educationalinstitutes for underprivileged students and assistthem to complete the courses;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      625.49,
+      397.19,
+      671.99
+    ],
+    "text": "(j)to assist the relevant authorities to establish andmaintain organizations that foster love and provideprotection and covering to handicapped anddestitute children;30",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "3Ravichandra Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.21,
+      269.93,
+      152.21,
+      281.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      337.97,
+      155.01,
+      349.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      415.49,
+      155.01,
+      426.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      482.45,
+      155.01,
+      493.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      552.89,
+      155.01,
+      564.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      214.73,
+      401.9,
+      237.59
+    ],
+    "text": "(k)to assist the relevant authorities that promote aclean environment for a healthy lifestyle;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      247.85,
+      401.89,
+      305.15
+    ],
+    "text": "(l)to assist the relevant authorities to promotesustainable development in the country byproviding assistance and opportunities to the underprivileged and unemployed persons secureemployment and uplift their standards of living;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.13,
+      315.29,
+      401.9,
+      349.67
+    ],
+    "text": "(m)to assist the relevant authorities to organize freemedical camps and clinics and distribution of freemedicine to the needy and underprivileged persons;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      359.81,
+      401.89,
+      405.59
+    ],
+    "text": "(n)to assist the relevant authorities which collaboratewith foreign parties and organizations for theprovisions of assistance for underprivileged personsof Sri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      415.73,
+      401.94,
+      473.15
+    ],
+    "text": "(o)to promote, arrange and organize exhibitions,lectures, discussions, workshops, panel discussionand other similar activities and to print, publish anddistribute books, journals, bulletins etc. with a viewto promoting the objectives of the Corporatoin; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      483.29,
+      401.87,
+      506.15
+    ],
+    "text": "(p)to do all such other acts as may be necessary for thecarrying out of all or any of the aforesaid objects.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      518.33,
+      401.93,
+      669.59
+    ],
+    "text": "4.Subject to the provisions of this Act and any otherwritten law the Corporation shall have the power to do,perform and execute all such acts, matters and thingswhatsoever, as are necessary or desirable for the promotionor furtherance of the objects of the Corporation or any oneof them, including the power to acquire and hold propertymovable or immovable, to open, operate and close bankaccounts to borrow or raise money with or without securityto receive or collect grants, donations, to invest its funds, toerect any building or structures on any land held by theCorporation and to engage employ dismiss officers andservants required for the carrying out of the objects of theCorporation.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      609.89,
+      155.01,
+      621.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      519.31,
+      455.85,
+      547.58
+    ],
+    "text": "Generalpowers of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      190.31
+    ],
+    "text": "Ravichandra Foundation(Incorporation)4",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.71,
+      264.89,
+      151.71,
+      276.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      338.93,
+      150.31,
+      350.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      412.49,
+      150.31,
+      423.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.95,
+      475.97,
+      151.39,
+      487.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      562.97,
+      150.31,
+      574.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      648.41,
+      150.31,
+      659.75
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      215.21,
+      397.19,
+      300.95
+    ],
+    "text": "5.(1) The affairs of the Corporation shall, subject toother provisions of this Act and the rules in force for the timebeing of the Corporation, be administered by a Board ofDirectors (hereinafter referred to as the \u201cBoard\u201d) consistingof a Chairman, Vice Chairman, Managing Director, Secretaryand Treasurer and a maximum of seven other Directorselected in accordance with the rules of the Corporation.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      314.45,
+      397.2,
+      387.71
+    ],
+    "text": "(2) The first Board of Directors of the Corporation shallconsist of the members of the Board of the Associationholding office on the day immediately preceding the date ofcommencement of this Act. Such Board shall hold officeuntil a Board of Directors is elected in accordance with therules of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      401.21,
+      397.26,
+      486.95
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation from timeto time, at any general meeting and by a majority of votes ofnot less than two-thirds of the members present, to makerules not inconsistent with the provisions of this Act, or anyother written law, for all or any of the following matters andany matter in relation to the management of the affairs of theCorporation and accomplishment of its objects:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      500.33,
+      397.16,
+      536.51
+    ],
+    "text": "(a)the classification of members and membership fees,their admission, withdrawal, or expulsion frommembership;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      550.01,
+      397.17,
+      573.71
+    ],
+    "text": "(b)the election of the members to the Board of Directorsand their powers and duties;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      587.21,
+      397.18,
+      623.27
+    ],
+    "text": "(c)the election of office bearers, their term of office,resignation from, vacation of or removal from officeand their powers and duties;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      636.77,
+      397.19,
+      672.95
+    ],
+    "text": "(d)the procedure to be followed in the summoningand holding of meetings of the Council, the quorumtherefore and the conduct of business thereat;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      402.31,
+      448.15,
+      423.38
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      216.19,
+      448.88,
+      254.06
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "5Ravichandra Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150.57,
+      274.97,
+      155.57,
+      286.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      358.97,
+      155.01,
+      370.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      430.97,
+      155.01,
+      442.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      503.45,
+      155.01,
+      514.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      646.97,
+      155.01,
+      658.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.29,
+      215.21,
+      401.9,
+      238.67
+    ],
+    "text": "(e)the administration and management of the propertyof the Corporation, including funds;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      251.33,
+      401.89,
+      286.67
+    ],
+    "text": "(2) Any rule made by the Corporation may be altered,added to, amended or rescinded at a like meeting and in likemanner as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      299.33,
+      401.92,
+      322.67
+    ],
+    "text": "(3) The members of the Corporation shall be subject torules of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      335.33,
+      401.9,
+      406.67
+    ],
+    "text": "7.(1) The Corporation shall have its own fund and allmoneys heretofore or hereafter to be received by way of gifts,bequests, donations, subscription, testamentary dispositions,fees, grants for donations or contributions in cash or kindfrom local or foreign institutions and individuals, membersand non-members.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      419.33,
+      401.88,
+      454.67
+    ],
+    "text": "(2) All monies received shall be deposited in the name ofthe Corporation in one or more banks and be invested in anysuitable manner as the Board shall determine.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      467.33,
+      401.88,
+      514.67
+    ],
+    "text": "(3) All expenditure incurred by the Corporation in theexercise, performances and dischage of its powers, dutiesand functions of the Corporation shall be paid out of theFunds of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      527.33,
+      401.9,
+      598.67
+    ],
+    "text": "8.All debts and liabilities of the Association existingon the day preceding the date of commencement of this Act,shall be paid by the Corporation hereby constituted and alldebts due to subscription and contribution payable to theAssociation on that day shall be paid to the Corporation forthe purpose of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      611.33,
+      401.89,
+      670.67
+    ],
+    "text": "9.No member of the Corporation shall for the purposedischarging the debts and liabilities of the Corporationor for any other purpose be liable to make any contributionexceeding the amount due from such member asmembership fees.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      335.95,
+      452.85,
+      354.62
+    ],
+    "text": "Funds of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      612.95,
+      455.86,
+      645.81
+    ],
+    "text": "Limitation ofliabilities ofmembers.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      528.67,
+      454.29,
+      556.94
+    ],
+    "text": "Debts due byand payableto the fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.41,
+      574.73,
+      155.85,
+      586.07
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      329.36,
+      190.31
+    ],
+    "text": "Ravichandra Foundation(Incorporation)6",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145.51,
+      261.77,
+      150.51,
+      273.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      319.97,
+      150.31,
+      331.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.75,
+      392.69,
+      150.19,
+      404.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.95,
+      464.93,
+      151.39,
+      476.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      214.85,
+      397.23,
+      332.51
+    ],
+    "text": "10.The Corporation shall be able and capable in law toacquire and hold any property, movable or immovable whichmay become vested in it by virtue of any purchase, grant,gift, testamentary disposition, trust or otherwise and all suchproperty shall be held by the Corporation for the purpose ofthis Act, and subject to the rules in force for the time beingof the Corporation, with full power to sell, mortgage, lease,exchange or otherwise dispose of the same, and in the caseof a trust, the Corporation shall deal with it in the mannerprovided for by the trust.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      345.17,
+      397.2,
+      428.51
+    ],
+    "text": "11.The Seal of the Corporation shall not be fixed toany instrument whatsoever, except in the presence of suchnumber of persons as may be provided for in the rules inforce for the time being of the Corporation, who shall signtheir names to the instrument in token of their presence, andsuch signing shall be independent of the signing of anyperson as witness.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      441.17,
+      397.18,
+      488.51
+    ],
+    "text": "12.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic orcorporate, or of any other persons, except such as mentionedin this Act and those claiming by, from or under them.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      501.17,
+      397.18,
+      536.51
+    ],
+    "text": "13.In the event of any inconsistency between theSinhala and the Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      501.79,
+      451.16,
+      539.66
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      441.31,
+      450.43,
+      479.18
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      345.91,
+      448.15,
+      364.58
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      215.11,
+      448.88,
+      262.58
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      229.77,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "7Ravichandra Foundation(Incorporation)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

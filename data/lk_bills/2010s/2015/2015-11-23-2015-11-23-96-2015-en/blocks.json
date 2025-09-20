@@ -1,0 +1,1696 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.37,
+      433.77,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.57,
+      237.75,
+      374.02,
+      251.36
+    ],
+    "text": "Part II of November 20, 2015",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.55,
+      341.85,
+      280.16
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 23. 11. 2015)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      163.05,
+      432.03,
+      436.75,
+      460.04
+    ],
+    "text": "SEYYED SHEIKH KOYA THANGAL MOWLANAFOUNDATION (INCORPORATION)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      503.93,
+      303.71,
+      515.27
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      527.93,
+      311.85,
+      539.27
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.77,
+      558.41,
+      448.03,
+      569.75
+    ],
+    "text": "to incorporate the Seyyed Sheikh Koya Thangal Mowlana Foundation",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.05,
+      585.89,
+      430.79,
+      609.23
+    ],
+    "text": "To be presented in Parliament by Hon. Ali Zahir Moulana SeyedM. P. for Batticaloa District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      639.55,
+      402.81,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      658.97,
+      455.73,
+      670.31
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      475.97,
+      347.46,
+      487.31
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.53,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "1Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      240.55,
+      442.29,
+      249.62
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      459.19,
+      443.86,
+      468.26
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.57,
+      294.41,
+      152.57,
+      305.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      379.97,
+      154.29,
+      391.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      469.49,
+      155.01,
+      480.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      552.89,
+      155.01,
+      564.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      623.69,
+      155.01,
+      635.03
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.21,
+      203.33,
+      389.49,
+      227.27
+    ],
+    "text": "AN ACT TO INCORPORATE THE SEYYED SHEIKH KOYA THANGALMOWLANA FOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      241.61,
+      401.9,
+      319.43
+    ],
+    "text": "WHEREAS an Foundation called and known as the \"SeyyedSheikh Koya Thangal Mowlana Foundation\" has heretoforebeen formed in Sri Lanka for the purpose of effectuallycarrying out its objects and transacting all matters connectedwith the said Foundation according to the rules agreed to byits members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      334.97,
+      401.9,
+      405.11
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was established, and has applied tobe incorporated and it will be expedient to grant the saidapplication:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      419.69,
+      401.91,
+      443.63
+    ],
+    "text": "BE it therefore, enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      457.49,
+      401.87,
+      494.03
+    ],
+    "text": "1.This Act may be cited as the Seyyed Sheikh KoyaThangal Mowlana Foundation (Incorporation) Act, No. of2015.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      508.85,
+      401.93,
+      662.27
+    ],
+    "text": "2.From and after the date of commencement of thisAct, such and so many persons as now are members of the\u201cSeyyed Sheikh Koya Thangal Mowlana Foundation\u201d(hereinafter referred to as the \u201cFoundation\u201d) or shall hereafterbe admitted as members of the Corporation herebyconstituted, shall be a body corporate with perpetualsuccession, under the name and style of the \"Seyyed SheikhKoya Thangal Mowlana Foundation\" (hereinafter referredto as the \"Corporation\") and by that name may sue and besued with full power and authority to have and use a commonseal and to alter the same at its pleasure.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      511.15,
+      455.86,
+      577.82
+    ],
+    "text": "Incorporationof theSeyyedSheikh KoyaThangalMowlanaFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      384.1,
+      190.31
+    ],
+    "text": "2Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.87,
+      274.49,
+      147.87,
+      285.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      352.97,
+      150.31,
+      364.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      418.97,
+      149.71,
+      430.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      490.49,
+      149.71,
+      501.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      573.89,
+      149.71,
+      585.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      219.05,
+      397.17,
+      243.95
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      249.41,
+      397.18,
+      284.75
+    ],
+    "text": "(a)to promote peace, goodwill, understanding andCooperation among all communities and people ofSri Lanka;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      294.41,
+      397.16,
+      317.75
+    ],
+    "text": "(b)to establish thakkiyas, Arabic TheologicalColleges and Orphanages for boys;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      327.41,
+      397.19,
+      410.75
+    ],
+    "text": "(c)to manage and run the institutions that are alreadyin existence such as Kattankudy MuhiyaddeenThakkiya, Kankeyanodai, Muhiyadeen Thakkiya(in Batticaloa District) Masjidur Riffaiyyi andArabic Theological College and Muslim Orpangethere is known as Madrasathul and Muslim Orpangein Kandy District;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      420.41,
+      397.19,
+      467.75
+    ],
+    "text": "(d)to Manage the establishments and Institutions thathave been founded by Seyyed Sheikh Koya Thangalthe Predecessor of present Spiritual leader SeyyedMohamed Buhary Nalla Koya Thangal;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      477.41,
+      397.19,
+      500.75
+    ],
+    "text": "(e)to promote the true creed of Islam as per SunnathulJamaath Doctrines;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      513.41,
+      397.2,
+      548.75
+    ],
+    "text": "(f)to foster the spirit of unity and to promote goodwilland friendship among Muslims and othercommunities;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      561.41,
+      397.19,
+      584.75
+    ],
+    "text": "(g)to organize public Religious Lectures on IslamicSubject;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      597.41,
+      397.17,
+      620.75
+    ],
+    "text": "(h)to work for the Religious and secular Educationalcurricula for the welfare of the Muslims;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      633.41,
+      397.19,
+      669.23
+    ],
+    "text": "(i)to organize Birthday and Anniversary celebrationof Holy Phopher (sal) and Corporatons and Savantsof Islam;30",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      218.83,
+      450.44,
+      247.1
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.53,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "3Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.09,
+      275.69,
+      152.09,
+      287.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      345.89,
+      155.13,
+      357.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      431.93,
+      155.13,
+      443.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      489.89,
+      155.01,
+      501.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      544.97,
+      155.01,
+      556.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      214.97,
+      401.87,
+      250.31
+    ],
+    "text": "(j)to promote social and cultural activities forenriching different and for integrating theSri Lankan communities;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      262.97,
+      401.87,
+      310.31
+    ],
+    "text": "(k)to assist in the development of educational,Religious, cultural, aesthetic and sports facilitieswithout any reference to race, and to conduct variousfestival and competitions;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      322.97,
+      401.88,
+      382.31
+    ],
+    "text": "(l)to provide medical relief and food for the poor,destitute and sick persons, establish and maintainhouses for displaced persons and elders andestablish and maintain Children's homes and daycare centers for children and elders;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.13,
+      394.97,
+      401.87,
+      418.31
+    ],
+    "text": "(m)to liaise and co-ordinate with other local or foreigninstitutions which have similar objects;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      430.73,
+      401.9,
+      582.47
+    ],
+    "text": "4. Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts, matters and things whatso ever as are necessary or desirable for the promotion orfurtherance of the objects of the Corporation or any one ofthem, including the power to acquire and hold propertymovable, or immovable, to open operate and close bankaccounts, to borrow or raise moneys with or without security,to receive or collect grants or donations, to invest its funds,to erect any building or structures on any land held by theCorporation and to engage, employ and dismiss officers andservants required for the carrying out of the objects of theCorporation.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      594.53,
+      401.9,
+      664.43
+    ],
+    "text": "5. (1) The affairs of the Corporation shall, subject tothe other provisions of this Act and the rules in force for thetime being of the Corporation be administered by a Board ofDirectors consisting of Chairman and a Secretary, Treasurerand another eleven members elected in accordance with suchrules.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      616.49,
+      155.01,
+      627.83
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      430.87,
+      452.85,
+      459.14
+    ],
+    "text": "GeneralPower of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      596.35,
+      453.58,
+      634.22
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      384.1,
+      190.31
+    ],
+    "text": "4Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.87,
+      250.97,
+      147.87,
+      262.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      317.93,
+      150.31,
+      329.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      392.93,
+      150.31,
+      404.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      459.89,
+      150.31,
+      471.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      525.89,
+      150.31,
+      537.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      202.73,
+      397.19,
+      272.63
+    ],
+    "text": "(2)The founder member of the Foundation, HolinessMohamed Seyyad Buhary Nalla Koya Thangalshall he the Chairman of the Board of Directors forlife and thereafter, the family succsessors to himshall become the next Chairman of the Board ofDirectors;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      280.13,
+      397.18,
+      339.47
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation, from timeto time, at any General Meeting and by a majority of notless than two-thirds of the members present and voting tomake rules, not inconsistent with the provisions of this Actor other written law for all or any of the following matters:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      347.09,
+      397.18,
+      382.43
+    ],
+    "text": "(a)the classification of membership and the admission,subscription and fees payable, expulsion orresignation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      390.17,
+      397.19,
+      437.51
+    ],
+    "text": "(b)the term of office of the Board of Governors theresignation or removal from officer of suchmembers, the filling of vacancies and election ofsuch members;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      445.13,
+      397.18,
+      492.47
+    ],
+    "text": "(c)the procedure to be followed at the meetings of theBoard, Annual General Meetings, the summoningand the quorum of such meetings and conduct ofthe business thereat;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      500.09,
+      397.18,
+      535.43
+    ],
+    "text": "(d)the powers, conduct duties and functions of variousofficers, agents and servants of the Corporationincluding their terms and conditions of service;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      548.09,
+      397.17,
+      583.43
+    ],
+    "text": "(e)the administration and management of assets,properties of the Foundation and custody of funds;and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.15,
+      596.09,
+      397.16,
+      619.43
+    ],
+    "text": "(f)such other things as may be necessary for theattainment of the object of the Foundation.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      632.09,
+      397.19,
+      655.43
+    ],
+    "text": "(2) Any rule made by the Foundation may be amended,or rescinded in like manner, as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      281.95,
+      448.15,
+      300.62
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      608.93,
+      150.31,
+      620.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175.53,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "5Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      263.93,
+      152.21,
+      275.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      332.93,
+      155.01,
+      344.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      418.49,
+      155.01,
+      429.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      491.45,
+      155.01,
+      502.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      553.97,
+      155.01,
+      565.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      202.97,
+      401.85,
+      226.31
+    ],
+    "text": "(3) All members of the Foundation shall be subject tothe rules in force for the time being of the Foundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      238.49,
+      401.87,
+      296.63
+    ],
+    "text": "7.(1) The Corporation shall have tis own fund andmoneys received by the Fund of the way of testamentarydispositions, transfers, donations shall be deposited in thename of the Corporation in one or more banks as the LifePatrons shall determine.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      308.69,
+      401.87,
+      343.43
+    ],
+    "text": "(2) All expenses borne by the Corporation in the exerciseand discharge of power and functions of the Corporationshall be paid out from the fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      355.49,
+      401.91,
+      390.23
+    ],
+    "text": "8.(1) The Board of Directors of the Corporation shallcause proper account to be kept of all moneys received andexpended by the Corporation.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      402.41,
+      401.86,
+      439.43
+    ],
+    "text": "(2) The accounts of the Corporation shall be examinedand audited at least once in every year by an auditor orauditors appointed by the Board of Directors.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      453.17,
+      401.9,
+      564.47
+    ],
+    "text": "9.The Corporation shall be able and capable in law toacquire and hold any property, movable and immovablewhich may become vested in it by virtue of purchase hold,grants, gift, testamentary disposition immovable or otherwiseand such property shall be held by the Corporaton for thepurposes of this Act and subject to the rules in immovableforce for the time being of the Corporation and it shall havethe full power to sell, mortgage, lease, exchange or otherwisedispose of the same at the discretion of the Board of Directors.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      578.33,
+      401.9,
+      656.63
+    ],
+    "text": "10.The seal of the Coporation shall not be affixed toany instrument whatsoever except in the presence of officebearers as may be provided for in the rules of the Corporation,who shall sing their names to the instrument in token oftheir presence and such signing shall be independent of thesigning of any person as a witness.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      582.19,
+      452.85,
+      600.86
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      454.15,
+      453.58,
+      501.62
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      631.97,
+      155.01,
+      643.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      240.43,
+      452.85,
+      259.1
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      355.39,
+      455.85,
+      383.66
+    ],
+    "text": "Audit andaccounts of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      384.1,
+      190.31
+    ],
+    "text": "6Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      204.79,
+      450.43,
+      240.86
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.51,
+      262.97,
+      147.51,
+      274.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      202.97,
+      397.19,
+      250.31
+    ],
+    "text": "11.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic, orcorporate or of any other persons expect such as are mentionedin this Act and those claiming by, from or under them.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      262.61,
+      397.17,
+      297.95
+    ],
+    "text": "12.In the event of any inconsistency between theSinhala and Tamil text of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      264.79,
+      451.16,
+      302.66
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      175.53,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "7Seyyed Sheikh Koya Thangal Mowlana Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

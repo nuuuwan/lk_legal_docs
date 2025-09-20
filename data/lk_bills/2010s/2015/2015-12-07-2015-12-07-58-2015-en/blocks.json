@@ -1,0 +1,2696 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.67,
+      433.77,
+      219.28
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      237.99,
+      373.3,
+      251.27
+    ],
+    "text": "Part II of December 04, 2015",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.79,
+      341.85,
+      280.07
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 07. 12. 2015)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.85,
+      431.43,
+      437.82,
+      459.11
+    ],
+    "text": "DAYA SARANA DEVELOPMENT FOUNDATION (INCORPORATION)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      497.17,
+      303.71,
+      508.24
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      521.17,
+      311.85,
+      532.24
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.29,
+      551.17,
+      420.59,
+      562.24
+    ],
+    "text": "to incorporate the Daya Sarana Development Foundation",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.21,
+      583.09,
+      443.52,
+      606.16
+    ],
+    "text": "To be presented in Parliament by Hon. (Dr.) Mrs. Thusitha WijemannaM. P. for Kegalle District",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.09,
+      639.55,
+      403.65,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      455.73,
+      670.24
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.13,
+      473.17,
+      348.57,
+      484.24
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.97,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "1Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      247.03,
+      442.29,
+      256.1
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      466.63,
+      443.86,
+      475.7
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.57,
+      301.97,
+      152.57,
+      313.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      382.97,
+      154.29,
+      394.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      478.49,
+      154.29,
+      489.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      562.49,
+      154.29,
+      573.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      630.89,
+      155.01,
+      642.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.05,
+      204.17,
+      385.65,
+      229.31
+    ],
+    "text": "AN ACT TO INCORPORATE THE DAYA SARANA DEVELOPMENTFOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      245.57,
+      401.89,
+      325.91
+    ],
+    "text": "WHEREAS a Foundation called and known as the\u201cDaya Sarana Development Foundation\u201d has beenestablished in Sri Lanka for the purpose of effectuallycarrying out and transacting all objects and mattersconnected with the said Foundation according to the rulesagreed to the members:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      342.17,
+      401.89,
+      408.71
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted several objectsand matters for which it was established and has applied tobe incorporated and it will be for the public advantage togrant the application:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      424.97,
+      401.89,
+      450.11
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      466.37,
+      401.85,
+      505.31
+    ],
+    "text": "1.This Act may be cited as the Daya SaranaDevelopment Foundation (Incorporation) Act,No. of 2016.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      521.57,
+      401.93,
+      671.03
+    ],
+    "text": "2.From and after the date of commencement of thisAct, such and so many persons as now are members of theDaya Sarana Development Foundation (hereinafter referredto as \u201cthe Foundation\u201d) or shall hereafter be admitted asnow are members of the Corporation hereby constituted,shall be a body corporate (hereinafter referred to as the\u201cCorporation\u201d) with perpetual succession under the nameand style of the \u201cDaya Sarana Development Foundation\u201d,and by that name may sue and be sued in all courts, with fullpower and authority to have and use a common seal and toalter the same at its pleasure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      523.15,
+      455.86,
+      570.62
+    ],
+    "text": "Incorporationof DayaSaranaDevelopmentFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      358.5,
+      190.24
+    ],
+    "text": "2Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.91,
+      71.07,
+      419.35,
+      84.68
+    ],
+    "text": "PL 007773 Daya Sarana (G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.87,
+      257.93,
+      147.87,
+      269.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      325.49,
+      150.31,
+      336.83
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      401.93,
+      150.31,
+      413.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      470.93,
+      150.31,
+      482.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      537.89,
+      150.31,
+      549.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      605.93,
+      149.71,
+      617.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      202.61,
+      397.17,
+      225.47
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      235.61,
+      397.17,
+      292.91
+    ],
+    "text": "(a)to promote religious harmony, mutualunderstanding, spiritual development , goodwilland friendship among the youth in the area throughreligious , cultural, educational and economicinteraction;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      303.05,
+      397.2,
+      337.43
+    ],
+    "text": "(b)to protect, support and ensure welfare, interests,safety, integrity and status of people in the area andto safeguard their rights and privileges;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      347.57,
+      397.18,
+      381.95
+    ],
+    "text": "(c)to provide for the physical welfare and personaldevelopment of teenagers through youthdevelopment centers including gumasiums;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      392.09,
+      397.19,
+      449.39
+    ],
+    "text": "(d)to provide additional educational support by givingnecessary training in various fields which willenhance their personal qualification levels in orderto meet the competition and necessary requirementsin finding employment;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      459.53,
+      397.19,
+      505.43
+    ],
+    "text": "(e)to hold and conduct periodical technical trainingcamps for the youth to develop their skills with theultimate aim of projecting them towards findingsuitable employment;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      515.57,
+      397.19,
+      561.47
+    ],
+    "text": "(f)to establish carpentry and masonry and any othersuitable vocational training school in central townsand the like with a view to educate and train youthfor a vocation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      571.61,
+      397.2,
+      617.39
+    ],
+    "text": "(g)to establish motor mechanism training centers(Garages) in the area in order to train the youth inmotor vehicle repair trade and arrange periodicallectures conducted by professionals in the trade;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      627.53,
+      397.2,
+      673.55
+    ],
+    "text": "(h)to liaise with the Foreign Employemtn Bureau underthe Central Government to facilitate applicationsfrom eligible youth in the area and recommend themfor suitable foreign job opportunities;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      203.11,
+      450.44,
+      231.38
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.97,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "3Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.09,
+      257.69,
+      152.09,
+      269.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.17,
+      327.77,
+      154.17,
+      339.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      395.93,
+      154.89,
+      407.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.17,
+      463.73,
+      154.17,
+      475.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      543.89,
+      154.89,
+      555.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      202.73,
+      401.89,
+      249.23
+    ],
+    "text": "(i)to conduct evening and week-end classes to upliftthe knowledge and spoken ability of rural youth inthe international language (English) which is anecessity in getting employment;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      259.49,
+      401.88,
+      317.63
+    ],
+    "text": "(j)to set-up an Employment Bank which will collectdata of youth in the area together with theireducational qualifications in order to find suitableemployment in keeping with their educationalstandards, capabilities and experience;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      328.01,
+      401.89,
+      374.51
+    ],
+    "text": "(k)to encourage, advice, aid and assist youthfinancially and otherwise to develop their personalskills for self employment and also find markets forproducts of those self-employed persons;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      384.89,
+      401.92,
+      431.27
+    ],
+    "text": "(l)to undertake feasibility studies in the agricultural,industrual, technical and other allied fields and topromote the general economic and social welfareof the people of the area;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.13,
+      441.65,
+      401.87,
+      476.39
+    ],
+    "text": "(m)to aid and assist youth to commence and operatecottage industries for self employment with a viewto uplift their living standards;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.57,
+      486.77,
+      401.9,
+      521.51
+    ],
+    "text": "(n) to provide agricultural equipment/machinery foryouth to develop and facilitate agricultural andindustrial project in the area.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      533.57,
+      401.89,
+      603.35
+    ],
+    "text": "4.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power includingthe following powers to do, perform and execute all suchacts, matters and things whatsoever as are necessary ordesirable for the promotion or furtherance of the objects ofthe Corporation or any one of them:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.57,
+      615.41,
+      401.89,
+      673.79
+    ],
+    "text": "(a) to procure the Corporation to be registered,incorporated or otherwise empowered or representedor to open liaison offices in any country or placeoutside the Democratic Socialist Republic ofSri Lanka;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      614.93,
+      155.13,
+      626.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      534.67,
+      455.85,
+      562.94
+    ],
+    "text": "GeneralPowers of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      358.5,
+      190.24
+    ],
+    "text": "4Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      282.91,
+      71.07,
+      419.35,
+      84.68
+    ],
+    "text": "PL 007773 Daya Sarana (G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.87,
+      262.73,
+      147.87,
+      274.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      334.97,
+      150.31,
+      346.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      406.25,
+      149.71,
+      417.59
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      478.97,
+      149.71,
+      490.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      562.25,
+      149.71,
+      573.59
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      633.65,
+      150.31,
+      644.99
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      202.97,
+      397.18,
+      238.31
+    ],
+    "text": "(b) to receive or collect grant, gifts, donations, subsidies,endowments and subscriptions whether in cash orin material from donors in Sri Lanka or elsewhere;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176.71,
+      250.97,
+      397.17,
+      298.31
+    ],
+    "text": "(c) to collect necessary funds for the achievement ofthe objectives from well wishers by way ofdonations, variety shows, Non-GovernmentalOrganizations and by other means;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      310.97,
+      397.2,
+      346.31
+    ],
+    "text": "(d) to take responsible, just and legitimate steps toremove obstacles to the attainment of the aboveobjects;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176.71,
+      358.97,
+      397.19,
+      430.31
+    ],
+    "text": "(e) to purchase, take on lease or exchange, hire orotherwise acquire any movable property and anyrights, privileges necessary or expendient forpromotion of the objects of the Corporation and toconstruct, maintain and alter any buildings orerections required for the work of the Corporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178.15,
+      442.97,
+      397.2,
+      502.31
+    ],
+    "text": "(f) to receive, purchase, sell or acquire all forms ofproperties both movable or immovable, shares incommercial, industrial and banking enterprises andto accept property bequeathed by deed, last will orcodicil;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      514.97,
+      397.2,
+      550.31
+    ],
+    "text": "(g) to collaborate with, assist and receive assistance fromother persons and or organizations engaged insimilar activities, whether in Sri Lanka or elsewhere;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      562.97,
+      397.2,
+      622.31
+    ],
+    "text": "(h) to maintain liaison and affiliation with other relatedorganizations and to enter into agreement withpersons or organizations in Sri Lanka or elsewherein pursuance of the vision and objectives of theCorporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178.15,
+      634.97,
+      397.19,
+      670.55
+    ],
+    "text": "(i) to enter in to any contract or agreement with anyperson, government, organization, company orinstitution whether in Sri Lanka or elsewhere;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.97,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "5Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      259.97,
+      152.21,
+      271.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      331.01,
+      155.01,
+      342.35
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      412.49,
+      155.01,
+      423.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      472.25,
+      155.01,
+      483.59
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      554.93,
+      155.01,
+      566.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      623.45,
+      155.01,
+      634.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.85,
+      203.21,
+      401.89,
+      226.43
+    ],
+    "text": "(j) to open and maintain current, saving and depositaccounts with any bank or other similar institutions;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181.29,
+      238.49,
+      401.85,
+      273.23
+    ],
+    "text": "(k) to borrow moneys for the purpose of the Corporationon such terms and conditions and with or withoutsecurity as may be determined from time to time;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      182.85,
+      285.29,
+      401.9,
+      343.43
+    ],
+    "text": "(l) to make, repeal, alter or amend Rules andRegulations defining the manner of managementof the corporation and all necessary-by-laws orordinance for the regulations and conduct of itsaffairs and the various branches of its activities;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.13,
+      355.49,
+      401.9,
+      401.99
+    ],
+    "text": "(m) in general to undertake such other lawful thingsfrom time to time as are incidental or conductiveand shall be deemed necessary for the promotion ofthe ideas and object of the Corporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.57,
+      414.05,
+      401.89,
+      483.83
+    ],
+    "text": "(n) to invest the moneys of the Corporation notimmediately required for its purposes in or uponsuch investments, securities or property as may bethought fit subject nevertheless to such conditionsas may for the time being be imposed or requiredby law;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.57,
+      495.89,
+      401.88,
+      542.39
+    ],
+    "text": "(o) to make, draw, accept, discount, negotiate, buy, selland issue bills of exchange, cheques, promissorynotes and other negotiable or transferableinstruments or securities;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.57,
+      554.45,
+      401.88,
+      589.19
+    ],
+    "text": "(p) to do all such other acts and things as may benecessary incidental or beneficial to fulfill andaccomplish the objects of the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      601.25,
+      401.89,
+      671.03
+    ],
+    "text": "5.(1) The management of the affairs of the Corporationshall be managed by a Committee of Management consistingof number of members not exceeding fifteen. It shall have aPresident, Vice President, administrative Secretary, Treasurerand such Officers and staff to perform such duties as theCorporation may determine.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      602.11,
+      453.58,
+      649.58
+    ],
+    "text": "Managementof theactivities oftheCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      358.5,
+      190.24
+    ],
+    "text": "6Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      282.91,
+      71.07,
+      419.35,
+      84.68
+    ],
+    "text": "PL 007773 Daya Sarana (G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.35,
+      249.29,
+      148.35,
+      260.63
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      317.45,
+      150.31,
+      328.79
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      386.93,
+      150.31,
+      398.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      456.41,
+      150.31,
+      467.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      535.73,
+      150.31,
+      547.07
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      603.17,
+      150.31,
+      614.51
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      202.85,
+      397.23,
+      284.99
+    ],
+    "text": "(2) The Founder Member Mr. Daya Dharmapala KilittuwaGamage, shall be the first President of the Committee ofManagement. Any casual vacancy occurring in theCommittee of Management shall be filled by the Committeeitself subject to ratification by the General Body at its verynext meeting. The quorum for a Committee of Managementshall be one third of the Members of the Committee.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      295.37,
+      397.2,
+      342.11
+    ],
+    "text": "(3) The first Committee of Management of theCorporation shall be the Committee of Management of theFoundation holding office on the day preceding the date ofcommencement of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      352.61,
+      397.19,
+      422.99
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation to make ruleswith regard to the matters listed below for or any of themfrom time to time, at any general meeting of the Corporationand by a majority of not less than two-thirds of the memberspresent and voting to make such rules, as are not inconsistentwith the provisions of this Act or any other written Law:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.87,
+      433.37,
+      397.2,
+      468.35
+    ],
+    "text": "(a)The election, appointment or nomination ofmembers of the Committee of Management and theirpowers and duties and terms of office;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.87,
+      478.73,
+      397.16,
+      513.71
+    ],
+    "text": "(b)The powers conduct of duties and functions ofvarious officers, agents and servants of theCorporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.71,
+      524.21,
+      397.19,
+      582.71
+    ],
+    "text": "(c)The procedure to be observed at the, summoningand holding of meeting of the corporation and ofthe Committee of Management, the time place,notice and agenda of such meetings, the quorumand the general conduct of such meeting;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.87,
+      593.21,
+      397.19,
+      628.07
+    ],
+    "text": "(d)Qualifications and disqualifications for themembership of the Board Management of theCorporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.71,
+      638.57,
+      397.19,
+      673.55
+    ],
+    "text": "(e)Administration, Management and custody of theassets of the Corporation and maintenance andauditing of its funds and accounts;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      352.99,
+      448.15,
+      371.66
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200.97,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "7Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      148.05,
+      258.05,
+      153.05,
+      269.39
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      330.29,
+      155.01,
+      341.63
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      407.69,
+      155.01,
+      419.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      478.25,
+      155.01,
+      489.59
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      537.53,
+      155.01,
+      548.87
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      601.97,
+      155.01,
+      613.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.85,
+      203.93,
+      401.89,
+      227.03
+    ],
+    "text": "(f)General administration of the Corporation andrealization of its objects.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      237.29,
+      401.91,
+      271.79
+    ],
+    "text": "(2) Any such rule when made under subsection one (1)above, may at a like meeting and in like manner be altered,added to, amended or rescinded.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      283.73,
+      401.89,
+      341.39
+    ],
+    "text": "(3) The rules of the Corporation in force on the dayimmediately preceding the date of commencement of thisAct, shall in so far as they are not inconsistent with theprovisions of this Act or any other written Law, be deemedto be rules of the Corporation made under this section.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      351.65,
+      401.88,
+      397.79
+    ],
+    "text": "(4) The members of the Corporation shall be subjected tothe rules of the Corporation for the time being and suchrules when made may at a like meeting be altered, added to,amended or cancelled.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      408.05,
+      401.9,
+      465.83
+    ],
+    "text": "7.The seal of the Corporation shall not be affixed toany instrument, except with the authority of a resolution ofthe Committee of Management and shall be authenticatedby the signature of the President and Secretary or some othertwo members as may be named for that purpose.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      476.09,
+      401.95,
+      545.39
+    ],
+    "text": "8.All debts and liabilities of the Foundation on theday preceding the date of commencement of this Act shallbe paid to the Corporation hereby constituted and all debtsdue to and subscriptions and contributions payable to theFoundation on that day shall be paid to the Corporation forthe purpose of this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      555.65,
+      401.9,
+      613.43
+    ],
+    "text": "9.(1) The Corporation shall have its own fund and allthe sums of money granted or donated to the Corporation byany foreign or local public or private authority or individual,and all the sums of money received by the Corporation inthe carrying on of its affairs shall be credited to the fund.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      623.69,
+      401.91,
+      669.83
+    ],
+    "text": "(2) The funds of the Corporation which are notimmediately necessary, shall be deposited in any Bank orother institution and the proceeds by way of interest on suchdeposits shall be utilized for the purposes of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      408.19,
+      452.85,
+      426.86
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      476.23,
+      454.29,
+      512.3
+    ],
+    "text": "Debts due byand payableto theFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      555.19,
+      452.85,
+      573.86
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      358.5,
+      190.24
+    ],
+    "text": "8Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      282.91,
+      71.07,
+      419.35,
+      84.68
+    ],
+    "text": "PL 007773 Daya Sarana (G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      202.97,
+      397.19,
+      262.31
+    ],
+    "text": "(3) The Committee may exercise all the powers of theCorporation to borrow money and to mortgage or charge itsundertaking any property or any part thereof as security forany debt liability or obligation of the Corporation or of anythird party.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      274.97,
+      397.2,
+      334.31
+    ],
+    "text": "(4) All sums of money required to defray any expenditureincurred by the Corporation in carrying on its affairs or inthe exercise and performance of its functions and duties andin furtherance of its objects and purposes shall be paid outof the fund.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      346.97,
+      397.19,
+      406.31
+    ],
+    "text": "(5) The Bank account or Accounts of the Corporationwith any Bank or Banks shall operate and all cheque drawnsigned and endorsed by the President or Vice President orSecretary of the Committee of Management and the Treasurertogether.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      193.15,
+      418.97,
+      397.19,
+      454.31
+    ],
+    "text": "In this preragraph the words \u201cPresident\u201d, \u201cSecretary\u201dand \u201cTreasurer\u201d shall include any acting President,Secretary or Treasurer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      466.97,
+      397.19,
+      502.31
+    ],
+    "text": "10.(1) The Corporation shall cause proper accounts tobe kept of its income and expenditure, assets and liabilitiesand all other transactions of the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      514.97,
+      397.17,
+      550.31
+    ],
+    "text": "(2) The books of Accounts of the Corporation shall bekept at the registered office and open to inspection by everymember of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      562.97,
+      397.2,
+      634.31
+    ],
+    "text": "(3) The Corporation shall have its accounts audited eachaudit year by any qualified public auditor or auditors to benominated at the Annual General Meeting and the auditorsof the corporation shall examine the accounts of thecorporation and furnish a report on the accounts examinedby them and the report shall state :-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      172.87,
+      646.97,
+      397.2,
+      670.31
+    ],
+    "text": "(a)whether they have or have not obtained all theinformation and explanations required by them and;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      467.11,
+      438.43,
+      485.78
+    ],
+    "text": "Audit andAccounts.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.51,
+      250.49,
+      147.51,
+      261.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      322.49,
+      150.31,
+      333.83
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      395.09,
+      150.31,
+      406.43
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      479.93,
+      150.31,
+      491.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      562.49,
+      150.31,
+      573.83
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      622.97,
+      150.31,
+      634.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      200.97,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "9Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      202.97,
+      401.88,
+      238.31
+    ],
+    "text": "(b)whether accounts of the Corporation are properlydrawn up so as to exhibit a true and fair view of theaffairs of the Corporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      178.29,
+      250.97,
+      401.89,
+      286.31
+    ],
+    "text": "(c)the accounts will have its legal validity afterauditing and approval of the Committee ofManagement.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171.81,
+      298.97,
+      383.03,
+      310.31
+    ],
+    "text": "In paragraph the word \u201cQualified Auditor\u201d means\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      322.97,
+      401.88,
+      382.31
+    ],
+    "text": "(a)an individual who being a member of the Instituteof Chartered Accountants Sri Lanka, or of anyother institute established by law, processes acertificate practice as an Accountant issued by suchinstitute; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      177.57,
+      394.97,
+      401.89,
+      466.31
+    ],
+    "text": "(b)a firm of Accountants, each of the resident partnersof which, being a member of the Institute ofChartered Accountants of Sri Lanka, or of any otherinstitute established by Law processes a certificateto practice as an Accountant issued by suchinstitute.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      478.97,
+      401.89,
+      538.31
+    ],
+    "text": "11.Nothing contained in this Act shall prejudice oraffect the rights of the Republic or of any body politic orcorporate, or any of other persons, except such as arementioned in this Act, and those claiming by form, or underthem.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      550.97,
+      401.88,
+      587.87
+    ],
+    "text": "12.In the event of any inconsistency between theSinhala and Tamil text of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      551.71,
+      455.86,
+      589.58
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      480.67,
+      453.58,
+      518.54
+    ],
+    "text": "Protection ofthe rights ofthe Republicand others.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      148.05,
+      262.73,
+      153.05,
+      274.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.45,
+      346.85,
+      154.89,
+      358.19
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.45,
+      419.33,
+      154.89,
+      430.67
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.41,
+      491.09,
+      155.85,
+      502.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.41,
+      562.73,
+      155.85,
+      574.07
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      358.5,
+      190.24
+    ],
+    "text": "10Daya Sarana Development Foundation (Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      282.91,
+      71.07,
+      419.35,
+      84.68
+    ],
+    "text": "PL 007773 Daya Sarana (G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

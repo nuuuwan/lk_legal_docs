@@ -1,0 +1,331 @@
+PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA
+
+————————
+
+[Bill No. 40]
+
+————————
+
+Presented by Hon. Buddhika Pathirana, M. P. for Matara Districton 08th December, 2015
+
+(Published in the Gazette on November 09, 2015)
+
+Ordered by Parliament to be printed
+
+————————
+
+A
+
+BILL
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+2-2d
+
+2-
+
+Price : Rs. 8.00Postage : Rs. 10.00
+
+SOUTH LANKA ACADEMY FOR TERTIARYEDUCATION AND LEADERSHIP (INCORPORATION)
+
+to incorporate the South Lanka Academy forTertiary Education and Leadership.
+
+2—PL 009530—225 (12/2015)
+
+1South Lanka Academy for Tertiary Education and Leadership (Incorporation)
+
+5
+
+10
+
+15
+
+20
+
+25
+
+2—PL 009317—300 (10/2015)
+
+Preamble.
+
+Short title.
+
+AN ACT TO INCORPORATE THE SOUTH LANKA ACADEMY FORTERTIARY EDUCATION AND LEADERSHIP.
+
+WHEREAS an Academy called and known as the“South Lanka Academy for Tertiary Education andLeadership” has heretofore been created for the purpose ofeffectually carrying out and transacting all objects andmatters connected with the said Academy according to therules agreed to by its members:
+
+AND WHEREAS the said Academy has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was established and has applied tobe incorporated and it will be for the public advantage togrant the application:
+
+BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:—
+
+1.This Act may be cited as the South Lanka Academyfor Tertiary Education and Leadership (Incorporation) Act,No. of 2015.
+
+2.From and after the date of commencement of thisAct, such and so many persons as now are members of the“South Lanka Academy for Tertiary Education andLeadership” (hereinafter referred to as “the Academy”) orshall hereafter be admitted as members of the Corporationhereby constituted, shall be a body corporate with perpetualsuccession under the name and style of the “South LankaAcademy for Tertiary Education and Leadership” (hereinafter referred to as “the Corporation”) and by that name maysue and be sued and shall have full power and authority tohave and use a common seal and to alter the same at itspleasure.
+
+Incorporatethe SouthLankaAcademy forTertiaryEducationandLeadership.
+
+South Lanka Academy for Tertiary Education and Leadership (Incorporation)2
+
+5
+
+10
+
+15
+
+20
+
+25
+
+3.The general objects for which the Corporation isconstituted are hereby declared to be to—
+
+(a)to assist students who prepare for governmentexaminations by conducting lectures, seminars andstudy tours;
+
+(b)to conduct academic lectures, seminars, exhibitionsrelated to intellectual development of peopleexecutive action guidance and to organize relevantexhibitions, educational and propaganda activities;
+
+(c)to establish library facilities and conduct trainingprograms of all types in the field of masscommunication (television, radio, internet,newspapers and publications) and maintain suchunits;
+
+(d)to assist needy students by providing them withbooks and other equipment and school uniformsand to grant scholarships to students who are in thesecondary and tertiary stage of their education;
+
+(e)to identify the inherent talents of students and youthat rural, district and provincial levels in areas suchas sports, literature and art and to encourage themto excel in them by providing the requiredinfrastructure;
+
+(f)to identify projects suitable for young schoolleavers and assist them by carrying out such projectswith a view to training such youth to meet thecompetitive demands for future employment;
+
+(g)to assist those in need of financial and other formsof assistance to enhance their inborn talents andskills enabling them to engage in self-employment;
+
+Generalobjects of theCorporation.
+
+30
+
+3South Lanka Academy for Tertiary Education and Leadership (Incorporation)
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(h)to extend all forms of assistance to thedifferently- abled in developing their personalityand to implement all types of support programsrelevant to preschool/ early childhood education;
+
+(i)to identify the health requirements of the people inrural and remote areas and to conduct medicalcamps and clinics in such areas and to supplymedicines to the needy through such camps andclinics;
+
+(j)to conduct awareness programmes for youth in orderto promote a tobacco, alcohol and a drug free societyand build a healthy, disciplined, patriotic andhuman generation;
+
+(k)to take active measures for the preservation ofenvironment and balanced development;
+
+(l)to encourage the farmers, fishermen and establishyoung farmers, and fishermen’s organizations;
+
+(m)to utilize the labour of youth and adults for thewelfare of the general public and duringemergencies and national disasters;
+
+(n)to foster and promote mutual understanding, aspirit of national consciousness, goodwill andfriendship among the citizens of Sri Lanka and topromote peace and harmony among the Sinhala,Tamil, Muslim and Burgher communities inSri Lanka;
+
+(o)to promote religious harmony, mutualunderstanding, peaceful co-existence, spiritualdevelopment and friendship among the people ofSri Lanka through religious, cultural, social andeconomic interactions;
+
+South Lanka Academy for Tertiary Education and Leadership (Incorporation)4
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(p)to conduct programmes to discuss the problemsfaced by the youth in different areas in Sri Lankadue to lack of infrastructure facilities such aselectricity, water, housing and roads and provideamnesties to such needy people;
+
+(q)to organize and mobilize people to deploy them involuntary activities in order to find solutions toshortcomings in infrastructure;
+
+(r)to facilitate the exchange of delegations with otherinternational organizations having similar objectswith a view to building friendship andunderstanding between Sri Lanka and othercountries;
+
+(s)to assemble and mobilize all groups under thisAcademy with a view to promoting nationalharmony and peace within Sri Lanka; and
+
+(t)to do all such other acts, matters and things as areincidental or conductive to the attainment of theobjectives of the corporation.
+
+4.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to—
+
+(a)open, operate and close bank accounts;
+
+(b)borrow or raise money with or without security andto receive or collect grants and donations;
+
+(c)invest any funds of the Corporation which are notimmediately required for the purpose of theCorporation in a way that may be determined bythe Committee of Management;
+
+(d)purchase, acquire, give on lease or hire, sell orotherwise obtain any movable or immovable
+
+Powers of theCorporation.
+
+5South Lanka Academy for Tertiary Education and Leadership (Incorporation)
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+property which may be required for the purpose ofthe Corporation and which may lawfully beacquired for those purposes and to deal with ordispose of the same, as it may deem expedient witha view to promoting the objects of the Corporation;
+
+(e)appoint, employ and dismiss the employeesrequired for the carrying out of the objects of theCorporation and pay them such remuneration asmay be determined by the Corporation;
+
+(f)enter into, perform or carry out, whether directly orthrough any officer or agent authorized in thatbehalf of the Corporation, all such contracts oragreements as may be necessary for the attainmentof the objects of the exercise of the powers of theCorporation;
+
+(g)appoint, advisory councils, committees or subcommittees as and when necessary to carry out anyfunctions of the Corporation as may be determinedby the Committee Management.
+
+5.(1) The management of the affairs of the Corporationshall be subject to the rules of the Corporation, be done by aCommittee of Management consisting of not more than sixoffice bearers inclusive of the Chirman / Managing Director,Sectary, Trasura and such number of members as may beprovided or in rules and elected in accordance therewith.
+
+(2) No act or proceeding of the Committee of Managementshall be deemed to be invalid by reason only of the existenceof a vacancy among its members or any defect on the electionor nomination of a member thereof.
+
+(3) The first Committee of Management shall consist ofthe members of the Committee of Management holding office
+
+Managementof the affairsof theCorporation.
+
+South Lanka Academy for Tertiary Education and Leadership (Incorporation)6
+
+5
+
+10
+
+15
+
+20
+
+on the day immediately preceding the date of commencementof this Act and shall continue to hold office until a newCommittee of Management is elected in accordance withthe rules made under section 6 of this Act.
+
+6.(1) It shall be lawful for the Corporation, from time totime, at any general meeting and by a majority of not lessthan two-thirds of the members present to make rules notinconsistent with the provisions of this Act, or any otherwritten law, on all or any of the following matters:—
+
+(a)the classification of members and the admission,resignation or expulsion of members;
+
+(b)the election of the office-bearers, the resignationfrom, vacation of or removal from office of office-bearers, and their powers, conduct and duties;
+
+(c)the election of the members of the Committee ofManagement and its powers, duties and conductand the terms of office of members of the Committeeof Management;
+
+(d)the powers, duties, functions and conduct of theofficers, agents and servants of the Corporation;
+
+(e)the procedure to be observed at and the summoningand holding of meetings of the Committee ofManagement, the times, places, notices and agendaof such meetings, the quorum thereof and theconduct of business thereat;
+
+(f)the administration and management of the propertyof the Corporation the custody of its funds, and themaintenance and audit of its accounts; and
+
+(g)the management of the affairs of the Corporation,and the accomplishment of its objects.
+
+Rules of theCorporation.
+
+25
+
+30
+
+7South Lanka Academy for Tertiary Education and Leadership (Incorporation)
+
+(2) Any rule made by the Corporation may be amended,altered, added or rescinded at a like meeting and in the likemanner, as a rule made under subsection (1).
+
+(3) The members of the Corporation shall be subject tothe rules of the Corporation.
+
+7.The Secretary of the Committee of Management shallkeep and maintain a register containing the names of themembers of the Corporation.
+
+8.Subject to the provisions of this Act, the Corporationshall be able and capable in law to acquire and hold anyproperty both movable and immovable, which may becomevested in it by virtue of any purchase, grant, gift, testamentarydisposition or otherwise, and all such property shall be heldby the Corporation for the purpose of this Act and subject tothe rules of the Corporation made under section 6, with fullpower to sell, mortgage, lease, exchange or otherwise disposeof the same.
+
+9.(1) The Corporation shall have its own fund and allmonies heretofore or hereafter to be received by way of gifts,testamentary dispositions, grants, donations or contributionsor fees on behalf of the Corporation shall be deposited to thecredit of the Fund of the Corporation in one or more banksas the Committee of Management may determine.
+
+(2) The Corporation may establish a depreciation fund ora sinking fund for the purpose of rehabilitation, developmentor improvement of the property of the Corporation.
+
+(3) There shall be paid out of the Fund all sums of moneyto defray any expenditure incurred by the Corporation inthe exercise, performance and discharge of its powers, dutiesand functions under this Act.
+
+(4) The financial year of the Corporation shall be thecalendar year.
+
+Register ofthe membersof theCorporation.
+
+Corporationmay holdmovable andimmovableproperty.
+
+Fund of theCorporation.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+South Lanka Academy for Tertiary Education and Leadership (Incorporation)8
+
+10.All debts and liabilities of the Academy existing onthe day proceeding the date of commencement of this Act,shall be paid and discharged by the Corporation herebyconstituted and all debts due to, subscriptions andcontributions payable to the Academy on that day shall bepaid to the Corporation for the purpose of this Act.
+
+11.No member of the Corporation shall for the purposeof discharging the debts and liabilities of the Corporation orfor any other purpose, be liable to make any contributionexceeding the amount due from such member as membershipfees.
+
+12. (1) The Corporation shall caust proper accounts tobe kept of its income and expenditure, assets and liabilitiesand all other transactions of the Corporation.
+
+(2) The accounts of the Corporation shall be audited bya qualified auditor.
+
+(3) In this section, “qualified auditor” means —
+
+(a)an individual who being a member of the instituteof Chartered Accountants of Sri Lanka, or of anyother Institute established by law, possesses acertificate to practice as an Accountant issued bythe Council of such Institute; or
+
+(b)a firm of Accountants each of the resident partnersof which, being a member of the institute ofChartered Accountants of Sri Lanka or of any otherinstitute established by law, possesses a certificateof practice as an Accountant issued by the Councilof such Institute.
+
+13.The seal of the Corporation shall not be affixed toany instrument whatsoever, except in the presence of theChairman/Managing Director and the Secretary or two othermembers of the Corporation as may be decided by the
+
+Limitation ofliabilities ofmembers.
+
+Accounts andAudit.
+
+Seal of theCorporation.
+
+Debts due byand payableto theAcademy.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+9South Lanka Academy for Tertiary Education and Leadership (Incorporation)
+
+Committee of Management who shall sign their names tothe instrument in token of their presence and such signingshall be independent of the signing of any person as awitness.
+
+14.If upon the dissolution of the Corporation, thereremains any property whatsoever, after the satisfaction of alldebts and liabilities, such property shall not be distributedamong the members of the Corporation, but shall be givenor transferred to some other institution or institutions havingobjects similar to those of the Corporation, and which is orare by its rules prohibited from distributing any income orproperty among its or their members. Such institution orinstitutions may be determined by the members of theCommittee of Management on or before the dissolution ofthe Corporation.
+
+15.Nothing contained in this Act shall prejudice affectthe rights of the Republic or any body politic or corporate.
+
+16.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.
+
+Savings ofthe rights ofthe Republicand others.
+
+Sinhala textto prevail incase ofinconsistency.
+
+Propertyremaining ondissolution
+
+5
+
+10
+
+15
+
+20
+
+South Lanka Academy for Tertiary Education and Leadership (Incorporation)10
+
+Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.
