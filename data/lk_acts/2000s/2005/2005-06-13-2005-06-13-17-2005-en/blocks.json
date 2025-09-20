@@ -1,0 +1,1855 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      61.63,
+      135.18,
+      327.01,
+      192.79
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.35,
+      249.62,
+      344.4,
+      285.81
+    ],
+    "text": "REGISTRATION OF DEATHS (TEMPORARYPROVISIONS) ACT, No. 17 OF 2005",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.79,
+      369.57,
+      267.66,
+      381.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      131.71,
+      332.16,
+      256.88,
+      346.01
+    ],
+    "text": "[Certified on 13th June, 2005]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      102.07,
+      480.58,
+      286.63,
+      491.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.79,
+      490.18,
+      297.79,
+      500.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      38.35,
+      512.64,
+      350.18,
+      526.49
+    ],
+    "text": "Price : Rs. 10.75Postage : Rs. 5.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.47,
+      425.55,
+      336.32,
+      451.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of June 17, 2005",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.27,
+      21.51,
+      278.79,
+      45.78
+    ],
+    "text": "1Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.31,
+      536.98,
+      153.97,
+      547.65
+    ],
+    "text": "2\u2014PL 000270\u20135,950 (05/2005)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.27,
+      55.11,
+      219.62,
+      68.45
+    ],
+    "text": "[Certified on 13th June, 2005]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      76.23,
+      108.02,
+      89.57
+    ],
+    "text": "L.D.\u2014O. 1/2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      97.47,
+      278.5,
+      163.85
+    ],
+    "text": "An Act to provide for the registration of deaths of personsreported missing as a result of terrorist or subversiveactivity or civil commotion and of persons whose death isdirectly attributable to any natural disaster or calamitywhich has seroius consequences at the national level ;and for matters connected therewith or incidental thereto.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      171.63,
+      278.23,
+      216.77
+    ],
+    "text": "WHEREAS several persons have died or have been reportedmissing in the course of the civil distrubances that have takenplace due to terrorist or subversive activities or civilcommotion in Sri Lanka :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      224.67,
+      278.57,
+      269.81
+    ],
+    "text": "And Whereas several people have died due to being exposedto natural disasters or calamities of national proportions andwhere the number of persons dead has reached alarmingproportions :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      277.71,
+      278.44,
+      322.85
+    ],
+    "text": "And Whereas there are certain practical difficulties impedingthe registration of such deaths in both situations enumeratedabove under the provisions of the Births and DeathsRegistration Act (Chapter 110) :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      330.63,
+      278.49,
+      354.65
+    ],
+    "text": "And Whereas it has now become necessary to make temporaryprovision enabling the registration of such deaths :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      362.43,
+      278.41,
+      386.45
+    ],
+    "text": "Now Therefore be it enacted by the Parliament of theDemocratic Socialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      394.23,
+      278.63,
+      439.37
+    ],
+    "text": "1.(1) This Act may be cited as the Registration of Deaths(Temporary Provisions) Act, No. 17 of 2005. The provisionsof this Act shall be in operation for a period of three yearsfrom the date of its commencement.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      447.27,
+      278.49,
+      514.61
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1) theMinister may not less than one month prior to the expirationof any period of operation of this Act, by Order published inthe Gazette, extend such period of operation ; Providedhowever, that any such extension shall not in any oneinstance, be for more than a period of two years.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      395.98,
+      345.73,
+      435.45
+    ],
+    "text": "Short title andduration andextension of theAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      172.9,
+      324.81,
+      183.57
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "2Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.37,
+      54.63,
+      242.96,
+      67.97
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.93,
+      77.67,
+      346.49,
+      102.53
+    ],
+    "text": "REGISTRATION OF DEATHS OF PERSONS MISSING DUE TO TERRORIST ORSUBVERSIVE ACTIVITY OR CIVIL COMMOTION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.21,
+      112.23,
+      347.4,
+      240.53
+    ],
+    "text": "2.(1) Where any person is reported missing and he hasnot been heard of for a period exceeding one year by thosewho would naturally have heard of him had he been aliveand his disappearance is attributable to any terrorist orsubversive activity or civil commotion which has been takingplace within Sri Lanka, a next of kin of such person if heverily believes such person to be dead, may apply in themanner hereinafter provided, to register the death of suchperson under the Births and Deaths Registration Act (Chapter110) and to have issued to him, a Certificate of Death inrespect of such person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.21,
+      250.23,
+      347.34,
+      309.53
+    ],
+    "text": "(2) Every application under this section shall besubstantially in the Form specified in the Schedule to thisAct and shall be forwarded to the Registrar-General or theDistrict Registrar of Births and Deaths of the district in whichsuch missing person was last residing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.21,
+      319.11,
+      347.46,
+      436.01
+    ],
+    "text": "3.Every application under this Act shall be supportedby an affidavit of the applicant setting out the grounds forhis belief that the person whose death is sought to beregistered, is dead, and shall be accompanied by a reportfrom the Grama Niladhari of the Grama Niladhari Division inwhich the person whose death is sought to be registered waslast resident or had his permanant residence, confirming thefact that such person has not been seen alive or heard of, fora period of over one year, and accompanied by any otherevidence in support of such application.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.21,
+      445.71,
+      347.41,
+      528.41
+    ],
+    "text": "4.Upon receipt of an application under this Act, theRegistrar-General or the District Registrar as the case may be,shall cause a copy of such application to be displayed for aperiod of two weeks on the Notice Board kept at his officeand in the office of the Grama Niladhari in whose divisionthe person whose death is sought to be registered, was lastresident or had his permanent residence.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      321.34,
+      80.89,
+      351.21
+    ],
+    "text": "Additionalmaterial to besupplied.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      447.82,
+      74.11,
+      468.09
+    ],
+    "text": "Display ofapplication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      113.86,
+      91.41,
+      191.73
+    ],
+    "text": "Who may applyfor the issue of adeath certificatein case ofpersons missingdue to terroristactivity &c,. andprocedure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.27,
+      21.51,
+      278.79,
+      45.78
+    ],
+    "text": "3Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      55.83,
+      277.71,
+      151.01
+    ],
+    "text": "5.Any person may within one month of the date onwhich a copy of an application under this Act is first displayedas provided for in section 4, forward to the Registrar-Generalor the District Registrar, as the case may be, his objections inwriting to the registration of the death of the person to whomsuch application relates, and such objections shall besupported by an affidavit of the objector and of any otherperson, setting out clearly the grounds for their objections.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      161.07,
+      277.6,
+      314.81
+    ],
+    "text": "6.(1) On the expiry of the period of one month allowedfor the forwarding of objections to an application, theRegistrar-General or the District Registrar as the case maybe, shall consider the application together with the evidencein support of the application and the objections, if any, andthe evidence tendered in support of such objections, andafter such inquiry as he may deem necessary, if satisfied as tothe truth of the matters stated in the application, allow suchapplication and shall forward to the Registrar-General aReport under his hand setting out such of the particulars ofthe death as is required to be registered, under the Births andDeaths Registration Act (Chapter 110) as he has been able toascertain after such inquiry as aforesaid.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      324.87,
+      277.66,
+      420.17
+    ],
+    "text": "(2) On receipt of the Report under subsection (1), theRegistrar-General shall, except in a case where he disallowsa Report in the exercise of the powers conferred on him bysection 7, make order directing the appropriate Registrar toenter in the Register of Deaths maintained by such Registrarunder the Births and Deaths Registration Act (Chapter 110),the particulars specified in such Report and issue in respectof such person a Certificate of Death.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      430.23,
+      277.56,
+      525.65
+    ],
+    "text": "(3) On receipt by a Registrar of an order under subsection(2) directing him to enter the particulars relating to therelevant death in the Register of Deaths maintained by him,under the Births and Deaths Registration Act (Chapter 110)and issue in respect of such person a Certificate of Death, theRegistrar shall forthwith enter those particulars in suchRegister and sign the Register in the appropriate place andissue the Certificate of Death.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      57.7,
+      336.06,
+      77.97
+    ],
+    "text": "Objections toregistration.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      291.31,
+      162.7,
+      342.33,
+      182.97
+    ],
+    "text": "Registration ofdeath.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "4Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.61,
+      56.31,
+      346.79,
+      131.57
+    ],
+    "text": "(4) There shall be attached to the duplicate of the relevantregistration entry, the written order of the Registrar-Generalmade under subsection (2) and such duplicate and order shallbe sent together by the Registrar to the appropriate DistrictRegistrar for transmission to the Registrar-General for custodyin his office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.61,
+      143.07,
+      346.85,
+      305.21
+    ],
+    "text": "7.An applicant who is dissatisfied with the decision ofthe District Registrar refusing to issue a certificate to himunder section 6, or a person who has objected under section5 to the issue of a certificate under this Act and who isdissatisfied with the decision of the District Registrar to issuesuch certificate, may within one month of the notification ofsuch refusal or issue, as the case may be, appeal to theRegistrar-General against such refusal or issue, as the casemay be. The Registrar-General may after review of thematerial before him, either affirm the decision of the DistrictRegistrar or direct the District Registrar to issue a certificateunder section 6 or disallow the report issued by that DistrictRegistrar under section 6, as the case may be.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.61,
+      316.71,
+      346.89,
+      528.41
+    ],
+    "text": "8.(1) Where a Commission appointed under theCommissions of Inquiry Act (Chapter 393) or a SpecialPresidential Commission of Inquiry established under theSpecial Presidential Commissions Law, No. 7 of 1978 findsthat a person has disappeared or is missing, the next of kin ofthat person may, apply to the Registrar-General or to theDistrict Registrar of Births and Deaths of the district in whichthat person was last residing or had his permanant residence,substantially in the Form set out in the Schedule to this Act,to register the death of that person under the Births and DeathsRegistration Act (Chapter 110) and to have issued to him, aCertificate of Death in respect of the death of that person.Every such application shall be accompanied by an affidavitof the applicant in terms of section 3 and a certified copy ofthe findings of the Commission of Inquiry or SpecialPresidential Commission of Inquiry, as the case may be,relating to the death of such person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.69,
+      319.06,
+      93.36,
+      464.13
+    ],
+    "text": "Specialprocedurerelating toregistration ofdeaths ofpersons inrespect of whomthere arefindings by aCommission ofInquiry or aSpecialPresidentialCommission ofInquiry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      34.61,
+      145.06,
+      85.56,
+      194.13
+    ],
+    "text": "Appeal againstrefusal to issuecertificate orissue ofcertificate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.27,
+      21.51,
+      278.79,
+      45.78
+    ],
+    "text": "5Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39.31,
+      56.79,
+      279.64,
+      161.81
+    ],
+    "text": "(2) Upon receipt of an application under subsection (1),the District Registrar shall, notwithstanding anything tocontrary in the preceding provisions of this Act, forthwithsend to the Registrar-General a Report under his hand, settingout the particulars of the death required to be registered underthe Births and Deaths Registration Act (Chapter 110) as hehas been able to ascertain from the application and theaccompanying affidavit and finding.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39.31,
+      174.63,
+      279.52,
+      266.57
+    ],
+    "text": "(3) Upon receipt of the Report under subsection (2),the Registrar-General shall make order directing theappropriate Registrar to register in the Register of Deathsmaintained by such Registrar under the Births and DeathsRegistration Act (Chapter 110), the particulars specified insuch Report and issue in respect of such person a Certificateof Death.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39.31,
+      279.51,
+      279.42,
+      358.25
+    ],
+    "text": "(4) Upon receipt of an order under subsection (3) directinghim to enter the particulars relating to the relevant death inthe Register of Deaths maintained by him under the Birthsand Deaths Registration Act (Chapter 110), the Registrar shallforthwith enter such particulars in such register and sign theregister in the appropriate place.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39.31,
+      371.19,
+      279.53,
+      450.05
+    ],
+    "text": "(5) There shall be attached to the duplicate of the relevantregistration entry, the written order of the Registrar-Generalmade under subsection (3) and such duplicate and order shallbe sent together, by the Registrar to the appropriate DistrictRegistrar for transmission to the Registrar-General for custodyin his office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      39.31,
+      462.87,
+      279.45,
+      528.65
+    ],
+    "text": "(6) Where the application under subsection (1) is made tothe Registrar-General, the provisions of subsections (2) and(5) shall mutatis mutandis apply as if the reference in thosesections to the District Registrar is a reference to the Registrar-General.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "6Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.01,
+      56.07,
+      243.32,
+      69.41
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.57,
+      80.07,
+      337.74,
+      105.41
+    ],
+    "text": "REGISTRATION OF DEATHS OF PERSONS MISSING DUE TO NATURALDISASTERS OR CALAMITIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107.21,
+      116.07,
+      347.39,
+      285.41
+    ],
+    "text": "9. Where there has been within Sri Lanka a naturaldisaster or calamity which has caused either to the whole ofSri Lanka or to certain areas thereof, destruction to personsand property, which has had far reaching effects at the nationallevel, and where the number of persons dead as a result ofsuch disaster or calamity has reached alarming proportionsthereby making the application of the provisions of the Birthsand Deaths Registration Act (Chapter 110) to the registrationof the deaths of such persons impractical, the Registrar-General may, upon verification of the fact that a natural disasteror calamity has occurred, declare any Administrative District,Divisional Secretaries Division or Grama Niladhari Divisionas the case may be affected by such disaster or calamity, as a\u201cNational Disaster Area\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.21,
+      296.07,
+      280.94,
+      310.01
+    ],
+    "text": "10.(1) Where any person or persons\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.93,
+      320.07,
+      347.37,
+      345.41
+    ],
+    "text": "(a)who had been resident within an area declared to bea National Disaster Area under section 9 ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.93,
+      356.07,
+      347.35,
+      417.41
+    ],
+    "text": "(b)who have been resident within any other area butwas at the time of the occurrence of such naturaldisaster or calamity known to have gone to or tohave been within any area declared to be a NationalDisaster Area under section 9,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107.21,
+      428.07,
+      347.34,
+      525.41
+    ],
+    "text": "cannot be found subsequent to such natural disaster orcalamity and has for all intents and purposes disappeareddue to the effects of the disaster or calamity, a next of kin ofsuch person or persons or where no members of the familyhave survived the natural disaster or calamity, any personhaving knowledge of such person or persons may, if he verilybelieves such person or persons to be dead, apply in themanner hereinafter provided, to register the death of such",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      34.61,
+      296.5,
+      80.43,
+      431.97
+    ],
+    "text": "Who mayapply for theissue of aDeathCertificate incase ofpersonsbelieved tobe dead as aresult of anynaturaldisaster orcalamity, andprocedure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      34.61,
+      116.98,
+      70.59,
+      175.65
+    ],
+    "text": "Registrar-General todeclare\u201cNationalDisasterAreas\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.27,
+      21.51,
+      278.79,
+      45.78
+    ],
+    "text": "7Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      56.31,
+      278.55,
+      94.37
+    ],
+    "text": "person or persons, under the Births and Deaths RegistrationAct (Chapter 110) and to have issued to him, a Certificate ofDeath in respect of the death of such person or persons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      105.87,
+      278.58,
+      144.05
+    ],
+    "text": "(2) Every such application shall be made to the GramaNiladhari of the area within which such person, whose deathis sought to be registered, was habitually resident.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      155.43,
+      278.61,
+      330.05
+    ],
+    "text": "(3) Every such application shall be submitted in any formwhatsoever, containing wherever possible at least some ofthe information set out in the Schedule hereto, whichinformation would as far as practicable be a description ofthe person whose death is sought to be registered. Every suchapplication shall be accompanied by an Affidavit in supportof such facts. The Grama Niladhari shall as soon as possibleupon the receipt of such application, and after such inquiryas he deems necessary, recommend the same and forward italong with a report certifying to the best of his knowledgethe accuracy of the facts stated therein, to the DivisionalSecretary of the division within which his Division is situated.The Divisional Secretary shall endorse every such applicationand forward the same to the Registrar-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      341.43,
+      278.5,
+      441.65
+    ],
+    "text": "(4) Upon receipt of an application under subsection (2),duly recommended and endorsed in terms of the provisionsof subsection (3), the Registrar-General shall make orderdirecting the appropriate Registrar to register in the Registerof Deaths maintained by such Registrar under the Births andDeaths Registration Act (Chaper 110), the particularsspecified in such application and issue in respect of suchperson, a Certificate of Death.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      453.03,
+      278.47,
+      528.41
+    ],
+    "text": "(5) Upon receipt of an order under subsection (4) directinghim to enter the particulars relating to the relevant death inthe Register of Deaths maintained by him under the Birthsand Deaths Registration Act (Chaper 110), the Registrar shallforthwith enter such particulars in such Register and sign theRegister in the appropriate place.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "8Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.61,
+      52.83,
+      346.79,
+      132.77
+    ],
+    "text": "(6) There shall be attached to the duplicate of the relevantregistration entry, the written order of the Registrar-Generalmade under subsection (4) and such duplicate and order shallbe sent together by the Registrar to the appropriate DistrictRegistrar for transmission to the Registrar-General for custodyin his office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.61,
+      145.95,
+      346.69,
+      212.57
+    ],
+    "text": "(7) Where the application under subsection (1) is madedirectly to the Registrar-General, the provisions ofsubsections (2) to (6) shall mutatis mutandis apply as if thereference in those sections to the District Registrar is areference to the Registrar-General.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.61,
+      225.75,
+      346.95,
+      398.69
+    ],
+    "text": "11.Where there is evidence to show that a national ofanother State had been in Sri Lanka and temporarily residentwithin an area declared as a National Disaster Area in terms ofsection 9, and that it is apparent that such person has died asa result of the natural disaster or calamity in question, thenany person having knowledge of these facts may apply for aCertificate of Death in respect of such person to be issued tohim. Every such application shall be authenticated by therepresentative of the country of which such person was acitizen, present in Sri Lanka, and forward such applicationdirect to the Registrar-General who shall proceed forthwithto register such death and issue in respect of such person aCertificate of Death.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.61,
+      411.99,
+      346.77,
+      518.45
+    ],
+    "text": "12.The provisions of this Part of this Act, shallnotwithstanding the provisions of section 108 of the EvidenceOrdinance as amended by the Evidence (Amendment) Act,No. 10 of 1988, be applicable to the issue of death certificatesin respect of persons whose death is attributable to any naturaldisaster or calamity and the death in question had occurredwithin an area declared to be a National Disaster Area interms of section 9.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      36.65,
+      225.94,
+      87.67,
+      265.41
+    ],
+    "text": "Registration ofdeaths offoreignnationals.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      35.69,
+      413.98,
+      94.1,
+      453.45
+    ],
+    "text": "Provisions of theEvidenceOrdinance not toapply.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.27,
+      21.51,
+      278.79,
+      45.78
+    ],
+    "text": "9Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.27,
+      55.47,
+      177.57,
+      68.81
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      110.71,
+      79.47,
+      209.01,
+      92.81
+    ],
+    "text": "MISCELLANEOUS PROVISIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40.39,
+      103.47,
+      279.53,
+      176.81
+    ],
+    "text": "13.(1) Where any death has been registered pursuant toan application made under section 2 or section 10 of thisAct, and where any person at any time thereafter becomesaware that the person whose death has been so registered isalive, such person shall forthwith furnish such informationto the Registrar-General.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40.39,
+      187.47,
+      279.45,
+      260.81
+    ],
+    "text": "(2) The Registrar-General shall, on receipt of suchinformation convey the information to the Officer-in-Chargeof the relevant police station, who shall investigate the truthof such information and make a report to the Registrar-General, within four weeks of the date on which suchinformation is conveyed to such officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40.39,
+      271.47,
+      279.52,
+      356.81
+    ],
+    "text": "(3) Upon receipt of a report under subsection (2) and aftersuch inquiry as he may deem necessary the Registrar-General,if satisfied that the person whose death has been registered isalive, shall take such action, or make such order or give suchdirection, under section 52 of the Births and DeathsRegistration Act, (Chaper 110), as is appropriate in thecircumstances of the case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40.39,
+      367.47,
+      279.57,
+      452.81
+    ],
+    "text": "(4) Any inquiry held by the Registrar-General under thisAct shall be concluded within one month of itscommencement and the Registrar-General may, for thepurposes of an inquiry under this Act, exercise all the powersexercisable by him under the Births and Deaths RegistrationAct (Chapter 110), in relation to an inquiry held by himunder that Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.39,
+      463.47,
+      150.57,
+      477.41
+    ],
+    "text": "14.Any person who\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.07,
+      487.47,
+      279.47,
+      524.81
+    ],
+    "text": "(a)knowingly, make a false statement in an applicationmade by him under this Act, or furnishes falseinformation under this Act ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      290.35,
+      104.5,
+      349.68,
+      143.97
+    ],
+    "text": "Procedure ifperson registeredas dead is foundto be alive.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      291.31,
+      464.5,
+      324.29,
+      475.17
+    ],
+    "text": "Offences.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "10Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.41,
+      56.67,
+      346.87,
+      109.01
+    ],
+    "text": "(b) being aware that a person whose death has beenregistered in pursuance of an application made underthis Act, is alive, fails to furnish such information tothe Registrar-General ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.13,
+      121.71,
+      346.8,
+      187.01
+    ],
+    "text": "(c) dishonestly or fraudulently uses a Certificate ofDeath issued under the Births and DeathsRegistration Act (Chapter 110) knowing, or havingreason to believe that the person referred to in suchcertificate is alive,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106.61,
+      199.71,
+      346.7,
+      252.05
+    ],
+    "text": "shall be guilty of an offence under this Act, and shall uponconviction after trial by the High Court be sentenced to aterm of imprisonment of not less than three years and notexceeding five years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106.61,
+      264.63,
+      346.43,
+      304.01
+    ],
+    "text": "15.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118.61,
+      316.71,
+      345.96,
+      330.65
+    ],
+    "text": "16.In this Act, unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118.61,
+      342.63,
+      346.81,
+      394.97
+    ],
+    "text": "\u201cAppropriate District Registrar\u201d, \u201cAppropriate Registrar\u201dand \u201cDistrict\u201d have the respective meaningsassigned to them by the Births and DeathsRegistration Act (Chapter 110) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118.61,
+      407.67,
+      346.82,
+      447.05
+    ],
+    "text": "\u201cDistrict Registrar\u201d means a District Registrar of Birthsand Deaths appointed under the Births and DeathsRegistration Act (Chapter 110) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      118.61,
+      459.63,
+      346.82,
+      525.05
+    ],
+    "text": "\u201cRegistrar-General\u201d means the Registrar-General of Birthsand Deaths appointed under the Births and DeathsRegistration Act (Chapter 110) and includes anAdditional Registrar-General, a Deputy Registrar-General or an Assistant Registrar-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      34.61,
+      265.06,
+      93.84,
+      294.93
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      35.21,
+      317.02,
+      84.67,
+      327.69
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      64.27,
+      21.51,
+      278.83,
+      45.78
+    ],
+    "text": "11Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      136.63,
+      58.18,
+      276.81,
+      68.85
+    ],
+    "text": "SCHEDULE(Section 2 and 10)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.71,
+      78.1,
+      249.55,
+      88.77
+    ],
+    "text": "APPLICATION FOR REGISTRATION OF DEATH OF A MISSING PERSON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      97.3,
+      166.7,
+      107.97
+    ],
+    "text": "1.Full Name of missing person :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      116.5,
+      111.07,
+      127.17
+    ],
+    "text": "2.Sex and race :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      135.7,
+      81.11,
+      146.37
+    ],
+    "text": "3.Age :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      154.9,
+      173.31,
+      165.57
+    ],
+    "text": "4.Date of Death (approximately) :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      174.1,
+      178.62,
+      184.77
+    ],
+    "text": "5.Address of last known residence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      193.3,
+      177.89,
+      203.97
+    ],
+    "text": "6.Address of permanant residence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      212.5,
+      132.73,
+      223.17
+    ],
+    "text": "7.Rank or profession :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      231.7,
+      190.66,
+      242.37
+    ],
+    "text": "8.Applicant\u2019s full name and residence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      250.9,
+      213.81,
+      261.57
+    ],
+    "text": "9.Applicant \u2019s relationship to missing person :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38.35,
+      270.1,
+      276.95,
+      299.97
+    ],
+    "text": "I \u2026\u2026 of \u2026\u2026 do hereby state that the said \u2026\u2026 \u2026\u2026 (name ofperson missing) \u2026\u2026\u2026\u2026 has been missing for a period of over oneyear, and I verily believe that the said \u2026\u2026\u2026\u2026 is dead.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38.35,
+      308.5,
+      276.93,
+      338.37
+    ],
+    "text": "I therefore request that the death be registered under the Births andDeaths Registration Act (Chapter 110) and a Certificate of Death inrespect of such death be issued to me.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      38.35,
+      346.9,
+      270.45,
+      367.17
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026Date : \u2026\u2026Signature of Applicant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106.61,
+      20.55,
+      320.82,
+      45.78
+    ],
+    "text": "12Registration of Deaths (Temporary Provisions) Act, No. 17 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      33.29,
+      487.66,
+      345.28,
+      527.13
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

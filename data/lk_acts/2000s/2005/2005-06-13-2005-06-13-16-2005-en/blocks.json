@@ -1,0 +1,6622 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      49.63,
+      135.18,
+      315.01,
+      192.79
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.27,
+      249.62,
+      300.42,
+      285.81
+    ],
+    "text": "TSUNAMI (SPECIAL PROVISIONS) ACT, No. 16 OF 2005",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.79,
+      369.57,
+      255.66,
+      381.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.71,
+      332.16,
+      244.88,
+      346.01
+    ],
+    "text": "[Certified on 13th June, 2005]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.07,
+      480.58,
+      274.63,
+      491.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.79,
+      490.18,
+      285.79,
+      500.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      512.64,
+      338.29,
+      526.49
+    ],
+    "text": "Price : Rs. 21.50Postage : Rs. 10.00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.47,
+      425.55,
+      324.32,
+      451.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of June 17, 2005",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.63,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "1Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      27.31,
+      536.98,
+      141.97,
+      547.65
+    ],
+    "text": "2\u2014PL 000229\u20135,650 (04/2005)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.27,
+      56.07,
+      207.62,
+      69.41
+    ],
+    "text": "[Certified on 13th June, 2005]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      80.07,
+      96.02,
+      93.41
+    ],
+    "text": "L.D.\u2014O. 3/2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      104.07,
+      266.35,
+      117.41
+    ],
+    "text": "AN ACT TO ENABLE SPECIAL LEGAL PROVISIONS TO BE MADE IN RESPECT OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      116.07,
+      266.35,
+      129.41
+    ],
+    "text": "PERSONS AND PROPERTY AFFECTED BY THE TSUNAMI THAT OCCURED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      128.07,
+      266.35,
+      141.41
+    ],
+    "text": "DECEMBER 26, 2004, AND FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      140.07,
+      108.89,
+      153.41
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      164.07,
+      266.61,
+      225.41
+    ],
+    "text": "WHEREAS it is the National Policy of the State to ensureand grant adequate protection to those adversely affected asa result of the Tsunami that took place on December 26,2004, which resulted in great loss to life and property of alarge number of persons in Sri Lanka :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      236.07,
+      266.44,
+      309.41
+    ],
+    "text": "AND WHEREAS those persons affected by the Tsunamiare unable to exercise certain rights and enjoy certainbenefits afforded under existing laws, and are also subjectedto certain impediments and disadvantages as a result of theirinability to comply with certain existing legalrequirements :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      320.07,
+      266.55,
+      369.41
+    ],
+    "text": "AND WHEREAS there are many children and young personswho have been left without adequate parental care due to theTsunami and it is necessary to ensure that they receive alternatecare and protection :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      380.07,
+      266.49,
+      453.41
+    ],
+    "text": "AND WHEREAS there now exists an immediate need tomake special legal provisions to enable thosepersons affected by the Tsunami to overcome prevailinglegal obstacles and existing legal barriers and to ensurethe protection and safeguarding of their rights andprivileges :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      464.07,
+      266.43,
+      489.41
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      500.07,
+      314.37,
+      525.41
+    ],
+    "text": "1.This Act may be cited as the Tsunami (SpecialProvisions) Act, No. 16 of 2005.Short title.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      166.06,
+      312.81,
+      176.73
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "2Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199.01,
+      56.07,
+      228.3,
+      69.41
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.65,
+      80.31,
+      264.66,
+      93.65
+    ],
+    "text": "ISSUE OF DEATH CERTIFICATES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      107.43,
+      333.87,
+      229.61
+    ],
+    "text": "2.Notwithstanding the provisions of section 108 of theEvidence Ordinance, where any person, who had been residentin an area referred to in the First Schedule to this Act as atDecember 26, 2004 or was known to have been in or travellingthrough such area on that date, cannot be found and has notbeen heard of for six months since that date by those whowould normally have heard of such person has such personbeen alive, and the disappearance is attributable to theTsunami that occurred on that date, the burden of provingthat such person is alive is on the person who affirms it.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      240.27,
+      333.86,
+      301.61
+    ],
+    "text": "3.(1) The next of kin of any person referred to in section2, or where there is no next of kin living, any other personhaving knowledge of such person, may apply in the mannerhereinafter provided, to have a certificate of death issued inrespect of such person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      312.27,
+      333.81,
+      529.61
+    ],
+    "text": "(2) An application referred to in subsection (1) may at anytime after expiry of six months from December 26, 2004, bemade in the Form set out in the Second Schedule to this Actand shall be submitted along with an affidavit to the GramaNiladhari of the area within which such missing person wasresident. The Grama Niladhari shall, immediately upon thereceipt of such application, display a notice in his officecalling for objections, if any, to the issue of a death certificateas applied for, within two weeks of the date of such notice.The Grama Niladhari shall, upon the expiry of the period forfiling of objections, and after such inquiry as he deems fitand having obtained a report from the Officer in Charge ofthe Police Station of the area, authenticate the same andforward it along with his report as to the accuracy of the factsstated therein, to the Divisional Secretary of the divisionwithin which his area is situated. The Divisional Secretaryshall endorse every such application and forward the same tothe Registrar-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      106.06,
+      78.59,
+      164.73
+    ],
+    "text": "Where personsresident incertain area as atDecember 26,2004, are foundmissing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      241.06,
+      75.66,
+      309.33
+    ],
+    "text": "Procedure forobtaining acertificate ofdeath in respectof a personreferred to insection 2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.63,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "3Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      55.35,
+      266.44,
+      167.69
+    ],
+    "text": "(3) Upon receipt of an application, duly authenticatedand endorsed in terms of subsection (2), the Registrar-Generalshall, upon being satisfied on the documents presented, makeorder directing the appropriate Registrar to register in theRegister of Deaths maintained by such Registrar under theBirths and Deaths Registration Act (Chapter 110), theparticulars specified in such application and issue in respectof such person a certificate of death, and such appropriateRegistrar shall forthwith enter such particulars in such registerand sign the register in the appropriate place.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      173.43,
+      266.55,
+      230.69
+    ],
+    "text": "(4) There shall be attached to the duplicate of the relevantregistration entry, the order of the Registrar-General made undersubsection (3), and such duplicate and order shall be sent togetherby the Registrar to the appropriate District Registrar fortransmission to the Registrar-General for custody in his office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      237.39,
+      266.6,
+      294.65
+    ],
+    "text": "4.(1) Where any death has been registered pursuant to anapplication made under section 3 of this Act, and where anyperson at any time thereafter becomes aware that the personwhose death has been so registered is alive, such person shallforthwith furnish such information to the Registrar-General.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      300.39,
+      266.5,
+      368.69
+    ],
+    "text": "(2) The Registrar-General shall on receipt of suchinformation convey the information to the Officer-in-Chargeof the relevant police station, who shall investigate the truthof such information and make a report to the Registrar-General,within four weeks of the date on which such information isconveyed to such officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      374.31,
+      266.61,
+      453.65
+    ],
+    "text": "(3) Upon receipt of a report under subsection (2) and aftersuch inquiry as he may deem necessary the Registrar-General,if satisfied that the person whose death has been registered isalive, shall take such action, or make such order or give suchdirection under section 52 of the Births and DeathsRegistration Act (Chapter 110), as is appropriate in thecircumstances of the case, to rectify the records.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      459.39,
+      266.56,
+      527.69
+    ],
+    "text": "(4) Any inquiry held by the Registrar-General undersubsection (3) shall be concluded within one month of itscommencement and the Registrar-General may, for thepurposes of such inquiry, exercise all the powers exercisableby him under the Births and Deaths Registration Act (Chapter110), in relation to an inquiry held by him under that Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      239.62,
+      335.32,
+      327.09
+    ],
+    "text": "Whereinformation isreceived of aperson beingalive in respectof whom acertificate ofdeath was issuedunder section 3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "4Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      56.43,
+      198.67,
+      70.37
+    ],
+    "text": "5.Any person who\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.37,
+      81.87,
+      333.48,
+      120.65
+    ],
+    "text": "(a)knowingly makes a false statement in an applicationmade by him under section 3, or furnishes falseinformation ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.37,
+      132.63,
+      333.66,
+      184.13
+    ],
+    "text": "(b)being aware that a person whose death has beenregistered in pursuance of an application made undersection 3, is alive, fails to furnish such informationto the Registrar-General ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.21,
+      196.23,
+      333.8,
+      247.61
+    ],
+    "text": "(c)dishonestly or fraudulently uses a certificate of deathissued under the Births and Deaths Registration Actknowing, or having reason to believe that the personreferred to in such certificate is alive,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      259.71,
+      333.74,
+      311.09
+    ],
+    "text": "shall be guilty of an offence under this Act, and shall uponconviction after trial by the High Court be sentenced to aterm of imprisonment of not less than three years and notexceeding five years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      323.19,
+      333.74,
+      349.25
+    ],
+    "text": "6.In this Part of this Act, unless the context otherwiserequires\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120.65,
+      361.23,
+      333.85,
+      412.73
+    ],
+    "text": "\u201cappropriate District Registrar\u201d, \u201cappropriate registrar\u201dand \u201cdistrict\u201d shall have the respective meaningsassigned to them by the Births and DeathsRegistration Act (Chapter 110) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120.65,
+      424.71,
+      333.93,
+      463.49
+    ],
+    "text": "\u201cDistrict Registrar\u201d means a District Registrar of Birthsand Deaths appointed under section 4 of the Birthsand Deaths Registration Act (Chapter 110) and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120.65,
+      475.59,
+      333.78,
+      526.97
+    ],
+    "text": "\u201cRegistrar-General\u201d means the Registrar-General ofBirths and Deaths appointed under section 2 ofthe Births and Deaths Registration Act (Chapter110) and includes a Deputy Registrar-General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      56.5,
+      54.63,
+      67.17
+    ],
+    "text": "Offences.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      323.98,
+      71.11,
+      334.65
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      46.63,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "5Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      289.06,
+      321.06,
+      318.93
+    ],
+    "text": "Authority tomaintain aregister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.27,
+      56.07,
+      162.46,
+      69.41
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.55,
+      80.07,
+      223.27,
+      93.41
+    ],
+    "text": "CUSTODY OF CHILDREN AND YOUNG PERSONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      104.07,
+      266.51,
+      129.41
+    ],
+    "text": "7.The provisions of this Part of this Act shall apply inrespect of\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42.07,
+      140.07,
+      266.33,
+      153.41
+    ],
+    "text": "(a)every child and young person who is left an orphan ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42.07,
+      163.95,
+      266.5,
+      189.77
+    ],
+    "text": "(b)every child left with a single parent who is unableto take care of such child ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42.79,
+      201.15,
+      266.55,
+      239.33
+    ],
+    "text": "(c)every young person left with a single parent who isin need of care and protection, which such parent isunable to provide,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      250.83,
+      266.56,
+      276.53
+    ],
+    "text": "as a result of the Tsunami which occurred on December 26,2004.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      287.91,
+      266.57,
+      375.65
+    ],
+    "text": "8.(1) The National Child Protection Authorityestablished by the National Child Protection Authority Act,No. 50 of 1998 (hereinafter referred to as \u201cthe Authority\u201d)shall maintain a Register containing all available informationrelating to every child who is left an orphan and of everychild and young person in respect of whom foster care isdesired for under section 11 of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      386.07,
+      266.49,
+      446.33
+    ],
+    "text": "(2) The Authority shall be required for the purpose ofensuring that the register maintained under subsection (1)contains accurate information, to make any inquiry as it mayconsider necessary about the children and young personswhose information is recorded in such register.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      456.99,
+      266.55,
+      506.33
+    ],
+    "text": "9. (1) Every person, who on the date of the coming intooperation of this Part of this Act has the custody of a child asis referred to in paragraphs (a) or (b) of section 7 of this Act,shall, unless such person\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42.07,
+      515.07,
+      176.39,
+      528.41
+    ],
+    "text": "(a)is the parent of the child ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      460.06,
+      328.58,
+      489.93
+    ],
+    "text": "Registration ascurrentcustodian.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      104.98,
+      336.81,
+      134.85
+    ],
+    "text": "Application ofthe provisions ofthe Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "6Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      109.37,
+      55.83,
+      333.78,
+      92.81
+    ],
+    "text": "(b)has been granted custody of the child or has beencommitted with the care of the child under any law,after December 26, 2004,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      103.11,
+      333.83,
+      222.65
+    ],
+    "text": "forthwith and in any event not later than one month of thedate of the coming into operation of this Part of this Act,make an application in the form specified in the ThirdSchedule to this Act to the Commissioner of Probation andChild Care Services (hereinafter referred to as the\u201cCommissioner\u201d) for the purpose of being registered as thecurrent custodian of such child. The Commissioner may wherenecessary, delegate to the Divisional Secretary of the areawhere such child is presently resident, the power to accept anapplication and forward the same to the Commissioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      232.83,
+      333.81,
+      293.45
+    ],
+    "text": "(2) Every person having custody of a child referred to insubsection (1) and who fails without just cause to registerwithin the period specified in that subsection, shall be guiltyof an offence and shall upon conviction be liable to a term ofimprisonment of either description not exceeding two years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      303.63,
+      333.92,
+      364.25
+    ],
+    "text": "(3) A child found in the custody of a person who fails toregister as required under subsection (1), shall immediatelybe removed by the Commissioner from the custody of suchperson, upon an order of a Magistrate, issued in the bestinterest of the child.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      374.43,
+      333.78,
+      423.17
+    ],
+    "text": "(4) The Commissioner shall maintain a register containingall available information relating to every current custodianregistered under this section and forward a copy of theinformation to the Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      433.47,
+      333.49,
+      470.45
+    ],
+    "text": "(5) The provisions of this section shall apply also in respectof every institution or organization where any childrenaffected by the Tsunami are being taken care of.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      480.63,
+      333.81,
+      529.37
+    ],
+    "text": "10.(1) It shall be the duty of every current custodian toprovide all such care and protection, including adequateeducation, to the child under his or her care, so long as he orshe remains the current custodian of such child.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      481.06,
+      81.7,
+      501.33
+    ],
+    "text": "Duty of a currentcustodian.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      46.63,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "7Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      55.35,
+      266.52,
+      112.73
+    ],
+    "text": "(2) Where a current custodian who is an individual wishesto be the foster parent to the child under his or her care, anapplication for the same is required to be made under section13 of this Act within one month of such person beingregistered as the current custodian of such child.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      121.35,
+      266.45,
+      167.69
+    ],
+    "text": "11.(1) It shall be the duty of the parent of a child referredto in paragraph (b) of section 7 who desires to place suchchild under foster care, to inform the Authority of that factwithin six months of the coming into operation of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      173.43,
+      266.57,
+      219.77
+    ],
+    "text": "(2) A young person who is referred to in paragraph (a) or(c) of section 7 may, if he or she is desirous of being placedunder foster care, inform the Authority of that fact within sixmonths of the coming into operation of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      225.39,
+      266.6,
+      282.65
+    ],
+    "text": "12.(1) Subject to the upper guardianship of Court, theAuthority shall be the Guardian of every child placed underfoster care by a parent and of every child who is left an orphan,whether or not such child is in the custody of any person, on thedate of the coming into operation of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      288.39,
+      266.56,
+      367.73
+    ],
+    "text": "(2) It shall be the duty of the Authority to ensure that everychild who is not under foster care or who has ceased to be infoster care for any reason whatsoever, is provided with adequatecare, custody and protection inculding education and anyspecial care that may be needed in view of the emotional traumasuffered by such child, and the Authority shall make everyendavour to find a suitable foster parent for such child.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      373.35,
+      266.5,
+      474.65
+    ],
+    "text": "13.(1) Any person, including an individual who is acurrent custodian of a child, who desires to become a fosterparent of a child or young person referred to in section 7 ofthis Act, shall make an application for the issue of a FosterCare Order in the Form as specified in the Fourth Schedule tothis Act, to the Magistrate\u2019s Court within whose jurisdictionsuch person is resident. A copy of the application along withthe information specified in the Fifth Schedule shall be sentto the Authority.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      480.39,
+      266.5,
+      527.33
+    ],
+    "text": "(2) The Magistrate\u2019s Court shall not make an order on anyapplication received under subsection (1), until it receivesthe recommendation of the Panel forwarded by the Authorityunder section 15 of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      122.62,
+      333.05,
+      162.09
+    ],
+    "text": "InformingAuthority ofdesire for fostercare.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      227.86,
+      331.59,
+      248.13
+    ],
+    "text": "Authority to bethe Guardian.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      374.98,
+      338.33,
+      395.25
+    ],
+    "text": "Application to bea foster parent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "8Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      56.31,
+      333.85,
+      144.05
+    ],
+    "text": "14.(1) On receipt of the copy of an application undersection 13, the Chairman of the Authority shall forthwithrefer the same to the Foster Care Evaluation Panel (hereinafterreferred to as the \u201cPanel\u201d) constituted for the Province withinwhich the person who made such application for a FosterCare Order is resident, for the purpose of evaluating thesuitability of the applicant to be a foster parent.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      155.43,
+      333.72,
+      181.25
+    ],
+    "text": "(2) The Panel referred to in subsection (1) shall consistof\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.37,
+      192.63,
+      318.8,
+      205.97
+    ],
+    "text": "(a)the Chairman of the Authority or his nominee ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.37,
+      217.47,
+      333.64,
+      243.17
+    ],
+    "text": "(b)a nominee of the Sri Lanka College ofPaediatricians ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110.21,
+      254.67,
+      333.65,
+      280.37
+    ],
+    "text": "(c)the Commissioner of Probation and Child CareServices, of the relevant Province or his nominee ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.37,
+      291.87,
+      308.8,
+      305.21
+    ],
+    "text": "(d)a Psychologist nominated by the Authority ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      110.21,
+      316.71,
+      303.54,
+      330.05
+    ],
+    "text": "(e)a Psychiatrist nominated by the Authority ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.65,
+      341.43,
+      333.71,
+      367.25
+    ],
+    "text": "(f)the Provincial Director of Education of the relevantprovince or his nominee ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.37,
+      378.63,
+      333.77,
+      404.45
+    ],
+    "text": "(g)the Provincial Director of Health Services, of therelevant Province or his nominee.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      415.83,
+      333.67,
+      454.01
+    ],
+    "text": "(3) The Panel shall function for so long as it may benecessary for the purpose of discharging the functionsentrusted to it under this Part of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      465.51,
+      333.79,
+      528.41
+    ],
+    "text": "(4) The members of the Panel shall elect from amongthemselves one of the members to be its Chairman and alsodetermine the procedure to be followed in conducting itsmeetings. The quorum for a meeting of the Panel shall bethree members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      21.65,
+      56.5,
+      78.63,
+      105.57
+    ],
+    "text": "Authority torefer applicationto a Foster CareEvaluationPanel.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      46.63,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "9Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      55.35,
+      266.55,
+      134.69
+    ],
+    "text": "(5) In evaluating the suitability of an applicant to be afoster parent, the paramount consideration shall be the bestinterest of the child and for that purpose the Panel shall beguided by the criteria specified in the Sixth Schedule to thisAct. The Panel shall also obtain a home study report from aperson holding a designation specified in the SeventhSchedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      143.43,
+      266.51,
+      189.77
+    ],
+    "text": "For the purpose of this subsection, a \u201chome study report\u201dmeans a report on the mental health of the applicants on theirsocial, religious and financial background and on theirsuitability to be a foster parent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      198.39,
+      266.53,
+      277.73
+    ],
+    "text": "15.(1) The Panel shall consequent to its evalution of anapplication, forward its recommendation on the same to theChairman of the Authority within two weeks of receiving theapplication from the Authority, and the Chairman of the Authorityshall forthwith forward the same to the Magistrate\u2019s Court towhich the application pertaining to the child or young person,as the case may be, was made under section 13 of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      284.31,
+      266.5,
+      385.73
+    ],
+    "text": "(2) The Authority shall when forwarding therecommendations under subsection (1), also identify bydesignation and name the person who shall be required toperform the functions specified in section 18 of this Act, asthe Monitoring Officer, in the event a Foster Care Order ismade in favour of the applicant. A person to be identified asthe Monitoring Officer by the Authority, shall be selectedfrom among persons holding such designations as specifiedin the Seventh Schedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      394.35,
+      266.6,
+      529.37
+    ],
+    "text": "16.(1) On receipt of the recommendations of the Panelforwarded by the Chairman of the Authority, and where thePanel recommends the suitability of the applicant to be afoster parent, the Magistrate\u2019s Court may, with the consent ofthe child where such child is over ten years of age or theyoung person, as the case may be, issue a Foster Care Orderappointing the person or persons named in the application asthe Foster Parent or Foster Parents (hereinafter referred to as\u201cFoster Parent\u201d) as the case may be, of the child or youngperson concerned. The Foster Care Order issued shall be insuch Form and be subject to such conditions as specified inthe Eighth Schedule to this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      278.35,
+      200.26,
+      336.07,
+      230.13
+    ],
+    "text": "Panel to forwardits recommenda-tions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      278.35,
+      396.58,
+      317.33,
+      416.85
+    ],
+    "text": "Foster CareOrder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "10Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      56.07,
+      333.86,
+      129.41
+    ],
+    "text": "(2) When issuing the Foster Care Order, the Court shallalso appoint as the Monitoring Officer the person identifiedby the Authority under subsection (2) of section 15, and suchOfficer shall be required to perform the functions referred toin section 18 of this Act in respect of the child or youngperson regarding whom the Foster Care Order is being made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.65,
+      140.07,
+      333.9,
+      153.41
+    ],
+    "text": "(3) A Foster Care Order issued under subsection (1) shall\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.37,
+      164.07,
+      333.82,
+      213.41
+    ],
+    "text": "(a)in the case of a child, be valid for a period of oneyear from the date of it\u2019s issue, even if the childreaches the age of eighteen years prior to theexpiration of that period ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.37,
+      224.07,
+      333.79,
+      273.41
+    ],
+    "text": "(b)in the case of a young person, be valid until suchyoung person reaches the age of twenty-one yearsor such other age as may be specified in the FosterCare Order.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      284.07,
+      333.94,
+      357.41
+    ],
+    "text": "(4) A Foster Care Order issued in respect of a child may,upon application made in that behalf before the expirationof the period of one year to the Magistrate\u2019s Court whichmade such Order, be renewed for a further periods of one yearat a time until the child reaches the age of twenty-one years,subject to the provisions of section 20.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      368.07,
+      333.74,
+      417.41
+    ],
+    "text": "(5) Notwithstanding the issue of a Foster Care Order undersubsection (1), the Authority shall at all times continue toremain as the Guardian of a foster child, until such childreaches the age of eighteen years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      428.07,
+      333.85,
+      525.41
+    ],
+    "text": "17.It shall be the duty of every Foster Parent, to providein respect of the foster child or young person, all such careand protection, exercise all such control and discharge allother obligations, including the provision of adequateeducation and any special care that may be needed in view ofthe emotional trauma suffered by such child or young person,as if such Foster Parent is the natural parent of the foster childor young person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      21.65,
+      430.06,
+      77.95,
+      450.33
+    ],
+    "text": "Duty of a FosterParent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "11Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      56.07,
+      266.54,
+      141.41
+    ],
+    "text": "18.(1) Where a Foster Care Order is made under section16 of this Act, it shall be the duty of the person appointed asthe Monitoring Officer under subsection (2) of that section,to monitor the performance and the discharge of the dutiesand obligations imposed upon the Foster Parent, and submita report once in every three months, in the Form specified inthe Nineth Schedule to this Act, to the Authority.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      152.07,
+      266.61,
+      213.41
+    ],
+    "text": "(2) The Chairman of the Authority shall submit a copy ofthe report sent to the Authority under subsection (1) to thePanel for its evaluation and consideration and the Panel shallbe required to submit to the Authority its comments on theevaluation of the report within one week of its receipt.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      224.07,
+      266.56,
+      297.41
+    ],
+    "text": "19.(1) A Monitoring Officer shall have the power in theperformance of his duties under subsection (1) of section 18,to enter and inspect at any time the premises in which thechild or young person, as the case may be, is for the timebeing resident and to question any person or persons as hemay consider necessary.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      308.07,
+      266.48,
+      369.41
+    ],
+    "text": "(2) Any person obstructing a Monitoring Officer in theperformance of his duties, shall be guilty of an offence underthis Part of this Act, and shall on conviction after summarytrial before a Magistrate, be liable to imprisonment of eitherdescription for a term not exceeding two years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      380.07,
+      266.56,
+      453.41
+    ],
+    "text": "(3) Where the person found guilty of obstructing aMonitoring Officer under subsection (2) is the Foster Parentof the child or young person, in addition to the penaltyimposed by that subsection, the Magistrate\u2019s Court shall havethe power to revoke the Foster Care Order issued in respect ofsuch Foster Parent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      26.35,
+      464.07,
+      266.56,
+      525.41
+    ],
+    "text": "20.(1) Where on receipt of the comments of the Panel,the Authority is of the view that the care and protection given,and the exercise of the control and discharge of the dutiesand obligations imposed upon the Foster Parent is not beingcarried out in the best interest of the child or young person",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      278.35,
+      224.98,
+      338.41,
+      264.45
+    ],
+    "text": "MonitoringOfficer to haveright to enter anypremises etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      278.35,
+      57.22,
+      336.79,
+      135.09
+    ],
+    "text": "Duties of theMonitoringOfficer in regardto the child oryoung person inrespect of whoma Foster CareOrder is made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      278.35,
+      466.06,
+      327.05,
+      495.93
+    ],
+    "text": "Revocation ofFoster CareOrder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "12Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      55.83,
+      333.85,
+      151.01
+    ],
+    "text": "concerned, the Court may on application made for therevocation of the Foster Care Order by the Authority, revokesuch Order and direct the relevant Monitoring Officer toremove the child or young person concerned from the custodyof the foster parent and provide alternate care as shall bespecified by the Court. A revocation of a Foster Care Ordershall be in such form as specified in the Tenth Schedule tothis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      161.07,
+      333.93,
+      221.21
+    ],
+    "text": "(2) Where a Foster Care Order is revoked, the Magistrate\u2019sCourt which revoked the same may on receipt of anapplication for foster care from any other person, issue a freshFoster Care Order, and the provisions of section 13 to section19 shall apply in respect to such application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      231.27,
+      333.84,
+      303.17
+    ],
+    "text": "21.No Court shall entertain an application for adoptionof a child referred to in paragraph (a) and paragraph (b) ofsection 7 of this Act under the Adoption of ChildrenOrdinance (Chapter 61), unless and until such child shallhave first been placed in foster care under a Foster Care Orderissued under section 16 of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      313.23,
+      333.81,
+      420.17
+    ],
+    "text": "22.(1) Any person, including a Foster Parent may, wheresuch person is desirous of adopting a child, make anapplication for the same under the Adoption of childrenOrdinance, to the District Court within whose jurisdictionsuch child is currently resident, and the Court may subject tothe provisions of this Act, make an order authorizing suchadoption. No adoption order shall take effect until theexpiration of a period of one year from the date of the makingof the Foster Care Order.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      430.23,
+      333.76,
+      466.97
+    ],
+    "text": "(2) An application for adoption under subsection (1) maybe made at anytime after the expiration of a period of ninemonths since a child has been placed under foster care.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      477.03,
+      333.77,
+      525.65
+    ],
+    "text": "(3) In the event of there being more than one applicationunder subsection (1) in respect of any child, the Court shallmake such order as it seems fit, taking into consideration thebest interest of the child.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      22.61,
+      232.06,
+      77.48,
+      300.33
+    ],
+    "text": "No adoptionunder Adoptionof ChildrenOrdinanceunless child isunder fostercare.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      21.65,
+      314.02,
+      74.89,
+      353.49
+    ],
+    "text": "Application foradoption of achild underfoster care.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "13Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      55.95,
+      266.51,
+      105.29
+    ],
+    "text": "(4) Where an application made for adoption is granted bya District Court, an order of renewal of the Foster Care Ordermade in respect of that child shall forthwith be deemed tohave abated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      115.95,
+      266.57,
+      177.29
+    ],
+    "text": "23.(1) The provisions of sections 3 and 4 of the Adoptionof Children Ordinance shall apply in respect of an adoptionunder this Part of this Act, provided that in the case of a childunder ten years of age, no adoption order shall be madewithout the consent of the Authority.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      187.95,
+      266.51,
+      261.29
+    ],
+    "text": "(2) In satisfying itself as regards the matters set out inparagraph (b) of section 4 of the Adoption of ChildrenOrdinance, the Court shall, where the adoption applicationis made by the foster parent of the child concerned, take intoconsideration the reports submitted by the Monitoring Officerrelating to such child during the period of foster care.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      271.95,
+      266.58,
+      369.29
+    ],
+    "text": "24.(1) Where the child in respect of whom an adoptionorder is made under section 22 is not in possession of a birthcertificate, the Court shall specify in the order made the dateof birth of such child where such date is known, or where thedate is not known, the Court shall specify as the date of birthof such child, such date as is stated in a certificate issued bya Medical Practitioner to be the probable date of birth ofsuch child.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      379.95,
+      266.54,
+      441.29
+    ],
+    "text": "(2) The Court once it makes its order on the adoptionapplication, shall also direct the Registrar General of Birthsand Deaths to issue forthwith a certificate of birth to thechild, where the child concerned is not in possession of abirth certificate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      451.95,
+      266.57,
+      525.77
+    ],
+    "text": "25.An adoption order made under this Act shall,notwithstanding anything to the contrary contained in theAdoption of Children Ordinance, be deemed for all purposesto be an adoption order made under that Ordinance, and theprovisions of that Ordinance shall, mutatis mutandis applyto and in respect of such order.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      119.02,
+      333.76,
+      177.69
+    ],
+    "text": "Provisions ofsections 3 and 4of the Adoptionof ChildrenOrdinance toapply.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      275.5,
+      324.02,
+      295.77
+    ],
+    "text": "Issue of brithcertificate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      454.06,
+      324.81,
+      512.64
+    ],
+    "text": "Provisions ofAdoption ofChildrenOrdinance toapply mutatismutandis.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "14Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      56.67,
+      333.74,
+      109.01
+    ],
+    "text": "26.The Authority shall have the power to perform anddischarge the duties and functions assigned to such Authorityunder this Part of this Act, notwithstanding the provisions ofthe National Child Protection Authority Act, No. 50 of 1998.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      147.63,
+      333.77,
+      174.05
+    ],
+    "text": "27.Unless the context otherwise requires, for thepurposes of this Part of this Act\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105.65,
+      186.63,
+      318.01,
+      199.97
+    ],
+    "text": "\u201cchild\u201d means a person under eighteen years of age ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105.65,
+      212.67,
+      333.63,
+      252.05
+    ],
+    "text": "\u201cMedical Practitioner\u201d means a Medical Practitionerregistered under the Medical Ordinance (Chapter105) ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      105.65,
+      264.63,
+      333.8,
+      291.05
+    ],
+    "text": "\u201cyoung person\u201d means a person who has attainedeighteen years but under twenty-one years of age.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      196.01,
+      303.63,
+      231.31,
+      316.97
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      190.01,
+      329.67,
+      237.26,
+      343.01
+    ],
+    "text": "PRESCRIPTION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      355.71,
+      333.83,
+      433.97
+    ],
+    "text": "28.(1) Adverse possession of immovable property whichhad commenced prior to December 26, 2004 by a personaffected by the Tsunami shall not be considered to have beeninterrupted for a period of one year from December 26, 2004,if that person was prevented from continuing in his possessionas a result of the Tsunami.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      446.67,
+      333.88,
+      525.05
+    ],
+    "text": "(2) Possession of immovable property by a personreferred to in subsection (1), shall not be considered to havebeen interrupted by reason only of the fact that suchproperty was in the possession of any other person orpersons during the period December 26, 2004 to December26, 2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      21.65,
+      356.5,
+      78.6,
+      395.97
+    ],
+    "text": "Adversepossession notconsidered to beinterrupted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      22.61,
+      56.14,
+      80.32,
+      111.81
+    ],
+    "text": "Authority to actnotwithstandingthe National ChildProtectionAuthority Act,No. 50 of 1998.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      21.65,
+      147.46,
+      71.11,
+      158.13
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "15Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      55.83,
+      266.6,
+      185.09
+    ],
+    "text": "29.In calculating the prescribed time within which anyaction, appeal or application is required to be instituted orfiled or any act is required to be done in any Court or tribunalby any written law or where any act is required to be donewithin a prescribed time by any written law, the periodcommencing from December 26, 2004 and ending onDecember 26, 2005 shall be excluded, if the person who wasrequired to institute or file such action or do the particularact within the prescribed time is a person who was affectedby theTsunami and such person was unable to take such stepas a result of the Tsunami.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      128.35,
+      195.03,
+      164.37,
+      208.37
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48.79,
+      215.55,
+      243.88,
+      240.53
+    ],
+    "text": "ACTIONS UNDER SECTION 66 OF THE PRIMARY COURTS\u2019PROCEDURE ACT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      247.83,
+      266.61,
+      411.89
+    ],
+    "text": "30.(1) Where information relating to a land situatedwithin the area affected by the Tsunami is filed under section66 of the Primary Courts\u2019 Procedure Act, No. 44 of 1979 atany time during the period December 26, 2004 to December26, 2005 and an inquiry is held by such Court to determineas to who is entitled to possession of the land,notwithstanding anything to the contrary in section 68 ofsuch Act, the person who was in possession of such land onDecember 26, 2004 or where such person has died or ismissing, any person or persons who were in possession of theland with that person, shall be deemed to be the person orpersons who are in possession of such land and the Judgeshall make order declaring such person or persons to beentitled to possess the land.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      421.71,
+      266.54,
+      528.17
+    ],
+    "text": "(2) Where the person or persons who had been inpossession of any land referred to in subsection (1) had beenforcibly dispossessed of such land at any time within twomonths prior to December 26, 2004 by the person or personsdeemed to be in possession of such land under that subsection,the Judge shall direct that the person or persons sodispossessed be restored back in possession and prohibit anydisturbance of such possession otherwise than under theauthority of an order or decree of competent court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      278.35,
+      58.06,
+      332.37,
+      135.93
+    ],
+    "text": "Exclusion ofcertain periodfrom thecalculation oftime prescribedfor the filing ofcertain actionsetc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      278.35,
+      249.1,
+      334.65,
+      278.97
+    ],
+    "text": "Possession ofland affected bythe Tsunami.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "16Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      197.57,
+      55.83,
+      229.88,
+      69.17
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      175.37,
+      76.35,
+      251.81,
+      89.69
+    ],
+    "text": "TENANTS OF PREMISES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      100.23,
+      333.83,
+      173.57
+    ],
+    "text": "31. Where any person was, on December 26, 2004, atenant or a lessee of any premises or any land affected by theTsunami, his tenancy or leasehold rights shall not standterminated, by reason only of the fact that the subject matterof the tenancy or the lease was destroyed or made unsuitablefor occupation or possession as a result of the Tsunami.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      196.01,
+      183.99,
+      231.3,
+      197.33
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      122.57,
+      206.43,
+      304.87,
+      219.77
+    ],
+    "text": "OFFENCES IN RESPECT OF TSUNAMI RELIEF PROPERTY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      231.27,
+      333.9,
+      340.61
+    ],
+    "text": "32.Where any person is found guilty of havingcommitted the offence of criminal misappropriation, criminalbreach of trust, theft, extortion, robbery, cheating or retentionof stolen property within the meaning of the Penal Code, inrelation to any property including money intended for thepurpose of affording relief to those affected by the Tsunami,such person shall on conviction be liable to a penal sanctionequal to twice the penal sanction imposed for that offenceunder the Penal Code.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      351.27,
+      333.47,
+      388.61
+    ],
+    "text": "33.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      101.02,
+      79.38,
+      130.89
+    ],
+    "text": "Tenant or lesseesrights not to beterminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      233.02,
+      78.67,
+      301.29
+    ],
+    "text": "Penalty forcertain offencesunder the PenalCode committedin relation toTsunami reliefproperty.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      352.06,
+      80.88,
+      381.93
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "17Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      112.15,
+      58.18,
+      266.37,
+      68.85
+    ],
+    "text": "FIRST SCHEDULE[Section 2]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      78.1,
+      152.89,
+      88.77
+    ],
+    "text": "Divisional Secretaries Divisions of\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      97.3,
+      266.33,
+      117.57
+    ],
+    "text": "1.Colombo, Thimbirigasyaya, Dehiwala, Moratuwa andRatmalana in the Administrative District of Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      125.86,
+      266.44,
+      146.01
+    ],
+    "text": "2.Negombo and Wattala in the Administrative District ofGampaha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      154.42,
+      266.47,
+      174.57
+    ],
+    "text": "3.Panadura, Kalutara and Beruwala in the AdministrativeDistrict of Kalutara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      182.86,
+      266.53,
+      212.61
+    ],
+    "text": "4.Bentota, Balapitiya, Ambalangoda, Hikkaduwa, Galle FourGravets and Habaraduwa in the Administrative District ofGalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      220.9,
+      266.4,
+      241.05
+    ],
+    "text": "5.Weligama, Matara Four Gravets, Devinuwara and Dikwellain the Administrative District of Matara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      249.34,
+      266.06,
+      269.61
+    ],
+    "text": "6.Tissamaharama, Hambantota, Ambalantota and Tangalle inthe Administrative District of Hambantota.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      277.9,
+      266.37,
+      307.53
+    ],
+    "text": "7.Island North (Kayts), Karaveddi, Point Pedro,Chavakachcheri, Karainagar, Maruthenkemy, Thellippalai,and Delft in the Administrative District of Jaffna.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      315.82,
+      266.4,
+      336.09
+    ],
+    "text": "8.Puthukudiyiruppu and Marithempattu in the AdministrativeDistrict of Mulativu.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.63,
+      344.38,
+      266.32,
+      364.53
+    ],
+    "text": "9.Kandavalai and Poonakkarai in the Administrative Districtof Kilinochchi.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42.07,
+      372.82,
+      266.41,
+      421.53
+    ],
+    "text": "10.Koralai Pattu Centre, Chenkaladi, Valachchenai,Kalavanchikudy, Eravur Town, Manmunai North, Vaharan,Katankudy, Ariyampati, Kiran, Vellaveli, Paddipalai,Vavnativu and Oddamavady in the Administrative Districtof Batticaloa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42.07,
+      429.82,
+      266.43,
+      469.05
+    ],
+    "text": "11.Kalmunai, Sainthamarathu, Karatevu, Ninthavur,Addalachchenai, Akkaraipattu, Alayadiwembu, Thirukkovil,Pothuvil and Lahugala in the Administrative District ofAmpara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42.07,
+      477.34,
+      266.38,
+      507.09
+    ],
+    "text": "12.Kuchchaveli, Trincomalee Town and Gravets,Thambalagamuwa, Kinniya, Muttur, Seruvila and Verugal/Echchilampattai in the Administrative District of Trincomalee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42.07,
+      515.38,
+      254.29,
+      526.05
+    ],
+    "text": "13.Wennappuwa in the Administrative District of Puttalam.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "18Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      174.29,
+      56.5,
+      333.62,
+      67.17
+    ],
+    "text": "SECOND SCHEDULE[Section 3 (2)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      75.7,
+      331.23,
+      86.37
+    ],
+    "text": "To : The Grama Niladhari of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109.01,
+      94.9,
+      318.28,
+      105.57
+    ],
+    "text": "APPLICATION FOR ISSUE OF A CERTIFICATE OF DEATH OF A MISSING PERSON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      114.1,
+      234.0,
+      124.77
+    ],
+    "text": "1.Full Name of missing person :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      133.3,
+      146.94,
+      143.97
+    ],
+    "text": "2.Sex :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      152.5,
+      150.67,
+      163.17
+    ],
+    "text": "3.Race :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      171.7,
+      148.36,
+      182.37
+    ],
+    "text": "4.Age :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      190.9,
+      182.08,
+      201.57
+    ],
+    "text": "5.Date of Death :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      210.1,
+      245.92,
+      220.77
+    ],
+    "text": "6.Address of last known residence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      229.3,
+      245.19,
+      239.97
+    ],
+    "text": "7.Address of permanent residence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      248.5,
+      200.03,
+      259.17
+    ],
+    "text": "8.Rank or profession :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      113.93,
+      267.7,
+      208.3,
+      278.37
+    ],
+    "text": "9.Applicant\u2019s full name :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109.37,
+      286.9,
+      303.79,
+      297.57
+    ],
+    "text": "10.Applicant\u2019s place of residence and telephone No. :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109.37,
+      306.1,
+      251.98,
+      316.77
+    ],
+    "text": "11.Applicant\u2019s profession/occupation :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109.37,
+      325.3,
+      314.95,
+      335.97
+    ],
+    "text": "12.Applicant\u2019s place of employment and telephone No. :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      109.37,
+      344.5,
+      278.77,
+      355.17
+    ],
+    "text": "13.Applicant\u2019s relationship to missing person :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      363.7,
+      333.82,
+      422.37
+    ],
+    "text": "I. . . . . . . . . . . . . . . . . . . . . .. . . . . of . . . . . . . . . . . . . . . . . . . . . . . . dohereby state that the said . . . . . . . . . . . . . . . . . . . (name of personmissing) . . . . . . . . . . . . . . . . . . . . . . . has been missing for a period ofover six months and I verily believe that the said . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . is dead and that his death isattributable to the Tsunami.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      430.9,
+      333.83,
+      460.77
+    ],
+    "text": "I therefore request that the death be registered under the Births andDeaths Registration Act (Chapter 110) and a Certificate of Death inrespect of such person be issued to me.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      469.3,
+      327.24,
+      489.57
+    ],
+    "text": "Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Signature of Applicant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "19Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      110.71,
+      56.5,
+      266.41,
+      67.17
+    ],
+    "text": "THIRD SCHEDULE[Section 9(1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      75.7,
+      237.02,
+      86.37
+    ],
+    "text": "To : The Commissioner of Probation and Child Care Services",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      43.27,
+      94.9,
+      249.42,
+      105.57
+    ],
+    "text": "APPLICATION FOR REGISTRATION AS THE CURRENT CUSTODIAN OF A CHILD",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      114.1,
+      94.57,
+      124.77
+    ],
+    "text": "Details of Applicant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      42.07,
+      134.98,
+      266.41,
+      349.65
+    ],
+    "text": "1.Name :2.Address :3.Date of birth :4.Sex :5.Identity Card No. :6.Religion :7.Marital status :8.If married name of spouse :9.Profession/Occupation :10.Application\u2019s Relationship to child, if any :11.Date of taking child into applicant\u2019s custody :12.Where and how applicant found child :13.Are you aware whether parent/parents are alive ? :14.Have you made any attempt to find the child\u2019s parent/guardian ? :15.If married, does your spouse agree to your retention of thechild as current custodian ? If so please furnish letter ofconsent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      358.9,
+      80.3,
+      369.57
+    ],
+    "text": "Details of Child",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      46.63,
+      379.78,
+      266.37,
+      450.45
+    ],
+    "text": "1.Name :2.Sex :3.Date of birth, if known :4.Address, if known :5.Name of parent\u2019s if known :6.Are you aware whether child\u2019s parent/parents are surviving ? :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      459.7,
+      266.4,
+      479.97
+    ],
+    "text": "I hereby certify that the above particulars are true to the best of myknowledge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      488.5,
+      259.94,
+      508.77
+    ],
+    "text": "Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Applicant\u2019s Signature",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "20Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      174.65,
+      56.5,
+      333.61,
+      67.17
+    ],
+    "text": "FOURTH SCHEDULE[Section 13(1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      136.01,
+      75.7,
+      291.3,
+      86.37
+    ],
+    "text": "APPLICATION FOR THE ISSUE OF A FOSTER CARE ORDER",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      94.9,
+      260.31,
+      105.57
+    ],
+    "text": "To : The Magistrate\u2019s Court of . . . . . . . . . . . . . .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      114.1,
+      333.8,
+      134.37
+    ],
+    "text": "I/we, the undersigned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . resident at. . . . . . . . . . . . . . . . . . . . . . . . . . . hereby state\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      113.93,
+      142.9,
+      333.85,
+      181.05
+    ],
+    "text": "1.I/we am/are desirous of being appointed as foster parent/s ofa child/young person [Name of child/young person] undersection 16 of the Tsunami (Special Provisions) Act, No. 16of 2005 ; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      113.93,
+      188.62,
+      333.56,
+      208.41
+    ],
+    "text": "2.I/we have not made any other application under the said Actto be appointed as a foster parent ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      215.86,
+      152.09,
+      226.53
+    ],
+    "text": "and/or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      234.1,
+      333.75,
+      263.01
+    ],
+    "text": "I/we have made an application under the said Act to beappointed as a foster parent and such application is pendingbefore the Magistrate\u2019s Court of . . . . . . . . . . . . . . . . ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      270.46,
+      152.09,
+      281.13
+    ],
+    "text": "and/or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      288.7,
+      333.67,
+      317.49
+    ],
+    "text": "I/we have been appointed a foster parent of . . . . . [Name ofchild/young person] . . . . by the Foster Care Order made on. . . . . . . . . by the Magistrate\u2019s Court of . . . . . . . . . . . . .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      321.94,
+      152.09,
+      332.61
+    ],
+    "text": "and/or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      337.06,
+      333.44,
+      356.85
+    ],
+    "text": "An adoption order has been made/is pending, by/before theDistrict Court of . . . . . . . . . . . . . . . under the above Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      113.93,
+      364.42,
+      333.76,
+      384.09
+    ],
+    "text": "3.I/We hereby agree that, if granted foster care of a child/young person, I/we agree to the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.21,
+      388.54,
+      333.82,
+      426.57
+    ],
+    "text": "(a)to provide care and protection, exercise, control anddischarge the obligations including the provision ofeducation, in respect of the child/young person as if I/we am/are his/her parent/s ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.21,
+      431.02,
+      333.75,
+      459.81
+    ],
+    "text": "(b)to permit the Monitoring Officer to visit our home orother place at which the child/young person is residentfor purposes of discharging his duties under the Act ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.93,
+      464.26,
+      333.85,
+      493.17
+    ],
+    "text": "(c)to undergo such training as may be provided on caringfor a child/young person who has been emotionallytraumatized ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.21,
+      497.62,
+      333.8,
+      526.77
+    ],
+    "text": "(d)to surrender the custody of the child/young person to aMonitoring Officer, in the event that the Foster CareOrder is revoked.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "21Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      56.5,
+      266.59,
+      76.77
+    ],
+    "text": "In witness whereof I/we have signed this application on . . . . . . . .day of . . . . . . . 2005.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.71,
+      85.3,
+      266.39,
+      105.57
+    ],
+    "text": ". . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . .Name of ApplicantSignature of Applicant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      107.5,
+      266.39,
+      127.77
+    ],
+    "text": ". . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . .Name of SpouseSignature of Spouse",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      129.7,
+      266.36,
+      140.37
+    ],
+    "text": "Date. . . . . . . . . . . . . . . . .Date. . . . . . . . . . . . . . . .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      111.79,
+      156.82,
+      266.15,
+      167.49
+    ],
+    "text": "FIFTH SCHEDULE[Section 13 (1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      100.27,
+      176.02,
+      192.43,
+      186.69
+    ],
+    "text": "INFORMATION UNDER SECTION 13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      195.22,
+      182.45,
+      205.89
+    ],
+    "text": "To: The National Child Protection Authority :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      214.42,
+      266.43,
+      244.29
+    ],
+    "text": "The following information is hereby furnished in terms of section 13of the Tsunami (Special Provisions) Act, No. ....of 2005 for the purposeof evaluating the suitability of the applicant to be a foster parent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      253.63,
+      142.65,
+      263.4
+    ],
+    "text": "Information Regarding Applicant",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      268.42,
+      123.05,
+      279.09
+    ],
+    "text": "1.Name : Mr/Mrs/Ms. :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      284.02,
+      82.61,
+      294.69
+    ],
+    "text": "2.Address :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      299.62,
+      122.39,
+      310.29
+    ],
+    "text": "3.Date of Birth d/m/y :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      318.82,
+      165.69,
+      329.49
+    ],
+    "text": "4.Age as at the date of application :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      338.02,
+      189.08,
+      348.69
+    ],
+    "text": "5.Gender: M/F6. Religion :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      357.22,
+      84.08,
+      367.89
+    ],
+    "text": "7.NIC No. :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      372.82,
+      189.09,
+      383.49
+    ],
+    "text": "8.Marital status : Married/Single/Divorced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      34.63,
+      390.7,
+      214.52,
+      401.37
+    ],
+    "text": "9.(a)Current employment and monthly salary :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.35,
+      403.66,
+      236.53,
+      414.33
+    ],
+    "text": "(b)How long have you been in this employment ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.35,
+      416.62,
+      173.34,
+      427.29
+    ],
+    "text": "(c)Previous employment, if any :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      437.83,
+      129.75,
+      447.6
+    ],
+    "text": "Information regarding spouse",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      30.07,
+      456.22,
+      110.32,
+      466.89
+    ],
+    "text": "10.Name of spouse :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      30.07,
+      475.42,
+      135.84,
+      486.09
+    ],
+    "text": "11.Date of marriage d/m/y :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      30.07,
+      504.22,
+      156.73,
+      514.89
+    ],
+    "text": "12.Date of birth of spouse d/m/y :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "22Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      56.5,
+      263.03,
+      67.17
+    ],
+    "text": "13.Current employment and monthly salary :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      75.7,
+      260.79,
+      86.37
+    ],
+    "text": "14.Names of children, if any and their ages :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      95.71,
+      201.62,
+      105.48
+    ],
+    "text": "Current Custodian Registration",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      114.1,
+      333.55,
+      143.97
+    ],
+    "text": "15.Does your spouse consent to this application being made ? Yes/NoPlease attach letter of consent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      152.5,
+      333.57,
+      172.77
+    ],
+    "text": "16.Do you currently have custody of a child affected by theTsunami ? Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      181.3,
+      333.71,
+      201.57
+    ],
+    "text": "17.If \u2018yes\u2019, have you registered yourself as the current custodian?Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      210.1,
+      333.55,
+      220.77
+    ],
+    "text": "18.If \u201cYes\u201d , date and Province of registration and Registration Number :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      229.3,
+      333.58,
+      259.17
+    ],
+    "text": "19.If you are a current custodian, do you wish to apply to be thefoster parent of the child who is presently in your custody ? Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      268.51,
+      244.32,
+      278.28
+    ],
+    "text": "Information Regarding Child/Young Person",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      286.9,
+      333.61,
+      307.17
+    ],
+    "text": "20.Have you identified the child/young person you wish to foster ?Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.37,
+      315.7,
+      167.7,
+      326.37
+    ],
+    "text": "21.(i) If \u201cYes\u201d \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.21,
+      331.3,
+      245.95,
+      341.97
+    ],
+    "text": "(a)Name of child/young person :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.21,
+      346.9,
+      198.7,
+      357.57
+    ],
+    "text": "(b)Present address :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.93,
+      362.5,
+      196.32,
+      373.17
+    ],
+    "text": "(c)Age, if known :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.21,
+      378.1,
+      171.65,
+      388.77
+    ],
+    "text": "(d)Gender :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.93,
+      393.7,
+      333.81,
+      413.97
+    ],
+    "text": "(e)As far as you are aware, does the child/young personhave siblings ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      124.37,
+      418.9,
+      333.63,
+      439.17
+    ],
+    "text": "(f)If so, are you willing to take the siblings also to your careas a foster parent ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.21,
+      444.1,
+      333.49,
+      464.37
+    ],
+    "text": "(g)To the best of your knowledge, does the child/youngperson have a living parent ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.21,
+      469.3,
+      295.51,
+      479.97
+    ],
+    "text": "(h)If \u201cyes\u201d, please state address of such parent :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      124.37,
+      484.9,
+      298.44,
+      495.57
+    ],
+    "text": "(i)Does the parent consent to this application ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      124.37,
+      500.5,
+      329.84,
+      511.17
+    ],
+    "text": "(j)How long have you known the child/young person ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      122.93,
+      516.1,
+      329.91,
+      526.77
+    ],
+    "text": "(k)How did you come to know the child/young person? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "23Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      57.07,
+      56.5,
+      230.31,
+      67.17
+    ],
+    "text": "(l)Are you related to the child/young person ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      53.35,
+      75.7,
+      266.32,
+      95.97
+    ],
+    "text": "(m)Did you know the child/ young person before theTsunami occurred ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      54.79,
+      104.5,
+      266.2,
+      124.77
+    ],
+    "text": "(n)Did you know the parents of the child/young person,before the Tsunami occurred ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      54.79,
+      133.3,
+      266.56,
+      143.97
+    ],
+    "text": "(o)Do you know whether the parent/s of the child are alive ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      54.79,
+      152.5,
+      246.13,
+      163.17
+    ],
+    "text": "(p)If so, please state their known place of residence :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.79,
+      171.7,
+      103.38,
+      182.37
+    ],
+    "text": "(ii)If \u201cNo\u201d, state\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      54.79,
+      190.9,
+      266.31,
+      211.17
+    ],
+    "text": "(a)Do you wish to foster a child or a young person ? child/young person",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      54.79,
+      219.7,
+      171.88,
+      230.37
+    ],
+    "text": "(b)What is the preferred age ? :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      55.63,
+      238.9,
+      225.9,
+      249.57
+    ],
+    "text": "(c)What is the preferred gender ? Female/Male",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.07,
+      258.1,
+      266.54,
+      287.97
+    ],
+    "text": "22.If you wish to foster a young person, for how long would youwant the Foster Care Order to operate ? One year/Until theyoung person reaches.........years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.07,
+      296.5,
+      266.29,
+      316.77
+    ],
+    "text": "23.Do you or your spouse propose to go overseas for employmentduring the next one year ? Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.07,
+      325.3,
+      232.51,
+      335.97
+    ],
+    "text": "24.Have you been convicted by a court of law ? Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      50.35,
+      344.5,
+      242.45,
+      355.17
+    ],
+    "text": "If \u201cyes\u201d, please state offence and punishment received :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.07,
+      363.7,
+      240.22,
+      374.37
+    ],
+    "text": "25.Have you been charged before a court of law ? Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      50.35,
+      382.9,
+      129.85,
+      393.57
+    ],
+    "text": "If \u201cyes\u201d, state offence :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      30.07,
+      402.1,
+      266.2,
+      422.37
+    ],
+    "text": "26.Have you gone before the Mediation Board to settle a dispute ?Yes/No",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      50.35,
+      430.9,
+      185.39,
+      441.57
+    ],
+    "text": "If \u201cyes\u201d, please state nature of dispute :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      26.35,
+      452.5,
+      242.74,
+      472.77
+    ],
+    "text": "Date : . . . . . . . . . . . ............................................Signature of Applicant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "24Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      178.37,
+      56.5,
+      333.61,
+      67.17
+    ],
+    "text": "SIXTH SCHEDULE[Section 14(5)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      96.65,
+      75.7,
+      330.65,
+      86.37
+    ],
+    "text": "CRITERIA FOR EVALUATING THE SUITABILITY OF AN APPLICANT TO BE A FOSTER PARENT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      94.9,
+      268.22,
+      105.57
+    ],
+    "text": "1.As far as possible the child should be \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.93,
+      114.1,
+      333.49,
+      134.37
+    ],
+    "text": "(a) with extended family or known person in preferenceto persons unknown to the child ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.21,
+      142.9,
+      333.51,
+      163.17
+    ],
+    "text": "(b) within the accustomed environment or communityof the child, with minimum relocation ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.93,
+      168.1,
+      333.76,
+      197.97
+    ],
+    "text": "(c) with foster parents who are of the same ethnic andreligious group in keeping with the hereditary rightsof the child ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.21,
+      202.9,
+      333.51,
+      223.17
+    ],
+    "text": "(d) with foster parents who are of the same cultural andlinguistic background as the child ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.93,
+      228.1,
+      199.33,
+      238.77
+    ],
+    "text": "(e) with siblings.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      247.3,
+      333.63,
+      277.17
+    ],
+    "text": "2.A couple shall be preferable. However, a single parent maybe considered if it is in the best interests of the child aftergiving due consideration to all the other criteria set out herein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      285.7,
+      333.59,
+      305.97
+    ],
+    "text": "3.Difference in age between the foster parent and child shouldbe between 25 to 45 years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      312.1,
+      333.59,
+      332.37
+    ],
+    "text": "4.Couples should be legally married for a period of not lessthan 3 years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      338.5,
+      333.49,
+      358.77
+    ],
+    "text": "5.The following persons should not be considered as fosterparents\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.21,
+      367.3,
+      333.75,
+      406.77
+    ],
+    "text": "(a) Persons with a history of Alcoholism, substanceabuse, physical, mental or emotional impediment thatwould interfere with the proper upbringing of thechild ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.21,
+      411.7,
+      333.78,
+      441.57
+    ],
+    "text": "(b) Persons with a history of maltreatment or who hadbeen a recipient of child protection services duringchilhood ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.93,
+      446.5,
+      333.79,
+      466.77
+    ],
+    "text": "(c) Persons who have been convicted of any offence orwho have a police record ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      137.21,
+      471.7,
+      333.49,
+      491.97
+    ],
+    "text": "(d) Persons who plan to proceed overseas for employmentor other reason for a long period of time.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      113.93,
+      496.9,
+      333.63,
+      526.77
+    ],
+    "text": "6.The foster family should be a stable family where theapplicant-parents demonstrate effective parenting capabilitiesand marital accord and the absence of domestic violence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "25Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      46.63,
+      56.5,
+      266.52,
+      95.97
+    ],
+    "text": "7.A family where there has recently been a death of a childshould not be considered unless placement in such a familywould be in the best interests of the child after giving dueconsideration to all the other criteria set out herein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      46.63,
+      102.1,
+      154.61,
+      112.77
+    ],
+    "text": "8.Foster parents should be\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      118.9,
+      266.53,
+      139.17
+    ],
+    "text": "(a) willing to undergo training in caring for a child oryoung person who has been emotionally traumatized ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      144.1,
+      266.41,
+      164.37
+    ],
+    "text": "(b) willing and capable to undergo training in theprovision of health and safety responsibilities ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      70.63,
+      169.3,
+      266.33,
+      189.57
+    ],
+    "text": "(c) agreeable to being interviewed or visited as part ofthe assessment and monitoring process.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      46.63,
+      195.7,
+      131.38,
+      206.37
+    ],
+    "text": "9.The home should\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      214.9,
+      266.37,
+      235.17
+    ],
+    "text": "(a) have adequate space for all family members residingtherein ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      243.7,
+      266.28,
+      273.57
+    ],
+    "text": "(b) be maintained to a good standard of cleanliness,hygiene and safety, comparable with the age of thechild.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.07,
+      279.7,
+      266.27,
+      290.37
+    ],
+    "text": "10.The foster parents should be able to provide the following\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      298.9,
+      245.21,
+      309.57
+    ],
+    "text": "(a) adequate primary and preventive health care ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      69.79,
+      315.7,
+      266.25,
+      345.57
+    ],
+    "text": "(b) health care needs that meet the physical, mental,emotional and social development of the child oryoung person;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      70.63,
+      351.7,
+      266.32,
+      371.97
+    ],
+    "text": "(c) necessary nutrition to achieve the full growth potentialof the child or young person.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.07,
+      378.1,
+      266.24,
+      398.37
+    ],
+    "text": "11.The foster parents should be able to ensure that child isprovided adequate education.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.07,
+      404.5,
+      266.48,
+      443.97
+    ],
+    "text": "12.The foster parents should be willing to provide opportunitiesfor the child or young person to maintain and develop contactwith extended family and friends unless such contact is notreasonably practicable or consistent with the child\u2019s welfare.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.07,
+      450.1,
+      266.39,
+      470.37
+    ],
+    "text": "13.The wishes of the child should be given adequateconsideration.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.07,
+      476.5,
+      266.24,
+      496.77
+    ],
+    "text": "14.Consideration shall be given to the desire of the applicant toadopt the child after the Foster Care period.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      26.35,
+      505.3,
+      266.29,
+      525.57
+    ],
+    "text": "The Panel may, in applying the above guidelines, make such inquiriesand investigations as may be considered necessary therefor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "26Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      171.65,
+      56.74,
+      333.6,
+      67.41
+    ],
+    "text": "SEVENTH SCHEDULE[Section 15 (2)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      101.21,
+      76.3,
+      326.21,
+      86.97
+    ],
+    "text": "DESIGNATIONS OF PERSONS FROM AMONG WHOM A MONITORING OFFICER SHALL BE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      200.93,
+      88.66,
+      226.38,
+      96.13
+    ],
+    "text": "SELECTED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      105.65,
+      105.7,
+      169.37,
+      116.37
+    ],
+    "text": "Probation Officers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      105.65,
+      125.26,
+      217.4,
+      135.93
+    ],
+    "text": "Child Rights Promotion Officers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      105.65,
+      144.94,
+      178.37,
+      155.61
+    ],
+    "text": "Principals of Schools",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      105.65,
+      164.5,
+      333.64,
+      185.01
+    ],
+    "text": "Co-ordinators of District Child Protection Committees of the NationalChild Protection Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      175.01,
+      213.46,
+      333.56,
+      224.13
+    ],
+    "text": "EIGHTH SCHEDULE[Section 16(1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      233.14,
+      246.01,
+      243.81
+    ],
+    "text": "In The Magistrate\u2019s Court of........................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      252.7,
+      198.61,
+      263.37
+    ],
+    "text": "Case No..................................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      158.57,
+      272.26,
+      268.84,
+      282.93
+    ],
+    "text": "FOSTER CARE ORDER AND CONDITIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      291.82,
+      218.83,
+      312.33
+    ],
+    "text": "To : [Name of Foster Parent/Parents][Address]",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      101.93,
+      321.22,
+      333.7,
+      361.29
+    ],
+    "text": "1.You are hereby appointed as the Foster Parent/s of [name ofchild/young person], for a period of one year from the date ofthis order*/until.................on which date the said [name of youngperson] will reach...............years.*",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      117.65,
+      370.3,
+      125.09,
+      380.97
+    ],
+    "text": "or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      117.65,
+      389.86,
+      333.48,
+      429.93
+    ],
+    "text": "The Foster Care Order made on..............appointing you as theFoster Parent/s of [name of child/young person], for a period ofone year is hereby renewed for a further period of one yearfrom.................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      101.93,
+      438.82,
+      316.36,
+      449.49
+    ],
+    "text": "2.This appointment is subject to the following conditions\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      122.21,
+      458.5,
+      333.79,
+      527.97
+    ],
+    "text": "(a)that you provide the foster child/young person with allsuch care and protection, exercise all such control anddischarge all such obligations including the provision ofeducation and any special care that may be needed inview of the emotional trauma suffered by the child/youngperson, as if you are the natural parent of such child/young person; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "27Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      54.79,
+      57.22,
+      266.49,
+      131.49
+    ],
+    "text": "(b)that you render all such assistance and co-operation as isrequired to enable the Monitoring Officer namedhereunder, to report on the foster care provided by youand for this purpose to grant him entry into the premisesin which the foster child/young person is resident, at anytime and to examine any person or inspect any place asmay be necessar therefor.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      34.63,
+      141.94,
+      266.33,
+      163.29
+    ],
+    "text": "3.In the event that you violate any of the conditions above, theFoster Care Order is liable to be revoked.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      34.63,
+      173.74,
+      266.53,
+      205.65
+    ],
+    "text": "4.You are required to hand over the custody of the child/youngperson to an officer nominated by the National Child ProtectionAuthority-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      54.79,
+      216.22,
+      158.98,
+      226.89
+    ],
+    "text": "(a)if this Order is revoked ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      54.79,
+      237.34,
+      193.75,
+      248.01
+    ],
+    "text": "(b)upon the expiration of this Order ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      55.63,
+      258.58,
+      190.49,
+      269.25
+    ],
+    "text": "(c)upon the abatement of this Order.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      35.59,
+      279.82,
+      246.92,
+      290.49
+    ],
+    "text": "5......................is hereby named as the Monitoring Officer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      300.94,
+      253.54,
+      332.85
+    ],
+    "text": ". . . . . . . . . . . . . . . . . . . . . .Signature of Magistrate and SealDate...........................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      107.71,
+      364.54,
+      266.26,
+      375.21
+    ],
+    "text": "NINETH SCHEDULE[Section 18(1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      114.79,
+      385.78,
+      177.8,
+      396.45
+    ],
+    "text": "FOSTER CARE REPORT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      407.02,
+      234.21,
+      417.69
+    ],
+    "text": "Province :.....................Report for the Period :.....................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      428.14,
+      87.77,
+      438.81
+    ],
+    "text": "Foster Care Order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      449.38,
+      216.99,
+      460.05
+    ],
+    "text": "Date of OrderDate of expiration of Order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      470.62,
+      88.64,
+      481.29
+    ],
+    "text": "Names of Parties :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      491.74,
+      162.89,
+      502.41
+    ],
+    "text": "Name of Foster Parent/s .......................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      512.98,
+      196.69,
+      523.65
+    ],
+    "text": "Name of Foster child/young person.....................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      20.55,
+      313.33,
+      33.89
+    ],
+    "text": "28Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      56.5,
+      183.8,
+      86.37
+    ],
+    "text": "Address........................................................................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      94.9,
+      208.35,
+      105.57
+    ],
+    "text": "(1) Comment on the following\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.21,
+      116.5,
+      332.94,
+      127.17
+    ],
+    "text": "(a)Characteristics of suitability of parent/s and the family :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.21,
+      129.7,
+      286.51,
+      140.37
+    ],
+    "text": "(b)Characteristics of the home environment :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.93,
+      142.9,
+      185.1,
+      153.57
+    ],
+    "text": "(c)Health care :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.21,
+      156.1,
+      264.54,
+      166.77
+    ],
+    "text": "(d)Protection from abuse and neglect :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.93,
+      169.3,
+      218.03,
+      179.97
+    ],
+    "text": "(e)Educational facilities :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      124.37,
+      182.5,
+      212.02,
+      193.17
+    ],
+    "text": "(f)Skills development :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.21,
+      195.7,
+      269.11,
+      206.37
+    ],
+    "text": "(g)Safeguarding the rights of the child :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      122.21,
+      208.9,
+      332.06,
+      219.57
+    ],
+    "text": "(h)Maintaining contact with extended family and friends :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      124.37,
+      222.1,
+      333.49,
+      232.77
+    ],
+    "text": "(i)Special Comments/Observations of the foster child/young",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      141.65,
+      235.3,
+      169.38,
+      245.97
+    ],
+    "text": "person :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      255.7,
+      261.71,
+      266.37
+    ],
+    "text": "(2) Are the best interests of the child being met ?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      274.9,
+      332.42,
+      295.17
+    ],
+    "text": ". . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . .Name of Monitoring OfficerSignature of Monitoring Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      303.7,
+      163.38,
+      314.37
+    ],
+    "text": "Date . . . . . . . . . . . .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      176.93,
+      332.5,
+      333.63,
+      343.17
+    ],
+    "text": "TENTH SCHEDULE[Section 20(1)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      160.01,
+      351.7,
+      267.28,
+      362.37
+    ],
+    "text": "REVOCATION OF FOSTER CARE ORDER",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      370.9,
+      185.07,
+      381.57
+    ],
+    "text": "Province...........................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      390.1,
+      204.04,
+      410.37
+    ],
+    "text": "[Name of Foster Parent/Parents][Address]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      418.9,
+      333.79,
+      448.77
+    ],
+    "text": "The Foster Care Order made on [state date of order] appointing youas the foster parent/s of [name of foster child/young person] is herebyrevoked with immediate effect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      457.3,
+      333.81,
+      487.17
+    ],
+    "text": "You are required to hand over the custody of the said child/youngperson forthwith to [name of authorized Monitoring Officer] who isauthorized to remove him/her from your custody.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      495.7,
+      324.79,
+      525.57
+    ],
+    "text": ". . . . . . . . . . . . . . . . . . . . . . .Signature of Magistrate and SealDate...............................",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      46.63,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "29Tsunami (Special Provisions) Act, No. 16 of 2005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      26.35,
+      486.58,
+      338.34,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
