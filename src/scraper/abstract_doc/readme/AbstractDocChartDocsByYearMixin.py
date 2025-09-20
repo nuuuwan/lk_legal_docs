@@ -13,6 +13,7 @@ class AbstractDocChartDocsByYearMixin:
         "si": "#8D153A",
         "ta": "#EB7400",
         "en": "#00534E",
+        "si-ta-en": "#FFBE29",
     }
 
     @classmethod
@@ -24,6 +25,17 @@ class AbstractDocChartDocsByYearMixin:
         # E.g. ../lk_acts_data/data/lk_acts/docs_by_year_and_lang.png
         return os.path.join(
             cls.get_dir_docs_for_cls(), cls.get_chart_image_name()
+        )
+
+    @classmethod
+    def get_raw_remote_chart_image_url(cls) -> str:
+        # E.g. https://raw.githubusercontent.com/nuuuwan/lk_appeal_court_judgements/refs/heads/data/data/lk_appeal_court_judgements/docs_by_year_and_lang.png # noqa: E501
+        return "/".join(
+            [
+                cls.get_raw_remote_data_branch_url(),
+                cls.get_dir_docs_for_cls_relative(),
+                cls.get_chart_image_name(),
+            ]
         )
 
     @classmethod

@@ -17,6 +17,8 @@ class AbstractDocBase(ABC):
     url_metadata: str
     lang: str
 
+    LANGS = ["si", "ta", "en", "si-ta-en"]
+
     @classmethod
     def get_repo_name(cls) -> str:
         return os.path.basename(os.getcwd())
