@@ -1,9 +1,10 @@
 import json
 import math
 import os
+import shutil
 from functools import cached_property
 
-from utils import Log
+from utils import File, Log
 
 log = Log("BigJSONFile")
 
@@ -28,46 +29,31 @@ class BigJSONFile:
 
     def write(self, data_list: list):
         assert isinstance(data_list, list)
-        if not self.exists:
-            os.makedirs(self.dir_path, exist_ok=True)
-        total_size = len(BigJSONFile.to_json(data_list))
-        n_chunks = int(math.ceil(total_size / self.MIN_BIG_FILE_SIZE))
-        n_per_chunk = int(math.ceil(len(data_list) / n_chunks))
+        if self.exists:
+            shutil.rmtree(self.dir_path)
+        os.makedirs(self.dir_path, exist_ok=True)
 
-        for i_chunk in range(n_chunks):
-            chunk_path = os.path.join(
-                self.dir_path, f"part-{i_chunk:03d}.json"
-            )
-            i_start = i_chunk * n_per_chunk
-            i_end = min(i_start + n_per_chunk, len(data_list))
-            chunk_data = data_list[i_start:i_end]
-            with open(chunk_path, "w", encoding="utf-8") as f:
-                f.write(BigJSONFile.to_json(chunk_data))
+        content = json.dumps(data_list, indent=2)
+        total_size = len(content)
+        n_chunks = math.ceil(total_size / self.MIN_BIG_FILE_SIZE)
+        chunk_size = math.ceil(total_size / n_chunks)
+
+        for i in range(n_chunks):
+            chunk_path = os.path.join(self.dir_path, f"part_{i + 1:03d}")
+            i_start = i * chunk_size
+            i_end = min((i + 1) * chunk_size, total_size)
+            chunk_content = content[i_start:i_end]
+            File(chunk_path).write(chunk_content)
             chunk_size_m = os.path.getsize(chunk_path) / 1_000_000
             log.debug(f"Wrote {chunk_path} ({chunk_size_m:.1f} MB)")
-        total_size_m = total_size / 1_000_000
-        log.info(f"Wrote {self.dir_path} ({total_size_m:.1f} MB)")
-
-    def __get_chunk_paths__(self) -> list:
-        if not self.exists:
-            return []
-        chunk_paths = []
-        for file_name in os.listdir(self.dir_path):
-            if file_name.startswith("part-") and file_name.endswith(".json"):
-                chunk_paths.append(os.path.join(self.dir_path, file_name))
-        chunk_paths.sort()
-        return chunk_paths
 
     def read(self) -> list:
-        data_list = []
-        for chunk_path in self.__get_chunk_paths__():
-            with open(chunk_path, "r", encoding="utf-8") as f:
-                chunk_data = BigJSONFile.from_json(f.read())
-                assert isinstance(chunk_data, list)
-                data_list.extend(chunk_data)
-            chunk_size_m = os.path.getsize(chunk_path) / 1_000_000
-            log.debug(f"Read {chunk_path} ({chunk_size_m:.1f} MB)")
-        total_size = len(BigJSONFile.to_json(data_list))
-        total_size_m = total_size / 1_000_000
-        log.info(f"Read {self.dir_path} ({total_size_m:.1f} MB)")
-        return data_list
+        if not self.exists:
+            return []
+        content_list = []
+        for chunk_file in sorted(os.listdir(self.dir_path)):
+            chunk_path = os.path.join(self.dir_path, chunk_file)
+            chunk_content = File(chunk_path).read()
+            content_list.append(chunk_content)
+        content = "".join(content_list)
+        return json.loads(content)
