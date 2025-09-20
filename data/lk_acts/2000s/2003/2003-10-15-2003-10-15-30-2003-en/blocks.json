@@ -1,0 +1,793 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      49.63,
+      135.18,
+      315.01,
+      192.79
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.35,
+      248.11,
+      305.17,
+      279.13
+    ],
+    "text": "TEA RESEARCH BOARD (AMENDMENT)ACT, No. 30 OF 2003",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.79,
+      360.09,
+      255.66,
+      372.3
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      112.99,
+      334.56,
+      251.82,
+      348.41
+    ],
+    "text": "[Certified on 15th October, 2003]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.07,
+      480.58,
+      274.63,
+      491.25
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.79,
+      490.18,
+      285.79,
+      500.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      512.64,
+      338.19,
+      526.49
+    ],
+    "text": "Price : Rs. 5.50Postage : Rs. 4.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.47,
+      425.55,
+      324.32,
+      451.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of October17, 2003",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.79,
+      21.57,
+      267.39,
+      45.78
+    ],
+    "text": "1Tea Research Board (Amendment)Act, No. 30 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.83,
+      56.55,
+      212.77,
+      69.89
+    ],
+    "text": "[Certified on 15th October, 2003]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      74.55,
+      92.06,
+      87.89
+    ],
+    "text": "L. D.\u2014O. 16/99.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.47,
+      95.55,
+      225.19,
+      120.89
+    ],
+    "text": "AN ACT TO AMEND THE TEA RESEARCH BOARDACT, NO. 52 OF 1993",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      128.55,
+      265.46,
+      153.89
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      161.55,
+      265.51,
+      210.89
+    ],
+    "text": "1.This Act may be cited as the Tea Research Board(Amendment) Act, No. 30 of 2003 and shall come intooperation on such date as the Minister may appoint by Orderpublished in the Gazette.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      218.55,
+      265.53,
+      267.89
+    ],
+    "text": "2.Section 5 of the Tea Research Board Act, No. 52 of1993 (hereinafter referred to as \u201cthe principal enactment\u201d) ishereby amended by the addition at the end of that section, ofthe following paragraphs :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.83,
+      272.55,
+      217.32,
+      285.89
+    ],
+    "text": "\u201c(f)to promote investment in tea research ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.11,
+      290.55,
+      265.47,
+      339.89
+    ],
+    "text": "(g)to undertake the collection and dissemination ofdata on the tea industry and to conduct research toascertain the development potential of the teaindustry ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.11,
+      344.55,
+      265.47,
+      381.89
+    ],
+    "text": "(h)to advise the Minister on appropriate policies inrelation to the tea industry and to co-ordinate withother relevent agencies\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      389.55,
+      265.38,
+      426.89
+    ],
+    "text": "3.Section 7 of the principal enactment is hereby amendedby the repeal of subsections (1) and (2) thereof, and thesubstitution therefor of the following subsections :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.39,
+      431.55,
+      157.25,
+      444.89
+    ],
+    "text": "\u2018(1)The Board shall consist of \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.11,
+      449.55,
+      265.42,
+      498.89
+    ],
+    "text": "(a)the person holing office for the time being asthe Director of the Tea Research Institute, whoshall be the ex-officio member of the Board ;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.11,
+      503.55,
+      265.46,
+      528.89
+    ],
+    "text": "(b)the following nominated members appointedby the Minister, namely\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      280.39,
+      163.18,
+      329.07,
+      193.05
+    ],
+    "text": "Short title anddate ofoperation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279.31,
+      221.02,
+      335.55,
+      250.89
+    ],
+    "text": "Amendment ofsection 5 of ActNo. 52 of 1993.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279.79,
+      392.02,
+      333.09,
+      431.49
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      27.19,
+      538.78,
+      141.12,
+      549.45
+    ],
+    "text": "2\u2014H 019151\u20145,650 (07/2003)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.17,
+      20.55,
+      283.28,
+      47.7
+    ],
+    "text": "2Tea Research Board (Amendment)Act, No. 30 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159.65,
+      56.55,
+      333.66,
+      117.89
+    ],
+    "text": "(i)a representative of the Tea SmallHoldings Development Authorityestablished by the Tea Small HoldingsDevelopment Authority Law, No. 35 of1975, nominated by such Authority ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.65,
+      128.55,
+      333.85,
+      213.89
+    ],
+    "text": "(ii)a representative of the Planters\u2019Association of Ceylon established bythe Planters\u2019 Association of CeylonOrdinance (Chapter 291) nominated bysuch Association in consultation withthe Tea Association of Sri Lanka(TASL) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      153.65,
+      224.55,
+      333.73,
+      273.89
+    ],
+    "text": "(iii)a representative of the Ministry of theMinister in charge of the subject ofPlantation Industries, nominated by thatMinister ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154.37,
+      281.55,
+      333.73,
+      318.89
+    ],
+    "text": "(iv)a representative of the Ministry of theMinister in charge of the subject ofFinance, nominated by that Minister ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.37,
+      326.55,
+      333.83,
+      399.89
+    ],
+    "text": "(v)two members nominated by the Ministerin charge of the subject of PlantationIndustries from amongst persons havingsufficient knowledge and research anddevelopment experience in theagricultural sector ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      154.37,
+      407.55,
+      333.82,
+      468.89
+    ],
+    "text": "(vi)two members representing TradeUnions, which shall be selected on suchcriteria as may be determined by theMinister in charge of the subject ofPlantation Industries :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      177.65,
+      476.55,
+      333.74,
+      525.89
+    ],
+    "text": "For the purposes of this sub-paragraph\u201cTrade Union\u201d shall have the samemeaning as in the Trade UnionsOrdinance (Chapter 138) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.79,
+      21.57,
+      267.39,
+      45.78
+    ],
+    "text": "3Tea Research Board (Amendment)Act, No. 30 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.07,
+      56.07,
+      266.4,
+      117.41
+    ],
+    "text": "(vii)one member nominated by theFederation of Tea Small HoldingsDevelopment Societies in consultationwith the Tea Association of Sri Lanka(TASL) ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.07,
+      127.23,
+      266.48,
+      175.01
+    ],
+    "text": "(viii)one member nominated by the PrivateTea Factory Owners\u2019 Association inconsultation with the Tea Associationof Sri Lanka (TASL).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      185.55,
+      266.18,
+      210.89
+    ],
+    "text": "(2) The Minister shall appoint one of the appointedmembers as the Chairman of the Board.\u2019.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      221.55,
+      266.56,
+      258.89
+    ],
+    "text": "4.Section 10 of the principal enactment is herebyamended in paragraph (5) thereof by the substitution for thewords \u201cfive members\u201d of the words \u201csix members.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      281.55,
+      266.56,
+      354.89
+    ],
+    "text": "5.Section 12 of the principal enactment is herebyamended by the substitution for the words \u201cTea ResearchInstitute referred to in section 7(1) (a) (i) shall\u201d of the words\u201cTea Research Institute referred to in paragraph (a) ofsubsection (1) of section 7 shall be the chief executive officerof the Institute and shall,\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      365.55,
+      266.51,
+      426.89
+    ],
+    "text": "6.The members of the Board holding office on the dayimmediately preceding the date of commencement of thisAct shall continue to hold office as such until such time theBoard is reconstituted under section 7 of the principalenactment as amended by this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      437.55,
+      266.55,
+      462.89
+    ],
+    "text": "7.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279.79,
+      223.06,
+      337.56,
+      262.53
+    ],
+    "text": "Amendment ofsection 10 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279.79,
+      283.54,
+      337.56,
+      323.01
+    ],
+    "text": "Amendment ofsection 12 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279.79,
+      368.02,
+      321.09,
+      388.29
+    ],
+    "text": "Transitionalprovision.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.39,
+      439.54,
+      338.13,
+      469.41
+    ],
+    "text": "Sinhala text toprevail in caseof inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.17,
+      20.55,
+      283.28,
+      47.7
+    ],
+    "text": "4Tea Research Board (Amendment)Act, No. 30 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      22.61,
+      487.66,
+      334.72,
+      527.13
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respectof the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
