@@ -108,7 +108,7 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
 
     @classmethod
     def get_lines_chart_docs_by_year(cls) -> list[str]:
-        cls.get_chart_build()
+        cls.build_chart()
         return [
             "## Documents By Year",
             "",

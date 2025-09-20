@@ -61,12 +61,17 @@ class AbstractDocMetadataMixin:
         }
 
     @classmethod
-    def get_year_to_n(cls):
-        year_to_n = {}
+    def get_year_to_lang_to_n(cls):
+        idx = {}
         for doc in cls.list_all():
-            year_to_n[doc.year] = year_to_n.get(doc.year, 0) + 1
-        year_to_n = dict(sorted(year_to_n.items(), key=lambda x: x[0]))
-        return year_to_n
+            year = doc.date_str[:4]
+            lang = doc.lang
+            if year not in idx:
+                idx[year] = {}
+            if lang not in idx[year]:
+                idx[year][lang] = 0
+            idx[year][lang] += 1
+        return idx
 
     @classmethod
     def get_all_tsv_path(cls, suffix) -> str:
