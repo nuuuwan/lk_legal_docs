@@ -9,6 +9,10 @@ log = Log("AbstractDocTextMixin")
 class AbstractDocTextMixin:
 
     @cached_property
+    def text_from_metadata(self) -> str:
+        return "\n".join([self.description])
+
+    @cached_property
     def text_path(self) -> str:
         return os.path.join(self.dir_doc, "doc.txt")
 
@@ -21,8 +25,7 @@ class AbstractDocTextMixin:
         return os.path.join(self.dir_doc, "README.md")
 
     def extract_text(self):
-        content = self.description
-        File(self.text_path).write(content)
+        File(self.text_path).write(self.text_from_metadata)
         log.info(f"Wrote {self.text_path}")
 
     def get_text(self):
