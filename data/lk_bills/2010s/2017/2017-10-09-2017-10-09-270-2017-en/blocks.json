@@ -1,0 +1,8827 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.67,
+      433.77,
+      219.28
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.57,
+      237.99,
+      368.02,
+      251.27
+    ],
+    "text": "Part II of October 06, 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.79,
+      341.85,
+      280.07
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 09. 10. 2017)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      212.13,
+      433.25,
+      387.56,
+      448.74
+    ],
+    "text": "SAFEGUARD MEASURES",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      467.17,
+      303.71,
+      478.24
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      491.17,
+      311.85,
+      502.24
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.69,
+      523.69,
+      455.73,
+      558.76
+    ],
+    "text": "to provide for the conduct of investigations and the application of safeguardmeasures on products imported into Sri Lanka; and for matters connectedtherewith or incidental thereto.",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.85,
+      586.09,
+      436.28,
+      597.16
+    ],
+    "text": "Ordered to be published by the Minister of Industry and Commerce",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      639.55,
+      402.81,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      455.72,
+      670.24
+    ],
+    "text": "Price : Rs. 51.00Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.85,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "1Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      683.11,
+      253.3,
+      692.18
+    ],
+    "text": "2 PL 010346\u2014\u2013475 (09/2017)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      481.39,
+      447.58,
+      509.66
+    ],
+    "text": "Short titleand date ofoperation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.29,
+      345.89,
+      153.29,
+      357.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      419.93,
+      156.09,
+      431.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.65,
+      502.97,
+      156.09,
+      514.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      574.97,
+      155.01,
+      586.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      540.19,
+      452.13,
+      568.46
+    ],
+    "text": "Applicationof safeguardmeasures.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      202.97,
+      239.85,
+      214.31
+    ],
+    "text": "L.D.\u2014O. 69 / 2016",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      226.97,
+      401.85,
+      250.31
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE CONDUCT OF INVESTIGATIONS AND THEAPPLICATION OF SAFEGUARD MEASURES ON PRODUCTS IMPORTED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      250.97,
+      401.85,
+      262.31
+    ],
+    "text": "INTO SRI LANKA; AND FOR MATTERS CONNECTED THEREWITH OR",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      262.97,
+      245.83,
+      274.31
+    ],
+    "text": "INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      286.97,
+      401.88,
+      322.31
+    ],
+    "text": "WHEREAS Sri Lanka was one of the original contractingparties to the General Agreement on Tariffs and Trade of1947(GATT 1947):",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      334.97,
+      401.86,
+      382.31
+    ],
+    "text": "AND WHEREAS the General Agreement on Tariffs and Trade1994 (GATT 1994) which is based upon the text of GATT1947 and was signed in April 1994, includes among othersthe Agreement on Safeguards:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      394.97,
+      401.89,
+      430.31
+    ],
+    "text": "AND WHEREAS it is expedient to make legislativeprovisions for the implementation of the Agreement onSafeguards Measurers on products imported into Sri Lanka:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      442.97,
+      401.89,
+      466.31
+    ],
+    "text": "BE it therefore enacted by Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      478.97,
+      401.89,
+      526.31
+    ],
+    "text": "1.This Act may be cited as the Safeguard MeasuresAct, No. of 2017, shall come into operation on such date asthe Minister may appoint, by the Order published in theGazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      538.97,
+      401.9,
+      670.31
+    ],
+    "text": "2.(1)The safeguard measures may be applied onproducts imported into Sri Lanka, where the Director Generalof Commerce (hereinafter referred to as the \u201cDirectorGeneral\u201d) determines pursuant to an investigation initiatedand conducted in accordance with the provisions of thisAct, that the investigated product is being imported in suchincreased quantities, absolute or relative to domesticproduction and under such conditions, so as to cause orthreaten to cause serious injury to the domestic industryproducing like or directly competitive products, and thatthe application of safeguard measures is in the public interest.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      288.55,
+      443.14,
+      297.62
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      635.93,
+      155.01,
+      647.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "2Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.35,
+      250.73,
+      148.35,
+      262.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      347.69,
+      151.15,
+      359.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      431.69,
+      151.15,
+      443.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      502.73,
+      151.15,
+      514.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      588.77,
+      151.15,
+      600.11
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      202.97,
+      397.2,
+      262.31
+    ],
+    "text": "(2) Any decisions relating to the application, suspensionor withdrawal of safeguard measures and the modificationor extension of periods of application of safeguard measuresshall be the responsibility of the Inter Ministerial Committee(hereinafter referred of as the \u201cCommittee\u201d).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      274.97,
+      397.17,
+      298.31
+    ],
+    "text": "3. (1) The Committee shall, subject to the provisions ofsubsection (2), consist of the following members:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      310.97,
+      397.18,
+      334.31
+    ],
+    "text": "(a)the Secretary to the Ministry of the Minister, whoshall be the Chairman of the Committee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      346.97,
+      397.18,
+      370.31
+    ],
+    "text": "(b)the Secretary to the Ministry of the Minister incharge of the subject of Finance or his nominee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      382.97,
+      397.19,
+      418.31
+    ],
+    "text": "(c)the Secretary to the Ministry of the Minister incharge of the subject of Industrial Development orhis nominee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      430.97,
+      397.18,
+      466.31
+    ],
+    "text": "(d)the Secretary to the Ministry of the Minister incharge of the subject of Internal Trade or hisnominee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      478.97,
+      397.18,
+      514.31
+    ],
+    "text": "(e)the Secretary to the Ministry of the Minister incharge of the subject of Agriculture or hisnominee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.15,
+      526.97,
+      397.18,
+      562.31
+    ],
+    "text": "(f)the Secretary to the Ministry of the Minister incharge of the subject of Foreign Affairs or hisnominee ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      574.97,
+      397.15,
+      598.31
+    ],
+    "text": "(g)the Director-General of Customs or his nominee;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      610.97,
+      397.16,
+      634.31
+    ],
+    "text": "(h)a nominee of the Governor of the Central Bank ofSri Lanka.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      646.97,
+      397.2,
+      670.31
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1),considering the nature of the proposal being submitted for",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      276.31,
+      445.88,
+      304.58
+    ],
+    "text": "Constitutionof theCommittee.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239.85,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "3Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      148.29,
+      251.93,
+      153.29,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      323.93,
+      156.09,
+      335.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      408.89,
+      156.09,
+      420.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      467.93,
+      156.09,
+      479.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.65,
+      538.97,
+      156.09,
+      550.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      622.97,
+      155.01,
+      634.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      203.93,
+      401.88,
+      263.27
+    ],
+    "text": "its consideration under this Act, and where the Chairmanconsiders it appropriate, he may, in consultation with themembers referred to in paragraphs (b) and (c) of subsection(1), co-opt not more than two other members to theCommittee.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      275.93,
+      401.91,
+      335.27
+    ],
+    "text": "(3) The Chairman of the Committee shall, if present,preside at all meetings of such Committee, and in the absenceof the Chairman from any such meeting, the members presentshall nominate one of the members present to preside atsuch meeting.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      347.93,
+      401.89,
+      395.27
+    ],
+    "text": "(4) The quorum for any meeting of the Committee shallbe four members and the procedure in regard to the conductof meetings and the transaction of its business, shall beregulated by such Committee.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      407.93,
+      401.91,
+      491.27
+    ],
+    "text": "4.(1) For the purpose of this Act, a determination as towhether increased imports of the investigated product havecaused a threat of serious injury or serious injury to adomestic industry, shall be based upon an evaluation of allrelevant factors of an objective and quantifiable naturehaving a bearing on such domestic industry, and in particular,the following factors :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      503.93,
+      401.87,
+      551.27
+    ],
+    "text": "(a)the rate and amount of the increase in imports ofthe investigated product in absolute terms andrelative to domestic production of like or directlycompetitive products; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      563.93,
+      401.87,
+      587.27
+    ],
+    "text": "(b)the share of the domestic market taken by increasedimports of the investigated product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.29,
+      599.93,
+      401.9,
+      671.27
+    ],
+    "text": "(c)the consequent impact on the domestic industry ofthe like or directly competitive products, evidencedby changes in relevant economic indicators suchas production, capacity utilization, inventories,sales, prices (such as decrease in domestic prices orlack of increase in domestic prices, which could",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      409.51,
+      434.13,
+      428.18
+    ],
+    "text": "Seriousinjury.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "4Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.35,
+      265.73,
+      148.35,
+      277.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      335.69,
+      151.15,
+      347.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      407.69,
+      151.15,
+      419.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      479.69,
+      151.15,
+      491.03
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      551.69,
+      151.15,
+      563.03
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193.15,
+      202.97,
+      397.18,
+      238.31
+    ],
+    "text": "have otherwise occurred in the absence of increasedimports), productivity, profits and losses, return oninvestments, cash flow and employment; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      250.97,
+      397.19,
+      310.31
+    ],
+    "text": "(d)any other relevant factors other than increasedimports of the investigated product which also arecausing or threatening to cause serious injury tothe domestic industry, though such injury shall notbe attributed to the increased imports.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      322.97,
+      397.19,
+      382.31
+    ],
+    "text": "(2) A determination of threat of serious injury or seriousinjury shall be based on objective evidence that demonstratesthe existence of a causal link between the increased importsof the product concerned and the alleged threat of seriousinjury or injury.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      394.97,
+      397.21,
+      466.31
+    ],
+    "text": "(3) Where factors other than increased imports causesthreat of serious injury or serious injury to the domesticindustry in question at the same time, such serious injuryshall not be attributed to such increased imports. In suchcases, the Director-General may refer the complaint for anti-dumping or countervailing duty investigations, if necessary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      478.97,
+      397.2,
+      538.31
+    ],
+    "text": "5. A determination of a threat of serious injury causedby increased imports of the investigated product shall bebased only on actual facts, and in making such adetermination, in addition to the factors specified in section4, the following shall also be taken into consideration:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      550.97,
+      397.19,
+      586.31
+    ],
+    "text": "(a)the actual and potential export capacity of thecountry or countries of production or origin of theinvestigated product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      598.97,
+      397.16,
+      622.31
+    ],
+    "text": "(b)any build-up of inventories in the country orcountries of exportation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      634.97,
+      397.19,
+      670.31
+    ],
+    "text": "(c)the probability of exports of the investigatedproduct entering the domestic market in increasingquantities; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      480.19,
+      436.16,
+      508.46
+    ],
+    "text": "Threat ofseriousinjury.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      635.93,
+      150.31,
+      647.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      239.85,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "5Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.29,
+      265.97,
+      153.29,
+      277.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      354.89,
+      156.09,
+      366.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      442.97,
+      156.09,
+      454.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      518.93,
+      156.09,
+      530.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      594.89,
+      156.09,
+      606.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      204.29,
+      401.88,
+      228.23
+    ],
+    "text": "(d)any other factors determined relevant by theDirector-General.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      242.09,
+      401.88,
+      291.23
+    ],
+    "text": "6.An investigation to determine whether increasedimports of the investigated product have caused or isthreatening to cause serious injury to a domestic industry,shall be initiated:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      305.09,
+      401.89,
+      341.63
+    ],
+    "text": "(a)upon a written application being made to theDirector-General by or on behalf of a domesticindustry; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      355.49,
+      371.85,
+      366.83
+    ],
+    "text": "(b)by the Director-General on his own behalf.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      380.69,
+      401.85,
+      417.23
+    ],
+    "text": "7.(1) An application made under paragraph (a) ofsection 6 shall provide such information as is reasonablyavailable to the applicant on the following matters:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      431.09,
+      401.9,
+      480.23
+    ],
+    "text": "(a)a complete description of the imported productincluding its technical characteristics and uses andan identification of its tariff classification and theduties applicable to such product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      494.09,
+      401.9,
+      530.63
+    ],
+    "text": "(b)a complete description of the domestic like ordirectly competitive products, including thetechnical characteristics and uses of such products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.29,
+      544.49,
+      401.95,
+      618.83
+    ],
+    "text": "(c)the names and addresses of the enterprises makingthe application or the enterprises on whose behalfthe application is being made (hereinafter referredto as the \u201crequesting enterprises\u201d) and of all otherknown producers of the domestic like or directlycompetitive products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.57,
+      632.69,
+      401.88,
+      669.23
+    ],
+    "text": "(d)the percentage of domestic production of the likeor directly competitive products represented by therequesting enterprises;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      242.59,
+      452.86,
+      270.86
+    ],
+    "text": "Requirementof a writtenapplication.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      381.55,
+      450.58,
+      429.02
+    ],
+    "text": "Informationrequired tobe includedin theapplication.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "6Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.35,
+      264.77,
+      148.35,
+      276.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.71,
+      335.69,
+      151.15,
+      347.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.71,
+      425.69,
+      151.15,
+      437.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.75,
+      520.97,
+      150.19,
+      532.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.35,
+      623.93,
+      150.79,
+      635.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.71,
+      202.97,
+      397.18,
+      250.31
+    ],
+    "text": "(e)information on the volume and value of theimported product for each of the three calendar yearspreceding the date of making the application andany other recent data, by the country of origin;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      175.15,
+      262.97,
+      397.19,
+      298.31
+    ],
+    "text": "(f)a description of the increase in imports and inparticular whether such increase is absolute orrelative to domestic production, or both;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.87,
+      310.97,
+      397.2,
+      358.31
+    ],
+    "text": "(g)information relating to the serious injury or threatof serious injury to the domestic industry, for eachof the three calendar years preceding the date ofmaking the application and recent data, including-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      194.71,
+      370.97,
+      338.58,
+      382.31
+    ],
+    "text": "(i)with respect to serious injury-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      391.97,
+      397.17,
+      415.31
+    ],
+    "text": "(A)volume and value of the domesticproduct;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      424.97,
+      382.9,
+      436.31
+    ],
+    "text": "(B)utilization of production capacity;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      445.97,
+      357.45,
+      457.31
+    ],
+    "text": "(C)changes in inventory levels;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      466.97,
+      295.87,
+      478.31
+    ],
+    "text": "(D)market share;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.15,
+      487.97,
+      336.42,
+      499.31
+    ],
+    "text": "(E)changes in sales levels;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.87,
+      508.97,
+      397.18,
+      532.31
+    ],
+    "text": "(F)level of employment and wages in thedomestic industry;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      541.97,
+      337.19,
+      553.31
+    ],
+    "text": "(G)changes in price levels;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      562.97,
+      295.88,
+      574.31
+    ],
+    "text": "(H)productivity;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      223.15,
+      583.97,
+      302.59,
+      595.31
+    ],
+    "text": "(I)profit and loss;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222.43,
+      604.97,
+      328.88,
+      616.31
+    ],
+    "text": "(J)return on investment;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      219.43,
+      625.97,
+      300.43,
+      637.31
+    ],
+    "text": "(K)cash flow; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      220.15,
+      646.97,
+      397.19,
+      670.31
+    ],
+    "text": "(L)any other information that may relateto the existence of a serious injury;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      239.85,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "7Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      148.29,
+      274.97,
+      153.29,
+      286.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.05,
+      347.93,
+      155.49,
+      359.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.05,
+      419.93,
+      155.49,
+      431.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.09,
+      491.93,
+      154.53,
+      503.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.57,
+      564.89,
+      155.01,
+      576.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200.85,
+      203.93,
+      380.13,
+      215.27
+    ],
+    "text": "(ii)with respect to threat of serious injury-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224.13,
+      227.93,
+      401.88,
+      251.27
+    ],
+    "text": "(A)export capacity in the exportingcountries;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224.13,
+      263.93,
+      401.89,
+      299.27
+    ],
+    "text": "(B)inventories relating to the importedproduct available in Sri Lanka and inthe exporting countries; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      224.13,
+      311.93,
+      401.88,
+      359.27
+    ],
+    "text": "(C)information regarding the probabilityof increase in the imports includingtrade restrictions on exports to thirdcountry markets;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      177.57,
+      371.93,
+      401.87,
+      431.27
+    ],
+    "text": "(h)an explanation, in the light of the informationcontained in the application and the requirementsunder this Act, of the reasons why it is believed thatserious injury or threat thereof exists, and is causedby increased imports;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.85,
+      443.93,
+      401.88,
+      539.27
+    ],
+    "text": "(i)a statement giving specific reasons for seeking anapplication of a safeguard measure, such as, tofacilitate the orderly transfer of resources to moreproductive uses, to improve competitiveness or toadapt to new conditions of competition, togetherwith the type and level of the measure considerednecessary to ensure the achievement of theobjectives pursued;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      179.85,
+      551.93,
+      401.9,
+      587.27
+    ],
+    "text": "(j)a plan for adjusting the domestic industry tocompetition from imports, in accordance with theobjectives referred to in paragraph (i) ; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      178.29,
+      599.93,
+      401.9,
+      671.27
+    ],
+    "text": "(k)if a provisional measure is sought, informationregarding critical circumstances where delay intaking action would cause damage to the industrywhich it would be difficult to repair, and a statementindicating the level of tariff increase requested foras a provisional measure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      145.05,
+      635.93,
+      155.49,
+      647.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "8Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.51,
+      248.93,
+      147.51,
+      260.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      314.93,
+      150.31,
+      326.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      380.93,
+      150.31,
+      392.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      446.93,
+      150.31,
+      458.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      140.95,
+      513.89,
+      151.39,
+      525.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      202.61,
+      397.2,
+      259.91
+    ],
+    "text": "(2) Every application made under paragraph (a) of section6 shall be accompanied by such fee as may be prescribedand be submitted to the Director-General together with suchnumber of copies of the application as may be determinedby the Director-General.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      269.09,
+      397.2,
+      349.43
+    ],
+    "text": "(3) The Director-General shall take due account of anydifficulties experienced by interested parties and in particularsmall companies, in supplying the information requestedfor and provide them, through an advisory body constitutedfor that purpose, with practicable assistance or whereappropriate, extend the time granted for the submission ofany specified information, as the case may be.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      358.61,
+      397.22,
+      427.43
+    ],
+    "text": "(4) The Minister shall constitute an advisory body forthe purpose of assisting applicants in the formulation ofapplications made under paragraph (a) of section 6. Thecomposition, establishment and all other matters pertainingto such an advisory body shall be as prescribed by theMinister.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      436.61,
+      397.23,
+      482.39
+    ],
+    "text": "8.An application made under paragraph (a) of section6 may be withdrawn prior to initiation of an investigation,and in such a case it shall be considered to have not beenmade.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      491.57,
+      397.21,
+      594.95
+    ],
+    "text": "9.(1) Where, after examining the accuracy andadequacy of the information provided in an application madeunder paragraph (a) of section 6, and being satisfied thatthere is sufficient evidence of serious injury or threat thereofcaused by increased imports, the Director-General shallinitiate an investigation. Prior to arriving at a decision toinitiate an investigation, the Director-General may seek suchadditional information he considers necessary, includingfrom the requesting enterprises.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      604.13,
+      397.26,
+      672.95
+    ],
+    "text": "(2) Where the Director-General decides not to initiate aninvestigation in response to an application made underparagraph (a) of section 6, he shall notify the requestingenterprise making the application or on whose behalf theapplication is being made of the reasons for not initiating,an investigation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      438.55,
+      444.44,
+      466.82
+    ],
+    "text": "Withdrawalofapplication.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      492.55,
+      449.6,
+      549.62
+    ],
+    "text": "Decision toinitiate aninvestigationwhere anapplication ismade.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      571.73,
+      150.31,
+      583.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.87,
+      637.97,
+      150.31,
+      649.31
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      239.85,
+      166.97,
+      401.69,
+      178.31
+    ],
+    "text": "9Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      148.29,
+      250.97,
+      153.29,
+      262.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      322.97,
+      155.01,
+      334.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      382.97,
+      156.09,
+      394.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      466.97,
+      155.01,
+      478.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      145.65,
+      538.97,
+      156.09,
+      550.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.57,
+      622.97,
+      155.01,
+      634.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      202.97,
+      401.89,
+      310.31
+    ],
+    "text": "(3) Where an application has been received by theDirector-General, he shall generally be required to make adecision as to whether or not to initiate a safeguardinvestigation within a period of thirty days of the date ofreceipt of the application. Where the application involvedcomplex issues, or if Director-General has sought additionalinformation under subsection (1) of this section, the time forarriving at a decision may be extended by a further period offifteen days.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      322.97,
+      401.91,
+      394.31
+    ],
+    "text": "10. The Director-General may on his own behalf, initiatean investigation under this Act, where he has sufficientevidence available of injury being caused or threatened tobe caused to the domestic industry by the increased importsof the investigation product, so as to justify the initiation ofsuch investigation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      406.97,
+      401.87,
+      442.31
+    ],
+    "text": "11. (1) Where a decision is taken by the Director-Generalto initiate an investigation under this Act, the Director-General shall immediately-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192.57,
+      454.97,
+      401.89,
+      502.31
+    ],
+    "text": "(a)notify the requesting enterprises and all otherinterested parties, as well as the relevantrepresentative of the exporting countries, ofsuch investigation; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      192.57,
+      514.97,
+      401.9,
+      562.31
+    ],
+    "text": "(b) publish a notice regarding the initiation of suchsafeguard investigation in the Gazette and inany newspaper widely circulated in Sri Lankain all three languages.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      574.97,
+      401.88,
+      610.31
+    ],
+    "text": "(2) The initiation of an investigation shall be deemed tohave commenced on the date of publication in the Gazetteof the notice referred to in paragraph (b) of subsection (1).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      622.97,
+      401.89,
+      670.31
+    ],
+    "text": "(3) An interested party who wishes to participate inthe investigation shall within a period of fifteen days ofthe date of initiation of the investigation, inform to theDirector-General in writing of its desire to participate in the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      324.55,
+      455.14,
+      362.42
+    ],
+    "text": "DirectorGeneral mayinitiate aninvestigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      408.55,
+      455.14,
+      456.02
+    ],
+    "text": "Public noticeregardinginitiation ofaninvestigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "10Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.51,
+      259.97,
+      147.51,
+      271.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      329.93,
+      150.31,
+      341.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      399.89,
+      150.31,
+      411.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      470.93,
+      150.31,
+      482.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.87,
+      553.97,
+      150.31,
+      565.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      202.73,
+      397.21,
+      249.23
+    ],
+    "text": "investigation. The Director-General may, where he considersit appropriate, accept any request from an interested party toparticipate in an investigation after the period allowed formaking submission to participate under this subsection.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      261.29,
+      397.2,
+      307.67
+    ],
+    "text": "(4) The Director-General shall immediately after theinitiation of an investigation under this Act, notify theCommittee of such investigation, in conformity with suchrequirements established by the Committee.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      319.73,
+      397.21,
+      377.87
+    ],
+    "text": "(5) Where a decision is taken by the Director-General notto initiate an investigation upon an application made underparagraph (a) of section 6, the Director-General shall cause anotice to be published in the Gazette containing thefollowing information:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187.87,
+      389.93,
+      397.19,
+      436.43
+    ],
+    "text": "(a)the identity of the requesting enterprises andthe domestic products with respect to whichthe initiation of an investigation is beingrequested for ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187.87,
+      448.49,
+      397.18,
+      483.23
+    ],
+    "text": "(b)an identification of the imported product whichis alleged to be causing serious injury or threatthereof; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      188.71,
+      495.29,
+      397.17,
+      518.27
+    ],
+    "text": "(c)reasons for taking a decision not to initiate aninvestigation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      530.33,
+      397.19,
+      576.83
+    ],
+    "text": "12.The notice regarding the initiation of a safeguardinvestigation to be published under paragraph (b) ofsubsection (1) of section 11, shall contain adequateinformation on the following matters :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187.87,
+      588.89,
+      397.18,
+      635.27
+    ],
+    "text": "(a)complete description of the product includingits technical characteristics and uses and anidentification of its tariff clarification and theduties applicable to such product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187.87,
+      647.33,
+      397.19,
+      670.43
+    ],
+    "text": "(b)a complete description of the domestic like ordirectly competitive products, including the",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      403.15,
+      530.59,
+      450.44,
+      568.46
+    ],
+    "text": "Contents ofthe noticeregarding theinvestigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.35,
+      623.69,
+      150.79,
+      635.03
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "11Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      148.29,
+      259.97,
+      153.29,
+      271.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      339.89,
+      155.01,
+      351.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.05,
+      419.93,
+      155.49,
+      431.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      145.65,
+      488.93,
+      156.09,
+      500.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      568.97,
+      155.01,
+      580.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.57,
+      636.89,
+      155.01,
+      648.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      212.85,
+      202.61,
+      401.87,
+      225.47
+    ],
+    "text": "technical characteristics and uses of suchproducts;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      193.29,
+      237.05,
+      401.89,
+      271.43
+    ],
+    "text": "(c)the names of the requesting enterprises, if any,and of all other known producers of thedomestic like or directly competitive products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      192.57,
+      283.13,
+      401.87,
+      305.99
+    ],
+    "text": "(d)the country or countries of origin of theinvestigated product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      193.29,
+      317.57,
+      401.94,
+      374.99
+    ],
+    "text": "(e)a summary of the information on which theallegation pertaining to increase in imports ofthe investigated products and the serious injuryor threat thereof caused by such increase inimports are based;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      194.85,
+      386.57,
+      401.88,
+      409.43
+    ],
+    "text": "(f)name, address and telephone number of theDirector-General;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      192.57,
+      421.13,
+      401.89,
+      466.91
+    ],
+    "text": "(g)a statement that the date of initiation of theinvestigation is the date of the publication inthe Gazette of the notice regarding the initiationof the safeguard investigation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      192.57,
+      478.61,
+      401.88,
+      501.47
+    ],
+    "text": "(h)whether or not an application of a provisionalmeasure will be considered; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      194.85,
+      513.05,
+      401.86,
+      535.91
+    ],
+    "text": "(i)the proposed schedule for the conduct of theinvestigation, including-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      227.85,
+      547.61,
+      401.89,
+      604.91
+    ],
+    "text": "(i)the date on or before which aninterested party who wishes toparticipate in the investigation mayinform the Director- General in writingof such fact;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      224.85,
+      615.05,
+      401.86,
+      672.47
+    ],
+    "text": "(ii)where the application of a provisionalmeasure is being considered, the dateon or before which any writtenarguments or submissions may beforwarded to the Director-General;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "12Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      142.51,
+      259.97,
+      147.51,
+      271.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      316.97,
+      150.31,
+      328.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      382.97,
+      150.31,
+      394.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      449.93,
+      150.31,
+      461.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.95,
+      517.97,
+      151.39,
+      529.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      139.87,
+      585.89,
+      150.31,
+      597.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      217.15,
+      202.97,
+      397.16,
+      236.99
+    ],
+    "text": "(iii)the date on or before which an oralhearing, if so desired, should berequested for; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      217.87,
+      247.97,
+      397.17,
+      337.79
+    ],
+    "text": "(iv)the proposed dates for thedetermination of the application of aprovisional safeguard measure, andwhere relevant, for the determinationregarding serious injury or threatthereof and causation, and of any otherdecision regarding the application of asafeguard measure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      348.77,
+      397.27,
+      416.15
+    ],
+    "text": "13. (1) Subject to the provisions of subsection (2), it shallbe the duty of the Director-General, except in specialcircumstances, to conduct an investigation within six monthsof its initiation. Where the circumstances so requires, theperiod of six months may be extended further by not morethan two months.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      427.13,
+      397.22,
+      494.51
+    ],
+    "text": "(2) Where in any investigation under this Act, theapplication of any provisional measure is being considered,the Director-General shall make a decision relating to theapplication of such provisional measures, not earlier thansixty days and not later than ninety days from the date ofinitiation of the investigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      157.15,
+      505.61,
+      397.2,
+      572.87
+    ],
+    "text": "14. In the conduct of an investigation, the Director-General shall give an opportunity to all participatinginterested parties to the investigation to make their viewsknown on matters being investigated, and to this endDirector-General shall grant to those parties time notexceeding two weeks to-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      184.87,
+      583.97,
+      397.18,
+      628.91
+    ],
+    "text": "(a)make submissions and responses to anyquestions or other requests being made by theDirector-General to obtain any relevantinformation pertaining to the investigation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      184.87,
+      640.01,
+      397.18,
+      674.03
+    ],
+    "text": "(b)submit any evidence deemed relevant by suchparties, including their views on the matter underinvestigation; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      350.11,
+      450.44,
+      368.78
+    ],
+    "text": "Duration ofinvestigation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      403.15,
+      506.59,
+      437.6,
+      544.46
+    ],
+    "text": "Interestedparties tosubmitevidence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      140.71,
+      652.73,
+      151.15,
+      664.07
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "13Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      148.29,
+      263.93,
+      153.29,
+      275.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      322.97,
+      155.01,
+      334.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.57,
+      395.93,
+      155.01,
+      407.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.65,
+      455.93,
+      156.09,
+      467.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.65,
+      539.93,
+      156.09,
+      551.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190.29,
+      202.85,
+      401.89,
+      237.83
+    ],
+    "text": "(c)express their views with regard to whether ornot the application of a safeguard measurewould be in the public interest.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      250.49,
+      401.89,
+      357.83
+    ],
+    "text": "15. (1) In the conduct of an investigation under this Act,the Director-General may request for any informationconsidered relevant for purpose of conducting suchinvestigation, from any customs officer, company, forwarder,other enterprise, both public and private or person, and itshall be the duty of such officer, company, forwarder orenterprise, as the case may be, to provide the informationrequested for within such time as may be specified by theDirector-General.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      161.85,
+      370.49,
+      401.91,
+      465.83
+    ],
+    "text": "(2) The Director-General may, where he considersappropriate, verify or obtain further details on informationreceived by him under section 14 and subsection (1) of thissection, and where any such verification is carried out, theDirector-General shall prepare a report describing thefindings of such verification and such report, excluding anyconfidential information obtained, shall be placed in thepublic file maintained under section 19.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      173.85,
+      478.49,
+      299.13,
+      489.83
+    ],
+    "text": "(3) Where in an investigation-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      192.57,
+      502.49,
+      401.9,
+      585.83
+    ],
+    "text": "(a)if no hearing is requested for, any participatinginterested party may submit written argumentsconcerning any matter it considers relevant tothe investigation, not later than a period of oneand a half months before the date proposed forthe determination regarding serious injury orthreat thereof and causation; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      192.57,
+      598.49,
+      401.89,
+      669.83
+    ],
+    "text": "(b) if a hearing is held, not later than a period often days before the scheduled date of thehearing, any participating interested party maysubmit written submissions and informationconcerning any matter it considers relevant tothe investigation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      407.85,
+      251.59,
+      453.58,
+      318.26
+    ],
+    "text": "Director-General\u2019spower to callforinformationfrom certainperson.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      146.37,
+      610.73,
+      156.81,
+      622.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "14Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.51,
+      277.97,
+      147.51,
+      289.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      348.89,
+      150.31,
+      360.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      420.89,
+      150.31,
+      432.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      492.89,
+      150.31,
+      504.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      139.87,
+      564.89,
+      150.31,
+      576.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      169.15,
+      203.93,
+      338.62,
+      215.27
+    ],
+    "text": "(4) A participating interested party shall-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      187.87,
+      227.93,
+      397.17,
+      263.27
+    ],
+    "text": "(a)where no hearing is requested for, after theexpiry of the period allowed for the submissionof written arguments; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      187.87,
+      275.93,
+      397.16,
+      287.27
+    ],
+    "text": "(b)where a hearing is held, following such hearing,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      299.93,
+      397.21,
+      359.27
+    ],
+    "text": "have a further period not exceeding ten days to submit anyfurther written responses to the written submissions of anyother participating interested parties, or submit further writtenarguments in response to submissions and informationpresented at the hearing, as the case may be.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      371.93,
+      397.18,
+      431.27
+    ],
+    "text": "16. (1) The Director-General shall keep confidential allinformation submitted which is entitled to such treatmentunder subsection (2) of this section, and such informationshall not be disclosed without the specific permission of theparty submitting it.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      443.93,
+      397.19,
+      503.27
+    ],
+    "text": "(2) The Director General shall treat as confidential allinformation designated as confidential by the partysupplying such information, which is protected fromdisclosure under the Right to Information Act, No. 12 of2016.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.15,
+      515.93,
+      397.17,
+      575.27
+    ],
+    "text": "(3) The following types of information, if designated asconfidential by the person submitting such information, shallfor the purpose of subsection (2) be deemed to be suppliedin confidence in terms of paragraph (i) of section 5(1) of theRight to Information Act, No. 12 of 2016-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      190.87,
+      587.93,
+      397.18,
+      623.27
+    ],
+    "text": "(a)business or trade secrets concerning the natureof a product, production processes, operations,production equipment, or machinery;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      190.87,
+      635.93,
+      397.18,
+      671.27
+    ],
+    "text": "(b)information concerning the financial conditionof a company which is not publicly available;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      403.15,
+      373.51,
+      447.44,
+      392.18
+    ],
+    "text": "Confidentialinformation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      141.67,
+      649.73,
+      152.11,
+      661.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "15Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      148.29,
+      253.97,
+      153.29,
+      265.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      320.93,
+      156.09,
+      332.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      390.89,
+      156.09,
+      402.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      447.89,
+      156.09,
+      459.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      145.65,
+      519.89,
+      156.09,
+      531.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      196.29,
+      202.97,
+      401.88,
+      261.23
+    ],
+    "text": "(c)information concerning the costs,identification of customers, sales, inventories,shipments, amount or source of any income,profit, loss or expenditure related to themanufacture and sale of a product.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      273.29,
+      401.91,
+      366.47
+    ],
+    "text": "(4) A party to an investigation may seek confidentialstatus for certain information made available to the Director-General on request being made in that behalf at the timesuch information is submitted, including reasons for therequest for such treatment. The Director-General shallconsider such requests expeditiously, and shall inform theparty submitting the information, if he determines that therequest for confidential treatment is not warranted.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      378.53,
+      401.9,
+      460.07
+    ],
+    "text": "(5) Parties to an investigation shall furnish non-confidential summaries of all information for whichconfidential treatment is sought, which may take the form ofindexation of figures provided in the confidential version,or marked deletions in the text and which shall permit areasonable understanding of the substance of the informationsubmitted in confidence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      472.13,
+      401.94,
+      530.27
+    ],
+    "text": "(6) In exceptional circumstances, parties may indicatethat information for which confidential treatment is soughtis not susceptible of summary, in which case a statement ofthe reasons why summarization is not possible, shall also beprovided by such parties.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      161.85,
+      542.33,
+      401.9,
+      670.91
+    ],
+    "text": "(7) Where the Director-General is of the view that thenon-confidential summary provided under subsection (5)fails to satisfy the requirements of that subsection, theDirector-General may determine that the request forconfidential treatment is not warranted, and where in suchinstance the supplier of the information is unwilling to makethe information public, the Director-General shall disregardsuch information, and return the information concerned tothe party who submitted it, unless it is demonstrated to thesatisfaction of the Director-General that the information iscorrect.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      146.37,
+      589.73,
+      156.81,
+      601.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      146.37,
+      647.69,
+      156.81,
+      659.03
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "16Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      142.51,
+      248.93,
+      147.51,
+      260.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.95,
+      314.93,
+      151.39,
+      326.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      382.97,
+      150.31,
+      394.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      439.97,
+      150.31,
+      451.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      505.97,
+      150.31,
+      517.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      203.57,
+      397.19,
+      283.91
+    ],
+    "text": "17. (1) All participating interested parties shall have anopportunity to submit in accordance with the provisions ofthis section, evidence and arguments in writing, includingresponses to the written or oral presentations made by otherparticipating interested parties, and views as to whether ornot the application of a safeguard measure is in the publicinterest.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      292.13,
+      397.21,
+      372.47
+    ],
+    "text": "(2) In an investigation where application of anyprovisional safeguard measure is being considered, anyparticipating interested party may submit written argumentswithin a period of fifteen days before the date proposed forthe determination of the provisional safeguard measure, withregard to any matter relevant towards arriving at suchdetermination.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      384.05,
+      397.21,
+      487.43
+    ],
+    "text": "18. (1) The Director-General shall, upon any request madeby a participating interested party, not later than a period offifteen days after publication of the determination regardingthe application of a provisional measure, under section 22or where the application of a provisional measure is notbeing considered, not later than a period of one and a halfmonth after the initiation of an investigation, fix a date for ahearing at which all participating interested parties maypresent information and arguments orally.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      495.53,
+      397.22,
+      541.43
+    ],
+    "text": "(2) A hearing under subsection (1) shall be held not laterthan a period of two months prior to the date proposed forthe determination regarding serious injury or threat thereofand causation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      549.53,
+      397.22,
+      606.95
+    ],
+    "text": "(3) Participating interested parties intending to appear ata hearing shall notify the Director-General at least a periodof one week prior to the date of the hearing, of the names oftheir representatives and witnesses who will appear at thehearing.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      157.15,
+      615.05,
+      397.2,
+      672.47
+    ],
+    "text": "(4) Hearings shall be presided over by the Director-General who shall ensure that confidentiality is preserved,and shall organize hearings in a manner that ensures that allparticipating interested parties have an adequate opportunityto present their views.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      403.15,
+      204.55,
+      442.16,
+      223.22
+    ],
+    "text": "Writtenarguments.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      403.15,
+      385.51,
+      436.87,
+      394.58
+    ],
+    "text": "Hearings.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      139.87,
+      571.73,
+      150.31,
+      583.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.95,
+      636.89,
+      151.39,
+      648.23
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "17Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      148.29,
+      261.89,
+      153.29,
+      273.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.65,
+      331.97,
+      156.09,
+      343.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.65,
+      401.93,
+      156.09,
+      413.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.65,
+      482.93,
+      156.09,
+      494.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      145.65,
+      565.97,
+      156.09,
+      577.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.57,
+      648.89,
+      155.01,
+      660.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      203.69,
+      401.87,
+      250.19
+    ],
+    "text": "(5) The Director-General shall maintain a record of theproceedings at the hearing, which shall be placed in thepublic file maintained under section 19, with the exceptionof any confidential information.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      262.25,
+      401.91,
+      320.39
+    ],
+    "text": "19. (1) The Director-General shall establish and maintaina public file relating to each investigation or reviewconducted under this Act. Subject to the provisions ofsection 16, the Director-General shall place in the publicfile-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      332.45,
+      401.87,
+      355.43
+    ],
+    "text": "(a)all public notices relating to the investigationor review;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      367.49,
+      401.89,
+      413.99
+    ],
+    "text": "(b)all material, including questionnaires,responses to questionnaires and writtencommunications submitted to the Director-General;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      196.29,
+      426.05,
+      401.87,
+      460.79
+    ],
+    "text": "(c)all other information developed or attained bythe Director-General including any verificationreports prepared under section 15; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      472.85,
+      401.86,
+      495.83
+    ],
+    "text": "(d)any other documents the Director-Generaldeems appropriate for public disclosure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      507.89,
+      401.94,
+      554.39
+    ],
+    "text": "(2) The public file shall be available to the public forreview and copying at the office of the Director-Generalthroughout the period of the investigation, review and ofany resulting judicial review.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      161.85,
+      566.45,
+      401.9,
+      589.43
+    ],
+    "text": "20. (1) Where, at any time during an investigation, anyparty interested\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      601.49,
+      401.89,
+      636.23
+    ],
+    "text": "(a)refuses access to, or otherwise does not provideany necessary information within the timedetermined by the Director-General; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      195.57,
+      648.29,
+      401.87,
+      671.63
+    ],
+    "text": "(b)otherwise significantly impedes theinvestigation,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      407.85,
+      263.59,
+      444.58,
+      291.86
+    ],
+    "text": "Public fileand accessthereto.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      407.85,
+      567.91,
+      449.86,
+      595.34
+    ],
+    "text": "Reliance oninformationavailable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "18Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      142.51,
+      265.97,
+      147.51,
+      277.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      327.89,
+      150.31,
+      339.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      414.89,
+      150.31,
+      426.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      499.97,
+      150.31,
+      511.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      139.87,
+      574.97,
+      150.31,
+      586.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      203.09,
+      397.19,
+      251.39
+    ],
+    "text": "the Director-General may reach preliminary and finaldeterminations (affirmative or negative), on the basis of theinformation available, including information contained inthe application.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      264.65,
+      397.19,
+      337.43
+    ],
+    "text": "(2) The Director-General shall take due account of anydifficulties experienced by parties interested, in particularsmall companies, in supplying information requested for,and as such shall provide any practicable assistance or mayextend the time granted for the submission of any specifiedinformation, as the case may be.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      350.69,
+      397.19,
+      386.63
+    ],
+    "text": "21.(1) The Director-General may recommend theapplication of a provisional safeguard measure, where hedetermines that-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      190.87,
+      399.89,
+      397.19,
+      435.83
+    ],
+    "text": "(a)there exists certain critical circumstances anddelay in taking action may cause damage whichwould be difficult to repair ; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      190.87,
+      449.09,
+      397.19,
+      485.03
+    ],
+    "text": "(b)there is clear evidence that the increasedimports of the investigated product has causedor are threatening to cause serious injury.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      498.29,
+      397.21,
+      546.59
+    ],
+    "text": "(2) A provisional safeguard measure shall take the formof a duty payable at the time of importation of the investigatedproduct. This duty shall be in addition to any duty payableunder any other written law.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      559.85,
+      397.16,
+      595.79
+    ],
+    "text": "(3) The Director-General shall submit hisrecommendations to the Minister, who shall forward the sameto the Minister in charge of the subject of Finance.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      157.15,
+      609.05,
+      397.19,
+      669.59
+    ],
+    "text": "(4) The Minister in charge of the subject of Finance uponreceipt of the recommendations of the Director-General shall,in consultation with the Minister, determine whether or notto apply provisional safeguard measures and the amount ofprovisional duty to be imposed.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      403.15,
+      352.15,
+      444.44,
+      399.62
+    ],
+    "text": "Applicationof aprovisionalsafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      141.67,
+      646.73,
+      152.11,
+      658.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "19Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      148.29,
+      251.93,
+      153.29,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      323.93,
+      156.09,
+      335.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      407.93,
+      156.09,
+      419.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      493.97,
+      156.09,
+      505.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      145.65,
+      564.89,
+      156.09,
+      576.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      161.85,
+      202.97,
+      401.9,
+      274.79
+    ],
+    "text": "22. (1) Where a decision is taken up to apply a provisionalsafeguard measure under subsection (4) of section 21, theMinister shall direct the Director-General to publish a noticeregarding such application in the Gazette and in anynewspaper widely circulated in Sri Lanka in all threelanguages, which shall contain the following information:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      287.69,
+      401.9,
+      335.39
+    ],
+    "text": "(a)a complete description of the investigatedproduct, including its technical characteristicsand uses and an identification of its tariffclassification and the duties applicable;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      348.17,
+      401.92,
+      383.75
+    ],
+    "text": "(b)a complete description of the domestic like ordirectly competitive products, including theirtechnical characteristics and uses ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      196.29,
+      396.65,
+      401.89,
+      419.99
+    ],
+    "text": "(c)the names of all known producers of thedomestic like or directly competitive products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      432.89,
+      401.87,
+      456.35
+    ],
+    "text": "(d)the country or countries of origin of theinvestigated product ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      196.29,
+      469.13,
+      401.92,
+      528.95
+    ],
+    "text": "(e)the basis for the determination of the existenceof certain critical circumstances, where delayin the application of a provisional safeguardmeasure may cause damage that would bedifficult to repair ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      197.85,
+      541.73,
+      401.88,
+      589.43
+    ],
+    "text": "(f)the basis for the determination of the existenceof clear evidence that increased imports of theinvestigated products have caused or arethreatening to cause serious injury ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      195.57,
+      602.33,
+      401.87,
+      625.67
+    ],
+    "text": "(g)the amount of duty increase which is proposedas a provisional safeguard measure; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      146.37,
+      638.57,
+      401.88,
+      674.15
+    ],
+    "text": "(h)the intended duration of the period ofapplication of the provisional safeguardmeasure.30",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      407.85,
+      202.39,
+      449.86,
+      278.66
+    ],
+    "text": "Notificationwith regardto theapplicationof aprovisionalsafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "20Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      142.51,
+      251.93,
+      147.51,
+      263.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      324.89,
+      150.31,
+      336.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      409.97,
+      150.31,
+      421.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      490.97,
+      150.31,
+      502.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      139.87,
+      562.97,
+      150.31,
+      574.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      138.91,
+      635.93,
+      149.35,
+      647.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      203.93,
+      397.19,
+      275.27
+    ],
+    "text": "(2) Where a decision is taken against the application of aprovisional safeguard measure, the Minister shall direct theDirector-General to publish a notice of the same in theGazette and in any newspaper widely circulated in Sri Lankain all three languages, which shall contain the followinginformation:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      193.87,
+      287.93,
+      397.21,
+      335.27
+    ],
+    "text": "(a) a complete description of the investigatedproduct, including the technical characteristicsand uses and an identification of its tariffclassification and the duties applicable ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      193.87,
+      347.93,
+      397.17,
+      371.27
+    ],
+    "text": "(b) an identification of the domestic like or directlycompetitive product ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      194.71,
+      383.93,
+      397.18,
+      419.27
+    ],
+    "text": "(c) an explanation of the reasons for arriving at adecision against the application of aprovisional safeguard measure ; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      193.87,
+      431.93,
+      397.19,
+      467.27
+    ],
+    "text": "(d) a statement as to whether the investigation willbe terminated at that point, or continuedthrough to a finality.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      479.93,
+      397.28,
+      539.27
+    ],
+    "text": "23. A provisional safeguard measure shall generally beapplied for a period not exceeding two hundred days andmay be suspended before the expiry of that period by theMinister in charge of the subject of Finance, in consultationwith the Minister.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      551.93,
+      397.19,
+      599.27
+    ],
+    "text": "24. (1) The amount of a provisional safeguard measureshall be collected and paid in the form of a cheque or a cashpayment, or guaranteed by the furnishing of a bond or depositin favour of the Director-General of Customs.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      157.15,
+      611.93,
+      397.2,
+      671.27
+    ],
+    "text": "(2) Any amount collected as a provisional safeguardmeasure shall be refunded and any bond or deposit shall bepromptly released, if subsequent investigations do not resultin a determination that increased imports have caused orthreaten to cause serious injury to the domestic industry.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.15,
+      481.51,
+      450.44,
+      519.38
+    ],
+    "text": "Duration of aprovisionalsafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      403.15,
+      553.51,
+      448.88,
+      600.98
+    ],
+    "text": "Payment andrefund of aprovisionalsafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "21Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      148.29,
+      250.97,
+      153.29,
+      262.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.65,
+      321.89,
+      156.09,
+      333.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.65,
+      402.89,
+      156.09,
+      414.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.65,
+      483.89,
+      156.09,
+      495.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.65,
+      554.93,
+      156.09,
+      566.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      144.57,
+      625.97,
+      155.01,
+      637.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      203.69,
+      401.88,
+      261.83
+    ],
+    "text": "(3) The Director-General of Customs shall be responsiblefor the assessment and collection of provisional safeguardmeasures, and the provisions of the Customs Ordinancerelating to collection of duties, shall mutatis mutandis applyto and in relation to the same.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      273.89,
+      401.9,
+      343.79
+    ],
+    "text": "25. (1) The Director-General shall, in accordance withthe provisions of section 4 and 5 of this Act, and on the basisof information disclosed at the investigation, determinewhether increased imports of the investigated product havecaused or threaten to cause serious injury to the domesticindustry.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      355.85,
+      401.87,
+      378.83
+    ],
+    "text": "(2) At the conclusion of an investigation, the Director-General shall prepare a report containing-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      195.57,
+      390.89,
+      401.89,
+      425.63
+    ],
+    "text": "(a)the final determination, including the findingsand conclusions reached on all relevant issuesof fact and law ; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      195.57,
+      437.69,
+      401.94,
+      472.43
+    ],
+    "text": "(b)a detailed analysis of all information disclosedat the investigation and the relevance of issuesand factors examined by the Director-General.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      484.49,
+      401.88,
+      519.23
+    ],
+    "text": "(3) In the preparation of the report under subsection (2),due regard shall be given to the requirement for protectionof confidential information.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      161.85,
+      531.29,
+      401.96,
+      612.83
+    ],
+    "text": "26. The Director-General shall immediately uponreaching a determination, whether negative or affirmative,as to serious injury or threat thereof and causation, cause tobe published in the Gazette and in any newspaper widelycirculated in Sri Lanka in all three languages, a notice of thedetermination regarding serious injury, or threat thereof andcausation, containing the following information :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      195.57,
+      624.89,
+      401.91,
+      671.63
+    ],
+    "text": "(a)a complete description of the investigatedproduct, including its technical characteristicsand uses and an identification of its tariffclassification and the duties applicable ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      275.59,
+      455.86,
+      332.66
+    ],
+    "text": "Determinationof seriousinjury, threatof seriousinjury andcausation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      407.85,
+      533.59,
+      455.86,
+      629.06
+    ],
+    "text": "Public noticeandnotificationofdeterminationof seriousinjury, threatof seriousinjury andcausation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "22Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      142.51,
+      265.97,
+      147.51,
+      277.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      348.89,
+      150.31,
+      360.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      419.93,
+      150.31,
+      431.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      493.97,
+      150.31,
+      505.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      565.97,
+      150.31,
+      577.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      139.87,
+      648.89,
+      150.31,
+      660.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      190.87,
+      203.93,
+      397.22,
+      239.27
+    ],
+    "text": "(b)a complete description of the domestic like ordirectly competitive products, including theirtechnical characteristics and uses ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      191.71,
+      251.93,
+      397.19,
+      275.27
+    ],
+    "text": "(c)the names of all known producers of thedomestic like or directly competitive products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      190.87,
+      287.93,
+      397.17,
+      311.27
+    ],
+    "text": "(d)the country or countries of origin of theinvestigated product; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      191.71,
+      323.93,
+      397.19,
+      383.27
+    ],
+    "text": "(e)a summary of the information disclosed at theinvestigation, factors considered and therelevance thereof and the findings andconclusions reached on the relevant issues offact and law and the reasons therefor.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      395.93,
+      397.19,
+      443.27
+    ],
+    "text": "27. (1) The Director-General shall submit the reportprepared under subsection (2) of section 25 to the Committee,together with the recommendations of the Director-Generalon the application of a definitive safeguard measure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      455.93,
+      397.23,
+      515.27
+    ],
+    "text": "(2) The Committee may within a period of ten workingdays of the receipt of the documents referred to in subsection(1), recommend to the Minister in charge of the subject ofFinance through the Minister, the application of a definitivesafeguard measure, where it determines that\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      190.87,
+      527.93,
+      397.18,
+      575.27
+    ],
+    "text": "(a)as a result of unforeseen developments,increased imports have caused or threaten tocause serious injury to the domestic industry;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      190.87,
+      587.93,
+      397.17,
+      611.27
+    ],
+    "text": "(b)application of a definitive safeguard measureis in the public interest.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      157.15,
+      623.93,
+      397.25,
+      671.27
+    ],
+    "text": "(3) The duration and level of application of a definitivesafeguard measure shall not be more than what is necessaryto prevent or remedy serious injury and to facilitateadjustments.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      403.15,
+      397.51,
+      445.87,
+      444.98
+    ],
+    "text": "Generalprinciple ondefinitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "23Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      148.29,
+      249.89,
+      153.29,
+      261.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      321.89,
+      156.09,
+      333.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      391.97,
+      156.09,
+      403.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      473.93,
+      156.09,
+      485.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.65,
+      555.89,
+      156.09,
+      567.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      144.57,
+      614.93,
+      155.01,
+      626.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.85,
+      203.69,
+      401.95,
+      285.59
+    ],
+    "text": "28. Where the Committee recommends the imposition ofa definitive safeguard measure, the Minister in charge of thesubject of Finance in consultation with the Minister shall,within a period of fourteen working days of the date of receiptof the recommendation of the Committee and taking intoconsideration the interests of the national economy,determine whether or not to adopt such safeguard measure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      161.85,
+      297.65,
+      401.9,
+      355.79
+    ],
+    "text": "29. (1) Where a decision is taken to apply a definitivesafeguard measure, it shall be the duty of the Director-Generalto publish in the Gazette and in any newspaper widelycirculated in Sri Lanka in all three languages, a notice whichshall contain the following information :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      195.57,
+      367.85,
+      401.9,
+      414.23
+    ],
+    "text": "(a)a complete description of the investigatedproduct, including its technical characteristicsand uses and an identification of its tariffclassification and the duties applicable;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      195.57,
+      426.29,
+      401.92,
+      461.03
+    ],
+    "text": "(b)a complete description of the domestic like ordirectly competitive products, including theirtechnical characteristics and uses;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      196.29,
+      473.09,
+      401.88,
+      496.19
+    ],
+    "text": "(c)names of all known producers of the domesticlike or directly competitive products;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      195.57,
+      508.25,
+      401.85,
+      531.23
+    ],
+    "text": "(d)country or countries of origin of theinvestigated product;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      196.29,
+      543.29,
+      401.89,
+      624.83
+    ],
+    "text": "(e)a summary of the affirmative injurydetermination, including the factors consideredand the relevance thereof, the findings andconclusions and the reasons therefor on issuesof fact and law considered or a cross referenceto the notice of determination regarding seriousinjury or threat thereof and causation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      197.85,
+      636.89,
+      401.89,
+      671.63
+    ],
+    "text": "(f)reasons for reaching the conclusion that theapplication of a definitive safeguard measureis in the public interest;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      407.85,
+      204.55,
+      455.86,
+      261.62
+    ],
+    "text": "Minister todetermine theadoption ofdefinitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      407.85,
+      298.51,
+      452.13,
+      363.14
+    ],
+    "text": "Noticerecording ofapplicationof definitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "24Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      142.51,
+      261.89,
+      147.51,
+      273.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      342.89,
+      150.31,
+      354.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      399.89,
+      150.31,
+      411.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      467.93,
+      150.31,
+      479.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      545.93,
+      150.31,
+      557.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      139.87,
+      615.89,
+      150.31,
+      627.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      190.87,
+      203.69,
+      397.16,
+      226.55
+    ],
+    "text": "(g)details concerning the domestic industry\u2019sadjustment plan;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      190.87,
+      238.01,
+      397.17,
+      294.95
+    ],
+    "text": "(h)the form, level and duration of the proposeddefinitive safeguard measure, and anexplanation thereof in compliance with therequirements referred to in subsection (3) ofsection 27;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      193.15,
+      306.41,
+      397.17,
+      329.15
+    ],
+    "text": "(i)the proposed date of application of thedefinitive safeguard measure ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      193.15,
+      340.61,
+      397.2,
+      408.95
+    ],
+    "text": "(j)if a quantitative restriction is proposed, theallocation of the quota among the suppliercountries, and an explanation and the relevantinformation in compliance with therequirements referred to in section 31, regardingthe basis on which the allocation is made;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      191.71,
+      420.41,
+      397.19,
+      477.35
+    ],
+    "text": "(k)if the proposed duration of the measure(including the period of application of anyprovisional safeguard measure) is more than aperiod of one year, a timetable for theprogressive liberalization of the measure; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      193.15,
+      488.81,
+      397.18,
+      511.55
+    ],
+    "text": "(l)an identification of the developing countriesexempted from the measure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      523.01,
+      397.21,
+      591.35
+    ],
+    "text": "(2) Where a decision is taken against the application of adefinitive safeguard measure, it shall be the duty of theDirector-General to publish a notice setting forth the factualand legal basis for reaching such decision, in the Gazetteand in any newspaper widely circulated in Sri Lanka in allthree languages.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      157.15,
+      602.81,
+      397.2,
+      671.63
+    ],
+    "text": "30. (1) A definitive safeguard measure shall generally beapplied in the form of either a tariff increase or a quantitativerestriction on imports, and subject to the provisions ofsection 31, be applied on all imports of the investigatedproduct, irrespective of its source, entered on or after thedate on which the measure comes into effect.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      403.15,
+      603.55,
+      442.16,
+      660.62
+    ],
+    "text": "Form andapplicationof adefinitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "25Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      148.29,
+      249.89,
+      153.29,
+      261.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.65,
+      318.89,
+      156.09,
+      330.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.65,
+      386.93,
+      156.09,
+      398.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.57,
+      442.97,
+      155.01,
+      454.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.65,
+      510.89,
+      156.09,
+      522.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.57,
+      579.89,
+      155.01,
+      591.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      202.49,
+      401.89,
+      270.83
+    ],
+    "text": "(2) Where the definitive safeguard measure is applied inthe form of a tariff increase, the Director-General of Customsshall be responsible for the collection of such tariff increase,while the administration of a definitive safeguard measurein the form of a quantitative restriction shall be theresponsibility of the Controller of Imports and Exports.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      282.29,
+      401.89,
+      350.63
+    ],
+    "text": "31. (1) Notwithstanding anything to the contrary in anyother provisions of this Act, a definitive safeguard measureshall not be applied to imports of the investigated productoriginating in a developing country Member, so long asthose imports account for not more than three per centum ofSri Lanka\u2019s total imports of the investigated product.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      362.09,
+      401.89,
+      453.23
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1),where imports from developing country Members whichindividually account for less than three per centum of SriLanka\u2019s imports of the investigated product, collectivelyaccount for more than nine per centum of Sri Lanka\u2019s importsof the investigated product, a definitive safeguard measuremay be applied to such imports from those developingcountry Members.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      464.69,
+      401.9,
+      521.63
+    ],
+    "text": "32. (1) A definitive safeguard measure in the form of aquota on imports of the investigated product, shall notreduce the quantity of those imports below the average levelregistered in the most recent three representative years forwhich statistics are available.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      533.09,
+      401.9,
+      624.23
+    ],
+    "text": "(2) Notwithstanding the provision of subsection (1), theMinister in charge of the subject of Finance in consultationwith the Minister, may, where there are sufficient reasons tojustify that a different level is necessary to prevent or remedyserious injury or threat of serious injury, apply a quota whichreduces the quantity of imports of the investigated productbelow the average level registered in the most recent threerepresentative years for which statistics are available.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      161.85,
+      635.69,
+      401.9,
+      670.31
+    ],
+    "text": "(3) Where more than one country exports the investigatedproduct to Sri Lanka, any quota on imports shall be allocatedamong all the supplying countries.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      407.85,
+      284.59,
+      451.3,
+      360.86
+    ],
+    "text": "Non-applicationof definitivesafeguardmeasure tocertaindevelopingcountries.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      407.85,
+      465.55,
+      442.29,
+      503.42
+    ],
+    "text": "Quotas asdefinitivesafeguardmeasure",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      146.37,
+      649.73,
+      156.81,
+      661.07
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "26Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      202.73,
+      397.27,
+      319.43
+    ],
+    "text": "(4) Where the Minister in charge of the subject of Finance,in consultation with the Minister, determines that the methodreferred to in subsection (3) is not reasonably practical forallocation of the quota, he shall allocate the quota amongcountries having a substantial interest in supplying theinvestigated product. The allocation shall be based uponthe proportions of the investigated product supplied by suchcountries during the previous three years, and due accountshall also be taken of any special factors which may haveaffected or may be affecting trade in the investigated product.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      331.49,
+      397.19,
+      377.87
+    ],
+    "text": "33. (1) A definitive safeguard measure shall be appliedfor a period of not more than four years, including the periodof application of any provisional measure, unless it isextended under the provisions of section 36.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      389.93,
+      397.2,
+      448.31
+    ],
+    "text": "(2) The total duration of the period of application of adefinitive safeguard measure, including the period ofapplication of any provisional measure, the period of initialapplication and any extension thereof under section 36, shallnot exceed a period of ten years.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      460.49,
+      397.21,
+      530.63
+    ],
+    "text": "34. A definitive safeguard measure whose period ofapplication exceeds a period of one year, shall beprogressively liberalized at regular intervals during theperiod of its application, in accordance with the noticepublished regarding application of a definitive safeguardmeasure under section 29.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      542.69,
+      397.2,
+      635.87
+    ],
+    "text": "35. (1) Where the duration of a definitive safeguardmeasure (including the period of application of anyprovisional measure) exceeds three years, not later than themid-term of the period of application of such measure, theDirector-General shall review the situation, including areview of the effects of the definitive safeguard measure onthe domestic industry concerned, and of the industry\u2019sprogress in implementing its adjustment plan.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      157.15,
+      647.93,
+      397.17,
+      671.15
+    ],
+    "text": "(2) The provisions of sections 11 to 19 of this Act shallapply mutatis mutandis in respect of such review.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      403.15,
+      332.59,
+      450.44,
+      370.46
+    ],
+    "text": "Duration of adefinitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      403.15,
+      461.59,
+      451.16,
+      480.26
+    ],
+    "text": "Progressiveliberalization.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      403.15,
+      543.55,
+      431.59,
+      552.62
+    ],
+    "text": "Review.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      143.59,
+      250.13,
+      148.59,
+      261.47
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.95,
+      308.09,
+      151.39,
+      319.43
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.95,
+      389.09,
+      151.39,
+      400.43
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.87,
+      461.09,
+      150.31,
+      472.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      140.95,
+      519.17,
+      151.39,
+      530.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      139.87,
+      589.13,
+      150.31,
+      600.47
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      141.67,
+      660.89,
+      152.11,
+      672.23
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "27Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      204.05,
+      401.89,
+      276.47
+    ],
+    "text": "(3) The result of the review shall be published in a reportprepared by the Director-General and he shall thereafterforward such report to the Committee to make itsrecommendations as to whether to maintain or withdraw thedefinitive safeguard measure or to increase the pace of itsliberalization.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      289.49,
+      401.9,
+      374.03
+    ],
+    "text": "(4) A notice to maintain, liberalize or withdraw adefinitive safeguard measure summarizing the results of thereview, shall be published in the Gazette. The contents ofsuch notice shall conform, mutatis mutandis, to therequirements specified in respect of the notice regardingapplication of a definitive safeguard measure provided forin section 29.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      387.05,
+      401.91,
+      471.59
+    ],
+    "text": "36. (1) Where the domestic industry considers that thereis a continuing need to apply a definitive safeguard measurebeyond the initial period of its application, it shall submit awritten request for extension of the measure, includingevidence of the industry\u2019s adjustment plan, to the Director-General, not less than a period of six months before the endof that period.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      484.73,
+      401.9,
+      544.79
+    ],
+    "text": "(2) The Director-General shall conduct an investigationto determine whether an extension is warranted, and for thepurpose of such investigation and determination, theprocedures set forth in this Act for applying the originalmeasure shall mutatis mutandis be followed.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      557.93,
+      401.83,
+      581.39
+    ],
+    "text": "(3) Subject to the provisions of section 33, a safeguardmeasure may be extended only once.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      161.85,
+      594.53,
+      401.9,
+      666.83
+    ],
+    "text": "(4) The Director-General may recommend the extensionof a definitive safeguard measure, only where he determinesthrough an investigation referred to subsection (2), that thedefinitive safeguard measure continues to be necessary toprevent or remedy serious injury, and that there is evidencethat the domestic industry is adjusting.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      407.85,
+      388.51,
+      452.86,
+      426.38
+    ],
+    "text": "Extension ofa definitivesafeguardmeasure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      149.01,
+      252.77,
+      154.01,
+      264.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      146.37,
+      327.77,
+      156.81,
+      339.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      146.37,
+      400.73,
+      156.81,
+      412.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.41,
+      461.69,
+      155.85,
+      473.03
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      146.37,
+      534.77,
+      156.81,
+      546.11
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      145.41,
+      619.73,
+      155.85,
+      631.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "28Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      202.73,
+      397.19,
+      284.27
+    ],
+    "text": "(5) The Director-General shall submit hisrecommendations to the Committee within ten working days,and the Committee may within a period of ten working daysof the receipt of the same, recommend to the Minister incharge of the subject of Finance through the Minister, theextension of a definitive safeguard measure, where itdetermines that\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      190.87,
+      296.33,
+      397.17,
+      331.07
+    ],
+    "text": "(a)the safeguard measures continues to benecessary to prevent or remedy serious injury;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      190.87,
+      343.13,
+      397.19,
+      366.23
+    ],
+    "text": "(b)there is evidence that the domestic industry isadjusting.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      378.29,
+      397.22,
+      459.83
+    ],
+    "text": "(6) Where the Committee recommends the extension of adefinitive safeguard measure, the Minister in charge of thesubject of Finance in consultation with the Minister shall,within a period of fourteen working days of the receipt ofthe recommendation of the Committee taking intoconsideration the interest of the national economy, determinewhether or not to extend such safeguard measure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      471.89,
+      397.2,
+      506.63
+    ],
+    "text": "(7) An extended definitive safeguard measure shall notbe more restrictive than it was at the end of the initial periodof application.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      518.69,
+      397.2,
+      588.47
+    ],
+    "text": "(8) During an extension period, a safeguard measure shallcontinue to be progressively liberalized in accordance witha notice published to extend a definitive safeguard measure.Such notice shall conform mutatis mutandis to therequirements in respect of the notice applying a definitivesafeguard measure, provided for in section 29.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      157.15,
+      600.53,
+      397.19,
+      670.55
+    ],
+    "text": "37. (1) Information gathered by any person in the courseof an investigation conducted under this Act or thereafter,which is entitled to be treated as confidential informationunder section 16, shall not be disclosed by such person unlessrequired or authorized to do so under the provisions of thisAct.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      403.15,
+      600.55,
+      446.6,
+      638.42
+    ],
+    "text": "Confidentialinformationnot to bedisclosed.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      144.31,
+      248.69,
+      149.31,
+      260.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      139.87,
+      318.77,
+      150.31,
+      330.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      141.67,
+      401.69,
+      152.11,
+      413.03
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.71,
+      471.77,
+      151.15,
+      483.11
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      141.67,
+      541.73,
+      152.11,
+      553.07
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      140.71,
+      610.73,
+      151.15,
+      622.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "29Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      202.73,
+      401.9,
+      272.63
+    ],
+    "text": "(2) Any person who in contravention of the provisions ofsubsection (1) discloses any confidential information asreferred to therein, shall be guilty of an offence and be liableon conviction to a fine not exceeding rupees one hundredthousand or to imprisonment for a term not exceeding oneyear or to both such fine and imprisonment.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      284.69,
+      401.9,
+      331.07
+    ],
+    "text": "38. Any party who participated in or who had an interestin an investigation or review procedure under this Act, mayseek judicial review in terms of Article 140 of theConstitution.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      343.13,
+      401.89,
+      377.87
+    ],
+    "text": "39. (1) The Director-General may delegate any of hisfunctions and powers under this Act to any officer not belowthe rank of Deputy Director of Commerce.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      389.93,
+      401.89,
+      436.43
+    ],
+    "text": "(2) An officer to whom any function or power is delegatedunder subsection (1), shall discharge or exercise suchfunction or power, subject to such directions as may be givenby the Director-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      448.49,
+      401.88,
+      483.23
+    ],
+    "text": "(3) The Director-General shall, notwithstanding anydelegation made under subsection (1), have the right todischarge or exercise any function or power so delegated.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      495.29,
+      401.9,
+      530.03
+    ],
+    "text": "40. (1) The Minister may make regulations in respect ofall matters required by this Act to be prescribed or in respectof which regulations are authorized to be made.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      542.09,
+      401.89,
+      588.47
+    ],
+    "text": "(2) Every regulation made by the Minister shall bepublished in the Gazette, and shall come into operation onthe date of such publication or on such later date as may bespecified in the regulation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      161.85,
+      600.53,
+      401.89,
+      670.55
+    ],
+    "text": "(3) Every regulation made by the Minister shall, as soonas convenient after its publication in the Gazette, be broughtbefore Parliament for approval. Any regulation which is notso approved shall be rescinded as from the date of suchdisapproval, but without prejudice to anything previouslydone thereunder.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      407.85,
+      285.55,
+      434.85,
+      304.22
+    ],
+    "text": "Judicialreview.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      407.85,
+      343.51,
+      446.14,
+      381.38
+    ],
+    "text": "Delegationby theDirector-General.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      407.85,
+      495.55,
+      451.29,
+      504.62
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      146.49,
+      250.13,
+      151.49,
+      261.47
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      321.17,
+      154.29,
+      332.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      403.13,
+      154.29,
+      414.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      142.77,
+      472.13,
+      153.21,
+      483.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.85,
+      555.17,
+      154.29,
+      566.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      142.77,
+      624.17,
+      153.21,
+      635.51
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "30Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      157.15,
+      203.57,
+      397.19,
+      226.31
+    ],
+    "text": "(4) Notification of the date on which any regulation isdeemed to be rescinded shall be published in Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      237.77,
+      389.61,
+      249.11
+    ],
+    "text": "41. In this Act unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      260.57,
+      397.17,
+      294.71
+    ],
+    "text": "\u201ccountry\u201d includes Members of the World TradeOrganization or any other country or autonomouscustoms territory;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      306.17,
+      397.19,
+      340.31
+    ],
+    "text": "\u201ddirectly competitive product\u201d means domestic productsimilar to or serving as a substitute for the productsubject to investigation;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      351.77,
+      397.2,
+      442.91
+    ],
+    "text": "\u201ddomestic industry\u201d means the producers as a whole ofproducts which are like or directly competitive withthe investigated product operating within theterritory of Sri Lanka, or those producers operatingwithin the territory of Sri Lanka whose collectiveoutput of like or directly competitive productsconstitutes a major proportion of the total domesticproduction of those products;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      454.37,
+      397.17,
+      477.11
+    ],
+    "text": "\u201cincreased quantity\u201d includes increase in import whetherin absolute terms or relative to domestic production;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      169.15,
+      488.57,
+      290.6,
+      499.91
+    ],
+    "text": "\u201c interested parties\u201d means\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      196.87,
+      511.37,
+      397.17,
+      534.11
+    ],
+    "text": "(a)an exporter and foreign producer of theinvestigated product ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      196.87,
+      545.57,
+      382.9,
+      556.91
+    ],
+    "text": "(b)an importer of the investigated product ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      197.71,
+      568.37,
+      397.18,
+      602.51
+    ],
+    "text": "(c)trade or business associations, a majority ofthe members of which are producers, exportersor importers of the investigated product ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      196.87,
+      613.97,
+      397.18,
+      636.71
+    ],
+    "text": "(d)the government of an exporting country orcountries ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      197.71,
+      648.17,
+      397.16,
+      671.27
+    ],
+    "text": "(e)producers of the domestic like or directlycompetitive products in Sri Lanka ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      403.15,
+      239.59,
+      451.16,
+      248.66
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      143.59,
+      272.93,
+      148.59,
+      284.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.95,
+      352.97,
+      151.39,
+      364.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.95,
+      409.97,
+      151.39,
+      421.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      139.87,
+      489.89,
+      150.31,
+      501.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      140.95,
+      579.89,
+      151.39,
+      591.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      141.67,
+      661.73,
+      152.11,
+      673.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      239.85,
+      166.97,
+      401.85,
+      178.31
+    ],
+    "text": "31Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      203.85,
+      202.97,
+      401.89,
+      248.63
+    ],
+    "text": "(f)trade and business associations, a majority ofthe members of which are producers of thedomestic like or directly competitiveproducts in Sri Lanka ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      201.57,
+      260.09,
+      401.87,
+      294.23
+    ],
+    "text": "(g)labour unions or other organizationsrepresenting the interests of workers in thedomestic industry ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      201.57,
+      305.69,
+      318.59,
+      317.03
+    ],
+    "text": "(h)consumer associations ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      203.85,
+      328.49,
+      401.89,
+      351.23
+    ],
+    "text": "(i)industrial users of the investigated product ;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      203.85,
+      362.69,
+      401.87,
+      408.23
+    ],
+    "text": "(j)any other natural or legal person asdetermined by the Director-General to have asufficient interest in the outcome of aninvestigation ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      173.85,
+      419.69,
+      401.89,
+      453.83
+    ],
+    "text": "\u201cinvestigated product\u201d means an imported productsubject to safeguard investigation under this Act asdescribed in the notice of initiation;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      173.85,
+      465.29,
+      401.91,
+      545.03
+    ],
+    "text": "\u201dlike products\u201d means domestic products which areidentical or alike in all respects to the productsubject to investigation or, in the absence of suchproducts, another product that although not alikein all respect have the same physical, technical orchemical characteristics closely resembling theproduct under investigation;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      173.85,
+      556.49,
+      401.87,
+      579.23
+    ],
+    "text": "\u201cMember\u201d means Member of the World TradeOrganization;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      173.85,
+      590.69,
+      401.88,
+      613.43
+    ],
+    "text": "\u201dMinister\u201d means the Minister in charge of the subject ofTrade;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      173.85,
+      624.89,
+      401.88,
+      670.91
+    ],
+    "text": "\u201cparticipating interested parties\u201d means those interestedparties that have indicated their interest inparticipating in an investigation, in accordance withthe provisions of section 11 of this Act ;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      149.01,
+      262.73,
+      154.01,
+      274.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      146.37,
+      340.73,
+      156.81,
+      352.07
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      146.37,
+      420.77,
+      156.81,
+      432.11
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.41,
+      490.73,
+      155.85,
+      502.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      146.37,
+      557.69,
+      156.81,
+      569.03
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      145.41,
+      637.73,
+      155.85,
+      649.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.15,
+      166.97,
+      319.15,
+      178.31
+    ],
+    "text": "32Safeguard Measures",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      169.15,
+      202.97,
+      397.18,
+      226.31
+    ],
+    "text": "\u201cserious injury\u201d means a significant overall impairmentin the position of a domestic industry ; and",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      169.15,
+      238.97,
+      397.13,
+      262.31
+    ],
+    "text": "\u201cthreat of serious injury\u201d means a serious injury that isclearly imminent.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      157.15,
+      274.97,
+      397.3,
+      298.31
+    ],
+    "text": "42. In the case of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      403.15,
+      276.55,
+      451.16,
+      314.42
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      145.51,
+      275.93,
+      150.51,
+      287.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      151.75,
+      167.17,
+      345.9,
+      190.24
+    ],
+    "text": "Great Wall of Nibbana DevelopmentFoundation (Incorporation)10",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      133.75,
+      630.35,
+      451.19,
+      669.57
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the Superintendent, Government Publications Bureau, Department ofGovernment Information, No. 163, Kirulapona Mawatha, Polhengoda, Colombo 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
