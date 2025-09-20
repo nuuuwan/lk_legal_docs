@@ -30,7 +30,7 @@ class AbstractDocGlobalReadMeMixin:
         return (
             cls.get_lines_for_header(summary)
             + cls.get_lines_for_blurb(summary)
-            + cls.get_lines_chart_docs_by_year_and_lang(summary)
+         # cls.get_lines_chart_docs_by_year_and_lang(summary)
         )
 
     @classmethod
