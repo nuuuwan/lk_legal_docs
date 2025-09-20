@@ -57,8 +57,10 @@ class AbstractDocChartDocsByYearMixin:
         bottom = np.zeros(len(years))
 
         for lang in cls.LANGS:
-            color = cls.COLOR_MAP.get(lang, "grey")
             values = counts.get(lang, 0)
+            if not values:
+                continue
+            color = cls.COLOR_MAP.get(lang, "grey")
             ax.bar(years, values, bottom=bottom, label=lang, color=color)
             bottom += np.array(values)
 
