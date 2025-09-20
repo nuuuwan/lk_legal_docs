@@ -55,7 +55,17 @@ class AbstractDocChartDocsByYearMixin:
         ax.set_title(
             f"Number of {cls.get_doc_class_label()} by year & language"
         )
-        ax.set_xticks(years)
+        if len(years) > 5:
+            step = max(1, len(years) // 5)
+            xticks = years[::step]
+            if xticks[-1] != years[-1]:
+                xticks.append(years[-1])
+        else:
+            xticks = years
+
+        ax.set_xticks(xticks)
+        ax.set_xticklabels([str(y) for y in xticks], rotation=45)
+
         ax.legend(title="Language")
         plt.tight_layout()
 
