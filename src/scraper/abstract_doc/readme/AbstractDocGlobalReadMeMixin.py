@@ -27,6 +27,9 @@ class AbstractDocGlobalReadMeMixin:
     @classmethod
     def get_lines_for_doc_class(cls, doc_class_label: str) -> list[str]:
         summary = cls.get_summary_for_doc_class(doc_class_label)
+        # HACK!
+        if "url_chart" not in summary:
+            return []
         return (
             cls.get_lines_for_header(summary)
             + cls.get_lines_for_blurb(summary)
