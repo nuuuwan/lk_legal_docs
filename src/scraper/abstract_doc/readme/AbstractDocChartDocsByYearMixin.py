@@ -40,12 +40,10 @@ class AbstractDocChartDocsByYearMixin:
 
     @classmethod
     def build_chart_by_year_and_lang(cls, year_to_lang_to_n):
-
         years = sorted(year_to_lang_to_n.keys())
         langs = sorted(
             {lang for v in year_to_lang_to_n.values() for lang in v.keys()}
         )
-
         counts = {
             lang: [
                 year_to_lang_to_n.get(year, {}).get(lang, 0) for year in years
@@ -55,14 +53,12 @@ class AbstractDocChartDocsByYearMixin:
 
         _, ax = plt.subplots(figsize=(10, 6))
         bottom = np.zeros(len(years))
-
         for lang in cls.LANGS:
             values = counts.get(lang, 0)
-            if not values:
-                continue
-            color = cls.COLOR_MAP.get(lang, "grey")
-            ax.bar(years, values, bottom=bottom, label=lang, color=color)
-            bottom += np.array(values)
+            if values:
+                color = cls.COLOR_MAP.get(lang, "grey")
+                ax.bar(years, values, bottom=bottom, label=lang, color=color)
+                bottom += np.array(values)
 
         ax.set_xlabel("Year")
         ax.set_ylabel("Number of documents")
@@ -79,7 +75,6 @@ class AbstractDocChartDocsByYearMixin:
 
         ax.set_xticks(xticks)
         ax.set_xticklabels([str(y) for y in xticks], rotation=45)
-
         ax.legend(title="Language")
         plt.tight_layout()
 
