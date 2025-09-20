@@ -1,0 +1,1950 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.07,
+      485.02,
+      274.75,
+      495.69
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.63,
+      500.62,
+      285.19,
+      511.29
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.35,
+      517.04,
+      330.3,
+      529.51
+    ],
+    "text": "Price : Rs. 6.75Postage : Rs. 3.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.15,
+      128.14,
+      321.39,
+      188.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.35,
+      202.42,
+      218.35,
+      213.09
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.87,
+      234.62,
+      263.86,
+      270.81
+    ],
+    "text": "DHAMMA SCHOOL FUND ACT, No. 52 OF 2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.645511627197266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.31,
+      287.38,
+      219.31,
+      298.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.79,
+      316.56,
+      247.67,
+      330.41
+    ],
+    "text": "[Certified on 18th August, 2000]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.43,
+      353.49,
+      256.43,
+      365.7
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.31,
+      395.98,
+      219.31,
+      406.65
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.35,
+      431.55,
+      331.4,
+      457.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of August 18, 2000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.39,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20001",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      534.12,
+      141.09,
+      546.13
+    ],
+    "text": "2\u2014H 006587\u20135,550 (00/02)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.07,
+      44.55,
+      223.53,
+      57.89
+    ],
+    "text": "[Certified on 18th August, 2000]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      65.55,
+      104.23,
+      78.89
+    ],
+    "text": "L.D.\u2014O. 70/98.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      86.55,
+      278.35,
+      99.89
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A FUND TO BE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      98.55,
+      278.36,
+      111.89
+    ],
+    "text": "CALLED THE \u201cDHAMMA SCHOOL FUND\u201d TO RAISE FUNDS TO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      110.55,
+      278.35,
+      123.89
+    ],
+    "text": "PRESERVE AND FOSTER DHAMMA SCHOOLS IN SRI LANKA ; AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      122.55,
+      278.35,
+      135.89
+    ],
+    "text": "TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      134.55,
+      84.65,
+      147.89
+    ],
+    "text": "THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      155.55,
+      278.39,
+      180.89
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      188.55,
+      278.17,
+      213.89
+    ],
+    "text": "1.This Act may be cited as the Dhamma School FundAct, No. 52 of 2000.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      221.55,
+      278.35,
+      258.89
+    ],
+    "text": "2.(1) There shall be established a Fund called the\u201cDhamma School Fund\u201d (hereinafter referred to as the\u201cFund\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      266.55,
+      278.49,
+      303.89
+    ],
+    "text": "(2)The Fund shall by the name assigned to it bysubsection (1) be a body corporate with perpetual successionand a common seal and may sue and be sued in such name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      312.51,
+      278.5,
+      361.85
+    ],
+    "text": "3.(1)The administration, management and control ofthe affairs of the Fund shall be vested in a Board ofManagement (hereinafter referred to as the \u201cBoard\u201d)constituted as hereinafter provided.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      369.51,
+      278.64,
+      418.85
+    ],
+    "text": "(2)The Board shall for the purposes of administering,managing and controlling the affairs of the Fund exercise,discharge and perform, the powers functions and dutiesconferred or imposed on, or assigned to, the Fund by this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      426.51,
+      278.57,
+      475.85
+    ],
+    "text": "(3)Subject to the provisions of this Act, the Board shallhave the power to make rules regulating the procedure inregard to its meetings and the transaction of business at suchmeetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.35,
+      486.51,
+      258.05,
+      500.45
+    ],
+    "text": "4.(1) The Board shall consist of the following :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.59,
+      504.51,
+      278.42,
+      529.85
+    ],
+    "text": "(a)the President of the Republic or a member of theCabinet of Ministers nominated by the President ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      190.06,
+      324.06,
+      200.73
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      224.02,
+      344.38,
+      253.89
+    ],
+    "text": "Establishment ofthe DhammaSchool Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      314.26,
+      340.73,
+      344.13
+    ],
+    "text": "Board ofManagement ofthe Fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      487.06,
+      350.36,
+      507.33
+    ],
+    "text": "Constitution of theBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      20.55,
+      310.67,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20002",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.01,
+      44.55,
+      345.41,
+      69.89
+    ],
+    "text": "(b)the Leader of the Opposition in Parliament or hisnominee ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.49,
+      78.51,
+      345.79,
+      103.85
+    ],
+    "text": "(c)the Minister in charge of the subject of BuddhaSasana ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.01,
+      112.47,
+      345.66,
+      137.81
+    ],
+    "text": "(d)the Secretary to the Ministry of the Minister in chargeof the subject of Buddha Sasana ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.49,
+      146.55,
+      218.99,
+      159.89
+    ],
+    "text": "(e)the Public Trustee ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.17,
+      168.51,
+      316.08,
+      181.85
+    ],
+    "text": "(f)the Commissioner of Buddhist Affairs ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.01,
+      190.47,
+      345.64,
+      227.81
+    ],
+    "text": "(g)two other members appointed by the President, fromamong persons who have had experience in BuddhistAffairs and Education.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      238.47,
+      345.74,
+      287.81
+    ],
+    "text": "(2) A member of the Board appointed under paragraph(g) of subsection (1) shall, subject to the provisions ofsubsections (3) and (4), hold office for the period specified inthe letter of appointment issued to him by the President.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      298.47,
+      345.87,
+      335.81
+    ],
+    "text": "(3)The President may for reasons assigned remove fromoffice, a member of the Board appointed under paragraph (g)of subsection (1).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      346.47,
+      345.78,
+      407.81
+    ],
+    "text": "(4) A member of the Board appointed under paragraph(g) of subsection (1) may resign from office by letter in thatbehalf addressed to the President and the resignation shall beeffective from the date on which it is accepted by the President,in writing.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      418.47,
+      345.73,
+      479.81
+    ],
+    "text": "(5) A person appointed in place of a member of the Boardappointed under paragraph (g) of subsection (1) who dies,resigns or is removed from office, shall hold office for theunexpired period of the term of office of the member whomhe succeeds.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      490.47,
+      345.79,
+      527.81
+    ],
+    "text": "(6)No act or proceeding of the Board shall be invalidatedby reason only of the existence of a vacancy in the Board orany defect in the appointment of any member thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73.39,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      44.55,
+      278.43,
+      81.89
+    ],
+    "text": "(7) The President or the person nominated by thePresident under paragraph (a) of subsection (1) shall be theChairman of the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      92.55,
+      278.39,
+      117.89
+    ],
+    "text": "5.(1)There shall be an Advisory Committee to theBoard consisting of \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.59,
+      128.55,
+      278.56,
+      153.89
+    ],
+    "text": "(a)an Anunayaka Thero appointed by MahanayakaThero of the Malwatu Chapter of the Siyam Nikaya ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.59,
+      162.51,
+      278.4,
+      187.85
+    ],
+    "text": "(b)an Anunayaka Thero nominated by the MahanayakaThero of the Asgiri Chapter of the Siyam Nikaya ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.19,
+      196.47,
+      278.45,
+      245.81
+    ],
+    "text": "(c)a Vice President Thero nominated by theMahanayaka Thero holding the office for the timebeing as President of the Sri Lanka Amarapura MahaSanga Sabhawa ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.59,
+      254.55,
+      278.4,
+      279.89
+    ],
+    "text": "(d)an Anunayaka Thero nominated by the MahanayakaThero of the Sri Lanka Ramanna Nikaya ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.19,
+      288.51,
+      278.36,
+      325.85
+    ],
+    "text": "(e)five other members appointed by the President, fromamong persons who have had experience inBuiddhist Affairs.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      336.51,
+      278.45,
+      409.85
+    ],
+    "text": "(2)The Theras referred to in paragraphs (a), (b), (c) and(d) of subsection (1) shall elect a Thero from amongthemselves to be the President of the Advisory Committee.The Thero so elected shall hold the office as President for aperiod of three years from the date of his election, and shallbe eligible for re-election.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      420.51,
+      278.43,
+      481.85
+    ],
+    "text": "(3) A member of the Advisory Committee appointedunder paragraph (e) of subsection (1) shall, unless he vacateshis office earlier by death, resignation or removal from office,hold office for a period of two years from the date of hisappointment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      491.55,
+      278.35,
+      528.89
+    ],
+    "text": "(4)The President may for reasons assigned, remove fromoffice, a member of the Advisory Committee appointed underparagraph (e) of subsection (1).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      93.82,
+      327.91,
+      114.09
+    ],
+    "text": "AdvisoryCommittee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      20.55,
+      310.67,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20004",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      44.55,
+      345.79,
+      105.89
+    ],
+    "text": "(5) A member of the Advisory Committee appointedunder paragraph (e) of subsection (1) may resign from officeby letter in that behalf addressed to the President, and theresignation shall be effective from the date on which it isaccepted by the President in writing.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      112.47,
+      345.72,
+      173.81
+    ],
+    "text": "(6) A person appointed in place of a member of theAdvisory Committee appointed under paragraph (e) ofsubsection (1) who dies, resigns or is removed from office,shall hold office for the unexpired period of the term of officeof the member whom he succeeds.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      184.47,
+      345.95,
+      245.81
+    ],
+    "text": "6.The Advisory Committee shall assist and advise theBoard when any matter relating to the exercise of the powersand the performance and discharge of the duties and functionsof the Board is referred by the Board to the Committee for itsadvice and assistance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      256.47,
+      345.92,
+      317.81
+    ],
+    "text": "7.The object of the Fund shall be to accept money fromlocal or foreign sources, and to use such money in suchmanner, and for such purposes, as the Board considers bestsuited for the preservation and fostering of Dhamma Schoolsin Sri Lanka.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.65,
+      328.47,
+      273.31,
+      342.41
+    ],
+    "text": "8.The Fund shall have the power :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.01,
+      348.51,
+      345.79,
+      385.85
+    ],
+    "text": "(a)to acquire, hold, take or give on lease, any movableor immovable property received by the Fund as gift,donation, devise or otherwise ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.01,
+      392.55,
+      345.65,
+      429.89
+    ],
+    "text": "(b)to sell, mortgage, lease, exchange or otherwisedispose of, any movable or immovable propertybelonging to the Fund ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.49,
+      436.47,
+      345.77,
+      461.81
+    ],
+    "text": "(c)to give grants, donations or awards for carrying outthe object of the Fund ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.01,
+      468.51,
+      345.8,
+      529.85
+    ],
+    "text": "(d)to enter into and perform, either directly or throughofficers or agents authorized in writing in that behalfby the Board, all such contracts and agreements asmay be necessary for carrying out the object of theFund ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      257.98,
+      75.39,
+      278.25
+    ],
+    "text": "Object of theFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      329.02,
+      77.51,
+      349.29
+    ],
+    "text": "Powers of theFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      186.58,
+      86.95,
+      226.05
+    ],
+    "text": "AdvisoryCommittee toadvise and assistthe Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.39,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20005",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      409.06,
+      345.77,
+      438.93
+    ],
+    "text": "Investment of themoney of theFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      446.02,
+      336.75,
+      475.89
+    ],
+    "text": "Officers andservants of theFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      173.02,
+      343.85,
+      193.29
+    ],
+    "text": "Dhamma SchoolFund Account.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.35,
+      280.06,
+      347.49,
+      300.33
+    ],
+    "text": "Payment from theAccount.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.19,
+      44.55,
+      278.25,
+      69.89
+    ],
+    "text": "(e)to assist institutions which are engaged in thepreservation and fostering of Dhamma Schools ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      74.55,
+      278.45,
+      99.89
+    ],
+    "text": "(f)to make rules relating to all matters connected withthe administration of the Fund ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      104.55,
+      278.58,
+      129.89
+    ],
+    "text": "(g)to borrow or obtain money, with the property of theFund as security or without security ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      134.55,
+      278.46,
+      159.89
+    ],
+    "text": "(h)to do all such other acts and things as are incidentalor conducive to, carrying out the object of the Fund.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      170.55,
+      278.45,
+      207.89
+    ],
+    "text": "9.The Board shall maintain an account referred to as\u201cDhamma School Fund Account\u201d in the Central Bank of SriLanka and there shall be credited to such account\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      212.55,
+      278.21,
+      237.89
+    ],
+    "text": "(a)all sums of money received from local or foreignsources as grants or donations to the Fund ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      242.55,
+      278.39,
+      267.89
+    ],
+    "text": "(b)income derived from the investments made by theFund.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      278.55,
+      278.08,
+      303.89
+    ],
+    "text": "10.There shall be paid out of the Dhamma School FundAccount\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      308.55,
+      278.52,
+      345.89
+    ],
+    "text": "(a)all sums of money required for the purpose ofcarrying out the object of the Fund and approved bythe Board ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      350.55,
+      278.48,
+      399.89
+    ],
+    "text": "(b)all sums of money required for the payment ofsalaries and other wages to the officers and servantsof the Fund and for payment of renumeration to theAuditor-General.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      407.55,
+      278.4,
+      432.89
+    ],
+    "text": "11.Any money belonging to the Fund may be investedin such manner as may be determined by the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      50.35,
+      443.55,
+      208.27,
+      457.49
+    ],
+    "text": "12.The Fund shall have the power \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      461.55,
+      278.38,
+      498.89
+    ],
+    "text": "(a)to appoint such officers and servants as may berequired for the administration and management ofthe affairs of the Fund ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.59,
+      503.55,
+      278.44,
+      528.89
+    ],
+    "text": "(b)to determine the remuneration to be paid to suchofficers and servants.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      20.55,
+      310.67,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20006",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      44.55,
+      345.81,
+      81.89
+    ],
+    "text": "13.(1)The Board shall, cause proper accounts to bekept of the income and expenditure, assets and liabilities, andall other transactions of the Fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      89.55,
+      345.88,
+      150.89
+    ],
+    "text": "(2) The Auditor-General shall audit the accounts of theFund every year. For the purpose of assisting him in the auditof such accounts, the Auditor-General may employ theservices of a qualified auditor who shall act under his directionand control.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      161.55,
+      345.92,
+      270.89
+    ],
+    "text": "(3)For the purpose of meeting the expenses incurred byhim in the audit of the accounts of the Fund, the Auditor-General shall be paid out of the income of the Fund, suchremuneration as the Board may determine. Any remunerationreceived from the Fund by the Auditor-General shall, afterthe deduction therefrom of any sums paid by him to anyqualified auditor or auditors employed by him for the purposeof conducting such audit, be credited to the ConsolidatedFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      278.55,
+      345.87,
+      351.89
+    ],
+    "text": "(4)The Auditor-General shall, as soon as practicable afterthe thirty-first day of December of each year, prepare a reporton the administration of the affairs of the Fund during thatyear, together with a statement of the income and expenditureof the Fund and of the investment of the moneys belonging tothe Fund during that year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      359.55,
+      345.65,
+      384.89
+    ],
+    "text": "(5) In this section, the expression \u201cqualified auditor\u201dmeans\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.01,
+      389.55,
+      345.88,
+      450.89
+    ],
+    "text": "(a)an individual who, being a member of the Instituteof Chartered Accountants of Sri Lanka or of any otherInstitute established by law, possesses a certificateto practise as an accountant, issued by the Councilof such Institute ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.01,
+      455.55,
+      345.88,
+      528.89
+    ],
+    "text": "(b)a firm of Charted Accountants each of the residentpartners of which, being a member of the Instituteof Chartered Accountants of Sri Lanka or of any otherInstitute established by law, possesses a certificateto practise as an Accountant issued by the Councilof such Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      33.65,
+      45.82,
+      77.42,
+      66.09
+    ],
+    "text": "Accounts andAudit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      73.39,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      45.94,
+      350.06,
+      82.05
+    ],
+    "text": "Auditor-General\u2019sstatement andreport to be placedbefore Parliament.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      109.06,
+      350.38,
+      148.53
+    ],
+    "text": "Officers andservants of theFund deemed tobe Public servants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      44.55,
+      278.57,
+      93.89
+    ],
+    "text": "14.The Auditor-General shall transmit the reportprepared by him in pursuance of section 13 to the Minister incharge of the subject of Buddha Sasana who shall cause suchreport and statement to be placed before Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      107.55,
+      278.51,
+      144.89
+    ],
+    "text": "15.All officers and servants of the Fund shall be deemedto be public servants within the meaning and for the purposesof the Penal Code.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      155.55,
+      278.52,
+      192.89
+    ],
+    "text": "16.The Fund shall be deemed to be a scheduledinstitution within the meaning of the Bribery Act and theprovisions of that Act shall be construed accordingly.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      203.55,
+      278.41,
+      264.89
+    ],
+    "text": "17.A donation made in money or otherwise by anyperson to the Fund shall be deemed, for the purposes ofparagraph (b) of subsection (2) of section 31 of the InlandRevenue Act, No. 28 of 1979, to be a donation made in moneyor otherwise to a Fund established by the Government.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      275.55,
+      278.52,
+      336.89
+    ],
+    "text": "18.No action or prosecution shall be brought againstthe Fund, a member of the Board or any officer or servant ofthe Fund for any act which in good faith is done, or purportedto be done, by the Fund or such member, officer or servant,under this Act or on the direction of the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      347.55,
+      278.34,
+      372.89
+    ],
+    "text": "19.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.35,
+      383.55,
+      277.35,
+      397.49
+    ],
+    "text": "20.In this Act, unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.35,
+      407.55,
+      278.48,
+      432.89
+    ],
+    "text": "\u201cCentral Bank\u201d means the Central Bank of Sri Lankaestablished by the Monetary Law Act ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.35,
+      443.55,
+      278.47,
+      480.89
+    ],
+    "text": "\u201cDhamma School\u201d means a school maintained exclusivelyfor the propagation of the Buddha Dhamma tolaymen.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      157.3,
+      350.08,
+      202.65
+    ],
+    "text": "The Fund deemedto be a scheduledinstitution withinthe meaning of theBribery Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      205.78,
+      342.9,
+      226.05
+    ],
+    "text": "Exemption fromcertain taxes.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      277.78,
+      331.9,
+      298.05
+    ],
+    "text": "Protection ofaction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      350.26,
+      344.8,
+      380.13
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      290.35,
+      386.38,
+      335.89,
+      397.05
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      105.65,
+      20.55,
+      310.67,
+      33.89
+    ],
+    "text": "Dhamma School Fund Act, No. 52 of 20008",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      33.65,
+      496.18,
+      345.61,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

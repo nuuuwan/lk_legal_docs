@@ -1,0 +1,852 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      91.03,
+      484.06,
+      275.71,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.59,
+      499.66,
+      286.15,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      27.31,
+      516.08,
+      335.27,
+      528.55
+    ],
+    "text": "Price : Rs. 4.50 Postage : Rs. 3.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.31,
+      208.06,
+      226.31,
+      218.73
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.47,
+      125.14,
+      317.21,
+      185.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.35,
+      434.55,
+      331.4,
+      460.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of August 18, 2000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.87,
+      372.57,
+      254.87,
+      384.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.79,
+      404.98,
+      226.79,
+      415.65
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      116.11,
+      335.64,
+      249.56,
+      349.49
+    ],
+    "text": "[Certified on 18th August, 2000]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      102.91,
+      245.06,
+      261.87,
+      281.25
+    ],
+    "text": "CENSUS (AMENDMENT)ACT, No. 55 OF 2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.645511627197266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.31,
+      300.46,
+      226.31,
+      311.13
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.67,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Census (Amendment) Act, No. 55 of 20001",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.31,
+      530.98,
+      140.69,
+      541.65
+    ],
+    "text": "2\u2013H 008087\u2014 5,550 (08/2000)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.75,
+      56.55,
+      224.6,
+      69.89
+    ],
+    "text": "[Certified on 18th August, 2000]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      80.55,
+      104.23,
+      93.89
+    ],
+    "text": "L.D.\u2014O. 54/99.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.27,
+      104.55,
+      243.43,
+      117.89
+    ],
+    "text": "AN ACT TO AMEND THE CENSUS ORDINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      128.91,
+      278.39,
+      154.73
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      168.87,
+      278.5,
+      194.69
+    ],
+    "text": "1.This Act may be cited as the Census (Amendment)Act, No. 55 of 2000.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      208.83,
+      278.41,
+      259.73
+    ],
+    "text": "2.Sections 2 and 3 of the Census Ordinance (hereinafterreferred to as the \u201cprincipal enactment\u201d) as last amended byAct, No. 16 of 1981 are hereby repealed and the followingsections substituted therefor : \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.35,
+      273.87,
+      278.46,
+      387.17
+    ],
+    "text": "2. It shall be lawful for the Minister, fromtime to time, by Order published in theGazette, to direct that a census be taken of thepopulation, housing, agriculture, livestock,trade, labour, industry, construction orcommerce or such other matters as he may deemnecessary for ascertaining the demographic,social or economic condition of the inhabitantsof Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.35,
+      401.31,
+      278.42,
+      527.81
+    ],
+    "text": "3. To superintend the taking of any census,there shall be appointed an officer to be called\u201cthe Superintendent of Census\u201d. If anappointment to the office of the Superintendentof Census is not made, the Director-General ofCensus and Statistics appointed under theStatistics Ordinance shall exercise, perform anddischarge, all such powers, duties and functionsas are conferred or imposed on, assigned to, theSuperintendent of Census by this Ordinance.\u2019.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      170.38,
+      324.06,
+      181.05
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      211.18,
+      350.29,
+      241.05
+    ],
+    "text": "Replacement ofsections 2 and 3 ofChapter 143.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      276.22,
+      78.57,
+      306.09
+    ],
+    "text": "\u2018Minister todirect takingof census.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      403.66,
+      80.57,
+      443.13
+    ],
+    "text": "Appointmentof Superin-tendent ofCensus.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      20.55,
+      308.57,
+      33.89
+    ],
+    "text": "2Census (Amendment) Act, No. 55 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      56.79,
+      345.92,
+      106.25
+    ],
+    "text": "3.Section 5 of the principal enactment as last amendedby Act No. 16 of 1981 is hereby further amended by therepeal of subsection (4) of that section and the substitutiontherefor, of the following subsection :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.65,
+      114.87,
+      346.36,
+      176.21
+    ],
+    "text": "\u201c(4) Any person committing any breach of any suchrule shall, on conviction before a Magistrate, be liableto imprisonment of either description for a term notexceeding six months or to a fine not exceeding tenthousand rupees, or to both such imprisonment and fine\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      184.95,
+      345.72,
+      222.29
+    ],
+    "text": "4.Section 6 of the principal enactment as last amendedby Act No. 16 of 1981 is hereby repealed and the followingsection substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159.65,
+      230.91,
+      345.88,
+      340.25
+    ],
+    "text": "6. The District Secretary of a DistrictSecretary\u2019s Division shall be the Commissionerof Census for his District and the Mayor,Chairman or Special Commissioner, where anylocal authority is administered by a SpecialCommissioner, of every Municipal Council andUrban Council shall be Commissioner ofCensus for the local area, of such MunicipalCouncil or Urban Council :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      159.65,
+      348.87,
+      345.75,
+      398.21
+    ],
+    "text": "Provided that any other person may beappointed as Commissioner for such District orsuch Municipal Council or Urban Councilarea.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      406.95,
+      345.71,
+      432.29
+    ],
+    "text": "5.Section 7 of the principal enactment is hereby amendedby the substitution\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.01,
+      437.91,
+      345.86,
+      475.25
+    ],
+    "text": "(1) in the marginal note for the words \u201cAssistantCommissioners\u201d of the words \u201cDeputyCommissioners and Assistant Commissioners\u201d ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.01,
+      478.95,
+      345.86,
+      528.29
+    ],
+    "text": "(2) for the words \u201can Assistant Commissioner of Censusto assist\u201d of the words \u201ca Deputy Commissioner ofCensus and an Assistant Commissioner of Census toassist\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      59.62,
+      82.73,
+      99.09
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      185.62,
+      84.03,
+      225.09
+    ],
+    "text": "Replacement ofsection 6 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      233.38,
+      152.65,
+      340.05
+    ],
+    "text": "\u201cDistrictSecretary andMayor,Chairman orSpecialCommissionerof MunicipalCouncil orUrbanCouncil to beCommissioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      408.58,
+      82.73,
+      448.05
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.67,
+      20.55,
+      278.31,
+      33.89
+    ],
+    "text": "Census (Amendment) Act, No. 55 of 20003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      56.19,
+      278.43,
+      115.49
+    ],
+    "text": "6.Section 9 of the principal enactment as amended byAct No. 16 of 1981 is hereby further amended by thesubstitution, for the words \u201cCommissioner, AssistantCommissioner\u201d, of the words \u201cCommissioner, DeputyCommissioner, Assistant Commissioner\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      125.19,
+      278.48,
+      150.05
+    ],
+    "text": "7.Section 21 of the principal enactment as amended byAct No. 16 of 1981 is hereby further amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.71,
+      155.19,
+      278.49,
+      214.49
+    ],
+    "text": "(1) in subsection (1) of that section, by the substitution,for the words \u201ca term not exceeding three months orto a fine not exceeding five thousand rupees\u201d, of thewords \u201cfor a term not exceeding six months or to afine not exceeding ten thousand rupees\u201d ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.71,
+      219.63,
+      278.49,
+      279.05
+    ],
+    "text": "(2) in subsection (2) of that section, by the substitution,for the words \u201ca term not exceeding three months orto a fine not exceeding five thousand rupees\u201d, of thewords \u201ca term not exceeding six months or to a finenot exceeding ten thousand rupees\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.71,
+      284.19,
+      278.49,
+      343.49
+    ],
+    "text": "(3) in subsection (3) of that section, by the substitution,for the words \u201ca term not exceeding three months orto a fine not exceeding five thousand rupees\u201d, of thewords \u201ca term not exceeding six months or to a finenot exceeding ten thousand rupees\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      350.67,
+      278.48,
+      478.97
+    ],
+    "text": "8.Wherever in any provision of the Statistics Ordinanceor other written law or of any notice, communication, formor other document issued, made required or authorised by theStatistics Ordinance or such other written law, the expression\u201cDirector of Statistics\u201d occurs, there shall be substituted forthat expression, the expression \u201cDirector-General of Censusand Statistics\u201d, and accordingly, wherever in any suchprovisions there is a reference to \u201cDirector\u201d denoting theDirector of Statistics, such reference shall be read andconstrued as a reference to the Director-General of Censusand Statistics.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      484.47,
+      278.43,
+      509.81
+    ],
+    "text": "9.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      59.62,
+      339.43,
+      99.09
+    ],
+    "text": "Amendment ofsection 9 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      127.66,
+      343.42,
+      167.13
+    ],
+    "text": "Amendment ofsection 21 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      353.62,
+      346.32,
+      393.09
+    ],
+    "text": "Amendment ofStatisticsOrdinance andother written law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      487.18,
+      344.8,
+      517.05
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      20.55,
+      308.57,
+      33.89
+    ],
+    "text": "4Census (Amendment) Act, No. 55 of 2000",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      496.18,
+      345.61,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
