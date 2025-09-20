@@ -20,3 +20,6 @@ class AbstractDocPipelineExtendedDataMixin:
                 log.info(f"🛑 Stopping. {dt:,.1f}s > {max_dt:,}s")
                 return
         log.info("🛑 All extended data scraped.")
+
+    def scrape_extended_data_for_doc(self):
+        return
