@@ -1,0 +1,2401 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      160.7,
+      303.46,
+      429.54,
+      360.23
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.62,
+      398.43,
+      388.83,
+      432.03
+    ],
+    "text": "RANA VIRU SEVA AUTHORITYACT, No. 54 OF 1999",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      227.78,
+      474.84,
+      362.51,
+      487.31
+    ],
+    "text": "[Certified on 23rd December, 1999]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.22,
+      499.32,
+      361.16,
+      510.31
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      141.86,
+      546.91,
+      448.38,
+      573.09
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of December 24,1999",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      176.42,
+      609.95,
+      414.05,
+      619.29
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.78,
+      626.75,
+      428.59,
+      636.09
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 01",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.1,
+      657.48,
+      422.65,
+      669.95
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 3.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.7,
+      193.05,
+      451.4,
+      204.13
+    ],
+    "text": "(Internet version)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.1,
+      165.98,
+      380.82,
+      177.67
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19991",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.9,
+      201.55,
+      335.87,
+      214.89
+    ],
+    "text": "[Certified on 23rd December, 1999]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      221.23,
+      204.7,
+      234.57
+    ],
+    "text": "L.D.\u2013\u2013O. 4/99.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      241.75,
+      383.9,
+      255.09
+    ],
+    "text": "AN ACT TO ESTABLISH AN AUTHORITY TO PROMOTE THE WELFARE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      253.03,
+      383.9,
+      266.37
+    ],
+    "text": "OF DISABLED MEMBERS OF THE ARMED FORCES AND THE POLICE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      264.43,
+      383.77,
+      277.77
+    ],
+    "text": "FORCE, AND OF THE DEPENDANTS OF MEMBERS OF THE ARMED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      275.71,
+      383.8,
+      289.05
+    ],
+    "text": "FORCES AND THE POLICE FORCE, KILLED OR MISSING IN ACTION ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      286.99,
+      383.75,
+      300.33
+    ],
+    "text": "AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      298.27,
+      191.76,
+      311.61
+    ],
+    "text": "THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      320.83,
+      383.74,
+      345.57
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2013\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      354.79,
+      383.66,
+      379.41
+    ],
+    "text": "1. This Act may be cited as the Rana Viru Seva AuthorityAct, No, 54 of 1999.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      388.63,
+      384.1,
+      424.65
+    ],
+    "text": "2.(1) There shall be established an Authority to becalled The Rana Viru Seva Authority (hereinafter referred toas the \u201cAuthority\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      433.87,
+      383.99,
+      481.05
+    ],
+    "text": "(2) The Authority shall, by the name assigned to it bysub-section (1), be a body corporate with perpetualsuccession and a common seal and may sue and be sued insuch name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      490.39,
+      383.97,
+      537.57
+    ],
+    "text": "3.(1) The administration and management of the affairsof the Authority shall be vested in a Board of Management(hereinafter referred to as the \u201cBoard\u201d) consisting of thefollowing members appointed by the president :\u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      546.91,
+      384.17,
+      582.81
+    ],
+    "text": "(a) the Secretary to the Ministry of the Minister in chargeof the subject of Defence or a representative of that Ministrynominated by such Secretary ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      592.03,
+      383.88,
+      628.05
+    ],
+    "text": "(b) the Secretary to the Ministry of the Minister in chargeof the subject of Home Affairs or a representative of thatMinistry nominated by such Secretary ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      637.27,
+      361.72,
+      650.61
+    ],
+    "text": "(c) the Director, (Welfare) of the Sri Lanka Army ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      659.83,
+      360.21,
+      673.17
+    ],
+    "text": "(d) the Director, (Welfare) of the Sri Lanka Navy ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.9,
+      357.5,
+      429.96,
+      368.17
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.9,
+      390.5,
+      450.43,
+      420.37
+    ],
+    "text": "Establishment ofthe Rana ViruSeva Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      672.98,
+      176.9,
+      683.65
+    ],
+    "text": "H-022545",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.9,
+      491.54,
+      453.51,
+      540.61
+    ],
+    "text": "Administration ofthe affairs of theAuthority vestedin a Board ofManagement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.1,
+      166.68,
+      413.97,
+      177.73
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19992",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      201.07,
+      439.79,
+      214.41
+    ],
+    "text": "(e) the Director, (Welfare) of the Sri Lanka Airforce ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      223.87,
+      451.36,
+      248.61
+    ],
+    "text": "(f)the Deputy Inspector-General of Police in charge ofWelfare ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      258.07,
+      451.33,
+      282.81
+    ],
+    "text": "(g) the President of the Seva Vanitha Unit of the Ministryof the Minister in charge of the subject of Defence ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      292.27,
+      451.27,
+      317.01
+    ],
+    "text": "(h) the Chief Accountant of the Ministry of the Ministerin charge of the subject of Defence ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      326.47,
+      451.39,
+      351.21
+    ],
+    "text": "(i)a representative of the General Treasury nominatedby the Minister in charge of the subject of Finance ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      360.67,
+      451.31,
+      419.61
+    ],
+    "text": "(j)three other members appointed by the President, of whomat least two members shall be from amongst members ofthe medical and legal professions. A member appointedunder this paragraph is hereinafter referred to as an\u201cappointed member\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      429.07,
+      451.07,
+      465.21
+    ],
+    "text": "(2) The president shall appoint a Chairman and vice-Chairman of the Board from amongst the members ofthe Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.1,
+      474.67,
+      451.38,
+      522.21
+    ],
+    "text": "(3) The provisions of the Schedule to this Act shall haveeffect in relation to the term of office of the appointed membersof the Board, the remuneration payable to the members of theBoard and the meetings and seal of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      531.67,
+      423.28,
+      545.61
+    ],
+    "text": "4.(1) The functions of the Authority shall be\u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      554.47,
+      451.09,
+      590.61
+    ],
+    "text": "(a) to provide for the after care and rehabilitation ofmembers of the Armed Forces and the Police Forcewho have become disabled in action ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.1,
+      600.07,
+      451.29,
+      624.81
+    ],
+    "text": "(b) to provide, and to assist in the provision of, housingto\u2013\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      253.1,
+      634.27,
+      451.09,
+      670.41
+    ],
+    "text": "(i)members of the Armed Forces and the PoliceForce who have become disabled in action ;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.58,
+      533.78,
+      192.0,
+      554.05
+    ],
+    "text": "Functions of theAuthority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.1,
+      165.98,
+      380.82,
+      177.67
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19993",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      201.67,
+      383.95,
+      237.69
+    ],
+    "text": "(ii)the dependants of members of the ArmedForces and the Police Force who have beenkilled, or are missing in action ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.74,
+      246.55,
+      384.06,
+      270.93
+    ],
+    "text": "(c) to provide, or assist in the provision of, medical careto\u2013\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      279.79,
+      383.96,
+      304.29
+    ],
+    "text": "(i)members of the Armed Forces and the PoliceForce who have become disabled in action ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      313.15,
+      383.95,
+      348.69
+    ],
+    "text": "(ii)the dependants of members of the ArmedForces and the Police Force who have beenkilled, or are missing in action ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.14,
+      357.55,
+      220.38,
+      370.89
+    ],
+    "text": "(d) to enable\u2013\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      379.75,
+      383.96,
+      404.13
+    ],
+    "text": "(i)members of the Armed Forces and the PoliceForce who have become disabled in action ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      412.99,
+      383.95,
+      448.53
+    ],
+    "text": "(ii)the dependants of members of the ArmedForces and the Police Force who have beenkilled, or are missing in action ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.9,
+      457.39,
+      384.09,
+      492.93
+    ],
+    "text": "to have access to education and higher education,bythe provision of scholarships and other forms ofassistance ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.74,
+      501.79,
+      215.8,
+      515.13
+    ],
+    "text": "(e) to assist\u2013\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      523.99,
+      383.96,
+      548.49
+    ],
+    "text": "(i)members of the Armed Forces and the PoliceForce who have become disabled in action ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.9,
+      557.35,
+      383.95,
+      592.89
+    ],
+    "text": "(ii)the dependants of members of the ArmedForces and the Police Force who have beenkilled, or are missing in action ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      173.9,
+      601.75,
+      297.09,
+      615.09
+    ],
+    "text": "to secure gainful employment ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.42,
+      623.95,
+      383.93,
+      671.37
+    ],
+    "text": "(f) to set up industrial, agricultural or commercial ventureswith a view to providing employment to the membersof the Armed Forces and the Police Force who havebecome disabled in action ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.1,
+      166.68,
+      413.97,
+      177.73
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19994",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      201.31,
+      451.26,
+      237.09
+    ],
+    "text": "(g) to do all such other acts and things as may be necessaryor conducive to the discharge of the function of theAuthority.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      245.95,
+      451.0,
+      270.33
+    ],
+    "text": "5.(1) The Board shall for the purpose of dischargingits function have the power\u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      279.19,
+      451.32,
+      314.73
+    ],
+    "text": "(a) to acquire and to hold, any property, movable orimmovable, and to sell, lease, mortgage, or exchangeor otherwise dispose of, the same ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      323.59,
+      451.22,
+      348.09
+    ],
+    "text": "(b) to enter into all such contracts as may be necessaryfor the discharge of its functions ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      356.95,
+      451.02,
+      381.33
+    ],
+    "text": "(c) to open, operate and maintain, current, savings ordeposit accounts in any bank or banks ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      390.19,
+      451.43,
+      436.89
+    ],
+    "text": "(d) to employ such officers and servants as may benecessary for the discharge of its functions, and toexercise disciplinary control over such officers andservants ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      445.75,
+      451.33,
+      481.29
+    ],
+    "text": "(e) to determine the terms and conditions of service ofthe officers and servants appointed under paragraph(d) ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.1,
+      490.15,
+      451.42,
+      514.53
+    ],
+    "text": "(f)to do all such other acts or things as are necessary for,or incidental to, the discharge of its functions.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.1,
+      523.39,
+      450.99,
+      558.93
+    ],
+    "text": "6.The Authority shall within sixty days of the date ofcommencement of this Act, cause to be prepared registersrespectively of\u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.1,
+      567.79,
+      450.98,
+      592.29
+    ],
+    "text": "(a) all members of the Armed Forces and the police Forcewho have become disabled in action ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.1,
+      601.15,
+      451.16,
+      636.69
+    ],
+    "text": "(b) the dependants of all members of the Armed Forcesand the Police Force who have been killed, or are missing inaction,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.1,
+      645.55,
+      451.28,
+      671.25
+    ],
+    "text": "and shall cause such registers to be revised or amended asand when it becomes necessary to do so.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.58,
+      247.82,
+      183.52,
+      268.09
+    ],
+    "text": "Powers of theBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.58,
+      525.86,
+      171.36,
+      536.53
+    ],
+    "text": "Registers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      181.1,
+      165.98,
+      380.82,
+      177.67
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19995",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.9,
+      202.27,
+      384.0,
+      278.73
+    ],
+    "text": "7.(1) At the request of the Board, an officer in the PublicService may, with the consent of that officer and the Secretaryto the Ministry of the Minister incharge of the subject of PublicAdministration, be temporarily appointed to the Staff of theAuthority for such period as may be determined by the Boardwith like consent, or be permanently appointed to such staff.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.9,
+      290.59,
+      383.91,
+      354.33
+    ],
+    "text": "(2) Where any officer in the public service is temporarilyappointed to the Staff of the Authority, the provisions ofsubsection (2) of section 14 of the National TransportCommission Act, No 37 of 1991 shall, mutatis mutandis, applyto, and in relation to, him.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.9,
+      366.19,
+      383.8,
+      429.93
+    ],
+    "text": "(3) Where any officer in the public service is permanantlyappointed to the staff of the Authority, the provisions ofsubsection (3) of section 14 of the National TransportCommission Act, No. 37 of 1991 shall mutatis mutandis, applyto, and in relation to, him.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.9,
+      441.79,
+      383.82,
+      505.53
+    ],
+    "text": "(4) Where the Authority employs any person who hasagreed to serve the Government for a specified period, anyperiod of service to the Authority by that person shall beregarded as service to the Government for the purposes ofdischarging the obligations of such agreement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.9,
+      517.39,
+      384.01,
+      543.33
+    ],
+    "text": "8.(1) The Authority shall have its own fund (hereinafterreferred to as \u201cthe Fund\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      155.9,
+      555.19,
+      315.53,
+      568.53
+    ],
+    "text": "(2) There shall be paid into the Fund\u2013\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167.9,
+      580.39,
+      383.97,
+      606.33
+    ],
+    "text": "(a) all such sums of money as may be appropriated forthe purposes of the Authority by Parliament ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167.9,
+      618.19,
+      384.06,
+      669.33
+    ],
+    "text": "(b) all such sums of money as may be received by theAuthority by way of profit from the ventures setup in the discharge of the functions assigned to theAuthority by paragraph (f) of section 4 ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.9,
+      519.5,
+      433.12,
+      539.77
+    ],
+    "text": "Fund of theAuthority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      395.9,
+      205.58,
+      431.92,
+      225.85
+    ],
+    "text": "Staff of theAuthority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      166.68,
+      413.97,
+      177.73
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19996",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235.1,
+      201.31,
+      451.2,
+      237.57
+    ],
+    "text": "(c) all such sums of money as may be received by theAuthority by way of gifts, grants or donations fromlocal and foreign sources ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      235.1,
+      247.03,
+      451.26,
+      294.57
+    ],
+    "text": "(3) there shall be paid out of the Fund all such sums ofmoney as are required to defray any expenditureincurred by the Authority in the discharge of itsfunctions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      304.03,
+      451.23,
+      328.77
+    ],
+    "text": "9.(1) The financial year of the Authority shall be theCalender year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      338.23,
+      451.32,
+      374.37
+    ],
+    "text": "(2) The Board shall cause proper books of accounts to bekept of the income and expenditure, assets and liabilities andall other transactions of the Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      383.83,
+      451.28,
+      419.97
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitutionrelating to the audit of accounts of Public Corporations shallapply to the audit of the accounts of the Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      440.83,
+      451.19,
+      476.97
+    ],
+    "text": "10. (1) All profits and income of the Authority shall beexempt from income tax under the Inland Revenue Act, No.28of 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      486.43,
+      451.28,
+      545.37
+    ],
+    "text": "(2) Every gift, grant or donation made in money orotherwise to the Authority shall, for the purposes of paragraph(b) of subsection (2) of section 31 of the Inland Revenue Act,No.28 of 1979, be deemed to be a donation made in money orotherwise to a Fund established by the Government.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      554.83,
+      451.14,
+      590.97
+    ],
+    "text": "11. All members of the Board and, officers and servantsof the Authority shall be deemed to be public servants withinthe meaning and for the purposes of the Penal Code.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      211.1,
+      621.07,
+      450.95,
+      658.41
+    ],
+    "text": "12. The Authority shall be deemed to be a ScheduledInstitution within the meaning of the Bribery Act and theprovisions of that Act shall be construed accordingly.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      441.02,
+      192.48,
+      461.29
+    ],
+    "text": "Exemption fromcertain taxes.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      555.5,
+      198.21,
+      604.57
+    ],
+    "text": "Members, officersand servants ofthe Authoritydeemed to bepublic servants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      621.98,
+      197.72,
+      671.05
+    ],
+    "text": "Authority to be aScheduledInstitution withinthe meaning ofthe Bribery Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      305.54,
+      199.12,
+      325.81
+    ],
+    "text": "Financial year andaudit of accounts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181.1,
+      165.98,
+      380.82,
+      177.67
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19997",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.9,
+      202.51,
+      376.15,
+      216.45
+    ],
+    "text": "13. (1) No action or prosecution shall be instituted \u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.9,
+      225.91,
+      383.91,
+      262.05
+    ],
+    "text": "(a) against the Authority, for any act, which in good faithis done or purported to be done by the Authority underthis Act ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.9,
+      271.51,
+      383.79,
+      319.05
+    ],
+    "text": "(b) against any member of the Board or, officer or servantof the Authority for any act which in good faith isdone or purported to be done by him under this Act oron the direction of the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.9,
+      328.51,
+      384.23,
+      387.45
+    ],
+    "text": "(2) Any expenses incurred by the Authority in any actionor prosecution brought by or against the Authority in any courtshall be paid out of the Fund and any costs paid to, or recoveredby, the Authority in any such action or prosecution shall becredited to the fund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.9,
+      396.91,
+      384.09,
+      467.25
+    ],
+    "text": "(3) Any expenses incurred by any such person as isreferred to in paragraph (b) of subsection (1), in any action orprosecution instituted against him in respect of any act whichis done or purported to be done by him under this Act or onthe direction of the Board shall be paid out of the Fund if theCourt holds that such act was done in good faith.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.9,
+      476.71,
+      384.16,
+      558.45
+    ],
+    "text": "14. (1) Where any immovable property of the State isrequired for any purpose of the Authority, such purpose shallbe deemed to be a purpose for which a special grant or leaseof such property may be made under section 6 of the CrownLands Ordinance, and accordingly the provisions of thatOrdinance shall apply to a special grant or lease of suchproperty to the Authority.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.9,
+      567.91,
+      383.98,
+      615.45
+    ],
+    "text": "(2) where any movable peoperty of the State is requiredfor any purpose of the Authority, the Minister may by Orderpublished in the Gazette transfer to and vest in the Authority,the possession and use of such movable property :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.9,
+      624.91,
+      384.11,
+      672.69
+    ],
+    "text": "Provided however, that no order affecting any movableproperty of the State shall be made by the Minister under thepreceeding provisions of this subsection without theconcurrence of the Minister having control over such property.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.9,
+      479.18,
+      454.03,
+      509.05
+    ],
+    "text": "State property tobe made availableto the Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      395.9,
+      204.74,
+      455.38,
+      253.81
+    ],
+    "text": "Protection foraction takenunder this Act oron the direction ofthe Authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.1,
+      166.68,
+      413.97,
+      177.73
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19998",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.1,
+      201.43,
+      451.26,
+      250.65
+    ],
+    "text": "15. The Board shall at the end of each financial yearprepare a report of the activities of the Authority during theyear and shall submit such report to the Minister who shallcause the same to be laid before Parliament.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.1,
+      262.27,
+      451.1,
+      288.09
+    ],
+    "text": "16. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.1,
+      312.31,
+      447.01,
+      326.25
+    ],
+    "text": "17. In this Act, unless the context otherwise requires\u2013\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      224.66,
+      337.27,
+      451.2,
+      363.09
+    ],
+    "text": "\u201cArmed Forces \u201d means the Sri Lanka Army, Sri LankaNavy or the Sri Lanka Air Force ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.1,
+      374.83,
+      451.26,
+      500.61
+    ],
+    "text": "\u201cdependant\u201d in relation to a member of the armed forcesor the police force killed or missing in action includesthe widow or widower, unemployed and unmarrieddaughter, unemployed son, parent, unmarried sisteror unmarried brother under eighteen years of age,grand father, grand mother of such member, and wherethe parents are not living, the uncle and aunt of suchmember, if such uncle and aunt were dependent onsuch member at the time of his death or was missingin action ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      224.66,
+      512.23,
+      451.18,
+      600.57
+    ],
+    "text": "\u201clocal authority\u201d means any Municipal Council, UrbanCouncil or Pradeshiya Sabha and includes anyauthority created or established by or under any lawto exercise, perform and discharge, powers, duties andfunctions corresponding to or similar to the powers,duties and functions exercised, performed anddischarged by any such Council or Sabha ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      223.1,
+      612.31,
+      424.31,
+      625.65
+    ],
+    "text": "\u201cPolice Force\u201d means the Sri Lanka Police Force ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      224.66,
+      637.27,
+      451.32,
+      663.09
+    ],
+    "text": "\u201cProvincial Council\u201d means a Provincial Councilestablished under chapter XVIIA of the Constitution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.58,
+      264.98,
+      196.13,
+      294.85
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.58,
+      314.54,
+      187.59,
+      325.21
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.58,
+      204.02,
+      189.31,
+      214.69
+    ],
+    "text": "Annual Report.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      181.1,
+      165.98,
+      380.82,
+      177.67
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 19999",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      245.9,
+      203.63,
+      281.92,
+      212.97
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      221.23,
+      383.94,
+      265.77
+    ],
+    "text": "1. A person shall be disqualified from being appointed, orcontinuing, as an appointed member of the Board if he is orbecomes a member of Parliament or of a provincial Councilor of a local authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      273.31,
+      384.18,
+      307.41
+    ],
+    "text": "2. The term of office of an appointed member of the Boardshall subject to the provisions of paragraphs 3 and 4 be fouryears :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      314.83,
+      384.17,
+      359.37
+    ],
+    "text": "Provided that a person appointed in place of an appointedmember who has vacated office by death, resignation orremoval shall hold office for the unexpired period of the termof office of the member whom he succeeds.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      366.91,
+      384.09,
+      411.45
+    ],
+    "text": "3. An appointed member of the Board may resign fromoffice by a letter in that behalf addressed to the President andsuch resignation shall take effect upon it being accepted bythe President in writing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      418.87,
+      384.1,
+      473.85
+    ],
+    "text": "4. The President may, for reasons assigned, by Orderpublished in the Gazette, remove an appointed member of theBoard from office. A member in respect of whom an Order ismade under this paragraph shall be deemed to have vacatedoffice on the date of publication of the Order in the Gazette.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      481.27,
+      383.94,
+      525.81
+    ],
+    "text": "5. Where an appointed member of the Board is by reasonof illness, absence from Sri Lanka or other cause temporarilyunable to perform the duties of his office, the President mayappoint some other person to act in his place.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      533.23,
+      383.7,
+      567.45
+    ],
+    "text": "6. The president may, for reasons assigned, at any timeremove the Chairman and the Vice-Chairman from the officesrespectively of Chairman and of Vice-Chairman.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      574.87,
+      384.16,
+      629.85
+    ],
+    "text": "7. The Chairman and Vice-Chairman may at any timeresign from the offices respectively of chairman and of Vice-Chairman by a letter in that behalf addressed to the Presidentand such resignation shall take effect upon its being acceptedby the President in writing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.9,
+      637.27,
+      384.06,
+      671.85
+    ],
+    "text": "8. Subject to the provisions of paragraphs 6 and 7, theterms of office of the Chairman, Vice-Chairman shall be theirrespective periods of membership of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      340.1,
+      203.06,
+      384.44,
+      213.73
+    ],
+    "text": "[Section 3(3)]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      166.68,
+      413.97,
+      177.73
+    ],
+    "text": "Rana Viru Seva Authority Act, No. 54 of 199910",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      200.83,
+      451.17,
+      236.25
+    ],
+    "text": "9.All or any of the members of the Board may be paidsuch remuneration as the President may in consultation withthe minister in charge of the subject of Finance determine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      244.87,
+      451.34,
+      313.17
+    ],
+    "text": "10.The Chairman of the Board shall, if present, presideat all meetings of the Board. In the absence of the Chairman,the Vice-Chairman shall preside thereat. In the absence ofboth the Chairman and the Vice-Chairman from any suchmeeting, the members present at such meeting shall elect oneamong themselves to preside at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      321.91,
+      451.14,
+      346.17
+    ],
+    "text": "11.The quorum for any meeting of the Board shall beeight.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      354.91,
+      450.9,
+      379.17
+    ],
+    "text": "12.The person presiding at any meeting of the Boardshall in addition to his vote have a casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      387.91,
+      451.15,
+      423.21
+    ],
+    "text": "13.subject to the provisions of paragraphs 10, 11 and12, the Board may regulate the procedure in regard to itsmeetings and the transaction of business at such meetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      431.83,
+      450.97,
+      467.25
+    ],
+    "text": "14.The seal of the Authority may be determined anddevised by the Board and may be altered in such manner asmay be determined by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      475.87,
+      450.81,
+      500.25
+    ],
+    "text": "15.The seal of the Authority shall be in the custody ofsuch person as the Board may determine from time to time.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      508.87,
+      451.28,
+      566.25
+    ],
+    "text": "16.The seal of the Authority shall not be affixed to anyinstrument or document except with the sanction of the Boardand in the presence of two members of the Board both ofwhom shall sign such instrument or document in token of theirpresence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      211.1,
+      574.87,
+      451.05,
+      621.21
+    ],
+    "text": "17.No act or proceeding of the Board shall be deemedto be invalid by reason only of the existence of any vacancyin the Board or any defect in the appointment of any memberthereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.9,
+      630.98,
+      455.86,
+      660.85
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs.885 (Local). Rs.1,180 (Foreign).Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15 th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

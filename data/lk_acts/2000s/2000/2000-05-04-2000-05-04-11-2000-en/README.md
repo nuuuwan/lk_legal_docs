@@ -1,0 +1,1 @@
+Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. l, l SO(Foreign), payable to the SUPEJUJ\ITI;NI>El'<T, GOVERNMEl(f PueuCATIONS BUREAU, No. 32, TRA1'SWORKS House. Lorus ROAD, COLOMBO 01 before 15th December each year in respect of the year following.
