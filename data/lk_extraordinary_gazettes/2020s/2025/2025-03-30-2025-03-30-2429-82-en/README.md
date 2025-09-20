@@ -1,0 +1,27 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 6, 1 : 28, 1 : 36, 1 : 37, 1 : 38, 1 : 41, 1 : 42, 1 : 53, 1 : 54, 1 : 56, 1 : 60, 1 : 64 and 1 : 65 of Block 3, contained in the Cadastral Map No. 620445, situated in the Village of Niyangama within the Grama Niladhari Division of No. 236 - Niyangama in the Divisional Secretary's Division of Godakawela, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0722 calling for claims to land parcels which was duly published in the Gazette No. 2357/07 of 06th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. SIGERA, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 23rd October, 2024
+
+අංක. 2429/82 - 2025 මාර්තු මස 30 වැනි ඉරිදා - 2025.03.30
+
+No. 2429/82 – SUNDAY, MARCH 30, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044107 - 04 (03/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.30 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 30.03.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:6 0.0064 Private Full 1st Class _ Cement Drain 1:28 0.2837 Netulamadage Lalani Samadara 896011529V Full 1st Class Subject to the _ Udayangani Dhramadasa Life interest of Bibilegama, Meddekanda, Netulamadage Hapugasthenna, Godakawela Dharmadasa 1:36 0.0138 Private Full 1st Class _ Well 1:37 0.0437 Agampodige Suvineetha Lalani 786310075V Full 1st Class Subject to the _ Ulgalayaya, Welkeniyaya, Life interest of Godakawela Agampodige Piyasena, With the right to access with Servitude of parcel No.34 1:38 0.0540 Agampodige Roshan Dinesh 872960376V Full 1st Class Subject to the _ Kumara Life interest of Ulgalayaya, Welkeniyaya, Agampodige Godakawela Piyasena, With the right to access with Servitude of parcel No. 34 1:41 0.0078 Private Full 1st Class _ To access Parcel No. 42 1:42 0.1222 Boraluwage Pemasiri 623261484V Full 1st Class With the right _ Udahagoda, Welkeniyaya, to access with Godakawela Servitude of parcel No. 41 1:53 0.1053 Boraluwage Pemawathi 577970971V Full 1st Class With the right _ No. 220 /A, Main Street, to access with Godakawela Servitude of parcel No. 55 and 57 1:54 0.1045 Boraluwage Dayawathi 596461190V Full 1st Class With the right _ No. 04/ Kella, 96, to access with Kolambageara Servitude of parcel No. 55 and 57 1:56 0.1395 Boraluwage Anulawathi 617040697V Full 1st Class With the right _ No. 142D, Ulgalayaya, to access with Welkeniyaya, Godakawela Servitude of parcel No. 55 and 57 1:60 0.0479 Heenpetige Malani Indrani 696102821V Full 1st Class _ _ Ulgalayaya, Welkeniyaya, Godakawela
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.03.30 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 30.03.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:64 0.0516 Hakuru Baddage Asilin 195980704135 Full 1st Class With the right _ Ulgalayaya, Welkeniyaya, to access with Godakawela Servitude of parcel No.63 1:65 0.0297 Adikari Athukoralalage Dinesh 197735404301 Full 1st Class _ _ Pushpakumara No. 154/B, Ulgalayaya, Welkeniyaya, Godakawela EOG 03-0306
