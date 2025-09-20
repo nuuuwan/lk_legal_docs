@@ -1,0 +1,638 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      148.05,
+      251.14,
+      442.15,
+      307.69
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      343.23,
+      442.5,
+      371.24
+    ],
+    "text": "SRI LANKA INSTITUTE OF INTERIOR DESIGNERS(INCORPORATION) (AMENDMENT)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      318.89,
+      330.68,
+      330.23
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      610.97,
+      190.17,
+      622.31
+    ],
+    "text": "[Bill No. 97]",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      587.33,
+      330.68,
+      598.67
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.53,
+      501.53,
+      423.85,
+      524.87
+    ],
+    "text": "Presented by Mayantha Dissanayake, M. P. for Kandy Districton 05th April, 2016",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      202.89,
+      537.53,
+      387.35,
+      548.87
+    ],
+    "text": "(Published in the Gazette on March 14, 2016)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      561.53,
+      369.36,
+      572.87
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      438.41,
+      442.68,
+      449.75
+    ],
+    "text": "to amend the Sri Lanka Institute of Interior Designers (Incorporation)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.61,
+      450.65,
+      332.6,
+      461.99
+    ],
+    "text": "Act, No. 2 of 1998",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      381.99,
+      299.27,
+      395.6
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      410.79,
+      309.81,
+      424.4
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      628.51,
+      394.65,
+      637.58
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      191.61,
+      638.11,
+      398.61,
+      647.18
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      660.89,
+      451.18,
+      672.23
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 10.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.45,
+      475.61,
+      329.6,
+      486.95
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.49,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "1Sri Lanka Institute of Interior Designers(Incorporation) (Amendment)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.29,
+      301.97,
+      156.29,
+      313.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      388.97,
+      155.73,
+      400.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      449.93,
+      155.01,
+      461.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.57,
+      203.21,
+      401.01,
+      226.91
+    ],
+    "text": "AN ACT TO AMEND THE SRI LANKA INSTITUTE OF INTERIOR DESIGNERS(INCORPORATION) ACT, NO. 2 OF 1998",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      240.41,
+      401.9,
+      264.11
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      277.61,
+      401.88,
+      313.79
+    ],
+    "text": "1.This Act may be cited as the Sri Lanka Institute ofInterior Designers (Incorporation) (Amendment) Act,No. of 2016.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      327.17,
+      401.89,
+      363.35
+    ],
+    "text": "2.The aim of the Bill is to amend the section No. 4 ofthe Act under the general powers of Corporation, to includethe following:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      376.85,
+      401.89,
+      487.31
+    ],
+    "text": "(1)membership in the Corporation is a requirement forall Practitioners in the filed of Interior Design andRecognition of the Professional Status and Licencefor practice of an Interior Designer, InteriorArchitect, Interior Technologist and InteriorDecorater will be for those who have obtainedapproval from the Corporation fulfilling therequirements and abiding by the Rules &Regulations and Ethical Code of Practice;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      500.81,
+      401.89,
+      549.35
+    ],
+    "text": "(2)the Corporation will be the responsible body toaward Charter Status (Chartered Interior Designer)to those who specialize and qualify for suchrecognition in the field of Interior Design;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      562.73,
+      401.93,
+      611.27
+    ],
+    "text": "(3)the Corporation will provide a Quality AssuranceCertificate for Market Acceptance on such InteriorProducts of good Designer value and productionquality;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.57,
+      624.77,
+      401.9,
+      673.31
+    ],
+    "text": "(4)Recommendation by the Corporation will benecessary for the awarding of Certificates forcompetency in Technical skills in the filed ofInterior Decoration and Interior Technology;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      279.55,
+      444.58,
+      288.62
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      328.15,
+      455.86,
+      442.82
+    ],
+    "text": "Amendmentof Section 4Generalpowers of theCorporation,Sri Lankainstitute ofInteriorDesigners(Incorporation)Act, No. 2 of1998.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      524.45,
+      155.73,
+      535.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      600.41,
+      155.01,
+      611.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      358.51,
+      190.31
+    ],
+    "text": "Sri Lanka Institute of Interior Designers(Incorporation) (Amendment)2",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      203.45,
+      397.18,
+      239.03
+    ],
+    "text": "(5)the Corporation will assist in curriculumdevelopment to establish high standards in InteriorDesign Education.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      263.69,
+      397.2,
+      287.03
+    ],
+    "text": "3.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      264.31,
+      451.16,
+      302.18
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.87,
+      274.97,
+      150.87,
+      286.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.49,
+      166.97,
+      402.89,
+      190.31
+    ],
+    "text": "3Sri Lanka Institute of Interior Designers(Incorporation) (Amendment)",
+    "fonts": [
+      "Times,Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      630.55,
+      455.85,
+      669.49
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

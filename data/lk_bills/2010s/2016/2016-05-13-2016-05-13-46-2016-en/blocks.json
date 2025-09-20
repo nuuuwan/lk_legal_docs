@@ -1,0 +1,1870 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.67,
+      433.77,
+      219.28
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.57,
+      237.99,
+      359.01,
+      251.27
+    ],
+    "text": "Part II of May 13, 2016",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.79,
+      341.85,
+      280.07
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 16. 05. 2016)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      492.13,
+      303.71,
+      503.2
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      516.13,
+      311.85,
+      527.2
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.57,
+      471.61,
+      347.02,
+      482.68
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      639.55,
+      402.81,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      455.73,
+      670.24
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.53,
+      430.01,
+      419.23,
+      459.66
+    ],
+    "text": "JANAKARALIYA CULTURALFOUNDATION (INCORPORATION)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.49,
+      579.13,
+      417.24,
+      590.2
+    ],
+    "text": "To be presented in Parliament by Hon. Sunil Handunnetti",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      185.85,
+      541.37,
+      413.72,
+      552.71
+    ],
+    "text": "to incorporate the Janakaraliya Cultural Foundation",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.69,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "1Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      685.15,
+      254.86,
+      694.22
+    ],
+    "text": "2\u2014PL 009887\u2014300 (04/2016)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      248.11,
+      442.29,
+      257.18
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      475.03,
+      445.3,
+      484.1
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      518.11,
+      455.86,
+      565.58
+    ],
+    "text": "Incorporationof theJanakaraliyaCulturalFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.57,
+      204.41,
+      359.0,
+      229.91
+    ],
+    "text": "AN ACT TO INCORPORATE THE JANAKARALIYACULTURAL FOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      247.01,
+      401.9,
+      329.39
+    ],
+    "text": "WHERE a Foundation called and known as the\u201cJanakaraliya Cultural Foundation\u201d has heretofore beenformed for the purpose of effectually carrying out andtransacting all objects and matters connected with thesaid Foundation according to the rules agreed to by itsmembers:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      346.37,
+      401.89,
+      414.59
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was formed and has applied to beincorporated and it will be for the public advantage to grantsuch application:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      431.57,
+      401.89,
+      457.07
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      474.17,
+      401.87,
+      499.67
+    ],
+    "text": "1.This Act may be cited as the Janakaraliya CulturalFoundation (Incorporation) Act, No. 2016.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      516.77,
+      401.89,
+      670.07
+    ],
+    "text": "2.From and after the date of commencement ofthis Act, such and so may persons as now are membersof the \u201cJanakaraliya Cultural Foundation\u201d (hereinafterreferred to as the \u201cFoundation\u201d) or shall hereafter beadmitted as members of the Corporation hereby constitutedshall be a body corporate (hereinafter referred to as the\u201cCorporation\u201d) with perpetual succession under the nameand style of \u201cJanakaraliya Cultural Foundation\u201d and by thatname may sue and be sued in all courts, with full power andauthority to have and use a common seal and alter the sameat its pleasure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.57,
+      303.89,
+      152.57,
+      315.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      388.97,
+      155.01,
+      400.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      487.49,
+      155.01,
+      498.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      573.89,
+      155.01,
+      585.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      644.93,
+      155.01,
+      656.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.24
+    ],
+    "text": "2Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.87,
+      258.89,
+      147.87,
+      270.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      316.97,
+      149.71,
+      328.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      386.45,
+      149.71,
+      397.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      453.89,
+      149.71,
+      465.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.71,
+      512.45,
+      149.71,
+      523.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      202.73,
+      397.17,
+      225.83
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      236.09,
+      397.21,
+      329.39
+    ],
+    "text": "(a)to build awareness amongst the people of everystrata about the importance of cultural and spiritualdevelopment parallel to the material developmentand the importance and possibility of the usage ofdrama and theatre and other arts as supportivehuman activites within that integral development,to build a sensitive, creative, wise and activesociety;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      339.77,
+      397.19,
+      409.55
+    ],
+    "text": "(b)to provide access for the majority of people in thecountry to theatre of performance without anyethnic, socio-cultural or political discrimination,by broadening the usage of it and motivating themthrough various methods to participate in dramaand theatre and arts;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      419.93,
+      397.19,
+      524.87
+    ],
+    "text": "(c)to use and support to sue drama and theatre andother arts to enable majority of society tounderstand and build self esteem, whileundrstanding tolerating, appreciating, admiringothers and their various ideologies, inclinations,behaviours, cultures that enable them tocommunicate and interact with each othereffectively and as a result support building a societyin which everybody can live in harmony and peace;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.87,
+      535.25,
+      397.19,
+      569.99
+    ],
+    "text": "(d)to support to create a society to understand thenature and build a good relationship with the naturethat enables living in harmony with nature;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.71,
+      580.37,
+      397.2,
+      673.55
+    ],
+    "text": "(e)to prepare, print, publish, issue, edit and cirulatebooks, brochures, pamphlets, journals, magazines,periodicals, articles, bulletins and audio visualmaterials and to disseminate information andknowledge on drama and theatre and other arts andits ancillary arts as educational subjects and also toutilize audio-visual media to fulfill the samepurpose.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      205.15,
+      450.44,
+      233.42
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.99,
+      591.89,
+      150.43,
+      603.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      649.97,
+      150.31,
+      661.31
+    ],
+    "text": "35",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.69,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "3Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.45,
+      262.73,
+      152.45,
+      274.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      335.69,
+      154.89,
+      347.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      406.25,
+      154.89,
+      417.59
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      478.73,
+      154.89,
+      490.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.69,
+      551.45,
+      155.13,
+      562.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      622.97,
+      154.89,
+      634.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.85,
+      202.97,
+      401.89,
+      250.31
+    ],
+    "text": "(f)to sponsor or and conduct workshops, conferences,seminars, group studies and public lectures ondrama and theatre in any part of the country oroutside Sri Lanka;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.57,
+      262.97,
+      401.9,
+      310.31
+    ],
+    "text": "(g)to grant assistance to individuals, primarycommunity organizations, governmentinstitutions for the achieving objectives of theFoundation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      322.97,
+      401.89,
+      382.31
+    ],
+    "text": "4.(1) The affairs of the Corporation shall, subject to theother provisions of this Act and the rules of the Corporation,made under Section 6, be administerd by a Board ofDirectors consisting of Chairman, Secretary, Treasurer andanother five members elected in accordance with such rules.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      394.97,
+      401.9,
+      442.31
+    ],
+    "text": "(2) The first Board of the Corporation shall consist of themembers of the Board of Administration of the Foundationholding office on the day immediately preceding the date ofhis election.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      454.97,
+      401.89,
+      502.31
+    ],
+    "text": "(3) A member of the Board of Directors shall unless hevacates his office earlier by death or resignation, holds officefor a period of four years reckoned from the date of hiselection.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      514.97,
+      401.9,
+      574.31
+    ],
+    "text": "(4) If any member of the Board of Directors vacates hisoffice prior to the expiry of his term, his successor elected inaccordance with rules of the Corporation shall hold officeonly for the unexpired term of office of the member who hesucceeds.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      586.97,
+      401.9,
+      670.31
+    ],
+    "text": "5.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts, matters and thingswhatsoever as are necessary or desirable for the promotionof furtherance of the objects of the Corporation or anyone of them, including the power to acquire and holdproperty both movable and immovable, to receive or collect",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      324.31,
+      453.58,
+      362.18
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      588.91,
+      452.85,
+      617.18
+    ],
+    "text": "Generalpower of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.24
+    ],
+    "text": "4Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.87,
+      250.73,
+      147.87,
+      262.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      324.77,
+      149.71,
+      336.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      395.21,
+      149.71,
+      406.55
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      467.93,
+      149.71,
+      479.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      551.21,
+      149.71,
+      562.55
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      646.61,
+      150.31,
+      657.95
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      202.97,
+      397.18,
+      274.31
+    ],
+    "text": "grants and donations to open, operate and close bankaccounts, to borrow or raise money with or without security,toerect any building or structures on any land held by theCorporation and to engage, employ and dismiss officers andservants required for the carrying out of the objects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      286.97,
+      397.24,
+      358.31
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation, from timeto time, at any General Meeting of the members and by amajority of not less than two-thirds of the members presentand voting, to make rules, not inconsistent with theprovisions of this Act or any other written law, for all or anyof the following matters:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      370.97,
+      397.16,
+      406.31
+    ],
+    "text": "(a)classification of membership, admission,withdrawal, expulsion or resignation of membersand membership fees payable;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      418.97,
+      397.17,
+      478.31
+    ],
+    "text": "(b)procedure to be observed for the summoning andholding of meetings of the Corporation and of theBoard of Directors, the quorum for such meetingsand the exercise and perfomance of their powersand duties;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      490.97,
+      397.19,
+      526.31
+    ],
+    "text": "(c)the appointment, powers, duties and functions ofthe various officers, agents and servants of theCorporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      172.87,
+      538.97,
+      397.18,
+      562.31
+    ],
+    "text": "(d)qualification required to become a memberof the Corporation and of the Board of Directors;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      574.97,
+      334.88,
+      586.31
+    ],
+    "text": "(e)election of Board of Directors; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.15,
+      598.97,
+      397.2,
+      622.31
+    ],
+    "text": "(f)the administration and management of the propertyof the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      634.97,
+      397.19,
+      670.31
+    ],
+    "text": "(2) Any rule made by the Corporation may be amended,altered, added to or rescinded at like meeting and in likemanner as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      289.99,
+      448.15,
+      308.66
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      210.69,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "5Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      265.97,
+      152.21,
+      277.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      203.33,
+      401.87,
+      227.27
+    ],
+    "text": "(3) Every member of the Corporation shall be subject tothe rules of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      241.13,
+      401.95,
+      315.47
+    ],
+    "text": "7.All debts and liabilities of the Institution existing onthe day preceding the date of commencement of this Act,shall be paid by the Corporation hereby constituted and alldebts due to subscriptions and contributions payable to theFoundation on that day shall be paid to the Corporation forthe purposes of this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      329.33,
+      401.9,
+      403.67
+    ],
+    "text": "8.(1) The Corporation shall have its own fund and allmoneys heretofore or hereafter to be received by way ofgifts, bequests, donations, subscriptions, contributions, feesor grants for and on account of the Corporation shall bedeposited to the credit of the Corporation in one or morebanks as the Board of Directors shall determine.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      417.53,
+      401.91,
+      466.67
+    ],
+    "text": "(2) There shall be paid out of the fund, all sums of moneyrequired to defray any expenditure incurred by theCorporation in the exercise, performance and discharge ofits powers, duties and function under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      480.53,
+      401.9,
+      592.67
+    ],
+    "text": "9.The Corporation shall be able and capable in lawto acquire and hold any property, movable and immovablewhich may become vested in it by virtue of any purchase,grant, lease, gift, testamentary disposition or otherwise andall such property shall be held by the Corporation for thepurposes of this Act and subject to the rules in force forthe time being of the Corporation, with full power tosell, mortgage, lease, exchange or otherwise dispose of thesame.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      606.53,
+      401.9,
+      668.51
+    ],
+    "text": "10.No member of the Corporation there remains afterthe satisfaction of all its debts and liabilities of theCorporation or for any other purpose, be liable to make anycontribution exceeding the amount of such membership feesas may be due from him to the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      340.97,
+      155.01,
+      352.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      416.45,
+      155.01,
+      427.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.65,
+      492.41,
+      156.09,
+      503.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      554.93,
+      155.01,
+      566.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      243.31,
+      453.57,
+      279.38
+    ],
+    "text": "Debts due byand payableto theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      329.95,
+      452.13,
+      348.62
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      482.23,
+      452.86,
+      527.3
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      607.15,
+      453.58,
+      642.23
+    ],
+    "text": "Limitation ofLiabilities ofmembers.30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      348.8,
+      190.24
+    ],
+    "text": "6Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      348.79,
+      447.43,
+      386.66
+    ],
+    "text": "Audit andaccounts oftheCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      204.79,
+      449.6,
+      231.86
+    ],
+    "text": "Propertyremaining ondissolution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      202.97,
+      397.2,
+      334.31
+    ],
+    "text": "11.If upon the dissolution of the Corporation thereremains after the satisfaction of all its debts and liabilitiesany property whatsoever, such property shall notbe distributed among the members of the Corporation, butshall be given or transferred to some other institution orinstitutions having objectives similar to those of theCorporation and which, is or are by its or their rules prohibitedfrom distributing any income or property among theirmembers. Such institution or institutions may be determinedby the members of the Corporation on or before the dissolutionof the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      346.97,
+      397.18,
+      382.31
+    ],
+    "text": "12.(1) The Board of Directors of the Corporation shallcause proper accounts to be kept of all moneys received andexpended by the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      394.97,
+      397.2,
+      418.31
+    ],
+    "text": "(2) The financial year of the Corporation shall be thecalendar year.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      430.97,
+      397.16,
+      466.31
+    ],
+    "text": "(3) The accounts of the Corporation shall be examinedand audited at least once in every year by an auditor orauditors appointed by the Board of Directors.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      478.97,
+      397.19,
+      562.31
+    ],
+    "text": "13.The seal of the Corporation shall not be affixed toany instrument whatsoever except in the presence of suchnumber of persons as may be provided for in the rules in forcefor the time being of the Corporation, who shall sign theirnames to the instrument in token of their presence and suchsigning shall be independent of the signing of any person asa witness.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      574.97,
+      397.16,
+      610.31
+    ],
+    "text": "14.Nothing contained in this Act shall prejudice oraffect the rights of the Republic, anybody politic, orcorporate.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      622.97,
+      397.18,
+      658.31
+    ],
+    "text": "15.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      576.31,
+      449.59,
+      614.18
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      624.31,
+      451.16,
+      662.18
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      480.91,
+      448.15,
+      499.58
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.51,
+      250.97,
+      147.51,
+      262.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      310.97,
+      150.31,
+      322.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      395.45,
+      150.31,
+      406.79
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.95,
+      479.45,
+      151.39,
+      490.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      538.97,
+      150.31,
+      550.31
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      622.97,
+      150.31,
+      634.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      210.69,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "7Janakaraliya Cultural Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
