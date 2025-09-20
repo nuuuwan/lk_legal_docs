@@ -1,0 +1,1990 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      162.33,
+      235.31,
+      430.75,
+      287.92
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.37,
+      489.61,
+      416.38,
+      512.68
+    ],
+    "text": "Presented by Hon. Hunais Farook M. P. for Vanni Districton 09th January, 2013",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.57,
+      570.13,
+      374.0,
+      581.2
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      625.15,
+      391.17,
+      634.22
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      634.75,
+      402.81,
+      643.82
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      455.83,
+      670.24
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 5.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      465.99,
+      335.85,
+      479.27
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      589.95,
+      335.85,
+      603.23
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      609.13,
+      200.13,
+      620.2
+    ],
+    "text": "[Bill No. 200]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.85,
+      302.07,
+      335.85,
+      315.35
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.49,
+      536.93,
+      399.22,
+      548.27
+    ],
+    "text": "(Published in the Gazette on December 31, 2012)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      407.89,
+      311.85,
+      418.96
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      382.69,
+      303.71,
+      393.76
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.57,
+      337.11,
+      376.99,
+      364.79
+    ],
+    "text": "UNITED MUSLIM UMMAH(INCORPORATION)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.77,
+      441.13,
+      388.04,
+      452.2
+    ],
+    "text": "to incorporate the United Muslim Ummah",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.29,
+      167.17,
+      402.89,
+      190.24
+    ],
+    "text": "1United Muslim Ummah(Incorporation)",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.05,
+      203.33,
+      376.65,
+      214.67
+    ],
+    "text": "AN ACT TO INCORPORATE THE UNITED MUSLIM UMMAH",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      228.53,
+      401.89,
+      290.27
+    ],
+    "text": "WHEREAS an Organization called and known as the \u201cUnitedMuslim Ummah\u201d, has heretofore been formed in Sri Lankafor the purpose of effectually carrying out its objects andtransacting all matters connected with the said institutionaccording to the rules agreed to by its members :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      304.13,
+      401.9,
+      365.87
+    ],
+    "text": "AND WHEREAS the said Organization has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was established, and has applied tobe incorporated and it will be for the public advantage togrant the said application:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      379.73,
+      401.89,
+      403.67
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      417.53,
+      401.88,
+      441.47
+    ],
+    "text": "1.This Act may be cited as the United Muslim Ummah(Incorporation) Act, No. of 2013.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      455.33,
+      401.9,
+      580.07
+    ],
+    "text": "2.From and after the date of commencement of this Act,such and so many person as now are members of the \u201cUnitedMuslim Ummah\u201d (hereinafter referred to as the\u201corganization\u201d) or shall hereafter be admitted as members ofthe Corporation hereby constituted, shall be a body corporatewith perpetual succession, under the name and style of the\u201cUnited Muslim Ummah\u201d (hereinafter referred to as the\"Corpotration\") and by that name may sue and be sued, withfull power and authority to have and use a common seal andto alter the same at its pleasure.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      589.73,
+      401.87,
+      613.67
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.09,
+      624.53,
+      382.79,
+      635.87
+    ],
+    "text": "(a) to strive towards building national integration;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.09,
+      649.01,
+      401.88,
+      672.35
+    ],
+    "text": "(b) to strive to establish a true pluralistic society in SriLanka;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.81,
+      677.27,
+      270.09,
+      686.13
+    ],
+    "text": "2\u2014PL 006797\u201475 (11/2012)",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      420.55,
+      443.86,
+      429.62
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      456.67,
+      455.86,
+      494.54
+    ],
+    "text": "Incorporationof UnitedMuslimUmmah.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      354.89,
+      155.01,
+      366.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      231.07,
+      442.29,
+      240.14
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.21,
+      278.69,
+      152.21,
+      290.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      455.93,
+      155.01,
+      467.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      518.45,
+      155.01,
+      529.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      590.93,
+      454.3,
+      620.42
+    ],
+    "text": "25Generalobjects of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      167.17,
+      323.71,
+      190.24
+    ],
+    "text": "United Muslim Ummah(Incorporation)2",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.11,
+      202.97,
+      397.19,
+      238.31
+    ],
+    "text": "(c) to help to maintain the distinct identity of the differentcommunities and foster and promote friendship forpeaceful co-existence;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.39,
+      250.97,
+      397.19,
+      274.31
+    ],
+    "text": "(d) to resolve disputes among the Muslims at regionallevel;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.11,
+      286.97,
+      397.2,
+      310.31
+    ],
+    "text": "(e) to contribute to the social and economic uplift of thecountry;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.67,
+      322.97,
+      397.19,
+      358.31
+    ],
+    "text": "(f) to assist in scholarship, cash or kind for the voluntaryemployees and other employees who are engaged inthe attainment of the objectives of the Corporation ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.39,
+      370.97,
+      397.19,
+      394.31
+    ],
+    "text": "(g) to plan and implement community welfare, eucationaland social development projects in Sri Lanka ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.39,
+      406.97,
+      397.19,
+      466.31
+    ],
+    "text": "(h) to promote education, health, recreation, culture andagriculture, to provide grants, scholarships, gifts,donations and financial assistance for theimprovement, extension and publicize knowledgeand to establish institutions for this purpose; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.67,
+      478.97,
+      397.18,
+      514.31
+    ],
+    "text": "(i) to do all such other acts and things as are necessaryfor and incidental or conducive to the attainment ofthe above objects.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      527.09,
+      397.19,
+      612.71
+    ],
+    "text": "4.(1) The management, control and administration ofthe Corporation shall, subject to the provision of this Actand the rules in force for the time being of the Corporation,vested in a Board of Management (hereinafter referre to asthe \"Board\") consisting of the office bearers and such otherpersons as may be provided for in such rules and elected inaccordance therewith.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      624.05,
+      397.19,
+      673.67
+    ],
+    "text": "(2) The first Board of Management of the Corporationshall consist of the members of the Board of the Institutionholding office on the day preceding the date ofcommencement of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      346.97,
+      150.31,
+      358.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.51,
+      263.21,
+      147.51,
+      274.55
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      430.97,
+      150.31,
+      442.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      502.97,
+      150.31,
+      514.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      578.93,
+      150.31,
+      590.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      650.93,
+      150.31,
+      662.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      530.11,
+      449.6,
+      567.98
+    ],
+    "text": "Managementof the affiairsof theCorporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235.29,
+      167.17,
+      402.89,
+      190.24
+    ],
+    "text": "3United Muslim Ummah(Incorporation)",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      203.57,
+      401.89,
+      266.99
+    ],
+    "text": "5.Subject to the provision of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute, all such acts and matters as necessary ordesirable for the promotion or furtherance of the objects ofthe Corporation or any one of them, including the powers:\u2014",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.65,
+      279.89,
+      401.85,
+      303.23
+    ],
+    "text": "(a)to raise funds and receive grants, gifts or donationsin cash or kind whether from local or foreign sources ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.65,
+      315.89,
+      401.89,
+      375.23
+    ],
+    "text": "(b)to acquire, in any manner whatsoever and hold, takeor give on lease or hire, rent, sell or otherwise disposeof any movable or immovale property and construct,maintain and alter any buildings or works necessaryor convenient for the business of the Corporation ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.37,
+      387.89,
+      401.88,
+      447.23
+    ],
+    "text": "(c)to make, draw, accept, discount, endorse, negotiate,buy, sell and issue bills of exchange, cheques,promissory notes and other negotiable instrumentsand to open, operate and close bank accounts andborrow or raise money with or without security ;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.65,
+      459.89,
+      401.88,
+      495.23
+    ],
+    "text": "(d)to invest any funds not immediately required forthe purposes of the Corporation in such manner asthe Board of Management may determine;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.37,
+      507.89,
+      401.89,
+      543.23
+    ],
+    "text": "(e)to enter into agreements or contracts with any personor body of persons for the implementation of theseobjects; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.81,
+      555.89,
+      401.89,
+      603.23
+    ],
+    "text": "(f)appoint employ, dismiss or terminate the servicesof officers and servants of the Corporation and topay them such salaries, allowances and gratuities asmay be determined by the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      615.89,
+      401.89,
+      675.23
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation, from timeto time, at any general meeting and by the votes of not lessthan two thirds of the members present and voting, to makerules, not inconsistent with the provision of this Act or anyother written law, for all or any of the following matter:\u2013",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      341.93,
+      155.01,
+      353.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.21,
+      255.77,
+      152.21,
+      267.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      411.89,
+      155.01,
+      423.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      485.45,
+      155.01,
+      496.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      567.89,
+      155.01,
+      579.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.57,
+      638.45,
+      155.01,
+      649.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      618.19,
+      452.13,
+      636.86
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      205.27,
+      455.13,
+      233.54
+    ],
+    "text": "Generalpowers of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      167.17,
+      323.71,
+      190.24
+    ],
+    "text": "United Muslim Ummah(Incorporation)4",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.95,
+      202.97,
+      397.19,
+      250.31
+    ],
+    "text": "(a) the classification of membership, fees payable byeach class of members and admission, withdrawal,expulsion or resignation of members and for themaintaining of register of members;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.95,
+      262.97,
+      397.17,
+      298.31
+    ],
+    "text": "(b) the election of office bearers of the Board or vacationof or removal from, office and the powers, dutiesand functions of the office bearers;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174.67,
+      310.97,
+      397.17,
+      346.31
+    ],
+    "text": "(c) the appointment, powers, duties and functions andconditions of the various officers, agents and servantsof the Corporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.95,
+      358.97,
+      397.18,
+      418.31
+    ],
+    "text": "(d) the procedure to be followed at the summoning andholding of meetings of the Board, the Corporationand any sub-committee thereof, including thequorum therefore and the conduct of businessthereat;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174.67,
+      430.97,
+      397.16,
+      454.31
+    ],
+    "text": "(e) the qualifications and disqualifications for membersof the Board and the Corporation; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176.11,
+      466.97,
+      397.2,
+      502.31
+    ],
+    "text": "(f) the administration and management of the propertyof the Corporation for the accomplishment of theobjects of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      514.97,
+      397.19,
+      550.31
+    ],
+    "text": "(2) The rules made by the Corporation may be amended,altered added to or rescinded at a like meeting and in likemanner as a rule made under subsection(1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      562.97,
+      397.17,
+      586.31
+    ],
+    "text": "(3) The members of the Corporation shall at all time besubject to rules of the Corporation made under this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      599.57,
+      397.19,
+      662.87
+    ],
+    "text": "(4) The rules of the Foundation in force on the daypreceding to date of commencement of this Act, shall in sofar as they are not inconsistent with the provisions of this Actor any other written law, be deemed to be rules of theCorporation. made under this section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      334.61,
+      150.31,
+      345.95
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.51,
+      260.93,
+      147.51,
+      272.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      406.61,
+      150.31,
+      417.95
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      491.09,
+      150.31,
+      502.43
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      574.49,
+      150.31,
+      585.83
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.87,
+      646.49,
+      150.31,
+      657.83
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      235.29,
+      167.17,
+      402.89,
+      190.24
+    ],
+    "text": "5United Muslim Ummah(Incorporation)",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      202.97,
+      401.88,
+      226.31
+    ],
+    "text": "7.(1) The financial year of the Corporation shall be thecalendar year.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      238.97,
+      401.92,
+      274.31
+    ],
+    "text": "(2) the Corporation shall cause proper accounts to be keptof income and expenditure, assets and liabilities and all othertransactions of the Corporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      286.97,
+      401.86,
+      310.31
+    ],
+    "text": "(3) The accounts of the Corporation shall be audited by aqualified auditor as may be determined by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.85,
+      322.97,
+      341.86,
+      334.31
+    ],
+    "text": "In this section \"qualified auditor\" means\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.65,
+      346.97,
+      401.88,
+      406.31
+    ],
+    "text": "(a)an individual who being a member of the Instituteof Chartered accountants of Sri Lanka, or any otherInstitute established by law, possesses a certificateto practice as an Accountant issued by the Councilof such Institute; or",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.65,
+      418.97,
+      401.89,
+      490.31
+    ],
+    "text": "(b)a firm of Accountants each of the resident partnersof which, being a member of the Institute of CharteredAccountants of Sri Lanka or of any other Instituteestablished by law, possesses a certificate to practiceas Accountant issued by the Council of suchInstitute.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      502.97,
+      401.88,
+      574.31
+    ],
+    "text": "8.The Moneys and property of the Corporation howeverderived shall be applied solely towards the promotion of itsobjects as set forth herein, and no portion thereof shall bepaid or transferred, directly or indirectly, by way of dividend,loan bonus or otherwise, howsoever, by way of profit, to themembers of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      586.97,
+      401.89,
+      610.31
+    ],
+    "text": "Provided however, that the provision of this section shallnot prohibit\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.65,
+      622.97,
+      401.89,
+      670.31
+    ],
+    "text": "(a)the payment, in good faith, of reasonable and properremuneration to any officer or servants of theCorporation for any services rendered by him to theCorporation;",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      360.89,
+      155.01,
+      372.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      263.93,
+      152.21,
+      275.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      431.93,
+      155.01,
+      443.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      504.41,
+      155.01,
+      515.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      561.89,
+      155.01,
+      573.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      647.93,
+      155.01,
+      659.27
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      204.19,
+      455.13,
+      222.86
+    ],
+    "text": "Accounts andAudit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      506.11,
+      449.85,
+      543.98
+    ],
+    "text": "Corporationto be a nonprofitmaking.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      167.17,
+      323.71,
+      190.24
+    ],
+    "text": "United Muslim Ummah(Incorporation)6",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      323.93,
+      150.31,
+      335.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.51,
+      263.45,
+      147.51,
+      274.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      396.41,
+      150.31,
+      407.75
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      445.63,
+      449.6,
+      473.9
+    ],
+    "text": "Propertyremaining ondissolution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      348.91,
+      447.43,
+      367.58
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.95,
+      202.97,
+      397.19,
+      250.31
+    ],
+    "text": "(b) the payment of reasonable and proper rent forpremises let to the Corporation or by any companyof which a member of the Corporation is ashareholder; and",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174.67,
+      262.97,
+      397.2,
+      334.31
+    ],
+    "text": "(c) the reimbursement or repayment of reasonable andproper expenses incurred, with the prior approval ofthe Board of Management, by any member, officeror servant of the Corporation in the discharge orperformance of his functions or duties or inpromoting the objects of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      346.97,
+      397.19,
+      430.31
+    ],
+    "text": "9.The seal of the Corporation shall not be affixed to anyinstrument whatsoever, except in the presence of the Secretaryor a member of the Board as may be duly authorized by theBoard and another member of the Board who shall sign theirnames on the instrument in token of their presence and suchsigning shall be independent of the signing of any person asa witness",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      442.97,
+      397.21,
+      562.31
+    ],
+    "text": "10.If upon the dissolution of the Corporation thereremains after the satisfaction of all its debts and liabilities,any property whatsoever, such property shall not bedistributed among the members of the Corporation but shallbe given or transferred to some other institute or instituteshaving objects similar to those of the Corporation, and whichis or are by the rules thereof prohibited from distributing anyincome or property among its or their members. Suchinstitution or institutions shall be determined by the Boardat or immediately before the dissolution of the Corporation.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      574.97,
+      397.21,
+      622.31
+    ],
+    "text": "11.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic orcorporate or of any other person, except such as are mentionedin this Act and those claiming by from or under them.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      634.37,
+      397.18,
+      669.71
+    ],
+    "text": "12.In the event of any inconsistency between theSinhala and Tamil text of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times-Roman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      466.49,
+      150.31,
+      477.83
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      525.89,
+      150.31,
+      537.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.87,
+      600.41,
+      150.31,
+      611.75
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      578.11,
+      449.59,
+      615.98
+    ],
+    "text": "Saving of theRights of theRepublic andothers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      636.19,
+      451.16,
+      674.06
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistancy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235.29,
+      167.17,
+      402.89,
+      190.24
+    ],
+    "text": "7United Muslim Ummah(Incorporation)",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
