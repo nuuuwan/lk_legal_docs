@@ -29,6 +29,7 @@ class AbstractDocPipelineMixin(
         log.debug(f"{max_dt=}s")
         cls.cleanup_all()
         cls.scrape_all_metadata(max_dt)
+        cls.write_all()
         cls.scrape_all_extended_data(max_dt)
         cls.build_summary()
         cls.build_doc_class_readme()

@@ -3,7 +3,9 @@ import os
 import pathlib
 from dataclasses import asdict
 
-from utils import JSONFile, Log
+from utils import JSONFile, Log, TSVFile
+
+from utils_future import FileOrDirFuture
 
 log = Log("AbstractDocMetadataMixin")
 
@@ -65,3 +67,25 @@ class AbstractDocMetadataMixin:
             year_to_n[doc.year] = year_to_n.get(doc.year, 0) + 1
         year_to_n = dict(sorted(year_to_n.items(), key=lambda x: x[0]))
         return year_to_n
+
+    @classmethod
+    def get_all_tsv_path(cls, suffix) -> str:
+        # E.g. "../lk_acts_data/data/lk_acts/all.tsv"
+        return os.path.join(cls.get_dir_docs_for_cls(), f"docs_{suffix}.tsv")
+
+    @classmethod
+    def write_all(cls):
+        d_list = [doc.to_dict() for doc in cls.list_all()]
+
+        for n, suffix in [
+            [None, "all"],
+            [100, "last100"],
+            [1000, "last10000"],
+        ]:
+            if n and n > len(d_list):
+                continue
+
+            d_list_for_file = d_list[:n] if n else d_list
+            all_tsv_path = cls.get_all_tsv_path(suffix)
+            TSVFile(all_tsv_path).write(d_list_for_file)
+            log.info(f"Wrote {FileOrDirFuture(all_tsv_path)}")
