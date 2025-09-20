@@ -1,0 +1,65 @@
+(Published by Authority)
+
+ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ ගැසŸ පƴය
+
+අƯ ɪෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 89, 1 : 143, 1 : 160 and 1 : 184 of Block 4, contained in the Cadastral Map No. 512203, situated in the Village of Niwandama within the Grama Niladhari Division of No. 207 - Nivandama North in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0689 calling for claims to land parcels which was duly published in the Gazette No. 1877/51 of 29th August, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+No. 2438/10 - 2025 මැɐ මස 26 වැǧ සǿදා - 2025.05.26
+
+No. 2438/10 – MONDAY, MAY 26, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044424 - 14 (2025/05)
+
+2 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.26 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.05.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:89 0.0419 Peduruge Kamalasiri 690060302V Full 1st Class With the right _ No. 97, Niwandama, Ja Ela of way of parcel No. 112 1:143 0.0332 Marasinghage Amarawansha 196917200101 Full 1st Class With the right _ No. 75, Thammennagama, to access with Kaladiya, Puttalam servitude of parcel No. 146 1:160 0.0381 Mohottige Dona Sulochana 906971259V Full 1st Class With the right _ Manohari to access with No. 88, Niwandama, Ja Ela servitude of parcel No. 161 Subject to the life interest of Rajapaksha Mohottige Ashoka 1:184 0.0374 Mellawarachchige Dona Lalani 19793603561 Full 1st Class _ _ Sithara No. 83, Niwandama. Ja Ela EOG 05-0170/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 2 : 177 and 2 : 180 of Block 10, contained in the Cadastral Map No. 512203, situated in the Village of Niwandama within the Grama Niladhari Division of No. 207 - Nivandama North in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0631 calling for claims to land parcels which was duly published in the Gazette No. 1850/41 of 21st February, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+3 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.26 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.05.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 2:177 0.1219 Ushettige Don Dayarathna 492381160V Full 1st Class With the right _ No. 205/A, Nisasala, Niwandama, to access with Ja Ela servitude of parcel No. 180 2:180 0.0052 Private – Full 1st Class – To access parcel Nos. 179 and 177 EOG 05-0170/2 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1 : 48 of Block 5, contained in the Cadastral Map No. 512205, situated in the Village of Niwandama within the Grama Niladhari Division of No. 207B - Nivandama South in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0737 calling for claims to land parcels which was duly published in the Gazette No. 1899/19 of 28th January, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:48 0.0158 Polwaththa Gallage Somasiri 550072823V Full 1st Class _ _ No. 374/D, Annasiwatta, Niwandama South, Ja Ela EOG 05-0170/3
+
+4 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.26 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.05.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1 : 63 of Block 12, contained in the Cadastral Map No. 512239, situated in the Village of Narangodapaluwa within the Grama Niladhari Division of No. 214A - Narangodapaluwa East in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1354 calling for claims to land parcels which was duly published in the Gazette No. 2373/05 of 26th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:63 0.0358 Merenchige Rohitha Lalith De Silva 721851303V Full 1st Class With the right _ No. 851/1. Madurapperuma Lane, of way of Thewatta, Ragama parcel No. 55 EOG 05-0170/4 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1 : 57 of Block 8, contained in the Cadastral Map No. 512240, situated in the Village of Narangodapaluwa within the Grama Niladhari Division of No. 214 - Narangodapaluwa West in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1178 calling for claims to land parcels which was duly published in the Gazette No. 2241/35 of 18th August, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+5 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.26 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.05.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:57 0.0372 Bamunu Arachchi Pathirage Sardha 748402586V Full 1st Class _ _ Namali No. 690 C, Narangodapaluwa, Batuwatta EOG 05-0170/5 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 61 and 1 : 62 of Block 2, contained in the Cadastral Map No. 512248, situated in the Village of Thewatta within the Grama Niladhari Division of No. 181B - Thewatta in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1278 calling for claims to land parcels which was duly published in the Gazette No. 2314/75 of 17th January, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:61 0.0190 Muthukuda Arachchige Don Chamila 792580661V Full 1st Class _ _ Roshan Gunasekara No. 718, Police Lane, Ragama 1:62 0.0261 Muthukuda Arachchige Don Achala 813573636V Full 1st Class _ _ Krishan Gunasekara No. 718, Police Lane, Ragama EOG 05-0170/6
+
+6 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.26 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.05.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 45, 1 : 58 and 1 : 97 of Block 4, contained in the Cadastral Map No. 512248, situated in the Village of Thewatta within the Grama Niladhari Division of No. 181B - Thewatta in the Divisional Secretary's Division of Ja-Ela, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1348 calling for claims to land parcels which was duly published in the Gazette No. 2369/15 of 31st January, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 11th March, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:45 0.0693 Mari Gorathi Anandappa 195983303297 Full 1st Class With the right _ No. 722/A, Thewatta Road, to access with Ragama servitude of parcel No. 32 1:58 0.0107 Mukundadura Peter Nimal Shantha 196828101315 Full 1st Class With the right _ Silva of way of No. 724 B, Police Lane, parcel No. 64 Ragama With the right to access with servitude of parcel No. 59 1:97 0.0192 Subasinghe Nissanka Meri Silviya Dias 546580679V Full 1st Class With the right _ No. 725/5, Police Lane, of way of Thewatta Road, Ragama parcel No. 97 EOG 05-0170/7
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.

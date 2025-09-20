@@ -2,13 +2,13 @@
   "doc_class_label": "lk_extraordinary_gazettes",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-09-20 16:49:54",
-  "n_docs": 100946,
-  "n_docs_with_pdfs": 2070,
-  "n_docs_with_text": 2070,
+  "time_updated": "2025-09-20 17:21:16",
+  "n_docs": 100958,
+  "n_docs_with_pdfs": 2168,
+  "n_docs_with_text": 2168,
   "date_str_min": "2010-01-01",
   "date_str_max": "2025-09-18",
-  "dataset_size": 9821428127,
+  "dataset_size": 9877470723,
   "url_source": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes",
   "langs": [
@@ -18,20 +18,20 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes",
-    "doc_id": "2025-09-18-2025-09-18-2454-54-si",
-    "num": "2025-09-18-2454-54-si",
+    "doc_id": "2025-09-18-2025-09-18-2454-54-ta",
+    "num": "2025-09-18-2454-54-ta",
     "date_str": "2025-09-18",
     "description": "Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-54_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-54_T.pdf",
     "doc_number": "2454/54"
   },
   "year_to_lang_to_n": {
     "2025": {
-      "si": 1868,
-      "en": 1833,
-      "ta": 1574
+      "ta": 1576,
+      "si": 1873,
+      "en": 1838
     },
     "2024": {
       "ta": 2407,
