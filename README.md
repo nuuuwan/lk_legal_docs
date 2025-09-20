@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_16:49:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_17:07:00-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
@@ -16,7 +16,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_16:40:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_16:49:23-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
 
@@ -29,6 +29,22 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - In **සිංහල**, **தமிழ்** & **English**
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_bills/docs_by_year_and_lang.png)
+
+# ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_16:49:54-green)
+
+[https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
+
+An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
+
+- [**100,946** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**9.8 GB**), from **2010-01-01** to **2025-09-18**, scraped from **[https://documents.gov.lk/view/extra-gazettes/egz_2025.html](https://documents.gov.lk/view/extra-gazettes/egz_2025.html)**
+
+- In **JSON**, **PDF** (2%), **TXT** (2%) & **🤗 Hugging Face** (2%)
+
+- In **සිංහල**, **தமிழ்** & **English**
+
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_extraordinary_gazettes/docs_by_year_and_lang.png)
 
 
 ---
