@@ -2,19 +2,19 @@
   "doc_class_label": "lk_extraordinary_gazettes",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-09-20 06:06:01",
+  "time_updated": "2025-09-20 10:05:05",
   "n_docs": 100946,
   "n_docs_with_pdfs": 2070,
   "n_docs_with_text": 2070,
   "date_str_min": "2010-01-01",
   "date_str_max": "2025-09-18",
-  "dataset_size": 5189628878,
+  "dataset_size": 8034259726,
   "url_source": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes",
@@ -26,5 +26,87 @@
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-54_S.pdf",
     "doc_number": "2454/54"
+  },
+  "year_to_lang_to_n": {
+    "2025": {
+      "si": 1868,
+      "en": 1833,
+      "ta": 1574
+    },
+    "2024": {
+      "ta": 2407,
+      "si": 2549,
+      "en": 2514
+    },
+    "2023": {
+      "ta": 2854,
+      "si": 3021,
+      "en": 2958
+    },
+    "2022": {
+      "ta": 2957,
+      "si": 3109,
+      "en": 3059
+    },
+    "2021": {
+      "ta": 2632,
+      "si": 2717,
+      "en": 2698
+    },
+    "2020": {
+      "ta": 1905,
+      "si": 1962,
+      "en": 1950
+    },
+    "2019": {
+      "ta": 2850,
+      "si": 2966,
+      "en": 2955
+    },
+    "2018": {
+      "ta": 2585,
+      "si": 2721,
+      "en": 2685
+    },
+    "2017": {
+      "ta": 2337,
+      "si": 2519,
+      "en": 2400
+    },
+    "2016": {
+      "ta": 2303,
+      "si": 2510,
+      "en": 2351
+    },
+    "2015": {
+      "ta": 2234,
+      "si": 2355,
+      "en": 2277
+    },
+    "2014": {
+      "ta": 2186,
+      "si": 2364,
+      "en": 2237
+    },
+    "2013": {
+      "ta": 1569,
+      "si": 1749,
+      "en": 1630
+    },
+    "2012": {
+      "ta": 841,
+      "si": 942,
+      "en": 870
+    },
+    "2011": {
+      "ta": 759,
+      "si": 866,
+      "en": 798
+    },
+    "2010": {
+      "ta": 480,
+      "si": 533,
+      "en": 507
+    }
   }
 }
