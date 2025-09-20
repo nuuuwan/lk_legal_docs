@@ -1,0 +1,1005 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      79.03,
+      484.06,
+      263.71,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.59,
+      499.66,
+      274.15,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.31,
+      516.08,
+      323.05,
+      528.55
+    ],
+    "text": "Price : Rs. 7.00 Postage : Rs. 4.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.23,
+      125.14,
+      310.34,
+      185.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      19.39,
+      434.55,
+      318.32,
+      460.49
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of March 27 , 2002",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      97.39,
+      376.53,
+      242.48,
+      388.74
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.83,
+      340.56,
+      237.96,
+      354.41
+    ],
+    "text": "[Certified on 25th March, 2002]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.35,
+      231.62,
+      267.35,
+      284.61
+    ],
+    "text": "COMPETENT AUTHORITY(POWERS AND FUNCTIONS) ACT, No. 3 OF 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.281566619873047,
+      14.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.63,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20021",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      30.31,
+      532.06,
+      135.64,
+      542.73
+    ],
+    "text": "2\u2014H 013391\u20145,550 (2002/02)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.83,
+      57.57,
+      214.86,
+      69.78
+    ],
+    "text": "[Certified on 25th March , 2002]",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      77.55,
+      94.73,
+      90.89
+    ],
+    "text": "L.D\u2014O. 5/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      98.55,
+      266.35,
+      135.89
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE POWERS AND FUNCTIONS OF THECOMPETENT AUTHORITY APPOINTED BY THE ELECTIONCOMMISSION UNDER THE CONSTITUTION ; AND TO PROVIDE FOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      134.55,
+      248.83,
+      147.89
+    ],
+    "text": "MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      155.55,
+      266.39,
+      180.89
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      188.55,
+      266.24,
+      213.89
+    ],
+    "text": "1.This Act may be cited as the Competent Authority(Powers and Functions) Act, No. 3 of 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      221.55,
+      266.47,
+      306.89
+    ],
+    "text": "2.The Competent Authority appointed under sub-paragraph (c) of paragraph (5) of Article 104B of theConstitution (hereinafter referred to as the \u201cCompetentAuthority\u201d) to take over the management of the Sri LankaBroadcasting Corporation or the Sri Lanka RupavahiniCorporation, as the case may be, shall exercise and dischargethe following powers and functions :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      314.55,
+      266.49,
+      363.89
+    ],
+    "text": "(a) carry on the radio or television broadcasting services,as the case may be, while maintaining in the publicinterest and in the conduct of a free and fair electionor referendum, high standards in programming ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      371.55,
+      266.42,
+      420.89
+    ],
+    "text": "(b) register persons engaged in the production oftelevision or radio programmes relating to an electionor a referendum, as the case may be, whichprogrammes are intended to be broadcast ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.19,
+      429.51,
+      266.55,
+      478.85
+    ],
+    "text": "(c) exercise supervision and control over programmesbroadcast by the Sri Lanka Broadcasting Corporationor the Sri Lanka Rupavahini Corporation, as the casemay be, relating to an election or a referendum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      486.51,
+      266.5,
+      523.85
+    ],
+    "text": "(d) advise the Minister in respect of matters relating tobroadcasting which are connected with the holdingof an election or a referendum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      190.06,
+      314.33,
+      200.73
+    ],
+    "text": "Short Title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      223.18,
+      328.54,
+      262.65
+    ],
+    "text": "Powers andfunctions of theCompetentAuthority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      304.38,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20022",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.49,
+      56.55,
+      333.88,
+      165.89
+    ],
+    "text": "(e) exercise and perform in relation to any broadcastpertaining to an election or a referendum as the casemay be, all such powers and functions as are conferredor imposed on or assigned to, either the Sri LankaBroadcasting Corporation or the Sri Lanka RupavahiniCorporation as the case may be, by the Sri LankaBroadcasting Corporation Act, No. 37 of 1966 or theSri Lanka Rupavahini Corporation Act, No. 6 of 1982respectively ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.17,
+      173.55,
+      333.73,
+      186.89
+    ],
+    "text": "(f) establish, install and operate broadcasting apparatus ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.01,
+      194.55,
+      333.62,
+      219.89
+    ],
+    "text": "(g) acquire by way of lease, sublease or otherwise anyland or interest in land, with or without any building ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.01,
+      227.55,
+      333.91,
+      312.89
+    ],
+    "text": "(h) erect, alter or reconstruct any broadcasting apparatusor any building or structure on any land belonging toor administered by the Sri Lanka BroadcastingCorporation or the Sri Lanka Rupavahini Corporation,as the case may be, for the use in connection with anybroadcasting station or in connection with the exerciseand discharge of its powers and functions ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.17,
+      320.55,
+      333.82,
+      381.89
+    ],
+    "text": "(i) acquire by lease or otherwise, during the period forwhich the Competent Authority is appointed, anyproperty, rights or privileges that it considers necessaryfor exercising and discharging of its powers andfunctions ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.17,
+      392.55,
+      333.79,
+      525.89
+    ],
+    "text": "(j) with the prior approval of the Election Commissionand subject to any other terms and conditions whichmay be imposed in that behalf, advance money to anyperson or body of persons whether incorporated orunincorporated, producing or intending to produceprogrammes for broadcast, pertaining to the electionor a referendum, as the case may be, whether inconjunction with any other business or not, or give inrespect of any advance made to any such person orbody of persons as aforesaid by a second person, anyguarantee, indemnity or security ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.63,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.19,
+      56.55,
+      266.58,
+      129.89
+    ],
+    "text": "(k) use the facilities and equipment belonging to the SriLanka Broadcasting Corporation or the Sri LankaRupavahini Corporation, as the case may be, in sucha manner as the Competent Authority considers fit forthe purpose of promoting and assisting any broadcastpertaining to an election or a referendum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40.87,
+      134.55,
+      266.51,
+      183.89
+    ],
+    "text": "(l) during the period for which the Competent Authorityis appointed, take on lease or rent houses, sites anderect houses for the use of such officers and servantsappointed by such Authority ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36.43,
+      188.55,
+      266.56,
+      225.89
+    ],
+    "text": "(m) publish or arrange for the publication of suchperiodicals or other publications as it considersnecessary or beneficial ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.59,
+      228.51,
+      266.47,
+      265.85
+    ],
+    "text": "(n) refuse to televise, record or broadcast anyadvertisement in any form, the televising, recordingor boardcasting of which is not in the public interest ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.59,
+      268.47,
+      266.39,
+      329.81
+    ],
+    "text": "(o) act in combination or association with any person orbody of persons, whether incorporated orunincorporated, within Sri Lanka or abroad, in theexercise or discharge of the powers or functionsspecified in the section ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.59,
+      332.55,
+      266.54,
+      381.89
+    ],
+    "text": "(p) do all such acts or things which in the opinion of theCompetent Authority is necessary for the conduct ofa free and fair election or, a referendum, as the casemay be.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      389.55,
+      266.52,
+      486.89
+    ],
+    "text": "3.In the exercise and discharge of the powers andfunctions under paragraphs (a), (b), (c), (d) and (e) of section2, it shall be the duty of the Competent Authority as far aspracticable, to be satisfied, that the programmes broadcast bythe Sri Lanka Broadcasting Corporation or the Sri LankaRupavahini Corporation as the case may be, comply with thefollowing conditions, in addition to any guidelines which theElection Commission may issue from time to time :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.59,
+      491.55,
+      266.55,
+      528.89
+    ],
+    "text": "(a) that any programme broadcast by either the Sri LankaBroadcasting Corporation or the Sri Lanka RupavahiniCorporation as the case may be, shall not include",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      392.02,
+      337.45,
+      442.65
+    ],
+    "text": "CompetentAuthority to besatisfied ofcompliance withcertain conditions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      304.38,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20024",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.65,
+      57.03,
+      333.79,
+      121.61
+    ],
+    "text": "anything which is against good taste or decency, orwhich is likely to incite a person to commit a crime,or which may lead to disorder, or be such as to offendany racial or religious susceptibilities, or to beoffensive to public feeling ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.01,
+      133.83,
+      333.76,
+      185.57
+    ],
+    "text": "(b) that the programmes broadcast shall maintain a properlocal, regional and international balance with regardto the subject matter dealt with, and also generally tomaintain a high standard of quality ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.49,
+      197.91,
+      333.76,
+      236.81
+    ],
+    "text": "(c) that any news presented through any such programmeshall be presented with due accuracy and impartialityand with due regard to the public interest.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      249.03,
+      333.93,
+      313.61
+    ],
+    "text": "4.Any suit or prosecution instituted in a court of law byor against the Competent Authority for any act or omission infurtherance of the powers and functions assigned under thisAct, shall be deemed as an action instituted by or against theState.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      348.87,
+      333.84,
+      399.65
+    ],
+    "text": "5.The Competent Authority may appoint such officersand servants as may be necessary for the implementation ofthe provisions of this Act, and any officer or servant soappointed shall be deemed to be a public officer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      411.39,
+      333.69,
+      474.65
+    ],
+    "text": "6.The Competent Authority and the officers and servantsappointed under section 5 of this Act, may be paid suchremuneration computed at such amount as may be determinedby the Election Commission which shall be a charge on theConsolidated Fund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      486.39,
+      333.73,
+      512.21
+    ],
+    "text": "7.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      251.14,
+      76.12,
+      322.05
+    ],
+    "text": "Suit orprosecutionagainst theCompetentAuthority to beconsidered a suitor prosecutionagainst the State.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      350.98,
+      61.01,
+      371.25
+    ],
+    "text": "Officers andservants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      413.5,
+      75.63,
+      443.37
+    ],
+    "text": "Remuneration ofCompetentAuthority etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      488.62,
+      76.1,
+      518.49
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.63,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      56.55,
+      260.29,
+      70.49
+    ],
+    "text": "8.In this Act, unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      80.55,
+      266.4,
+      129.89
+    ],
+    "text": "\u201cbroadcasting\u201d means television or radio broadcast andincludes any signal, announcement, item,communication, picture or other matter to bebroadcast for reception by the public ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      140.55,
+      266.48,
+      165.89
+    ],
+    "text": "\u201cElection Commission\u201d means the Election Commissionestablished under Article 103 of the Constitution ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.35,
+      176.55,
+      266.45,
+      213.89
+    ],
+    "text": "\u201cguidelines\u201d means the guidelines issued by the ElectionCommission under sub-paragraph (a) of paragraph(5) of Article 104B of the Constitution.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      58.18,
+      323.89,
+      68.85
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      304.38,
+      45.78
+    ],
+    "text": "Competent Authority (Powers and Functions)Act, No. 3 of 20026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      20.69,
+      496.18,
+      332.65,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
