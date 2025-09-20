@@ -108,10 +108,9 @@ class AbstractDocReadMeMixin(AbstractDocChartDocsByYearMixin):
 
     @classmethod
     def get_lines_chart_docs_by_year_and_lang(cls, summary) -> list[str]:
-        year_to_lang_to_n = summary["year_to_lang_to_n"]
-        cls.build_chart_by_year_and_lang(year_to_lang_to_n)
+        url_chart = summary["url_chart"]
         return [
-            f"![Chart]({cls.get_raw_remote_chart_image_url()})",
+            f"![Chart]({url_chart})",
             "",
         ]
 
