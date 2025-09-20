@@ -1,0 +1,83 @@
+(Published by Authority)
+
+ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ ගැසŸ පƴය
+
+අƯ ɪෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 19 of Block 6, contained in the Cadastral Map No. 521419, situated in the Village of polwaththa within the Grama Niladhari Division of No. 529 - Polwaththa in the Divisional Secretary's Division of Maharagama, in the District of Colombo, in the Province of Western, referred to in Notice No. 52/1184 calling for claims to land parcels which was duly published in the Gazette No. 2373/09 of 26th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 06th February, 2025
+
+No. 2437/30 - 2025 මැɐ මස 21 වැǧ බදාදා - 2025.05.21
+
+No. 2437/30 – WEDNESDAY, MAY 21, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044386 - 04 (05/2025)
+
+2 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:19 0.0501 Tranquil Terrace Realty (PVT) Ltd - Full 1st Class With the right - No. 16, Lumbini Mawatha, to access with Dalugama, Kelaniya servitude of parcel No. 19 EOG 05-0124/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 15, 1 : 23, 1 : 28, 1 : 33, 1 : 35, 1 : 38, 1 : 41, 1 : 48, 1 : 50, 1 : 58, 1 : 61, 1 : 68, 1 : 73, 1 : 76, 1 : 77, 1 : 81, 1 : 82, 1 : 88, 1 : 91, 1 : 98, 1 : 100, 1 : 102, 1 : 103, 1 : 106, 1 : 107, 1 : 114, 1 : 116, 1 : 123, 1 : 137, 1 : 140, 1 : 142, 1 : 146, 1 : 147, 1 : 148, 1 : 153, 1 : 154, 1 : 155, 1 : 158, 1 : 164, 1 : 173, 1 : 178, 1 : 179, 1 : 181, 1 : 186, 1 : 187, 1 : 188, 1 : 189, 1 : 190, 1 : 198, 1 : 205, 1 : 207, 1 : 210, 1 : 211, 1 : 213, 1 : 226, 1 : 228, 1 : 239, 1 : 242, 1 : 245, 1 : 248, 1 : 252, 1 : 259 and 1 : 262 of Block 7, contained in the Cadastral Map No. 521419, situated in the Village of polwaththa within the Grama Niladhari Division of No. 529 - polwaththa in the Divisional Secretary's Division of Maharagama, in the District of Colombo, in the Province of Western, referred to in Notice No. 52/1182 calling for claims to land parcels which was duly published in the Gazette No. 2370/29 of 09th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 06th February, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:15 0.0159 Gajanayaka Mudiyanselage Nimal 732642684V Full 1st Class With the right - No. 75/16 D, Grama Sanwardhana to access with Road, Depanama, Pannipitiya servitude of parcel Nos. 14 and 19
+
+3 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:23 0.0327 Private - Full 1st Class - To access parcel No. 22, 24,25 and 27 1:28 0.0089 Private - Full 1st Class - To access parcel No. 27 1:33 0.0749 Municipal Council - Maharagama - Full 1st Class - Road 1:35 0.0232 Jayasinghe Arachchige Harith 198926204364 Full 1st Class With the right - Madhushan to access with No. 126/1/1, Polwatta, Pannipitiya servitude of parcel No. 33 1:38 0.0509 Municipal Council - Maharagama - Full 1st Class - Road 1:41 0.0051 Private - Full 1st Class - For the water drainage of parcel Nos. 40, 42,45 and 46 1:48 0.0145 Private - Full 1st Class - To access parcel Nos. 46. 47,63 and 64 1:50 0.0121 Private - Full 1st Class - To access parcel Nos. 49, 51 and 62 1:58 0.0106 Private - Full 1st Class - To access parcel No. 59 1:61 0.0303 Dodangaha Arawe Multhen 199004602964 Full 1st Class With the right - Ralalage Randika Madhush Bandara to access with No. 75/31 K, Grama Sanwardhana Road, servitude of Polwatta, Pannipitiya parcel No. 38 and 68 1:68 0.0142 Private - Full 1st Class - To access parcel Nos. 61, 67,69 and 70 1:73 0.0054 Private - Full 1st Class - To access parcel Nos. 72 and 74 1:76 0.0056 Private - Full 1st Class - To access parcel Nos. 75, 78 and 79 1:77 0.0063 Private - Full 1st Class - To access parcel Nos. 71 and 78 1:81 0.0249 Kalatuwawa Lekamge Chathuri 828322869V Full 1st Class With the right - Chandima to access with No. 92/15, Janatha Mawatha, servitude of Pathiragoda, Maharagama parcel Nos. 33 and 82 Subject to the life interest of Kalatuwawa Lekamge Piyananda 1:82 0.0123 Private - Full 1st Class - To access parcel Nos. 81, 83,84 and 85
+
+4 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:88 0.0231 Hettiyahandi Anoma De Silva 658341200V Full 1st Class With the right - No. 75/22, Grama Sanwardhana to access with Road, Polwatta servitude of parcel No. 33 and 91 Subject to the mortgage No. 3831 and dated 2020.03.12 Multi Purpose co-operative Rural society 1:91 0.0228 Private - Full 1st Class - To access parcel No. 87, 88,89,90 and 92 1:98 0.0338 Thilaka Nishadha Priyadarshana 196131300128 Full 1st Class With the right - Periyapperuma to access with No. 60/26, 9 B Lane, Araliya Uyana, servitude of Depanama, Pannipitiya parcel No. 116 Subject to the mortgage No. 6756 and dated 2024.02.25 to the Commercial Bank 1:100 0.0033 Private - Full 1st Class - To access parcel Nos. 21 and 99 1:102 0.0036 Private - Full 1st Class - To access parcel Nos. 21 and 101 1:103 0.0069 Private - Full 1st Class - To access parcel Nos. 104 and 110 1:106 0.0108 Private - Full 1st Class - To access parcel Nos. 09, 10,11,105 and 107 1:107 0.0210 Galapita Ralalage Rajindra Nalaka 198525100560 Full 1st Class With the right - Jayantha to access with No. 29/A, Alfred Place, Colombo03 servitude of parcel No. 106 Subject to the mortgage No. 1143 and dated 2017.07.21 Merchant Bank and Finance Plc. 1:114 0.0191 Ashani Amarasinghe Pathiranage 746130082V Full 1st Class With the right - No. 5/218, Kuruduhena, Kadawatha Road, to access with Ragama servitude of 521419/08/01:107 Subject to the mortgage No. 4211 and dated 2021.08.02 and 4209 and dated 2021.08.02 to the People’s Bank
+
+5 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:116 0.0962 Municipal Council - Maharagama - Full 1st Class - Road 1:123 0.0281 Kirielle Thalaththanirallage 931870769V Full 1st Class With the right - Hansana Lakshan Jayathissa to access with No. 60/50, Araliya Uyana, Depanama, servitude of Pannipitiya parcel No. 211 Subject to the life interest of Hewa Ulagodage Ramani and Kirielle Thalaththa Nirallage Gamini Jayathissa 1:137 0.0244 Municipal Council - Maharagama - Full 1st Class - Road 1:140 0.0104 Private - Full 1st Class - To access parcel Nos. 94, 95 and 96 1:142 0.0013 Private - Full 1st Class - For the water drainage of parcel No. 93,94,141 and 143 1:146 0.0050 Private - Full 1st Class - To access parcel Nos. 145,148 and 149 1:147 0.0037 Private - Full 1st Class - To access parcel Nos. 148 and 149 1:148 0.0468 Bethmage Vijerathna Perera 590660418V Full 1st Class With the right - No. 127/1, Polwatta, Pannipitiya to access with servitude of parcel No. 147 1:153 0.0045 Private - Full 1st Class - To access parcel Nos. 151,152 and 59 1:154 0.0248 Thanuja Nilanthi Liyanage 737333035V Full 1st Class With the right - No. 75/58 A, Grama Sanwardhana to access with Road, Polwatta, Pannipitiya servitude of parcel No. 153 and 155 1:155 0.0062 Private - Full 1st Class - To access parcel Nos. 154, 156,151,152 and 59 1:158 0.0228 Private - Full 1st Class - To access parcel Nos. 156, 157,159,163,164, 167,154,151,152 and 59 1:164 0.0180 Dulika Hiniduma Liyanage 755733377V Full 1st Class With the right - No. 90/7, Grama Sanwardhana Road, to access with Polwatta, Pannipitiya servitude of parcel No. 158 Subject to the mortgage No. 2707 and dated 2016.01.26 to the Bank of Ceylon
+
+6 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:173 0.0148 Private - Full 1st Class - To access parcel Nos. 150, 149,172,174,175 and 168 1:178 0.0177 Private - Full 1st Class - To access parcel Nos. 144, 138,175 and 177 1:179 0.0165 Private - Full 1st Class - To access parcel No. 170, 171,176 and 177 1:181 0.0245 Weragalage Dona Nenawathi 485550534V Full 1st Class With the right - Chandralatha to access with No. 129/1, Polwatta, Pannipitiya servitude of parcel No. 137 and 207 Subject to the life interest of Hetti Arawdige Premawathi Alvis 1:186 0.0047 Private - Full 1st Class - To access parcel No. 184 1:187 0.0250 Weragalage Dona Nenawathi 485550534V Full 1st Class With the right - Chandralatha to access with No. 129/1, Polwatta, Pannipitiya servitude of parcel No. 188 and 189 Subject to the life interest of Hetti Arawdige Premawathi Alvis 1:188 0.0061 Private - Full 1st Class - To access parcel Nos. 185 and 187 1:189 0.0483 Private - Full 1st Class - To access parcel Nos. 160, 161,162,165,166, 169,170,171,176, 191,192,193,194,195 and 204 1:190 0.0058 Private - Full 1st Class - To access parcel Nos. 203 and 204 1:198 0.0151 Private - Full 1st Class - To access parcel Nos. 200, 201 and 202 1:205 0.0299 Francis Robert Chamila Krishani 197151510053 Full 1st Class With the right - No. 20/D, 1 st Lane, to access with Grama Sanwardhana Road, Pannipitiya servitude of parcel No. 239 1:207 0.0397 Municipal Council - Maharagama - Full 1st Class - Road 1:210 0.0293 Municipal Council - Maharagama - Full 1st Class - Road 1:211 0.0973 Municipal Council - Maharagama - Full 1st Class - Road
+
+7 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:213 0.0258 Athukorala Arachchige Sunil 196036000029 Full 1st Class With the right - No. 60/13, Araliya Uyana, to access with Depanama, Pannipitiya servitude of parcel No. 210 and 211 1:226 0.0327 Kariyawasam Gamaralalage 686440583V Full 1st Class With the right - Pradeepa Priyangani to access with No. 66, Araliya Uyana, Depanama, servitude of Pannipitiya 521419/09/01:01 1:228 0.0302 Herath Mudiyanselage Udaya 580850294V Full 1st Class With the right - Bandara Galagoda to access with No. 74, Araliya Uyana, servitude of Depanama , Pannipitiya 521419/09/01:01 1:239 0.0632 Municipal Council - Maharagama - Full 1st Class - Road 1:242 0.0095 Private - Full 1st Class - To access parcel No. 243 and 246 1:245 0.0178 Lankahaluge Ridma Kumari 857601033V Full 1st Class With the right - Fernando to access with No. 131/5, Araliya Uyana, Depanama, servitude of Pannipitiya parcel No. 262 1:248 0.0344 Don Ajith Premalal Vijesooriya 632452896V Full 1st Class With the right - No. 75/46 C, Grama Sanwardhana Road, to access with Polwatta, Pannipitiya servitude of parcel No. 239 1:252 0.0260 Amarathunga Arachchige Anula 658590049V Full 1st Class With the right - No. 75/46 E, Grama Sanwardhana Road, to access with Polwatta, Pannipitiya servitude of parcel No. 239 1:259 0.0008 Private - Full 1st Class - For the water drainage of parcel No. 258 1:262 0.0089 Private - Full 1st Class - To access parcel No. 206 and 261 EOG 05-0124/2 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 8, 1 : 30 and 1 : 48 of Block 8, contained in the Cadastral Map No. 521419, situated in the Village of polwaththa within the Grama Niladhari Division of
+
+8 A
+
+III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.05.21 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 21.05.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+No. 529 - Polwaththa in the Divisional Secretary's Division of Maharagama, in the District of Colombo, in the Province of Western, referred to in Notice No. 52/1181 calling for claims to land parcels which was duly published in the Gazette No. 2370/29 of 09th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 06th February, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:8 0.0273 Girihagama Walawwe Sohitha Bandara 743551966V Full 1st Class With the right - Girihagama to access with No. 46, 6 th Lane, Araliya Uyana, servitude of Depanama, Pannipitiya parcel No. 61 Subject to the mortgage No. 1519 and dated 2021.06.15 H.N.B. Finance PLC 1:30 0.0377 Sameera Rampola Wanigasekara 803222096V Full 1st Class With the right - No. 61, 6 th Lane, Araliya Uyana, to access with Depanama, Pannipitiya servitude of parcel No. 61 1:48 0.0272 Nawarathna Mudiyanselage Sanjula 933010236V Full 1st Class With the right - Anuradha Bandara to access with No. 59, 6 B Lane, Araliya Uyana, servitude of Depanama, Pannipitiya parcel No. 28 Subject to the life interest of Nawarathna Mudiyanselage Nawarathna Bandara and Rajindra Subhashini Weeraman EOG 05-0124/3
