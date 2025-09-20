@@ -2,18 +2,18 @@
   "doc_class_label": "lk_acts",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",
-  "time_updated": "2025-09-20 16:49:29",
+  "time_updated": "2025-09-20 17:58:33",
   "n_docs": 3925,
-  "n_docs_with_pdfs": 3122,
-  "n_docs_with_text": 3122,
+  "n_docs_with_pdfs": 3243,
+  "n_docs_with_text": 3243,
   "date_str_min": "1981-01-22",
   "date_str_max": "2025-09-10",
-  "dataset_size": 9821519849,
+  "dataset_size": 9946287844,
   "url_source": "https://documents.gov.lk/view/acts/acts_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
