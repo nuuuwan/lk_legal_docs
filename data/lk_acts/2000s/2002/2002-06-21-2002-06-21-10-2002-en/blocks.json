@@ -1,0 +1,5136 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      516.6,
+      332.23,
+      530.45
+    ],
+    "text": "Price : Rs. 22.00 Postage : Rs. 6.75",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.59,
+      480.12,
+      293.22,
+      492.13
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.03,
+      495.96,
+      306.56,
+      507.97
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 01",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      7.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      48.19,
+      124.38,
+      316.71,
+      181.16
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.39,
+      228.62,
+      303.67,
+      264.81
+    ],
+    "text": "INLAND REVENUE (AMENDMENT)ACT, No. 10 OF 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.59,
+      325.8,
+      245.2,
+      339.65
+    ],
+    "text": "[Certified on 21st June, 2002]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.27,
+      357.57,
+      255.57,
+      369.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      39.67,
+      426.51,
+      324.92,
+      452.45
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of June 21, 2002",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.51,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20021",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.87,
+      56.55,
+      206.02,
+      69.89
+    ],
+    "text": "[Certified on 21st June, 2002]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      80.55,
+      99.82,
+      93.89
+    ],
+    "text": "L.D.\u2014O.18/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.47,
+      104.55,
+      265.28,
+      117.89
+    ],
+    "text": "AN ACT TO AMEND THE INLAND REVENUE ACT, NO . 38 OF 2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.974955081939697,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      128.55,
+      265.4,
+      153.89
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      164.55,
+      265.83,
+      189.89
+    ],
+    "text": "1. This Act may be cited as the Inland Revenue(Amendment) Act, No. 10 of 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      200.55,
+      265.62,
+      249.89
+    ],
+    "text": "2.Section 3 of the Inland Revenue Act, No. 38 of 2000(hereinafter referred to as \u201cthe principal enactment\u201d) is herebyamended by the repeal of paragraph (h) of that section, andthe substitution, therefor of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.15,
+      257.55,
+      265.41,
+      282.89
+    ],
+    "text": "\u201c(h)capital gains arising on or before March 31,2002\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      293.55,
+      265.57,
+      342.89
+    ],
+    "text": "3.Section 7 of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words \u201carising from\u2013\u201d, of the words and figures\u201carising on or before March 31, 2002 from\u2013\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      350.55,
+      265.54,
+      387.89
+    ],
+    "text": "4.Section 8 of the principal enactment as amended byAct No. 8 of 2001 is hereby further amended in paragraph(a) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.59,
+      398.55,
+      265.45,
+      435.89
+    ],
+    "text": "(1)in subparagraph (lxxiv) of that paragraph by thesubstitution for the words \u201cInvestment Bank.\u201d, ofthe words \u201cInvestment Bank :\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.59,
+      443.55,
+      265.41,
+      468.89
+    ],
+    "text": "(2)by the addition at the end of that paragraph of thefollowing :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      476.55,
+      265.66,
+      526.01
+    ],
+    "text": "\u201cProvided however that except in the case of a body ofpersons referred to in subparagraphs (ix), (xi), (xv), (xvii),(xx), (xxi), (xxxix), (li), (liv), (lxiv), (lxv), (lxvi), (lxxii),(lxxiii) and (lxxiv), the exemption from income tax, of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      541.54,
+      135.89,
+      552.21
+    ],
+    "text": "2\u2014H 015364\u201411,200 (05/2002)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      200.98,
+      331.74,
+      230.85
+    ],
+    "text": "Amendment ofsection 3 of Act,No. 38 of 2000.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.39,
+      167.02,
+      311.85,
+      177.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.39,
+      295.66,
+      327.45,
+      335.13
+    ],
+    "text": "Amendment ofsection 7 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.39,
+      352.06,
+      327.45,
+      391.53
+    ],
+    "text": "Amendment ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20022",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      56.07,
+      333.88,
+      114.65
+    ],
+    "text": "profits and income of any other body of persons referred toin this paragraph shall not extend to any such profits andincome of that body of persons as consists of dividends orinterest, in respect of which tax has been deducted undersubsection (1A) of section 61 or section 122A respectively.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      123.87,
+      333.86,
+      148.49
+    ],
+    "text": "5.Section 10 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.89,
+      157.83,
+      333.79,
+      193.73
+    ],
+    "text": "(1)in paragraph (a) of that section, by the substitutionfor the words \u201cpayable to an individual\u201d, of the words\u201cpayable prior to April 1, 2002 to an individual\u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.89,
+      202.95,
+      333.64,
+      227.57
+    ],
+    "text": "(2)by the insertion, immediately after paragraph (e) ofthat section of the following paragraphs :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.61,
+      234.63,
+      333.78,
+      281.81
+    ],
+    "text": "\u201c(ee)the interest accruing to any person on moneysinvested in Reconstruction Bonds issued bythe Government of Sri Lanka denominatedin United States Dollars ; \u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.61,
+      286.71,
+      333.84,
+      345.29
+    ],
+    "text": "(eee)the interest accruing to any person on moneysinvested in Sri Lanka Development Bondsdenominated in United States Dollars issuedby the Central Bank of Sri Lanka on or afterApril 1, 2001;\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.89,
+      354.51,
+      333.8,
+      401.81
+    ],
+    "text": "(3)in paragraph (f) of that section by the substitutionfor the words \u201cTax Reserve Certificate ; \u201d, of thewords \u201cTax Reserve Certificate surrendered prior toApril 1, 2002 ; \u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.89,
+      411.75,
+      333.69,
+      459.05
+    ],
+    "text": "(4)in paragraph (h) of that section, by the substitutionfor the words \u201caccruing to any financial institution\u201dof the words \u201caccruing prior to April 1, 2002 to anyfinancial institution\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      468.39,
+      333.86,
+      527.69
+    ],
+    "text": "6.Section 11 of the principal enactment is herebyamended in paragraph (f) of that section, by the substitution,for the words and figures \u201c18, 19, 20 or 21 of this Act\u201d, of thewords and figures \u201c18, 18A, 19, 20, 20A, 21, 21A, or 21B ofthis Act,\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      22.61,
+      127.06,
+      76.81,
+      166.53
+    ],
+    "text": "Amendment ofsection 10 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      22.61,
+      470.98,
+      76.81,
+      510.45
+    ],
+    "text": "Amendment ofsection 11 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.51,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277.39,
+      56.5,
+      331.67,
+      95.97
+    ],
+    "text": "Amendment ofsection 14 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277.39,
+      298.06,
+      331.57,
+      337.53
+    ],
+    "text": "Amendment ofsection 18 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277.39,
+      239.02,
+      331.67,
+      278.49
+    ],
+    "text": "Amendment ofsection 17 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277.39,
+      370.06,
+      335.59,
+      409.53
+    ],
+    "text": "Amendment ofsection 18A of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      277.39,
+      454.06,
+      331.67,
+      493.53
+    ],
+    "text": "Amendment ofsection 19 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      56.55,
+      266.56,
+      81.89
+    ],
+    "text": "7.Section 14 of the principal enactment is herebyamended in subsection (1) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      92.55,
+      266.37,
+      129.89
+    ],
+    "text": "(1)in paragraph (c) of that subsection by the substitutionfor the words \u201cfor the three years of assessment.\u201d,of the words \u201c for the three years of assessment ; \u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      140.55,
+      266.22,
+      165.89
+    ],
+    "text": "(2)by the addition immediately after paragraph (c) ofthat subsection of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.15,
+      176.55,
+      266.47,
+      225.89
+    ],
+    "text": "\u201c(d)the aggregate amount of the capital gains ofany person for any year of assessmentcommencing on or after April 1, 2002 arisingfrom any transaction stipulated in section 7.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      236.55,
+      266.63,
+      285.89
+    ],
+    "text": "8.Section 17 of the principal enactment is herebyamended in subsection (2) of that section, by the substitutionfor the words \u201cOrder published in the Gazette\u201d of the words\u201cOrder published in the Gazette, prior to April 1, 2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      296.55,
+      266.56,
+      357.89
+    ],
+    "text": "9.Section 18 of the principal enactment is herebyamended by the substitution for the words and figures\u201ccommences business on or after April 1, 2000,\u201d of the wordsand figures \u201ccommences business on or after April 1, 2000but prior to April 1, 2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      368.55,
+      266.5,
+      441.89
+    ],
+    "text": "10.Section 18A of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words and figures \u201cwhich commences business on orafter April 1, 2001,\u201d of the words and figures \u201cwhichcommences business on or after April 1, 2001 but prior toApril 1, 2003\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      452.55,
+      266.54,
+      525.89
+    ],
+    "text": "11.Section 19 of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words and figures \u201cwhich commences business on orafter April 1, 2000,\u201d of the words and figures \u201cwhichcommences business on or after April 1, 2000 but prior toApril 1, 2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20024",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      56.91,
+      333.8,
+      133.25
+    ],
+    "text": "12.Section 20 of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words and figures \u201cwhich commences business on orafter April 1, 2000\u201d, of the words and figures \u201cwhichcommences business on or after April 1, 2000 but prior toApril 1, 2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      147.51,
+      333.64,
+      186.05
+    ],
+    "text": "13.The following new sections are hereby insertedimmediately after section 21 of the principal enactment andshall have effect as sections 21A and 21B of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.65,
+      197.91,
+      333.8,
+      337.25
+    ],
+    "text": "21A. (1) The profits and income within themeaning of paragraph (a) of section 3 (otherthan any profits and income from the sale ofcapital assets) of any company from anyspecified undertaking referred to in subsection(2) and carried on by such company on or afterApril 1, 2002 shall be exempt from income taxfor a period of three years reckoned from thecommencement of the year of assessment inwhich the undertaking commences to carry oncommercial operations.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.65,
+      349.11,
+      333.82,
+      400.25
+    ],
+    "text": "(2) For the purposes of subsection (1)\u201cspecified undertaking\u201d in relation to a companymeans an undertaking carried on by suchcompany and which is engaged in\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.89,
+      412.11,
+      333.76,
+      463.25
+    ],
+    "text": "(a)agriculture, agroprocessing, industrial andmachine tool manufacturing, informationtechnology and allied services, electronicsor the export of non-traditional products ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.89,
+      475.11,
+      333.66,
+      526.25
+    ],
+    "text": "(b)any other designated project or in a projectin which the investment is in excess ofrupees five hundred million, and whichconforms to the prescribed guidelines.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      197.55,
+      138.32,
+      259.05
+    ],
+    "text": "\u201cExemptionfrom incometax of certainagriculturaland industrialprojects.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      23.69,
+      59.02,
+      77.89,
+      98.49
+    ],
+    "text": "Amendment ofsection 20 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      150.46,
+      76.0,
+      199.53
+    ],
+    "text": "Insertion of newsections 21A and21B in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      85.51,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.35,
+      56.91,
+      225.84,
+      70.25
+    ],
+    "text": "For the purpose of this subsection\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.87,
+      84.51,
+      265.41,
+      123.05
+    ],
+    "text": "(i)\u201cagriculture\u201d means the cultivation of landwith plants of any description and therearing of fish ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.11,
+      134.91,
+      265.44,
+      186.05
+    ],
+    "text": "(ii)\u201cexport of non-traditional products\u201dmeans the export of any goods, other thangoods referred to in sub-paragraph (ii) ofparagraph (b) of section 52 of this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.35,
+      197.91,
+      265.5,
+      400.25
+    ],
+    "text": "21B. (1) The profits and income within themeaning of paragraph (a) of section 3 (otherthan any profits and income from the sale ofcapital assets) of any company from anyspecified undertaking referred to in subsection(2) shall be exempt from income tax for a periodnot less than five years but not more than tenyears as may be determined by the Minister byOrder published in the Gazette, if the amountof the investment made by such company insuch undertaking is not less than one thousandtwo hundred and fifty million rupees. Suchperiod shall be reckoned from thecommencement of the year of assessment inwhich the undertaking commences to carry oncommercial operations.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.35,
+      412.11,
+      265.44,
+      526.25
+    ],
+    "text": "(2) For the purposes of subsection (1)\u201cspecified undertaking\u201d in relation to companymeans an undertaking carried on by suchcompany on or after April 1, 2002 and which isengaged in any such activity relating toinfrastructure development as may bedetermined by the Minister by Order publishedin the Gazette, having regard to the interests ofthe national economy.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      200.86,
+      70.29,
+      269.13
+    ],
+    "text": "Exemptionfrom incometax of certainundertakingsforinfrastructuredevelopment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      55.83,
+      334.03,
+      91.37
+    ],
+    "text": "14.The following new section is hereby insertedimmediately after section 22 of the principal enactment andshall have effect as section 22A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147.65,
+      97.23,
+      333.77,
+      188.93
+    ],
+    "text": "22A. Notwithstanding anything contained inthis Act, the profits and income within themeaning of paragraph (a) of section 3 of anyperson who makes a declaration under section2 of the Inland Revenue (Special Provisions)Act, No. 7 of 2002 shall not be exempted fromincome tax for any year of assessmentcommencing on or after April 1, 2003.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      229.23,
+      333.84,
+      253.73
+    ],
+    "text": "15.Section 23 of the principal enactment is herebyamended in subsection (1) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.89,
+      260.55,
+      333.74,
+      307.49
+    ],
+    "text": "(1)in sub-paragraph (i) of paragraph (b) of thatsubsection by the substitution, for the words \u201corsubparagraph (iii)\u201d, of the words \u201cor sub-paragraph(iii) or (vi)\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.89,
+      311.31,
+      333.61,
+      347.09
+    ],
+    "text": "(2)by the insertion immediately after sub -paragraph(v) of paragraph (b) of that subsection of thefollowing sub-paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      125.69,
+      354.99,
+      333.82,
+      423.53
+    ],
+    "text": "\u201c(vi)any computer hardware acquired by suchperson on or after April 1, 2002 and arisingout of its use in any trade, business, professionor vocation carried on or exercised by him atthe rate of one hundred per centum on its costof acquisition;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.89,
+      427.35,
+      333.81,
+      463.13
+    ],
+    "text": "(3)in paragraph (c) of that subsection by the substitutionfor all the words from \u201ca sum equal to one tenth\u201d to\u201cbusiness carried on by him\u201d of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.05,
+      470.91,
+      227.13,
+      484.25
+    ],
+    "text": "\u201c(c)A sum equal to \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      153.17,
+      492.15,
+      333.68,
+      527.93
+    ],
+    "text": "(i)one-tenth of any payment made for anyyear of assessment commencing prior toApril 1, 2002;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      22.61,
+      57.58,
+      141.78,
+      270.09
+    ],
+    "text": "Insertion of newsection 22A in theprincipalenactment.\u201cThe profitsand income ofa personmaking adeclarationunder section2 of theInlandRevenue(SpecialProvisions)Act, No. 7 of2002 shall notbe exemptedfrom incometax.Amendment ofsection 23 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.51,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20027",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.11,
+      65.55,
+      266.46,
+      102.89
+    ],
+    "text": "(ii)a sum equal to one-fourth of any paymentmade in any year of assessmentcommencing on or after April 1, 2002,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.35,
+      107.55,
+      266.43,
+      156.89
+    ],
+    "text": "by such person as consideration for obtaining alicence, in his favour, of any manufacturing processused by such person in any trade or business carriedon by such person;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      41.59,
+      162.51,
+      266.34,
+      187.85
+    ],
+    "text": "(4)by the insertion, immediately after paragraph (c) ofthat subsection, of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      57.31,
+      196.47,
+      266.65,
+      281.81
+    ],
+    "text": "\u201c(cc)a sum equal to one-fourth of any paymentmade by such person in any year of assessmentcommencing on or after April 1, 2002 in theacquisition of any intangible asset such as apatent, copyright or trade mark (other than anygoodwill) used by him in any trade or businesscarried on by him :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.35,
+      287.55,
+      266.53,
+      348.89
+    ],
+    "text": "Provided that no deduction shall be allowedto any person under this paragraph in respectof any such payment if the total of the sumdeducted in the preceding years of assessmentis equal to the amount of such payment ; \u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      41.59,
+      356.55,
+      266.49,
+      393.89
+    ],
+    "text": "(5)in paragraph (d) of that subsection , by thesubstitution for all the words from \u201csuch allowancebeing\u201d to \u201ccomputer software\u201d, of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.35,
+      401.55,
+      168.02,
+      414.89
+    ],
+    "text": "\u201csuch allowance being :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.87,
+      420.51,
+      266.46,
+      457.85
+    ],
+    "text": "(i)in the case of the year of assessmentcommencing prior to April 1, 2002, an amountequal to fifty per centum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.11,
+      463.47,
+      266.4,
+      500.81
+    ],
+    "text": "(ii)in the case of every year of assessmentcommencing on or after April 1, 2002, anamount equal to one hundred per centum,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      62.35,
+      505.47,
+      266.27,
+      530.81
+    ],
+    "text": "of the cost of acquisition of such computersoftware,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20028",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.89,
+      56.19,
+      333.67,
+      92.57
+    ],
+    "text": "(6)by the repeal of the proviso to paragraph (f) of thatsubsection and the substitution of the followingproviso therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.65,
+      97.71,
+      333.72,
+      145.49
+    ],
+    "text": "\u201cProvided that the sum deductible under thissub-paragraph shall, in the case of a companycarrying on the business of letting premises forcommercial purposes \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135.17,
+      150.63,
+      333.57,
+      175.49
+    ],
+    "text": "(i)for any year of assessment commencing priorto April 1, 2002, not exceed ten per centum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.41,
+      182.67,
+      333.7,
+      230.57
+    ],
+    "text": "(ii)for any year of assessment commencing on orafter April 1, 2002, insofar as it relates to therepairs of such premises, not exceed twenty-five per centum,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.65,
+      233.67,
+      333.57,
+      258.53
+    ],
+    "text": "of the gross rent receivable by such company forsuch premises;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.89,
+      264.63,
+      333.77,
+      324.05
+    ],
+    "text": "(7)in paragraph (k) of that subsection by the substitutionfor the words \u201cthe expenditure incurred\u201d of the wordsand figures \u201cthe expenditure incurred in any year ofassessment commencing on or after April 1, 2000but prior to April 1, 2002\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.89,
+      331.11,
+      333.64,
+      355.97
+    ],
+    "text": "(8)by the insertion, immediately after paragraph (k) ofthat subsection of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.61,
+      364.11,
+      333.82,
+      446.45
+    ],
+    "text": "\u201c(kk)the expenditure including capital expenditureincurred in any year of assessmentcommencing on or after April 1, 2002 by suchperson in carrying on any scientific, industrial,agricultural or any other research for theupgrading of any trade or business carried onby such person;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.89,
+      454.71,
+      333.95,
+      502.49
+    ],
+    "text": "(9)in sub-paragraph (iii) of paragraph (t) of thatsubsection by the substitution for the words\u201cperformance of such trade or business.\u201d, of thefollowing :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.65,
+      510.63,
+      291.64,
+      523.97
+    ],
+    "text": "\u201cperformance of such trade or business :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.51,
+      20.55,
+      266.31,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 20029",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      56.67,
+      266.43,
+      106.97
+    ],
+    "text": "Provided that any expenditure incurred in anyyear of assessment commencing on or after April 1,2002 by such person in training shall be deductible,irrespective of the length of the period of training.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      26.35,
+      118.23,
+      266.54,
+      143.81
+    ],
+    "text": "16.Section 24 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      41.59,
+      155.07,
+      200.87,
+      168.41
+    ],
+    "text": "(1)in subsection (1) of that section \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.59,
+      179.67,
+      266.46,
+      229.97
+    ],
+    "text": "(a)in sub-paragraph (iii) of paragraph (c) of thatsubsection by the substitution for the words\u201cin accordance with such paragraph,\u201d of thefollowing :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      241.23,
+      211.56,
+      254.57
+    ],
+    "text": "\u201cin accordance with such paragraph :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      265.83,
+      266.4,
+      352.97
+    ],
+    "text": "Provided that a deduction may be allowed inrespect of any expenditure incurred, by such personin any year of assessment commencing on or afterApril 1, 2002 if such expenditure incurred intravelling outside Sri Lanka is directly related to anytrade, business, profession or vocation carried on,or exercised by such person. ; \u201d ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      41.59,
+      364.23,
+      266.35,
+      414.41
+    ],
+    "text": "(b)in sub-paragraph (ii) of paragraph (d) of thatsubsection, by the substitution for the words\u201caccordance with the provision of such paragraph;\u201d,of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      425.67,
+      266.03,
+      439.01
+    ],
+    "text": "\u201caccordance with the provisions of such paragraph :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      450.27,
+      266.46,
+      525.17
+    ],
+    "text": "Provided that a deduction may be allowed inrespect of any such expenditure incurred by suchperson in any year of assessment commencing onor after April 1, 2002, if such expenditure incurredin travelling outside Sri Lanka is directly related tothe carrying on of such business;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      278.35,
+      120.58,
+      332.63,
+      160.05
+    ],
+    "text": "Amendment ofsection 24 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200210",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.53,
+      56.67,
+      332.71,
+      93.29
+    ],
+    "text": "(c)in paragraph (e) of that subsection by the substitutionfor the words \u201cexercised by him;\u201d of thefollowing :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.69,
+      97.47,
+      206.62,
+      110.81
+    ],
+    "text": "\u201cexercised by him :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.69,
+      117.99,
+      332.78,
+      200.33
+    ],
+    "text": "Provided that a deduction may be allowed inrespect of such entertainment expenses incurred bysuch person or on his behalf, in any year ofassessment commencing on or after April 1, 2002,if the expenses so incurred are directly related toany trade, business, profession or vocation carriedon, or exercised by such person;\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.93,
+      207.51,
+      332.74,
+      266.81
+    ],
+    "text": "(d)in paragraph (f) of that subsection, by thesubstitution, for the words \u201chis executive officer\u201d,of the words \u201chis executive officer, in any year ofassessment commencing prior to April 1, 2002\u201d;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.93,
+      276.51,
+      332.79,
+      301.25
+    ],
+    "text": "(2)by the addition, immediately after subsection (3)thereof of the following subsection :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.69,
+      308.43,
+      332.72,
+      402.29
+    ],
+    "text": "\u201c(4) In computing the statutory income of anyperson from any trade, business, profession orvocation carried on or exercised by such person, nodeduction shall be allowed under section 23 orsection 24 in respect of any expenditure unless theamount of such expenditure is paid within three yearsfrom the end of the year of assessment in which suchexpenditure is incurred.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.69,
+      411.99,
+      332.76,
+      436.85
+    ],
+    "text": "17.Section 29 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.93,
+      446.43,
+      332.62,
+      471.29
+    ],
+    "text": "(1)by the insertion immediately after subsection (1) ofthat section of the following subsection :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      125.45,
+      480.99,
+      332.83,
+      528.77
+    ],
+    "text": "\u201c(1A)The assessable income of a person (other thana company) for any year of assessmentcommencing on or after April 1, 2002, shallnotwithstanding anything contained in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      22.61,
+      414.58,
+      76.81,
+      454.05
+    ],
+    "text": "Amendment ofsection 29 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200211",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.35,
+      56.55,
+      265.4,
+      81.89
+    ],
+    "text": "subsection (1), be his total statutory incomefor that year other than the \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.59,
+      89.55,
+      265.47,
+      126.89
+    ],
+    "text": "(a)statutory income from interest on whichincome tax has been deducted undersection 122A; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.59,
+      131.55,
+      265.44,
+      204.89
+    ],
+    "text": "(b)statutory income from dividends onwhich income tax has been deductedunder subsection (1A) of section 61,whether received directly form suchcompany which distributes the dividendor through any other company,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.35,
+      209.55,
+      265.48,
+      234.89
+    ],
+    "text": "subject to the deductions, specified in thissection :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      89.35,
+      242.19,
+      265.55,
+      359.33
+    ],
+    "text": "Provided however, where such incomefrom interest or dividends from which incometax has been deducted under section 122A orsubsection (1A) of section 61, as the case maybe, have been received by a person in thecourse of carrying on any trade or businessas a receipt from such trade or business, suchincome from interest or dividends shall formpart of the total statutory income of suchperson.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      41.59,
+      366.99,
+      200.87,
+      380.33
+    ],
+    "text": "(2)in subsection (2) of that section \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.59,
+      387.99,
+      265.37,
+      461.33
+    ],
+    "text": "(a)by the substitution, in paragraph (a) of thatsubsection for the words \u201cpayable by suchperson\u201d, of the words \u201cpayable for that yearof assessment being a year of assessmentcommencing prior to April 1, 2002 by suchperson.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.59,
+      468.99,
+      265.36,
+      494.33
+    ],
+    "text": "(b)by the insertion, immediately after paragraph(a) of that subsection of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      83.11,
+      501.99,
+      265.38,
+      527.33
+    ],
+    "text": "\u201c(aa) sums paid by such person for any yearof assessment commencing on or after",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200212",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.65,
+      56.55,
+      333.69,
+      93.89
+    ],
+    "text": "April 1, 2002 by way of an annuity,ground rent, royalty or interest notdeductible under section 23 :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.65,
+      104.55,
+      243.66,
+      117.89
+    ],
+    "text": "Provided that \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      180.17,
+      126.51,
+      333.77,
+      199.85
+    ],
+    "text": "(i) no deduction shall be allowed inrespect of any sum paid by way ofinterest, annuity, ground rent orroyalty by a person out of Sri Lankato another person out of SriLanka ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.41,
+      206.55,
+      333.77,
+      291.89
+    ],
+    "text": "(ii) where for any year of assessmentany such sum paid exceeds the totalstatutory income for that year, theexcess shall be treated for thepurposes of this section in the samemanner as a loss incurred in a tradeduring that year;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      174.65,
+      299.55,
+      333.76,
+      360.89
+    ],
+    "text": "(iii) where any sum is paid by suchperson by way of an annuity nodeduction shall be allowed inrespect of such sum unless suchannuity is \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      195.89,
+      368.55,
+      333.68,
+      405.89
+    ],
+    "text": "(a) paid under an order of court byway of payment of alimony ormaintenance ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      195.89,
+      412.47,
+      333.75,
+      437.81
+    ],
+    "text": "(b) paid to his spouse under a dulyexecuted deed of separation;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      196.49,
+      444.51,
+      333.76,
+      469.85
+    ],
+    "text": "(c) in return, for full considerationin money or moneys worth.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      477.51,
+      333.83,
+      528.05
+    ],
+    "text": "For the purposes of this paragraph the term \u201cinterest\u201d meansany interest paid during any year of assessment on any loanobtained from a bank, financial institution or any otherinstitution recognised by the Commissioner-General.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200213",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      56.19,
+      266.34,
+      81.05
+    ],
+    "text": "18. Section 30 of the principal enactment is herebyamended in subsection (1) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      88.23,
+      266.38,
+      112.97
+    ],
+    "text": "(1) by the repeal of paragraph (a) of that subsection andthe substitution of the following paragraph therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      37.15,
+      122.67,
+      143.02,
+      136.01
+    ],
+    "text": "\u201c(a)and allowance of \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      64.87,
+      143.19,
+      266.49,
+      179.57
+    ],
+    "text": "(i)one hundred and forty four thousand rupees,in respect of every year of assessmentcommencing prior to April 1, 2002; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.11,
+      186.63,
+      266.42,
+      223.01
+    ],
+    "text": "(ii)two hundred and forty thousand rupees, inrespect of every year of assessmentcommencing on or after April 1, 2002 ; \u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      230.55,
+      266.22,
+      255.89
+    ],
+    "text": "(2) by the insertion immediately after the first proviso tothat subsection of the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      41.35,
+      263.19,
+      266.43,
+      345.53
+    ],
+    "text": "\u201cProvided further, that any person who makes adeclaration under section 2 of the Inland Revenue (SpecialProvisions) Act, No. 7 of 2002, shall not, in ascertaininghis taxable income, be entitled to deduct any allowanceunder paragraph (b) on any investment or expendituremade or incurred relating to any investment made in suchdeclaration.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      355.11,
+      266.42,
+      379.97
+    ],
+    "text": "19.Section 31 of the principal enactment is herebyamended as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      41.59,
+      389.67,
+      195.99,
+      403.01
+    ],
+    "text": "(1)in subsection (2) of that section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.59,
+      407.19,
+      266.53,
+      454.97
+    ],
+    "text": "(a)in paragraph (h) of that subsection by thesubstitution for the words \u201cprojection on ascreen in a cinema.\u201d; of the words \u201cprojectionon a screen in a cinema ;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.59,
+      459.15,
+      266.38,
+      495.53
+    ],
+    "text": "(b)by the addition, immediately after paragraph(h) of that subsection, of the followingparagraphs :\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81.43,
+      500.07,
+      266.36,
+      525.41
+    ],
+    "text": "\u201c(i)any expenditure incurred, otherwise thanout of a loan referred to in paragraph (j)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      279.31,
+      58.66,
+      333.59,
+      98.13
+    ],
+    "text": "Amendment ofsection 30 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      277.39,
+      356.98,
+      331.67,
+      396.45
+    ],
+    "text": "Amendment ofsection 31 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200214",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      171.65,
+      56.55,
+      333.8,
+      117.89
+    ],
+    "text": "on or after April 1 , 2002, by an individualin either the construction or the purchaseof a house being in either case the firsthouse constructed or purchased by suchindividual on or after April 1, 2001 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      153.17,
+      125.55,
+      333.79,
+      220.49
+    ],
+    "text": "(j)any expenditure incurred, on or after April1, 2002, by an individual on therepayment of the capital of any approvedhousing loan either for the constructionor the purchase of a house being in eithercase the first house constructed orpurchased by such individual on or afterApril 1, 2001.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      171.65,
+      226.83,
+      333.79,
+      333.29
+    ],
+    "text": "For the purpose of this paragraph\u201capproved Housing loan\u201d means anyhousing loan obtained from theGovernment, or any banking institutionwithin the meaning of the Monetary LawAct, or any Provincial Fund, any localauthority or any other institution approvedby the Minister in charge of the subjectof Housing.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.89,
+      340.11,
+      331.19,
+      353.45
+    ],
+    "text": "(2)in paragraph (a) of subsection (4) of that section \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      132.89,
+      360.39,
+      333.76,
+      409.85
+    ],
+    "text": "(a)in sub-paragraph (v) of that paragraph by thesubstitution for the words \u201ctwenty fivethousand rupees\u201d, of the words \u201ctwenty-fivethousand rupees ;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      132.89,
+      414.51,
+      333.75,
+      451.85
+    ],
+    "text": "(b)by the insertion immediately aftersub-paragraph (v) of that subsection of thefollowing sub-paragraph :\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      149.69,
+      456.51,
+      333.72,
+      527.81
+    ],
+    "text": "\u201c(vi)in respect of all qualifying paymentsreferred to in paragraphs (i) and (j) ofsubsection (2) made by him in that yearof assessment, shall not exceed one-thirdof the assessable income or one hundredthousand rupees which ever is less.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200215",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      41.59,
+      56.67,
+      266.29,
+      82.37
+    ],
+    "text": "(3)by the addition immediately after subsection (6) ofthat section of the following subsection :\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      62.35,
+      93.63,
+      266.49,
+      229.97
+    ],
+    "text": "\u201c(6A)The excess of the allowance of anyqualifying payment referred to in paragraph (i) ofsubsection (2) which cannot be deducted from theassessable income in the year of assessment in whichsuch expenditure is incurred may be apportionedover a period of not more than nine yearsimmediately succeeding the year of assessment inwhich such expenditure was incurred and suchapportioned amount shall be deemed to be aqualifying payment made in each such year ofassessment.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      241.23,
+      266.47,
+      266.81
+    ],
+    "text": "20.Section 32 of the principal enactment is herebyamended as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      41.59,
+      278.07,
+      266.38,
+      340.61
+    ],
+    "text": "(1)in subsection (1) of that section, by the substitution,in paragraph (a) of that subsection, for the wordsand figures \u201cPart I of the First Schedule\u201d, of thewords and figures \u201cParts I and IA of the FirstSchedule\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      41.59,
+      351.87,
+      195.99,
+      365.21
+    ],
+    "text": "(2)in subsection (2) of that section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.59,
+      376.47,
+      266.35,
+      426.77
+    ],
+    "text": "(a)by the substitution, for the words and figures,\u201cPart III of the First Schedule\u201d, of the wordsand figures \u201cParts III and IIIA of the FirstSchedule\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.59,
+      438.03,
+      266.46,
+      525.17
+    ],
+    "text": "(b)in the proviso to that subsection by thesubstitution for all the words from \u201csuch sum\u201d,to the end of that proviso, of the words \u201csuchsum shall be chargeable with income tax inthe manner provided for in subsection (3) asif the references in that subsection to \u2018capitalgain\u2019 were references to \u2018such sum\u2019;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      277.39,
+      242.98,
+      331.67,
+      282.45
+    ],
+    "text": "Amendment ofsection 32 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200216",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.89,
+      56.67,
+      333.74,
+      115.97
+    ],
+    "text": "(3)in subsection (4) of that section, by the substitution,for the words \u201ca person includes any capital gain\u201d,of the words \u201ca person, for any year of assessmentcommencing prior to April 1, 2002, includes anycapital gain\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.89,
+      125.43,
+      333.74,
+      184.37
+    ],
+    "text": "(4)in subsection (5) of that section, by the substitution,for the words \u201ca person includes any capital gain\u201d,of the words and figures\u201ca person, for any year ofassessment commencing prior to April 1, 2002,includes any capital gain\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.89,
+      193.83,
+      333.67,
+      252.77
+    ],
+    "text": "(5)in subsection (6) of that section, by the substitution,for the words \u201ca person includes any capital gains\u201d,of the words and figures\u201ca person, for any year ofassessment commencing prior to April 1, 2002,includes any capital gain\u201d;.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      262.23,
+      333.64,
+      309.77
+    ],
+    "text": "21.The following new sections are hereby insertedimmediately after section 40 of the principal enactment andshall have effect as sections 40A and 40B respectively of thatenactment :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.65,
+      319.23,
+      333.79,
+      446.57
+    ],
+    "text": "40A.(1) Where the taxable income of anycompany carrying on the business of aspecialized housing bank for any year ofassessment commencing on or after April 1,2002 includes any profits and income withinthe meaning of paragraph (a) of section 3 fromsuch business such part of such taxable incomeas consists of such profits and income, shall,notwithstanding anything to the contrary in thisAct, be chargeable with income tax at the rateof twenty per centum.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.65,
+      456.03,
+      333.81,
+      526.37
+    ],
+    "text": "(2) For the purposes of this section\u201cspecialized housing bank\u201d means a licensedcommercial or specialized bank within themeaning of the Banking Act, No. 30 of 1988which is engaged in lending money only foractivities relating to residential housing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      322.06,
+      135.66,
+      378.21
+    ],
+    "text": "\u2018Rate ofincome taxapplicable tospecializedhousingbanks.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      265.06,
+      76.0,
+      314.13
+    ],
+    "text": "Insertion of newsections 40A and40B of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200217",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.35,
+      56.07,
+      266.47,
+      160.73
+    ],
+    "text": "40B.(1) The profits and income within themeaning of paragraph (a) of section 3 of anycompany referred to in section 21B for any yearof assessment commencing after the expiry ofthe period during which the profits and incomeof such company were exempt from income taxshall, notwithstanding anything contained in thisAct, be chargeable with income tax at the rateof fifteen per centum.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.35,
+      168.87,
+      266.49,
+      216.41
+    ],
+    "text": "(2) The profits and income within the meaningof paragraph (a) of section 3 of any companyreferred to in section 21A, shall notwithstandinganything containing in this Act, for \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.924593925476074,
+      9.899495124816895
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.59,
+      223.59,
+      266.36,
+      282.65
+    ],
+    "text": "(a)each of the two years of assessmentimmediately succeeding the period duringwhich the profits and income of suchcompany were exempt from income tax,be taxed at the rate of ten per centum ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.59,
+      286.71,
+      266.29,
+      323.09
+    ],
+    "text": "(b)every year of assessment commencingafter the expiry of the period referred to inparagraph (a) \u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      100.87,
+      328.23,
+      266.44,
+      375.89
+    ],
+    "text": "(i)if such company is a companyengaged in agriculture or the exportof non-traditional products, be taxedat fifteen per centum ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      98.11,
+      380.07,
+      266.3,
+      439.13
+    ],
+    "text": "(ii)if such company is a company otherthan a company engaged inagriculture or the export of non-traditional products, be taxed attwenty per centum.\u2019.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      446.19,
+      266.66,
+      482.45
+    ],
+    "text": "22.The following new section is hereby insertedimmediately after section 48 of the principal enactment andshall have effect as section 48A of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.35,
+      489.51,
+      266.39,
+      525.89
+    ],
+    "text": "48A. Where the taxable income of anyperson (other than a company) for any year ofassessment includes a dividend declared on or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      56.98,
+      68.36,
+      134.85
+    ],
+    "text": "Rate ofincome taxapplicable tocertaincompaniesafter theexpiry of taxexemption.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      277.39,
+      449.02,
+      335.24,
+      488.49
+    ],
+    "text": "Insertion of newsection 48A in theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      27.31,
+      490.66,
+      73.53,
+      530.13
+    ],
+    "text": "\u201cRate ofincome tax oncertaindividends.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200218",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.65,
+      56.79,
+      333.53,
+      107.33
+    ],
+    "text": "after April 1, 2002 in the form of shares ordebentures, the taxable income representingsuch dividend shall be taxed at the rate of tenper centum.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      118.83,
+      333.91,
+      156.89
+    ],
+    "text": "23.Section 53 of the principal enactment amended byAct, No. 8 of 2001, is hereby further amended in subsection(1) of that section as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.89,
+      168.39,
+      333.77,
+      206.57
+    ],
+    "text": "(1)in paragraph (a) of that subsection, by thesubstitution for the words \u201cto this Act ; and\u201d, of thewords \u201cto this Act ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      129.65,
+      217.95,
+      333.73,
+      305.69
+    ],
+    "text": "Provided that where the income tax payable by acompany for any year of assessment commencingon or after April 1, 2002 exceeds one million rupees,the amount by which the income tax payable by suchcompany exceeds one million rupees shall not bemore than the amount by which the taxable incomeof such company exceeds five million rupees ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.89,
+      317.19,
+      333.77,
+      380.09
+    ],
+    "text": "(2)in paragraph (b) of that subsection, by thesubstitution for the words \u201cin that year ofassessment\u201d, of the words and figures \u201cin that yearof assessment being a year of assessmentcommencing prior to April 1, 2002 ;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.89,
+      391.59,
+      333.65,
+      417.29
+    ],
+    "text": "(3)by the insertion, immediately after paragraph (b) ofthat subsection of the following paragraph :\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      129.41,
+      428.79,
+      333.73,
+      529.13
+    ],
+    "text": "\u201c(bb)equal to ten per centum of the aggregateamount of the gross dividends distributed bysuch company in that year of assessment;being an year of assessment commencingon or after April 1, 2002 out of the profitson which the taxable income of suchcompany is computed for any year ofassessment ;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      22.61,
+      120.58,
+      76.81,
+      160.05
+    ],
+    "text": "Amendment ofsection 53 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200219",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      41.59,
+      56.67,
+      266.41,
+      106.97
+    ],
+    "text": "(4)in paragraph (c) of that subsection by the substitutionfor the words \u201cthat year of assessment\u201d, of the words\u201cthat year of assessment being an year of assessmentcommencing prior to April 1, 2002 ;\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      118.23,
+      266.5,
+      180.77
+    ],
+    "text": "24.Section 54 of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words \u201cfor every year of assessment\u201d of the words\u201cfor every year of assessment commencing prior to April 1,2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      192.03,
+      266.54,
+      254.57
+    ],
+    "text": "25.Section 57 of the principal enactment is herebyamended in paragraph (a) of subsection (1) of that section bythe substitution for the words \u201cspecified in the SecondSchedule; and\u201d of the words \u201cspecified in the Second Scheduleto this Act :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      41.35,
+      265.83,
+      266.5,
+      352.97
+    ],
+    "text": "Provided that where the inocme tax payable by suchcompany for any year of assessment on or after April 1,2002 exceeds one million rupees, the amount by whichthe income tax payable by such company exceeds onemillion rupees shall not be more than the amount by whichthe taxable income of such company exceeds five millionrupees.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      364.23,
+      266.42,
+      402.17
+    ],
+    "text": "26.Section 60 of the principal enactment is herebyamended by the substitution for all the words from \u201cwhichbecomes payable to fifteen per centum\u201d of the words :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      413.43,
+      266.59,
+      525.17
+    ],
+    "text": "\u201cwhich becomes payable in any year of assessmentcommencing prior to March 31, 2002 to any non residentperson if the relevant dividend consists of the whole or anypart of the amount of a dividend not being the whole or anypart of a dividend which is exempt from income tax underthis Act, distributed by any quoted public company on orbefore March 31, 2002 and received either directly or throughone or more intermediary companies, by such residentcompany, income tax equivalent to ten per centum.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      278.35,
+      121.06,
+      320.48,
+      170.13
+    ],
+    "text": "Amendmentof section 54of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      277.39,
+      193.06,
+      331.67,
+      232.53
+    ],
+    "text": "Amendment ofsection 57 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      278.35,
+      367.06,
+      332.63,
+      406.53
+    ],
+    "text": "Amendment ofsection 60 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200220",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      55.95,
+      333.68,
+      80.57
+    ],
+    "text": "27. Section 61 of the principal enactment is herebyamended as follows :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.89,
+      89.55,
+      333.7,
+      136.49
+    ],
+    "text": "(1)in subsection (1) of that section, by the substitutionfor the words \u201cpayable to any shareholder\u201d of thewords\u201cpayable to a shareholder in any year ofassessment commencing prior to April 1, 2002\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.89,
+      145.59,
+      333.5,
+      170.09
+    ],
+    "text": "(2)by the insertion, immediately after subsection (1) ofthat section, of the following subsection :\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      129.65,
+      179.19,
+      333.78,
+      259.73
+    ],
+    "text": "\u201c(1A) Every resident company, shall be entitledto deduct from the amount of any gross dividendpayable to any shareholder, on or after April 1, 2002,in the form of money or an order to pay money outof profits on which the taxable income of thatcompany is computed for any year of assessment,income tax equal to ten per centum.\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.89,
+      268.71,
+      333.66,
+      304.49
+    ],
+    "text": "(3)in subsection (6) of that section, by the substitution,for the words and figures \u201cunder subsection (1)\u201d, ofthe words and figures \u201cunder subsection (1) or (1A)\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      313.59,
+      333.8,
+      371.69
+    ],
+    "text": "28.Section 122 of the principal enactment is herebyamended in subsection (1) of that section, by the substitutionfor the words \u201cin any year of assessment\u201d, of the words andfigures \u201cin any year of assessment commencing prior to April1, 2002\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      379.59,
+      333.69,
+      415.25
+    ],
+    "text": "29.The following new section is hereby insertedimmediately after section 122 of the principal enactment andshall have effect as section 122A of that enactment :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.65,
+      424.35,
+      333.76,
+      493.73
+    ],
+    "text": "122A. (1) Every bank or financial institutionshall, subject to the provisions of this Chapter,deduct at the time of payment, from the interestpayable by it in any year of assessmentcommencing on or after April 1, 2002, on anysum of money \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.89,
+      502.71,
+      333.64,
+      527.33
+    ],
+    "text": "(a)deposited with it by any person orpartnership in his or its own name or in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      21.65,
+      58.06,
+      75.93,
+      97.53
+    ],
+    "text": "Amendment ofsection 61 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      22.61,
+      316.06,
+      80.9,
+      355.53
+    ],
+    "text": "Amendment ofsection 122 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      94.61,
+      426.46,
+      142.39,
+      485.13
+    ],
+    "text": "\u201cBank orfinancialinstitution todeduct incometax on interestpaid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      22.61,
+      382.06,
+      75.66,
+      421.53
+    ],
+    "text": "Insertion of newsection 122A inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200221",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      101.35,
+      56.19,
+      266.42,
+      92.57
+    ],
+    "text": "the name of any other person or withoutthe name of any person or partnership ;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.59,
+      102.15,
+      266.43,
+      138.53
+    ],
+    "text": "(b)the interest payable on which is not lessthan six thousand rupees per month orseventy two thousand rupees a year,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      148.23,
+      266.49,
+      184.49
+    ],
+    "text": "income tax at the rate of ten per centum on thetotal amount of the interest earned on suchdeposit :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      191.67,
+      266.52,
+      285.53
+    ],
+    "text": "Provided however, the provisions of thissection shall not apply in respect of a institutioncertified by the Commissioner - General, as acharitable institution on any interest which isnot in excess of twelve thousand rupees permonth or one hundred and forty four thousandrupees a year accruing to such institution on anydeposit :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      292.71,
+      266.49,
+      432.53
+    ],
+    "text": "Provided further that where a person or apartnership requests in writing to a bank orfinancial institution to deduct income tax at therate of ten per centum from any interest payableto such person or partnership in any year ofassessment, on a sum of money deposited bysuch person or partnership with such bank orfinancial institution, then such bank or financialinstitution shall comply with such requestnotwithstanding that the interest payable on suchsum of money for that year of assessment is lessthan seventy two thousand rupees.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      442.11,
+      266.48,
+      466.97
+    ],
+    "text": "(2) For the purposes of a deduction underthis section \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.59,
+      476.67,
+      266.46,
+      524.45
+    ],
+    "text": "(a)\u201cinterest\u201d in relation to the deposit of a sumof money includes interest, discount or anyother amount payable to, or accruing tothe benefit of the person or partnership in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200222",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      168.65,
+      56.07,
+      333.78,
+      149.21
+    ],
+    "text": "whose name, or on whose behalf the sumof money is deposited but does not includeany interest exempt under section 10 orany interest payable to any Ministry,Government Department or any localgovernment institution or any institutionunder a Provincial Council or any ForeignGovernment ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.89,
+      156.27,
+      333.7,
+      192.41
+    ],
+    "text": "(b)in the case of a discount, interest shall bedeemed to have been paid at the time suchdiscount is allowed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.65,
+      201.87,
+      333.79,
+      306.41
+    ],
+    "text": "(3) Where the Commissioner-General issatisfied that any bank or financial institutionhas devised a method to contravene theprovisions of subsection (1) as regards thededuction of tax, the Commissioner-Generalmay impose on such bank or financial institutiona penalty of a sum equivalent to five hundredper centum of the tax avoided by the use of suchmethod.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.65,
+      314.55,
+      333.66,
+      373.49
+    ],
+    "text": "For the avoidance of doubt it is herebydeclared that \u201cdeduct at the time of paymentfrom the interest payable\u201d in subsection (1) shallinclude any amount of interest credited to anyaccount.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      382.95,
+      333.81,
+      441.89
+    ],
+    "text": "30. Section 124 of the principal enactment is herebyamended in subsection (1) of that section, by the substitution,for the words \u201cany year of assessment is less\u201d, of the words\u201cany year of assessment commencing prior to April 1, 2002is less\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      451.95,
+      333.9,
+      488.45
+    ],
+    "text": "31.Section 131 of the principal enactment amended byAct, No. 8 of 2001 is hereby further amended in subsection(2) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.89,
+      499.11,
+      333.7,
+      524.45
+    ],
+    "text": "(1)in paragraph (b) of the definition of \u201cspecified fee\u201d,by the substitution for the words and figures \u201cto any",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      21.65,
+      385.66,
+      79.94,
+      425.13
+    ],
+    "text": "Amendment ofsection 124 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      21.65,
+      455.62,
+      79.94,
+      495.09
+    ],
+    "text": "Amendment ofsection 131 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200223",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      62.35,
+      57.03,
+      265.33,
+      95.69
+    ],
+    "text": "year of assessment commencing on or after April 1,2001\u201d, of the words and figures \u201cto the year ofassessment commencing on April 1, 2001\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      41.59,
+      107.79,
+      265.36,
+      133.85
+    ],
+    "text": "(2)by the addition at the end of that subsection of thefollowing :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      63.19,
+      145.83,
+      265.48,
+      184.61
+    ],
+    "text": "(c)in relation to any year of assessmentcommencing on or after April 1, 2002, meansany sum or sums aggregating to not less than\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.87,
+      196.71,
+      254.74,
+      210.05
+    ],
+    "text": "(i)fifty thousand rupees per month ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      83.11,
+      222.03,
+      265.28,
+      248.09
+    ],
+    "text": "(ii)five hundred thousand rupees a year inany other case,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      83.35,
+      260.19,
+      265.52,
+      476.69
+    ],
+    "text": "payable by any specified person in that year ofassessment to any person or partnership inconsideration of services rendered by thatperson or partnership as the case may be, inthe course of any business, profession, vocationor other activities of an independent charactercarried on or exercised by that person orpartnership, as the case may be, and includesany commission, brokerage or other sums oflike nature payable by such specified person,but does not include any sum payable by suchspecified person to any employee of suchspecified person in the course of employmentunder such specified person or any rent or otherpayment payable for the use or occupation ofany specified land or building as defined insubsection (2) of section 131B.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      26.35,
+      488.79,
+      265.6,
+      527.45
+    ],
+    "text": "32.The following new Chapter is hereby insertedimmediately after Chapter XVI of the principal enactmentand shall have effect as Chapter XVIA of that enactment :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      278.35,
+      490.66,
+      334.49,
+      530.13
+    ],
+    "text": "Insertion of newChapter XVIA inthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200224",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      175.01,
+      56.31,
+      252.11,
+      69.65
+    ],
+    "text": "\u201cCHAPTER XVIA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      79.95,
+      333.65,
+      93.29
+    ],
+    "text": "DEDUCTION OF INCOME TAX FROM RENT, LEASE RENT OR OTHER",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      91.95,
+      333.65,
+      105.29
+    ],
+    "text": "PAYMENT PAID BY ANY PERSON OR PARTNERSHIP FOR THE USE OR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      103.95,
+      333.65,
+      117.29
+    ],
+    "text": "OCCUPATION OF ANY LAND OR BUILDING OTHER THAN FOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      172.61,
+      115.95,
+      254.58,
+      129.29
+    ],
+    "text": "RESIDENTIAL PURPOSES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      147.65,
+      139.95,
+      333.8,
+      237.29
+    ],
+    "text": "131A. Every person or partnership payingany rent, lease rent or other payment for the useor occupation otherwise than as a residence, ofany specified land or building on or after April1, 2002 shall deduct at the time of the paymentof such rent, lease rent or other payment, incometax at the rate of ten per centum of such rent,lease rent or other payment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      147.65,
+      247.95,
+      333.88,
+      525.29
+    ],
+    "text": "131B. (1) The provisions of Chapter XVrelating to the deduction of income tax frominterest paid by banks and financial institutions,credit for income tax so deducted, duties ofbanks and financial institutions, default in thededuction of income tax, issue of assessmentson banks and financial institutions, appeals andpenalty for default shall, mutatis mutandis applyto the deduction of income tax from such rent,lease rent or other payments as is mentioned insection 131A, credit for income tax so deducted,duties of persons liable to pay such rent, leaserent, or other payment, default in the deductionof income tax, issue of assessments on suchpersons, appeals and penalty for default underthis Chapter, as if there were substituted inChapter XV for the words \u201cbanks and financialinstitutions\u201d of the words \u201cpersons liable to paysuch rent, lease rent or other payment\u201d and forthe word \u201cinterest\u201d of the words \u201crent, lease rentor other payment\u201d wherever they appear in thatChapter, subject however, to the modificationthat credit for income tax deducted under the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      94.61,
+      140.98,
+      139.11,
+      190.05
+    ],
+    "text": "Personspaying rent,lease rent etc.to deductincome tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      94.61,
+      251.02,
+      137.21,
+      309.69
+    ],
+    "text": "Applicationof theprovisions ofChapter XVto thisChapter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200225",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      80.35,
+      55.83,
+      266.42,
+      124.25
+    ],
+    "text": "provisions of this Chapter by any person fromany rent, lease rent or any other payment paidto any co-owners of such property shall beapportioned among such co-owners inproportion to their rights of ownership in suchproperty.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      92.35,
+      132.87,
+      247.87,
+      146.21
+    ],
+    "text": "(2) For the purposes of this Chapter\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      80.35,
+      154.83,
+      266.43,
+      234.17
+    ],
+    "text": "\u201cspecified land or building\u201d means a land orbuilding in respect of which the amount of rent,lease rent or other payment payable for anycalendar month or part thereof is not less thanfifty thousand rupees or the aggregate rent, leaserent or other payment payable for any year isnot less than five hundred thousand rupees.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      26.35,
+      242.91,
+      266.53,
+      289.25
+    ],
+    "text": "33.Section 186 of the principal enactment is herebyamended in the definition of \u201cexecutive officer\u201d by thesubstitution for the words \u201cnot less than five thousand rupees\u201d;of the words \u201cnot less than twenty thousand rupees;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      26.35,
+      297.87,
+      266.85,
+      333.17
+    ],
+    "text": "34.The First Schedule to the principal enactmentamended by Act, No. 8 of 2001 is hereby further amended asfollows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      41.59,
+      341.91,
+      266.62,
+      388.25
+    ],
+    "text": "(1)In Part I of that Schedule by the substitution for thewords and figures \u201creferred to in Part II\u201d of the wordsand figures \u201creferred to in Part II for any year ofassessment commencing prior to April 1, 2002\u201d ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      41.59,
+      394.83,
+      266.25,
+      419.21
+    ],
+    "text": "(2)by the insertion immediately after Part I of thatSchedule of the following Part :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      124.39,
+      427.83,
+      168.28,
+      441.17
+    ],
+    "text": "\u201cPART 1A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      62.35,
+      449.91,
+      266.45,
+      485.21
+    ],
+    "text": "Individuals other than those referred to in Part II,for any year of assessment commencing on or afterApril 1, 2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      74.35,
+      494.55,
+      259.38,
+      507.89
+    ],
+    "text": "On the first Rs. 180,000 of the taxable income",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      208.99,
+      515.55,
+      266.37,
+      528.89
+    ],
+    "text": "10 per centum",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      277.39,
+      244.66,
+      335.68,
+      284.13
+    ],
+    "text": "Amendment ofsection 186 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      277.39,
+      298.06,
+      337.12,
+      337.53
+    ],
+    "text": "Amendment ofthe Fifth Scheduleto the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200226",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      141.65,
+      56.55,
+      328.1,
+      69.89
+    ],
+    "text": "On the next Rs. 180,000 of the taxable income",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      276.29,
+      79.23,
+      333.67,
+      92.57
+    ],
+    "text": "20 per centum",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      141.65,
+      99.39,
+      333.64,
+      112.73
+    ],
+    "text": "on the balance35 per centum\u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      108.89,
+      121.83,
+      333.8,
+      179.93
+    ],
+    "text": "(3)In Part III of that Schedule by the substitution forthe words and figures \u201csubsection (2) of section 32\u201d,of the words and figures \u201csubsection (2) of section32 for every year of assessment commencing priorto April 1, 2002\u201d ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      108.89,
+      186.75,
+      333.69,
+      211.37
+    ],
+    "text": "(4)by the addition at the end of that Schedule, of thefollowing :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      185.45,
+      220.35,
+      241.85,
+      233.69
+    ],
+    "text": "\u201cPARTIIIA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      129.65,
+      242.79,
+      333.83,
+      289.73
+    ],
+    "text": "The rate of income tax applicable to certain profitsfrom employment specified in subsection (2) ofsection 32, for any year of assessment commencingon or after April 1, 2002\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      129.65,
+      298.71,
+      333.65,
+      345.65
+    ],
+    "text": "on the first Rs. 1,000,000\u2026Nilon the next Rs. 500,000\u20265 per centumon the next Rs. 500,000\u202610 per centumon the balance\u202615 per centum.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      93.65,
+      354.75,
+      333.82,
+      379.25
+    ],
+    "text": "35.The Second Schedule to the principal enactment ishereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      108.89,
+      388.35,
+      333.65,
+      446.45
+    ],
+    "text": "(1)by the substitution, for the words \u201cunit trust andmutual fund\u201d, enactment of the words and figures\u201cunit trust and mutual fund for every year ofassessment commencing prior to April 1, 2002\u201d ;and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      108.89,
+      455.55,
+      333.69,
+      480.65
+    ],
+    "text": "(2)by the addition, at the end of that Schedule of thefollowing :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      129.65,
+      488.31,
+      333.71,
+      525.65
+    ],
+    "text": "\u201ccompany, including unit trust and mutual fund forevery year of assessment commencing on or afterApril 1, 2002\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      22.61,
+      358.06,
+      81.35,
+      397.53
+    ],
+    "text": "Amendment ofthe First Scheduleto the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      85.51,
+      20.55,
+      266.35,
+      45.78
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200227",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      62.35,
+      56.55,
+      265.43,
+      105.89
+    ],
+    "text": "where the taxable income of the company, unit trustor mutual fund does not exceed Rs. 5,000,000 inthat year of assessment20 per centum",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      62.35,
+      116.55,
+      265.42,
+      165.89
+    ],
+    "text": "where the taxable income of the company, unit trustor mutual fund exceeds Rs. 5,000,000 in that yearof assessment35 per centum.\u201d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      176.55,
+      265.55,
+      213.89
+    ],
+    "text": "36.The Fifth Schedule to the principal enactment ishereby amended by the substitution for the words \u201cadvancecompany tax shall be as follows :\u2014\u201d of the following :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      62.35,
+      224.55,
+      265.47,
+      261.89
+    ],
+    "text": "\u201cadvance company tax for every year of assessmentcommencing on or after April 1, 2000 but prior toApril 1, 2002 shall be as follows :\u2014.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      272.55,
+      265.5,
+      369.89
+    ],
+    "text": "37.(1) Any person who, or any partnership which,deducts tax and remits such tax to the Commissioner-Generalas provided for in section 122A, 131 or 131A, as the case maybe during the period commencing on April 1, 2002 to thedate of commencement of this Act, shall be deemed to haveacted with due authority and is hereby indemnified from anycivil or criminal prosecution in respect of such deduction andremittance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      380.55,
+      265.69,
+      477.89
+    ],
+    "text": "(2) Any bank or financial institution which for reasonsbeyond its control has been unable to deduct such tax as isprovided for in section 122A for the period commencing onApril 1, 2002 to the date of commencement of this Act, shallwhere the Commissioner-General is satisfied that the inabilityto deduct such tax was for reasons beyond the control of suchbank or financial institution, be deemed not to havecontravened the said provisions of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      26.35,
+      488.55,
+      265.27,
+      513.89
+    ],
+    "text": "38.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      278.35,
+      179.02,
+      328.77,
+      228.09
+    ],
+    "text": "Amendment ofthe FifthSchedule to theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      277.39,
+      275.02,
+      312.37,
+      285.69
+    ],
+    "text": "Indemnity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      278.35,
+      491.02,
+      333.81,
+      520.89
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      93.65,
+      20.55,
+      274.59,
+      46.74
+    ],
+    "text": "Inland Revenue (Amendment)Act, No. 10 of 200228",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      21.65,
+      486.58,
+      333.67,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

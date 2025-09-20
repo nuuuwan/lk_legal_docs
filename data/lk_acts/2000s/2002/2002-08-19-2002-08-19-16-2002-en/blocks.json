@@ -1,0 +1,3081 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      26.35,
+      516.6,
+      331.97,
+      530.45
+    ],
+    "text": "Price : Rs. 15.00 Postage : Rs. 6.75",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.95,
+      480.12,
+      292.74,
+      492.13
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.39,
+      495.96,
+      306.19,
+      507.97
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 01",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      7.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.83,
+      124.38,
+      316.77,
+      181.16
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.31,
+      228.62,
+      253.41,
+      264.81
+    ],
+    "text": "DEBITS TAXACT, No. 16 OF 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.95,
+      325.8,
+      251.02,
+      339.65
+    ],
+    "text": "[Certified on 19th August, 2002]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.39,
+      357.57,
+      255.48,
+      369.78
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      40.03,
+      426.51,
+      324.61,
+      452.45
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of August 23, 2002",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.91,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20021",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      374.98,
+      325.83,
+      385.65
+    ],
+    "text": "Liability to tax",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.95,
+      50.31,
+      211.73,
+      63.65
+    ],
+    "text": "[Certified on 19th August, 2002]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      70.83,
+      102.21,
+      84.17
+    ],
+    "text": "L. D. O.\u2013 22/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      91.47,
+      266.35,
+      104.81
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE IMPOSITION OF A TAX ON DEBITS FROM",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      103.11,
+      266.34,
+      116.45
+    ],
+    "text": "CERTAIN ACCOUNTS IN COMMERCIAL BANKS AND ON SUMS REALIZED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      114.63,
+      266.36,
+      127.97
+    ],
+    "text": "BY THE ENCASHMENT OF CERTIFICATES OF DEPOSIT AND TRAVELLERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      126.27,
+      266.37,
+      139.61
+    ],
+    "text": "CHEQUES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.35,
+      137.91,
+      194.45,
+      151.25
+    ],
+    "text": "AND INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      161.43,
+      266.41,
+      186.41
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      193.71,
+      266.23,
+      218.57
+    ],
+    "text": "1. This Act may be cited as the Debits Tax Act, No. 16 of2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      225.87,
+      266.39,
+      250.85
+    ],
+    "text": "2. Subject to the provisions of section 13, there shall becharged and levied,\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      256.11,
+      266.32,
+      292.61
+    ],
+    "text": "(a)the total amount of the debits made during eachcalendar month against each current accountmaintained at a commercial bank ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      297.87,
+      266.38,
+      322.85
+    ],
+    "text": "(b)an amount ; realized by the encashment of a certificateof deposit or travellers cheque,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.35,
+      328.11,
+      266.5,
+      364.61
+    ],
+    "text": "a tax to be called a debits tax, at the rate of one tenth ofone per centum of the amount of the total debit or theamount encashed, as the case may be.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      371.91,
+      246.64,
+      385.85
+    ],
+    "text": "3.The debits tax imposed under section 2 shall \u2013 ;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      392.43,
+      266.24,
+      440.57
+    ],
+    "text": "(a)in the case of a debit from a current accountmaintained at a commercial bank, be paid by theperson or persons in whose name or names thataccount is maintained ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.59,
+      447.87,
+      266.43,
+      484.37
+    ],
+    "text": "(b)in the case of an amount realized by the encashmentof a certificate of deposit, be paid by the holder ofthe certificate ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.19,
+      491.67,
+      266.43,
+      528.41
+    ],
+    "text": "(c)in the case of an amount realized by the encashmentof a travellers cheque, be paid by the personpresenting the travellers cheque for encashment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      194.98,
+      312.2,
+      205.65
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      227.86,
+      321.65,
+      248.13
+    ],
+    "text": "Imposition ofdebits tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      536.98,
+      129.73,
+      547.65
+    ],
+    "text": "2\u2014H 015522\u20148,600 (2002/06)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20022",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      50.98,
+      68.72,
+      80.85
+    ],
+    "text": "Commencementof liability topay debits tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      176.38,
+      65.42,
+      235.05
+    ],
+    "text": "\u201cLibiltiy offinancialinstitutions tocollect andremit debitstax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      257.98,
+      68.54,
+      287.85
+    ],
+    "text": "Collection andremittance ofdebit tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      50.67,
+      333.74,
+      64.61
+    ],
+    "text": "4.The liability of a person to pay the debits tax shall\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.01,
+      75.03,
+      333.68,
+      112.85
+    ],
+    "text": "(a)in the case of a debit from a current accountmaintained at a commercial bank, commence at theend of the month in which the debit was made ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.01,
+      123.87,
+      333.73,
+      161.57
+    ],
+    "text": "(b)in the case of an amount realized by the encashmentof a certificate of deposit or travellers cheque,commence immediately upon such encashment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      172.47,
+      333.76,
+      245.33
+    ],
+    "text": "5.Every commercial bank, specialised bank, financecompany or authorised dealer shall be liable to collect thedebits tax arising out of current account trasactions,enacashment of certificates of deposit and travellers chequesand remit the same in accordance with the provisions of thisAct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      255.75,
+      333.81,
+      328.61
+    ],
+    "text": "6.(1) Every commercial bank shall, at the beginning ofevery month, withdraw from every current account maintainedat that bank, a sum equal to the sum payable as debits taxfrom that account in the preceding month, and shall remitsuch sum to the Commissioner - General, on or before thelast working day of each month.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      339.03,
+      333.82,
+      376.25
+    ],
+    "text": "Provided that, if the beginning of any month falls on anon-working day, such withdrawal may be made on the firstworking day thereafter :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      383.79,
+      333.84,
+      420.89
+    ],
+    "text": "Provided further that, debits tax should not be withdrawnfrom a current account if the tax liability of a current accountduring a particular month is less than rupees ten.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      429.51,
+      333.84,
+      526.13
+    ],
+    "text": "(2) Every commercial bank, specialized bank, financecompany, or authorized dealer shall, on the encashment of acertificate of deposit or travellers cheque, deduct from theamount realized by such encashment, a sum equal to the debitstax payable on such amount and shall remit such sum to theCommissioner - General, on or before the last working dayof each month following the month in which the certificateof deposit or travellers cheque was encashed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.91,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      50.07,
+      266.54,
+      165.17
+    ],
+    "text": "(3) Where any sum is withdrawn and remitted undersubsection (1) or deducted and remitted under subsection (2),in payment of the debits tax, such payment shall be deemedto be made with the authority of the person or persons inwhose name or names the current account is being maintainedat the commercial bank, the person who is the holder of thecertificate of deposit or the person presenting the travellerscheque for encashment, as the case may be, and shall, subjectto the provisions of subsection (2) of section 10, be a validdischarge of that persons liability to pay the debits tax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      172.11,
+      266.54,
+      321.05
+    ],
+    "text": "(4) Where owing to there being no funds in a currentaccount or there being an insufficiency of funds in a currentaccount, the commercial bank in which such account is beingmaintained is unable to collect the debits tax in full or part,payable on the debits made from that account in theimmediately preceding month, the bank shall report to theCommissioner-General, on or before the last working day ofeach month in which the default occurs, the names and addressor the names and addresses of the person or persons in whosename or names the account is being maintained, the totalamount of the debits made from that account in theimmediately preceding month and the debits tax payable onthat amount :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      325.95,
+      266.53,
+      373.25
+    ],
+    "text": "Provided that the commercial bank may differ the makingof such report as aforesaid for a period of two months, in theevent that the debits tax so payable can be recovered withinsuch period of two months.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      380.19,
+      266.55,
+      472.61
+    ],
+    "text": "(5) Nothing in the preceding provisions of this section shallbe deemed to authorize a commercial bank to refuse to payout of the funds in any current account maintained at thatbank, the whole or part of any amount of which payment isdemanded by cheque, draft, order or other instruction of theperson or persons in whose name or names that account isbeing maintained, on the ground only that debits tax on thedebits made from that account, has to be paid :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      479.55,
+      266.4,
+      526.85
+    ],
+    "text": "Provided however, any amount of debits tax due to beremitted to the Commissioner-General shall be recoveredbefore the payment of such cheque, draft, order or otherinstruction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20024",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      50.98,
+      78.9,
+      71.25
+    ],
+    "text": "Cessation of bankliability.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      121.06,
+      67.14,
+      141.33
+    ],
+    "text": "Tax deductioncertificate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      50.07,
+      333.85,
+      108.65
+    ],
+    "text": "7.Where the holder of a current account fails to providesufficient funds to meet the debits tax payable by him in termsof this Act, the banks liability for the collection of debits taxceases upon the bank reporting such fact to the Commissioner-General.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      117.87,
+      333.75,
+      153.77
+    ],
+    "text": "8. (1) A person who pays debits tax in terms of this Act,may on request obtain a \u201cTax Deduction Certificate\u201d fromthe person deducting such tax.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      163.11,
+      333.74,
+      187.73
+    ],
+    "text": "(2) The tax deduction certificate issued under subsection(1) shall include information relating to :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      196.95,
+      333.77,
+      244.25
+    ],
+    "text": "(a)the sum total of the debits made from a currentaccount or the sum total of the encashed proceedsreceived on encashment of certificates of depositsor travellers cheques as the case may be ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      253.47,
+      254.13,
+      266.81
+    ],
+    "text": "(b)the sum deducted as debits tax,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      276.03,
+      333.7,
+      289.37
+    ],
+    "text": "for the period in respect of which the Certificate is requested.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      298.71,
+      333.38,
+      323.33
+    ],
+    "text": "(3) The Certificate shall include confirmation of theremittance of such amount to the Commission - General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      336.27,
+      333.76,
+      394.85
+    ],
+    "text": "9.\u201c(1) A commercial bank shall, when remitting thesums referred to in subsection (1) of section 6, furnish astatement to the Commissioner-General in respect of anycurrent account, other than a special current account settingout the following :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      407.79,
+      333.73,
+      443.69
+    ],
+    "text": "(a)the total amount of debits made from all currentaccounts maintained by that bank in the precedingmonth ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      452.91,
+      333.73,
+      488.93
+    ],
+    "text": "(b)the total amount of debits from all special currentaccounts maintained by that bank in the precedingmonth ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.49,
+      498.15,
+      333.72,
+      522.77
+    ],
+    "text": "(c)the sums withdrawn as debits tax from all currentaccounts in that month ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      337.06,
+      46.49,
+      347.73
+    ],
+    "text": "Returns",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.91,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      378.22,
+      335.65,
+      408.09
+    ],
+    "text": "Default inpayment of debitstax.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41.59,
+      50.79,
+      266.5,
+      76.49
+    ],
+    "text": "(d)the sums refunded under paragraph (i) of subsection(1) of section 12 and subsection (2) of section 12 ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      42.19,
+      93.63,
+      266.55,
+      181.37
+    ],
+    "text": "(e)The names and addresses of account holders whohave claimed refunds in respect of exempt debitsunder paragraph (d) of section 13, where the totalamount of exempt debits in each current account ina month exceeds fifty per centum of the total debitsin the relevant current account or rupees fiftythousand, whichever is lower.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      197.43,
+      266.5,
+      260.33
+    ],
+    "text": "(2) A commercial bank, specialized bank, financecompany or authorized dealer shall, when remitting the sumsreferred to in subsection (2) of section 6, furnish a statementalong with such remittance, to the Commissioner - General,setting out the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.59,
+      277.35,
+      266.39,
+      315.53
+    ],
+    "text": "(a)the amount realized by the enacashment of thecertificate of deposit, or travellers cheque, as casemay be ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.59,
+      332.55,
+      266.46,
+      358.25
+    ],
+    "text": "(b)the sum deducted from that amount as the debits taxpayable on that amount.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      374.31,
+      266.53,
+      524.09
+    ],
+    "text": "10. (1) Where a commercial bank reports undersubsection (4) of section 6 that it is unable to collect the debitstax due on the debits made during a calendar month, from acurrent account maintained at that bank by any person, anofficer authorized in writing by the Commissioner-Generalshall in writing direct such person to pay, within fourteendays of the direction, the amount of such debits tax to theCommissioner - General to be credited to the ConsolidatedFund. If such person fails to pay such amount to theCommissioner-General within such fourteen days, suchamount shall be deemed to be in default and such person shallbe deemed to be a defaulter.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      352.06,
+      52.25,
+      362.73
+    ],
+    "text": "Recovery",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      50.43,
+      333.53,
+      87.65
+    ],
+    "text": "(2) Where the sum remitted by a commercial bank,specialized bank, finance company or authorized dealer, undersection 6, as the debits tax payable, on\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.01,
+      94.23,
+      333.7,
+      131.33
+    ],
+    "text": "(a)the total amount of the debits made from a currentaccount maintained at that commercial bank, in anymonth; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.01,
+      137.91,
+      333.5,
+      163.13
+    ],
+    "text": "(b)the amount realized on the encashment of a certificateof deposit or travellers cheque,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      170.79,
+      333.96,
+      335.93
+    ],
+    "text": "is less than the actual amount payable as debits tax on thetotal amount of such debits or the amount so realized, as thecase may be, the Commissioner-General shall by notice inwriting, require such bank, finance company, or dealer or theperson liable to pay the debits tax, to pay, within fourteendays of the date of the notice, the difference between the actualamount payable as debits tax and the sum remitted as debitstax, to the Commissioner-General to be credited to theConsolidated Fund. If such bank, company, dealer or personfails to pay the amount of such difference within such fourteendays, such amount shall be deemed to be in default and suchbank, company, dealer or person, as the case may be, shall bedeemed to be a defaulter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      348.15,
+      333.97,
+      527.93
+    ],
+    "text": "11.Where the amount of any debits tax or part thereof isin default, the Commissioner-General may issue a certificatecontaining particulars of the amount in default and the nameand last known place of residence or business of the defaulterto the Magistrate having jurisdiction in the division in whichsuch place is situated. The Magistrate shall thereupon summonthe defaulter to show cause why proceedings for the recoveryof the amount of the debits tax in default should not be takenagainst him, and if sufficient cause is not shown, the amountof the debits tax in default shall by order of the Magistrate berecovered as if it were a fine imposed by the Magistrate onsuch defaulter, and shall, when recovered, be remitted to theCommissioner - General to be credited to the ConsolidatedFund.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.91,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20027",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      49.83,
+      266.48,
+      96.17
+    ],
+    "text": "12. (1) Refunds may be made in respect of debits taxpayments made in excess of the liable amount or tax paymentsmade on exempt accounts, to the person from whom suchamount is so deducted, as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      102.87,
+      266.55,
+      171.17
+    ],
+    "text": "(i)in the case of a refund being requested by the accountholder prior to the remittance of the debits taxpayment to the Commissioner - General, thecommercial bank, specialised bank, financecompany or authorised dealer may refund the excessdebits tax so deducted ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      177.87,
+      266.53,
+      290.21
+    ],
+    "text": "(ii)in the case of a refund being requested by the accountholder after the remittance of the debits tax paymentto the Commissioner-General, the Commissioner-General may refund the debits tax so paid to theperson from whom such amount is so deducted on aclaim made in writing to the Commissioner -Gebneral within twelve months from the date of suchpayment. The Commissioner-General shall satisfyhimself of the authenticity of the claim, prior tomaking such refund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      296.91,
+      266.54,
+      387.17
+    ],
+    "text": "(2) In the case of a refund made under the provisions ofparagraph (i) of subsection (1) on the basis of a declarationreferred to in subsection (2) of section 13, the bank to whichthe declaration is addressed shall verifty the amount of debitsidentified as exempt by the account holder with the bank\u2019srecords and refund the debits tax on such exempt debits,provided such debits tax was withdrawn from the accountholder previously.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      391.83,
+      266.46,
+      449.21
+    ],
+    "text": "(3) All sums payable as refunds under this section shalleither be paid by the commercial bank, specialised bank,finance company or authorised dealer out of the funds of suchbanks, company or dealer, or by the Commissioner-Generalout of the Consolidated Fund, as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      38.35,
+      453.87,
+      228.55,
+      467.81
+    ],
+    "text": "13. (1) There shall be exempt from debits tax \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      41.59,
+      472.83,
+      266.54,
+      530.81
+    ],
+    "text": "(a)debits made from any current account maintainedby the Government of Sri Lanka, the Central Bankof Sri Lanka any Provincial Council any localauthority, any Foreign Government, by the missionof any State or any organisation to which the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      53.02,
+      310.5,
+      63.69
+    ],
+    "text": "\u201cRefunds.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      456.46,
+      318.57,
+      467.13
+    ],
+    "text": "Exemptions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20028",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.65,
+      50.55,
+      333.84,
+      111.89
+    ],
+    "text": "provisions of the Diplomatic Privileges Act, No. 9of 1996 applies, or any diplomatic personnel of suchmission or organization, or any International orForeign Organization, approved by the Minister byOrder published in the Gazette;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.01,
+      122.55,
+      333.81,
+      183.89
+    ],
+    "text": "(b)debits made from any current account, being a specialaccount opened by any person in a commercial bankon the basis of a declaration and an undertaking bythe account holder that such account is solely forthe purpose of making \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135.17,
+      194.55,
+      333.74,
+      219.89
+    ],
+    "text": "(i)payment of any loan or interest thereon, to theDeputy Secretary to the treasury ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.41,
+      227.55,
+      333.65,
+      252.89
+    ],
+    "text": "(ii)payment of any tax to the Commissioner-General of Inland Revenue ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.65,
+      260.55,
+      333.6,
+      285.89
+    ],
+    "text": "(iii)payment of tax, duty, levy or cess to theDirector-General of Customs ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      130.25,
+      293.55,
+      333.78,
+      330.89
+    ],
+    "text": "(iv)payment of any tax or duty to theCommissioner of Excise or the Director-General of Excise; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      133.01,
+      341.55,
+      333.83,
+      378.89
+    ],
+    "text": "(v)any other payment which may be approvedby the Minister by Order published in theGazette ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.49,
+      389.55,
+      333.85,
+      462.89
+    ],
+    "text": "(c)debits made from any current account, being aspecial account opened by any person specifiedhereunder, in a commercial bank on the baisis of adeclaration and undertaking by the account holderthat such account is solely for the purpose ofmaking \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      135.17,
+      473.55,
+      333.74,
+      525.05
+    ],
+    "text": "(i)payments that represent benefits tocontributors from any fund or scheme such asthe Employees Provident Fund, the EmployeesTrust Fund or any approved provident fund or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.91,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 20029",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.35,
+      50.79,
+      266.57,
+      113.69
+    ],
+    "text": "contributory pension scheme, within themeaning of the Employees Provident Fund Actor non-contributory pension scheme within themeaning of the Payment of Gratuity Act orContributory Survivor Pension Scheme ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.11,
+      125.19,
+      266.44,
+      188.09
+    ],
+    "text": "(ii)payments for the purchase of commodities forand on behalf of customers and payments thatrepresent remittance of the sale proceeds ofsuch commodities, made by a licensed producebroker ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.35,
+      199.59,
+      266.37,
+      225.29
+    ],
+    "text": "(iii)payments in relation to trading in governmentsecurities made by a primary dealer ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.95,
+      236.79,
+      266.58,
+      349.25
+    ],
+    "text": "(iv)payments in relation to outright (both sales andpurchases) and repurchase and reverserepurchase transactions of all debt securities(government and corporate) in the secondarymarket, made by a primary dealer or acommercial bank, a finance company, alicensed fiance leasing company or a limitedlibility comany or a person or a body ofpersons ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.71,
+      360.75,
+      266.5,
+      423.65
+    ],
+    "text": "(v)payments in relation to the settlement oftransactions carried out in the Colombo StockExchange on behalf of a customer, made by alicensed stock broker, or by a limited liabilitycompany or a person or a body of persons ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.95,
+      435.15,
+      266.51,
+      473.33
+    ],
+    "text": "(vi)payments to any resident individuals utilizingfunds transferred to that account from a foreignbanking institution abroad ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.19,
+      484.71,
+      266.53,
+      522.89
+    ],
+    "text": "(vii)payments from any such account maintainedat a Commercial Bank by another CommercialBank, specialized bank, licensed finance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200210",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      153.65,
+      50.79,
+      333.74,
+      88.37
+    ],
+    "text": "leasing company or other financialintermediary approved by the Commissioner-General \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      154.01,
+      100.47,
+      333.74,
+      198.05
+    ],
+    "text": "(a)being debits made in connection with theactivites and the settlement of financialobligations, both interest and principal,arising from such activities as is set outin schedule II of the Banking Act, otherthan items (o), (p), (v) and (x) of suchSchedule in the case of commercialbanks :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      174.65,
+      208.71,
+      333.74,
+      270.05
+    ],
+    "text": "Provided however, that in the case ofitem (u) in Schedule II of the BnakingAct, the exemption granted shall beapplicable only in relation to factoringactivities ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      154.01,
+      278.67,
+      333.75,
+      376.01
+    ],
+    "text": "(b)being debits made in connection with theactivities as are set out in Schedule IV ofthe Banking Act, other than items (ii),(jj),(ll), (mm) and (nn) of such Schedule andsettlement of financial obligaitons bothprincipal and interest, arising from suchactivities in the case of specialized bank;or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      154.49,
+      384.75,
+      333.74,
+      530.09
+    ],
+    "text": "(c)being debits made in connection with theintermediation activities and settlementof financial obligations, both interest andprincipal, arsing from such activities inthe case of licensed finance leasingcompanies or any other financialintermediaries approved by theCommissioner-Geneneral, provided thedebits in relation to licensed activities ofa commercial bank or a specialized bankthat are excluded from the exemptionsset out in paragraphs (a) and (b) above,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      84.91,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200211",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.35,
+      50.55,
+      266.47,
+      157.25
+    ],
+    "text": "would also apply to a licensed financeleasing company or a licensed financialintermediary approved by theCommissioner-General. (The DeputySecretary to the Treasury will be the finalauthority in detrmining whether anactivity amounts to financialintermediation for the purposes of thisparagraph) ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.31,
+      164.43,
+      266.52,
+      247.37
+    ],
+    "text": "(viii)debits made from any such account which ismaintained by any person at any commercialbank as a collection account, solely for thepurpose of receiving funds and facilitating thetransfer of funds, to accounts mainatined bysuch person at other branches or at the headoffice of such bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      41.59,
+      254.67,
+      266.48,
+      279.65
+    ],
+    "text": "(d)debits made from any current account of an accountholder, in relaiton to\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67.87,
+      286.83,
+      266.42,
+      358.25
+    ],
+    "text": "(i)debits made from such account kept in acommercial bank that represents transfer offunds from that account to another currentaccount in the same or any other commercialbank, maintained in the name of the sameaccount holder ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.11,
+      365.43,
+      266.42,
+      402.05
+    ],
+    "text": "(ii)debits made from such account in respect ofsums withdrawn from that account for thepayment of debits tax ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      62.35,
+      408.27,
+      266.36,
+      456.41
+    ],
+    "text": "(iii)debits made in respect of dishonoured cheques,error corrections or contra entries that do notrepresent withdrawal of funds by the accountholder ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      42.19,
+      462.63,
+      266.37,
+      487.61
+    ],
+    "text": "(e)debits made from any current account in relation tothe \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67.87,
+      493.83,
+      266.35,
+      530.45
+    ],
+    "text": "(i)account of the Head Office in Sri Lanka, of aCommercial Bank as is maintained in a branchin Sri Lanka, of that bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200212",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.41,
+      50.67,
+      333.58,
+      88.37
+    ],
+    "text": "(ii)account of a branch in Sri Lanka of acommerceal bank as is maintained in the HeadOffice in Sri Lanka, of that bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.65,
+      99.51,
+      333.65,
+      137.21
+    ],
+    "text": "(iii)account of a branch in Sri Lanka of acommercial bank as is maintained in anotherbranch in Sri Lanka, of that bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      111.17,
+      148.23,
+      333.81,
+      210.41
+    ],
+    "text": "(f)such other accounts, debits or classes of debits madefrom current accounts as may from time to time bedetermined by the Minister, by Order published inthe Gazette,having regard to the interests of thenational economy.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      221.43,
+      333.69,
+      307.97
+    ],
+    "text": "(2) To qualify for the exemptions specified in sub-paragraphs (i), (ii) and (iii) of paragraph (d), the account holdershall furnish a declaration to the commercial bank, in a formatto be prescribed by the Commissioner-General on or beforethe fifteenth day of the month, in respect of exempt debitsmade to any current account of such account holder in thepreceding calendar month :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      319.11,
+      333.63,
+      356.81
+    ],
+    "text": "Provided however, that if the fifteenth day falls on a non-working day, such declaration shall be made on the firstworking day thereafter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      367.83,
+      333.82,
+      466.61
+    ],
+    "text": "(3) Where an account holder fails to furnish a declarationwithin the time specifed in subsection (2), such person mayapply for the refund from the Commissioner-General withina period of twelve months from the date of the payment ofthe debits tax, provided such claim is in writing and evidenceacceptable to the Commissioner-General is furnished, toestablish the fact that the refund relates to debits tax on anexempt debit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      477.63,
+      333.89,
+      527.57
+    ],
+    "text": "(4) A commercial bank shall upon the opening of acollection account or special account report to theCommissioner-General, on or before the last working day ofthe calendar month following that in which such account was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84.91,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200213",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      50.55,
+      266.56,
+      99.89
+    ],
+    "text": "opened, the name and address of the person or persons inwhose name or names the accounts are maintained. A copyof the declaration and undertaking given by such person shallalso be sent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      111.87,
+      266.52,
+      253.25
+    ],
+    "text": "(5) For the avoidance of doubts it is hereby declared that,other than in the case of a person whose debits in a currentaccount are totally exempt as provided for in paragraph (a),the exemptions granted by paragraphs (b), (c), (d), (e) and (f)shall not be applicable to payments made by a commercialbank, specialised bank, authorised dealer, finance company,licensed finance leasing company, fiancial intermediary orany other person specified under paragraphs (b), (c), (d), (e)and (f) for defraying other expenses including expenses of acapital nature such as the cost of purchasing any movable orimmovable property or for the construction of any building :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      265.47,
+      266.58,
+      355.61
+    ],
+    "text": "Provided however, in the case of commercial banks,specialized banks, licensed finance leasing company and otherfinancial intermediaries approved by the Commissiioner -General in terms of paragraph (c) (vii), any interest paymentfor a liability related to financial intermediation activity, forwhich exemption is granted shall be excluded from debitstax.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      366.87,
+      266.59,
+      470.57
+    ],
+    "text": "14. (1) An officer authorized in that behalf by theCommissioner - General may, by notice in writing, require acommercial bank, specialized bank, finance company orauthorized dealer to furnish such returns and information asmay be necessary for the purpose of ascertaining whether \u201ctheprovisions of this Act are being or have been complied with,and may\u201d inspect, and make copies of any entries in, anybooks, records or other documents maintained by such bank,finance company or dealer.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      479.91,
+      266.57,
+      527.09
+    ],
+    "text": "(2) Every commercial bank, specialized bank, financecompany and authorized dealer shall, notwithstandinganything to the contrary in any law, comply with a requirementimposed under subsection (1) and shall provide the officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      370.06,
+      332.93,
+      409.53
+    ],
+    "text": "Powers to ensurecompliance withthe provisions ofthis Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200214",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      50.91,
+      333.82,
+      101.69
+    ],
+    "text": "referred to in that subsection with all such facilities as arenecessary for the inspection of any books, records or otherdocuments maintained by such bank, finance company ordealer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      113.43,
+      333.81,
+      226.73
+    ],
+    "text": "(3) Except in the performance of his duties under thisAct, an officer referred to in subsection (1) shall preserve,and aid in preserving, secrecy with regard to all mattersrelating to the affairs of any commercial bank, specializedbank, finance company or authorized dealer that may cometo his knowledge in the performance of his duties under thissection and shall not communicate any such matter except tothe Deputy Secretary to the Treasury, the Commissioner -General or to a Court of Law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      238.35,
+      333.62,
+      264.17
+    ],
+    "text": "15. (1) Where any commercial bank, specialized bank,finance company or authorized dealer -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106.01,
+      275.91,
+      333.75,
+      314.21
+    ],
+    "text": "(a)fails to comply with, or contravenes, any provisionof this Act or any requirement imposed under thisAct or any regulation made under this Act ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      106.01,
+      325.83,
+      333.68,
+      389.21
+    ],
+    "text": "(b)knowingly makes any false statement in, orknowingly omits any material particular from, anyreturn or information furnished by such commercialbank, specialized bank, finance company orauthorized dealer,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.65,
+      400.83,
+      333.84,
+      464.21
+    ],
+    "text": "that bank or finance company or that authorized dealer,as the case may be, shall be guilty of an offence underthis Act and shall on conviction after summary trial beforea Magistrate, be liable to a fine not exceeding one millionrupees :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      475.83,
+      333.74,
+      526.73
+    ],
+    "text": "Provided however the Commissioner-General maycompound the offence by imposing a penalty not exceedingone million rupees, which shall be credited to the ConsolidatedFund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      21.65,
+      242.38,
+      49.71,
+      253.05
+    ],
+    "text": "Officers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      84.91,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200215",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      278.35,
+      503.02,
+      322.34,
+      523.29
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      50.91,
+      266.6,
+      151.73
+    ],
+    "text": "(2) Any person who, holding an account in a commercialbank, opens a collection or special current account on thebasis of a false declaration or acts in breach of an undertakingfurnished at the time of opening the current account, shall beliable to pay to the Commissioner - General a sum notexceeding rupees one million plus twice the amount of thedebits tax not recovered as a result of such action, as penalty,upon the issue of notice under section 10 of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      163.35,
+      266.59,
+      239.21
+    ],
+    "text": "(3) Every person who contravenes the provisions ofsubsection (3) of section 14 shall be guilty of an offence underthis Act and shall on conviction after summary trial before aMagistrate, be liable to a fine not exceeding one hundredthousand rupees or to imprisonment for a term not exceedingsix months.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      250.83,
+      266.43,
+      301.73
+    ],
+    "text": "16. (1) The Minister may make regulations for thepurposes of giving effect to the principles and provisions ofthis Act and in respect of matters which are required by thisAct to be prescribed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      313.35,
+      266.52,
+      364.25
+    ],
+    "text": "(2) Every regulation made under this section shall bepublished in the Gazette and shall come into operation on thedate of such publication or on such later date as may bespecified therein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      375.87,
+      266.51,
+      451.73
+    ],
+    "text": "(3) Every such regulation shall as soon as convenient afterits publication in the Gazette, be brought before Parliamentfor approval. Every regulation which is not so approved shallbe deemed to be rescinded as from the date of suchdisapproval, without prejudice to the validity of anythingpreviously done thereunder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      463.35,
+      266.15,
+      489.17
+    ],
+    "text": "(4)Notification of the date on which any such regulationis deemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      26.35,
+      500.91,
+      266.47,
+      526.73
+    ],
+    "text": "17.The provisions of this Act shall be deemed for allpurposes to have come into effect on June 1, 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      278.35,
+      253.06,
+      318.45,
+      263.73
+    ],
+    "text": "Regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200216",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      50.55,
+      333.95,
+      135.89
+    ],
+    "text": "18. (1) Any commercial bank, specialized bank, financecompany or authorized dealer who collects or remits the debitstax as provided for in section 6, during the period commencingon June 1, 2002 and the date on which this Act is passed as anAct of Parliament, shall be deemed to have acted with dueauthority and is hereby indemnified from any civil or criminalprosecution in respect of such collection.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      149.55,
+      333.86,
+      318.89
+    ],
+    "text": "(2) Any commercial bank, specialized bank, financecompany or authorised dealer who collects from any persondebits tax in excess of the amount he was liable to pay inrespect of debits from a current account maintained by himor in respect of any amount realized by him by the encashmentof a certificate of deposit or travellers cheque, or a commercialbank collects from any person, debits tax on any such debitsmade from a current account maintained by him in a bank asare exempt from debits tax by or under section 13, is herebyindemnified from any civil or criminal prosecution in respectof such collection, from and after June 1, 2002 and the dateon which a refund of such amount is made or the date onwhich such amount is remitted to the Commissioner - General,as the case may be.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      105.65,
+      332.55,
+      333.72,
+      346.49
+    ],
+    "text": "19.In this Act, unless the context otherwise requires \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.65,
+      356.55,
+      333.87,
+      369.89
+    ],
+    "text": "\u201cBanking Act\u201d means the Banking Act, No. 30 of 1988 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.65,
+      380.55,
+      333.76,
+      417.89
+    ],
+    "text": "\u201ccollection account\u201d means an account maintained witha commercial bank which facilitates the transfer offunds, but on which no cheques can be drawn ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.65,
+      428.55,
+      333.83,
+      465.89
+    ],
+    "text": "\u201ccommercial bank\u201d means a licensed commercial bankwithin the meaning of the Banking Act, No. 30 of1988 ;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.65,
+      476.55,
+      333.8,
+      525.89
+    ],
+    "text": "\u201cCommissioner-General\u201d means the Commissioner -General of Inland Revenue, appointed or deemed tobe appointed under the provisions of the InlandRevenue Act, No. 38 of 2000 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      335.38,
+      67.19,
+      346.05
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      21.65,
+      50.98,
+      56.06,
+      61.65
+    ],
+    "text": "Indemnity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      84.91,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200217",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.35,
+      50.07,
+      155.73,
+      63.41
+    ],
+    "text": "\u201ccurrent account\u201d means \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.59,
+      69.39,
+      266.53,
+      184.37
+    ],
+    "text": "(a)an account (other than a savings account, a nonresident currency account, a resident foreigncurrency account, an account in a foreigncurrency banking unit and a share investmentexternal rupee account) whether in credit orotherwise, which is maintained at a commercialbank for any person or persons, including anysuch bank, and from which payments are madeon demand by that person or persons by cheque,draft, order or other instruction ;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.59,
+      191.43,
+      266.35,
+      227.33
+    ],
+    "text": "(b)an internal account of a commercial bank fromwhich payments are made for defraying anyexpenses of such bank, including\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      82.87,
+      233.31,
+      266.46,
+      269.21
+    ],
+    "text": "(i) expenses of a capital nature such as the costof purchasing any movable or immovableproperty or constructing any building; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.11,
+      275.19,
+      266.47,
+      311.09
+    ],
+    "text": "(ii) all business expenses, which involves apayment and in respect of which debits aremade either internally or externally;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.35,
+      318.03,
+      266.53,
+      399.17
+    ],
+    "text": "\u201cdebit\u201d means an entry made against a current accountof any person or persons in respect of a withdrawalof funds from that account by cheque, draft, orderor any other instruction of that person or persons,and includes the charges made by a commercialbank, in the course of business, on a current accountmaintained at that bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.35,
+      406.11,
+      266.35,
+      442.13
+    ],
+    "text": "\u201cEmployees Provident Fund\u201d means the EmployeesProvident Fund established by the EmployeesProvident Fund Act, No. 15 of 1958 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.35,
+      448.11,
+      266.3,
+      484.25
+    ],
+    "text": "\u201cEmployees Trust Fund\u201d means the Employees TrustFund established by the Employees Trust Fund Act,No. 46 of 1980 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.35,
+      491.67,
+      266.5,
+      529.01
+    ],
+    "text": "\u201cFinance Company\u201d means a company registered underthe Finance Companies Act, No. 78 of 1988, to carryon finance business ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      20.55,
+      274.98,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200218",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      50.55,
+      333.78,
+      87.89
+    ],
+    "text": "\u201cForeign Currency Banking Account\u201d means an accountmaintained at a commercial bank and designated assuch by the Central Bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      98.55,
+      333.8,
+      135.89
+    ],
+    "text": "\u201clicensed finance leasing company\u201d means a companylicensed under the Finance Leasing Act, No. 56 of2000;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      146.55,
+      333.75,
+      219.89
+    ],
+    "text": "\u201clicensed stock broker\u201d means a stock broker licensedunder the Securities and Exchange Commission Act,No. 36 of 1987 ;\u201clicensed produce broker\u201d means a produce brokerlicensed under the Licensing of Produce Brokers Act,No. 9 of 1979 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      230.55,
+      333.77,
+      267.89
+    ],
+    "text": "\u201cNon-Resident Foreign Currency Account\u201d means anaccount maintained at a commercial bank anddesignated as such by the Central Bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      275.55,
+      333.57,
+      300.89
+    ],
+    "text": "\u201cPayment of Gratuity Act\u201d means the Payment GratuityAct, No. 12 of 1983 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      311.55,
+      333.68,
+      348.89
+    ],
+    "text": "\u201cResident Foreign Currency Account\u201d means an accountmaintained at a commercial bank and designated assuch by the Central Bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      356.55,
+      333.81,
+      429.89
+    ],
+    "text": "\u201csavings account\u201d means an account which is maintainedat a commercial bank and funds deposited in whichearn interest and the withdrawal of funds from whichcan be made only after such intervals as are specified,or subject to such rules as are specified, by thatbank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      111.65,
+      437.55,
+      333.83,
+      474.89
+    ],
+    "text": "\u201cspecialized bank\u201d means a licensed specialized bankwithin the meaning of the Banking Act, No. 30 of1988.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      21.65,
+      485.55,
+      333.69,
+      519.09
+    ],
+    "text": "20.In the event of any inconsistency between the Sinhalaand Tamil texts of the Act, the Sinhala text shall prevail.Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      84.91,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Debits Tax Act, No. 16 of 200219",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      486.58,
+      338.35,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32,TRANSWORKS HOUSE, LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
