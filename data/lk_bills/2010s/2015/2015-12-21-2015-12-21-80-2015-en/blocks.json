@@ -1,0 +1,8769 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      159.33,
+      166.67,
+      433.77,
+      219.28
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.29,
+      237.99,
+      373.3,
+      251.27
+    ],
+    "text": "Part II of December 18, 2015",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      266.79,
+      341.85,
+      280.07
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.13,
+      295.35,
+      357.61,
+      308.96
+    ],
+    "text": "(Issued on 21. 12. 2015)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      250.29,
+      426.99,
+      349.29,
+      440.27
+    ],
+    "text": "MICROFINANCE",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      450.13,
+      303.71,
+      461.2
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      474.13,
+      311.85,
+      485.2
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.85,
+      498.13,
+      455.87,
+      581.2
+    ],
+    "text": "to provide for the licensing, regulation and supervision of companiescarrying on microfinance business; the registration of non-governmentalorganizations accepting limited savings deposits as microfinancenon-governmental organizations; for the setting up of standards for theregulation and supervision of microfinance non-governmentalorganizations and micro credit non-governmental organizations and toprovide for matters connected therewith or incidental thereto.",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.13,
+      592.09,
+      432.61,
+      615.16
+    ],
+    "text": "Ordered to be published by the Minister of National Policies andEconomic Affairs",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      639.55,
+      402.81,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      455.72,
+      670.24
+    ],
+    "text": "Price : Rs. 21.00Postage : Rs. 20.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      248.97,
+      168.97,
+      396.89,
+      180.16
+    ],
+    "text": "1Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      402.69,
+      383.27,
+      441.7,
+      411.33
+    ],
+    "text": "Short titleand date ofoperation.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.17,
+      688.63,
+      252.46,
+      697.7
+    ],
+    "text": "2\u2014PL 009646\u2014475 (01/2016)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      146.37,
+      407.86,
+      150.44,
+      418.21
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.01,
+      584.86,
+      150.45,
+      595.21
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.29,
+      496.78,
+      150.57,
+      507.13
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.53,
+      660.82,
+      151.53,
+      671.17
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      193.61,
+      232.89,
+      204.95
+    ],
+    "text": "L. D.\u2014O 32/2012.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      218.81,
+      396.56,
+      230.15
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE LICENSING, REGULATION AND SUPERVISION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      231.41,
+      396.69,
+      242.75
+    ],
+    "text": "OF COMPANIES CARRYING ON MICROFINANCE BUSINESS; THE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      244.01,
+      396.69,
+      255.35
+    ],
+    "text": "REGISTRATION OF NON-GOVERNMENTAL ORGANIZATIONS ACCEPTING",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      256.61,
+      396.68,
+      267.95
+    ],
+    "text": "LIMITED SAVINGS DEPOSITS AS MICROFINANCE NON-GOVERNMENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      269.21,
+      396.69,
+      280.55
+    ],
+    "text": "ORGANIZATIONS; FOR THE SETTING UP OF STANDARDS FOR THE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      281.81,
+      396.69,
+      293.15
+    ],
+    "text": "REGULATION AND SUPERVISION OF MICROFINANCE NON-GOVERNMENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      294.41,
+      396.56,
+      305.75
+    ],
+    "text": "ORGANIZATIONS AND MICRO CREDIT NON-GOVERNMENTAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      307.01,
+      396.69,
+      318.35
+    ],
+    "text": "ORGANIZATIONS AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      319.61,
+      250.87,
+      330.95
+    ],
+    "text": "OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      344.81,
+      396.72,
+      368.75
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.17,
+      382.61,
+      396.7,
+      431.75
+    ],
+    "text": "1.This Act may be cited as the Microfinance Act, No.of 2016 and different Parts of this Act shall come intooperation on different dates as the Minister may appoint byOrder published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.17,
+      445.61,
+      381.33,
+      456.95
+    ],
+    "text": "2.(1)The provisions of this Act shall not apply to-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.89,
+      470.81,
+      396.72,
+      507.35
+    ],
+    "text": "(a)a licensed commercial bank or a licensedspecialized bank within the meaning of theBanking Act, No.30 of 1988;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.89,
+      521.21,
+      396.71,
+      545.15
+    ],
+    "text": "(b)a finance company within the meaning of theFinance Business Act, No.42 of 2011;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.61,
+      559.01,
+      396.71,
+      608.15
+    ],
+    "text": "(c)a co-operative society registered under the Co-operative Societies Law, No.5 of 1972 and aco-operative society registered under a Statuteof a Provincial Council;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.89,
+      622.01,
+      396.73,
+      671.15
+    ],
+    "text": "(d)a divineguma community based bank and adivineguma community based banking societyestablished under the Divineguma Act, No.1of 2013; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      402.69,
+      444.91,
+      448.42,
+      463.58
+    ],
+    "text": "Applicabilityof Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "2Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.11,
+      251.14,
+      156.18,
+      261.49
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.39,
+      409.66,
+      155.83,
+      420.01
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.79,
+      340.66,
+      156.07,
+      351.01
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.55,
+      478.66,
+      156.55,
+      489.01
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.31,
+      546.58,
+      155.59,
+      556.93
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.83,
+      629.62,
+      155.11,
+      639.97
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195.43,
+      192.41,
+      403.18,
+      215.27
+    ],
+    "text": "(e)an entity formed in terms of the AgrarianDevelopment Act, No.46 of 2000.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.43,
+      226.85,
+      403.18,
+      272.75
+    ],
+    "text": "(2) The provisions of this Act, other than Part VIII, Part IXand Part XI, shall not apply to a microfinance non-governmental organization and a micro credit non-governmental organization.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      267.79,
+      284.45,
+      297.79,
+      295.79
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.27,
+      305.93,
+      393.42,
+      317.27
+    ],
+    "text": "LICENSING OF COMPANIES CARRYING ON MICROFINANCE BUSINESS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.43,
+      328.85,
+      403.21,
+      397.79
+    ],
+    "text": "3. Save and except as provided for in section 2, a personshall be eligible to apply for a licence under this Act, if suchperson is a company registered under the Companies Act,No.7 of 2007 not being a company limited by guarantee, aprivate company, an offshore company or an overseascompany.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.43,
+      409.37,
+      403.25,
+      466.67
+    ],
+    "text": "4.(1) Every application for a licence shall be made tothe Board in compliance with such requirements, in suchform, accompanying such information and the evaluationfee as may be specified by the Board from time to time byrules made in that behalf.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.43,
+      478.37,
+      403.21,
+      524.27
+    ],
+    "text": "(2) The Board may, on receipt of an application undersubsection (1), make such enquiries and call for such furtherinformation and documents as it considers necessary and onbeing satisfied that \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.27,
+      535.85,
+      403.17,
+      570.23
+    ],
+    "text": "(a)the applicant has complied with all the requirementslaid down by the Board by rules made in that behalf;and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.27,
+      581.93,
+      403.2,
+      616.19
+    ],
+    "text": "(b)the issue of a licence to the applicant would not bedetrimental to the interests of its creditors and otherstakeholders,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.43,
+      627.89,
+      403.18,
+      674.03
+    ],
+    "text": "it may issue a licence subject to such terms and conditionsas the Board may think fit or, where it is not so satisfied,reject the application and issue such direction as it deemsnecessary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.19,
+      329.35,
+      454.64,
+      376.82
+    ],
+    "text": "Licensingrequirementto carry onmicrofinancebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.19,
+      408.91,
+      446.47,
+      427.58
+    ],
+    "text": "Licensingprocedure.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      248.97,
+      168.97,
+      396.89,
+      180.16
+    ],
+    "text": "3Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.57,
+      240.58,
+      151.64,
+      250.93
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.61,
+      403.06,
+      151.05,
+      413.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      321.1,
+      151.17,
+      331.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      486.1,
+      151.89,
+      496.45
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.77,
+      555.1,
+      151.05,
+      565.45
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      192.77,
+      396.73,
+      262.67
+    ],
+    "text": "5.A licence issued by the Board shall be in suchform as may be specified by the Board by rules made inthat behalf and shall remain in force until the thirty-firstday of December next following the date on which thelicence is granted and shall be renewable annually upona fresh application being made.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      274.73,
+      396.7,
+      309.47
+    ],
+    "text": "6.Every licensed microfinance company shall pay anannual licence fee in such amount as may be specified bythe Board from time to time by rules made in that behalf.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      321.53,
+      396.71,
+      356.27
+    ],
+    "text": "7.Every licensed microfinance company shall exhibitits licence at its principal place of business and a copy ofsuch licence at every one of its branches.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      368.33,
+      396.63,
+      391.43
+    ],
+    "text": "8.The Board shall maintain a register of licensedmicrofinance companies.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      259.29,
+      403.49,
+      294.57,
+      414.83
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.01,
+      426.89,
+      386.72,
+      438.23
+    ],
+    "text": "BUSINESS RESTRICTIONS ON LICENSED MICROFINANCE COMPANIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      450.29,
+      396.74,
+      531.83
+    ],
+    "text": "9.(1) A licensed microfinance company may carry onsuch forms of businesses as set out in the Schedule to thisAct and any other form of business as may be specified bythe Board under subsection (2) subject to such restrictionsand conditions as may be imposed by or under any writtenlaw or specified in the licence issued to such licensedmicrofinance company.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      543.89,
+      396.73,
+      590.27
+    ],
+    "text": "(2) The Board may specify by notification published inthe Gazette any form of business that a licensed microfinancecompany may carry on which is not set out in the Scheduleto this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      602.33,
+      396.73,
+      637.31
+    ],
+    "text": "(3) A licensed microfinance company shall not carry onany form of business that is not set out in the Schedulehereto or specified by the Board under subsection (2).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.17,
+      649.97,
+      396.69,
+      673.31
+    ],
+    "text": "(4) Every notification published in the Gazette undersubsection (2) shall, as soon as convenient, be brought before",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.93,
+      194.47,
+      442.65,
+      222.74
+    ],
+    "text": "Form andduration oflicence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.69,
+      275.83,
+      445.42,
+      284.9
+    ],
+    "text": "Licence fee.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      403.17,
+      321.79,
+      442.9,
+      340.46
+    ],
+    "text": "Exhibitingthe licence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.69,
+      370.15,
+      439.42,
+      398.42
+    ],
+    "text": "Board tomaintain aregister.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      402.69,
+      452.11,
+      446.97,
+      480.38
+    ],
+    "text": "Forms ofbusiness tobe specified.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.89,
+      627.1,
+      151.17,
+      637.45
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "4Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.11,
+      253.06,
+      156.18,
+      263.41
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.39,
+      422.14,
+      155.83,
+      432.49
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.43,
+      351.1,
+      155.71,
+      361.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.83,
+      505.06,
+      155.83,
+      515.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.43,
+      578.14,
+      155.71,
+      588.49
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.67,
+      649.66,
+      155.95,
+      660.01
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      193.73,
+      402.11,
+      241.07
+    ],
+    "text": "Parliament for approval. Any notification which is notso approved shall be deemed to be rescinded from thedate of such disapproval but without prejudice toanything previously done thereunder.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      253.73,
+      402.11,
+      277.07
+    ],
+    "text": "(5) Notification of the date on which a notification isdeemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262.51,
+      289.73,
+      301.51,
+      301.07
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.95,
+      313.73,
+      374.95,
+      325.07
+    ],
+    "text": "MANAGEMENT OF LICENSED MICROFINANCE COMPANIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      337.73,
+      402.22,
+      409.07
+    ],
+    "text": "10.(1) The general superintendence and managementof the affairs of a licensed microfinance company shall vestin the board of directors of the company, which shall managethe business and affairs of such company in good faith andin the best interest of its depositors, creditors and otherstakeholders.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      421.73,
+      402.1,
+      469.07
+    ],
+    "text": "(2) A licensed microfinance company shall maintain aregister containing the names of members of the company,members of the board of directors and of the chief executiveofficer.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262.51,
+      481.73,
+      301.51,
+      493.07
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.71,
+      505.73,
+      390.31,
+      517.07
+    ],
+    "text": "DIRECTIONS TO AND RULES GOVERNING LICENSED MICROFINANCE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      262.87,
+      520.46,
+      301.14,
+      528.4
+    ],
+    "text": "COMPANIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.83,
+      541.73,
+      402.22,
+      625.07
+    ],
+    "text": "11.Notwithstanding the provisions of any other writtenlaw, the Board may issue directions to licensed microfinancecompanies or to any single licensed microfinance companyor to any group or category of microfinance companies(referred to as \u201ccompany\u201d in this section) as to the manner inwhich any aspect of the business and corporate affairs ofsuch company are to be conducted, and in particular \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      177.67,
+      637.73,
+      402.11,
+      673.07
+    ],
+    "text": "(a) the terms and conditions under which deposits maybe accepted by such company, the maximum ratesof interest payable on such deposits, the maximum",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      408.43,
+      541.99,
+      454.16,
+      560.66
+    ],
+    "text": "Directions ofthe Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      408.19,
+      338.83,
+      455.84,
+      357.5
+    ],
+    "text": "Generalsuperintendence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248.97,
+      168.97,
+      396.89,
+      180.16
+    ],
+    "text": "5Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.45,
+      255.58,
+      151.52,
+      265.93
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.61,
+      392.14,
+      151.05,
+      402.49
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.13,
+      317.14,
+      151.41,
+      327.49
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141.81,
+      465.1,
+      150.81,
+      475.45
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.65,
+      551.14,
+      150.93,
+      561.49
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.05,
+      638.14,
+      150.33,
+      648.49
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      193.17,
+      193.97,
+      396.71,
+      242.15
+    ],
+    "text": "period for which deposits may be accepted andthe maximum amount that may be deposited witha company in the name of one person in one ormore accounts;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172.89,
+      255.41,
+      396.73,
+      365.15
+    ],
+    "text": "(b) the terms and conditions under which any loan,credit facility or any type of financialaccommodation may be granted by such company,the maximum rates of interest that may be chargedon such loans, credit facilities or other types offinancial accommodation, and the maximumperiods for which any such loan, credit facility orother type of financial accommodation may begranted;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.61,
+      378.41,
+      396.74,
+      426.71
+    ],
+    "text": "(c)the maximum rates which may be paid to, or chargedby, such company by way of commissions,discounts, fees or other receipts or paymentswhatsoever;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172.89,
+      439.97,
+      396.74,
+      475.91
+    ],
+    "text": "(d)the terms and conditions under which investmentsmay be made by such company and the maximumpermissible maturities of such investments;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      173.61,
+      489.17,
+      396.74,
+      512.75
+    ],
+    "text": "(e)the minimum amount of core capital and totalcapital to be maintained;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      175.17,
+      526.01,
+      396.73,
+      574.31
+    ],
+    "text": "(f)the establishment of a reserve fund, minimumpercentage of annual after-tax profits that acompany shall transfer to such fund and otheroperational aspects of such fund;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172.89,
+      587.57,
+      396.73,
+      623.51
+    ],
+    "text": "(g)the minimum ratio which capital of a companyshould bear to the assets and the total depositliabilities of such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      172.89,
+      636.77,
+      396.73,
+      672.71
+    ],
+    "text": "(h)the minimum ratio which the liquid assets of acompany should bear to the total deposit liabilitiesof such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "6Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.39,
+      252.1,
+      155.46,
+      262.45
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147.31,
+      403.06,
+      154.75,
+      413.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146.95,
+      320.86,
+      155.23,
+      331.21
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146.11,
+      486.82,
+      155.11,
+      497.17
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147.07,
+      555.58,
+      155.35,
+      565.93
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      146.11,
+      637.66,
+      154.39,
+      648.01
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      178.63,
+      192.77,
+      402.11,
+      227.63
+    ],
+    "text": "(i)the maximum ratio which total outstandingdeposit liabilities should bear to the totaloutstanding accommodation of such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179.83,
+      239.69,
+      402.11,
+      297.83
+    ],
+    "text": "(j)the minimum ratio which the outstandingaccommodation granted to low-income persons andto micro enterprises by the company shall bear tothe total outstanding accommodation granted bysuch company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      178.39,
+      309.89,
+      402.1,
+      344.63
+    ],
+    "text": "(k)the establishment of a deposit insurance fund andthe premium such company shall transfer to suchfund and the other operational aspects of such fund;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179.83,
+      356.69,
+      402.11,
+      391.43
+    ],
+    "text": "(l)internal controls, risk management and a code ofcorporate governance to be adopted by suchcompany;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      176.11,
+      403.49,
+      402.08,
+      414.83
+    ],
+    "text": "(m)a code of conduct to be adopted by such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177.67,
+      426.89,
+      402.1,
+      473.27
+    ],
+    "text": "(n)criteria to assess the fitness and propriety ofdirectors, the chief executive officer and keymanagement personnel of, and persons withspecified shareholding in, such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177.67,
+      485.33,
+      402.11,
+      508.43
+    ],
+    "text": "(o)restrictions on the structural changes to corporateor business affairs of such company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177.67,
+      520.49,
+      402.1,
+      578.63
+    ],
+    "text": "(p)the grounds upon which a person shall bedisqualified from being appointed or elected or fromholding the post of a director, chief executiveofficer, secretary or key management personnel ofsuch company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      177.67,
+      590.69,
+      402.1,
+      625.43
+    ],
+    "text": "(q)the requirement for obtaining prior approval of theDirector for appointing, electing or nominatingdirectors of such companies; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179.11,
+      637.49,
+      402.12,
+      672.35
+    ],
+    "text": "(r)the requirement for obtaining prior approval of theDirector for appointing the chief executive officerand key management personnel of such company.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      248.97,
+      168.97,
+      396.89,
+      180.16
+    ],
+    "text": "7Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      147.45,
+      253.66,
+      151.52,
+      264.01
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.37,
+      409.06,
+      150.81,
+      419.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.13,
+      337.66,
+      151.41,
+      348.01
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142.29,
+      481.06,
+      151.29,
+      491.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.13,
+      565.06,
+      151.41,
+      575.41
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.13,
+      661.06,
+      151.41,
+      671.41
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      193.17,
+      192.77,
+      331.79,
+      204.11
+    ],
+    "text": "For the purpose of this section \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      199.17,
+      216.77,
+      396.72,
+      288.11
+    ],
+    "text": "\u201ckey management personnel\u201d means a personhaving authority and responsibility forplanning, directing and controlling theactivities of any finance company directly orindirectly including any Director (whetherexecutive or otherwise) of such company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      199.17,
+      300.77,
+      396.73,
+      324.11
+    ],
+    "text": "\u201cspecified\u201d means specified by the Board by rulesmade in that behalf.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.17,
+      336.77,
+      396.72,
+      372.11
+    ],
+    "text": "12.(1) The Board may issue guidelines to the Directoron the manner of monitoring compliance with the directionsissued under Section 11.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.17,
+      384.77,
+      396.73,
+      456.11
+    ],
+    "text": "(2) Where a licensed microfinance company fails tocomply with any direction issued under section 11, theDirector shall, unless otherwise provided for in anyguidelines issued under subsection (1), report such fact tothe Board and thereupon the provisions of Section 17 ofthis Act shall apply accordingly.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.17,
+      468.77,
+      396.72,
+      504.11
+    ],
+    "text": "13.(1) The Board may, from time to time, make ruleson any matter in respect of which rules are authorized orrequired to be made under this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.17,
+      516.77,
+      396.74,
+      552.11
+    ],
+    "text": "(2) Without prejudice to the generality of the powersconferred by subsection (1), the Board may, in particular,make rules in respect of all or any of the following matters:-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      564.77,
+      338.63,
+      576.11
+    ],
+    "text": "(a)criteria for licensing under this Act;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      588.77,
+      396.72,
+      612.11
+    ],
+    "text": "(b)evaluation fee for an application for a licence as amicrofinance company;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.61,
+      624.77,
+      396.71,
+      648.11
+    ],
+    "text": "(c)annual licence fee payable to the Board bymicrofinance companies;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      172.89,
+      660.77,
+      374.62,
+      672.11
+    ],
+    "text": "(d)forms to be used for the purposes of this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      402.69,
+      337.39,
+      443.14,
+      375.26
+    ],
+    "text": "Monitoringcompliancewithdirections.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      402.69,
+      469.87,
+      443.98,
+      488.54
+    ],
+    "text": "Board maymake rules.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "8Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.87,
+      265.06,
+      155.94,
+      275.41
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      148.15,
+      433.06,
+      155.59,
+      443.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147.43,
+      348.58,
+      155.71,
+      358.93
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146.71,
+      517.06,
+      155.71,
+      527.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      146.95,
+      613.06,
+      155.23,
+      623.41
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.83,
+      192.77,
+      402.1,
+      216.11
+    ],
+    "text": "(3) Every rule made by the Board under this Act shallbe published in the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      263.95,
+      228.77,
+      299.95,
+      240.11
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      174.43,
+      252.77,
+      389.71,
+      264.11
+    ],
+    "text": "FINANCIAL STATEMENTS AND AUDIT OF LICENSED MICROFINANCE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      262.87,
+      267.5,
+      301.14,
+      275.44
+    ],
+    "text": "COMPANIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.83,
+      288.77,
+      402.22,
+      336.11
+    ],
+    "text": "14.(1) Every licensed microfinance company shall atthe expiration of each financial year prepare in accordancewith the Sri Lanka Accounting Standards, financialstatements including-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177.67,
+      348.77,
+      402.08,
+      372.11
+    ],
+    "text": "(a)a statement of financial position as at the end of thefinancial year; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177.67,
+      384.77,
+      402.12,
+      408.11
+    ],
+    "text": "(b)a statement of comprehensive income in respect ofsuch financial year.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.83,
+      420.77,
+      402.09,
+      456.11
+    ],
+    "text": "(2) The financial statements prepared by a licensedmicrofinance company shall be audited by a qualifiedauditor.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.83,
+      468.77,
+      402.14,
+      492.11
+    ],
+    "text": "(3) The financial year of a licensed microfinance companyshall commence from first of January, every year.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      161.83,
+      504.77,
+      402.11,
+      540.11
+    ],
+    "text": "(4) Every licensed microfinance company shall transmitto the Director within three months after the closure of eachfinancial year-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177.67,
+      552.77,
+      365.86,
+      564.11
+    ],
+    "text": "(a) audited financial statements including \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      203.83,
+      576.77,
+      402.09,
+      600.11
+    ],
+    "text": "(i)the statement of financial position of thecompany as at the end of the financial year;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      200.83,
+      612.77,
+      402.1,
+      636.11
+    ],
+    "text": "(ii)the statement of comprehensive income ofthe company for that financial year;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      177.67,
+      648.77,
+      402.08,
+      672.11
+    ],
+    "text": "(b)the auditor\u2019s report in respect of the financialstatements;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      408.19,
+      289.39,
+      455.84,
+      346.46
+    ],
+    "text": "F i n a n c i a lyear and auditof accounts ofa licensedmicrofinancecompany.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      248.97,
+      168.97,
+      396.89,
+      180.16
+    ],
+    "text": "9Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      146.61,
+      264.58,
+      150.68,
+      274.93
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.09,
+      408.1,
+      151.53,
+      418.45
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.89,
+      336.1,
+      151.17,
+      346.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.65,
+      490.9,
+      151.65,
+      501.25
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.89,
+      565.06,
+      151.17,
+      575.41
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.89,
+      637.06,
+      151.17,
+      647.41
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.77,
+      191.69,
+      396.7,
+      215.03
+    ],
+    "text": "(c)the report by the directors relating to the state ofaffairs of the company; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      172.89,
+      227.69,
+      396.72,
+      251.03
+    ],
+    "text": "(d)a certified copy of the auditor\u2019s confidential letter,if any, to the board of directors of the company.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.17,
+      263.69,
+      396.74,
+      323.03
+    ],
+    "text": "(5) Every licensed microfinance company shall exhibitdocuments specified in paragraph (a) of subsection (4) in aconspicuous place of each of its places of business untilthose documents for the succeeding financial year areprepared and exhibited.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.17,
+      335.69,
+      396.75,
+      395.03
+    ],
+    "text": "(6) The Board may specify the forms of the financialstatements referred to in this Part and any disclosurerequirements to be made and where such forms are specified,financial statements of every licensed microfinancecompany shall be prepared in such form.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.17,
+      407.69,
+      396.75,
+      455.03
+    ],
+    "text": "(7) Unless otherwise determined by the Board, thefinancial statements of a licensed microfinance companyshall be signed, on behalf of such company by the chiefexecutive officer and two members of the board of directors.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      258.57,
+      467.69,
+      295.28,
+      479.03
+    ],
+    "text": "PART VI",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      175.65,
+      491.69,
+      378.09,
+      503.03
+    ],
+    "text": "EXAMINATION AND SUPERVISON OF LICENSED MICROFINANCE",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      257.85,
+      506.42,
+      296.12,
+      514.36
+    ],
+    "text": "COMPANIES",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      157.17,
+      527.69,
+      396.7,
+      599.03
+    ],
+    "text": "15.(1) The Director or any officer of the Central Bankauthorized by him, or any other person authorized by theDirector with the approval of the Board, may at any timeexamine the books of accounts and records of any licensedmicrofinance company and for that purpose may do one ormore of the following:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      171.57,
+      611.69,
+      396.73,
+      671.03
+    ],
+    "text": "(a)require any licensed microfinance company, ora director, secretary, manager, employee,auditor, agent or contractor of any licensedmicrofinance company to furnish him all suchinformation as he may consider necessary and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      402.69,
+      529.39,
+      449.14,
+      586.46
+    ],
+    "text": "Examinationandsupervisionof licensedmicrofinancecompanies.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "10Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.39,
+      242.62,
+      155.46,
+      252.97
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.67,
+      374.86,
+      155.11,
+      385.21
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      146.59,
+      315.1,
+      154.87,
+      325.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      146.71,
+      448.42,
+      155.71,
+      458.77
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.67,
+      520.42,
+      155.95,
+      530.77
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.43,
+      579.22,
+      155.71,
+      589.57
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      197.83,
+      192.77,
+      402.22,
+      276.71
+    ],
+    "text": "to produce for inspection books, records, files,registers, and such other documents, maintainedin print or electronic form, of such licensedmicrofinance company and to provideauthenticated copies in any form as required ofsuch books, records, files, registers and suchother documents;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      177.67,
+      289.61,
+      402.11,
+      397.79
+    ],
+    "text": "(b)enter the premises or storage area of any licensedmicrofinance company, and notwithstandinganything to the contrary in any other law, examinebooks, records, files, registers, and such otherdocuments, maintained in print or electronic form,of such licensed microfinance company and mayobtain copies, authenticated or otherwise, in anyform of such books, records, files, registers and suchother documents;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      178.39,
+      410.57,
+      402.11,
+      506.63
+    ],
+    "text": "(c)require any licensed microfinance company or adirector, manager, employee, agent, contractor orsecretary of any licensed microfinance company tosubmit the accounts of such licensed microfinancecompany, furnish such information and producesuch books, records, files, registers, and such otherdocuments, maintained in print or electronic form,for audit by an auditor authorized by the Director;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      177.67,
+      519.53,
+      402.11,
+      688.07
+    ],
+    "text": "(d)question and record statements of or, if necessary,direct any director, shareholder, secretary, manager,employee, agent, auditor or contractor of anylicensed microfinance company and of any otherperson who may be acquainted with or is aware ofor is in possession of, information regarding thebusiness or corporate affairs of such licensedmicrofinance company to submit answers to thequestions raised by way of an affidavit or ifnecessary administer oath or affirmation inaccordance with the Oaths and AffirmationOrdinance (Chapter 17) and cause questions to beasked and record or cause the recording ofstatements;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.43,
+      643.06,
+      154.87,
+      653.41
+    ],
+    "text": "35",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "11Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      147.57,
+      240.82,
+      151.64,
+      251.17
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      143.85,
+      385.54,
+      151.29,
+      395.89
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      313.06,
+      151.17,
+      323.41
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      446.14,
+      151.89,
+      456.49
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.89,
+      517.3,
+      151.17,
+      527.65
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      142.41,
+      601.06,
+      150.69,
+      611.41
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.17,
+      204.77,
+      396.74,
+      276.11
+    ],
+    "text": "(e)call for information by notice in writing from anyperson who may be acquainted with or is aware ofor is in possession of or appears to have informationregarding the business or corporate affairs of anylicensed microfinance company and if requiredsummon such person for an interview;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175.17,
+      288.77,
+      396.74,
+      384.11
+    ],
+    "text": "(f)require any related party of a licensed microfinancecompany to furnish information as the Director mayconsider necessary and to produce for inspectionbooks, records, files, registers and such otherdocuments maintained in print or electronic form,of such related party and to provide authenticatedcopies in any form as required of such books,records, files, registers and such other documents.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      193.17,
+      396.77,
+      396.73,
+      504.11
+    ],
+    "text": "For the purposes of this paragraph \u201crelated party\u201dmeans holding company, any subsidiary or associatecompany of any licensed microfinance company, orany subsidiary or associate company of the holdingcompany of any licensed microfinance company, orany other entity or individual that in the view of theDirector has a substantial financial interest orsignificant management interest in any licensedmicrofinance company.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      157.17,
+      516.77,
+      396.7,
+      540.11
+    ],
+    "text": "(2) The cost of such examination may be recovered fromthe licensed microfinance company.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      157.17,
+      552.77,
+      396.72,
+      588.11
+    ],
+    "text": "(3) It shall be the duty of every person to comply withany requirement imposed on him under this section and anyperson who \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.89,
+      600.77,
+      396.72,
+      648.11
+    ],
+    "text": "(a)fails to provide any information or produce forinspection any book, record, file, register or suchother document, material or object required underthis section;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      172.89,
+      660.77,
+      396.71,
+      684.11
+    ],
+    "text": "(b)fails to attend in person when summoned for aninterview;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "12Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      150.91,
+      252.1,
+      154.98,
+      262.45
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      147.19,
+      403.18,
+      154.63,
+      413.53
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      147.43,
+      333.1,
+      155.71,
+      343.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      145.87,
+      497.26,
+      154.87,
+      507.61
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      146.59,
+      579.46,
+      154.87,
+      589.81
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.43,
+      192.77,
+      402.11,
+      227.63
+    ],
+    "text": "(c)provides false or incomplete or incorrectinformation, book, record, file, register or such otherdocument, material or object; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.67,
+      239.69,
+      402.11,
+      274.43
+    ],
+    "text": "(d)obstructs the Director or any person authorized bythe Director under subsection (1) in the performanceof any function thereunder,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      161.83,
+      286.49,
+      338.81,
+      297.83
+    ],
+    "text": "shall be guilty of an offence under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      161.83,
+      309.89,
+      402.12,
+      356.27
+    ],
+    "text": "(4) The Director shall upon the conclusion of theexamination conducted in terms of subsection (1), submit areport to the Board if such examination reveals that thelicensed microfinance company-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.67,
+      368.33,
+      402.17,
+      414.83
+    ],
+    "text": "(a)is carrying on its business adopting unsound orimproper financial practices which are detrimentalto the interests of its depositors, creditors and otherstakeholders; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.67,
+      426.89,
+      402.1,
+      461.63
+    ],
+    "text": "(b)has contravened or failed to comply with anyprovisions of this Act, or any direction, rule, orderor requirement made or imposed thereunder.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      161.83,
+      485.33,
+      402.2,
+      508.43
+    ],
+    "text": "16.(1) Where the Board, on a report made by the Director,is of the opinion that a licensed microfinance company \u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.67,
+      520.49,
+      402.12,
+      566.87
+    ],
+    "text": "(a) is carrying on or is in the process of carrying on itsbusiness following unsound or improper financialpractices which are detrimental to the interest of itsdepositors, creditors and other stakeholders; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      177.67,
+      578.93,
+      402.09,
+      613.67
+    ],
+    "text": "(b) has contravened or failed to comply with anyprovisions of this Act or any direction, rule, orderor requirement made or imposed thereunder,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      161.83,
+      625.73,
+      379.29,
+      637.07
+    ],
+    "text": "the Board may do any one or more of the following:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      203.83,
+      649.13,
+      402.09,
+      672.35
+    ],
+    "text": "(i)direct such licensed microfinance companyto cease any such practice;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      408.19,
+      487.87,
+      454.64,
+      544.94
+    ],
+    "text": "Supervisorymeasures ofthe Board onlicensedmicrofinancecompany.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      147.67,
+      662.62,
+      155.95,
+      672.97
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "13Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      147.57,
+      241.06,
+      151.64,
+      251.41
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.85,
+      380.26,
+      151.29,
+      390.61
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      142.89,
+      310.3,
+      151.17,
+      320.65
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      142.17,
+      462.34,
+      151.17,
+      472.69
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      142.89,
+      532.66,
+      151.17,
+      543.01
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      143.37,
+      605.14,
+      151.65,
+      615.49
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      194.97,
+      192.77,
+      396.71,
+      274.43
+    ],
+    "text": "(ii)direct such licensed microfinance companyto, forthwith or within such period as may bespecified by the Board, comply with theprovisions of this Act, direction, rule, orderor requirement made or imposed thereunderwhich such microfinance company has failedto comply with;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      193.17,
+      286.49,
+      396.73,
+      332.87
+    ],
+    "text": "(iii)direct such licensed microfinance companyto take necessary action to correct thenegative conditions resulting from suchpractice or contravention;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      193.89,
+      344.93,
+      396.74,
+      391.43
+    ],
+    "text": "(iv)restrain any director, manager or controllerof the licensed microfinance company fromcarrying out any function in or in relation tothe microfinance company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      196.89,
+      403.49,
+      396.71,
+      438.23
+    ],
+    "text": "(v)direct such licensed microfinance companyto remove any director, manager or employeeof the company within a specified period;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      193.89,
+      450.29,
+      396.71,
+      496.67
+    ],
+    "text": "(vi)reorganize the licensed microfinancecompany by arranging for the increase of itscapital or reconstitution of the board ofdirectors or both such measures;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      190.89,
+      508.73,
+      396.72,
+      578.63
+    ],
+    "text": "(vii)provide for such arrangements as arenecessary for the amalgamation of thelicensed microfinance company with anotherlicensed microfinance company or any otherinstitution that consents to suchamalgamation;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      187.89,
+      590.69,
+      396.73,
+      637.07
+    ],
+    "text": "(viii) appoint a person to manage the affairs of suchlicensed microfinance company with a viewto assuring proper conduct of the business ofsuch licensed microfinance company;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      192.57,
+      649.13,
+      396.71,
+      672.23
+    ],
+    "text": "(ix)serve a notice in writing on suchmicrofinance company requiring it to show",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "14Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      152.47,
+      238.66,
+      156.54,
+      249.01
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      148.15,
+      377.14,
+      155.59,
+      387.49
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      146.59,
+      307.66,
+      154.87,
+      318.01
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      145.87,
+      457.78,
+      154.87,
+      468.13
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      146.59,
+      549.82,
+      154.87,
+      560.17
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      147.07,
+      630.82,
+      155.35,
+      641.17
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      221.83,
+      192.53,
+      402.24,
+      295.91
+    ],
+    "text": "cause within fourteen days from the dateof the notice why a penalty should not beimposed on such company, and upon itsfailure to show cause within the timespecified therefor or where the causeshown does not satisfy the Board, imposea penalty not exceeding rupees two hundredand fifty thousand payable within suchperiod as may be specified by the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      161.83,
+      307.61,
+      402.09,
+      376.43
+    ],
+    "text": "(2) Any person aggrieved with any order or directionissued or measure taken under subsection (1), may, beforethe expiry of thirty days from the date of the issue of suchorder or direction or the date of such measure taken, appealin writing to the Board and the Board shall render its decisionwithin sixty days of receipt of such appeal.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      262.15,
+      388.13,
+      301.87,
+      399.47
+    ],
+    "text": "PART VII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      178.15,
+      411.05,
+      385.87,
+      422.39
+    ],
+    "text": "CANCELLATION OF THE LICENCE AND WINDING UP OF LICENSED",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      239.71,
+      422.57,
+      324.42,
+      433.91
+    ],
+    "text": "MICROFINANCE COMPANY",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      161.83,
+      445.61,
+      402.24,
+      479.87
+    ],
+    "text": "17.The Board may cancel the licence of a licensedmicrofinance company on any one or more of the followinggrounds :-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      177.67,
+      491.57,
+      402.08,
+      514.43
+    ],
+    "text": "(a)failing to commence business within nine monthsof the issue of the licence;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      177.67,
+      526.13,
+      402.1,
+      548.87
+    ],
+    "text": "(b)failing to satisfy any debt incurred by it, on suchdebt becoming due for payment;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      178.39,
+      560.57,
+      402.1,
+      606.47
+    ],
+    "text": "(c)proposing to make or making any composition orarrangement with its creditors or going intoliquidation or being wound up or otherwisedissolved;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      177.67,
+      618.05,
+      371.84,
+      629.39
+    ],
+    "text": "(d)ceasing to carry on microfinance business;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      178.39,
+      641.09,
+      402.11,
+      663.95
+    ],
+    "text": "(e)acting in contravention of any provisions of thisAct or any direction, requirement, rule, order,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      408.19,
+      433.99,
+      451.63,
+      462.26
+    ],
+    "text": "Grounds forcancellationof a licence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "15Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      147.09,
+      267.1,
+      151.16,
+      277.45
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.85,
+      410.14,
+      151.29,
+      420.49
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.89,
+      337.06,
+      151.17,
+      347.41
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.29,
+      481.06,
+      151.29,
+      491.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      141.93,
+      565.06,
+      150.21,
+      575.41
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      143.13,
+      636.58,
+      151.41,
+      646.93
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      173.97,
+      192.41,
+      396.7,
+      227.03
+    ],
+    "text": "determination issued, imposed or made underthis Act;(f)failing to pay the annual licence fee;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.89,
+      239.69,
+      396.72,
+      275.03
+    ],
+    "text": "(g)carrying on its business in a manner likely to bedetrimental to the interests of its depositors, othercreditors and the economy; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.89,
+      287.69,
+      396.74,
+      323.03
+    ],
+    "text": "(h)furnishing false, misleading or inaccurateinformation or concealing or failing to disclosematerial facts to the Board.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      157.17,
+      335.69,
+      396.74,
+      395.03
+    ],
+    "text": "18.(1) The Board shall, before cancelling the licenceof a licensed microfinance company, serve a notice in writingon such licensed microfinance company requiring it to showcause within thirty days from the date of such notice beingserved as to why its licence should not be cancelled.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      157.17,
+      407.69,
+      396.71,
+      443.03
+    ],
+    "text": "(2) Where the licensed microfinance company fails toshow cause within the specified period the Board may cancelthe licence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      157.17,
+      455.69,
+      396.74,
+      515.03
+    ],
+    "text": "(3) Where in compliance with the notice issued to it undersubsection (1), such licensed microfinance company, showscause within the specified period, the Board may, afterconsidering the reasons provided and hearing the licensedmicrofinance company in support of its objections \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.89,
+      527.69,
+      396.75,
+      563.03
+    ],
+    "text": "(a)not cancel the licence, if it is satisfied that suchmicrofinance company has shown sufficient causeas to why its licence should not be cancelled; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      172.89,
+      575.69,
+      396.75,
+      611.03
+    ],
+    "text": "(b)cancel the licence, if it is satisfied that such licensedmicrofinance company has not shown sufficientcause as to why its licence should not be cancelled.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      157.17,
+      623.69,
+      396.74,
+      671.03
+    ],
+    "text": "(4) In the event of cancellation of a licence, thelicensed microfinance company concerned shall benotified forthwith of such cancellation and thecancellation shall take effect from the date of such",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      402.69,
+      313.87,
+      444.7,
+      351.74
+    ],
+    "text": "Procedureforcancellationof licence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "16Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      152.11,
+      242.98,
+      156.18,
+      253.33
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      148.15,
+      391.06,
+      155.59,
+      401.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.67,
+      316.54,
+      155.95,
+      326.89
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      146.71,
+      477.7,
+      155.71,
+      488.05
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.43,
+      552.7,
+      155.71,
+      563.05
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.43,
+      626.26,
+      155.71,
+      636.61
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      161.83,
+      191.69,
+      402.12,
+      301.31
+    ],
+    "text": "notification. The Board shall publish a notice of suchcancellation at least in one each of Sinhala, Tamil andEnglish daily newspapers circulating in Sri Lanka.(5) Where the licence of a licensed microfinancecompany is cancelled, the Board shall remove the nameof such licensed microfinance company from the registermaintained under section 8 and may issue such directionsto such microfinance company as it considers necessary,including directions for winding up.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      161.83,
+      314.81,
+      402.17,
+      375.71
+    ],
+    "text": "(6) Where such microfinance company fails to complywith any directions issued under subsection (5) within thetime specified by the Board, the Board may require theDirector to file action for the winding up of suchmicrofinance company under section 19.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      161.83,
+      389.21,
+      402.22,
+      474.95
+    ],
+    "text": "19.A competent court may, on an application made bythe Director, order the winding up of such microfinancecompany and accordingly the provisions of the CompaniesAct, No.7 of 2007 relating to winding up of companiessubject to the supervision of court shall mutatis mutandisapply to and in relation to the winding up of suchmicrofinance company.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      259.15,
+      488.33,
+      304.87,
+      499.67
+    ],
+    "text": "PART VIII",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      188.71,
+      513.17,
+      375.43,
+      524.51
+    ],
+    "text": "MICROFINANCE NON-GOVERNMENTAL ORGANIZATIONS",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      161.83,
+      538.01,
+      402.11,
+      611.27
+    ],
+    "text": "20.(1) A non-governmental organization registeredunder the Voluntary Social Service Organizations(Registration and Supervision) Act, No.31 of 1980 is eligibleto apply for a certificate of registration as a microfinancenon-governmental organization (hereinafter referred to asthe \u201cmicrofinance NGO\u201d).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      161.83,
+      624.77,
+      402.13,
+      673.31
+    ],
+    "text": "(2) Every application for a certificate of registration as amicrofinance NGO shall be made to the Registrar of VoluntarySocial Service Organizations (in this Part referred to as the\u201cRegistrar\u201d) in such form and in compliance with the",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      407.47,
+      355.75,
+      451.75,
+      364.82
+    ],
+    "text": "Winding up.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      408.19,
+      502.03,
+      455.83,
+      568.7
+    ],
+    "text": "Non-governmentalorganizationto apply fora certificateofregistration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "17Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      147.57,
+      251.14,
+      151.64,
+      261.49
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      143.49,
+      399.46,
+      150.93,
+      409.81
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.09,
+      320.62,
+      152.37,
+      330.97
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      142.05,
+      480.46,
+      151.05,
+      490.81
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      142.89,
+      551.26,
+      151.17,
+      561.61
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      142.89,
+      632.14,
+      151.17,
+      642.49
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      193.97,
+      396.74,
+      276.47
+    ],
+    "text": "requirements for such registration, together with suchinformation, as may be specified by the Registrar fromtime to time by rules made in that behalf.(3) The Registrar may, on receipt of such application,make such enquiries and call for such further informationand documents as he considers necessary and if he issatisfied that-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.89,
+      288.05,
+      396.74,
+      322.43
+    ],
+    "text": "(a)the applicant has complied with the criteria forregistration as may be laid down by the Registrarfrom time to time by rules made in that behalf; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.17,
+      334.13,
+      396.74,
+      379.91
+    ],
+    "text": "(ii)registration of the applicant would not bedetrimental to the interests of its creditors and otherstakeholders,shall issue a certificate of registrationas a microfinance NGO,",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      391.61,
+      396.73,
+      425.87
+    ],
+    "text": "subject to such terms and conditions as the Registrar maythink fit or where he is not so satisfied, reject the applicationand issue such directions as he may deem necessary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      437.57,
+      396.75,
+      471.95
+    ],
+    "text": "21.Every microfinance NGO shall exhibit its certificateof registration at its principal place of business and a copyof such certificate at every one of its branches.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      483.53,
+      396.72,
+      506.39
+    ],
+    "text": "22.The Registrar shall maintain a register ofmicrofinance NGOs.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      518.09,
+      396.73,
+      563.87
+    ],
+    "text": "23.(1) The Registrar may make rules for the purpose ofcarrying out the provisions of this Part and to give effect tostandards, principles and guidelines issued by the Board interms of Part IX of this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      157.17,
+      575.57,
+      396.75,
+      621.47
+    ],
+    "text": "(2) Without prejudice to the generality of the powersconferred by subsection (1), the Registrar may, in particular,from time to time make rules in respect of all or any of thefollowing matters:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.89,
+      633.05,
+      396.73,
+      644.39
+    ],
+    "text": "(a)criteria for registration under this Part of this Act ;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      172.89,
+      656.09,
+      396.7,
+      678.95
+    ],
+    "text": "(b)annual registration fee payable to the Registrar bya microfinance NGO;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      402.69,
+      481.75,
+      443.14,
+      500.42
+    ],
+    "text": "Registrar tomake rules.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      402.69,
+      447.43,
+      449.14,
+      475.7
+    ],
+    "text": "Register ofmicrofinanceNGOs.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      402.69,
+      402.07,
+      440.14,
+      430.22
+    ],
+    "text": "Exhibitingthecertificate.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "18Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      151.87,
+      249.1,
+      155.94,
+      259.45
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.31,
+      403.42,
+      154.75,
+      413.77
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.43,
+      323.26,
+      155.71,
+      333.61
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      146.83,
+      488.26,
+      155.83,
+      498.61
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      148.39,
+      567.94,
+      156.67,
+      578.29
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.91,
+      649.9,
+      156.19,
+      660.25
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      176.23,
+      202.37,
+      402.1,
+      272.87
+    ],
+    "text": "(c)reporting and disclosure requirements of amicrofinance NGO;(d)terms and conditions for loans and creditfacilities to be granted by a microfinance NGOincluding maximum rates of interest that may becharged on such loans and credit facilities;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      178.39,
+      280.97,
+      402.1,
+      315.35
+    ],
+    "text": "(e)terms and conditions on savings mobilization andthe maximum rates of interest payable on suchsavings;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      179.83,
+      323.45,
+      402.09,
+      346.31
+    ],
+    "text": "(f)the maximum ratio of outstanding deposits tooutstanding loans;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      177.67,
+      354.53,
+      347.1,
+      365.87
+    ],
+    "text": "(g)number of borrowers and depositors;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      177.67,
+      373.97,
+      284.85,
+      385.31
+    ],
+    "text": "(h)consumer protection;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      179.83,
+      393.53,
+      402.12,
+      404.87
+    ],
+    "text": "(i)net assets to be maintained by a microfinance NGO;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      179.83,
+      412.97,
+      402.11,
+      447.35
+    ],
+    "text": "(j)internal controls, risk management and a code ofcorporate governance to be adopted by amicrofinance NGO;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      178.39,
+      455.45,
+      402.11,
+      478.31
+    ],
+    "text": "(k)the types of activities that may be carried on by amicrofinance NGO;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      179.83,
+      486.53,
+      328.28,
+      497.87
+    ],
+    "text": "(l)forms to be used under this Part.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      161.83,
+      509.45,
+      402.11,
+      532.31
+    ],
+    "text": "(3) Every rule made by the Registrar shall be publishedin the Gazette.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      161.83,
+      544.01,
+      402.22,
+      578.27
+    ],
+    "text": "24.(1) Every microfinance NGO shall prepare andfurnish financial statements in such manner, form and atintervals or times as may be specified by the Registrar.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      161.83,
+      589.97,
+      402.12,
+      612.83
+    ],
+    "text": "(2) The financial statements prepared by a microfinanceNGO shall be audited by a qualified auditor.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      161.83,
+      624.53,
+      402.12,
+      670.31
+    ],
+    "text": "25.(1) The Registrar or any other officer authorized inwriting by him in that behalf, may at any time examine thebooks of accounts and records of any microfinance NGO andfor that purpose may do any one or more of the following:\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      408.19,
+      510.79,
+      443.47,
+      548.66
+    ],
+    "text": "Duty toprovidefinancialstatement.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      408.19,
+      592.03,
+      455.48,
+      629.9
+    ],
+    "text": "Registrarmay examinebooks ofaccounts etc.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "19Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      146.61,
+      238.06,
+      150.68,
+      248.41
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.61,
+      376.06,
+      151.05,
+      386.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.09,
+      306.1,
+      152.37,
+      316.45
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.17,
+      445.06,
+      151.17,
+      455.41
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.89,
+      525.1,
+      151.17,
+      535.45
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      142.05,
+      595.18,
+      150.33,
+      605.53
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      171.57,
+      203.93,
+      396.73,
+      319.07
+    ],
+    "text": "(a)require any microfinance NGO, or a director,manager, employee or auditor of anymicrofinance NGO to furnish him all suchinformation as he may consider necessary andto produce for inspection books, records, files,registers, and such other documents of suchmicrofinance NGO and to provide authenticatedcopies in any form as required of such books,records, files, registers and such otherdocuments;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      172.89,
+      330.65,
+      396.75,
+      388.07
+    ],
+    "text": "(b)enter and examine books, records, files, registers,and such other documents of a microfinance NGOand may obtain copies, authenticated or otherwise,in any form of such books, records, files, registersand such other documents;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      173.61,
+      399.65,
+      396.74,
+      479.99
+    ],
+    "text": "(c)require any microfinance NGO or a director,manager, employee or auditor of any microfinanceNGO to submit the accounts of such microfinanceNGO, furnish such information and produce suchbooks, records, files, registers and such otherdocuments for audit by a qualified auditorauthorized by the Registrar.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      157.17,
+      491.69,
+      396.73,
+      514.55
+    ],
+    "text": "(2) The cost of such examination may be recovered fromthe microfinance NGO.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      157.17,
+      526.13,
+      396.71,
+      560.51
+    ],
+    "text": "(3) It shall be the duty of every person to comply withany requirement imposed on him under subsection (1) andany person who-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      172.89,
+      572.21,
+      396.7,
+      606.47
+    ],
+    "text": "(a)fails to provide any information or produce forinspection any book, record, file, register or suchother document required under this section;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      172.89,
+      618.17,
+      396.71,
+      652.55
+    ],
+    "text": "(b)provides false or incomplete or incorrectinformation, book, record, file, register or such otherdocument; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "20Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      152.11,
+      248.14,
+      156.18,
+      258.49
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.67,
+      320.5,
+      155.95,
+      330.85
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      146.83,
+      458.26,
+      155.83,
+      468.61
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.91,
+      393.82,
+      155.35,
+      404.17
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.67,
+      524.74,
+      155.95,
+      535.09
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.67,
+      597.7,
+      155.95,
+      608.05
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      177.43,
+      192.41,
+      402.1,
+      238.19
+    ],
+    "text": "(c)obstructs the Registrar or any person authorizedby the Registrar under subsection (1) in theperformance of any function under subsection(1),",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      161.83,
+      248.45,
+      402.22,
+      282.71
+    ],
+    "text": "shall be guilty of an offence under this Act.26.Where the Registrar is of the opinion that amicrofinance NGO\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      177.67,
+      290.93,
+      402.12,
+      336.71
+    ],
+    "text": "(a)is carrying on or is in the process of carrying on, itsbusiness adopting unsound or improper financialpractices detrimental to the interest of its depositorsand other creditors; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      177.67,
+      344.93,
+      402.1,
+      379.19
+    ],
+    "text": "(b)has contravened or failed to comply with anyprovisions of this Act, or any direction, rule, orderor requirement made or imposed thereunder,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      161.83,
+      387.41,
+      402.12,
+      410.27
+    ],
+    "text": "the Registrar may take any one or more of the followingactions:\u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      203.83,
+      418.37,
+      402.08,
+      441.23
+    ],
+    "text": "(i)direct such microfinance NGO to cease anysuch practice;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      200.83,
+      449.33,
+      402.1,
+      518.27
+    ],
+    "text": "(ii)direct such microfinance NGO to forthwithor within such period as may be specified bythe Registrar, comply with the provisions ofthis Act or rule, or requirement made orimposed thereunder which such microfinanceNGO has failed to comply with;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      197.83,
+      526.37,
+      402.1,
+      572.27
+    ],
+    "text": "(iii)direct such microfinance NGO to takenecessary action to correct the negativeconditions resulting from such practice orcontravention;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      198.55,
+      580.37,
+      402.09,
+      626.27
+    ],
+    "text": "(iv)restrain any director, manager or controllerof the microfinance NGO from carrying outany function in or in relation to themicrofinance NGO;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      201.55,
+      634.37,
+      402.11,
+      657.23
+    ],
+    "text": "(v)remove any director, manager or employeeof the microfinance NGO;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      408.19,
+      193.87,
+      454.63,
+      212.54
+    ],
+    "text": "Powers ofthe Registrar.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.31,
+      665.14,
+      154.75,
+      675.49
+    ],
+    "text": "35",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "21Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      146.37,
+      239.02,
+      150.44,
+      249.37
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      192.57,
+      192.41,
+      396.71,
+      226.79
+    ],
+    "text": "(vi)re-organize the microfinance NGO byarranging for the reconstitution of its boardof directors:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      217.17,
+      234.89,
+      396.72,
+      384.23
+    ],
+    "text": "Provided however, the Registrar shall,before taking any of the actions referredto in subparagraph (iv), (v) or (vi) of thissection, serve a notice in writing on suchdirector, manager, controller, employee orthe board of directors requiring him or it,as the case may be, to show cause withinfourteen days from the date of such notice,why action as referred to in the relevantsubparagraph should not be taken againsthim or it, as the case may be, and satisfyhimself that no satisfactory cause has beenmade out.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      157.17,
+      395.93,
+      396.72,
+      430.19
+    ],
+    "text": "27.(1) The Registrar may cancel the registration of amicrofinance NGO on any one or more of the followinggrounds:-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      172.89,
+      438.41,
+      396.69,
+      461.27
+    ],
+    "text": "(a)failing to satisfy any debt incurred by it, on suchdebt becoming due;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      172.89,
+      469.37,
+      396.73,
+      515.27
+    ],
+    "text": "(b)proposing to make or making any composition orarrangement with its creditors or going intoliquidation or being wound up or otherwisedissolved;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.61,
+      523.37,
+      368.65,
+      534.71
+    ],
+    "text": "(c)ceasing to accept limited savings deposits;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      172.89,
+      542.93,
+      396.73,
+      588.71
+    ],
+    "text": "(d)acting in contravention of any provisions of thisAct or any direction, requirement, rule, order ordetermination issued, imposed or made under thisAct;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      173.61,
+      596.93,
+      361.19,
+      608.27
+    ],
+    "text": "(e)failing to pay the annual registration fee;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      175.17,
+      616.37,
+      396.73,
+      650.75
+    ],
+    "text": "(f)carrying on its business in a manner likely to bedetrimental to the interests of its depositors andother creditors;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      402.69,
+      307.99,
+      444.7,
+      345.86
+    ],
+    "text": "Registrar\u2019spower tocancelregistration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      142.89,
+      307.66,
+      151.17,
+      318.01
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      142.17,
+      454.54,
+      151.17,
+      464.89
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.25,
+      380.98,
+      150.69,
+      391.33
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      142.89,
+      525.94,
+      151.17,
+      536.29
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      142.89,
+      591.94,
+      151.17,
+      602.29
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      143.61,
+      662.14,
+      151.05,
+      672.49
+    ],
+    "text": "35",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "22Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      150.91,
+      253.54,
+      154.98,
+      263.89
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.43,
+      322.9,
+      155.71,
+      333.25
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      146.71,
+      464.5,
+      155.71,
+      474.85
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.79,
+      394.06,
+      155.23,
+      404.41
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.43,
+      533.98,
+      155.71,
+      544.33
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.43,
+      628.06,
+      155.71,
+      638.41
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      176.23,
+      194.45,
+      402.1,
+      228.71
+    ],
+    "text": "(g)furnishing false, misleading or inaccurateinformation or concealing or failing to disclosematerial facts to the Registrar.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      161.83,
+      238.85,
+      402.21,
+      331.31
+    ],
+    "text": "(2) The Registrar shall, before cancelling theregistration of a microfinance NGO, serve a notice inwriting on such microfinance NGO requiring it to showcause within thirty days from the date of such notice beingserved as to why its registration should not be cancelled.(3) Where the microfinance NGO fails to show causewithin the specified period the Registrar may cancel theregistration.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      161.83,
+      343.37,
+      402.2,
+      401.51
+    ],
+    "text": "(4) Where in compliance with the notice issued to itunder subsection (2), such microfinance NGO, shows causewithin the specified period, the Registrar may, afterconsidering the reasons provided and hearing themicrofinance NGO in support of its objections \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      177.67,
+      413.57,
+      402.12,
+      459.95
+    ],
+    "text": "(a)not cancel the registration, if he is satisfied thatsuch microfinance NGO has shown sufficient causeas to why its registration should not be cancelled;or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      177.67,
+      472.01,
+      402.09,
+      506.75
+    ],
+    "text": "(b)cancel the registration, if he is satisfied that suchmicrofinance NGO has not shown sufficient causeas to why its registration should not be cancelled.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      161.83,
+      518.81,
+      402.22,
+      588.71
+    ],
+    "text": "(5) In the event of cancellation of a registration, themicrofinance NGO concerned shall be notified forthwith ofsuch cancellation and the cancellation shall take effect fromthe date of such notification. The Registrar shall publish anotice of such cancellation at least in one each of Sinhala,Tamil and English daily newspapers circulating in Sri Lanka.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      161.83,
+      600.77,
+      402.24,
+      670.55
+    ],
+    "text": "(6) Where the certificate of registration of amicrofinance NGO is cancelled, the Registrar shall removethe name of such microfinance NGO from the registermaintained under section 22 and may issue such directionsto such non-governmental organisation as he considersnecessary.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      408.19,
+      628.15,
+      456.19,
+      656.42
+    ],
+    "text": "Principales,standards andGuidelines.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "23Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      257.37,
+      205.25,
+      296.36,
+      216.59
+    ],
+    "text": "PART IX",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      160.53,
+      228.65,
+      393.33,
+      251.63
+    ],
+    "text": "PRINCIPLES, STANDARDS AND GUIDELINES LAID DOWN BY THEBOARD",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      157.17,
+      263.69,
+      396.73,
+      369.83
+    ],
+    "text": "28.(1) Notwithstanding anything to the contraryin this Act or any other written law, the Board may inorder to ensure that microfinance business and lendingactivities are carried on in a transparent, professional andprudent manner and to strengthen, develop and makequalitative improvements in the regulation andsupervision of such activities for consumer protection,set principles or standards or issue guidelines in respectof-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      172.89,
+      382.49,
+      396.72,
+      417.83
+    ],
+    "text": "(a)microfinance NGOs regulated by the Registrar ofVoluntary Social Service Organizations in terms ofPart VIII of this Act; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      172.89,
+      430.49,
+      381.49,
+      441.83
+    ],
+    "text": "(b)micro credit non-governmental organizations.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      157.17,
+      454.49,
+      396.74,
+      501.83
+    ],
+    "text": "(2) The Registrar of Voluntary Social ServiceOrganizations shall give effect to the principles, standardsor guidelines laid down by the Board under subsection (1),by making appropriate rules governing microfinance NGOs.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      157.17,
+      514.49,
+      396.75,
+      561.83
+    ],
+    "text": "(3) Nothing in this section shall be deemed to enablea non-governmental organization other than one which isregistered in terms of Part VIII of this Act to accept limitedsavings deposits.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      157.17,
+      574.49,
+      396.71,
+      621.83
+    ],
+    "text": "(4) The Board may call for monthly, quarterly, semi-annual or annual financial data of a microfinance NGOreferred to in subsection (1) from the Registrar of VoluntarySocial Service Organizations.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      260.01,
+      634.49,
+      293.73,
+      645.83
+    ],
+    "text": "PART X",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      225.57,
+      658.49,
+      328.29,
+      669.83
+    ],
+    "text": "IMMUNITY FROM PROSECUTION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      146.25,
+      253.42,
+      150.32,
+      263.77
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      142.77,
+      337.3,
+      151.05,
+      347.65
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      142.05,
+      483.1,
+      151.05,
+      493.45
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      143.13,
+      410.62,
+      150.57,
+      420.97
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      142.77,
+      577.66,
+      151.05,
+      588.01
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      142.77,
+      637.66,
+      151.05,
+      648.01
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      402.69,
+      555.31,
+      446.14,
+      583.58
+    ],
+    "text": "Immunityfromprosecution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "24Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      161.83,
+      204.77,
+      402.23,
+      450.71
+    ],
+    "text": "29.(1) No prosecution shall be instituted in any courtagainst the Board or a member thereof, the Director orany officer or servant of the Central Bank or any otherperson authorized by the Board or the Director under thisAct to carry out any duty or function, by reason of anyact done or purported to be done, or omitted to be doneby such person under this Act or any direction, rule, orderor requirement made or imposed thereunder unless theprior written sanction of the Attorney-General has beenfirst obtained for such prosecution.(2) Any expenses incurred by a member of the Board,the Director or any officer or servant of the Central Bankor any other person authorized by the Board, in any suitor prosecution brought against such person before anycourt in respect of any act which is done or purported tobe done or omitted to be done by such person under thisAct or any direction, rule, order or requirement made orimposed thereunder, as the case may be, shall if the courtholds that such act was done in good faith, be paid out bythe Board unless such expenses are recovered by him insuch suit or prosecution.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      263.71,
+      462.41,
+      300.42,
+      473.75
+    ],
+    "text": "PART XI",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      266.23,
+      481.85,
+      297.79,
+      493.19
+    ],
+    "text": "GENERAL",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      161.83,
+      504.89,
+      402.2,
+      562.19
+    ],
+    "text": "30.The provisions of the Finance Business Act, No.42of 2011 and Part IXA of the Banking Act, No.30 of 1988shall not apply to any licensed microfinance company,microfinance NGO or micro credit non governmentaloganization.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      161.83,
+      573.89,
+      402.22,
+      608.27
+    ],
+    "text": "31.The provisions of this Act or any regulation, orderor rule made under this Act shall have effect notwithstandinganything to the contrary in any other written law.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      161.83,
+      619.85,
+      402.09,
+      665.75
+    ],
+    "text": "32.No person other than a licensed microfinancecompany, a microfinance NGO or an institution exemptedfrom the application of the provisions of this Act undersection 2, shall carry on microfinance business.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      408.43,
+      372.91,
+      454.87,
+      429.98
+    ],
+    "text": "The FinanceBusiness Actand Part IXAof theBanking Actnot to apply.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      408.19,
+      442.39,
+      446.47,
+      461.06
+    ],
+    "text": "Effect ofother laws.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      408.43,
+      546.31,
+      450.44,
+      564.98
+    ],
+    "text": "Transitionalprovision.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      408.79,
+      488.83,
+      455.24,
+      526.7
+    ],
+    "text": "Restriction tocarry onmicrofinancebusiness.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      151.51,
+      238.78,
+      155.58,
+      249.13
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      146.95,
+      296.98,
+      155.23,
+      307.33
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      146.23,
+      452.86,
+      155.23,
+      463.21
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      147.31,
+      385.42,
+      154.75,
+      395.77
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      146.95,
+      522.34,
+      155.23,
+      532.69
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      146.95,
+      603.46,
+      155.23,
+      613.81
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "25Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      157.17,
+      192.41,
+      396.72,
+      238.19
+    ],
+    "text": "33. Notwithstanding anything to the contrary insection 32, any person carrying on microfinance businesson the day preceding the date of coming into operationof any Part of this Act-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      171.57,
+      249.89,
+      396.71,
+      284.27
+    ],
+    "text": "(a)may from the date of coming into operation ofany Part of this Act, continue to carry on suchbusiness for a period of eighteen months; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      171.57,
+      295.85,
+      396.72,
+      367.67
+    ],
+    "text": "(b)shall comply with the provisions of this Act andapply for-(i)a licence to continue his business as alicensed microfinance company within suchperiod as may be specified by the Board bynotice published in the Gazette:",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      217.17,
+      380.93,
+      396.75,
+      490.67
+    ],
+    "text": "Provided however, notwithstanding PartVIII of this Act being not operative on theday when Part I comes into operation, suchperson shall comply with the provisions ofthis Act and apply for a licence to continuehis business as a licensed microfinancecompany within such period as may bespecified by the Board by notice publishedin the Gazette;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      196.17,
+      503.93,
+      396.74,
+      552.23
+    ],
+    "text": "(ii)a certificate of registration to continue hisbusiness as a microfinance NGO within suchperiod as may be specified by the Registrarby notice published in the Gazette;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      173.61,
+      565.49,
+      396.57,
+      589.07
+    ],
+    "text": "(c)the period referred to under paragraph (b) above shallfall within the period referred to in paragraph (a).",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      157.17,
+      602.33,
+      396.74,
+      662.87
+    ],
+    "text": "34.No person other than a licensed microfinancecompany, microfinance NGO or an institution exemptedunder section 2 of this Act shall use in its name, the words\u201cmicrofinance\u201d or any of its derivatives or its transliterationor its equivalent in any other language whether alone or in",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      402.69,
+      476.59,
+      448.42,
+      524.06
+    ],
+    "text": "Restrictionon the use ofthe term\u201cmicrofinance\u201d.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      402.69,
+      575.35,
+      436.41,
+      584.42
+    ],
+    "text": "Offences.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      146.85,
+      254.74,
+      150.92,
+      265.09
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.25,
+      316.3,
+      151.53,
+      326.65
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      142.53,
+      475.18,
+      151.53,
+      485.53
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.61,
+      389.62,
+      151.05,
+      399.97
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.25,
+      537.46,
+      151.53,
+      547.81
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      143.25,
+      611.5,
+      151.53,
+      621.85
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "26Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      161.47,
+      192.89,
+      402.47,
+      216.59
+    ],
+    "text": "combination with any other word, without the priorwritten approval of the Board.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      161.47,
+      229.85,
+      402.48,
+      362.87
+    ],
+    "text": "35.(1) Any person who contravenes or fails tocomply with any provisions of this Act or any rule,direction, order or requirement issued or imposedthereunder shall be guilty of an offence under this Actand shall be liable on conviction after summary trialbefore a Magistrate to a fine not exceeding one millionrupees or to imprisonment of either description for a termnot exceeding one year or to both such fine andimprisonment.(2) Where an offence under this Act is committed by abody of persons, then,-",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      177.19,
+      374.45,
+      402.46,
+      408.83
+    ],
+    "text": "(a)if that body of persons is a body corporate, everydirector, manager, or secretary of that bodycorporate;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      174.91,
+      420.53,
+      402.45,
+      443.27
+    ],
+    "text": "(b)if that body of persons is a firm, every partner of thefirm; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      177.91,
+      454.97,
+      402.45,
+      477.83
+    ],
+    "text": "(c)if that body of persons is an unincorporated bodyother than a firm, every member of such body,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      161.47,
+      489.53,
+      342.16,
+      500.87
+    ],
+    "text": "shall be deemed to be guilty of that offence:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      161.47,
+      512.45,
+      402.48,
+      581.27
+    ],
+    "text": "Provided however, that a director, manager or secretaryof such body corporate or a partner of such firm or a memberof such unincorporated body, shall not be deemed to be guiltyof such offence if he proves that such offence was committedwithout his knowledge or that he exercised all due diligenceto prevent the commission of such offence.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      161.47,
+      592.97,
+      402.51,
+      673.31
+    ],
+    "text": "36.(1) Subject to such rules, if any, as may be made bythe Board, the Board may, in writing, authorize an officer ofthe Central Bank or any other person to represent the Boardfor any of the purposes of this Act, so however, the Boardshall remain and continue to remain responsible for any actor thing done or omitted to be done by such officer or personrepresenting the Board under such authorization.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      408.19,
+      445.39,
+      449.47,
+      483.26
+    ],
+    "text": "Board to beresponsiblefor acts ofofficers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      409.15,
+      617.83,
+      456.8,
+      626.9
+    ],
+    "text": "Interpretation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      151.51,
+      250.54,
+      155.58,
+      260.89
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      147.07,
+      342.82,
+      155.35,
+      353.17
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      146.23,
+      480.46,
+      155.23,
+      490.81
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      147.31,
+      411.1,
+      154.75,
+      421.45
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      147.07,
+      548.98,
+      155.35,
+      559.33
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      147.07,
+      618.1,
+      155.35,
+      628.45
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "27Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      157.17,
+      192.41,
+      396.72,
+      261.23
+    ],
+    "text": "(2) The Board may in writing delegate to any officerof the Central Bank any of its powers and duties underthis Act, so however, that the Board shall remain andcontinue to be responsible for any act or thing done oromitted to be done by such officer in the exercise of suchpowers delegated to him.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      169.17,
+      272.93,
+      396.72,
+      284.27
+    ],
+    "text": "37.In this Act, unless the context otherwise requires\u2013",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      295.85,
+      396.71,
+      341.75
+    ],
+    "text": "\u201cBoard\u201d means the Monetary Board of theCentral Bank of Sri Lanka establishedunder the Monetary Law Act, (Chapter422);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      353.45,
+      396.72,
+      387.71
+    ],
+    "text": "\u201cCentral Bank\u201d means the Central Bank of SriLanka established under the Monetary LawAct, (Chapter 422);",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      395.93,
+      396.71,
+      430.19
+    ],
+    "text": "\u201cdeposit\u201d shall have the meaning assigned to itunder the Finance Business Act, No. 42 of2011 as may be amended from time to time;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      438.41,
+      396.75,
+      484.19
+    ],
+    "text": "\u201cDirector\u201d means the head of the department of theCentral Bank to which the subject ofmicrofinance companies has been assignedand includes an acting director;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      492.41,
+      396.71,
+      515.27
+    ],
+    "text": "\u201clicensed microfinance company\u201d means acompany, licensed under this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      193.17,
+      523.37,
+      288.46,
+      534.71
+    ],
+    "text": "\u201cliquid assets\u201d means \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      226.89,
+      542.93,
+      301.9,
+      554.27
+    ],
+    "text": "(a)cash in hand;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      226.89,
+      560.33,
+      396.71,
+      594.71
+    ],
+    "text": "(b)balances in a current or depositaccount in a commercial bank, freefrom any bankers\u2019 lien or charge;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      227.61,
+      600.89,
+      396.72,
+      646.67
+    ],
+    "text": "(c)Sri Lanka Government Treasury Billsand Treasury Bonds maturing withinone year, and free from any lien orcharge;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      146.85,
+      247.42,
+      150.92,
+      257.77
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.37,
+      313.18,
+      151.65,
+      323.53
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      142.65,
+      464.98,
+      151.65,
+      475.33
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.73,
+      399.46,
+      151.17,
+      409.81
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.37,
+      533.38,
+      151.65,
+      543.73
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.37,
+      602.86,
+      151.65,
+      613.21
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "28Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      230.35,
+      192.41,
+      402.1,
+      226.79
+    ],
+    "text": "(d)Sri Lanka Government Securitiesmaturing within one year and freefrom any lien or charge;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      230.95,
+      232.85,
+      402.11,
+      267.23
+    ],
+    "text": "(e)Central Bank of Sri Lanka securitiesmaturing within one year and freefrom any lien or charge; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      232.75,
+      273.41,
+      402.09,
+      296.27
+    ],
+    "text": "(f)Such other asserts as may bedetermined by the Board;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      197.95,
+      302.45,
+      402.09,
+      325.19
+    ],
+    "text": "\u201cmicrofinance business\u201d means acceptingdeposits and providing :-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      224.35,
+      336.89,
+      402.1,
+      359.75
+    ],
+    "text": "(a)financial accommodation in anyform;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      224.35,
+      371.45,
+      361.16,
+      382.79
+    ],
+    "text": "(b)other financial services; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      225.55,
+      394.37,
+      402.09,
+      417.23
+    ],
+    "text": "(c)financial accommodation in any formand other financial services,",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      197.95,
+      425.33,
+      402.1,
+      448.19
+    ],
+    "text": "mainly to low income persons and micro enterprisesin conformity with the Schedule to this Act;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      197.95,
+      456.41,
+      402.12,
+      548.27
+    ],
+    "text": "\u201cmicrofinance NGO\u201d means a non-governmentalorganization registered under the VoluntarySocial Service Organizations (Registrationand Supervision) Act, No.31 of 1980 andissued with a certificate of registration by theRegistrar of Voluntary Social ServiceOrganizations under this Act to accept limitedsavings deposits;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      197.95,
+      556.37,
+      402.11,
+      636.71
+    ],
+    "text": "\u201cmicro credit non-governmental organization\u201dmeans a non-governmental organizationregistered under the Voluntary Social ServiceOrganizations (Registration and Supervision)Act, No.31 of 1980 and engaged in lendingactivities and not permitted to acceptdeposits;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      197.95,
+      644.93,
+      402.09,
+      667.67
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom the subjectof microfinance is assigned;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      151.27,
+      256.06,
+      155.34,
+      266.41
+    ],
+    "text": "5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      147.67,
+      311.62,
+      155.95,
+      321.97
+    ],
+    "text": "10",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      146.95,
+      443.38,
+      155.95,
+      453.73
+    ],
+    "text": "20",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      148.03,
+      377.86,
+      155.47,
+      388.21
+    ],
+    "text": "15",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      147.67,
+      516.7,
+      155.95,
+      527.05
+    ],
+    "text": "25",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      147.67,
+      582.82,
+      155.95,
+      593.17
+    ],
+    "text": "30",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      147.91,
+      641.62,
+      155.35,
+      651.97
+    ],
+    "text": "35",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      248.97,
+      168.97,
+      396.81,
+      180.16
+    ],
+    "text": "29Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      193.17,
+      192.41,
+      312.59,
+      203.75
+    ],
+    "text": "\u201cqualified auditor\u201d means \u2013",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      219.57,
+      211.85,
+      396.72,
+      292.19
+    ],
+    "text": "(a) an individual who being a memberof the Institute of CharteredAccountants of Sri Lanka or of anyother Institute established by law,possesses a certificate to practice asan Accountant issued by the Councilof such Institute; or",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      157.17,
+      301.37,
+      396.73,
+      427.67
+    ],
+    "text": "(b)a firm of Accountants each of theresident partners of which being amember of the Institute of CharteredAccountants of Sri Lanka or of anyother Institute established by lawpossesses a certificate to practice asan Accountant issued by the Councilof such Institute.38.In the event of any inconsistency between theSinhala and Tamil texts of this Act the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      254.97,
+      464.47,
+      394.05,
+      473.54
+    ],
+    "text": "SCHEDULE[ Section 9 ]",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      157.17,
+      481.99,
+      396.73,
+      499.7
+    ],
+    "text": "A licensed microfinance company may engage in the followingbusinesses :-",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      173.61,
+      505.15,
+      396.71,
+      540.02
+    ],
+    "text": "(a)to provide financial accommodation, with or withoutcollateral security, in cash or in kind, subject to such termsand conditions that the Board may impose for all types ofeconomic activities including housing;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      173.61,
+      545.59,
+      396.73,
+      580.46
+    ],
+    "text": "(b)to accept time and savings deposits and to open, maintainand manage deposits, savings and other similar accountsexcluding however the carrying on of banking business asdefined in the Banking Act, No. 30 of 1988;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.45,
+      586.03,
+      396.7,
+      620.9
+    ],
+    "text": "(c)to accept pledges, mortgages, hypothecations orassignments to it of any kind of movable or immovableproperty for the purpose of securing loans and advancesmade by it;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      173.61,
+      626.35,
+      396.72,
+      661.22
+    ],
+    "text": "(d)to provide credit to buy, sell and supply industrial andagricultural inputs, livestock, machinery and industrial rawmaterials, and to act as an agent for any organization forthe sale of such goods or livestock;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.45,
+      666.79,
+      299.63,
+      675.86
+    ],
+    "text": "(e)to invest its monies prudently;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      175.89,
+      681.43,
+      352.9,
+      690.5
+    ],
+    "text": "(f)to provide storage and safe custody facilities;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      173.61,
+      695.95,
+      396.71,
+      722.3
+    ],
+    "text": "(g)to provide professional advice to its customers regardinginvestments in small businesses, self-employment projectsand cottage industries;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      173.61,
+      727.75,
+      396.72,
+      745.46
+    ],
+    "text": "(h)to provide services and facilities to customers to hedgevarious risks relating to microfinance;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      175.89,
+      751.03,
+      396.71,
+      777.26
+    ],
+    "text": "(i)to render managerial, marketing, technical andadministrative advice to customers and assisting them inobtaining services in such fields;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      175.89,
+      782.83,
+      394.21,
+      791.9
+    ],
+    "text": "(j)to provide technical assistance and training to customers;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      174.45,
+      797.35,
+      396.71,
+      832.22
+    ],
+    "text": "(k)to conduct finance leasing business, pawn brokering andinsurance business after obtaining necessary licence orapproval from the relevant authority and subject to suchrules and regulations of such authority;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      402.69,
+      192.91,
+      451.17,
+      240.38
+    ],
+    "text": "Sinhala textto prevail inthe event ofanyinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      162.19,
+      169.09,
+      309.92,
+      180.64
+    ],
+    "text": "30Microfinance",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      145.03,
+      634.51,
+      457.03,
+      673.33
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]

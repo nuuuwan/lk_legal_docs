@@ -1,0 +1,1067 @@
+THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA
+
+Part II of December 18, 2015
+
+SUPPLEMENT
+
+(Issued on 21. 12. 2015)
+
+MICROFINANCE
+
+A
+
+BILL
+
+to provide for the licensing, regulation and supervision of companiescarrying on microfinance business; the registration of non-governmentalorganizations accepting limited savings deposits as microfinancenon-governmental organizations; for the setting up of standards for theregulation and supervision of microfinance non-governmentalorganizations and micro credit non-governmental organizations and toprovide for matters connected therewith or incidental thereto.
+
+Ordered to be published by the Minister of National Policies andEconomic Affairs
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+Price : Rs. 21.00Postage : Rs. 20.00
+
+1Microfinance
+
+Short titleand date ofoperation.
+
+2—PL 009646—475 (01/2016)
+
+5
+
+15
+
+10
+
+20
+
+L. D.—O 32/2012.
+
+AN ACT TO PROVIDE FOR THE LICENSING, REGULATION AND SUPERVISION
+
+OF COMPANIES CARRYING ON MICROFINANCE BUSINESS; THE
+
+REGISTRATION OF NON-GOVERNMENTAL ORGANIZATIONS ACCEPTING
+
+LIMITED SAVINGS DEPOSITS AS MICROFINANCE NON-GOVERNMENTAL
+
+ORGANIZATIONS; FOR THE SETTING UP OF STANDARDS FOR THE
+
+REGULATION AND SUPERVISION OF MICROFINANCE NON-GOVERNMENTAL
+
+ORGANIZATIONS AND MICRO CREDIT NON-GOVERNMENTAL
+
+ORGANIZATIONS AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH
+
+OR INCIDENTAL THERETO.
+
+BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:-
+
+1.This Act may be cited as the Microfinance Act, No.of 2016 and different Parts of this Act shall come intooperation on different dates as the Minister may appoint byOrder published in the Gazette.
+
+2.(1)The provisions of this Act shall not apply to-
+
+(a)a licensed commercial bank or a licensedspecialized bank within the meaning of theBanking Act, No.30 of 1988;
+
+(b)a finance company within the meaning of theFinance Business Act, No.42 of 2011;
+
+(c)a co-operative society registered under the Co-operative Societies Law, No.5 of 1972 and aco-operative society registered under a Statuteof a Provincial Council;
+
+(d)a divineguma community based bank and adivineguma community based banking societyestablished under the Divineguma Act, No.1of 2013; and
+
+Applicabilityof Act.
+
+2Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(e)an entity formed in terms of the AgrarianDevelopment Act, No.46 of 2000.
+
+(2) The provisions of this Act, other than Part VIII, Part IXand Part XI, shall not apply to a microfinance non-governmental organization and a micro credit non-governmental organization.
+
+PART I
+
+LICENSING OF COMPANIES CARRYING ON MICROFINANCE BUSINESS
+
+3. Save and except as provided for in section 2, a personshall be eligible to apply for a licence under this Act, if suchperson is a company registered under the Companies Act,No.7 of 2007 not being a company limited by guarantee, aprivate company, an offshore company or an overseascompany.
+
+4.(1) Every application for a licence shall be made tothe Board in compliance with such requirements, in suchform, accompanying such information and the evaluationfee as may be specified by the Board from time to time byrules made in that behalf.
+
+(2) The Board may, on receipt of an application undersubsection (1), make such enquiries and call for such furtherinformation and documents as it considers necessary and onbeing satisfied that –
+
+(a)the applicant has complied with all the requirementslaid down by the Board by rules made in that behalf;and
+
+(b)the issue of a licence to the applicant would not bedetrimental to the interests of its creditors and otherstakeholders,
+
+it may issue a licence subject to such terms and conditionsas the Board may think fit or, where it is not so satisfied,reject the application and issue such direction as it deemsnecessary.
+
+Licensingrequirementto carry onmicrofinancebusiness.
+
+Licensingprocedure.
+
+3Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+5.A licence issued by the Board shall be in suchform as may be specified by the Board by rules made inthat behalf and shall remain in force until the thirty-firstday of December next following the date on which thelicence is granted and shall be renewable annually upona fresh application being made.
+
+6.Every licensed microfinance company shall pay anannual licence fee in such amount as may be specified bythe Board from time to time by rules made in that behalf.
+
+7.Every licensed microfinance company shall exhibitits licence at its principal place of business and a copy ofsuch licence at every one of its branches.
+
+8.The Board shall maintain a register of licensedmicrofinance companies.
+
+PART II
+
+BUSINESS RESTRICTIONS ON LICENSED MICROFINANCE COMPANIES
+
+9.(1) A licensed microfinance company may carry onsuch forms of businesses as set out in the Schedule to thisAct and any other form of business as may be specified bythe Board under subsection (2) subject to such restrictionsand conditions as may be imposed by or under any writtenlaw or specified in the licence issued to such licensedmicrofinance company.
+
+(2) The Board may specify by notification published inthe Gazette any form of business that a licensed microfinancecompany may carry on which is not set out in the Scheduleto this Act.
+
+(3) A licensed microfinance company shall not carry onany form of business that is not set out in the Schedulehereto or specified by the Board under subsection (2).
+
+(4) Every notification published in the Gazette undersubsection (2) shall, as soon as convenient, be brought before
+
+Form andduration oflicence.
+
+Licence fee.
+
+Exhibitingthe licence.
+
+Board tomaintain aregister.
+
+Forms ofbusiness tobe specified.
+
+30
+
+4Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+Parliament for approval. Any notification which is notso approved shall be deemed to be rescinded from thedate of such disapproval but without prejudice toanything previously done thereunder.
+
+(5) Notification of the date on which a notification isdeemed to be rescinded shall be published in the Gazette.
+
+PART III
+
+MANAGEMENT OF LICENSED MICROFINANCE COMPANIES
+
+10.(1) The general superintendence and managementof the affairs of a licensed microfinance company shall vestin the board of directors of the company, which shall managethe business and affairs of such company in good faith andin the best interest of its depositors, creditors and otherstakeholders.
+
+(2) A licensed microfinance company shall maintain aregister containing the names of members of the company,members of the board of directors and of the chief executiveofficer.
+
+PART IV
+
+DIRECTIONS TO AND RULES GOVERNING LICENSED MICROFINANCE
+
+COMPANIES
+
+11.Notwithstanding the provisions of any other writtenlaw, the Board may issue directions to licensed microfinancecompanies or to any single licensed microfinance companyor to any group or category of microfinance companies(referred to as “company” in this section) as to the manner inwhich any aspect of the business and corporate affairs ofsuch company are to be conducted, and in particular –
+
+(a) the terms and conditions under which deposits maybe accepted by such company, the maximum ratesof interest payable on such deposits, the maximum
+
+Directions ofthe Board.
+
+Generalsuperintendence.
+
+5Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+period for which deposits may be accepted andthe maximum amount that may be deposited witha company in the name of one person in one ormore accounts;
+
+(b) the terms and conditions under which any loan,credit facility or any type of financialaccommodation may be granted by such company,the maximum rates of interest that may be chargedon such loans, credit facilities or other types offinancial accommodation, and the maximumperiods for which any such loan, credit facility orother type of financial accommodation may begranted;
+
+(c)the maximum rates which may be paid to, or chargedby, such company by way of commissions,discounts, fees or other receipts or paymentswhatsoever;
+
+(d)the terms and conditions under which investmentsmay be made by such company and the maximumpermissible maturities of such investments;
+
+(e)the minimum amount of core capital and totalcapital to be maintained;
+
+(f)the establishment of a reserve fund, minimumpercentage of annual after-tax profits that acompany shall transfer to such fund and otheroperational aspects of such fund;
+
+(g)the minimum ratio which capital of a companyshould bear to the assets and the total depositliabilities of such company;
+
+(h)the minimum ratio which the liquid assets of acompany should bear to the total deposit liabilitiesof such company;
+
+6Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(i)the maximum ratio which total outstandingdeposit liabilities should bear to the totaloutstanding accommodation of such company;
+
+(j)the minimum ratio which the outstandingaccommodation granted to low-income persons andto micro enterprises by the company shall bear tothe total outstanding accommodation granted bysuch company;
+
+(k)the establishment of a deposit insurance fund andthe premium such company shall transfer to suchfund and the other operational aspects of such fund;
+
+(l)internal controls, risk management and a code ofcorporate governance to be adopted by suchcompany;
+
+(m)a code of conduct to be adopted by such company;
+
+(n)criteria to assess the fitness and propriety ofdirectors, the chief executive officer and keymanagement personnel of, and persons withspecified shareholding in, such company;
+
+(o)restrictions on the structural changes to corporateor business affairs of such company;
+
+(p)the grounds upon which a person shall bedisqualified from being appointed or elected or fromholding the post of a director, chief executiveofficer, secretary or key management personnel ofsuch company;
+
+(q)the requirement for obtaining prior approval of theDirector for appointing, electing or nominatingdirectors of such companies; and
+
+(r)the requirement for obtaining prior approval of theDirector for appointing the chief executive officerand key management personnel of such company.
+
+7Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+For the purpose of this section –
+
+“key management personnel” means a personhaving authority and responsibility forplanning, directing and controlling theactivities of any finance company directly orindirectly including any Director (whetherexecutive or otherwise) of such company;
+
+“specified” means specified by the Board by rulesmade in that behalf.
+
+12.(1) The Board may issue guidelines to the Directoron the manner of monitoring compliance with the directionsissued under Section 11.
+
+(2) Where a licensed microfinance company fails tocomply with any direction issued under section 11, theDirector shall, unless otherwise provided for in anyguidelines issued under subsection (1), report such fact tothe Board and thereupon the provisions of Section 17 ofthis Act shall apply accordingly.
+
+13.(1) The Board may, from time to time, make ruleson any matter in respect of which rules are authorized orrequired to be made under this Act.
+
+(2) Without prejudice to the generality of the powersconferred by subsection (1), the Board may, in particular,make rules in respect of all or any of the following matters:-
+
+(a)criteria for licensing under this Act;
+
+(b)evaluation fee for an application for a licence as amicrofinance company;
+
+(c)annual licence fee payable to the Board bymicrofinance companies;
+
+(d)forms to be used for the purposes of this Act.
+
+Monitoringcompliancewithdirections.
+
+Board maymake rules.
+
+8Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+(3) Every rule made by the Board under this Act shallbe published in the Gazette.
+
+PART V
+
+FINANCIAL STATEMENTS AND AUDIT OF LICENSED MICROFINANCE
+
+COMPANIES
+
+14.(1) Every licensed microfinance company shall atthe expiration of each financial year prepare in accordancewith the Sri Lanka Accounting Standards, financialstatements including-
+
+(a)a statement of financial position as at the end of thefinancial year; and
+
+(b)a statement of comprehensive income in respect ofsuch financial year.
+
+(2) The financial statements prepared by a licensedmicrofinance company shall be audited by a qualifiedauditor.
+
+(3) The financial year of a licensed microfinance companyshall commence from first of January, every year.
+
+(4) Every licensed microfinance company shall transmitto the Director within three months after the closure of eachfinancial year-
+
+(a) audited financial statements including –
+
+(i)the statement of financial position of thecompany as at the end of the financial year;
+
+(ii)the statement of comprehensive income ofthe company for that financial year;
+
+(b)the auditor’s report in respect of the financialstatements;
+
+F i n a n c i a lyear and auditof accounts ofa licensedmicrofinancecompany.
+
+9Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(c)the report by the directors relating to the state ofaffairs of the company; and
+
+(d)a certified copy of the auditor’s confidential letter,if any, to the board of directors of the company.
+
+(5) Every licensed microfinance company shall exhibitdocuments specified in paragraph (a) of subsection (4) in aconspicuous place of each of its places of business untilthose documents for the succeeding financial year areprepared and exhibited.
+
+(6) The Board may specify the forms of the financialstatements referred to in this Part and any disclosurerequirements to be made and where such forms are specified,financial statements of every licensed microfinancecompany shall be prepared in such form.
+
+(7) Unless otherwise determined by the Board, thefinancial statements of a licensed microfinance companyshall be signed, on behalf of such company by the chiefexecutive officer and two members of the board of directors.
+
+PART VI
+
+EXAMINATION AND SUPERVISON OF LICENSED MICROFINANCE
+
+COMPANIES
+
+15.(1) The Director or any officer of the Central Bankauthorized by him, or any other person authorized by theDirector with the approval of the Board, may at any timeexamine the books of accounts and records of any licensedmicrofinance company and for that purpose may do one ormore of the following:-
+
+(a)require any licensed microfinance company, ora director, secretary, manager, employee,auditor, agent or contractor of any licensedmicrofinance company to furnish him all suchinformation as he may consider necessary and
+
+Examinationandsupervisionof licensedmicrofinancecompanies.
+
+10Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+to produce for inspection books, records, files,registers, and such other documents, maintainedin print or electronic form, of such licensedmicrofinance company and to provideauthenticated copies in any form as required ofsuch books, records, files, registers and suchother documents;
+
+(b)enter the premises or storage area of any licensedmicrofinance company, and notwithstandinganything to the contrary in any other law, examinebooks, records, files, registers, and such otherdocuments, maintained in print or electronic form,of such licensed microfinance company and mayobtain copies, authenticated or otherwise, in anyform of such books, records, files, registers and suchother documents;
+
+(c)require any licensed microfinance company or adirector, manager, employee, agent, contractor orsecretary of any licensed microfinance company tosubmit the accounts of such licensed microfinancecompany, furnish such information and producesuch books, records, files, registers, and such otherdocuments, maintained in print or electronic form,for audit by an auditor authorized by the Director;
+
+(d)question and record statements of or, if necessary,direct any director, shareholder, secretary, manager,employee, agent, auditor or contractor of anylicensed microfinance company and of any otherperson who may be acquainted with or is aware ofor is in possession of, information regarding thebusiness or corporate affairs of such licensedmicrofinance company to submit answers to thequestions raised by way of an affidavit or ifnecessary administer oath or affirmation inaccordance with the Oaths and AffirmationOrdinance (Chapter 17) and cause questions to beasked and record or cause the recording ofstatements;
+
+35
+
+11Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(e)call for information by notice in writing from anyperson who may be acquainted with or is aware ofor is in possession of or appears to have informationregarding the business or corporate affairs of anylicensed microfinance company and if requiredsummon such person for an interview;
+
+(f)require any related party of a licensed microfinancecompany to furnish information as the Director mayconsider necessary and to produce for inspectionbooks, records, files, registers and such otherdocuments maintained in print or electronic form,of such related party and to provide authenticatedcopies in any form as required of such books,records, files, registers and such other documents.
+
+For the purposes of this paragraph “related party”means holding company, any subsidiary or associatecompany of any licensed microfinance company, orany subsidiary or associate company of the holdingcompany of any licensed microfinance company, orany other entity or individual that in the view of theDirector has a substantial financial interest orsignificant management interest in any licensedmicrofinance company.
+
+(2) The cost of such examination may be recovered fromthe licensed microfinance company.
+
+(3) It shall be the duty of every person to comply withany requirement imposed on him under this section and anyperson who –
+
+(a)fails to provide any information or produce forinspection any book, record, file, register or suchother document, material or object required underthis section;
+
+(b)fails to attend in person when summoned for aninterview;
+
+12Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+(c)provides false or incomplete or incorrectinformation, book, record, file, register or such otherdocument, material or object; or
+
+(d)obstructs the Director or any person authorized bythe Director under subsection (1) in the performanceof any function thereunder,
+
+shall be guilty of an offence under this Act.
+
+(4) The Director shall upon the conclusion of theexamination conducted in terms of subsection (1), submit areport to the Board if such examination reveals that thelicensed microfinance company-
+
+(a)is carrying on its business adopting unsound orimproper financial practices which are detrimentalto the interests of its depositors, creditors and otherstakeholders; or
+
+(b)has contravened or failed to comply with anyprovisions of this Act, or any direction, rule, orderor requirement made or imposed thereunder.
+
+16.(1) Where the Board, on a report made by the Director,is of the opinion that a licensed microfinance company –
+
+(a) is carrying on or is in the process of carrying on itsbusiness following unsound or improper financialpractices which are detrimental to the interest of itsdepositors, creditors and other stakeholders; or
+
+(b) has contravened or failed to comply with anyprovisions of this Act or any direction, rule, orderor requirement made or imposed thereunder,
+
+the Board may do any one or more of the following:–
+
+(i)direct such licensed microfinance companyto cease any such practice;
+
+Supervisorymeasures ofthe Board onlicensedmicrofinancecompany.
+
+30
+
+13Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(ii)direct such licensed microfinance companyto, forthwith or within such period as may bespecified by the Board, comply with theprovisions of this Act, direction, rule, orderor requirement made or imposed thereunderwhich such microfinance company has failedto comply with;
+
+(iii)direct such licensed microfinance companyto take necessary action to correct thenegative conditions resulting from suchpractice or contravention;
+
+(iv)restrain any director, manager or controllerof the licensed microfinance company fromcarrying out any function in or in relation tothe microfinance company;
+
+(v)direct such licensed microfinance companyto remove any director, manager or employeeof the company within a specified period;
+
+(vi)reorganize the licensed microfinancecompany by arranging for the increase of itscapital or reconstitution of the board ofdirectors or both such measures;
+
+(vii)provide for such arrangements as arenecessary for the amalgamation of thelicensed microfinance company with anotherlicensed microfinance company or any otherinstitution that consents to suchamalgamation;
+
+(viii) appoint a person to manage the affairs of suchlicensed microfinance company with a viewto assuring proper conduct of the business ofsuch licensed microfinance company;
+
+(ix)serve a notice in writing on suchmicrofinance company requiring it to show
+
+14Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+cause within fourteen days from the dateof the notice why a penalty should not beimposed on such company, and upon itsfailure to show cause within the timespecified therefor or where the causeshown does not satisfy the Board, imposea penalty not exceeding rupees two hundredand fifty thousand payable within suchperiod as may be specified by the Board.
+
+(2) Any person aggrieved with any order or directionissued or measure taken under subsection (1), may, beforethe expiry of thirty days from the date of the issue of suchorder or direction or the date of such measure taken, appealin writing to the Board and the Board shall render its decisionwithin sixty days of receipt of such appeal.
+
+PART VII
+
+CANCELLATION OF THE LICENCE AND WINDING UP OF LICENSED
+
+MICROFINANCE COMPANY
+
+17.The Board may cancel the licence of a licensedmicrofinance company on any one or more of the followinggrounds :-
+
+(a)failing to commence business within nine monthsof the issue of the licence;
+
+(b)failing to satisfy any debt incurred by it, on suchdebt becoming due for payment;
+
+(c)proposing to make or making any composition orarrangement with its creditors or going intoliquidation or being wound up or otherwisedissolved;
+
+(d)ceasing to carry on microfinance business;
+
+(e)acting in contravention of any provisions of thisAct or any direction, requirement, rule, order,
+
+Grounds forcancellationof a licence.
+
+15Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+determination issued, imposed or made underthis Act;(f)failing to pay the annual licence fee;
+
+(g)carrying on its business in a manner likely to bedetrimental to the interests of its depositors, othercreditors and the economy; or
+
+(h)furnishing false, misleading or inaccurateinformation or concealing or failing to disclosematerial facts to the Board.
+
+18.(1) The Board shall, before cancelling the licenceof a licensed microfinance company, serve a notice in writingon such licensed microfinance company requiring it to showcause within thirty days from the date of such notice beingserved as to why its licence should not be cancelled.
+
+(2) Where the licensed microfinance company fails toshow cause within the specified period the Board may cancelthe licence.
+
+(3) Where in compliance with the notice issued to it undersubsection (1), such licensed microfinance company, showscause within the specified period, the Board may, afterconsidering the reasons provided and hearing the licensedmicrofinance company in support of its objections –
+
+(a)not cancel the licence, if it is satisfied that suchmicrofinance company has shown sufficient causeas to why its licence should not be cancelled; or
+
+(b)cancel the licence, if it is satisfied that such licensedmicrofinance company has not shown sufficientcause as to why its licence should not be cancelled.
+
+(4) In the event of cancellation of a licence, thelicensed microfinance company concerned shall benotified forthwith of such cancellation and thecancellation shall take effect from the date of such
+
+Procedureforcancellationof licence.
+
+16Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+notification. The Board shall publish a notice of suchcancellation at least in one each of Sinhala, Tamil andEnglish daily newspapers circulating in Sri Lanka.(5) Where the licence of a licensed microfinancecompany is cancelled, the Board shall remove the nameof such licensed microfinance company from the registermaintained under section 8 and may issue such directionsto such microfinance company as it considers necessary,including directions for winding up.
+
+(6) Where such microfinance company fails to complywith any directions issued under subsection (5) within thetime specified by the Board, the Board may require theDirector to file action for the winding up of suchmicrofinance company under section 19.
+
+19.A competent court may, on an application made bythe Director, order the winding up of such microfinancecompany and accordingly the provisions of the CompaniesAct, No.7 of 2007 relating to winding up of companiessubject to the supervision of court shall mutatis mutandisapply to and in relation to the winding up of suchmicrofinance company.
+
+PART VIII
+
+MICROFINANCE NON-GOVERNMENTAL ORGANIZATIONS
+
+20.(1) A non-governmental organization registeredunder the Voluntary Social Service Organizations(Registration and Supervision) Act, No.31 of 1980 is eligibleto apply for a certificate of registration as a microfinancenon-governmental organization (hereinafter referred to asthe “microfinance NGO”).
+
+(2) Every application for a certificate of registration as amicrofinance NGO shall be made to the Registrar of VoluntarySocial Service Organizations (in this Part referred to as the“Registrar”) in such form and in compliance with the
+
+Winding up.
+
+Non-governmentalorganizationto apply fora certificateofregistration.
+
+17Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+requirements for such registration, together with suchinformation, as may be specified by the Registrar fromtime to time by rules made in that behalf.(3) The Registrar may, on receipt of such application,make such enquiries and call for such further informationand documents as he considers necessary and if he issatisfied that-
+
+(a)the applicant has complied with the criteria forregistration as may be laid down by the Registrarfrom time to time by rules made in that behalf; and
+
+(ii)registration of the applicant would not bedetrimental to the interests of its creditors and otherstakeholders,shall issue a certificate of registrationas a microfinance NGO,
+
+subject to such terms and conditions as the Registrar maythink fit or where he is not so satisfied, reject the applicationand issue such directions as he may deem necessary.
+
+21.Every microfinance NGO shall exhibit its certificateof registration at its principal place of business and a copyof such certificate at every one of its branches.
+
+22.The Registrar shall maintain a register ofmicrofinance NGOs.
+
+23.(1) The Registrar may make rules for the purpose ofcarrying out the provisions of this Part and to give effect tostandards, principles and guidelines issued by the Board interms of Part IX of this Act.
+
+(2) Without prejudice to the generality of the powersconferred by subsection (1), the Registrar may, in particular,from time to time make rules in respect of all or any of thefollowing matters:–
+
+(a)criteria for registration under this Part of this Act ;
+
+(b)annual registration fee payable to the Registrar bya microfinance NGO;
+
+Registrar tomake rules.
+
+Register ofmicrofinanceNGOs.
+
+Exhibitingthecertificate.
+
+18Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(c)reporting and disclosure requirements of amicrofinance NGO;(d)terms and conditions for loans and creditfacilities to be granted by a microfinance NGOincluding maximum rates of interest that may becharged on such loans and credit facilities;
+
+(e)terms and conditions on savings mobilization andthe maximum rates of interest payable on suchsavings;
+
+(f)the maximum ratio of outstanding deposits tooutstanding loans;
+
+(g)number of borrowers and depositors;
+
+(h)consumer protection;
+
+(i)net assets to be maintained by a microfinance NGO;
+
+(j)internal controls, risk management and a code ofcorporate governance to be adopted by amicrofinance NGO;
+
+(k)the types of activities that may be carried on by amicrofinance NGO;
+
+(l)forms to be used under this Part.
+
+(3) Every rule made by the Registrar shall be publishedin the Gazette.
+
+24.(1) Every microfinance NGO shall prepare andfurnish financial statements in such manner, form and atintervals or times as may be specified by the Registrar.
+
+(2) The financial statements prepared by a microfinanceNGO shall be audited by a qualified auditor.
+
+25.(1) The Registrar or any other officer authorized inwriting by him in that behalf, may at any time examine thebooks of accounts and records of any microfinance NGO andfor that purpose may do any one or more of the following:–
+
+Duty toprovidefinancialstatement.
+
+Registrarmay examinebooks ofaccounts etc.
+
+19Microfinance
+
+5
+
+15
+
+10
+
+20
+
+25
+
+30
+
+(a)require any microfinance NGO, or a director,manager, employee or auditor of anymicrofinance NGO to furnish him all suchinformation as he may consider necessary andto produce for inspection books, records, files,registers, and such other documents of suchmicrofinance NGO and to provide authenticatedcopies in any form as required of such books,records, files, registers and such otherdocuments;
+
+(b)enter and examine books, records, files, registers,and such other documents of a microfinance NGOand may obtain copies, authenticated or otherwise,in any form of such books, records, files, registersand such other documents;
+
+(c)require any microfinance NGO or a director,manager, employee or auditor of any microfinanceNGO to submit the accounts of such microfinanceNGO, furnish such information and produce suchbooks, records, files, registers and such otherdocuments for audit by a qualified auditorauthorized by the Registrar.
+
+(2) The cost of such examination may be recovered fromthe microfinance NGO.
+
+(3) It shall be the duty of every person to comply withany requirement imposed on him under subsection (1) andany person who-
+
+(a)fails to provide any information or produce forinspection any book, record, file, register or suchother document required under this section;
+
+(b)provides false or incomplete or incorrectinformation, book, record, file, register or such otherdocument; or
+
+20Microfinance
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+(c)obstructs the Registrar or any person authorizedby the Registrar under subsection (1) in theperformance of any function under subsection(1),
+
+shall be guilty of an offence under this Act.26.Where the Registrar is of the opinion that amicrofinance NGO–
+
+(a)is carrying on or is in the process of carrying on, itsbusiness adopting unsound or improper financialpractices detrimental to the interest of its depositorsand other creditors; or
+
+(b)has contravened or failed to comply with anyprovisions of this Act, or any direction, rule, orderor requirement made or imposed thereunder,
+
+the Registrar may take any one or more of the followingactions:–
+
+(i)direct such microfinance NGO to cease anysuch practice;
+
+(ii)direct such microfinance NGO to forthwithor within such period as may be specified bythe Registrar, comply with the provisions ofthis Act or rule, or requirement made orimposed thereunder which such microfinanceNGO has failed to comply with;
+
+(iii)direct such microfinance NGO to takenecessary action to correct the negativeconditions resulting from such practice orcontravention;
+
+(iv)restrain any director, manager or controllerof the microfinance NGO from carrying outany function in or in relation to themicrofinance NGO;
+
+(v)remove any director, manager or employeeof the microfinance NGO;
+
+Powers ofthe Registrar.
+
+35
+
+21Microfinance
+
+5
+
+(vi)re-organize the microfinance NGO byarranging for the reconstitution of its boardof directors:
+
+Provided however, the Registrar shall,before taking any of the actions referredto in subparagraph (iv), (v) or (vi) of thissection, serve a notice in writing on suchdirector, manager, controller, employee orthe board of directors requiring him or it,as the case may be, to show cause withinfourteen days from the date of such notice,why action as referred to in the relevantsubparagraph should not be taken againsthim or it, as the case may be, and satisfyhimself that no satisfactory cause has beenmade out.
+
+27.(1) The Registrar may cancel the registration of amicrofinance NGO on any one or more of the followinggrounds:-
+
+(a)failing to satisfy any debt incurred by it, on suchdebt becoming due;
+
+(b)proposing to make or making any composition orarrangement with its creditors or going intoliquidation or being wound up or otherwisedissolved;
+
+(c)ceasing to accept limited savings deposits;
+
+(d)acting in contravention of any provisions of thisAct or any direction, requirement, rule, order ordetermination issued, imposed or made under thisAct;
+
+(e)failing to pay the annual registration fee;
+
+(f)carrying on its business in a manner likely to bedetrimental to the interests of its depositors andother creditors;
+
+Registrar’spower tocancelregistration.
+
+10
+
+20
+
+15
+
+25
+
+30
+
+35
+
+22Microfinance
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+(g)furnishing false, misleading or inaccurateinformation or concealing or failing to disclosematerial facts to the Registrar.
+
+(2) The Registrar shall, before cancelling theregistration of a microfinance NGO, serve a notice inwriting on such microfinance NGO requiring it to showcause within thirty days from the date of such notice beingserved as to why its registration should not be cancelled.(3) Where the microfinance NGO fails to show causewithin the specified period the Registrar may cancel theregistration.
+
+(4) Where in compliance with the notice issued to itunder subsection (2), such microfinance NGO, shows causewithin the specified period, the Registrar may, afterconsidering the reasons provided and hearing themicrofinance NGO in support of its objections –
+
+(a)not cancel the registration, if he is satisfied thatsuch microfinance NGO has shown sufficient causeas to why its registration should not be cancelled;or
+
+(b)cancel the registration, if he is satisfied that suchmicrofinance NGO has not shown sufficient causeas to why its registration should not be cancelled.
+
+(5) In the event of cancellation of a registration, themicrofinance NGO concerned shall be notified forthwith ofsuch cancellation and the cancellation shall take effect fromthe date of such notification. The Registrar shall publish anotice of such cancellation at least in one each of Sinhala,Tamil and English daily newspapers circulating in Sri Lanka.
+
+(6) Where the certificate of registration of amicrofinance NGO is cancelled, the Registrar shall removethe name of such microfinance NGO from the registermaintained under section 22 and may issue such directionsto such non-governmental organisation as he considersnecessary.
+
+Principales,standards andGuidelines.
+
+23Microfinance
+
+PART IX
+
+PRINCIPLES, STANDARDS AND GUIDELINES LAID DOWN BY THEBOARD
+
+28.(1) Notwithstanding anything to the contraryin this Act or any other written law, the Board may inorder to ensure that microfinance business and lendingactivities are carried on in a transparent, professional andprudent manner and to strengthen, develop and makequalitative improvements in the regulation andsupervision of such activities for consumer protection,set principles or standards or issue guidelines in respectof-
+
+(a)microfinance NGOs regulated by the Registrar ofVoluntary Social Service Organizations in terms ofPart VIII of this Act; and
+
+(b)micro credit non-governmental organizations.
+
+(2) The Registrar of Voluntary Social ServiceOrganizations shall give effect to the principles, standardsor guidelines laid down by the Board under subsection (1),by making appropriate rules governing microfinance NGOs.
+
+(3) Nothing in this section shall be deemed to enablea non-governmental organization other than one which isregistered in terms of Part VIII of this Act to accept limitedsavings deposits.
+
+(4) The Board may call for monthly, quarterly, semi-annual or annual financial data of a microfinance NGOreferred to in subsection (1) from the Registrar of VoluntarySocial Service Organizations.
+
+PART X
+
+IMMUNITY FROM PROSECUTION
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+Immunityfromprosecution.
+
+24Microfinance
+
+29.(1) No prosecution shall be instituted in any courtagainst the Board or a member thereof, the Director orany officer or servant of the Central Bank or any otherperson authorized by the Board or the Director under thisAct to carry out any duty or function, by reason of anyact done or purported to be done, or omitted to be doneby such person under this Act or any direction, rule, orderor requirement made or imposed thereunder unless theprior written sanction of the Attorney-General has beenfirst obtained for such prosecution.(2) Any expenses incurred by a member of the Board,the Director or any officer or servant of the Central Bankor any other person authorized by the Board, in any suitor prosecution brought against such person before anycourt in respect of any act which is done or purported tobe done or omitted to be done by such person under thisAct or any direction, rule, order or requirement made orimposed thereunder, as the case may be, shall if the courtholds that such act was done in good faith, be paid out bythe Board unless such expenses are recovered by him insuch suit or prosecution.
+
+PART XI
+
+GENERAL
+
+30.The provisions of the Finance Business Act, No.42of 2011 and Part IXA of the Banking Act, No.30 of 1988shall not apply to any licensed microfinance company,microfinance NGO or micro credit non governmentaloganization.
+
+31.The provisions of this Act or any regulation, orderor rule made under this Act shall have effect notwithstandinganything to the contrary in any other written law.
+
+32.No person other than a licensed microfinancecompany, a microfinance NGO or an institution exemptedfrom the application of the provisions of this Act undersection 2, shall carry on microfinance business.
+
+The FinanceBusiness Actand Part IXAof theBanking Actnot to apply.
+
+Effect ofother laws.
+
+Transitionalprovision.
+
+Restriction tocarry onmicrofinancebusiness.
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+25Microfinance
+
+33. Notwithstanding anything to the contrary insection 32, any person carrying on microfinance businesson the day preceding the date of coming into operationof any Part of this Act-
+
+(a)may from the date of coming into operation ofany Part of this Act, continue to carry on suchbusiness for a period of eighteen months; and
+
+(b)shall comply with the provisions of this Act andapply for-(i)a licence to continue his business as alicensed microfinance company within suchperiod as may be specified by the Board bynotice published in the Gazette:
+
+Provided however, notwithstanding PartVIII of this Act being not operative on theday when Part I comes into operation, suchperson shall comply with the provisions ofthis Act and apply for a licence to continuehis business as a licensed microfinancecompany within such period as may bespecified by the Board by notice publishedin the Gazette;
+
+(ii)a certificate of registration to continue hisbusiness as a microfinance NGO within suchperiod as may be specified by the Registrarby notice published in the Gazette;
+
+(c)the period referred to under paragraph (b) above shallfall within the period referred to in paragraph (a).
+
+34.No person other than a licensed microfinancecompany, microfinance NGO or an institution exemptedunder section 2 of this Act shall use in its name, the words“microfinance” or any of its derivatives or its transliterationor its equivalent in any other language whether alone or in
+
+Restrictionon the use ofthe term“microfinance”.
+
+Offences.
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+26Microfinance
+
+combination with any other word, without the priorwritten approval of the Board.
+
+35.(1) Any person who contravenes or fails tocomply with any provisions of this Act or any rule,direction, order or requirement issued or imposedthereunder shall be guilty of an offence under this Actand shall be liable on conviction after summary trialbefore a Magistrate to a fine not exceeding one millionrupees or to imprisonment of either description for a termnot exceeding one year or to both such fine andimprisonment.(2) Where an offence under this Act is committed by abody of persons, then,-
+
+(a)if that body of persons is a body corporate, everydirector, manager, or secretary of that bodycorporate;
+
+(b)if that body of persons is a firm, every partner of thefirm; or
+
+(c)if that body of persons is an unincorporated bodyother than a firm, every member of such body,
+
+shall be deemed to be guilty of that offence:
+
+Provided however, that a director, manager or secretaryof such body corporate or a partner of such firm or a memberof such unincorporated body, shall not be deemed to be guiltyof such offence if he proves that such offence was committedwithout his knowledge or that he exercised all due diligenceto prevent the commission of such offence.
+
+36.(1) Subject to such rules, if any, as may be made bythe Board, the Board may, in writing, authorize an officer ofthe Central Bank or any other person to represent the Boardfor any of the purposes of this Act, so however, the Boardshall remain and continue to remain responsible for any actor thing done or omitted to be done by such officer or personrepresenting the Board under such authorization.
+
+Board to beresponsiblefor acts ofofficers.
+
+Interpretation.
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+27Microfinance
+
+(2) The Board may in writing delegate to any officerof the Central Bank any of its powers and duties underthis Act, so however, that the Board shall remain andcontinue to be responsible for any act or thing done oromitted to be done by such officer in the exercise of suchpowers delegated to him.
+
+37.In this Act, unless the context otherwise requires–
+
+“Board” means the Monetary Board of theCentral Bank of Sri Lanka establishedunder the Monetary Law Act, (Chapter422);
+
+“Central Bank” means the Central Bank of SriLanka established under the Monetary LawAct, (Chapter 422);
+
+“deposit” shall have the meaning assigned to itunder the Finance Business Act, No. 42 of2011 as may be amended from time to time;
+
+“Director” means the head of the department of theCentral Bank to which the subject ofmicrofinance companies has been assignedand includes an acting director;
+
+“licensed microfinance company” means acompany, licensed under this Act;
+
+“liquid assets” means –
+
+(a)cash in hand;
+
+(b)balances in a current or depositaccount in a commercial bank, freefrom any bankers’ lien or charge;
+
+(c)Sri Lanka Government Treasury Billsand Treasury Bonds maturing withinone year, and free from any lien orcharge;
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+28Microfinance
+
+(d)Sri Lanka Government Securitiesmaturing within one year and freefrom any lien or charge;
+
+(e)Central Bank of Sri Lanka securitiesmaturing within one year and freefrom any lien or charge; and
+
+(f)Such other asserts as may bedetermined by the Board;
+
+“microfinance business” means acceptingdeposits and providing :-
+
+(a)financial accommodation in anyform;
+
+(b)other financial services; or
+
+(c)financial accommodation in any formand other financial services,
+
+mainly to low income persons and micro enterprisesin conformity with the Schedule to this Act;
+
+“microfinance NGO” means a non-governmentalorganization registered under the VoluntarySocial Service Organizations (Registrationand Supervision) Act, No.31 of 1980 andissued with a certificate of registration by theRegistrar of Voluntary Social ServiceOrganizations under this Act to accept limitedsavings deposits;
+
+“micro credit non-governmental organization”means a non-governmental organizationregistered under the Voluntary Social ServiceOrganizations (Registration and Supervision)Act, No.31 of 1980 and engaged in lendingactivities and not permitted to acceptdeposits;
+
+“Minister” means the Minister to whom the subjectof microfinance is assigned;
+
+5
+
+10
+
+20
+
+15
+
+25
+
+30
+
+35
+
+29Microfinance
+
+“qualified auditor” means –
+
+(a) an individual who being a memberof the Institute of CharteredAccountants of Sri Lanka or of anyother Institute established by law,possesses a certificate to practice asan Accountant issued by the Councilof such Institute; or
+
+(b)a firm of Accountants each of theresident partners of which being amember of the Institute of CharteredAccountants of Sri Lanka or of anyother Institute established by lawpossesses a certificate to practice asan Accountant issued by the Councilof such Institute.38.In the event of any inconsistency between theSinhala and Tamil texts of this Act the Sinhala text shallprevail.
+
+SCHEDULE[ Section 9 ]
+
+A licensed microfinance company may engage in the followingbusinesses :-
+
+(a)to provide financial accommodation, with or withoutcollateral security, in cash or in kind, subject to such termsand conditions that the Board may impose for all types ofeconomic activities including housing;
+
+(b)to accept time and savings deposits and to open, maintainand manage deposits, savings and other similar accountsexcluding however the carrying on of banking business asdefined in the Banking Act, No. 30 of 1988;
+
+(c)to accept pledges, mortgages, hypothecations orassignments to it of any kind of movable or immovableproperty for the purpose of securing loans and advancesmade by it;
+
+(d)to provide credit to buy, sell and supply industrial andagricultural inputs, livestock, machinery and industrial rawmaterials, and to act as an agent for any organization forthe sale of such goods or livestock;
+
+(e)to invest its monies prudently;
+
+(f)to provide storage and safe custody facilities;
+
+(g)to provide professional advice to its customers regardinginvestments in small businesses, self-employment projectsand cottage industries;
+
+(h)to provide services and facilities to customers to hedgevarious risks relating to microfinance;
+
+(i)to render managerial, marketing, technical andadministrative advice to customers and assisting them inobtaining services in such fields;
+
+(j)to provide technical assistance and training to customers;
+
+(k)to conduct finance leasing business, pawn brokering andinsurance business after obtaining necessary licence orapproval from the relevant authority and subject to suchrules and regulations of such authority;
+
+Sinhala textto prevail inthe event ofanyinconsistency.
+
+30Microfinance
+
+Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.
