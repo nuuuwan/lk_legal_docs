@@ -1,0 +1,23 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2 of Block 1, contained in the Cadastral Map No. 110511, situated in the Village of Henawatta (Part of FVP Nallapambukulama and FVP Puliyankulama) within the Grama Niladhari Division of No. 572 - Henewatta in the Divisional Secretary's Division of Mihinthale, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0491 calling for claims to land parcels which was duly published in the Gazette No. 2375/33 of 13th March, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 24th December, 2024.
+
+අංක 2432/29 - 2025 අෙපේල් මස 19 වැනි ෙසනසුරාදා - 2025.04.19
+
+No. 2432/29 – SATURDAY, APRIL 19, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044227 - 04 (04/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.04.19 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.04.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:2 0.2321 The State Full 1st Class _ _ EOG 04 - 0136/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 3 : 1, 3 : 2 and 3 : 5 of Block 8, contained in the Cadastral Map No. 110511, situated in the Village of Nallapambukulama (division No - 03 - Anuradhapura Municipal Council Area) within the Grama Niladhari Division of No. 572 - Henewatta in the Divisional Secretary's Division of Mihinthale, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0492 calling for claims to land parcels which was duly published in the Gazette No. 2375/33 of 13th March, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 24th December, 2024. SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 3:1 0.2211 Anuradhapura Municipal Council _ Full 1st Class _ Road Anuradhapura 3:2 0.0595 The State Full 1st Class _ _ 3:5 0.0920 The State Full 1st Class _ _ EOG 04 - 0136/2
