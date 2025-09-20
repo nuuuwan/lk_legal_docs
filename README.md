@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_14:56:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_15:25:25-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
@@ -8,13 +8,13 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 - [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**9.6 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk/view/acts/acts_2025.html](https://documents.gov.lk/view/acts/acts_2025.html)**
 
-- In **JSON**, **PDF** (71%), **TXT** (71%) & **🤗 Hugging Face** (71%)
+- In **JSON**, **PDF** (74%), **TXT** (74%) & **🤗 Hugging Face** (74%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_14:12:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--20_14:40:05-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
 
