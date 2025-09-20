@@ -1,0 +1,4160 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      79.03,
+      484.06,
+      263.71,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.59,
+      499.66,
+      274.15,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.31,
+      516.08,
+      325.91,
+      528.55
+    ],
+    "text": "Price : Rs. 15.75 Postage : Rs. 6.75",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      31.15,
+      128.14,
+      309.39,
+      188.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      21.31,
+      438.51,
+      320.36,
+      464.45
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of December 20, 2002",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      135.31,
+      407.38,
+      207.31,
+      418.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.35,
+      287.38,
+      206.35,
+      298.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.75,
+      325.56,
+      240.93,
+      339.41
+    ],
+    "text": "[Certified on 17th December, 2002]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      99.43,
+      364.53,
+      244.43,
+      376.74
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.39,
+      203.38,
+      205.39,
+      214.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.07,
+      230.34,
+      283.47,
+      269.11
+    ],
+    "text": "MONETARY LAW (AMENDMENT) ACT, No. 32 OF 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.62019157409668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.79,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20021",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.39,
+      540.46,
+      142.72,
+      551.13
+    ],
+    "text": "2\u2014H 017104\u20135,650 (10/2002)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.95,
+      44.55,
+      217.81,
+      57.89
+    ],
+    "text": "[Certified on 17th December, 2002]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      65.55,
+      102.23,
+      78.89
+    ],
+    "text": "L.D.\u2014O. 51/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.71,
+      86.55,
+      229.99,
+      99.89
+    ],
+    "text": "AN ACT TO AMEND THE MONETARY LAW ACT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      107.55,
+      266.43,
+      132.89
+    ],
+    "text": "Be it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      143.55,
+      266.25,
+      168.89
+    ],
+    "text": "1.This Act may be cited as the Monetary Law(Amendment) Act, No. 32 of 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      179.55,
+      266.4,
+      216.89
+    ],
+    "text": "2.Section 5 of the Monetary Law Act (hereinafterreferred to as the \u201cprincipal enactment\u201d) is hereby repealedand the following section substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.35,
+      227.55,
+      266.55,
+      372.89
+    ],
+    "text": "5. An institution, which shall be called andknown as the Central Bank of Sri Lanka(hereinafter referred to as \u201cthe Central Bank\u201d)is hereby established as the authority responsiblefor the administration, supervision andregulation of the monetary, financial andpayments system of Sri Lanka, and withoutprejudice to the other provisions of this Act, theCentral Bank is hereby charged with the dutyof securing, so far as possible by actionauthorised by this Act, the following objectives,namely\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.59,
+      380.55,
+      245.64,
+      393.89
+    ],
+    "text": "(a)economic and price stability ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.59,
+      401.55,
+      211.91,
+      414.89
+    ],
+    "text": "(b)financial system stability,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.35,
+      422.55,
+      266.5,
+      459.89
+    ],
+    "text": "with a view to encouraging and promoting thedevelopment of the productive resources ofSri Lanka.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      470.55,
+      266.41,
+      495.89
+    ],
+    "text": "3.Section 8 of the principal enactment is hereby amendedas follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.59,
+      503.55,
+      266.37,
+      528.89
+    ],
+    "text": "(a)by the repeal of subsection (1) thereof, andsubstitution therefor, of the following subsection :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      472.06,
+      327.43,
+      511.53
+    ],
+    "text": "Amendment ofsection 8 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      182.26,
+      328.73,
+      212.13
+    ],
+    "text": "Replacement ofsection 5 ofChapter 422.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      278.35,
+      146.02,
+      312.06,
+      156.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.35,
+      229.06,
+      74.3,
+      268.53
+    ],
+    "text": "\u201cEstablishmentand objectivesof the CentralBank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20022",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.65,
+      56.55,
+      333.78,
+      141.89
+    ],
+    "text": "\u201c(1) The Monetary Board of the Central Bankshall, in addition to determining the policies ormeasures authorized to be adopted or taken underthis Act, be vested with the powers, duties andfunctions of the Central Bank under this Act, and begenerally responsible for the management,operations and administration of the Bank :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.65,
+      149.55,
+      333.81,
+      234.89
+    ],
+    "text": "Provided, however, where the Monetary Boardconsiders it appropriate, it may delegate to theGovernor, or to any officer of the Central Bank or toa Committee of such officers, any power, duty orfunction conferred or imposed on, or assigned to,the Board by section10 (a), (b), (bb), (d) and section27.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109.01,
+      242.55,
+      333.65,
+      267.89
+    ],
+    "text": "(b)by the insertion, immediately after subsection (1) ofthat section of the following new subsection :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.37,
+      275.55,
+      333.76,
+      372.89
+    ],
+    "text": "\u201c(1A)Where any power, duty or function is delegatedby the Monetary Board under subsection (1),the person or the group of persons to whomsuch power, duty or function is delegated shallexercise, perform or discharge such power,duty or function, in accordance with suchgeneral or special directions or guidelines asmay be issued by the Monetary Board.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109.49,
+      380.55,
+      333.91,
+      417.89
+    ],
+    "text": "(c)by the repeal of paragraph (c) of subsection (2) ofthat section and substitution therefor of the followingparagraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.05,
+      425.55,
+      333.76,
+      474.89
+    ],
+    "text": "\u201c(c)three members appointed by the President onthe recommendation of the Minister ofFinance, with the concurrence of theConstitutional Council.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      485.55,
+      333.86,
+      510.89
+    ],
+    "text": "4.Section 11 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      21.65,
+      485.98,
+      74.72,
+      521.73
+    ],
+    "text": "Amendment ofsection 11 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48.79,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20023",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      287.02,
+      331.42,
+      326.49
+    ],
+    "text": "Amendment ofsection 13 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.35,
+      479.02,
+      331.42,
+      518.49
+    ],
+    "text": "Amendment ofsection 14 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      56.55,
+      266.46,
+      105.89
+    ],
+    "text": "(a)in paragraph (a) of subsection (1) of that section, bythe substitution for the words \u201cany local authority\u201dof the words \u201cany Provincial Council or any localauthority\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      116.55,
+      266.46,
+      165.89
+    ],
+    "text": "(b)in paragraph (a) of subsection (2) of that section, bythe substitution for the words \u201cany local authority\u201dof the words \u201cany Provincial Council or any localauthority\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      42.19,
+      176.55,
+      266.39,
+      213.89
+    ],
+    "text": "(c)by the repeal of paragraph (c) of subsection (2) ofthat section and substitution therefor, of the followingparagraphs :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.75,
+      224.55,
+      266.33,
+      273.89
+    ],
+    "text": "\u201c(c)he is a director, officer, employee orshareholder of any banking institution (otherthan the Central Bank) or any other institutionsupervised or regulated by the Central Bank.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      284.55,
+      266.56,
+      309.89
+    ],
+    "text": "5.Section 13 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      320.55,
+      266.45,
+      357.89
+    ],
+    "text": "(a)in subsection (1) of that section by the substitutionfor all the words from \u201cThe term of office\u201d to \u201cshall\u201d,of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.35,
+      368.55,
+      266.39,
+      417.89
+    ],
+    "text": "\u201cThe term of office of the Governor, and of anyperson appointed under paragraph (c) of subsection(2) of section 8 (hereinafter referred to as \u201canappointed member\u201d) shall,\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.59,
+      428.55,
+      266.45,
+      465.89
+    ],
+    "text": "(b)in subsection (2) of that section by the substitutionfor the words \u201cby the appointed member\u201d of thewords \u201cby an appointed member\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      26.35,
+      476.55,
+      266.56,
+      525.89
+    ],
+    "text": "6.Section 14 of the principal enactment is herebyamended in subsection (1) of that section by the substitutionfor the words \u201cThe appointed member\u201d, of the words \u201cAnappointed member\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20024",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      56.55,
+      333.86,
+      81.89
+    ],
+    "text": "7.Section 15 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      86.55,
+      333.75,
+      123.89
+    ],
+    "text": "(a)in subsection (1) of that section by the substitutionfor the words \u201cWhere the appointed member\u201d, ofthe words \u201cWhere an appointed member\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      128.55,
+      333.82,
+      165.89
+    ],
+    "text": "(b)in subsection (3) of that section by the substitutionfor the words \u201cto be the appointed member\u201d, of thewords \u201cto be an appointed member.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      176.55,
+      333.86,
+      213.89
+    ],
+    "text": "8.Section 16 of the principal enactment is herebyamended by the substitution for the words \u201cor the appointedmember\u201d of the words \u201cor an appointed member\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      224.55,
+      333.86,
+      249.89
+    ],
+    "text": "9.Section 17 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      260.55,
+      333.75,
+      297.89
+    ],
+    "text": "(a)in subsection (3) of that section by the substitutionfor the words \u201ctwo members\u201d of the words \u201cthreemembers\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.01,
+      305.55,
+      265.5,
+      318.89
+    ],
+    "text": "(b)in subsection (4) of that section\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135.17,
+      326.55,
+      333.64,
+      363.89
+    ],
+    "text": "(i)by the substitution for the words \u201cat least twomembers,\u201d of the words \u201cat least threemembers,\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.41,
+      371.55,
+      333.53,
+      396.89
+    ],
+    "text": "(ii)by the substitution for the words \u201cthreemembers\u201d of the words \u201cfive members.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      405.51,
+      333.76,
+      442.85
+    ],
+    "text": "10.Section 30 of the principal enactment is herebyamended by the insertion immediately after subsection (9) ofthat section, the following subsection :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      453.51,
+      333.87,
+      526.85
+    ],
+    "text": "\u2018(10) (a) Where an order has been made by the MonetaryBoard under subsection (1) of section 76M of the BankingAct, No. 30 of 1988 (hereinafter referred to as the \u201cBankingAct\u201d) in respect of a licensed specialised bank, the provisionsof subsections (3), (4), (5), (6), (7), (8) and (9) of this sectionshall, notwithstanding subsections (3) and (4), of section 76M",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.848357200622559,
+      7.0,
+      9.797959327697754,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      59.26,
+      74.72,
+      98.73
+    ],
+    "text": "Amendment ofsection 15 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      178.3,
+      74.72,
+      214.41
+    ],
+    "text": "Amendment ofsection 16 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      227.02,
+      74.72,
+      266.49
+    ],
+    "text": "Amendment ofsection 17 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      21.65,
+      391.66,
+      74.72,
+      431.13
+    ],
+    "text": "Amendment ofsection 30 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      48.79,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20025",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      56.79,
+      266.43,
+      94.97
+    ],
+    "text": "of the Banking Act and subject to paragraph (ii) of thissubsection, apply, mutatis mutandis, to such bank as if it were abanking institution.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797959327697754
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      106.35,
+      266.36,
+      144.53
+    ],
+    "text": "(b) Where under paragraph (i) of this subsection, theapplication of the provisions of subsection (3) of this sectionrequires\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43.87,
+      156.03,
+      266.55,
+      280.85
+    ],
+    "text": "(i)the winding up of a licensed specialised bank, theMonetary Board shall cancel the licence issued tosuch bank under Part IXA of the Banking Act and,the provisions of Part VIII of that Act shall apply tosuch winding up as if it were a compulsory windingup of the bank, in the case of a bank incorporated orestablished within Sri Lanka or a compulsorywinding up of the affairs or closure of the businessof the bank, in the case of a bank incorporated outsideSri Lanka ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41.11,
+      292.35,
+      266.46,
+      342.89
+    ],
+    "text": "(ii)the resumption of business of a licensed specialisedbank, the Monetary Board may exercise the powersconferred on it under section 76N of the BankingAct ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      354.39,
+      266.36,
+      380.09
+    ],
+    "text": "(c) In this subsection \u201clicensed specialised bank\u201d shallhave the same meaning as in the Banking Act.\u2019.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      391.59,
+      266.42,
+      417.29
+    ],
+    "text": "11.Section 31 of the principal enactment is herebyrepealed and the following section substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.35,
+      428.79,
+      266.52,
+      466.85
+    ],
+    "text": "31. Where an order is made by the MonetaryBoard under section 30 requiring the windingup of a banking institution\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.59,
+      478.35,
+      266.47,
+      528.89
+    ],
+    "text": "(a)in the case of a commercial bank, theMonetary Board shall cancel thelicence issued to it under the BankingAct and the provisions of Part VIII of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      26.35,
+      431.26,
+      76.31,
+      461.13
+    ],
+    "text": "\u201cWinding up ofa bankinginstitution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      278.35,
+      392.62,
+      331.42,
+      432.09
+    ],
+    "text": "Replacement ofsection 31 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      183.65,
+      56.55,
+      333.84,
+      153.89
+    ],
+    "text": "that Act shall apply as if it were acompulsory winding up of the bank,in the case of a bank incorporated orestablished within Sri Lanka or acompulsory winding up of the affairsor closure of the business of the bank,in the case of a bank incorporatedoutside Sri Lanka ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      163.01,
+      164.55,
+      333.88,
+      297.89
+    ],
+    "text": "(b)in the case of any other bankinginstitution, not being a licensedspecialised bank to which subsection(10) of section 30 is applicable, theDirector of Bank Supervision shallnominate a person to be the liquidatorfor the purpose of winding up andsubject to such nomination, suchinstitution shall be wound up inaccordance with the law applicable tosuch institution.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      308.55,
+      333.72,
+      333.89
+    ],
+    "text": "12.Section 34 of the principal enactment is herebyrepealed and the following section substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147.65,
+      344.55,
+      333.71,
+      405.89
+    ],
+    "text": "34. The Central Bank shall publish a generalbalance sheet showing the volume andcomposition of its assets and liabilities as at thelast day of each month before the last day of thesucceeding month.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      416.55,
+      333.72,
+      453.89
+    ],
+    "text": "13.Section 62 of the principal enactment is herebyrepealed and the following section substitutedtherefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      147.65,
+      464.55,
+      333.87,
+      525.89
+    ],
+    "text": "62. For the purposes of this Act, theexpression \u201cthe money supply\u201d means allcurrency, demand deposits, time and savingsdeposits and such other financial assets as maybe prescribed by the Monetary Board from time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      344.86,
+      126.31,
+      365.13
+    ],
+    "text": "\u201cMonthlystatement.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      308.02,
+      74.72,
+      347.49
+    ],
+    "text": "Amendment ofsection 34 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      21.65,
+      416.02,
+      74.72,
+      455.49
+    ],
+    "text": "Replacement ofsection 62 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.65,
+      464.98,
+      133.23,
+      514.05
+    ],
+    "text": "\u2018Expressionof thedefinition ofthe moneysupply.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.79,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20027",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.35,
+      56.55,
+      266.52,
+      153.89
+    ],
+    "text": "to time and are owned by persons other than theGovernment, commercial banks and suchfinancial institutions or categories of financialinstitutions as may be prescribed by theMonetary Board and for the purposes of thissection \u201cfinancial institutions\u201d shall have thesame meaning assigned to it in subsection (5)of section 93.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      164.55,
+      266.38,
+      189.89
+    ],
+    "text": "14.The principal enactment is hereby amended by theinsertion immediately after section 62, of the following :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.95,
+      200.55,
+      166.77,
+      213.89
+    ],
+    "text": "\u2018PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.95,
+      224.55,
+      214.76,
+      237.89
+    ],
+    "text": "PAYMENT AND SETTLEMENT SYSTEMS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.35,
+      248.55,
+      266.28,
+      273.89
+    ],
+    "text": "62A. (1) The Central Bank may establish andoperate one or more systems\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.59,
+      284.55,
+      266.45,
+      369.89
+    ],
+    "text": "(a)for the transfer of funds by and betweenthe Central Bank, commercial banks andsuch other institutions or persons thatmaintain a settlement account with theCentral Bank and who are admitted asparticipants to such system by theCentral Bank ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.59,
+      377.55,
+      266.5,
+      414.89
+    ],
+    "text": "(b)for the transfer and settlement ofscripless securities by and betweenthe Central Bank and direct participants ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.19,
+      422.55,
+      266.47,
+      471.89
+    ],
+    "text": "(c)for the settlement of paymentobligations in respect of transfer andsettlement of scripless securities underparagraph (b).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.35,
+      479.55,
+      266.44,
+      528.89
+    ],
+    "text": "(2) A system established under subsection(1) may be linked to another system in Sri Lankaor elsewhere for the clearing or settlement ofpayment obligations or securities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      278.35,
+      165.58,
+      337.19,
+      205.05
+    ],
+    "text": "Insertion of newPart III in ChapterIII of the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      26.35,
+      251.26,
+      71.59,
+      329.13
+    ],
+    "text": "Establishmentof systems fortransfer offunds andtransfer andsettlement ofscriplesssecurities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20028",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147.65,
+      56.55,
+      333.76,
+      117.89
+    ],
+    "text": "(3) The Central Bank may enter intoagreements with the participants of a systemestablished under subsection (1) and issue inwriting to the participants of the system rulesfor the operation of the system.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      147.65,
+      128.55,
+      333.64,
+      153.89
+    ],
+    "text": "(4) Without prejudice to the generality ofsubsection (3), such rules may provide\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.01,
+      160.47,
+      333.71,
+      209.81
+    ],
+    "text": "(a)for the provision of intra-day creditagainst the collateral of securities to theparticipants and the conditions attachingto the provision of such credit ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.01,
+      216.51,
+      333.78,
+      301.85
+    ],
+    "text": "(b)for the appointment of the Central Bankas a certification authority for thepurpose of issuing certificates toparticipants under any law applicable tothe appointment of certificationauthorities in respect of electronicsignatures ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.49,
+      308.55,
+      333.7,
+      333.89
+    ],
+    "text": "(c)for the formulation and adoption of acode of conduct for participants ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.01,
+      340.47,
+      333.73,
+      365.81
+    ],
+    "text": "(d)for the authentication of transactionscarried out electronically ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.49,
+      372.51,
+      333.84,
+      469.85
+    ],
+    "text": "(e)for the Central Bank, if it considersnecessary in the interest of the system,to cease or suspend the operation of thesystem, or to withdraw or suspend theprivileges or rights of any participant orcategory of participants or to suspendor revoke the membership in the systemof a participant ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      159.17,
+      476.55,
+      333.7,
+      525.89
+    ],
+    "text": "(f)for the appointment of auditors orinspectors for the auditing or inspectionof the operating systems of participantsin respect of the settlement system ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.79,
+      20.55,
+      266.31,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 20029",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.59,
+      56.55,
+      266.28,
+      81.89
+    ],
+    "text": "(g)for the payment of charges and fees tothe Central Bank by the participants.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.35,
+      92.55,
+      266.24,
+      129.89
+    ],
+    "text": "(5) A payment or transfer made through asystem established under subsection (1), is finaland irrevocable\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.59,
+      140.55,
+      266.49,
+      189.89
+    ],
+    "text": "(a)in the case of a transaction involving afunds transfer only, upon the settlementaccount of the participant requesting thefunds transfer being debited ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.59,
+      200.55,
+      266.35,
+      261.89
+    ],
+    "text": "(b)in the case of a transaction involving asecurities transfer only, upon thesecurities account of the participantrequesting the securities transfer beingdebited ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.19,
+      272.55,
+      266.59,
+      357.89
+    ],
+    "text": "(c)in the case of a transaction involvingboth, a funds transfer and a securitiestransfer, upon debiting the settlementaccount or the securities account of aparticipant requesting the funds transferor the securities transfer as the case maybe, whichever occurs earlier,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.35,
+      368.55,
+      266.44,
+      429.89
+    ],
+    "text": "and notwithstanding anything to the contrary inany other law, such payment or transfer shallnot be required to be reversed, repaid or set asidenor shall any court, order such payment ortransfer to be rectified or stayed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.35,
+      440.55,
+      266.46,
+      525.89
+    ],
+    "text": "(6) Scripless securities issued under this Actor the Local Treasury Bills Ordinance or theRegistered Stock and Securities Ordinance shallbe transferred, pledged, encumbered, lent,borrowed or transacted in only as provided byor under the regulations made under this Act orthe Local Treasury Bills Ordinance or the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200210",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.65,
+      56.55,
+      333.81,
+      189.89
+    ],
+    "text": "Registered Stock and Securities Ordinance, asthe case may be. A transfer, pledge,encumbrance, loan, borrowing or transactioneffected accordingly shall be valid and effectualnotwithstanding any other written law, and theclaim of a participant of the system on anyscripless securities posted as collateral inaccordance with those regulations as may beapplicable shall have priority over the claimson such scripless securities of a person who isnot a participant of the system.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.65,
+      200.55,
+      333.75,
+      273.89
+    ],
+    "text": "(7) Nothing in subsections (5) and (6) shallaffect any other legal right or remedy availableto a person who has suffered any loss or damageby a payment, transfer or settlement effectedthrough a system established under subsection(1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      147.65,
+      284.55,
+      333.78,
+      333.89
+    ],
+    "text": "(8) Notwithstanding the provisions of anywritten law relating to the winding up ofcompanies, if proceedings for the winding upof a participant of a system have commenced\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.01,
+      344.55,
+      333.81,
+      405.89
+    ],
+    "text": "(a)the Central Bank may do anythingpermitted or required by the rules of thesystem in order to net obligationsincurred before or on the day on whichthe proceedings commenced ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.01,
+      416.55,
+      333.65,
+      453.89
+    ],
+    "text": "(b)the obligations that are netted under therules of the system shall be disregardedin the proceedings ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.49,
+      464.55,
+      333.76,
+      525.89
+    ],
+    "text": "(c)the netting made by the Central Bankand any payment made by theparticipant under the rules of thesystem shall not be voidable in theproceedings.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200211",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80.35,
+      56.55,
+      266.49,
+      201.89
+    ],
+    "text": "(9) If proceedings for the winding up of aparticipant is commenced and a payment orsettlement owed by such participant has beenmade as referred to in subsection (5) or (8), andif a payment or settlement of such funds orsecurities would have been void or voidableunder any other written law if made outside thesystem, the liquidator of such participant mayrecover from the person to whose benefit suchpayment or settlement was made such amountas would have been recoverable if such paymentor settlement had been made outside the system.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80.35,
+      212.55,
+      266.57,
+      393.89
+    ],
+    "text": "(10) Without prejudice to the generality ofthe provisions of section 47, the MonetaryBoard, any member of the Monetary Board, anyofficer or employee of the Central Bank or anyperson acting under the direction of theMonetary Board shall not be liable for any lossor damage suffered by any person or participant,arising directly or indirectly, from the use of thesystem by any participant, unless such loss ordamage results from gross negligence or willfulmisconduct of the Monetary Board or anymember of the Monetary Board or any officeror employee of the Central Bank or any personacting under the direction of the MonetaryBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      80.35,
+      404.55,
+      266.49,
+      525.89
+    ],
+    "text": "(11) Where any transaction effected througha system established under subsection (1) iscarried out electronically, such transaction shallnot be denied legal effect, validity orenforceability solely on the ground that suchtransaction is carried out electronically or thatthe information relating to such transaction ismaintained in the form of an electronic record,and such record may be tendered in evidence inproceedings before any court or tribunal in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200212",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      147.65,
+      56.55,
+      333.75,
+      117.89
+    ],
+    "text": "accordance with the provisions of Parts II andIII of the Evidence (Special Provisions) Act,No. 14 of 1995 or any other law for the timebeing in force relating to the tendering ofcomputer evidence, before any court or tribunal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      147.65,
+      128.55,
+      333.74,
+      201.89
+    ],
+    "text": "(12) Any or all of the functions referred to insubsection (1) may, be carried out by a bodycorporate authorised for the purpose by theMonetary Board, subject to such terms andconditions as may be imposed by the MonetaryBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      212.55,
+      313.89,
+      225.89
+    ],
+    "text": "(13) For the purposes of this section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      236.55,
+      333.44,
+      273.89
+    ],
+    "text": "\u201cdirect participant\u201d and \u201cscripless securities\u201dshall have the same meaning as in section112A ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      284.55,
+      333.76,
+      321.89
+    ],
+    "text": "\u201crules\u201d means any rule issued by the CentralBank under subsection (3) of thissection ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      329.55,
+      333.68,
+      402.89
+    ],
+    "text": "\u201csecurities\u201d shall have the same meaning asin section 112A except that for thepurposes of paragraph (a) of subsection(4), securities shall not include securitiesof the Central Bank issued in scriplessform or otherwise ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      410.55,
+      333.8,
+      471.89
+    ],
+    "text": "\u201csettlement account\u201d means an accountmaintained by a participant with theCentral Bank under this Act and used forthe purposes of the system with theapproval of the Central Bank ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      159.65,
+      479.55,
+      333.66,
+      528.89
+    ],
+    "text": "\u201csecurities account\u201d means an accountmaintained by a participant with theCentral Bank in terms of paragraph (b) ofsection 112A.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200213",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      58.66,
+      331.42,
+      98.13
+    ],
+    "text": "Amendment ofsection 72 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      176.26,
+      331.42,
+      213.21
+    ],
+    "text": "Amendment ofsection 74 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      225.34,
+      331.42,
+      262.17
+    ],
+    "text": "Amendment ofsection 76 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      278.35,
+      275.02,
+      335.49,
+      314.49
+    ],
+    "text": "Replacement ofsection 76A of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      56.55,
+      266.54,
+      81.89
+    ],
+    "text": "15.Section 72 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      41.59,
+      92.55,
+      266.46,
+      117.89
+    ],
+    "text": "(a)by the deletion of subsection (2) thereof and byrenumbering subsection (1) as section 72 ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      41.59,
+      128.55,
+      266.46,
+      165.89
+    ],
+    "text": "(b)in the renumbered section 72, by the substitution forthe words \u201cthe Central Bank shall buy\u201d of the words\u201cthe Central Bank may buy\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      176.55,
+      266.54,
+      201.89
+    ],
+    "text": "16.Section 74 of the principal enactment is herebyamended by the repeal of subsection (5) of that section.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      224.55,
+      266.54,
+      249.89
+    ],
+    "text": "17.Section 76 of the principal enactment is herebyamended by the repeal of subsection (4) of that section.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      272.55,
+      266.47,
+      309.89
+    ],
+    "text": "18.Section 76A of the principal enactment ishereby repealed and the following section substitutedtherefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      80.35,
+      320.55,
+      266.51,
+      405.89
+    ],
+    "text": "76A. (1) Where the Governor is of opinionthat it is inexpedient to determine and certify,in accordance with the provisions of section 73,the parities with respect to the Sri Lanka Rupeeof foreign currencies ordinarily required for theinternational transactions of Sri Lanka, theGovernor\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      89.59,
+      416.55,
+      266.46,
+      465.89
+    ],
+    "text": "(a)may desist from determining andcertifying the parities of suchforeign currencies under that section ;and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      89.59,
+      476.55,
+      266.44,
+      525.89
+    ],
+    "text": "(b)may or may not determine the rates atwhich the Central Bank may buy andsell foreign exchange in spot or othertransactions.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      26.35,
+      322.06,
+      65.73,
+      371.13
+    ],
+    "text": "\u201cGovernor\u2019spowers inrelation toexchangerates.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200214",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      147.65,
+      56.55,
+      333.68,
+      105.89
+    ],
+    "text": "(2) Where the Governor acts in terms ofsubsection (1), the provisions of sections 73, 74and 76 shall cease to have any force or effect inlaw.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      147.65,
+      116.55,
+      333.72,
+      189.89
+    ],
+    "text": "(3) Where the Governor determines, underparagraph (b) of subsection (1) the rates at whichthe Central Bank may buy and sell foreignexchange in spot or other transactions, thefollowing provisions shall applydetermination\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.01,
+      200.55,
+      333.76,
+      237.89
+    ],
+    "text": "(a)such determination may be limited tosuch foreign currencies as the Governormay deem appropriate ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.01,
+      248.55,
+      333.79,
+      333.89
+    ],
+    "text": "(b)the rates determined under paragraph (b)of subsection (1) shall not apply in thecase of the purchases and sales offoreign notes and coins, in which casethe Central Bank may have regard to theadditional costs of, or costs incidentalto, such purchases or sales ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.49,
+      344.55,
+      333.77,
+      429.89
+    ],
+    "text": "(c)the Central Bank shall not accept anycommission or impose any charge of anydescription in respect of the purchase orsale of foreign exchange, except thetelegraphic or other costs actuallyincurred in connection with suchpurchase or sale ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      157.01,
+      440.55,
+      333.81,
+      525.89
+    ],
+    "text": "(d)it shall be competent for the Governorto authorise, in writing, any officer byname or by office, to vary from time totime within such limits as may bespecified by the Governor, the ratesdetermined by the Governor underparagraph (b) of subsection (1) ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200215",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.19,
+      56.19,
+      266.43,
+      230.57
+    ],
+    "text": "(e)where the Governor makes adetermination under paragraph (b) ofsubsection (1) with respect to foreigncurrency but makes no determinationunder that subsection with respect to anyparticular foreign currency, the CentralBank may buy and sell such currency inrespect of which no determination hasbeen made at a rate calculated on thebasis of the exchange rate for thatcurrency in the international markets inrelation to any foreign currency withrespect to which the Governor has madea determination under paragraph (b) ofsubsection (1).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      74.35,
+      240.15,
+      266.47,
+      357.05
+    ],
+    "text": "(4) Where the Governor desists fromdetermining and certifying parities undersubsection (1) (a) and does not determine the ratesat which the Central Bank may buy and sellforeign exchange in spot or other transactionsunder paragraph (b) of subsection (1) the CentralBank may buy and sell foreign exchange at suchrates as the Governor or an officer authorised bythe Governor for the purpose may deemappropriate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      74.35,
+      366.63,
+      266.43,
+      460.49
+    ],
+    "text": "(5) (a) Where the Governor determines undersubsection (1) (b) the rates at which the CentralBank may buy and sell foreign exchange, theGovernor may determine the minimum rate atwhich any Commercial bank may buy spotforeign exchange and the maximum rate at whichany commercial bank may sell spot foreignexchange.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      74.35,
+      470.19,
+      266.5,
+      529.49
+    ],
+    "text": "(b) Notwithstanding that the Governor hasdesisted from determining and certifying paritiesunder subsection (1) (a) and has not determinedthe rates at which the Central Bank may buy orsell foreign exchange under paragraph (b) of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200216",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141.65,
+      56.55,
+      333.89,
+      117.89
+    ],
+    "text": "subsection (1) the Governor may determine theminimum rate at which any commercial bank maybuy spot foreign exchange and the maximum rateat which any commercial bank may sell spotforeign exchange.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141.65,
+      128.55,
+      333.71,
+      189.89
+    ],
+    "text": "(c) The provisions of paragraph (d) ofsubsection (3) shall, mutatis mutandis, apply toand in relation to, the minimum and maximumrates determined under paragraph (a) or paragraph(b) of this subsection.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141.65,
+      200.55,
+      333.77,
+      273.89
+    ],
+    "text": "(d) Where no determination is made underparagraph (a) or paragraph (b) of this subsection,a commercial bank may buy, sell or carry out anytransaction in foreign currency at rates calculatedon the basis of the exchange rates for that currencyin the international markets.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      141.65,
+      284.55,
+      333.84,
+      345.89
+    ],
+    "text": "(e) Where a determination is made underparagraph (a) or paragraph (b) of this subsectionas to the minimum and the maximum rates atwhich commercial banks may buy and sell spotforeign exchange\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      159.17,
+      356.55,
+      333.77,
+      525.89
+    ],
+    "text": "(i)no commercial bank shall buy spotforeign exchange at any rate below theminimum rate determined under thoseparagraphs as may be applicable or sellspot foreign exchange at any rateexceeding the maximum rate sodetermined as may be applicable ; andno commercial bank shall in respect ofthe purchase or sale of such exchangeaccept any commission or impose anycharge of any description excepttelegraphic or other costs actuallyincurred in connection with suchpurchase or sale ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200217",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      278.35,
+      299.02,
+      331.42,
+      338.49
+    ],
+    "text": "Replacement ofsection 93 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.11,
+      56.55,
+      266.47,
+      201.89
+    ],
+    "text": "(ii)no commercial bank shall carry out anytransaction in foreign exchange, notbeing a spot transaction, at any ratewhich differs from the rates determinedunder paragraph (a) or paragraph (b) ofthis subsection as may be applicable bya margin greater than is reasonablehaving regard to the additional costs,expenses or risks of the transaction, orby such margin, if any, as may beprescribed in that behalf by theGovernor.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      212.55,
+      266.44,
+      249.89
+    ],
+    "text": "19.The heading appearing in Part VI immediately beforesection 93 of the principal enactment is hereby repealed andthe following heading substituted therefor :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      32.11,
+      260.55,
+      260.59,
+      285.89
+    ],
+    "text": "\u201cREGULATION OF THE RESERVES OF COMMERCIAL BANKS ANDPRESCRIBED FINANCIAL INSTITUTIONS\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      296.55,
+      266.52,
+      333.89
+    ],
+    "text": "20.Section 93 of the principal enactment ishereby repealed and the following section substitutedtherefor:\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.35,
+      344.55,
+      266.54,
+      525.89
+    ],
+    "text": "93. (1) The Monetary Board shall, in orderto limit the volume of money created by thecredit operations of the financial system, requirecommercial banks and such other financialinstitutions operating in Sri Lanka as may beprescribed by the Monetary Board (in this Partreferred to as the \u201cprescribed financialinstitutions\u201d) to maintain reserves against theirdeposit liabilities and such of their otherfinancial liabilities as the Monetary Board mayconsider necessary and shall, for that purpose,prescribe the classes of deposit liabilities andthe categories of other financial liabilitiesagainst which reserves are required to bemaintained.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      278.35,
+      214.66,
+      336.61,
+      254.13
+    ],
+    "text": "Replacement ofheading in Part VIof the principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      26.35,
+      343.78,
+      70.12,
+      364.05
+    ],
+    "text": "\u2018Reserverequirements.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200218",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.65,
+      56.55,
+      333.8,
+      153.89
+    ],
+    "text": "(2) The reserves required to be maintainedby a commercial bank or a prescribed financialinstitution under subsection (1), shall beproportionate to the volumes respectively, ofeach class of its deposit liabilities and eachcategory of its other financial liabilities andshall, subject to subsection (4), take the form ofrupee deposits in the Central Bank.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.65,
+      158.55,
+      333.77,
+      231.89
+    ],
+    "text": "(3) The accounts maintained at the CentralBank by prescribed financial institutions undersubsection (2), shall be maintained only for thepurpose of keeping the rupee deposits requiredto be maintained as reserves by such financialinstitutions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      147.65,
+      236.55,
+      333.78,
+      321.89
+    ],
+    "text": "(4) The Monetary Board may in the interestof the national economy and the banking andfinancial systems of the country, permit themaintenance of any part of the reserves requiredto be maintained under subsection (1), in theform of assets other than rupee deposits in theCentral Bank.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      159.65,
+      326.55,
+      225.1,
+      339.89
+    ],
+    "text": "(5) In this Part \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      165.65,
+      344.55,
+      333.81,
+      525.89
+    ],
+    "text": "\u201cfinancial business\u201d in relation to afinancial institution means theaccepting of money in any form fromthe public, in the ordinary course ofbusiness, by way of deposit or by theissue of bills of exchange, promissorynotes, bonds, certificates, notes,commercial paper or other similarinstruments by means of which moneyis raised from the public, and the useof that money, in whole or in part, forthe grant of loans or making thatmoney available to third parties or forthe benefit of third parties, as abusiness ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200219",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      278.35,
+      332.98,
+      331.42,
+      372.45
+    ],
+    "text": "Replacement ofsection 94 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      98.35,
+      56.55,
+      266.35,
+      153.89
+    ],
+    "text": "\u201cfinancial institution\u201d means a licensedspecialised bank as defined in theBanking Act, No. 30 of 1988, or afinance company as defined in theFinance Companies Act, No. 78 of1988, and includes any person or bodyof persons carrying on financialbusiness ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      98.35,
+      164.55,
+      266.47,
+      321.89
+    ],
+    "text": "\u201cother financial liabilities\u201d in relation to alicensed commercial bank or aprescribed financial institution, meansliabilities (other than deposit liabilities)incurred by any such bank or financialinstitution by the acceptance of moneyin any form from the public, in thecourse of its business, by the issue ofbills of exchange, promissory notes,bonds, cretificates, notes, commercialpaper or other similar instruments bymeans of which money is raised fromthe public.\u2019.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      332.55,
+      266.54,
+      357.89
+    ],
+    "text": "21.Section 94 of the principal enactment is herebyrepealed and the following section substituted therefor :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      80.35,
+      368.55,
+      266.34,
+      441.89
+    ],
+    "text": "94. (1) The Monetary Board shall prescribe,and may, from time to time, vary, the reserveratios applicable to each class of depositliabilities and each category or other financialliabilities against which reserves are requiredto be maintained under section 93.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      80.35,
+      452.55,
+      266.44,
+      525.89
+    ],
+    "text": "(2) Any increase in a reserve ratio which isto be applicable in respect of any liability thatexisted on the date of the increase shall be madeby the Monetary Board in a gradual manner andshall not exceed four percentage points in anyone period of thirty days.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      26.35,
+      369.72,
+      65.34,
+      424.93
+    ],
+    "text": "\u201cMonetaryBoard toprescribereserveratios.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200220",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.65,
+      56.55,
+      333.85,
+      129.89
+    ],
+    "text": "(3) The Monetary Board shall, other than inexceptional circumstances, endeavour to givecommercial banks and other prescribed financialinstitutions not less than fourteen days noticeof the date on which any increase in a reserveratio is to become effective.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      140.55,
+      333.72,
+      165.89
+    ],
+    "text": "22.Section 95 of the principal enactment is herebyrepealed and the following section substitued therefor :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.65,
+      176.55,
+      333.82,
+      333.89
+    ],
+    "text": "95. Where any commercial bank or anyprescribed financial institution is required tomaintain a reserve against any class of depositliabilities or any category of other financialliabilities, the Central Bank shall, if sodetermined by the Monetary Board, in theinterest of the national economy and the bankingand financial systems of the country, pay to thatbank or to that financial institution, as the casemay be, interest at such rate as may bedetermined by the Monetary Board, on theamount maintained as a reserve or a partthereof.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      344.55,
+      333.72,
+      369.89
+    ],
+    "text": "23.Section 96 of the principal enactment is herebyrepealed and the following section substituted therefor :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.65,
+      380.55,
+      333.83,
+      441.89
+    ],
+    "text": "96. (1) The reserves required to bemaintained by a commercial bank or aprescribed financial institution shall becalculated on such basis as may be prescribedby the Monetary Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      147.65,
+      452.55,
+      333.7,
+      525.89
+    ],
+    "text": "(2) For the purposes of subsection (1), theprincipal office in Sri Lanka of a commercialbank or a prescribed financial institution andthe respective branches and agencies of suchbank or financial institution shall be deemed tobe one unit. \u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      93.65,
+      176.98,
+      138.99,
+      206.85
+    ],
+    "text": "\u201cInterest onreserves whenpayable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      21.65,
+      140.98,
+      74.72,
+      180.45
+    ],
+    "text": "Replacement ofsection 95 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      21.65,
+      346.06,
+      138.99,
+      412.05
+    ],
+    "text": "Replacement ofsection 96 of theprincipalenactment.\u201cComputationof requiredreserves.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200221",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      278.35,
+      58.66,
+      331.42,
+      98.13
+    ],
+    "text": "Replacement ofsection 97 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      278.35,
+      476.02,
+      331.42,
+      515.49
+    ],
+    "text": "Amendement ofsection 98 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      56.67,
+      266.25,
+      94.61
+    ],
+    "text": "24.Section 97 of the principal enactment ishereby repealed and the following section substitutedtherefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      105.87,
+      266.42,
+      242.21
+    ],
+    "text": "97. (1) Where the reserves maintained by acommercial bank or a prescribed financialinstitution are below the reserves required to bemaintained by such bank or financialinstitution calculated on the basis prescribedunder section 96, the commercial bank or theprescribed financial institution, as the casemay be, shall pay to the Central Bank,interest on the amount of the deficiency at suchrate as may be determined by the MonetaryBoard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.35,
+      253.47,
+      266.54,
+      340.61
+    ],
+    "text": "(2) Where a commercial bank or a prescribedfinancial institution regularly fails to maintainthe reserves required to be maintained by suchbank or financial institution calculated on thebasis prescribed under section 96, the MonetaryBoard may, in the interests of the nationaleconomy, make order \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      89.59,
+      351.87,
+      266.42,
+      389.81
+    ],
+    "text": "(a)prohibiting or restricting the making ofloans or investments by that bank orfinancial institution ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      89.59,
+      401.07,
+      266.44,
+      463.61
+    ],
+    "text": "(b)prohibiting the application of the wholeor any specified part of the net profitsof that bank or financial institution forthe purpose of payment of a dividend toits shareholders.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      474.87,
+      266.54,
+      525.17
+    ],
+    "text": "25.Section 98 of the principal enactment is herebyamended in subsection (2) of that section, by the substitutionfor the words \u201cunder the preceding provisions of this Part\u201d,of the words \u201cunder this Part\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      26.35,
+      106.18,
+      74.33,
+      136.05
+    ],
+    "text": "\u201cConsequencesof reservedeficiencies.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200222",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      56.55,
+      333.64,
+      93.89
+    ],
+    "text": "26.The following new section is inserted immediatelyafter section 98, and shall have effect as section 98A of theprincipal enactment :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.65,
+      104.55,
+      333.75,
+      237.89
+    ],
+    "text": "98A. (1) The Director of Bank Supervisionmay examine, or cause an examiner of hisdepartment to examine the books, accounts andrecords of a prescribed financial institution andmay require any such financial institution or itsdirectors or officers to furnish from time to timeor within such periods as may be specified, suchbooks, accounts, records or information as maybe required for the purpose of ascertainingwhether such institution is complying with theprovisions of this Part.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      147.65,
+      248.55,
+      333.83,
+      321.89
+    ],
+    "text": "(2) Any person who resists or obstructs theDirector of Bank Supervision or an examinerof his department, in the exercise by suchDirector or examiner, of the powers conferredon him by subsection (1) shall be guilty of anoffence.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      332.55,
+      333.63,
+      357.89
+    ],
+    "text": "27.Section 112A of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      109.01,
+      368.55,
+      333.67,
+      405.89
+    ],
+    "text": "(a)by the repeal of the marginal note to that sectionand substitution therefor of the following newmarginal note :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      141.65,
+      413.55,
+      321.78,
+      450.89
+    ],
+    "text": "\u201cFacilities for maintenance of accounts at theCentral Bank and a depository for scriplesssecutities . \u201d ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      109.01,
+      458.55,
+      333.7,
+      495.89
+    ],
+    "text": "(b)in paragraph (b) of that section, by the substitutionfor the words \u201camong direct participants.\u201d of thewords\u201camong direct participants ; and\u201d ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      109.49,
+      501.51,
+      333.62,
+      526.85
+    ],
+    "text": "(c)by the addition immediately after paragraph (b)thereof of the following new paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      21.65,
+      56.98,
+      78.91,
+      96.45
+    ],
+    "text": "Insertion of newsection 98A of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      93.65,
+      106.06,
+      140.97,
+      145.53
+    ],
+    "text": "\u201cPowers of theDirector ofBankSupervision.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      21.65,
+      333.58,
+      70.97,
+      373.05
+    ],
+    "text": "Amendment ofsection 112A ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200223",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      278.35,
+      358.06,
+      328.73,
+      397.53
+    ],
+    "text": "Replacement ofsection 112B ofthe principalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      61.75,
+      56.55,
+      266.44,
+      141.89
+    ],
+    "text": "\u201c(c)for the maintenance of a depository forrecording of title to scripless securities of theCentral Bank, of direct participants and, in thecase of dealer direct participants, of theircustomers. The Central Bank may make suchrules and regulations as it may considernecessary in relation to the depository ; \u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      41.59,
+      152.55,
+      266.33,
+      189.89
+    ],
+    "text": "(d)by the repeal of the definition of the expression\u201cdirect participant\u201d and the substitution therefor ofthe following definition :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      62.35,
+      200.55,
+      266.57,
+      249.89
+    ],
+    "text": "\u201cdealer direct participant \u201d and \u201cdirect participant\u201d shallhave the respective meanings assigned to them inthe Local Treasury Bills Ordinance and theRegistered Stock and Securities Ordinance ; \u201d ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797959327697754
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      42.19,
+      260.55,
+      266.5,
+      297.89
+    ],
+    "text": "(e)by the repeal of the definition of the expression\u201cprimary dealer\u201d and substitution therefor of thefollowing definition :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      62.35,
+      308.55,
+      266.57,
+      345.89
+    ],
+    "text": "\u2018\u201c primary dealer\u201d shall have the meaning assignedto it in the Local Treasury Bills Ordinance andthe Registered Stock and Securities Ordinance\u2019.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      26.35,
+      356.55,
+      266.33,
+      381.89
+    ],
+    "text": "28.Section 112B of the principal enactment is herebyrepealed and the following section substituted therefor :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      80.35,
+      392.55,
+      266.49,
+      477.89
+    ],
+    "text": "112B. (1) Any or all of the functions referredto in subsection (1) of section 98 and section112A may. notwithstanding the provisions ofsuch section, be carried out by a body corporateauthorised for the purpose by the MonetaryBoard subject to such terms and conditions asmay be imposed by the Monetary Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      80.35,
+      488.55,
+      266.55,
+      525.89
+    ],
+    "text": "(2) A body corporate referred to in subsection(1) may hold an account with the Central Bankfor the purpose of carrying out such functions.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      26.35,
+      393.46,
+      74.01,
+      452.13
+    ],
+    "text": "\u201cAny bodycorporate toprovidefacilities undersections 98 (1)and 112A.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      20.55,
+      311.22,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200224",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      56.55,
+      333.01,
+      81.89
+    ],
+    "text": "29.Section 122 of the principal enactment is herebyamended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      109.01,
+      92.55,
+      333.78,
+      141.89
+    ],
+    "text": "(a)in subsection (2) of that section, by the deletion ofall the words from \u201cEvery person who is guilty ofan offence \u201d to \u201cshall be liable\u201d, and substitution ofthe following words therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      129.65,
+      152.55,
+      333.8,
+      249.89
+    ],
+    "text": "\u201cEvery person who is guilty of an offence byreason of the contravention of, or failure to complywith, section 30 or section 32 (2) or section 45 orsection 46 or section 50 or section 98A (2) or anyrule, regulation, order, direction or requirement madeor given under section 30 or section 79 (2) (c) orsection 98A (1) or section 101 or section 102 shallbe liable\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      109.01,
+      260.55,
+      268.01,
+      273.89
+    ],
+    "text": "(b)in subsection (2) of that section \u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      135.17,
+      281.55,
+      333.67,
+      330.89
+    ],
+    "text": "(i)in paragraph (a) thereof, by the substitutionfor the words \u201ctwo thousand five hundredrupes\u201d of the words \u201cfive hundred thousandrupees.\u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      132.41,
+      338.55,
+      333.77,
+      375.89
+    ],
+    "text": "(ii)in paragraph (b) thereof, by the substitutionfor the words \u201cten thousend reupees\u201d of thewords \u201cone million rupees, \u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      109.49,
+      386.55,
+      333.79,
+      423.89
+    ],
+    "text": "(c)in subsection (2A) of that section by the substitutionfor the words \u201cthree thousand reupees\u201d of the wrods\u201cfive hundred thousand rupees\u201d ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      109.01,
+      434.55,
+      333.75,
+      471.89
+    ],
+    "text": "(d)in subsection (3) of that section by the substitutionfor the words \u201cfive hundred rupees\u201d of the words\u201cone hundred thousand rupees\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      93.65,
+      482.55,
+      333.64,
+      507.89
+    ],
+    "text": "30.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      21.65,
+      56.62,
+      80.05,
+      96.09
+    ],
+    "text": "Amendment ofSection 122 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      21.65,
+      484.06,
+      76.1,
+      515.49
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      48.79,
+      20.55,
+      266.35,
+      33.89
+    ],
+    "text": "Monetary Law (Amendment) Act, No. 32 of 200225",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      26.35,
+      496.18,
+      338.31,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
