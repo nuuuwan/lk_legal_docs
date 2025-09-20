@@ -1,0 +1,801 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      163.65,
+      167.4,
+      437.98,
+      220.0
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.29,
+      238.11,
+      359.26,
+      251.39
+    ],
+    "text": "Part II of July 28, 2017",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.41,
+      266.91,
+      341.25,
+      280.19
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      295.71,
+      355.69,
+      308.99
+    ],
+    "text": "(Issued on 03.08.2017)",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.09,
+      431.19,
+      380.49,
+      458.87
+    ],
+    "text": "TWENTIETH AMENDMENTTO THE CONSTITUTION",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.01,
+      479.79,
+      304.67,
+      493.07
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.93,
+      508.59,
+      314.73,
+      521.87
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.29,
+      542.65,
+      434.27,
+      565.72
+    ],
+    "text": "to amend the Constitution of the Democratic Socialist Republicof Sri Lanka",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      205.89,
+      586.33,
+      392.84,
+      597.4
+    ],
+    "text": "Ordered to be published by the Prime Minister",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      659.17,
+      453.92,
+      670.24
+    ],
+    "text": "Price : Rs. 6.00Postage : Rs. 10.00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      196.89,
+      631.79,
+      402.69,
+      640.65
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      186.69,
+      644.99,
+      413.01,
+      653.85
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.29,
+      167.17,
+      401.81,
+      178.24
+    ],
+    "text": "Twentieth Amendment to the Constitution1",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      194.53,
+      235.29,
+      205.6
+    ],
+    "text": "L.D.\u2014O. 41/2017",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.49,
+      218.89,
+      390.21,
+      242.2
+    ],
+    "text": "AN ACT TO AMEND THE CONSTITUTION OF THE DEMOCRATICSOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      255.49,
+      401.92,
+      278.8
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      292.09,
+      401.88,
+      315.4
+    ],
+    "text": "1.This Act may be cited as the Twentieth Amendment tothe Constitution.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      328.69,
+      401.91,
+      388.6
+    ],
+    "text": "2.The following new Article is hereby insertedimmediately after Article 154D of the Constitution of theDemocratic Socialist Republic of Sri Lanka (hereinafterreferred to as the \u201cConstitution\u201d) and shall have effect asArticle 154DD of the Constitution:\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.85,
+      401.89,
+      401.9,
+      473.92
+    ],
+    "text": "154DD. The election of members to allProvincial Councils shall be held on the samedate and the Parliament shall determine the dateon which all the Provincial Councils shall standdissolved (in this Chapter referred to as the\u201cspecified date\u201d):",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.85,
+      487.33,
+      401.94,
+      522.76
+    ],
+    "text": "Provided that, such specified date shall notbe later than the expiration of the term of thelast constituted Provincial Council.\u201d.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      536.05,
+      401.88,
+      571.6
+    ],
+    "text": "3.Article 154E of the Constitution is hereby amendedby the substitution for the words \u201cas a dissolution of theCouncil.\u201d of the following:\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.85,
+      584.89,
+      301.67,
+      595.96
+    ],
+    "text": "\u201cas a dissolution of the Council:",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.85,
+      609.25,
+      401.89,
+      632.56
+    ],
+    "text": "Provided, however, upon the determination of thespecified date under Article 154DD\u2014",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.09,
+      645.85,
+      401.9,
+      669.16
+    ],
+    "text": "(a)the term of office of any Provincial Councilending prior to the specified date shall be deemed",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      403.07,
+      200.86,
+      431.13
+    ],
+    "text": "\u201cElection ofProvincialCouncils.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      294.83,
+      441.93,
+      303.69
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      330.71,
+      460.17,
+      406.77
+    ],
+    "text": "Insertion of newArticle 154DDin theConstitution ofthe DemocraticSocialistRepublic ofSri Lanka.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      536.03,
+      457.91,
+      573.69
+    ],
+    "text": "Amendment ofArticle 154E oftheConstitution.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.33,
+      329.29,
+      152.33,
+      340.36
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      401.29,
+      154.89,
+      412.36
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      463.93,
+      154.89,
+      475.0
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      548.41,
+      154.89,
+      559.48
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      647.89,
+      154.89,
+      658.96
+    ],
+    "text": "25",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.37,
+      673.43,
+      249.7,
+      682.29
+    ],
+    "text": "2\u2014PL 005348 \u2014 475 (08/2017)",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.75,
+      167.17,
+      354.34,
+      178.24
+    ],
+    "text": "Twentieth Amendment to the Constitution2",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      202.75,
+      194.29,
+      391.77,
+      229.36
+    ],
+    "text": "to be extended up to the specified date and suchProvincial Council shall stand dissolved on thespecified date; or",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181.99,
+      242.29,
+      391.8,
+      289.36
+    ],
+    "text": "(b)the term of office of any Provincial Council whichcontinues beyond the specified date shall end onthe specified date and such Provincial Councilshall stand dissolved on the specified date.\u201d.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.75,
+      302.53,
+      391.79,
+      338.2
+    ],
+    "text": "4.The following new Article is hereby insertedimmediately after Article 154E of the Constitution and shallhave effect as Article 154EE of the Constitution:\u2014",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.75,
+      351.73,
+      391.79,
+      473.56
+    ],
+    "text": "154EE. In the event of dissolution of anyProvincial Council by reason of the operationof the provisions of sub-paragraph (c) ofparagraph (8) of Article 154B or by any otherreason specified in any law, the powers of suchProvincial Council shall be exercised by theParliament until the specified date and theprovisions of Articles 154L and 154M shall,mutatis mutandis apply in relation to the exerciseof powers of the Provincial Council.\u201d.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.75,
+      487.09,
+      391.79,
+      510.4
+    ],
+    "text": "5.In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.75,
+      352.31,
+      194.96,
+      409.17
+    ],
+    "text": "\u201cTheParliament toexercisepowers of aProvincialCouncil.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      397.75,
+      303.35,
+      450.07,
+      341.01
+    ],
+    "text": "Insertion of newArticle 154EEin theConstitution.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      397.75,
+      488.63,
+      444.44,
+      526.29
+    ],
+    "text": "Sinhala text toprevail in caseofinconsistency.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.59,
+      254.29,
+      142.59,
+      265.36
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.07,
+      326.05,
+      145.15,
+      337.12
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.07,
+      398.89,
+      145.15,
+      409.96
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.07,
+      463.09,
+      145.15,
+      474.16
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      199.29,
+      167.17,
+      401.81,
+      178.24
+    ],
+    "text": "Twentieth Amendment to the Constitution3",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      630.35,
+      461.29,
+      669.57
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), payable to the Superintendent, Government Publications Bureau, Department ofGovernment Information, No. 163, Kirulapona Mawatha, Polhengoda, Colombo 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

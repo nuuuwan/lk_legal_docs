@@ -1,0 +1,2662 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.89,
+      166.37,
+      441.33,
+      219.38
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.21,
+      229.71,
+      362.49,
+      243.32
+    ],
+    "text": "Part II of April 28, 2017",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.85,
+      258.51,
+      341.85,
+      272.12
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.13,
+      287.31,
+      354.61,
+      300.92
+    ],
+    "text": "(Issued on 02.05.2017)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.49,
+      423.75,
+      417.2,
+      451.76
+    ],
+    "text": "PANASOMA FRIENDSHIP FOUNDATION(INCORPORATION)",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.49,
+      493.97,
+      303.71,
+      505.31
+    ],
+    "text": "A",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.85,
+      517.97,
+      311.85,
+      529.31
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.65,
+      549.77,
+      411.08,
+      561.11
+    ],
+    "text": "to incorporate the Panasoma Friendship Foundation",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.49,
+      583.97,
+      417.21,
+      607.31
+    ],
+    "text": "To be presented in Parliament by Hon. Hector Appuhamy,M. P. for Puttalam District",
+    "fonts": [
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.45,
+      626.95,
+      391.17,
+      636.02
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.09,
+      639.55,
+      403.65,
+      648.62
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.81,
+      658.97,
+      455.73,
+      670.31
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10.00",
+    "fonts": [
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.21,
+      466.97,
+      347.46,
+      478.31
+    ],
+    "text": "(Private Member\u2019s Bill)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.29,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "Panasoma Friendship Foundation(Incorporation)1",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      289.97,
+      149.81,
+      301.31
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      363.77,
+      153.93,
+      375.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      463.13,
+      153.93,
+      474.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      523.73,
+      153.93,
+      535.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.05,
+      203.09,
+      373.76,
+      226.79
+    ],
+    "text": "AN ACT TO INCORPORATE THE PANASOMA FRIENDSHIPFOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      240.05,
+      401.88,
+      300.59
+    ],
+    "text": "WHEREAS Foundation called and known as the \u201cPanasomaFriendship Foundation\u201d has heretofore been formed in SriLanka for the purpose of effectually carrying out its objectsand transacting all matters connected with the saidFoundation according to the rules agreed to by its members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      313.85,
+      401.9,
+      374.39
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the several objectsand matters for which it was established, and has applied tobe incorporated and it will be expedient to grant the saidapplication :",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      387.65,
+      401.9,
+      411.23
+    ],
+    "text": "BE it therefore enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      424.49,
+      401.85,
+      448.19
+    ],
+    "text": "1.This Act may be cited as the Panasoma FriendshipFoundation (Incorporation) Act, No. of 2017.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      461.45,
+      401.88,
+      583.43
+    ],
+    "text": "2.From and after the date of commencement of this Act,such and so many persons as now are members of the \u201cPanasomaFriendship Foundation\u201d (hereinafter referred to as the\u201cFoundation\u201d) or shall hereafter be admitted as members of theCorporation hereby constituted, shall be a body corporate, withperpetual succession under the name and style of the \u201cPanasomaFriendship Foundation\u201d (hereinafter referred to as the\u201cCorporation\u201d) and by that name may sue and be sued, with fullpower and authority to have and use a common seal and alterthe same at its pleasure.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      596.69,
+      401.9,
+      669.83
+    ],
+    "text": "(2) The Corporation shall be deemed to be a voluntarysocial service organization within the meaning, and for thepurpose of the Voluntary Social Service Organizations(Registration and Supervision) Act, No. 31 of 1980 and theprovisions of that Act shall apply to and in relation to themanagement of the affairs of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      427.39,
+      443.86,
+      436.46
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      242.35,
+      442.29,
+      251.42
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      462.67,
+      455.86,
+      510.14
+    ],
+    "text": "Incorporationof thePanasomaFriendshipFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.85,
+      597.89,
+      154.29,
+      609.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.81,
+      658.13,
+      155.25,
+      669.47
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      347.71,
+      190.31
+    ],
+    "text": "2Panasoma Friendship Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      266.45,
+      144.15,
+      277.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      351.89,
+      149.59,
+      363.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      424.49,
+      149.59,
+      435.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      510.89,
+      149.59,
+      522.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      584.93,
+      149.59,
+      596.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      203.09,
+      397.17,
+      226.79
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      240.05,
+      397.18,
+      275.99
+    ],
+    "text": "(a) to initiate model agro projects in Sri Lanka in orderto educate the farmers the new Japanese Technologyand production of organic fertilizer;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      289.25,
+      397.19,
+      337.43
+    ],
+    "text": "(b) to increase the productivity and efficiency of SriLankan economic crops by supplying agriculturalequipment where it is necessary to the young farmersencouraging them towards the agricultural sector;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.71,
+      350.69,
+      397.21,
+      411.23
+    ],
+    "text": "(c) to provide short term training courses to Sri Lankanagricultural teachers in the field of agriculture in Japanand taking step to provide them necessary instrumentsand services in order to create model agro farms in thesame schools;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      424.49,
+      397.19,
+      460.43
+    ],
+    "text": "(d) to take steps in order to develop Maize related agroproducts and encourage and provide assistance inorder to cultivate other kinds of grains;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      170.71,
+      473.69,
+      328.19,
+      485.03
+    ],
+    "text": "(e) to introduce new market facilities;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      172.15,
+      498.29,
+      397.19,
+      546.59
+    ],
+    "text": "(f) to introduce Japanese technologies to formalize andenhance the milk production and to expand theproduction of organic raw materials for cattle feedingsand to provide necessary related services;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      559.85,
+      397.2,
+      608.03
+    ],
+    "text": "(g) to donate bicycles in order to facilitate the transportneed of the rural students, and to provide stationeriesfor them, and to provide necessary facilities in orderto uplift the pre-school education;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.87,
+      621.29,
+      397.19,
+      670.19
+    ],
+    "text": "(h) to obtain international supports during naturaldisasters and other social services when nacessaryand implementing such programmes in accordancewith government regulations;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      403.15,
+      205.39,
+      449.6,
+      233.66
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.15,
+      658.97,
+      149.59,
+      670.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.29,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "Panasoma Friendship Foundation(Incorporation)3",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      268.49,
+      148.85,
+      279.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      342.89,
+      153.93,
+      354.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      417.89,
+      153.93,
+      429.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      505.97,
+      153.93,
+      517.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      581.93,
+      153.93,
+      593.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.85,
+      203.81,
+      401.87,
+      227.99
+    ],
+    "text": "(i) to provide services and equipment to hospitals andsectors serving in the field of medical services; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      176.85,
+      241.85,
+      401.88,
+      278.39
+    ],
+    "text": "(j) to do all such other acts and things as are necessaryfor and incidental or conducive to the attainment ofthe above objects.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      292.25,
+      401.9,
+      353.99
+    ],
+    "text": "(2) In the implementation of the objects specified insubsection (1), the Corporation shall ensure that suchimplementation shall be carried out without anydiscrimination based on race, religion, language, caste, sex,political opinion, place of birth or any of such grounds",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      367.85,
+      401.89,
+      429.59
+    ],
+    "text": "4. The objects of the Corporation shall be carried out insuch manner so as not to create any conflict between thework of the Corporation and any work being carried outsimultaneously by any Ministry or Department of theGovernment or any Provincial Council.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      456.05,
+      401.89,
+      517.79
+    ],
+    "text": "5.(1) Subject to the provisions of this Act theCorporation shall be carried out by a Board of Directors(hereinafter referred to as \u201cthe Board\u201d) consisting of suchnumber of office bearers as may be specifled by the rulesmade under section 7.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.57,
+      531.65,
+      401.88,
+      618.59
+    ],
+    "text": "(2) (a) The Board of Directors of the foundation thatholds office on the day immediately precedingthe date of commencement of this Act, shallfunction as the Board of the Corporation untilthe first Board is appointed or elected in themanner provided for by rules made undersection 7.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.85,
+      632.45,
+      401.89,
+      669.83
+    ],
+    "text": "(b) The first Board of the Corporation shall beappointed or elected within one year of the dateof commencement of this Act.30",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      370.63,
+      455.86,
+      449.3
+    ],
+    "text": "Corporationto ensure noconflict withwork ofMinistry orDepartmentof the CentralGovernmentor Province.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      457.27,
+      453.58,
+      495.14
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      347.71,
+      190.31
+    ],
+    "text": "4Panasoma Friendship Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      253.49,
+      144.15,
+      264.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      325.49,
+      149.59,
+      336.83
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      396.89,
+      149.59,
+      408.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      467.45,
+      149.59,
+      478.79
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      539.45,
+      149.59,
+      550.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.87,
+      202.97,
+      397.19,
+      274.31
+    ],
+    "text": "(3) (a) Every office bearer of the Board including thepatrons and advisors, shall be appointed orelected for a period of three years and any suchoffice bearer, patron or advisor shall be eligiblefor re-appointment or re-election after lapse ofthe said period of three years.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.87,
+      286.97,
+      397.19,
+      346.31
+    ],
+    "text": "(b) In the event of a vacancy occurring due to thedeath, resignation, incapacity or removal fromoffice of an office bearer, the Board shall havingregard to the rules of the Corporation, elect orappoint a person to fill such vacancy.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.71,
+      358.97,
+      397.18,
+      406.31
+    ],
+    "text": "(c) The person elected or appointed under paragraph(b) shall hold office only for the unexpiredportion of the term of office of the member whomhe succeeds.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      418.97,
+      397.17,
+      478.31
+    ],
+    "text": "6.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts and matters as necessaryor desirable for the promotion or any one of them, includingthe power\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.47,
+      490.97,
+      397.22,
+      562.31
+    ],
+    "text": "(a)to purchase, acquire, rent, construct, renovate andotherwise obtain lands or buildings which may berequired for the purpose of the Corporation and todeal with or dispose of the same as may be deemedexpedient with a view to promoting the objects ofthe Corporation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.47,
+      574.97,
+      397.17,
+      598.31
+    ],
+    "text": "(b)to raise funds and receive grants, gifts or donations,in cash or kind:",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      193.15,
+      610.97,
+      397.18,
+      670.31
+    ],
+    "text": "Provided that, the Board shall obtain the priorwritten approval of the Department of ExternalResources of the Ministry of the Minister assignedthe subject of Finance, in respect of all foreigngrants, gifts or donations made to the Corporation;",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      419.95,
+      450.43,
+      437.42
+    ],
+    "text": "Powers of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.15,
+      623.45,
+      149.59,
+      634.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.29,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "Panasoma Friendship Foundation(Incorporation)5",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      202.97,
+      401.89,
+      262.31
+    ],
+    "text": "(c)to make, draw, accept, discount, endorse, negotiate,buy, sell and issue bills of exchange, cheques,promissory notes and other negotiable instrumentsand to open, operate and close accounts in anybanks;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.05,
+      274.97,
+      401.88,
+      310.31
+    ],
+    "text": "(d)to invest any funds not immediately required forthe purposes of the Corporation in such manner asthe Board may determine;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.89,
+      322.97,
+      401.88,
+      370.31
+    ],
+    "text": "(e)to undertake, accept, execute, perform andadminister any lawful trust or conditions or personalproperty with a view to promoting the objects ofthe Corporation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.33,
+      382.97,
+      401.88,
+      442.31
+    ],
+    "text": "(f)to appoint, employ, dismiss or terminate the servicesof officers and servants of the Corporation andexercise disciplinary control over them and to paythem such salaries, allowances and gratuties as maybe determined by the Corporation; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      178.05,
+      454.97,
+      401.89,
+      490.31
+    ],
+    "text": "(g)to do all other things as are necessary or expedientfor the proper and effective carrying out of theobjects of the Corporation.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      502.97,
+      401.91,
+      562.31
+    ],
+    "text": "7.(1) It shall be lawful for the Corporation, from time totime at any general meeting and by the votes of not lessthan two-thirds of the members present and voting, to makerules, not inconsistent with the provision of this Act, or anyother written law, for all or any of the following matters:\u2014",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.09,
+      574.97,
+      401.86,
+      610.31
+    ],
+    "text": "(a)the classification of membership, admission,withdrawal, expulsion or resignation of membersand fees payable by members ;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      177.09,
+      622.97,
+      401.89,
+      670.31
+    ],
+    "text": "(b)the election of office bearers of the Board orvacation of or removal from office of office bearersand the powers, duties and functions of the officebearers ;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      252.41,
+      148.85,
+      263.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      334.97,
+      153.93,
+      346.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      406.97,
+      153.93,
+      418.31
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      480.41,
+      153.93,
+      491.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      551.45,
+      153.93,
+      562.79
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.85,
+      634.49,
+      154.29,
+      645.83
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      504.91,
+      452.13,
+      522.5
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      347.71,
+      190.31
+    ],
+    "text": "6Panasoma Friendship Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.11,
+      202.97,
+      397.18,
+      237.23
+    ],
+    "text": "(c)the terms and conditions of appoinment, powers,functions and duties of the various officers, agentsand servants of the Corporation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.39,
+      248.69,
+      397.17,
+      305.63
+    ],
+    "text": "(d)the procedure to be followed at the summoningand holding of meetings of the Board, or any sub-committee thereof, notices and agenda of suchmeetings, the quorum and the conduct of businessthereat;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      173.11,
+      317.09,
+      397.17,
+      339.83
+    ],
+    "text": "(e)the qualifications and disqualifications to be amember of the Board and the Corporation;",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174.67,
+      351.29,
+      397.2,
+      374.03
+    ],
+    "text": "(f)the administration and management of the propertyof the Corporation; and",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      172.39,
+      385.49,
+      397.19,
+      419.63
+    ],
+    "text": "(g)the management of the affairs of the Corporationand the accomplishment of its objects anddissolution of the Corporation.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      431.09,
+      397.21,
+      465.23
+    ],
+    "text": "(2) The rules made by the Corporation may be amended,altered, added to or rescinded at a like meeting and in likemanner as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      476.69,
+      397.17,
+      499.43
+    ],
+    "text": "(3) The members of the Corporation shall at all time besubject to rules of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      510.89,
+      397.21,
+      533.63
+    ],
+    "text": "(4)The rules made under this section shall be publishedin the Government Gazette.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      545.09,
+      397.25,
+      579.23
+    ],
+    "text": "8.The Board shall maintain a register of members inwhich name, address and other essential details of themembers be inscribed.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.15,
+      590.69,
+      370.16,
+      602.03
+    ],
+    "text": "9.(1) The Corporation shall have its own Fund.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      613.49,
+      397.17,
+      670.91
+    ],
+    "text": "(2) All moneys received by way of gifts, bequests,donations, subscriptions, contributions, fees of grants for anaccount of the Corporation shall be deposited in one ormore Banks approved by the Board to the credit of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      260.45,
+      144.15,
+      271.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      328.97,
+      149.59,
+      340.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      406.73,
+      149.59,
+      418.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      546.31,
+      440.59,
+      564.14
+    ],
+    "text": "Register ofmembers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      487.97,
+      149.59,
+      499.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      566.93,
+      149.59,
+      578.27
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.15,
+      647.45,
+      149.59,
+      658.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      590.95,
+      447.43,
+      608.42
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211.29,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "Panasoma Friendship Foundation(Incorporation)7",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      202.97,
+      401.87,
+      250.91
+    ],
+    "text": "(3) There shall be paid out of the Fund all sums of moneysas are required to defray any expenditure incurred by theCorporation in the exercise, performance and discharge ofits powers, duties and functions under the Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      264.89,
+      401.89,
+      288.23
+    ],
+    "text": "10.(1) The financial year of the Corporation shall bethe calendar year.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      296.93,
+      401.95,
+      332.27
+    ],
+    "text": "(2) The Corporation shall cause proper accounts to bekept of income and expenditure, assets and liabilities andall other transactions of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      340.97,
+      401.94,
+      376.31
+    ],
+    "text": "(3) The accounts of the Corporation shall be audited by aqualified auditor appointed by Auditor General in terms ofArticle 154 of the Constitution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      388.97,
+      401.9,
+      412.31
+    ],
+    "text": "(4) For the purpose of this section, \u201cQualified Auditor\u201dmeans \u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196.05,
+      420.89,
+      401.89,
+      492.23
+    ],
+    "text": "(a)an individual who being a member of theInstitute of Chartered Accountants of Sri Lanka,or any other institute established by law,possesses a certificate to practice as anAccountant issued by the Council of suchinstitute; or",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      196.05,
+      500.93,
+      401.88,
+      584.27
+    ],
+    "text": "(b)a firm of Accountants each of the residentpartners of which, being a member of theInstitute of Chartered Accountants of Sri Lankaor of any other institute established by law,possesses a certificate to practice as anAccountant issued by the Council of suchinstitute.",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.85,
+      597.17,
+      401.9,
+      669.95
+    ],
+    "text": "11.(1) The Board shall prepare a report of the activitiesof the Corporation for each financial year and submit suchreport together with the audited statement of accounts to theSecretary of the Ministry of the Minister assigned the subjectof Social Services and to the Registrar of Voluntary SocialServices Organizations appointed under the Voluntary Social",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      598.15,
+      434.13,
+      616.82
+    ],
+    "text": "AnnualReport.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      264.89,
+      148.85,
+      276.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      340.49,
+      154.29,
+      351.83
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      421.13,
+      154.29,
+      432.47
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      480.89,
+      154.29,
+      492.23
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      549.17,
+      154.29,
+      560.51
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      623.45,
+      154.29,
+      634.79
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      407.85,
+      266.47,
+      455.13,
+      283.94
+    ],
+    "text": "Accounts andthe Auditing.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      166.97,
+      347.71,
+      190.31
+    ],
+    "text": "8Panasoma Friendship Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      203.09,
+      397.2,
+      239.03
+    ],
+    "text": "Services Organization (Registration and Supervision) Act,No. 31 of 1980 before the expiration of six months of theyear succeeding the year to which such report relates.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      252.29,
+      397.19,
+      300.59
+    ],
+    "text": "(2) A separate account relating to the foreign and localmoneys received by the Corporation during the financialyear shall be attached to the report referred to in subsection(1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      313.85,
+      397.22,
+      386.63
+    ],
+    "text": "12.All debts and liabilities of the Foundation existingon the day preceding the date of commencement of this Act,shall be paid by the Corporation hereby constituted, and alldebts due to, and subscriptions and contributions payableto the Foundation on that day shall be paid to the Corporationfor the purpose of this Act.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      399.89,
+      397.21,
+      509.63
+    ],
+    "text": "13.Subject to the provisions of this Act, the Corporationshall be able and capable in law, to take and hold any propertymovable or immovable which may become vested in it byvirtue of any purchase, grant, gift, testamentary dispositionor otherwise, and all such property shall be held by theCorporation for the purposes of this Act, and subject to therules of the Corporation made under section 7, with powerto sell, mortgage, lease, exchange or otherwise dispose ofthe same.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      522.89,
+      397.18,
+      595.79
+    ],
+    "text": "14.The money and property of the Corporationhowever derived shall be applied solely towards thepromotion of the objects of the Corporation and no portionthereof shall be paid or transferred directly or indirectly byway of dividend, bonus or profit to the members of theCorporation.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      157.15,
+      609.05,
+      397.2,
+      669.59
+    ],
+    "text": "15.(1) The seal of the Corporation shall not be affixedto any instrument whatsoever, except in the presence of twomembers of the Board who shall sign their names to theinstrument in token of their presence and such signing shallbe independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      314.71,
+      448.87,
+      352.58
+    ],
+    "text": "Debts due byand payableto theFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      264.17,
+      144.15,
+      275.51
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      338.69,
+      149.59,
+      350.03
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      412.49,
+      149.59,
+      423.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      401.47,
+      448.16,
+      444.5
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      610.39,
+      447.43,
+      627.98
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      403.15,
+      523.87,
+      450.43,
+      549.98
+    ],
+    "text": "Applicationof moneyand property.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      474.41,
+      149.59,
+      485.75
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      546.41,
+      149.59,
+      557.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.15,
+      621.17,
+      149.59,
+      632.51
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      211.29,
+      166.97,
+      401.69,
+      190.31
+    ],
+    "text": "Panasoma Friendship Foundation(Incorporation)9",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      423.67,
+      454.29,
+      461.54
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      472.03,
+      455.86,
+      507.26
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.85,
+      252.91,
+      454.3,
+      281.18
+    ],
+    "text": "Propertyremaining ondissolution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      202.97,
+      401.88,
+      238.43
+    ],
+    "text": "(2) The seal of the Corporation shall be in the custody ofan office bearer of the Board as may be decided by suchBoard.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      251.69,
+      401.89,
+      348.35
+    ],
+    "text": "16.(1) If upon the dissolution of the Corporation thereremains, after the satisfaction of all its debts and liabilities,any property whatsoever, such property shall not bedistributed among the members of the Corporation but shallbe given or transferred to any other institution having objectssimilar to those of the Corporation, and which is by the rulesthereof, prohibited from distributing any income or propertyamong its members.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      361.01,
+      401.91,
+      409.07
+    ],
+    "text": "(2) For the purpose of this subsection (1) the appropriateinstitution shall be determined by the members of theCorporation immediately before the dissolution at a generalmeeting by the majority of votes of the memebrs present.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      422.09,
+      401.87,
+      457.43
+    ],
+    "text": "17.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of any body politic orcorporate.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      161.85,
+      470.09,
+      401.88,
+      505.43
+    ],
+    "text": "18.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      263.69,
+      148.85,
+      275.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      325.25,
+      154.29,
+      336.59
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      398.93,
+      154.29,
+      410.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.85,
+      481.97,
+      154.29,
+      493.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.15,
+      166.97,
+      347.71,
+      190.31
+    ],
+    "text": "10Panasoma Friendship Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "Times,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      139.15,
+      631.51,
+      451.15,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
