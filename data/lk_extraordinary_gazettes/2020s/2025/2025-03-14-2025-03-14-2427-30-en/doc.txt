@@ -1,0 +1,5193 @@
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 1A
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%hw;s úfYIThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+EXTRAORDINARY
+
+(Published by Authority)
+
+PART IV (B) – LOCAL GOVERNMENT
+
+Provincial Council Notiﬁ cations
+
+wxl 2427$30 – 2025 ud¾;= ui 14 jeks isl=rdod – 2025'03'14No. 2427/30 – FRIDAY, MARCH 14, 2025
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A – PG7050 – 05 (03/2025)
+
+BALANGODA PRADESHIYA SABHA
+
+15 of 1987 to be read with Section 24 of the Local Council Act, No. 2316/20 by the Honourable Governor of Sabaragamuwa Province and published in the Special Gazette dated 24th of January, 2022 “Orders on the preparation of plans and posting of notices showing the names of the roads and narrow paths maintained by the Regional Councils in Sabaragamuwa Province”. In accordance with the task assigned to the Provincial Councils of Sabaragamuwa Province in this series, the roads and narrow roads included in the following sub-list should be declared as roads and lanes owned by the Balangoda Provincial Council under No. 36 dated 10.16.2024 and it is hereby announced for public information.
+
+If it is the opinion of the party entitled to the said land that any road or narrow path included in the said schedule passes through any land or part of any land, to prove his right to the said land from the date of this notiﬁ cation. It is hereby announced that before the expiry of three months, a case should be ﬁ led in the competent court. Furthermore, it is further announced that every road and narrow road included in the said sub-register, where no such case has been assigned before the expiry of the said three months period, will be considered as a road or narrow road owned by the Balangoda Pradeshiya Sabha. G. K. R. N. Pඋൾආൺඋൺඍඇൺ, Secretary and Powers, functions, duties, Implementation Oﬃ cer, Balangoda Pradeshiya Sabha14th of March, 2025.
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 2A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+1SG/ BPS/ UC/ A04/ 1Anadamethgama RoadPSCPT161580.797/
+
+193229.448
+
+161577.247/
+
+193224.611
+
+161147.077/
+
+194017.569
+
+161143.343/
+
+194012.8741019.962.5
+
+2SG/ BPS/ UC/ A04/ 1/ 1Waddugedara RoadPSCNC161418.675/
+
+193316.765
+
+161420.99/
+
+193313.086
+
+161310.192/
+
+193388.225
+
+161308.585/
+
+193384.563137.9843.5
+
+3SG/ BPS/ A04/ 1/ 2Anadamethgama
+
+2nd LanePSGRV161249.56/
+
+193655.815
+
+161248.58/
+
+193653.41
+
+161189.521/
+
+193619.656
+
+161190.873/
+
+193618.37984.072.32
+
+4SG/ BPS/ UC/ A04/ 2
+
+Kirindigala
+
+Hapugahakumbura
+
+Road
+
+PSTAR161293.613/
+
+192888.653
+
+161291.688/
+
+192885.147
+
+160566.768/
+
+193604.476
+
+160566.768/
+
+193604.4761414.6342.5
+
+5SG/ BPS/ UC/ A04/ 2/ 1
+
+Kirindigala
+
+Hapugahakumbura
+
+1st Lane
+
+PSGRV161294.556/
+
+192888.232
+
+161291.836/
+
+192889.628
+
+161308.636/
+
+192956.738
+
+161305.883/
+
+192957.92872.2832.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 3A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+6SG/ BPS/ UC/ A04/ 2/ 2Kirindigala Udahagama
+
+RoadPSGRV161191.508/
+
+193023.887
+
+161194.22/
+
+193022.134
+
+160994.45/
+
+193332.02
+
+160992.906/
+
+193329.448394.6732.5
+
+7SG/ BPS/ UC/ A04/ 3Udakanda RoadPSBP160337.431/
+
+191321.742
+
+160340.932/
+
+191319.807
+
+160211.027/
+
+189931.886
+
+160214.822/
+
+189930.6181640.3642.5
+
+8SG/ BPS/ UC/ A04/ 3/ 1Udakanda 1st LanePSGRV160310.837/
+
+191151.098
+
+160310.72/
+
+191154.095
+
+160408.659/
+
+191167.814
+
+160409.86/
+
+191170.563106.632.5
+
+9SG/ BPS/ UC/ A04/ 3/ 2Udakanda 2nd LanePSGRV160300.382/
+
+191109.075
+
+160300.388/
+
+191105.206
+
+160194.697/
+
+190955.942
+
+160196.238/
+
+190952.468217.3543
+
+10SG/ BPS/ A04/ 3/ 3Galwala RoadPSGRV160332.512/
+
+190519.161
+
+160328.715/
+
+190520.283
+
+160730.85/
+
+190980.951
+
+160728.782/
+
+190983.1251099.9232.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 4A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+11SG/ BPS/ UC/ A04/ 3/ 3/ 1Galwala 1st LanePSTAR160458.393/
+
+190621.177
+
+160455.374/
+
+190622.426
+
+160336.509/
+
+190943.115
+
+160335.231/
+
+190940.188429.4432.5
+
+12SG/ BPS/ UC/ A04/ 4Saraswati RoadPSCPT159844.264/
+
+191657.389
+
+159848.264/
+
+191657.342
+
+159903.803/
+
+188796.293
+
+159899.816/
+
+188796.6053450.0843
+
+13SG/ BPS/ UC/ A04/ 4/ 1 Saraswati Road to
+
+Mahamevnawa Road PSGRV159995.927/
+
+191357.181
+
+159991.735/
+
+191358.824
+
+160162.287/
+
+191704.234
+
+160160.383/
+
+191706.552442.8432.5
+
+14SG/ BPS/ UC/ A04/ 4/ 1/ 1
+
+Saraswati Road to
+
+Mahamevnawa Road
+
+1st Lane
+
+PSGRV160084.132/
+
+191661.522
+
+160082.794/
+
+191659.419
+
+159998.59/
+
+191684.627
+
+159996.563/
+
+191683.16396.942.52
+
+15SG/ BPS/ UC/ A04/ 4/ 1/ 2
+
+Saraswati Road to
+
+Mahamevnawa Road
+
+2nd Lane
+
+PSBP160104.194/
+
+191679.631
+
+160102.106/
+
+191678.047
+
+160077.211/
+
+191725.956
+
+160075.109/
+
+191724.42755.312.62.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 5A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+16SG/ BPS/ UC/ A04/ 4/ 2Pallewatta RoadPSGRV160020.425/
+
+191323.672
+
+160021.805/
+
+191320.283
+
+159576.935/
+
+191097.422
+
+159575.314/
+
+191094.897706.6132.5
+
+17SG/ BPS/ UC/ A04/ 4/ 3 Saraswati Road to
+
+Udumullewa RoadPSGRV159796.184/
+
+188830.063
+
+159795.796/
+
+188825.75
+
+159607.021/
+
+188488.751
+
+159609.995/
+
+188486.076546.1942.5
+
+18SG/ BPS/ UC/ A04/ 4/ 3/ 1Bandarahena RoadPSGRV159557.491/
+
+188583.261
+
+159557.176/
+
+188578.36
+
+159498.703/
+
+188770.905
+
+159494.704/
+
+188770.868241.843.1
+
+19SG/ BPS/ UC/ A04/ 5Yakeramuduketiya
+
+RoadPSCPT159467.986/
+
+191359.38
+
+159467.452/
+
+191356.429
+
+159017.703/
+
+191953.887
+
+159015.199/
+
+191955.563891.4332.5
+
+20SG/ BPS/ UC/ A04/ 6Rukattana RoadPSCNC159284.55/
+
+191032.211
+
+159284.064/
+
+191028.241
+
+158709.39/
+
+190437.746
+
+158703.648/
+
+190434.641388.9843
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 6A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+21SG/ BPS/ UC/ A04/ 6/ 1Rukattana 1st LanePSGRV159181.301/
+
+190874.289
+
+159184.034/
+
+190877.743
+
+159210.283/
+
+190822.804
+
+159213.91/
+
+190824.49163.1342.5
+
+22SG/ BPS/ UC/ A04/ 6/ 2Nugakatiya RoadPSCNC159048.929/
+
+190752.148
+
+159045.787/
+
+190752.938
+
+159080.975/
+
+190476.201
+
+159085.444/
+
+190475.199318.9632.5
+
+23SG/ BPS/ UC/ A04/ 6/ 2/ 1Nugakatiya 1st LanePSGRV159044.262/
+
+190565.812
+
+159049.575/
+
+190559.447
+
+158907.114/
+
+190605.846
+
+158905.103/
+
+190603.62176.6632.5
+
+24SG/ BPS/ UC/ A04/ 6/ 3Rukattana 3rd lanePSBP158978.597/
+
+190900.122
+
+158974.571/
+
+190900.864
+
+159040.931/
+
+191001.886
+
+159041.147/
+
+191005.881153.6943
+
+25SG/ BPS/ UC/ A04/ 6/ 4Rukattana 4th LanePSCNC158865.246/
+
+190752.693
+
+158858.968/
+
+190752.442
+
+158809.387/
+
+190879.317
+
+158806.729/
+
+190877.197179.843.42.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 7A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+26SG/ BPS/ UC/ A0/ 6/ 5Rukattana 5th LanePSCNC158774.539/
+
+190714.779
+
+158770.469/
+
+190714.659
+
+158757.476/
+
+190756.184
+
+158755.863/
+
+190759.17850.113.42.3
+
+27SG/ BPS/ UC/ A04/ 6/ 6Rukattana 6th lanePSGRV158694.249/
+
+190679.251
+
+158693.247/
+
+190675.485
+
+158636.769/
+
+190854.804
+
+158635.203/
+
+190857.936289.483.52.1
+
+28SG/ BPS/ UC/ A04/ 7Beligala RoadPSCNC159236.156/
+
+190235.35
+
+159235.954/
+
+190238.343
+
+159304.747/
+
+188627.174
+
+159307.653/
+
+188626.4291906.4332.8
+
+29SG/ BPS/ UC/ A04/ 7/ 1Wadukanda RoadPSCNC159369.307/
+
+190225.69
+
+159366.265/
+
+190225.912
+
+159662.813/
+
+189689.77
+
+159665.752/
+
+189690.371077.8132.5
+
+30SG/ BPS/ UC/ A04/ 7/ 1/ 1Cemetery RoadPSCNC159369.383/
+
+190243.527
+
+159366.104/
+
+190241.298
+
+159544.096/
+
+190792.891
+
+159545.744/
+
+190795.749608.333.32.1
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 8A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+31SG/ BPS/ UC/ A04/ 7/ 1/ 2Wadukanda Lower
+
+RoadPSCNC159493.988/
+
+190330.748
+
+159489.498/
+
+190329.541
+
+159684.195/
+
+190523.478
+
+159686.513/
+
+190525.383307.532.5
+
+32SG/ BPS/ UC/ A4/ 7/ 2Beligala Road to
+
+UdumullahelaPSCNC159445.285/
+
+189605.913
+
+159444.708/
+
+189610.152
+
+159697.836/
+
+189498.106
+
+159696.881/
+
+189500.95308.9332.5
+
+33SG/ BPS/ UC/ A04/ 7/ 3Beligala Road to
+
+Saraswati RoadPSCNC159299.531/
+
+188996.575
+
+159304.562/
+
+188997.955
+
+159609.625/
+
+188486.409
+
+159607.368/
+
+188488.43838.1832.5
+
+34SG/ BPS/ UC/ A04/ 7/ 3/ 1Demataketiya RoadPSCNC159343.223/
+
+188856.201
+
+159341.079/
+
+188859.554
+
+159595.882/
+
+189005.657
+
+159593.492/
+
+189007.473355.8732.5
+
+35SG/ BPS/ UC/ A04/ 7/ 3/ 2Beligala Saraswati
+
+Road 2nd LanePSGRV159362.297/
+
+188622.3
+
+159363.383/
+
+188628.417
+
+159513.938/
+
+188650.107
+
+159513.718/
+
+188653.099201.6932.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 9A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+36SG/ BPS/ A04/ 8Bandaragala Small
+
+Bridge RoadPSCNC159145.983/
+
+189400.707
+
+159144.547/
+
+189399.313
+
+159015.512/
+
+189354.565
+
+159015.328/
+
+189351.16168.6321.3
+
+37SG/ BPS/ A04/ 9Bandaragala RoadPSCNC159098.84/
+
+189186.901
+
+159100.031/
+
+189188.759
+
+159333.111/
+
+189133.703
+
+159334.822/
+
+189135.188270.72.21.5
+
+38SG/ BPS/ A04/ 10Galiniella RoadPSTAR159045.836/
+
+188926.101
+
+159043.359/
+
+188922.924
+
+158598.417/
+
+188888.146
+
+158599.311/
+
+188884.247672.9242.5
+
+39SG/ BPS/ A04/ 10/ 1Aravegoda RoadPSTAR158802.269/
+
+188942.515
+
+158797.583/
+
+188943.583
+
+158927.611/
+
+189924.336
+
+158923.874/
+
+189926.8431320.525.52.5
+
+40SG/ BPS/ A04/ 10/ 1/ 1 Metal Quarry RoadPSGRV158819.219/
+
+188978.135
+
+158816.762/
+
+188972.488
+
+158633.667/
+
+189128.767
+
+158634.565/
+
+189123.848325.8352.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 10A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+41SG/ BPS/ A04/ 10/ 1/ 2Bodiya RoadPSCNC158926.497/
+
+189222.011
+
+158925.503/
+
+189218.868
+
+158842.22/
+
+189237.332
+
+158839.56/
+
+189236.871107.732.72.5
+
+42SG/ BPS/ A04/ 11Colombo Batticaloa
+
+Road 11th LanePSCNC158980.34/
+
+188853.485
+
+158983.763/
+
+188857.756
+
+158977.992/
+
+188733.105
+
+158980.924/
+
+188733.741135.2632.5
+
+43SG/ BPS/ A04/ 11/ 01
+
+Colombo Batticaloa
+
+Road 11th Lane -
+
+1st Lane
+
+PSGRV158982.968/
+
+188835.948
+
+158982.804/
+
+188839.619
+
+159138.329/
+
+188813.016
+
+159135.615/
+
+188814.292229.9232.6
+
+44SG/ BPS/ A04/ 12Beligala Temple RoadPSCNC158890.964/
+
+188738.331
+
+158895.331/
+
+188742.61
+
+159216.678/
+
+188595.866
+
+159218.784/
+
+188599.042417.043.52
+
+45SG/ BPS/ A04/ 13Road Development
+
+Authority Oﬃ ce RoadPSTAR158791.45/
+
+188336.575
+
+158793.181/
+
+188332.961
+
+158744.878/
+
+188244.031
+
+158748.695/
+
+188242.838123.0742.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 11A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+46SG/ BPS/ A04/ 14Millagasthenna RoadPSCNC158812.567/
+
+188241.943
+
+158813.555/
+
+188244.776
+
+159278.712/
+
+188993.007
+
+159282.764/
+
+188995.9571102.4432.5
+
+47SG/ BPS/ A04/ 14/ 1Millagasthenna
+
+1st LanePSGRV158884.915/
+
+188227.609
+
+158888.069/
+
+188228.399
+
+158912.042/
+
+188164.23
+
+158912.867/
+
+188167.11572.9232.5
+
+48SG/ BPS/ A04/ 14/ 2Pallekanda RoadPSGRV158978.752/
+
+188331.101
+
+158975.144/
+
+188331.191
+
+158971.14/
+
+188430.982
+
+158968.277/
+
+188431.882107.732.5
+
+49SG/ BPS/ A04/ 14/ 3Beligala Temple Steps
+
+RoadPSCNC159233.458/
+
+188624.005
+
+159234.482/
+
+188627.072
+
+159295.664/
+
+188589.036
+
+159297.18/
+
+188591.62591.7932.3
+
+50SG/ BPS/ A04/ 15Tilbariwatta RoadPSGRV158786.45/
+
+188201.523
+
+158785.787/
+
+188197.539
+
+158670.844/
+
+188825.476
+
+158666.96/
+
+188826.5121169.3142.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 12A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+51SG/ BPS/ A04/ 16Lower Hettihela to
+
+Upper Hettihela RoadPSCNC158803.653/
+
+187803.705
+
+158805.772/
+
+187807.239
+
+159224.071/
+
+187664.742
+
+159223.195/
+
+187668.645579.942.3
+
+52SG/ BPS/ A04/ 16/ 1Hettihela Ellekkanda
+
+Road PSCNC158873.293/
+
+187748.859
+
+158875.893/
+
+187745.404
+
+159417.516/
+
+187292.845
+
+159414.198/
+
+187295.2211048.773.32.5
+
+53SG/ BPS/ A04/ 16/ 1/ 1Hettihela Ellekkanda
+
+1st LanePSGRV158976.562/
+
+187487.522
+
+158979.715/
+
+187484.817
+
+158953.989/
+
+187337.335
+
+158956.686/
+
+187338.65165.3932.5
+
+54SG/ BPS/ A04/ 16/ 1/ 2Dumindarama Temple
+
+RoadPSCNC159124.975/
+
+187199.517
+
+159129.98/
+
+187197.977
+
+159064.121/
+
+186904.358
+
+159066.277/
+
+186899.626370.575.23
+
+55SG/ BPS/ A04/ 16/ 1/ 3Allekkanda Beligala
+
+RoadPSCNC159436.776/
+
+187262.508
+
+159441.382/
+
+187260.563
+
+159631.318/
+
+187913.968
+
+159627.608/
+
+187917.32790.8252.7
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 13A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+56SG/ BPS/ A04/ 16/ 1/ 3/ 1Hettihela Helauda RoadPSGRV159417.184/
+
+187366.592
+
+159417.679/
+
+187369.901
+
+159629.201/
+
+187394.506
+
+159628.822/
+
+187397.684244.573.23.2
+
+57SG/ BPS/ A04/ 16/ 1/ 3/ 2Thanabima RoadPSGRV159468.742/
+
+187567.56
+
+159469.941/
+
+187571.675
+
+159688.17/
+
+187461.723
+
+159688.783/
+
+187465.068321.593.42.1
+
+58SG/ BPS/ A04/ 16/ 2Cemetery RoadPSCNC158944.896/
+
+187771.296
+
+158949.346/
+
+187772.933
+
+159090.097/
+
+187636.633
+
+159090.282/
+
+187641.03215.84.42.5
+
+59SG/ BPS/ A04/ 16/ 3Hettihela Pallekanda
+
+RoadPSCNC159061.717/
+
+187810.442
+
+159058.746/
+
+187812.359
+
+159064.563/
+
+187849.027
+
+159061.48/
+
+187847.3742.43.52.5
+
+60SG/ BPS/ A04/ 16/ 3/ 1Hettihela Pallekanda
+
+Road 1st LanePSCNC159068.627/
+
+187819.131
+
+159069.921/
+
+187822.057
+
+159322.064/
+
+187915.07
+
+159319.064/
+
+187915.061320.1932.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 14A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+61SG/ BPS/ A04/ 17Hettikade to
+
+Tilbariwatta RoadPSGRV158755.127/
+
+187783.564
+
+158752.65/
+
+187781.511
+
+158395.499/
+
+187796.297
+
+158398.188/
+
+187789.712485.563.22.5
+
+62SG/ BPS/ A04/ 18Horaketiya
+
+Madawalahena RoadPSGRV158702.538/
+
+187571.607
+
+158703.341/
+
+187572.203
+
+158733.883/
+
+187486.645
+
+158734.929/
+
+187486.725157.8311
+
+63SG/ BPS/ A04/ 18/ 1Kekirihena RoadPSCNC158778.776/
+
+187484.456
+
+158778.41/
+
+187481.478
+
+158598.741/
+
+187397.322
+
+158600.472/
+
+187394.871230.2232.5
+
+64SG/ BPS/ A04/ 19Tilbariyawatta
+
+Pedurukanda RoadPSGRV158534.28/
+
+187607.596
+
+158530.199/
+
+187604.707
+
+158235.551/
+
+187738.059
+
+158240.551/
+
+187738.06533.8853
+
+65SG/ BPS/ A04/ 19/ 1
+
+Tilbariyawatta
+
+Pedurukanda Road
+
+1st Lane
+
+PSGRV158214.292/
+
+187792.371
+
+158215.551/
+
+187789.06
+
+158111.783/
+
+187768.535
+
+158112.773/
+
+187765.702114.8832.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 15A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+66SG/ BPS/ A4/ C304/ 1Perahera RoadPSCNC162684.365/
+
+189796.849
+
+162685.708/
+
+189791.064
+
+162262.499/
+
+189825.164
+
+162263.342/
+
+189820.948615.744.32.45
+
+67SG/ BPS/ A4/ C304/ 1/ 1Perahera Road 1st LanePSGRV162322.746/
+
+189836.264
+
+162319.596/
+
+189835.877
+
+162247.904/
+
+189855.785
+
+162248.021/
+
+189853.287151.642.51.6
+
+68SG/ BPS/ A4/ C304/ 2Egoada Massanna Road PSCNC162767.119/
+
+189637.187
+
+162769.662/
+
+189633.889
+
+162113.192/
+
+188783.78
+
+162115.961/
+
+188780.251570.984.12.8
+
+69SG/ BPS/ A04/ C304/ 2/ 1Egoda Massanna
+
+1st LanePSCNC162735.736/
+
+189641.115
+
+162739.056/
+
+189639.808
+
+162630.041/
+
+189476.097
+
+162631.102/
+
+189472.866268.853.42.4
+
+70SG/ BPS/ A04/ C304/ 2/ 1/ 1Egoda Massanna
+
+1st Lane - 1st LanePSCNC162740.437/
+
+189583.227
+
+162741.677/
+
+189579.337
+
+162662.946/
+
+189553.278
+
+162664.508/
+
+189550.71688.4932.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 16A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+71SG/ BPS/ A04/ C304/ 2/ 1/ 2Egoda Massanna
+
+1st Lane - 2nd LanePSGRV162745.723/
+
+189512.478
+
+162749.152/
+
+189512.914
+
+162722.276/
+
+189270.061
+
+162721.509/
+
+189264.409278.633.42.3
+
+72SG/ BPS/ A04/ C304/ 2/ 1/ 3Egoda Massanna
+
+1st Lane - 3rd LanePSCNC162667.428/
+
+189499.279
+
+162669.515/
+
+189501.578
+
+162679.018/
+
+189324.205
+
+162681.518/
+
+189323.897205.622.21.5
+
+73SG/ BPS/ A04/ C304/ 2/ 2Egoda Massanna
+
+2nd Lane PSCNC162512.156/
+
+189588.471
+
+162518.242/
+
+189589.965
+
+162535.469/
+
+189272.091
+
+162538.391/
+
+189274.87472.8743
+
+74SG/ BPS/ A4/ C304/ 2/ 2/ 1Ananda Maitreya RoadPSCNC162506.362/
+
+189579.474
+
+162509.278/
+
+189580.391
+
+162528.374/
+
+189547.036
+
+162530.768/
+
+189548.84340.8832.5
+
+75SG/ BPS/ A04/ C304/ 3Massanna RoadPSGRV162810.574/
+
+189539.571
+
+162809.472/
+
+189560.084
+
+163021.29/
+
+189851.344
+
+163018.242/
+
+189853.994416.5622
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 17A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+76SG/ BPS/ A04/ C304/ 3/ 1Udumulla Bulathgama
+
+RoadPSCNC163016.617/
+
+189857.708
+
+163013.482/
+
+189855.171
+
+163142.836/
+
+190131.122
+
+163138.213/
+
+190132.658109.4342.5
+
+77SG/ BPS/ A04/ C304/ 3/ 2Kammal RoadPSCNC163021.29/
+
+189851.344
+
+163018.242/
+
+189853.994
+
+163154.234/
+
+189485.144
+
+163157.901/
+
+189486.473455.153.92.9
+
+78SG/ BPS/ A04/ C304/ 4Kopiwatta RoadPSGRV162814.757/
+
+189407.876
+
+162817.958/
+
+189410.482
+
+163026.388/
+
+189375.491
+
+163022.392/
+
+189375.68285.2742.5
+
+79SG/ BPS/ A04/ C304/ 5Massanna School RoadPSCNC162718.508/
+
+189249.211
+
+162712.454/
+
+189245.84
+
+161919.986/
+
+188579.433
+
+161923.348/
+
+188575.7311486.2954.5
+
+80SG/ BPS/ A04/ C304/ 5/ 1
+
+Massanna
+
+Sri Wajiraknana
+
+College Road
+
+PSCNC162218.68/
+
+188919.524
+
+162216.398/
+
+188915.67
+
+162183.19/
+
+188843.699
+
+162186.574/
+
+188842.80491.53.52.3
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 18A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+81SG/ BPS/ A04/ C304/ 6Devagiri Temple RoadPSCNC162720.543/
+
+189151.517
+
+162718.733/
+
+189155.17
+
+162790.046/
+
+189179.524
+
+162792.522/
+
+189182.66797.1143
+
+82SG/ BPS/ A04/ C304/ 7
+
+Tumbagoda Massanna
+
+Samanalawatta
+
+7th Lane
+
+PSCNC162671.905/
+
+188846.799
+
+162676.043/
+
+188849.915
+
+162869.111/
+
+188622.408
+
+162871.443/
+
+188625.658316.6243
+
+83SG/ BPS/ A4/ C304/ 7/ 1
+
+Tumbagoda Massanna
+
+Samanalawatta
+
+7th Lane 1st Lane
+
+PSCNC162736.728/
+
+188818.705
+
+162733.173/
+
+188821.393
+
+162783.186/
+
+188838.617
+
+162780.583/
+
+188841.38557.93.83.5
+
+84SG/ BPS/ A04/ C304/ 8Tumbagoda Massanna
+
+Samanalawatta 8th LanePSTAR162668.235/
+
+188851.81
+
+162665.29/
+
+188847.373
+
+162681.804/
+
+188966.606
+
+162678.235/
+
+188967.077122.913.62.6
+
+85SG/ BPS/ A04/ C304/ 9Second School RoadPSCNC162638.695/
+
+188735.459
+
+162638.879/
+
+188730.669
+
+162218.574/
+
+188772.979
+
+162216.398/
+
+188768.751503.243.52.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 19A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+86SG/ BPS/ A04/ C304/ 10
+
+Tumbagoda Massanna
+
+Samanalawatta
+
+10th Lane
+
+PSGRV162352.276/
+
+188341.727
+
+162350.176/
+
+188338.213
+
+162346.393/
+
+188432
+
+162343.885/
+
+188435.116230.4942.5
+
+87SG/ BPS/ A04/ C304/ 11Waduwahena RoadPSCNC162359.266/
+
+188192.262
+
+162356.971/
+
+188188.645
+
+162112.458/
+
+188773.416
+
+162111.102/
+
+188778.7738283.42.5
+
+88SG/ BPS/ A04/ C304/ 11/ 1Waduwahena Road
+
+1st LanePSCNC162283.098/
+
+188171.838
+
+162287.103/
+
+188171.915
+
+162270.714/
+
+188066.114
+
+162273.872/
+
+188063.659116.3442.5
+
+89SG/ BPS/ A04/ C304/ 12
+
+Massanna
+
+Samanalawatta
+
+12th Lane
+
+PSCNC162443.89/
+
+187858.064
+
+162446.547/
+
+187875.751
+
+162463.414/
+
+187998.687
+
+162460.115/
+
+187998.764154.923.32.5
+
+90SG/ BPS/ A04/ C304/ 13
+
+Massanna
+
+Samanalawatta
+
+13th Lane
+
+PSCNC162363.648/
+
+187460.663
+
+162363.504/
+
+187456.843
+
+162178.848/
+
+187310.766
+
+162181.385/
+
+187307.937253.143.82.8
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 20A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+91SG/ BPS/ A04/ C304/ 13/ 1
+
+Massanna
+
+Samanalawatta
+
+13th 1st Lane
+
+PSCNC162333.918/
+
+187454.062
+
+162330.18/
+
+187452.184
+
+162046.431/
+
+187433.095
+
+162049.409/
+
+187430.424459.5942.6
+
+92SG/ BPS/ A04/ C304/ 14Udawatta RoadPSCNC162515.582/
+
+186693.756
+
+162518.252/
+
+186687.317
+
+162326.154/
+
+186432.948414.2742.5
+
+93SG/ BPS/ A04/ C304/ 15Samanala Aranya
+
+Senasana RoadPSCNC163070.831/
+
+185074.109
+
+163068.541/
+
+185075.488
+
+163291.655/
+
+185067.446
+
+163290.312/
+
+185069.554280.932.52
+
+94SG/ BPS/ A04/ C304/ 16Devala Kanda RoadPSGRV163978.786/
+
+183263.324
+
+163981.968/
+
+183260.836
+
+163885.49/
+
+183242.28
+
+163883.333/
+
+183238.912142.1543
+
+95SG/ BPS/ A04/ C304/ 176 Acre RoadPSGRV164060.038/
+
+183199.573
+
+164063.105/
+
+183196.967
+
+163905.983/
+
+182903.334
+
+163907.012/
+
+182907.199655.643
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 21A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+96SG/ BPS/ A04/ C304/ 18Samanalagiri
+
+Darshanarama RoadPSGRV164166.347/
+
+183075.644
+
+164168.901/
+
+183073.205
+
+164178.111/
+
+182930.484
+
+164181.053/
+
+182932.38154.653.52.5
+
+97SG/ BPS/ A04/ C304/ 19
+
+Massanna
+
+Samanalawatta
+
+19th Lane
+
+PSCNC164299.925/
+
+183191.82
+
+164296.436/
+
+183191.278
+
+164091.04/
+
+183426.748
+
+164090.168/
+
+183423.358374.163.52.5
+
+98SG/ BPS/ A04/ C304/ 19/ 1
+
+Massanna
+
+Samanalawatta
+
+19th Lane 1st Lane
+
+PSGRV164159.32/
+
+183357.906
+
+164157.984/
+
+183361.698
+
+164128.353/
+
+183533.67
+
+164125.971/
+
+183531.534256.793.22.6
+
+99SG/ BPS/ A04/ C303/ D320/
+
+1
+
+Thambilikandeniya
+
+RoadPSCNC161773.375/
+
+190160.936
+
+161770.676/
+
+190163.642
+
+162078.774/
+
+190415.425
+
+162080.834/
+
+190418.618489.013.62.8
+
+100SG/ BPS/ A04/ C303/ D320/
+
+2Perahara RoadPSCNC161818.548/
+
+189888.78
+
+161817.999/
+
+189892.086
+
+161855.956/
+
+189935.961
+
+161852.658/
+
+189935.86776.883.32.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 22A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+101SG/ BPS/ A04/ C303/ D320/
+
+3
+
+Pettigala Pahala
+
+Massanna Road 3rd
+
+Lane
+
+PSGRV161943.063/
+
+189096.964
+
+161941.002/
+
+189100.172
+
+162014.516/
+
+189059.922
+
+162015.522/
+
+189063.06584.933.32.7
+
+102SG/ BPS/ A04/ C303/ D320/
+
+3/ 1
+
+Pettigala Pahala
+
+Massanna Margaya
+
+Thewana Athuru
+
+Margaya Palamu
+
+Athuru Margaya
+
+PSGRV161953.616/
+
+189097.599
+
+161950.286/
+
+189099.286
+
+161968.049/
+
+189128.647
+
+161966.044/
+
+189131.26839.883.32.5
+
+103SG/ BPS/ A04/ C303/ 1Janaudana Gammana
+
+RoadPSCNC161245.553/
+
+190461.128
+
+161245.572/
+
+190456.843
+
+161145.295/
+
+190525.367
+
+161142.485/
+
+190523.28143.673.52.1
+
+104SG/ BPS/ A04/ C303/ 1/ 1Janaudana Gammana
+
+Road 1st Lane PSCNC161225.128/
+
+190480.063
+
+161222.024/
+
+190478.87
+
+161219.027/
+
+190564.477
+
+161216.128/
+
+190565.24692.1232.3
+
+105SG/ BPS/ A04/ C303/ 1/ 2Janaudana Gammana
+
+Road 2nd Lane PSCNC161171.609/
+
+190499.001
+
+161169.243/
+
+190501
+
+161180.483/
+
+190537.618
+
+161177.645/
+
+190538.59141.0631.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 23A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+106SG/ BPS/ A04/ C303/ 2Upper Pettigala RoadPSTAR161245.088/
+
+190424.008
+
+161245.624/
+
+190418.21
+
+160866.252/
+
+189804.312
+
+160869.368/
+
+189802.508789.433.63
+
+107SG/ BPS/ A04/ C303/ 2/ 1Yakdehikanda RoadPSCPT160956.904/
+
+189910.795
+
+160953.913/
+
+189908.353
+
+160207.21/
+
+189654.079
+
+160203.946/
+
+189653.5981290.171510
+
+108SG/ BPS/ A04/ C303/ 2/ 1/ 1Galwala RoadPSGRV160725.783/
+
+189899.306
+
+160724.073/
+
+189898.941
+
+160395.156/
+
+190036.21
+
+160395.31/
+
+190034.718608.621.51.2
+
+109SG/ BPS/ A04/ C303/ 3Laim RoadPSGRV161250.532/
+
+190379.088
+
+161252.49/
+
+190384.874
+
+161298.59/
+
+190319.816
+
+161300.622/
+
+190322.02386.293.63
+
+110SG/ BPS/ A04/ C303/ 4/ 1Pettigala College RoadPSGRV161437.41/
+
+189757.258
+
+161432.689/
+
+189756.146
+
+161471.975/
+
+189828.035
+
+161468.511/
+
+189828.53682.6543.2
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 24A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+111SG/ BPS/ A04/ C303/ 5Katukendakatiya RoadPSTAR161375.264/
+
+189550.673
+
+161374.434/
+
+189556.558
+
+161698.039/
+
+189309.058
+
+161701.304/
+
+189308.58489.13.32.5
+
+112SG/ BPS/ A04/ C303/ 6
+
+Pettigala To
+
+Dodamgallena Viharaya
+
+Road
+
+PSCNC161380.223/
+
+189341.78
+
+161383.224/
+
+189341.859
+
+161504.303/
+
+188744.911
+
+161507.146/
+
+188743.953648.3532.5
+
+113SG/ BPS/ A04/ C303/ 7/ 1Nanjawa RoadPSGRV160788.856/
+
+189051.293
+
+160785.829/
+
+189046.359
+
+160940.793/
+
+187443.032
+
+160942.846/
+
+187444.9362766.382.82.5
+
+114SG/ BPS/ A04/ C302/ 1Thalangama
+
+Pahalagama RoadPSCPT159275.151/
+
+192040.776
+
+159283.298/
+
+192034.889
+
+158084.417/
+
+191285.147
+
+158088.913/
+
+191280.8652759.455.44
+
+115SG/ BPS/ A04/ C302/ 1/ 1Thambaragala RoadPSTAR158899.723/
+
+192044.511
+
+158902.017/
+
+192040.98
+
+158738.693/
+
+191690.173
+
+158739.822/
+
+191686.126469.934.22.8
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 25A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+116SG/ BPS/ A04/ C302/ 1/ 2
+
+Thalangama
+
+Pahalagama Road
+
+2nd Lane
+
+PSGRV158679.563/
+
+192269.207
+
+158679.563/
+
+192269.207
+
+158583.268/
+
+192437.822
+
+158581.155/
+
+192436.487196.92.51.5
+
+117SG/ BPS/ A04/ C302/ 1/ 3Pahalagama Delwinna
+
+RoadPSGRV158498.222/
+
+192166.726
+
+158494.748/
+
+192164.102
+
+158436.615/
+
+192293.129
+
+158432.663/
+
+192291.435155.524.32.5
+
+118SG/ BPS/ A04/ C302/ 1/ 4Thalangama Road
+
+4th LanePSGRV158419.889/
+
+191573.164
+
+158416.586/
+
+191576.582
+
+158505.267/
+
+191584.869
+
+158505.151/
+
+191588.86892.9942.5
+
+119SG/ BPS/ A04/ C302/ 2Randola Uyanagama
+
+RoadPSTAR159226.511/
+
+192298.49
+
+159232.318/
+
+192312.686
+
+158925.55/
+
+192929.908
+
+158925.43/
+
+192926.3421530.333.52.5
+
+120SG/ BPS/ A04/ C302/ 2/ 1Thalangama Keti RoadPSTAR159242.273/
+
+192249.269
+
+159245.673/
+
+192247.664
+
+159353.46/
+
+192373.178
+
+159349.838/
+
+192371.239261.723.52.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 26A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+121SG/ BPS/ A04/ C302/ 2/ 2Randola Uyanagama
+
+2nd LanePSCNC159348.396/
+
+192374.438
+
+159344.158/
+
+192371.97
+
+159171.028/
+
+192575.555
+
+159172.855/
+
+192570.407347.463.52.5
+
+122SG/ BPS/ A04/ C302/ 2/ 3Housing Complex RoadPSCNC159397.607/
+
+192517.049
+
+159399.836/
+
+192514.342
+
+159152.449/
+
+192682.769
+
+159155.95/
+
+192682.77384.923.52.5
+
+123SG/ BPS/ A04/ C302/ 2/ 3/ 1Niwasa Sankirnaya
+
+Road 1st LanePSCNC159382.333/
+
+192504.545
+
+159385.135/
+
+192504.382
+
+159376.283/
+
+192434.763
+
+159378.979/
+
+192434.00872.282.82.5
+
+124SG/ BPS/ A04/ C302/ 3Ella Warahunna RoadPSCPT159140.024/
+
+192554.99
+
+159143.134/
+
+192556.33
+
+157545.088/
+
+194996.348
+
+157542.478/
+
+194991.0524279.6332.6
+
+125SG/ BPS/ A04/ C302/ 3/ 1Rangiri Wihara RoadPSCNC159103.62/
+
+192452.56
+
+159099.544/
+
+192448.419
+
+158742.651/
+
+192790.611
+
+158739.661/
+
+192790.376704.2432.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 27A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+126SG/ BPS/ A04/ C302/ 3/ 2Dehigahayata
+
+Warahunna RoadPSCNC158295.387/
+
+193275.165
+
+158292.85/
+
+193273.563
+
+158351.776/
+
+193334.526
+
+158348.597/
+
+193337.403149.9832.3
+
+127SG/ BPS/ A04/ C302/ 3/ 3Debunna RoadPSGRV157989.354/
+
+193541.287
+
+157988.618/
+
+193546.062
+
+158229.118/
+
+193376.575
+
+158232.002/
+
+193375.752517.1332.5
+
+128SG/ BPS/ A04/ C302/ 3/ 4Warahunna Footpath
+
+Near Mawela TemplePSCNC157691.643/
+
+194011.634
+
+157693.034/
+
+194008.065
+
+157692.076/
+
+194006.058
+
+157690.413/
+
+194009.515986.5232
+
+129SG/ BPS/ A04/ C302/ 3/ 4/ 1Mawela Sambodhigiri
+
+Temple RoadPSGRV157338.25/
+
+193693.722
+
+157334.534/
+
+193694.007
+
+157327.365/
+
+194043.414
+
+157324.165/
+
+194041.947398.333.52.1
+
+130SG/ BPS/ A04/ C302/ 3/ 4/ 2
+
+Warahunna Footpath
+
+Near Mawela Temple
+
+2nd Lane
+
+PSGRV157215.666/
+
+193636.811
+
+157212.614/
+
+193633.977
+
+157107.067/
+
+193906.524
+
+157103.197/
+
+193902.277403.7842.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 28A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+131SG/ BPS/ A04/ C302/ 3/ 4/
+
+2/ 1
+
+Shalawaththa Abehinna
+
+RoadPSGRV157101.501/
+
+193778.708
+
+157101.945/
+
+193777.809
+
+156873.721/
+
+193880.298
+
+156873.097/
+
+193879.503276.6810.5
+
+132SG/ BPS/ A04/ C302/ 3/ 4/
+
+2/ 2
+
+Warahunna Footpath
+
+Near Mawela Temple
+
+2nd Lane - 2nd Lane
+
+PSGRV157145/ 193871.177157143.599/ 193875.535157242.378/ 193997.456157238.779/ 193995.614168.5142.7
+
+133SG/ BPS/ A04/ C302/ 3/ 5
+
+Abhehinna
+
+Wakumburawaththa
+
+Footpath
+
+PSGRV157690.618/
+
+194032.121
+
+157690.202/
+
+194030.164
+
+157687.767/
+
+194032.256
+
+157688.407/
+
+194034.1531127.8121
+
+134SG/ BPS/ A04/ C302/ 3/ 5/ 1
+
+Abhehinna
+
+Wakumburawaththa
+
+Footpath 1st Lane
+
+PSGRV157036.811/
+
+193917.282
+
+157034.776/
+
+193917.564
+
+157055.307/
+
+193962.618
+
+157053.52/
+
+193963.51850.4321
+
+135SG/ BPS/ A04/ C302/ 3/ 5/ 2
+
+Abhehinna
+
+Wakumburawaththa
+
+Footpath 2nd Lane
+
+PSGRV156917.516/
+
+193922.795
+
+156913.871/
+
+193920.826
+
+156750.241/
+
+194018.395
+
+156746.605/
+
+194016.305200.7142
+
+136SG/ BPS/ A04/ C302/ 4Kumaragama Randola
+
+Road 4th LanePSGRV158869.658/
+
+192851.437
+
+158873.735/
+
+192851.226
+
+158778.184/
+
+192794.182
+
+158774.191/
+
+192794.429301.3342.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 29A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+137SG/ BPS/ A04/ C302/ 5Randola Tea Factory
+
+RoadPSCNC158745.779/
+
+193478.11
+
+158749.918/
+
+193482.885
+
+158975.908/
+
+193166.457
+
+158979.379/
+
+193168.446437.7842.5
+
+138SG/ BPS/ A04/ C302/ 6Meegahakadura RoadPSGRV158750.782/
+
+193492.056
+
+158747.42/
+
+193488.291
+
+158548.247/
+
+193726.758
+
+158542.34/
+
+193725.6761087.2842.5
+
+139SG/ BPS/ A04/ C302/ 7Galmulthalawa Lower
+
+Kirimatithanna RoadPSCPT158754.275/
+
+193847.912
+
+158754.137/
+
+193851.911
+
+159312.308/
+
+193652.063
+
+159313.468/
+
+193655.893808.1142.5
+
+140SG/ BPS/ A04/ C302/ 8Kumaragama Randola
+
+Road 8th LanePSGRV158748.466/
+
+193855.895
+
+158748.685/
+
+193852.495
+
+158393.025/
+
+193698.788
+
+158390.687/
+
+193696.32474.043.42.4
+
+141SG/ BPS/ A04/ C302/ 9Sapuwaththa RoadPSCNC158749.516/
+
+193925.593
+
+158749.619/
+
+193932.038
+
+158914.601/
+
+194316.222
+
+158911.936/
+
+194317.598486.5832.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 30A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+142SG/ BPS/ A04/ C302/ 9/ 1Sapuwaththa Road
+
+1st LanePSCNC158842.699/
+
+194155.361
+
+158843.704/
+
+194158.833
+
+158905.231/
+
+194153.25
+
+158905.562/
+
+194156.73463.923.52.5
+
+143SG/ BPS/ A04/ C302/ 10Kumaragama Randola
+
+Road 10th LanePSGRV158740.629/
+
+193976.318
+
+158738.133/
+
+193980.822
+
+158757.177/
+
+194172.825
+
+158753.7/
+
+194173.229199.713.52.5
+
+144SG/ BPS/ A04/ C302/ 11Kumaragama Randola
+
+Road 11th LanePSCPT158675.889/
+
+194144.332
+
+158675.038/
+
+194139.991
+
+158228.52/
+
+193833.349
+
+158227.255/
+
+193830.629752.0332.5
+
+145SG/ BPS/ A04/ C302/ 12Kumaragama Randola
+
+Road 12th LanePSCNC158696.791/
+
+194222.83
+
+158695.973/
+
+194219.617
+
+158533.338/
+
+194179.329
+
+158535.58/
+
+194176.908199.223.33.1
+
+146SG/ BPS/ A04/ C302/ 13Kirimatithanna Temple
+
+RoadPSCPT158702.74/
+
+194225.707
+
+158702.993/
+
+194229.712
+
+158856.265/
+
+194231.466
+
+158857.232/
+
+194235.397168.643
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 31A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+147SG/ BPS/ A04/ C302/ 14Kumaragama Randola
+
+Road 14th LanePSGRV158697.374/
+
+194270.7
+
+158697.533/
+
+194267.613
+
+158635.437/
+
+194274.906
+
+158634.52/
+
+194272.0565.7732.5
+
+148SG/ BPS/ A04/ C302/ 15Kumaragama Randola
+
+Road 15th LanePSCNC158704.424/
+
+194340.522
+
+158700.469/
+
+194339.089
+
+158631.375/
+
+194392.076
+
+158629.102/
+
+194388.78592.3442.5
+
+149SG/ BPS/ A04/ C302/ 16Kumaragama Randola
+
+Road 16th LanePSCNC158737.667/
+
+194355.933
+
+158734.022/
+
+194354.187
+
+158678.896/
+
+194406.027
+
+158677.394/
+
+194402.3280.4243
+
+150SG/ BPS/ A04/ C302/ 17Kirimatithenna College
+
+RoadPSTAR158753.314/
+
+194356.278
+
+158757.787/
+
+194358.608
+
+158864.642/
+
+194252.58
+
+158867.512/
+
+194256.828171.8253
+
+151SG/ BPS/ A04/ D301/ 1Galinna Galpeella RoadPSCNC158267.782/
+
+189768.788
+
+158266.085/
+
+189764.622
+
+158251.884/
+
+189816.253
+
+158248.334/
+
+189815.64954.943.62.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 32A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+152SG/ BPS/ A04/ D301/ 2Sri Pragghawansa
+
+Sudarshanarama RoadPSCNC158213.787/
+
+189616.404
+
+158214.965/
+
+189620.306
+
+158225.485/
+
+189359.579
+
+158223.162/
+
+189356.322361.8442.5
+
+153SG/ BPS/ A04/ D301/ 3Bathalawaththa RoadPSCNC158039.255/
+
+189425.771
+
+158043.562/
+
+189426.689
+
+157961.723/
+
+189152.667
+
+157965.293/
+
+189152.206298.483.62.5
+
+154SG/ BPS/ A04/ D301/ 4Mahasara Aranya
+
+Senasana RoadPSCNC157730.944/
+
+189219.923
+
+157729.917/
+
+189211.298
+
+156842.081/
+
+189826.732
+
+156844.837/
+
+189823.8321618.8742.5
+
+155SG/ BPS/ A04/ D301/ 4/ 1Thammattankara Kanda
+
+RoadPSGRV157032.904/
+
+189876.386
+
+157029.512/
+
+189875.424
+
+156945.458/
+
+190060.427
+
+156943.919/
+
+190063.57282.973.52.5
+
+156SG/ BPS/ A04/ D301/ 4/ 1/ 1Thammattankara Kanda
+
+Road 1st LanePSGRV156937.543/
+
+189964.246
+
+156939.963/
+
+189960.917
+
+156898.969/
+
+189955.998
+
+156899.264/
+
+189952.50942.533.52.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 33A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+157SG/ BPS/ A04/ D301/ 5Gawaranhena Galinna
+
+Road 5th LanePSCNC157503.621/
+
+188730.164
+
+157505.812/
+
+188733.639
+
+157758.403/
+
+188383.864
+
+157759.131/
+
+188386.775447.9932.5
+
+158SG/ BPS/ A04/ D301/ 6Gawaranhena Galinna
+
+Road 6th LanePSCNC157284.12/
+
+188720.351
+
+157282.445/
+
+188718.086
+
+157226.085/
+
+188773.157
+
+157224.045/
+
+188771.23481.892.82.5
+
+159SG/ BPS/ A04/ D301/ 7Gawaranhena Galinna
+
+Road 7th LanePSGRV157196.572/
+
+188395.916
+
+157197.377/
+
+188398.955
+
+157372.389/
+
+188474.056
+
+157369.861/
+
+188472.262263.5832.5
+
+160SG/ BPS/ A04/ D301/ 8Pedurukanda RoadPSCNC157150.624/
+
+188304.257
+
+157153.989/
+
+188306.522
+
+157270.155/
+
+187755.954
+
+157274.047/
+
+187755.179648.9643
+
+161SG/ BPS/ A04/ D301/ 8/ 1Thundola RoadPSCNC157189.28/
+
+188260.1
+
+157191.173/
+
+188254.828
+
+157153.173/
+
+188154.953
+
+157155.548/
+
+188153.12113.3532.3
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 34A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+162SG/ BPS/ A04/ D301/ 9Gawaranhena Galinna
+
+Road 9th LanePSGRV157024.155/
+
+188388.434
+
+157026.256/
+
+188386.088
+
+156743.522/
+
+187925.618
+
+156746.277/
+
+187924.43571.5732.5
+
+163SG/ BPS/ A04/ D301/ 10Wadiyapita RoadPSCNC156665.721/
+
+188836.138
+
+156668.478/
+
+188834.789
+
+156402.239/
+
+188681.823
+
+156403.139/
+
+188678.961371.4132.5
+
+164SG/ BPS/ A04/ D301/ 10/ 1Millakatiya RoadPSCNC156569.099/
+
+188778.719
+
+156565.87/
+
+188778.667
+
+156500.946/
+
+188800.599
+
+156500.518/
+
+188797.6374.1332.3
+
+165SG/ BPS/ A04/ D301/ 11Gawaranhena Galinna
+
+Road 11th LanePSGRV156673.898/
+
+189133.942
+
+156671.464/
+
+189133.331
+
+156672.354/
+
+189407.635
+
+156669.877/
+
+189407.973285.612.52.3
+
+166SG/ BPS/ A04/ C301/ 1Madiththahena RoadPSCNC157967.49/
+
+190447.508
+
+157971.076/
+
+190445.117
+
+157911.365/
+
+190145.049
+
+157914.386/
+
+190147.672343.4142.6
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 35A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+167SG/ BPS/ A04/ C301/ 1/ 1Wee Kotanagalahena
+
+RoadPSCNC157953.134/
+
+190358.596
+
+157951.014/
+
+190354.23
+
+157447.21/
+
+190702.595
+
+157443.125/
+
+190701.623912.194.23
+
+168SG/ BPS/ A04/ C301/ 2Rukaththana Road
+
+2nd LanePSCNC157918.084/
+
+190553.677
+
+157916.777/
+
+190550.135
+
+157711.554/
+
+190559.349
+
+157711.285/
+
+190555.759226.343.62.7
+
+169SG/ BPS/ A04/ C301/ 3Heenela RoadPSGRV157981.66/
+
+190779.156
+
+157980.272/
+
+190775.024
+
+157878.47/
+
+190981.047
+
+157874.762/
+
+190979.075320.484.22.3
+
+170SG/ BPS/ A04/ C301/ 4Batewalakada RoadPSCNC158003.835/
+
+190801.869
+
+158006.043/
+
+190805.521
+
+158228.354/
+
+190604.751
+
+158231.049/
+
+190607.707563.5243
+
+171SG/ BPS/ A04/ C301/ 5Gurubavila RoadPSGRV158017.726/
+
+190837.475
+
+158017.872/
+
+190840.889
+
+158085.798/
+
+190896.132
+
+158083.953/
+
+190898.10496.922.72
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 36A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+172SG/ BPS/ A04/ C301/ 6Ellepola Mawela Road
+
+6th LanePSGRV158018.983/
+
+190981.269
+
+158018.385/
+
+190977.515
+
+157974.23/
+
+191087.84
+
+157970.573/
+
+191088.872177.83.82.7
+
+173SG/ BPS/ A04/ C301/ 7Welage Cemetery to
+
+Nethimalewatta RoadPSCNC158130.142/
+
+191115.239
+
+158134.355/
+
+191119.51
+
+158409.778/
+
+191548.697
+
+158420.436/
+
+191554.065775.8942.5
+
+174SG/ BPS/ A04/ C301/ 7/ 1Nethimalewatta Laima
+
+RoadPSCNC158391.659/
+
+191316.125
+
+158391.213/
+
+191320.849
+
+158485.205/
+
+191393.236
+
+158485.125/
+
+191396.234135.0732.5
+
+175SG/ BPS/ A04/ C301/ 8Ellepola Galgoda Road
+
+8th LanePSCNC158164.236/
+
+191173.368
+
+158163.586/
+
+191170.163
+
+157663.322/
+
+190977.506
+
+157663.508/
+
+190974.513592.4132.4
+
+176SG/ BPS/ A04/ C301/ 8/ 1Welage Gole Cemetery
+
+RoadPSCNC157778.978/
+
+191103.061
+
+157782.289/
+
+191104.433
+
+157731.705/
+
+190748.454
+
+157734.739/
+
+190746.708398.823.52.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 37A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+177SG/ BPS/ A04/ C301/ 8/ 2Ellepola Galgoda Road
+
+8th Lane 2nd LanePSGRV157770.98/
+
+191103.403
+
+157765.704/
+
+191100.897
+
+157671.763/
+
+191248.018
+
+157669.057/
+
+191245.799237.333.52.5
+
+178SG/ BPS/ A04/ C301/ 9Ellepola Galgoda Road
+
+9th LanePSCNC157869.981/
+
+191392.547
+
+157873.315/
+
+191389.922
+
+157767.773/
+
+191341.013
+
+157765.647/
+
+191337.391126.564.22.5
+
+179SG/ BPS/ A04/ C301/ 10Welage College Near
+
+RoadPSBP157856.171/
+
+191424.684
+
+157854.242/
+
+191427.987
+
+158032.679/
+
+191812.928
+
+158028.898/
+
+191813.315579.293.82.5
+
+180SG/ BPS/ A04/ C301/ 11Ellepola Galgoda
+
+11th LanePSCPT157776.096/
+
+191500.637
+
+157772.898/
+
+191503.779
+
+157846.898/
+
+191631.684
+
+157842.601/
+
+191632.633158.074.42.5
+
+181SG/ BPS/ A04/ C301/ 12Ellepola Galgoda
+
+12th LanePSCNC157700.115/
+
+191643.743
+
+157699.852/
+
+191640.628
+
+157659.762/
+
+191685.004
+
+157656.966/
+
+191683.66466.233.12.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 38A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+182SG/ BPS/ A04/ C301/ 13Waliwaththa
+
+Daminagoda RoadPSCNC157603.073/
+
+191925.227
+
+157601.366/
+
+191929.243
+
+157830.88/
+
+192056.078
+
+157828.051/
+
+192058.905328.7742.5
+
+183SG/ BPS/ A04/ C301/ 14Marabhe RoadPSGRV157558.111/
+
+192122.987
+
+157558.037/
+
+192127.325
+
+158201.585/
+
+192725.347
+
+158198.39/
+
+192722.9421387.4242.5
+
+184SG/ BPS/ A04/ C301/ 14/ 1Marabhe 1st LanePSGRV157677.182/
+
+192329.217
+
+157674.024/
+
+192326.878
+
+157619.159/
+
+192362.641
+
+157617.496/
+
+192359.33666.933.72.5
+
+185SG/ BPS/ A04/ C301/ 14/ 2Marabhe 2nd LanePSGRV157724.236/
+
+192403.341
+
+157721.507/
+
+192400.421
+
+157693.421/
+
+192486.476
+
+157691.15/
+
+192489.769108.5442.5
+
+186SG/ BPS/ A04/ C301/ 15Gurugoda Delgoda
+
+RoadPSCNC157484.234/
+
+192214.182
+
+157486.635/
+
+192208.664
+
+157203.014/
+
+191817.637
+
+157203.011/
+
+191813.437665.214.22.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 39A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+187SG/ BPS/ A04/ C301/ 16Ellepola Galgoda
+
+16th LanePSCNC157453.836/
+
+192439.323
+
+157456.821/
+
+192435.826
+
+157427.219/
+
+192429.963
+
+157427.993/
+
+192425.83637.044.23.2
+
+188SG/ BPS/ A04/ C301/ 17Karamatiya RoadPSCNC157438.346/
+
+192753.493
+
+157437.296/
+
+192749.497
+
+157148.097/
+
+192532.409
+
+157147.478/
+
+192528.537760.442.5
+
+189SG/ BPS/ A04/ C301/ 17/ 1Idiriyathalawa Cemetry
+
+RoadPSGRV157413.175/
+
+192769.728
+
+157409.675/
+
+192772.458
+
+157371.681/
+
+192906.507
+
+157368.944/
+
+192903.869145.93.82.5
+
+190SG/ BPS/ A04/ C301/ 17/ 2Karamatiya Road
+
+2nd LanePSGRV157310.772/
+
+192622.882
+
+157313.904/
+
+192624.611
+
+157385.443/
+
+192555.867
+
+157388.903/
+
+192555.342110.613.52.5
+
+191SG/ BPS/ A04/ C301/ 18Mahakumbura RoadPSCNC157436.181/
+
+193150.702
+
+157432.457/
+
+193153.803
+
+157869.983/
+
+193267.762
+
+157869.595/
+
+193271.743684.4442.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 40A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+192SG/ BPS/ A04/ C301/ 19Marankatiya RoadPSCNC157305.018/
+
+193233.086
+
+157308.427/
+
+193230.974
+
+156911.664/
+
+192255.039
+
+156914.071/
+
+192251.8441330.2942.6
+
+193SG/ BPS/ A04/ C301/ 19/ 1Marankatiya Road
+
+1st LanePSGRV157265.551/
+
+193020.704
+
+157263.176/
+
+193017.328
+
+157112.838/
+
+193066.058
+
+157112.828/
+
+193062.058165.5342.5
+
+194SG/ BPS/ A04/ C301/ 19/ 2Marankatiya Road
+
+2nd LanePSGRV157101.136/
+
+192958.109
+
+157096.785/
+
+192957.837
+
+157094.475/
+
+193019.274
+
+157092.562/
+
+193015.42373.754.32.7
+
+195SG/ BPS/ A04/ C301/ 20Panugala RoadPSGRV157331.369/
+
+193363.41
+
+157330.971/
+
+193359.116
+
+156874.111/
+
+193000.764
+
+156872.398/
+
+192992.222624.333.92.5
+
+196SG/ BPS/ A04/ C301/ 21Egodahawaththa RoadPSCNC157339.357/
+
+193362.011
+
+157339.471/
+
+193366.467
+
+157518.786/
+
+193455.001
+
+157516.519/
+
+193457.799303.683.62.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 41A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+197SG/ BPS/ A04/ C301/ 22Wawathanna RoadPSCNC156961.896/
+
+193626.425
+
+156964.706/
+
+193622.32
+
+156526.709/
+
+192396.781
+
+156527.933/
+
+192393.1831685.533.82.5
+
+198SG/ BPS/ A04/ C301/ 22/ 1Wewathanna Road
+
+1st LanePSGRV156794.013/
+
+192920.495
+
+156793.526/
+
+192916.37
+
+156671.76/
+
+192857.468
+
+156674.059/
+
+192854.698157.073.62.5
+
+199SG/ BPS/ A04/ C301/ 22/ 2Wewathenna Road
+
+2nd LanePSGRV156575.785/
+
+192419.282
+
+156576.757/
+
+192419.827
+
+156557.137/
+
+192350.241
+
+156557.19/
+
+192349.24291.0810.5
+
+200SG/ BPS/ A04/ C301/ 23Hele RoadPSCNC156839.424/
+
+193860.97
+
+156839.887/
+
+193856.313
+
+156292.589/
+
+193590.183
+
+156289.667/
+
+193588.257820.93.52.5
+
+201SG/ BPS/ A04/ C301/ 24Peththare RoadPSGRV156816.081/
+
+193904.493
+
+156812.677/
+
+193905.806
+
+156805.573/
+
+193976.741
+
+156802.643/
+
+193977.47478.7432
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 42A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+202SG/ BPS/ A04/ C301/ 25Walakadagama
+
+Palathurusewana RoadPSBP156684.311/
+
+193947.767
+
+156680.713/
+
+193949.682
+
+157618.602/
+
+195061.215
+
+157615.712/
+
+195064.1631769.9742.5
+
+203SG/ BPS/ A04/ C301/ 25/ 1Millagahayata RoadPSCPT156873.135/
+
+194264.43
+
+156870.68/
+
+194260.882
+
+156049.147/
+
+194793.769
+
+156052.387/
+
+194791.061333.9642.5
+
+204SG/ BPS/ A04/ C301/ 25/ 2Katagoda RoadPSCNC156969.068/
+
+194373.389
+
+156971.141/
+
+194378.621
+
+157264.256/
+
+194272.92
+
+157265.026/
+
+194276.845407.6742.5
+
+205SG/ BPS/ A04/ C301/ 25/2/ 1Katagoda Road
+
+1st LanePSCNC157176.482/
+
+194337.682
+
+157179.69/
+
+194335.205
+
+157177.257/
+
+194278.925
+
+157181.064/
+
+194280.15461.3842.5
+
+206SG/ BPS/ A04/ C301/ 25/ 3Deelagala RoadPSTAR156937.289/
+
+194773.948
+
+156936.709/
+
+194769.766
+
+156666.287/
+
+194570.636
+
+156662.801/
+
+194572.379376.23.92.3
+
+207SG/ BPS/ A04/ C301/ 25/ 4Aniquet RoadPSGRV157328.393/
+
+194851.592
+
+157324.85/
+
+194849.491
+
+157249.032/
+
+194962.311
+
+157245.252/
+
+194961.005139.8142.5
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2025'03'14Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 43A
+
+Se-rialNo.Code of the RoadName of the Road
+
+Authority
+
+Type
+
+Initial CoordinatesFinal Coordinates
+
+Length of the Road (m)
+
+Width (m)
+
+Dev. Width (m)
+
+LeftRightLeftRight
+
+208SG/ BPS/ A04/ C301/ 26Nelumgala RoadPSGRV156328.827/
+
+194178.585
+
+156327.408/
+
+194181.587
+
+156501.419/
+
+194424.004
+
+156498.245/
+
+194424.043416.423.32
+
+209SG/ BPS/ A04/ C301/ 27Millagahayata
+
+Heenatiyana RoadPSGRV156191.204/
+
+194330.47
+
+156185.586/
+
+194331.792
+
+156485.548/
+
+194781.151
+
+156481.801/
+
+194784.235651.9753
+
+210SG/ BPS/ A04/ C301/ 28Mawela Temple
+
+FootpathPSGRV156053.453/
+
+194601.896
+
+156054.341/
+
+194606.05
+
+156251.92/
+
+194709.363
+
+156254.461/
+
+194712.452297.0642.5
+
+211SG/ BPS/ A04/ C301/ 29Quarry RoadPSGRV155842.85/
+
+194975.451
+
+155837.276/
+
+194978.795
+
+156012.044/
+
+195122.664
+
+156008.882/
+
+195126.536298.5753.5
+
+212SG/ BPS/ A04/ C301/ 30Udumulla Lake RoadPSTAR155721.866/
+
+195270.461
+
+155719.03/
+
+195274.341
+
+155910.414/
+
+195437.897
+
+155914.067/
+
+195440.854361.974.72.6
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 44A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+45A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 46A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+47A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 48A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+49A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 50A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+51A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 52A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+53A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 54A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+55A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 56A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+57A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 58A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+59A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 60A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+61A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 62A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+63A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 64A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+65A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 66A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+67A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 68A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+69A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 70A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+71A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 72A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+73A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 74A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+75A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 76A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+77A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 78A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+79A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 80A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+81A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 82A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+83A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 84A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+85A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 86A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+87A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 88A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+89A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 90A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+91A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 92A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+93A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 94A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+95A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025 96A
+
+IV (ආ) වැǧ ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2025.03.14PART IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA 14.03.2025
+
+97A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 98A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 99A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 100A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 101A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 102A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 103A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 104A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 105A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 106A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 107A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 108A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 109A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 110A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 111A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 112A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 113A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 114A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 115A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 116A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 117A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 118A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 119A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 120A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 121A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 122A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 123A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 124A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 125A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 126A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 127A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 128A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 129A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 130A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 131A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 132A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 133A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 134A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 135A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 136A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 137A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 138A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 139A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 140A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 141A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 142A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 143A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 144A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 145A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 146A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 147A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 148A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14Pൺඋඍ IV (B) – Pൺඋඍ IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA –14.03.2025 149A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+150A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+151A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+152A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+153A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+154A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+155A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+156A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+157A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+158A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+159A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+160A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+161A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+162A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+163A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+164A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+165A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+166A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+167A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+168A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+169A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+170A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+171A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+172A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+173A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+174A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+175A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+176A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+177A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+178A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+179A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+180A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+181A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+182A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+183A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+184A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+185A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+186A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+187A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+188A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+189A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+190A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+191A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+192A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+193A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+194A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+195A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+196A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+197A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+198A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+199A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+200A
+
+IV (ආ) වැැනි කොˁොටස - ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ අති විශෙˤෂ ගැැසට් පත්‍රය - 2025.03.14Part IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+201A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 202A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+203A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 204A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+205A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 206A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+207A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 208A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+209A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 210A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+211A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 212A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+213A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 214A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+215A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 216A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+217A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 218A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+219A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 220A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+221A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 222A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+223A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 224A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+225A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 226A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+227A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 228A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+229A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 230A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+231A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 232A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+233A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 234A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+235A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 236A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+237A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 238A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+239A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 240A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+241A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 242A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+243A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 244A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+245A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 246A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+247A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 248A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+249A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 250A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+251A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 252A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+253A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025 254A
+
+IV IV (ආ) වැǧ ෙකʣටස (ආ) වැǧ ෙකʣටස – – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.03.14– 2025.03.14PARTART IV (B) – IV (B) – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 14.03.2025
+
+255A
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.EOG 03-0148
