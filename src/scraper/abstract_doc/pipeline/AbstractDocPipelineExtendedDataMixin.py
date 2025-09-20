@@ -1,3 +1,4 @@
+import os
 import time
 
 from utils import Log
@@ -22,4 +23,5 @@ class AbstractDocPipelineExtendedDataMixin:
         log.info("🛑 All extended data scraped.")
 
     def scrape_extended_data_for_doc(self):
-        return
+        if not os.path.exists(self.text_path):
+            self.extract_text()
