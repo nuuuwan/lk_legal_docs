@@ -1,0 +1,631 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      151.58,
+      382.42,
+      438.94,
+      421.19
+    ],
+    "text": "PUBLIC SERVICE PROVIDENT FUND(AMENDMENT) ACT, No.45 OF 1999",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.42,
+      287.06,
+      447.68,
+      347.62
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.58,
+      487.8,
+      363.68,
+      500.27
+    ],
+    "text": "[Certified on 10th December, 1999]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.1,
+      515.4,
+      361.28,
+      526.39
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      165.02,
+      570.28,
+      425.32,
+      593.63
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the DemocraticSocialist Republic of Sri Lanka of December 10, 1999.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.3,
+      612.83,
+      419.98,
+      622.17
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      157.58,
+      627.11,
+      432.76,
+      636.45
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.98,
+      647.64,
+      451.94,
+      660.11
+    ],
+    "text": "Price : Rs.3.50Postage : Rs. 3.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      380.18,
+      166.05,
+      450.61,
+      177.13
+    ],
+    "text": "(Internet Version)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.98,
+      165.98,
+      383.82,
+      188.47
+    ],
+    "text": "1Public Service Provident Fund (Amendment)Act, No.45 of 1999",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      398.18,
+      312.38,
+      435.6,
+      323.05
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.9,
+      549.98,
+      450.64,
+      589.45
+    ],
+    "text": "Amendment ofsection 4 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.98,
+      203.95,
+      331.76,
+      217.29
+    ],
+    "text": "[Certified on 10th December, 1999]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      221.95,
+      197.91,
+      235.29
+    ],
+    "text": "L.D.\u2013O.12/95.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.54,
+      240.0,
+      372.27,
+      265.27
+    ],
+    "text": "AN ACT TO AMEND THE PUBLIC SERVICE PROVIDENT FUNDORDINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.699999809265137,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      275.83,
+      383.7,
+      300.21
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      309.91,
+      383.59,
+      334.17
+    ],
+    "text": "1. This Act may be cited as the Public Service ProvidentFund (Amendment) Act, No.45 of 1999.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      342.91,
+      383.81,
+      389.25
+    ],
+    "text": "2. Section 2 of the Public Service Provident Fund Ordinance(hereinafter referred to as the \u201cPrincipal enactment\u201d) is herebyamended by the insertion immediately after subsection (4) ofthat section, of the following subsection :\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.9,
+      397.87,
+      376.22,
+      422.25
+    ],
+    "text": "\u201c(4A) for the purposes of this Ordinance, a person whoholds \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.9,
+      436.87,
+      384.1,
+      461.25
+    ],
+    "text": "(a) the post of Sub - Station Master in the Railway Department; or.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.9,
+      470.83,
+      334.18,
+      484.17
+    ],
+    "text": "(b) a post in the Sri Lanka Police Reserve,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      492.91,
+      384.06,
+      539.25
+    ],
+    "text": "shall be deemed to be a non-pensionable employee in theservice of the Government and the monthly allowance paid inlieu of salary to such person shall be deemed to be a monthlysalary\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      548.83,
+      383.83,
+      573.21
+    ],
+    "text": "3. Section 4 of the principal enactment is herebyamended as follows:\u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.06,
+      581.83,
+      384.06,
+      617.25
+    ],
+    "text": "(a) in subsection (1) of that section, by the substitution,for the words \u201c six per centum\u201d, of the words \u201ceightper centum\u201d ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.06,
+      625.87,
+      384.02,
+      661.17
+    ],
+    "text": "(b) in the proviso to subsection (2) of that section by thesubstitution, for the words \u201csix per centum\u201d, of thewords \u201ceight per centum\u201d. ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.9,
+      687.55,
+      180.6,
+      700.89
+    ],
+    "text": "H-022545",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      395.9,
+      343.22,
+      448.37,
+      373.09
+    ],
+    "text": "Amendment ofsection 2 ofChapter 434.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.1,
+      165.98,
+      410.92,
+      188.47
+    ],
+    "text": "2Public Service Provident Fund (Amendment)Act, No.45 of 1999",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.1,
+      201.98,
+      196.12,
+      241.45
+    ],
+    "text": "Amendment ofsection 5 of theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.1,
+      258.02,
+      187.12,
+      287.89
+    ],
+    "text": "Retrospectiveeffect andvalidation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207.14,
+      202.87,
+      451.2,
+      244.17
+    ],
+    "text": "4.Section 5 of the principal enactment is hereby amendedby the substitution for the words \u201csix per centum\u201d, of the words\u201ceight per centum\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207.14,
+      256.87,
+      451.28,
+      284.25
+    ],
+    "text": "5.(1) The amendment made to the principal enactment bysection 2 of this Act, shall \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219.14,
+      294.55,
+      451.22,
+      403.89
+    ],
+    "text": "(a)insofar as such amendment relates to a person holdingthe post of Sub-Station Master in the RailwayDepartment, be deemed for all purposes to have comeinto force on May 1, 1983 and the compulsorycontribution deducted from the salary of any suchperson and paid to the fund during the period betweenMay 01, 1983 and the date of commencement of thisAct, shall be deemed to have been validly deductedand paid;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219.14,
+      413.47,
+      451.2,
+      510.81
+    ],
+    "text": "(b)insofar as such amendment relates to a person holdinga post in the Sri Lanka Police Reserve be deemed forall purposes to have come into force on January 01,1991 and the compulsory contribution deducted fromthe salary of any such person and paid to the fundduring the period between January 01, 1991 and thedate of commencement of this Act shall be deemed tohave been validly deducted and paid.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207.14,
+      520.51,
+      451.29,
+      617.85
+    ],
+    "text": "(2) The amendment to section 4 of the principal enactmentmade by section 3 of this Act, shall be deemed for all purposesto have come into force on January 01, 1995 and the amountsdeducted from the salaries of non- pensionable employees andpaid to the fund between January 01, 1995 and the date ofcommencement of this Act, at the rates specified in such sectionas so amended, shall be deemed to have been validly deductedand paid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207.14,
+      627.55,
+      451.29,
+      652.89
+    ],
+    "text": "6. In the event of any inconsistency between the Sinhalaand Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.1,
+      629.06,
+      202.93,
+      658.93
+    ],
+    "text": "Sinhala text toprevail in case ofany inconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149.78,
+      635.27,
+      440.95,
+      664.65
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180 (Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, No. 32,TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.099999904632568,
+      4.900000095367432,
+      7.0
+    ]
+  }
+]
