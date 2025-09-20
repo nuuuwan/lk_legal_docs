@@ -1,0 +1,791 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      91.03,
+      484.06,
+      275.71,
+      494.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.59,
+      499.66,
+      286.15,
+      510.33
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.447935581207275,
+      7.797435283660889
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      27.31,
+      516.08,
+      327.12,
+      528.55
+    ],
+    "text": "Price : Rs. 5.50 Postage : Rs. 4.50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.15,
+      128.14,
+      321.39,
+      188.7
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.594870567321777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      33.31,
+      438.51,
+      332.36,
+      464.45
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic SocialistRepublic of Sri Lanka of August 01, 2003",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.31,
+      407.38,
+      219.31,
+      418.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      146.35,
+      287.38,
+      218.35,
+      298.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      124.51,
+      325.56,
+      241.08,
+      339.41
+    ],
+    "text": "[Certified on 30th July, 2003]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.43,
+      364.53,
+      256.43,
+      376.74
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.746794700622559
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.39,
+      203.38,
+      217.39,
+      214.05
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.63,
+      230.34,
+      309.24,
+      269.11
+    ],
+    "text": "BETTING AND GAMING LEVY(AMENDMENT) ACT, No. 23 OF 2003",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.62019157409668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.91,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "1Betting and Gaming Levy (Amendment)Act, No. 23 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.31,
+      534.12,
+      160.8,
+      546.13
+    ],
+    "text": "2\u2014H 18082\u20135,650 (05/2003)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.07,
+      57.51,
+      217.43,
+      70.85
+    ],
+    "text": "[Certified on 30th July, 2003]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      79.83,
+      116.72,
+      93.17
+    ],
+    "text": "L. D.\u2014O. 62/2002.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.39,
+      102.27,
+      255.31,
+      129.05
+    ],
+    "text": "AN ACT TO AMEND THE BETTING AND GAMING LEVYACT, NO. 40 OF 1988",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      138.03,
+      278.44,
+      164.81
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      173.91,
+      278.17,
+      200.57
+    ],
+    "text": "1.This Act may be cited as the Betting and GamingLevy (Amendment) Act, No. 23 of 2003.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      207.63,
+      278.53,
+      301.37
+    ],
+    "text": "2.Section 7 of the Betting and Gaming Levy Act, No.40 of 1988 (hereinafter referred to as the \u201cprincipalenactment\u201d) is hereby amended in the definition of theexpression \u201cgaming\u201d by the substitution for the words \u201cVingt-et-um or wheel of fortune in any premises to which individualshave access-\u201d of the words \u201cVingt-et-um, rudjino or wheel offortune in any premises to which individuals have access \u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      308.43,
+      278.56,
+      348.65
+    ],
+    "text": "3.The Schedule to the principal enactment as lastamended by Act, No. 11 of 2002 is hereby further amendedas follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.71,
+      355.71,
+      278.5,
+      395.81
+    ],
+    "text": "(1) in Part I of that Schedule by the substitution for thewords \u201cFive hundred thousand rupees.\u201d, of the words\u201cThirty thousand rupees.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.71,
+      404.91,
+      278.16,
+      431.57
+    ],
+    "text": "(2) by the repeal of Part II of that Schedule and thesubstitution therefor of the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.71,
+      440.67,
+      175.99,
+      454.01
+    ],
+    "text": "\u201cPART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      38.35,
+      469.11,
+      278.47,
+      522.65
+    ],
+    "text": "The amount of levy payable by a person, for every yearspecified in Column I hereto, shall be equivalent to theamount specified in the corresponding entry in Column IIhereto\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      210.22,
+      340.79,
+      240.09
+    ],
+    "text": "Amendment ofsection 7 of ActNo. 40 of 1988.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      175.06,
+      324.06,
+      185.73
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.35,
+      310.66,
+      350.32,
+      350.13
+    ],
+    "text": "Amendment of theSchedule to theprincipalenactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      20.55,
+      304.99,
+      45.78
+    ],
+    "text": "2Betting and Gaming Levy (Amendment)Act,No. 23 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.01,
+      56.55,
+      300.15,
+      69.89
+    ],
+    "text": "(a) for carrying on the business of gaming\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      167.57,
+      83.55,
+      318.47,
+      96.89
+    ],
+    "text": "Column IColumn II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.65,
+      105.21,
+      331.95,
+      117.42
+    ],
+    "text": "YearAmount of Levy",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      124.71,
+      340.69,
+      157.97
+    ],
+    "text": "For every year commencingOne million rupees ;on or after April 1, 1988 butprior to April 1, 2001",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      165.15,
+      341.32,
+      208.49
+    ],
+    "text": "For the year commencingTwenty -five millionon or after April 1, 2001rupees.but prior to April 1,2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      225.15,
+      345.78,
+      248.57
+    ],
+    "text": "(b) for carrying on the business of gaming (other than for playing rudjino)\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      255.63,
+      324.02,
+      279.05
+    ],
+    "text": "For every year commencing Twelve million on or after April 1, 2002 rupees ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      296.19,
+      324.03,
+      319.49
+    ],
+    "text": "(c) for carrying on the business of only playing rudjino\u2014.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.65,
+      326.19,
+      332.97,
+      349.49
+    ],
+    "text": "For every year commencingFive hundredon or after April 1, 2002thousand rupees.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      365.19,
+      345.72,
+      438.53
+    ],
+    "text": "4.Where any person liable to pay the levy under theprincipal enactment for the year commencing on or after April1, 2002, pays such levy to the Commissioner-General priorto the date of commencement of this Act, such person shallbe entitled to a refund of the sum paid in excess of the levyspecified under this Act, on an application made to theCommissioner-General in that behalf.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.65,
+      447.15,
+      345.95,
+      530.45
+    ],
+    "text": "5.Where any person who being liable to pay the levyunder the principal enactment, for the year commencing onor after April 1, 2002 who is on the date of commencement ofthis Act is in default of the payment of such levy, such personshall be deemed not to have contravened the provisions ofthe said Act, if such person pays the amount of the levy dueas provided under this Act within thirty days from the date ofcommencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      367.06,
+      59.2,
+      377.73
+    ],
+    "text": "Refund.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      33.65,
+      452.98,
+      68.06,
+      463.65
+    ],
+    "text": "Indemnity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.91,
+      20.55,
+      278.31,
+      45.78
+    ],
+    "text": "3Betting and Gaming Levy (Amendment)Act, No. 23 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      56.98,
+      333.94,
+      77.25
+    ],
+    "text": "Retrospectiveeffect.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.35,
+      104.98,
+      344.8,
+      134.85
+    ],
+    "text": "Sinhala text toprevail in case ofinconsistency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      55.23,
+      278.46,
+      91.85
+    ],
+    "text": "6.The amendment made to the principal enactment bythis Act, shall be deemed for all purposes to have come intoforce on April 1, 2002.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.35,
+      102.51,
+      278.5,
+      127.85
+    ],
+    "text": "7.In the event of any inconsistency between the Sinhalaand the Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.65,
+      20.55,
+      304.99,
+      45.78
+    ],
+    "text": "4Betting and Gaming Levy (Amendment)Act,No. 23 of 2003",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.65,
+      496.18,
+      345.61,
+      526.05
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign),payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, NO. 32, TRANSWORKS HOUSE,LOTUS ROAD, COLOMBO 01 before 15th December each year in respect of the year following.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
