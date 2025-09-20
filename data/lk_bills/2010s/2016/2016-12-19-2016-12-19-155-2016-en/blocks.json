@@ -1,0 +1,1921 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      147.81,
+      251.46,
+      442.53,
+      307.58
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      319.09,
+      330.68,
+      330.16
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      611.17,
+      195.45,
+      622.24
+    ],
+    "text": "[Bill No. 157]",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      587.53,
+      330.68,
+      598.6
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      186.09,
+      499.69,
+      404.4,
+      522.76
+    ],
+    "text": "Presented by Hon. Anura Sidney Jayarathne, M.P. forPolonnaruwa District on 24th January, 2017",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.81,
+      535.49,
+      394.54,
+      546.83
+    ],
+    "text": "(Published in the Gazette on December 19, 2016)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.89,
+      559.69,
+      369.36,
+      570.76
+    ],
+    "text": "Ordered by Parliament to be printed",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.53,
+      473.05,
+      330.68,
+      484.12
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.61,
+      390.03,
+      299.27,
+      403.31
+    ],
+    "text": "A",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.53,
+      418.83,
+      309.81,
+      432.11
+    ],
+    "text": "BILL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.69,
+      628.51,
+      394.65,
+      637.58
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.89,
+      638.11,
+      399.45,
+      647.18
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      139.17,
+      661.09,
+      451.18,
+      672.16
+    ],
+    "text": "Price : Rs. 8.00Postage : Rs. 10. 00",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.09,
+      688.59,
+      169.65,
+      702.2
+    ],
+    "text": "2-2d",
+    "fonts": [
+      "Times",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.13,
+      629.31,
+      78.57,
+      642.59
+    ],
+    "text": "2-",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      153.81,
+      342.94,
+      436.51,
+      372.93
+    ],
+    "text": "PALITHA THEWARAPPERUMA FOUNDATION(INCORPORATION)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.17,
+      448.09,
+      415.17,
+      459.16
+    ],
+    "text": "to incorporate the Palitha Thewarapperuma Foundation",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.33,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "1Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.21,
+      203.45,
+      386.48,
+      227.39
+    ],
+    "text": "AN ACT TO INCORPORATE THE PALITHA THEWARAPPERUMAFOUNDATION",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      241.49,
+      401.92,
+      303.59
+    ],
+    "text": "WHEREAS a Board called and known as the \u201cPalithaThewarapperuma Foundation\u201d has heretofore beenestablished for the purpose of effectually carrying out andtransacting all objects and matters connected with the saidFoundation according to the rules agreed to by its members:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      317.69,
+      401.9,
+      379.79
+    ],
+    "text": "AND WHEREAS the said Foundation has heretoforesuccessfully carried out and transacted the objects and mattersfor which it was formed and has applied to be incorporatedand it will be for the public advantage to grant suchapplication:",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      393.89,
+      401.89,
+      417.95
+    ],
+    "text": "BE it therefore, enacted by the Parliament of the DemocraticSocialist Republic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      431.93,
+      401.87,
+      455.99
+    ],
+    "text": "1.This Act may be cited as the Palitha ThewarapperumaFoundation (Incorporation) Act, No. of 2017.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      470.09,
+      401.91,
+      595.67
+    ],
+    "text": "2.From and after the date of commencement of this Act,such and so many persons as now are members of the \u201cPalithaThewarapperuma Foundation\u201d (hereinafter referred to as the\u201cFoundation\u201d) or shall hereafter be admitted as members shallbe a body corporate (hereinafter referred to as the\u201cCorporation\u201d) with perpetual succession under the nameand style of \u201cPalitha Thewarapperuma Foundation\u201d and bythat name may sue and be sued in all Courts, with full powerand authority to have and use a common seal and alter thesame at its pleasure.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.85,
+      609.77,
+      401.87,
+      633.83
+    ],
+    "text": "3.The general objects for which the Corporation isconstituted are hereby declared to be \u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.57,
+      647.93,
+      401.9,
+      671.87
+    ],
+    "text": "(a) to participate in social, cultural and economicdevelopment of the country;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      242.11,
+      442.29,
+      251.18
+    ],
+    "text": "Preamble.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      434.11,
+      443.86,
+      443.18
+    ],
+    "text": "Short title.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      471.67,
+      455.86,
+      509.54
+    ],
+    "text": "Incorporationof the PalithaThewarapperumaFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.85,
+      612.19,
+      454.3,
+      640.46
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.57,
+      291.89,
+      152.57,
+      303.23
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.29,
+      368.93,
+      154.29,
+      380.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      469.49,
+      155.01,
+      480.83
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      533.93,
+      155.01,
+      545.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.57,
+      610.49,
+      155.01,
+      621.83
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      157.15,
+      166.97,
+      355.16,
+      190.24
+    ],
+    "text": "2Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.35,
+      406.11,
+      396.08,
+      419.72
+    ],
+    "text": "PL 009974 Rajitha Kodithuwakku Foundation(G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.87,
+      203.45,
+      397.19,
+      227.39
+    ],
+    "text": "(b) to advise and assist all communities in Sri Lanka tolive in peace and harmony;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176.71,
+      241.49,
+      346.19,
+      252.83
+    ],
+    "text": "(c) to implement leadership programmes;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.87,
+      266.93,
+      397.2,
+      290.99
+    ],
+    "text": "(d) to provide the houses, health facilities and drinkingwater to the poor and needy people;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176.71,
+      304.97,
+      397.2,
+      341.75
+    ],
+    "text": "(e) to provide the necessary educational equipmentand facilities and facilities of the poor schoolchildren for their advancement;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.15,
+      355.85,
+      397.2,
+      405.23
+    ],
+    "text": "(f) to improve nutritional level of students, youths andelders who are in the low income group and byenhancing their sports skills to reach upto thenational level;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.87,
+      419.33,
+      397.18,
+      443.27
+    ],
+    "text": "(g) to provide education and grant scholarships to assistpre-school children;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.87,
+      457.37,
+      397.2,
+      481.43
+    ],
+    "text": "(h) to establish centers to promote education, cultureand research;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.15,
+      495.53,
+      397.2,
+      532.19
+    ],
+    "text": "(i) to assist affected people in disaster situations touplift their lifestyle and providing legal assistancefor needy vulnerable people when necessary;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.15,
+      546.29,
+      397.18,
+      583.07
+    ],
+    "text": "(j) to grant scholarships to low income school childrento enable them to effectively continue theireducation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176.71,
+      597.05,
+      397.2,
+      633.83
+    ],
+    "text": "(k) to assist in the development of educational,religious, cultural, aesthetic and sports facilitieswithout any reference to race, religion and cast; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.15,
+      647.93,
+      397.17,
+      672.11
+    ],
+    "text": "(l) to liaise and co-ordinate with other local or foreigninstitutions which have similar objects.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.59,
+      278.93,
+      148.59,
+      290.27
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      367.97,
+      150.31,
+      379.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      456.89,
+      150.31,
+      468.23
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      545.93,
+      150.31,
+      557.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      139.87,
+      621.89,
+      150.31,
+      633.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204.33,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "3Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.45,
+      252.77,
+      152.45,
+      264.11
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      326.93,
+      154.89,
+      338.27
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      398.93,
+      154.89,
+      410.27
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      472.97,
+      154.89,
+      484.31
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      547.49,
+      154.89,
+      558.83
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.45,
+      607.97,
+      154.89,
+      619.31
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      203.09,
+      401.89,
+      275.99
+    ],
+    "text": "4.(1) The affairs of the Corporation shall, subject to theother provisions of this Act and the rules in force for the timebeing of the Corporation be administered by a Board ofDirectors consisting of Chairman, Vice Chairman, Secretaryand another eleven members elected in accordance withsuch rules.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      289.25,
+      401.91,
+      349.79
+    ],
+    "text": "(2) The founder member of the Foundation, shall be theChairman of the Board of Directors for life thereafter, andthe family members of the person who was holding office asthe Chairman shall become the next Chairman of the Boardof Directors.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      363.05,
+      401.9,
+      411.23
+    ],
+    "text": "(3) The first Board of the Corporation shall consist of themembers of the Board of Administration of the Foundationholding office on the day immediately preceding the date ofcommencement of this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      424.49,
+      401.9,
+      534.23
+    ],
+    "text": "5.Subject to the provisions of this Act and any otherwritten law, the Corporation shall have the power to do,perform and execute all such acts, matters and thingswhatsoever as are necessary or desirable for the promotionor furtherance of the objects of the Corporation or any oneof them, including operate and close bank accounts, toborrow or raise moneys with or without security, employand dismiss officers and servants required for the carryingout of the objects of the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.85,
+      547.49,
+      401.94,
+      620.39
+    ],
+    "text": "6.(1) It shall be lawful for the Corporation, from timeto time, at any General Meeting of the members and by amajority of not less than two-thirds of members present andvoting, to make rules, not inconsistent with the provisionsof this Act or any other written law, for all or any of thefollowing matters:\u2014",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.57,
+      633.65,
+      401.88,
+      669.83
+    ],
+    "text": "(a) classification of membership, admission,withdrawal, expulsion or resignation of membersand membership fees payable;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      204.19,
+      453.58,
+      242.06
+    ],
+    "text": "Managementof the affairsof theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      425.11,
+      455.85,
+      453.38
+    ],
+    "text": "GeneralPowers of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      407.85,
+      548.35,
+      452.85,
+      567.02
+    ],
+    "text": "Rules of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      166.97,
+      355.16,
+      190.24
+    ],
+    "text": "4Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.35,
+      406.11,
+      396.08,
+      419.72
+    ],
+    "text": "PL 009974 Rajitha Kodithuwakku Foundation(G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      202.73,
+      397.18,
+      260.87
+    ],
+    "text": "(b) procedure to be observed for the summoning andholding of meetings of the Corporation and of theBoard of Directors, the quorum for such meetingsand the exercise and performance of their powersand duties;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176.71,
+      271.25,
+      397.19,
+      305.99
+    ],
+    "text": "(c) the appointment, powers, duties and functions ofthe various officers, agents and servants of theCorporation;",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.87,
+      316.37,
+      397.18,
+      339.35
+    ],
+    "text": "(d) qualification required to become a member of theCorporation and of the Board of Directors; and",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      176.71,
+      349.73,
+      397.2,
+      372.83
+    ],
+    "text": "(e) the administration and management of the porpertyof the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      383.09,
+      397.21,
+      417.83
+    ],
+    "text": "(2) Any rule made by the Corporation may be amended,altered, added to or rescinded at a like meeting and in likemanner as a rule made under subsection (1).",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      428.21,
+      397.11,
+      451.31
+    ],
+    "text": "(3) Every member of the Corporation shall be subject tothe rules of the Corporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      463.37,
+      397.25,
+      533.15
+    ],
+    "text": "7.All debts and liabilities of the Foundation existingon the day preceding the date of commencement of this Act,shall be paid by the Corporation hereby constituted and alldebts due to subscriptions and contributions payable to theFoundation on that day shall be paid to the Corporation forthe purposes of this Act.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      545.21,
+      397.19,
+      615.11
+    ],
+    "text": "8.(1) The Corporation shall have its own fund and allmoneys heretofore or hereafter to be received by way of gifts,bequests, donations, subscriptions, contributions, fees orgrants for and on account of the Corporatoin shall be depositedto the credit of the Corporation in one or more banks as theBoard of Directors shall determine.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.15,
+      627.17,
+      397.17,
+      673.55
+    ],
+    "text": "(2) There shall be paid out of the fund, all sums of moneyrequired to defray any expenditure incurred by theCorporation in the exercise, performance and discharge of itspowers, duties and functions under this Act.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.87,
+      248.69,
+      147.87,
+      260.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      327.77,
+      149.71,
+      339.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      405.29,
+      149.71,
+      416.63
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.71,
+      485.93,
+      149.71,
+      497.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.95,
+      555.89,
+      151.39,
+      567.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.95,
+      627.89,
+      151.39,
+      639.23
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      465.55,
+      449.59,
+      500.42
+    ],
+    "text": "Debts due byand payableto theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.15,
+      546.91,
+      448.15,
+      565.58
+    ],
+    "text": "Fund of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      204.33,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "5Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      203.57,
+      401.92,
+      305.99
+    ],
+    "text": "9. The Corporation shall be able and capable in law toacquire and hold any property, movable or immovable whichmay become vested in it by virtue of any purchase, grant,lease, gift, testamentary disposition or otherwise and all suchproperty shall be held by the Corporation for the purposes ofthis Act and subject to the rules in force for the time being ofthe Corporation, with full power to sell, mortgage, lease,exchange or otherwise dispose of the same.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      320.57,
+      401.9,
+      422.99
+    ],
+    "text": "10. If upon the dissolution of the Corporation thereremains after the satisfaction of all its debts and liabilitiesany property whatsoever, such property shall not bedistributed among the members of the Corporation, but shallbe given or transferred to some other institution or institutionshaving objects similar to those of the Corporation and which,is or are by its or their rules prohibited from distributing anyincome or property among their members.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      437.57,
+      401.88,
+      474.95
+    ],
+    "text": "11.(1) The Board of Directors of the Corporation shallcause proper accounts to be kept of all moneys received andexpended by the Corporation.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      489.53,
+      401.9,
+      513.95
+    ],
+    "text": "(2) The financial year of the Corporation shall be thecalendar year.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      528.53,
+      401.88,
+      565.91
+    ],
+    "text": "(3) The accounts of the Corporation shall be examinedand audited at least once in every year by an auditor orauditors appointed by the Board of Directors.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.85,
+      580.61,
+      401.89,
+      669.95
+    ],
+    "text": "12. The seal of the Corporation shall not be affixed toany instrument whatsoever except in the presence of suchnumber of persons as may be provided for in the rules in forcefor the time being of the Corporation, who shall sign theirnames to the instrument in token of their presence, and suchsigning shall be independent of the signing of any person asa witness.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      147.21,
+      254.69,
+      152.21,
+      266.03
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      333.77,
+      155.01,
+      345.11
+    ],
+    "text": "10",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      399.29,
+      155.01,
+      410.63
+    ],
+    "text": "15",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      488.93,
+      155.01,
+      500.27
+    ],
+    "text": "20",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.57,
+      579.89,
+      155.01,
+      591.23
+    ],
+    "text": "25",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      205.15,
+      452.86,
+      252.62
+    ],
+    "text": "Corporationmay holdpropertymovable andimmovable.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      321.79,
+      448.3,
+      366.86
+    ],
+    "text": "Propertyremainingafterdissolution.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.45,
+      645.41,
+      154.89,
+      656.75
+    ],
+    "text": "30",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      581.11,
+      452.85,
+      599.78
+    ],
+    "text": "Seal of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      407.85,
+      438.79,
+      452.85,
+      476.66
+    ],
+    "text": "Audit andaccounts oftheCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      166.97,
+      355.16,
+      190.24
+    ],
+    "text": "6Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      158.35,
+      406.11,
+      396.08,
+      419.72
+    ],
+    "text": "PL 009974 Rajitha Kodithuwakku Foundation(G)",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      203.57,
+      397.18,
+      266.99
+    ],
+    "text": "13.Nothing in this Act contained shall prejudice oraffect the rights of the Republic or of anybody politic orcorporate, or of any other persons except such as arementioned in this Act and those claiming by, from or underthem.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      281.57,
+      397.18,
+      317.27
+    ],
+    "text": "14.In the event of any inconsistency between theSinhala and Tamil texts of this Act, the Sinhala text shallprevail.",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      205.15,
+      450.43,
+      243.02
+    ],
+    "text": "Saving of therights of theRepublic andothers.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      283.15,
+      451.16,
+      321.02
+    ],
+    "text": "Sinhala textto prevail incase ofinconsistency.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.71,
+      255.29,
+      148.71,
+      266.63
+    ],
+    "text": "5",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.15,
+      408.53,
+      397.34,
+      432.47
+    ],
+    "text": "Be it enacted by the Parliament of the Democratic SocialistRepublic of Sri Lanka as follows:\u2014",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      475.75,
+      451.16,
+      513.62
+    ],
+    "text": "Incorporationof the PalithaThewarapperumaFoundation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      403.15,
+      552.19,
+      449.6,
+      580.46
+    ],
+    "text": "Generalobjects of theCorporation.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      204.33,
+      166.97,
+      401.69,
+      190.24
+    ],
+    "text": "7Palitha Thewarapperuma Foundation(Incorporation)",
+    "fonts": [
+      "Times",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      143.85,
+      631.51,
+      455.85,
+      670.45
+    ],
+    "text": "Annual subscription of English Bills and Acts of the Parliament Rs. 885 (Local), Rs. 1,180(Foreign), Payable to the SUPERINTENDENT, GOVERNMENT PUBLICATIONS BUREAU, DEPARTMENT OFGOVERNMENT INFORMATION, NO. 163, KIRULAPONA MAWATHA, POLHENGODA, COLOMBO 05 before 15thDecember each year in respect of the year following.",
+    "fonts": [
+      "Times"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      9.0
+    ]
+  }
+]
