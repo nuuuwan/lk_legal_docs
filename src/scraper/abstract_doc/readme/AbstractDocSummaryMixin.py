@@ -9,6 +9,10 @@ log = Log("AbstractDocSummaryMixin")
 
 class AbstractDocSummaryMixin:
 
+    @property
+    def has_pdf(self) -> bool:
+        return False
+
     @classmethod
     def get_summary(cls) -> dict:
         doc_list = cls.list_all()
