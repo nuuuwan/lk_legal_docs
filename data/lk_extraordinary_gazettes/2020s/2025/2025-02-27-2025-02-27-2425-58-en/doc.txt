@@ -1,0 +1,31 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 22, 1 : 34, 1 : 64, 1 : 72, 1 : 84, 1 : 104, 1 : 147, 1 : 164, 1 : 169, 3 : 241, 3 : 242, 3 : 243, 3 : 244, 3 : 245, 3 : 247, 3 : 248, 3 : 249, 3 : 250, 3 : 251, 3 : 254, 3 : 255, 3 : 256, 3 : 257, 3 : 258, 3 : 259, 3 : 260, 3 : 261, 3 : 262, 3 : 263, 3 : 264, 3 : 265, 3 : 266, 3 : 267, 3 : 270, 3 : 271, 3 : 272, 3 : 273, 3 : 274, 3 : 275, 3 : 276, 3 : 277, 3 : 278, 3 : 280, 3 : 281, 3 : 282, 3 : 283, 3 : 284, 3 : 285, 3 : 286, 3 : 288, 3 : 290, 3 : 291, 3 : 292, 3 : 293, 3 : 294 and 3 : 295 of Block 1, contained in the Cadastral Map No. 120005, situated in the Village of Maha Ulpatha within the Grama Niladhari Division of No. 251 Maha Ulpatha in the Divisional Secretary's Division of Dimbulagala, in the District of Polonnaruwa, in the Province of North Central, referred to in Notice No. 12/0422 calling for claims to land parcels which was duly published in the Gazette No. 2377/13 of 18th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st November, 2024
+
+අංක 2425/58 - 2025 ෙපබරවාරි මස 27 වැනි බහස්පතින්දා - 2025.02.27
+
+No. 2425/58 – THURSDAY, FEBRUARY 27, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 043874 - 04 (02/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.02.27 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 27.02.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:22 1.0089 Ethugal Pedige Nimal Jayasinghe 601763338V Full 1st Class _ Subject to the No. 251, Mahaulpatha, Kashyapapura conditions of L.D.O. 1:34 1.0950 Nikapitiya Arachchillage Chamila 825010823V Full 1st Class _ Subject to the Priyangani Nikapitiya conditions of No. 124, Mahaulpatha, Kashyapapura L.D.O. 1:64 1.0050 Ethugal Pedige Sunil Jayantha 602483096V Full 1st Class _ Subject to the No. 175, Mahaulpatha, Kashyapapura conditions of L.D.O. 1:72 1.0000 Nikapitiya Arachchillage Tikiribanda 511121671V Full 1st Class _ Subject to the No. 247, Mahaulpatha, Kashyapapura conditions of L.D.O. 1:84 1.0070 Herath Mudiyanselage Siriyawathi 196970003657 Full 1st Class _ Subject to the No. 157, Mahaulpatha, Kashyapapura conditions of L.D.O. 1:104 1.0056 Senanayaka Mudalige Uthpalawanna 938502218V Full 1st Class _ Subject to the Senanayaka conditions of No. 178, Mahaulpatha, Kashyapapura L.D.O. 1:147 1.0050 Ilukthenna Arachchillage Seelawathi 446942050V Full 1st Class _ Subject to the Menike conditions of No. 282, Mahaulpatha, Kashyapapura L.D.O. 1:164 0.9986 Adasi Gamaralalage Weerasekara 551091759V Full 1st Class _ Subject to the No. 129, Mahaulpatha, Kashyapapura, conditions of Dimbulagala L.D.O. 1:169 0.9997 Thonduwalage Somarathna 490803670V Full 1st Class _ Subject to the No. 133, Mahaulpatha, Kashyapapura conditions of L.D.O. 3:241 0.0671 The State Full 1st Class _ _ 3:242 10.1553 The State Full 1st Class _ _ 3:243 0.1120 The State Full 1st Class _ _ 3:244 0.1005 The State Full 1st Class _ _ 3:245 0.0991 The State Full 1st Class _ _ 3:247 0.0977 The State Full 1st Class _ _ 3:248 0.0965 The State Full 1st Class _ _ 3:249 0.1109 The State Full 1st Class _ _ 3:250 0.1105 The State Full 1st Class _ _ 3:251 0.1018 The State Full 1st Class _ _ 3:254 0.1049 The State Full 1st Class _ _ 3:255 0.0998 The State Full 1st Class _ _ 3:256 0.1023 The State Full 1st Class _ _ 3:257 0.0964 The State Full 1st Class _ _ 3:258 0.0954 The State Full 1st Class _ _ 3:259 0.1046 The State Full 1st Class _ _ 3:260 0.1012 The State Full 1st Class _ _ 3:261 0.0971 The State Full 1st Class _ _ 3:262 0.0034 The State Full 1st Class _ _ 3:263 0.0568 The State Full 1st Class _ _ 3:264 0.1097 The State Full 1st Class _ _ 3:265 0.0246 The State Full 1st Class _ _ 3:266 0.0540 The State Full 1st Class _ _ 3:267 0.0441 The State Full 1st Class _ _ 3:270 0.1058 The State Full 1st Class _ _ 3:271 0.1022 The State Full 1st Class _ _ 3:272 0.0259 The State Full 1st Class _ _ 3:273 0.0747 The State Full 1st Class _ _ 3:274 0.1055 The State Full 1st Class _ _ 3:275 0.0042 The State Full 1st Class _ _
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.02.27 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 27.02.2025
+
+SCHEDULE (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 3:276 0.0033 The State Full 1st Class _ _ 3:277 0.0937 The State Full 1st Class _ _ 3:278 0.1036 The State Full 1st Class _ _ 3:280 0.0097 The State Full 1st Class _ _ 3:281 0.0101 The State Full 1st Class _ _ 3:282 0.0018 The State Full 1st Class _ _ 3:283 0.0811 The State Full 1st Class _ _ 3:284 0.0319 The State Full 1st Class _ _ 3:285 0.1116 The State Full 1st Class _ _ 3:286 0.0960 The State Full 1st Class _ _ 3:288 0.0207 The State Full 1st Class _ _ 3:290 2.3345 The State Full 1st Class _ _ 3:291 0.4047 The State Full 1st Class _ _ 3:292 0.0992 The State Full 1st Class _ _ 3:293 0.1524 The State Full 1st Class _ _ 3:294 0.3822 The State Full 1st Class _ _ 3:295 0.0491 The State Full 1st Class _ _ EOG 02 - 0290
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.

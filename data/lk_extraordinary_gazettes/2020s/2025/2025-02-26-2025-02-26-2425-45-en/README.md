@@ -1,0 +1,93 @@
+(Published by Authority)
+
+ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ගැසට් පත්‍රය
+
+අති විශෙෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS
+
+Title Registration
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 132 and 1 : 142 of Block 1, contained in the Cadastral Map No. 420454, situated in the Village of Kakulawala within the Grama Niladhari Division of No. 451 - Kekulawala in the Divisional Secretary's Division of Ganewatta, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0941 calling for claims to land parcels which was duly published in the Gazette No. 2369/49 of 02nd February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 09th September, 2024.
+
+අංක 2425/45 - 2025 ශෙබරවාරි මස 26 වැනි බදාදා - 2025.02.26
+
+No. 2425/45 – WEDNESDAY, FEBRUARY 26, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 043857 - 04 (2025/02)
+
+2 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:132 0.0037 The State Full 1st Class _ Public Well 1:142 0.3906 The State Full 1st Class _ _ EOG 02 - 0270/1
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 21, 1 : 31, 1 : 33, 1 : 37, 1 : 49, 1 : 52, 1 : 53, 1 : 56, 1 : 112, 1 : 113, 1 : 115, 1 : 116, 1 : 120, 1 : 121, 1 : 123, 1 : 134, 1 : 135, 1 : 138, 1 : 140, 1 : 153, 1 : 159, 1 : 160, 1 : 178, 1 : 182 and 1 : 184 of Block 1, contained in the Cadastral Map No. 420458, situated in the Village of Uyangalla within the Grama Niladhari Division of No. 455 - Uyangalla in the Divisional Secretary's Division of Ganewatta, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0942 calling for claims to land parcels which was duly published in the Gazette No. 2369/49 of 02nd February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 09th September, 2024.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:21 0.4047 The State _ Full 1st Class Possessed by Warnakulasooriyage Kusumawathi Under the Licence No. 94/ගය්ත/1913 L D O 1:31 0.1401 The State Full 1st Class _ Possessed by Rajapaksha Mudiyanselage Karunawathi Under the Licence No.
+
+3 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+2006/ගය්ත/42 හා L D O 1:33 0.3864 The State Full 1st Class _ Possessed by Arachchilage Sandhaya Kumuduni Dalduwa Arachchi Under the Licence No. 289695 L D O 1:37 0.2576 The State Full 1st Class _ Possessed by Kahadawa Mudiyanselage Somarathna Under the Licence No. 2006/ගය්ත/07 L D O 1:49 0.2200 The State Full 1st Class _ Possessed by Kahadawa Mudiyanselage Somarathna Under the Licence No. 2006/ගය්ත/12 L D O 1:52 0.1012 The State _ Full 1st Class _ Possessed by Rathnayaka Mudiyanselage Hemalatha Under the Licence No. 2006/ගය්ත/14 1:53 0.5767 The State Full 1st Class _ Possessed by Herath Mudiyalselage Udenika Herath Under the Licence No. 2003/ගය්ත/18 හා L D O 1:56 0.1426 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Champika Ekanayaka Under the Licence No. 243939 L D O
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+4 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+1:112 0.1959 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Thilakarathna Banda Under the Licence No. 92/ගය්ත/02 L D O 1:113 0.1920 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Kusumawathi Under the Licence No. 92/ගය්ත/02A L D O 1:115 0.0537 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Thilakarathna Banda Under the Licence No. 2006/ගය්ත/18 හා L D O 1:116 0.1706 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Thilakarathna Banda Under the Licence No. 2006/ගය්ත/18 L D O 1:120 0.3129 The State _ Full 1st Class _ Possessed by Ilakkathenna Arachchilage Dayawathi Under the Licence No. 91/ගය්ත/162 හා L D O 1:121 0.0234 The State Full 1st Class _ Possessed by Manikgalumalage Somawath Under the Licence No. 2006/ගය්ත/53 L D O 1:123 0.2106 The State _ Full 1st Class _ Possessed by Ilakkathenna Arachchilage Dayawathi
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+5 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+Under the Licence No. 91/ගය්ත/162 හා L D O 1:134 0.3129 The State Full 1st Class _ Possessed by Ilakkathenna Arachchilage Dayawathi Under the Licence No. 91/ගය්ත/162 හා L D O 1:135 0.1012 The State Full 1st Class _ Possessed by Abesingha Mudiyanselage’ Dayarathna Under the Licence No. 2006/ගය්ත/15 හා L D O 1:138 0.0603 The State _ Full 1st Class _ Possessed by Siwrathna Bandaranayaka Yapa Mudiyanselage Punchi Banda Under the Licence No. 2006/ගය්ත/50 L D O 1:140 0.0405 The State Full 1st Class _ Possessed by Rajapaksha Mudiyanselage Tikiri Manika Under the Licence No. 2006/ගය්ත/10 හා L D O 1:153 0.0405 The State Full 1st Class _ Possessed by Ekanayaka Mudiyanselage Thilakarathna Banda Under the Licence No. 2006/ගය්ත/46 L D O 1:159 0.0515 The State _ Full 1st Class _ Possessed by Siwrathna Bandaranayaka Yapa Mudiyanselage Punchi Banda Under the
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+6 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+Licence No. 2006/ගය්ත/29 L D O 1:160 0.0756 The State Full 1st Class _ Possessed by Siwrathna Bandaranayaka Yapa Mudiyanselage Gunarath Banda Under the Licence No. ඉ. යකෝ/සං.5/ඉ පැ ල/ගය්ත/ L D O 1:178 0.0079 The State Full 1st Class _ Possessed by Siwrathna Bandaranayaka Yapa Mudiyanselage Punchi Banda Under the Licence No. 2006/ගය්ත/29 L D O 1:182 0.5034 The State Full 1st Class _ Possessed by Katugampalage Podihami Under the Licence No. 2006/ගය්ත/48 L D O 1:184 0.1459 The State Full 1st Class _ Possessed by Katugampalage Dharmasena Under the Licence No. පළාත්/ඉ.යකො/කා 5/ඉපැල/ගය්ත L D O EOG 02 - 0270/2
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14
+
+BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 65, 1 : 77, 1 : 78, 1 : 83, 1 : 84, 1 : 85, 1 : 94, 1 : 96, 1 : 97, 1 : 105, 1 : 109, 1 : 111, 1 : 128, 1 : 130, 1 : 131, 1 : 150, 1 : 151 and 1 : 157 of Block 2,
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+7 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+contained in the Cadastral Map No. 420458, situated in the Village of Uyangalla within the Grama Niladhari Division of No. 455 - Uyangalla in the Divisional Secretary's Division of Ganewatta, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0943 calling for claims to land parcels which was duly published in the Gazette No. 2369/49 of 02nd February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sigera, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 09th September, 2024.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:65 0.1814 The State Full 1st Class _ _ 1:77 0.1989 The State Full 1st Class _ Possessed by Dissanayaka Mudiyanselage Heen banda Under the Licence No. 94/ගය්ත/033112 L D O 1:78 0.5995 The State Full 1st Class _ Possessed by Dissanayaka Mudiyanselage Tikiri Banda Under the Licence No. 94/ගය්ත/1042A L D O 1:83 0.4023 The State Full 1st Class _ Possessed by Athapaththu Mudiyanselage Dramathilaka Under the Licence No. 2009/ගය්ත/106244903 L D O 1:84 0.2009 The State Full 1st Class _ Possessed by Athapaththu Mudiyanselage Darmasena Under the Licence No. 2006/ගය්ත/38 L D O 1:85 0.1387 The State Full 1st Class _ Possessed by Athapuththu Mudiyanselage Dharmasena Under the Licence No. 2006/ගය්ත/38 හා
+
+8 A
+
+III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+L D O 1:94 0.1434 The State Full 1st Class _ Possessed by Athapuththu Mudiyanselage Dharmadasa Banda Under the Licence No. 2006/ගය්ත/39 L D O 1:96 0.1317 The State Full 1st Class _ Possessed by Athapuththu Mudiyanselage Dingiri Menike Under the Licence No. 2006/ගය්ත/34 L D O 1:97 0.0489 The State Full 1st Class _ _ 1:105 0.1727 The State Full 1st Class _ Possessed by Pathmaperuma Arachchilage Rohini Jayantha Menike Under the Licence No. 289696 L D O 1:109 0.3295 The State _ Full 1st Class _ Possessed by Jayasingha Arachchilage Dharmasena Under the Licence No. 2006/ගය්ත/38 L D O 1:111 0.4378 The State _ Full 1st Class _ Possessed by Mohotti Appuhamilage David Appuhami Under the Licence No. 289696 1:128 0.2333 The State Full 1st Class _ Possessed by Siwrathna Bandaranayaka Yapa Mudiyanselage Kapila bandara Siwrathna Under the Licence No. 2006/ගය්ත/19
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
+
+9 A III යකොටස - ශ්‍රී ලංකා ප්‍රජාාාා්ත්‍රික සමාජාවාදී ජානරජායේ ි ව ශෙය ග ගැසට් පත්‍රය - 2025.02.26 Part III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 26.02.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+L D O 1:130 0.3706 The State Full 1st Class _ Possessed by Dissanayaka Mudiyanselage Don Emalin Nona Under the Licence No. 289702 L D O 1:131 0.2728 The State Full 1st Class _ Possessed by Siwrathna Bandaranayaka Mudiyanselag Anurasiri Siwrathna Under the Licence No. 243930 L D O 1:150 0.5121 The State _ Full 1st Class _ Possessed by Rajaguru Mudiyanselage Wimalasena Under the Licence No. 95/ගය්ත/72 L D O 1:151 0.3736 The State _ Full 1st Class _ Possessed by Amarasingha Mudiyanselage Kusumawathi Podimenike Under the Licence No. 95/ගය්ත/49 L D O 1:157 0.2144 The State Full 1st Class _ Possessed by Koliya Bandara Basnayaka Mudiyanselage Biso Menike Under the Licence No. 2006/ගය්ත/35 L D O EOG 02 - 0270/3
+
+SCHEDULE (Contd.) ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare)
