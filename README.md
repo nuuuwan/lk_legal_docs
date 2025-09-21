@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_00:18:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_00:45:53-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**15.4 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**15.5 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -16,13 +16,13 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--21_23:42:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_00:14:23-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,056** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills) (**15.3 GB**), from **2010-05-10** to **2025-09-18**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**4,056** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills) (**15.4 GB**), from **2010-05-10** to **2025-09-18**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -32,13 +32,13 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--21_23:57:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_00:30:18-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**100,968** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**15.4 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**100,968** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**15.5 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
