@@ -2,6 +2,7 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib.ticker import MaxNLocator
 from utils import Log
 
 log = Log("AbstractDocChartDocsByTimeAndLangMixin")
@@ -58,9 +59,7 @@ class AbstractDocChartDocsByTimeAndLangMixin:
             values = counts.get(lang, [])
             if values:
                 color = cls.COLOR_MAP.get(lang, "grey")
-                ax.bar(
-                    ts_list, values, bottom=bottom, label=lang, color=color
-                )
+                ax.bar(ts_list, values, bottom=bottom, label=lang, color=color)
                 bottom += np.array(values)
         return bottom
 
@@ -86,6 +85,7 @@ class AbstractDocChartDocsByTimeAndLangMixin:
         ax.set_xticks(xticks)
         ax.set_xticklabels([str(y) for y in xticks], rotation=45)
         ax.legend(title="Language")
+        ax.yaxis.set_major_locator(MaxNLocator(integer=True))
         plt.tight_layout()
 
     @classmethod
