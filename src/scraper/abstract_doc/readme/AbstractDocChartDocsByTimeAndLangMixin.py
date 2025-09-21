@@ -59,7 +59,9 @@ class AbstractDocChartDocsByTimeAndLangMixin:
             values = counts.get(lang, [])
             if values:
                 color = cls.COLOR_MAP.get(lang, "grey")
-                ax.bar(ts_list, values, bottom=bottom, label=lang, color=color)
+                ax.bar(
+                    ts_list, values, bottom=bottom, label=lang, color=color
+                )
                 bottom += np.array(values)
         return bottom
 

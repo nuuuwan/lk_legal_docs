@@ -1,7 +1,7 @@
 import time
 from multiprocessing import cpu_count
 
-from utils import Log, Parallel
+from utils import Log
 
 log = Log("AbstractDocPipelineMetadataMixin")
 
@@ -29,26 +29,9 @@ class AbstractDocPipelineMetadataMixin:
 
     @classmethod
     def process_batch_for_scrape_all_metadata(cls, doc_batch):
-        processed_doc_list = []
-
-        def process_doc(doc):
-            try:
-                doc.write()
-                return doc
-            except Exception as e:
-                log.error(f"Error processing {doc}: {e}")
-                return None
-
-        processed_doc_list = Parallel.map(
-            process_doc,
-            doc_batch,
-            max_threads=cls.MAX_THREADS,
-        )
-        processed_doc_list = [
-            doc for doc in processed_doc_list if doc is not None
-        ]
-
-        return processed_doc_list
+        for doc in doc_batch:
+            doc.write()
+        return doc_batch
 
     @classmethod
     def scrape_all_metadata(cls, max_dt):
