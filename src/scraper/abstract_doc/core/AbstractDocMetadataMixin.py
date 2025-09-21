@@ -19,7 +19,9 @@ class AbstractDocMetadataMixin:
             doc_id=self.doc_id,
         ) | asdict(self)
 
-    def write(self):
+    def write(self, force: bool = False):
+        if not force and os.path.exists(self.json_path):
+            return
         os.makedirs(self.dir_doc, exist_ok=True)
         JSONFile(self.json_path).write(self.to_dict())
         log.info(f"Wrote {self.json_path}")
