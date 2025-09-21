@@ -2,19 +2,20 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-09-21 08:09:54",
+  "time_updated": "2025-09-21 08:50:08",
   "n_docs": 4056,
   "n_docs_with_pdfs": 4055,
   "n_docs_with_text": 4055,
   "date_str_min": "2010-05-10",
   "date_str_max": "2025-09-18",
-  "dataset_size": 12889821396,
+  "dataset_size": 12978698716,
   "url_source": "https://documents.gov.lk/view/bills/bl_2025.html",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills",
+  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
@@ -26,88 +27,5 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/bills/2025/9/634-2025_T.pdf",
     "doc_number": "634/2025"
-  },
-  "year_to_lang_to_n": {
-    "2025": {
-      "ta": 70,
-      "si": 70,
-      "en": 70
-    },
-    "2024": {
-      "ta": 131,
-      "si": 131,
-      "en": 131
-    },
-    "2023": {
-      "ta": 133,
-      "si": 134,
-      "en": 134
-    },
-    "2022": {
-      "ta": 131,
-      "si": 131,
-      "en": 131
-    },
-    "2021": {
-      "ta": 160,
-      "si": 160,
-      "en": 160
-    },
-    "2020": {
-      "ta": 62,
-      "si": 62,
-      "en": 62
-    },
-    "2019": {
-      "ta": 96,
-      "si": 96,
-      "en": 96
-    },
-    "2018": {
-      "ta": 91,
-      "si": 91,
-      "en": 91
-    },
-    "2017": {
-      "ta": 113,
-      "si": 113,
-      "en": 113
-    },
-    "2016": {
-      "ta": 118,
-      "si": 120,
-      "en": 120
-    },
-    "2015": {
-      "si": 86,
-      "en": 86,
-      "ta": 84
-    },
-    "2014": {
-      "ta": 26,
-      "si": 26,
-      "en": 26
-    },
-    "2013": {
-      "ta": 71,
-      "si": 71,
-      "en": 71
-    },
-    "2012": {
-      "ta": 20,
-      "si": 20,
-      "en": 20
-    },
-    "2011": {
-      "ta": 19,
-      "si": 20,
-      "en": 35
-    },
-    "2010": {
-      "ta": 18,
-      "si": 18,
-      "en": 18
-    }
-  },
-  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_bills/docs_by_year_and_lang.png"
+  }
 }
