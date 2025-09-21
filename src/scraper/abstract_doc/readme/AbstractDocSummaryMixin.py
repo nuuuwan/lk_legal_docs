@@ -28,7 +28,7 @@ class AbstractDocSummaryMixin:
         date_str_max = max(date_strs)
         dataset_size = FileOrDirFuture(cls.get_data_branch_dir_root()).size
         latest_doc = doc_list[0]
-        url_source = latest_doc.url_metadata.split("?")[0]
+        url_source = "/".join(latest_doc.url_metadata.split("/")[:3])
         url_data = cls.get_remote_data_url_for_class()
         latest_doc_d = latest_doc.to_dict()
         langs = set([doc.lang for doc in doc_list])
