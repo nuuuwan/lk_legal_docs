@@ -21,11 +21,20 @@ class AbstractDocPipelineExtendedDataMixin:
 
     @classmethod
     def process_doc_batch_for_scrape_extended_data(cls, doc_batch):
-        return Parallel.map(
-            lambda doc: doc.scrape_extended_data_for_doc(),
+        def process(doc):
+            try:
+                doc.scrape_extended_data_for_doc()
+                return doc
+            except Exception as e:
+                log.error(f"Error scraping extended data for {doc}: {e}")
+
+        processed_doc_list = Parallel.map(
+            process,
             doc_batch,
             max_threads=cls.MAX_THREADS,
         )
+        processed_doc_list = [doc for doc in processed_doc_list if doc]
+        return processed_doc_list
 
     @classmethod
     def scrape_all_extended_data(cls, max_dt):
