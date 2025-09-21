@@ -68,7 +68,7 @@ class WWW(WWWSSLMixin):
             )
             response.raise_for_status()
             content = response.text
-            log.debug(f"[{self}] Opened. {len(content):,}B")
+            log.debug(f"Opened {self} ({len(content):,}B)")
             return content
         except Exception as e:
             log.error(f"[{self}] Failed to open: {e}")
