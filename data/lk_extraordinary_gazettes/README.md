@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--21_22:56:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--21_23:26:36-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**100,958** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**15.2 GB**), from **2010-01-01** to **2025-09-18**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**100,968** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**15.3 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -17,14 +17,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes",
-    "doc_id": "2025-09-18-2025-09-18-2454-54-ta",
-    "num": "2025-09-18-2454-54-ta",
-    "date_str": "2025-09-18",
-    "description": "Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt",
+    "doc_id": "2025-09-21-2025-09-21-2454-68-ta",
+    "num": "2025-09-21-2454-68-ta",
+    "date_str": "2025-09-21",
+    "description": "Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-54_T.pdf",
-    "doc_number": "2454/54"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-68_T.pdf",
+    "doc_number": "2454/68"
 }
 ```
 
@@ -39,6 +39,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-09-21 | `2025-09-21-2454-68-ta` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-ta)
+- 2025-09-21 | `2025-09-21-2454-68-si` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-si)
+- 2025-09-21 | `2025-09-21-2454-68-en` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-en)
 - 2025-09-18 | `2025-09-18-2454-54-ta` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-ta)
 - 2025-09-18 | `2025-09-18-2454-54-si` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-si)
 - 2025-09-18 | `2025-09-18-2454-54-en` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-en)
@@ -56,9 +59,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-09-15 | `2025-09-15-2454-04-si` | M/of Industry and Enterprenurship Development- Appointed Additional Secretary (Industrial Development) of the Ministry of Industry and Enterpreneurship Development | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-04-si)
 - 2025-09-15 | `2025-09-15-2454-04-en` | M/of Industry and Enterprenurship Development- Appointed Additional Secretary (Industrial Development) of the Ministry of Industry and Enterpreneurship Development | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-04-en)
 - 2025-09-15 | `2025-09-15-2454-01-si` | Sri Lanka Customs Rates of Exchange W.E.F. 15.09.2025 to 21.09.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-01-si)
-- 2025-09-15 | `2025-09-15-2454-01-en` | Sri Lanka Customs Rates of Exchange W.E.F. 15.09.2025 to 21.09.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-01-en)
-- 2025-09-13 | `2025-09-13-2453-51-ta` | 2453/51 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-13-2025-09-13-2453-51-ta)
-- 2025-09-13 | `2025-09-13-2453-51-si` | 2453/51 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-13-2025-09-13-2453-51-si)
 
 ---
 

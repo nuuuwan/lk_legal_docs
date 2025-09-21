@@ -2,30 +2,30 @@
   "doc_class_label": "lk_extraordinary_gazettes",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-09-21 22:55:54",
-  "n_docs": 100958,
-  "n_docs_with_pdfs": 5776,
-  "n_docs_with_text": 5776,
+  "time_updated": "2025-09-21 23:25:51",
+  "n_docs": 100968,
+  "n_docs_with_pdfs": 5841,
+  "n_docs_with_text": 5841,
   "date_str_min": "2010-01-01",
-  "date_str_max": "2025-09-18",
-  "dataset_size": 15229877074,
+  "date_str_max": "2025-09-21",
+  "dataset_size": 15295253673,
   "url_source": "https://documents.gov.lk",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_extraordinary_gazettes/docs_by_year_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes",
-    "doc_id": "2025-09-18-2025-09-18-2454-54-ta",
-    "num": "2025-09-18-2454-54-ta",
-    "date_str": "2025-09-18",
-    "description": "Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt",
+    "doc_id": "2025-09-21-2025-09-21-2454-68-ta",
+    "num": "2025-09-21-2454-68-ta",
+    "date_str": "2025-09-21",
+    "description": "Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-54_T.pdf",
-    "doc_number": "2454/54"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-68_T.pdf",
+    "doc_number": "2454/68"
   }
 }
