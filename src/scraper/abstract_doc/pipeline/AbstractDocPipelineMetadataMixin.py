@@ -48,6 +48,8 @@ class AbstractDocPipelineMetadataMixin:
 
     @classmethod
     def scrape_all_metadata(cls, max_dt):
+        log.debug(f"BATCH_SIZE={cls.BATCH_SIZE}")
+        log.debug(f"MAX_THREADS={cls.MAX_THREADS}")
         t_start = time.time()
         docs = []
         dt = 0
