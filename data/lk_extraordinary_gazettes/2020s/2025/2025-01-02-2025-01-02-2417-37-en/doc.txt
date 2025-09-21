@@ -1,0 +1,35 @@
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1:176 of Block 04, contained in the Cadastral Map No. 810045, situated in the Village of Kumbalwella, within the Grama Niladhari Division of No. 96 Kumbalwella South in the Divisional Secretary's Division of Galle Four Gravets, in the District of Galle, in the Province of Southern, referred to in Notice calling for claims to land parcels which was duly published in the Gazette No. 2388/18 of 11th June, 2023 in terms of Section 55 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 19th December, 2024
+
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2417/37 - 2025 ජනවාරි මස 02 වැනි බහස්පතින්දා - 2025.01.02
+
+No. 2417/37 – THURSDAY, JANUARY 02, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 043402 - 04 (01/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.02 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 02.01.2025
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:176 0.0223 Kasun Anushka Bathanarachchi 198936503031 Full 1st Class – – No. 8/3 A, Heenpendala Road, Galle EOG 01 - 0022/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1:32 of Block 01, contained in the Cadastral Map No. 810022, situated in the Village of Deddugoda, within the Grama Niladhari Division of No. 101 C Deddugoda North in the Divisional Secretary's Division of Galle Four Gravets, in the District of Galle, in the Province of Southern, referred to in Notice calling for claims to land parcels which was duly published in the Gazette No. 2392/18 of 09th July, 2024 in terms of Section 55 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 19th December, 2024 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:32 0.0009 Nanayakkarawasam Nagahawatta 478562977V Full 1st Class – – Arachchige Amitha Priyani Nanayakkara No. 556/4, Hirimbura Road, Galle EOG 01 - 0022/2
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
