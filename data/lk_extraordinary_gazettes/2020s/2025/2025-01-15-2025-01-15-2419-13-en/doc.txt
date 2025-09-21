@@ -1,0 +1,219 @@
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2, 1 : 4, 1 : 5, 1 : 6, 1 : 8, 1 : 9, 1 : 11, 1 : 12, 1 : 14, 1 : 16, 1 : 17, 1 : 20, 1 : 21, 1 : 22, 1 : 23, 1 : 27, 1 : 28, 1 : 33, 1 : 35, 1 : 36, 1 : 37, 1 : 38, 1 : 39, 1 : 43, 1 : 44, 1 : 46, 1 : 50, 1 : 55, 1 : 56, 1 : 57, 1 : 58, 1 : 59, 1 : 61, 1 : 62, 1 : 66, 1 : 67, 1 : 68, 1 : 69, 1 : 73, 1 : 75, 1 : 78, 1 : 79, 1 : 85, 1 : 87, 1 : 88, 1 : 92 and 1 : 93 of Block 3, contained in the Cadastral Map No. 620503, situated in the Village of Bataediriya within the Grama Niladhari Division of No. 183B - Magurugoda in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0729 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2419/13 - 2025 ජනවාරි මස 15 වැනි බදාදා - 2025.01.15
+
+No. 2419/13 – WEDNESDAY, JANUARY 15, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 043469 - 04 (01/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:2 0.1695 The State Full 1st Class _ Land 1:4 0.2023 The State Full 1st Class _ Land 1:5 0.1345 The State Full 1st Class _ Land 1:6 0.0597 The State Full 1st Class _ Land 1:8 0.0719 The State Full 1st Class _ Land 1:9 0.2023 The State Full 1st Class _ Land 1:11 0.0398 The State Full 1st Class _ Land 1:12 0.1863 The State Full 1st Class _ Land 1:14 0.0100 The State Full 1st Class _ Land 1:16 0.1328 The State Full 1st Class _ Land 1:17 0.1941 The State Full 1st Class _ Land 1:20 0.2033 The State Full 1st Class _ Land 1:21 0.4120 The State Full 1st Class _ Land reserved For the access road 1:22 0.1644 The State Full 1st Class _ Land 1:23 0.1639 The State Full 1st Class _ Land 1:27 0.0229 The State Full 1st Class _ Land 1:28 0.0677 The State Full 1st Class _ Land 1:33 0.1959 The State Full 1st Class _ Land 1:35 0.0800 The State Full 1st Class _ Land 1:36 0.2023 The State Full 1st Class _ Land 1:37 0.1643 The State Full 1st Class _ Land 1:38 0.1982 The State Full 1st Class _ Land 1:39 0.1634 The State Full 1st Class _ Land 1:43 0.0469 The State Full 1st Class _ Land reserved For the access road 1:44 0.0205 The State Full 1st Class _ Land reserved For the access road 1:46 0.0986 The State Full 1st Class _ Land 1:50 0.2014 The State Full 1st Class _ Land 1:55 0.0332 The State Full 1st Class _ Land 1:56 0.1580 The State Full 1st Class _ Land 1:57 0.0459 The State Full 1st Class _ Land 1:58 0.0064 The State Full 1st Class _ Road 1:59 0.0111 The State Full 1st Class _ Land 1:61 0.0845 The State Full 1st Class _ Land 1:62 0.0599 The State Full 1st Class _ Land 1:66 0.0684 The State Full 1st Class _ Land 1:67 0.0791 The State Full 1st Class _ Land 1:68 0.0493 The State Full 1st Class _ Land 1:69 0.0098 The State _ Full 1st Class _ Land reserved For the access road 1:73 0.0437 The State Full 1st Class _ Land 1:75 0.0474 The State Full 1st Class _ Land 1:78 0.1290 The State Full 1st Class _ Land 1:79 0.1130 The State Full 1st Class _ Land 1:85 0.0470 The State Full 1st Class _ Land 1:87 0.0636 The State Full 1st Class _ Land
+
+3 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:88 0.0102 The State Full 1st Class _ Land reserved For the access road 1:92 0.0651 The State Full 1st Class _ Land 1:93 0.1026 The State Full 1st Class _ Land EOG 01 - 0126/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 16, 1 : 18, 1 : 28, 1 : 30, 1 : 31, 1 : 41, 1 : 48, 1 : 51, 1 : 52, 1 : 53, 1 : 55, 1 : 80, 1 : 81, 1 : 88, 1 : 89, 1 : 92, 1 : 93, 1 : 96, 1 : 98, 1 : 100, 1 : 104, 1 : 109, 1 : 112, 1 : 114, 1 : 118, 1 : 125, 1 : 132, 1 : 133, 1 : 134, 1 : 137, 1 : 138 and 1 : 139 of Block 4, contained in the Cadastral Map No. 620503, situated in the Village of Bataediriya within the Grama Niladhari Division of No. 183B - Magurugoda in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0748 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:16 0.1347 The State Full 1st Class _ Land 1:18 0.2079 The State Full 1st Class _ Land 1:28 0.0767 The State Full 1st Class _ Land 1:30 0.0440 The State Full 1st Class _ Foot Parth 1:31 0.3094 The State Full 1st Class _ Land 1:41 0.2679 The State Full 1st Class _ Land 1:48 0.1739 The State Full 1st Class _ Land 1:51 0.2023 The State Full 1st Class _ Land
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:52 0.2023 The State Full 1st Class _ Land 1:53 0.2023 The State Full 1st Class _ Land 1:55 0.0475 The State Full 1st Class _ Land 1:80 0.2185 The State Full 1st Class _ Land 1:81 0.1406 The State Full 1st Class _ Land 1:88 0.2023 The State Full 1st Class _ Land 1:89 0.2208 The State Full 1st Class _ Land 1:92 0.2023 The State Full 1st Class _ Land 1:93 0.0414 The State Full 1st Class _ Land 1:96 0.1374 The State Full 1st Class _ Land 1:98 0.4030 The State Full 1st Class _ Land 1:100 0.0418 The State Full 1st Class _ Land 1:104 0.0689 The State Full 1st Class _ Land 1:109 0.1998 The State Full 1st Class _ Land 1:112 0.2549 The State Full 1st Class _ Land 1:114 0.0932 The State Full 1st Class _ Land 1:118 0.0689 The State Full 1st Class _ Land 1:125 0.2703 The State Full 1st Class _ Land 1:132 0.2753 The State Full 1st Class _ Land 1:133 0.1851 The State Full 1st Class _ Land 1:134 0.0979 The State Full 1st Class _ Land 1:137 0.1188 The State Full 1st Class _ Land 1:138 0.1989 The State Full 1st Class _ Land 1:139 0.1858 The State Full 1st Class _ Land EOG 01 - 0126/2 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2, 1 : 3, 1 : 4, 1 : 5, 1 : 6, 1 : 10, 1 : 12, 1 : 14, 1 : 15, 1 : 16, 1 : 17, 1 : 18, 1 : 20, 1 : 21, 1 : 26, 1 : 29, 1 : 30, 1 : 33, 1 : 34, 1 : 35, 1 : 37, 1 : 39, 1 : 53, 1 : 60 and 1 : 82 of Block 1, contained in the Cadastral Map No. 620504, situated in the Village of Gagulwitiya within the Grama Niladhari Division of No. 183C - Gagulvitiya in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0739 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+5 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:2 0.1956 The State Full 1st Class _ Land 1:3 0.0273 The State Full 1st Class _ Land 1:4 0.0316 The State Full 1st Class _ Land 1:5 0.2023 The State Full 1st Class _ Land 1:6 0.0288 The State Full 1st Class _ Land reserved For the road 1:10 0.0756 The State Full 1st Class _ Land 1:12 0.0356 The State Full 1st Class _ Land 1:14 0.0205 The State _ Full 1st Class _ Land reserved For the road 1:15 0.2094 The State Full 1st Class _ Land 1:16 0.1780 The State Full 1st Class _ Land 1:17 0.0602 The State Full 1st Class _ Land reserved For the road 1:18 0.1461 The State Full 1st Class _ Land 1:20 0.0240 The State Full 1st Class _ Land 1:21 0.0289 The State Full 1st Class _ Land 1:26 0.3820 The State Full 1st Class _ Land 1:29 0.2022 The State Full 1st Class _ Land 1:30 0.0443 The State Full 1st Class _ Land 1:33 0.2023 The State Full 1st Class _ Land 1:34 0.0257 The State Full 1st Class _ Land reserved For the road 1:35 0.0452 The State Full 1st Class _ Land 1:37 0.1972 The State Full 1st Class _ Land 1:39 0.0273 The State Full 1st Class _ Land 1:53 0.1866 The State Full 1st Class _ Land 1:60 0.2006 The State Full 1st Class _ Land 1:82 0.2023 The State Full 1st Class _ Land EOG 01 - 0126//3
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 2, 1 : 4, 1 : 5, 1 : 7, 1 : 9, 1 : 10, 1 : 13, 1 : 14, 1 : 16, 1 : 19, 1 : 20, 1 : 21, 1 : 22, 1 : 23, 1 : 26, 1 : 30, 1 : 31, 1 : 32, 1 : 33, 1 : 34, 1 : 37, 1 : 41, 1 : 42, 1 : 43, 1 : 44, 1 : 45, 1 : 46, 1 : 47, 1 : 48, 1 : 49, 1 : 51, 1 : 52, 1 : 53, 1 : 55, 1 : 56, 1 : 57, 1 : 62, 1 : 63, 1 : 66, 1 : 69, 1 : 70, 1 : 71, 1 : 72, 1 : 74, 1 : 76, 1 : 77, 1 : 78, 1 : 79, 1 : 80, 1 : 81, 1 : 82, 1 : 83, 1 : 85, 1 : 86, 1 : 87, 1 : 88, 1 : 89, 1 : 90, 1 : 91, 1 : 92, 1 : 93, 1 : 94, 1 : 95, 1 : 96, 1 : 99, 1 : 102, 1 : 104, 1 : 106, 1 : 107, 1 : 108, 1 : 109, 1 : 110, 1 : 111, 1 : 112, 1 : 113, 1 : 115, 1 : 118, 1 : 119, 1 : 121, 1 : 122, 1 : 123, 1 : 125, 1 : 126, 1 : 127, 1 : 128, 1 : 129, 1 : 130, 1 : 131, 1 : 132, 1 : 134, 1 : 136, 1 : 138, 1 : 139, 1 : 141, 1 : 142, 1 : 144, 1 : 145, 1 : 146, 1 : 147, 1 : 151, 1 : 152, 1 : 157, 1 : 159 and 1 : 161 of Block 2, contained in the Cadastral Map No. 620504, situated in the Village of Gagulwitiya within the Grama Niladhari Division of No. 183C - Gagulvitiya in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0745
+
+6 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.1675 The State Full 1st Class _ Land 1:2 0.0538 The State Full 1st Class _ Land 1:4 0.0409 The State Full 1st Class _ Land 1:5 0.0412 The State Full 1st Class _ Land 1:7 0.0737 The State Full 1st Class _ Land 1:9 0.0654 The State Full 1st Class _ Land 1:10 0.0614 The State Full 1st Class _ Land 1:13 0.2034 The State Full 1st Class _ Land 1:14 0.0503 The State Full 1st Class _ Land 1:16 0.0457 The State Full 1st Class _ Land 1:19 0.0112 The State Full 1st Class _ Land 1:20 0.0728 The State Full 1st Class _ Land 1:21 0.0615 The State Full 1st Class _ Land 1:22 0.0605 The State Full 1st Class _ Land 1:23 0.0506 The State Full 1st Class _ Land 1:26 0.2205 The State Full 1st Class _ Land reserved For the pradeshiya Sabha road 1:30 0.0418 The State Full 1st Class _ Land 1:31 0.0528 The State Full 1st Class _ Land 1:32 0.1219 The State Full 2nd Class _ Land 1:33 0.0529 The State Full 1st Class _ Land 1:34 0.0599 The State Full 1st Class _ Land 1:37 0.4160 The State Full 1st Class _ Land 1:41 0.0501 The State Full 1st Class _ Land 1:42 0.0075 The State Full 1st Class _ Land 1:43 0.0081 The State _ Full 1st Class _ Land reserved For the access road 1:44 0.0241 The State _ Full 1st Class _ Land 1:45 0.0268 The State Full 1st Class _ Land 1:46 0.0114 The State Full 1st Class _ Land 1:47 0.0177 The State Full 1st Class _ Land 1:48 0.1220 The State Full 1st Class _ Land 1:49 0.1521 The State _ Full 1st Class _ Land reserved Along the Gangulvitiya Canal
+
+7 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:51 0.5537 The State _ Full 1st Class _ Land reserved Along the Gangulvitiya Canal 1:52 0.0951 The State Full 1st Class _ Land 1:53 0.0111 The State Full 1st Class _ Land 1:55 0.1024 The State Full 1st Class _ Land 1:56 0.0442 The State _ Full 1st Class _ Land 1:57 0.0578 The State Full 1st Class _ Land 1:62 0.0537 The State Full 1st Class _ Land 1:63 0.0798 The State Full 1st Class _ Land 1:66 0.0446 The State Full 1st Class _ Land 1:69 0.0541 The State _ Full 1st Class _ Land 1:70 0.0499 The State Full 1st Class _ Land 1:71 0.0650 The State Full 1st Class _ Land 1:72 0.0558 The State Full 1st Class _ Land 1:74 0.1179 The State Full 1st Class _ Land 1:76 0.0570 The State Full 1st Class _ Land 1:77 0.0032 The State Full 1st Class _ Land reserved For the access road 1:78 0.0589 The State Full 1st Class _ Land 1:79 0.0319 The State Full 1st Class _ Land 1:80 0.0356 The State Full 1st Class _ Land 1:81 0.0445 The State Full 1st Class _ Land 1:82 0.0506 The State Full 1st Class _ Land 1:83 0.0103 The State Full 1st Class _ Land 1:85 0.0508 The State Full 1st Class _ Land 1:86 0.0506 The State _ Full 1st Class _ Land 1:87 0.0086 The State Full 1st Class _ Land 1:88 0.0403 The State Full 1st Class _ Land 1:89 0.0231 The State Full 1st Class _ Land 1:90 0.0121 The State Full 1st Class _ Land 1:91 0.0159 The State Full 1st Class _ Land 1:92 0.1389 The State Full 1st Class _ Land 1:93 0.0296 The State Full 1st Class _ Land 1:94 0.0340 The State Full 1st Class _ Land 1:95 0.1323 The State Full 1st Class _ Road 1:96 0.1080 The State Full 1st Class _ Land reserved For the road 1:99 0.0803 The State Full 1st Class _ Land 1:102 0.0409 The State Full 1st Class _ Land 1:104 0.0380 The State Full 1st Class _ Land 1:106 0.0506 The State Full 1st Class _ Land 1:107 0.0723 The State Full 1st Class _ Land 1:108 0.0042 The State Full 1st Class _ Land reserved For the road 1:109 0.2747 The State _ Full 1st Class _ Land reserved For the Dola 1:110 0.0361 The State Full 1st Class _ Land 1:111 0.1391 The State _ Full 1st Class _ Land
+
+8 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:112 0.0461 The State Full 1st Class _ Land 1:113 0.0556 The State Full 1st Class _ Land 1:115 0.0163 The State Full 1st Class _ Land 1:118 0.0282 The State Full 1st Class _ Land 1:119 0.0166 The State Full 1st Class _ Land reserved For the access road 1:121 0.0533 The State Full 1st Class _ Land 1:122 0.0387 The State Full 1st Class _ Land 1:123 0.0394 The State Full 1st Class _ Land 1:125 0.0395 The State Full 1st Class _ Land 1:126 0.0292 The State Full 1st Class _ Land 1:127 0.0792 The State Full 1st Class _ Land 1:128 0.0388 The State Full 1st Class _ Land 1:129 0.0463 The State Full 1st Class _ Land 1:130 0.0365 The State Full 1st Class _ Land 1:131 0.0465 The State Full 1st Class _ Land 1:132 0.0670 The State Full 1st Class _ Land 1:134 0.0394 The State Full 1st Class _ Land 1:136 0.0276 The State Full 1st Class _ Land 1:138 0.0405 The State Full 1st Class _ Land 1:139 0.0230 The State Full 1st Class _ Land 1:141 0.0434 The State Full 1st Class _ Land 1:142 0.1258 The State _ Full 1st Class _ Forest and the Land with rocks 1:144 0.0252 The State Full 1st Class _ Land 1:145 0.0907 The State Full 1st Class _ The land reserved for common activities 1:146 0.0566 The State Full 1st Class _ forest and the Land with rocks 1:147 0.0463 The State Full 1st Class _ Land 1:151 0.0523 The State Full 1st Class _ Land 1:152 0.0118 The State Full 1st Class _ Land 1:157 0.0155 The State Full 1st Class _ Land 1:159 0.1770 The State Full 1st Class _ Land 1:161 0.0372 The State Full 1st Class _ Land EOG 01 - 0126/4 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2, 1 : 3, 1 : 7, 1 : 9, 1 : 12, 1 : 14, 1 : 17, 1 : 21, 1 : 22, 1 : 24, 1 : 28, 1 : 29, 1 : 30, 1 : 32, 1 : 36, 1 : 40, 1 : 45, 1 : 52, 1 : 54, 1 : 55, 1 : 63, 1 : 65, 1 : 66, 1 : 69, 1 : 76, 1 : 77 and 1 : 79 of Block 1, contained in the Cadastral Map No. 620506, situated in the Village of Pathagama within the Grama Niladhari Division of No. 184A - Weragama in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in
+
+9 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+the Province of Sabaragamuwa, referred to in Notice No. 62/0737 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 06th July, 2024 SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:2 0.5728 The State Full 1st Class _ Land reserved Along the paddadeniya Dola 1:3 0.0726 The State Full 1st Class _ Land 1:7 0.0615 The State Full 1st Class _ Land 1:9 0.0331 The State Full 1st Class _ Land 1:12 0.0333 The State Full 1st Class _ Land 1:14 0.0125 The State Full 1st Class _ Land 1:17 0.1204 The State Full 1st Class _ Land 1:21 0.0316 The State Full 1st Class _ Land 1:22 0.2094 The State Full 1st Class _ Access Road 1:24 0.0696 The State Full 1st Class _ Land 1:28 0.0161 The State Full 1st Class _ Land 1:29 0.0457 The State Full 1st Class _ Land 1:30 0.0317 The State Full 1st Class _ Land 1:32 0.2004 The State Full 1st Class _ Land 1:36 0.0700 The State Full 1st Class _ Canal 1:40 0.0308 The State Full 1st Class _ Land 1:45 0.0438 The State Full 1st Class _ Land 1:52 0.1572 The State Full 1st Class _ Land 1:54 0.1054 The State Full 1st Class _ Access Road 1:55 0.2010 The State Full 1st Class _ Land 1:63 0.1643 The State Full 1st Class _ Land 1:65 0.0206 The State Full 1st Class _ Land 1:66 0.2023 The State Full 1st Class _ Land 1:69 0.0187 The State Full 1st Class _ Land 1:76 0.0286 The State Full 1st Class _ Land 1:77 0.0067 The State Full 1st Class _ Land 1:79 0.1871 The State Full 1st Class _ Land EOG 01 - 0126/5
+
+10 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 2, 1 : 3, 1 : 4, 1 : 5, 1 : 8, 1 : 10, 1 : 18, 1 : 23, 1 : 36, 1 : 37, 1 : 39, 1 : 45, 1 : 50, 1 : 52, 1 : 53 and 1 : 54 of Block 2, contained in the Cadastral Map No. 620506, situated in the Village of Pathagama within the Grama Niladhari Division of No. 184A - Weragama in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0726 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.2189 The State Full 1st Class _ Mahadola 1:2 0.5336 The State Full 1st Class _ Land reserved Along the Canal And Mahadola 1:3 0.4709 The State Full 1st Class _ Road 1:4 0.1459 The State Full 1st Class _ Canal 1:5 0.4674 The State Full 1st Class _ Land reserved Along the Canal 1:8 0.3539 The State Full 1st Class _ Land reserved Along the Canal 1:10 0.0041 The State Full 1st Class _ Land reserved For the access road 1:18 0.1880 The State Full 1st Class _ Road 1:23 0.0269 The State Full 1st Class _ Land reserved For the access road 1:36 0.0694 The State Full 1st Class _ Canal 1:37 0.0989 The State Full 1st Class _ Land reserved Along the Canal 1:39 0.0164 The State Full 1st Class _ Land reserved For the access road 1:45 0.0478 The State _ Full 1st Class _ Land reserved For the access road 1:50 0.0031 The State Full 1st Class _ Road 1:52 0.0205 The State Full 1st Class _ Land reserved Along the Gorokgahahena Canal 1:53 0.0070 The State Full 1st Class _ Canal 1:54 0.0136 The State Full 1st Class _ Land reserved Along the Gorokgahahena Canal EOG 01 - 0126/6
+
+11 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 8, 1 : 17, 1 : 18, 1 : 19, 1 : 35, 1 : 37, 1 : 39, 1 : 40, 1 : 60, 1 : 63, 1 : 75 and 1 : 79 of Block 1, contained in the Cadastral Map No. 620509, situated in the Village of Palawela within the Grama Niladhari Division of No. 184D - Palawela in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0752 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:8 0.1287 The State Full 1st Class _ Scrub Jungle 1:17 0.6269 The State Full 1st Class _ Land 1:18 0.0631 The State Full 1st Class _ Land 1:19 0.0676 The State Full 1st Class _ Land 1:35 0.4221 The State Full 1st Class _ Land 1:37 0.1145 The State Full 1st Class _ Land 1:39 0.0935 The State Full 1st Class _ Land 1:40 0.6950 The State Full 1st Class _ Land 1:60 0.1049 The State Full 1st Class _ Land 1:63 0.1535 The State Full 1st Class _ Land 1:75 0.2231 The State Full 1st Class _ Scrub Jungle 1:79 0.2203 The State Full 1st Class _ Land EOG 01 - 0126/7 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 117 and 1 : 118 of Block 1, contained in the Cadastral Map No. 620510, situated in the Village of Elapatha within the Grama Niladhari Division of No. 185 - Elapatha in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0750 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+12 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:117 0.0007 The State Full 1st Class _ Land 1:118 0.0004 The State Full 1st Class _ Land EOG 01 - 0126/8 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 2, 1 : 5, 1 : 7, 1 : 9, 1 : 12, 1 : 14, 1 : 17, 1 : 18, 1 : 22, 1 : 23, 1 : 27, 1 : 29, 1 : 32, 1 : 34, 1 : 37, 1 : 40, 1 : 42, 1 : 45, 1 : 49, 1 : 50, 1 : 51, 1 : 54, 1 : 56, 1 : 57, 1 : 59 and 1 : 62 of Block 2, contained in the Cadastral Map No. 620510, situated in the Village of Elapatha within the Grama Niladhari Division of No. 185 - Elapatha in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0751 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.1441 The State Full 1st Class _ Land 1:2 0.2023 The State _ Full 1st Class _ Land 1:5 0.0310 The State Full 1st Class _ Land 1:7 0.0828 The State Full 1st Class _ Land 1:9 0.0155 The State Full 1st Class _ Land 1:12 0.0282 The State Full 1st Class _ Land 1:14 0.0438 The State Full 1st Class _ Land 1:17 0.0532 The State Full 1st Class _ Land 1:18 0.1320 The State Full 1st Class _ Land 1:22 0.0079 The State Full 1st Class _ Land 1:23 0.0473 The State Full 1st Class _ Land
+
+13 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:27 0.2074 The State Full 1st Class _ Land 1:29 0.2026 The State Full 1st Class _ Land 1:32 0.1003 The State Full 1st Class _ Land 1:34 0.0181 The State Full 1st Class _ Land 1:37 0.0743 The State Full 1st Class _ Land 1:40 0.0326 The State Full 1st Class _ Land 1:42 0.0146 The State Full 1st Class _ Land 1:45 0.1757 The State Full 1st Class _ Land 1:49 0.0909 The State Full 1st Class _ Land 1:50 0.1297 The State Full 1st Class _ Land 1:51 0.0585 The State _ Full 1st Class _ Land 1:54 0.0245 The State Full 1st Class _ Land 1:56 0.1347 The State Full 1st Class _ Land 1:57 0.0483 The State Full 1st Class _ Land 1:59 0.0168 The State Full 1st Class _ Land 1:62 0.0238 The State _ Full 1st Class _ Land EOG 01 - 0126/9 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 12, 1 : 37, 1 : 77, 1 : 83, 1 : 84, 1 : 86 and 1 : 87 of Block 1, contained in the Cadastral Map No. 620511, situated in the Village of Elapatha within the Grama Niladhari Division of No. 185A - Pallegedara in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0727 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+14 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:12 0.0633 The State Full 1st Class _ Land 1:37 0.0845 The State _ Full 1st Class _ Land 1:77 0.0158 The State Full 1st Class _ Land 1:83 0.0277 The State Full 1st Class _ Land 1:84 0.1450 The State Full 1st Class _ Land 1:86 0.0598 The State _ Full 1st Class _ Land 1:87 0.0839 The State Full 1st Class _ Land EOG 01 - 0126/10 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 2, 1 : 3, 1 : 4, 1 : 5, 1 : 12, 1 : 17, 1 : 18, 1 : 19, 1 : 22, 1 : 25, 1 : 37, 1 : 41, 1 : 43, 1 : 44, 1 : 66, 1 : 69, 1 : 71, 1 : 73, 1 : 79, 1 : 90, 1 : 92 and 1 : 102 of Block 2, contained in the Cadastral Map No. 620511, situated in the Village of Elapatha within the Grama Niladhari Division of No. 185A - Pallegedara in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0725 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.0087 The State Full 1st Class _ Land reserved Along the Canal 1:2 0.0135 The State Full 1st Class _ Canal 1:3 0.0720 The State Full 1st Class _ Land reserved Along the Canal 1:4 0.0035 The State Full 1st Class _ Canal
+
+15 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet No. Class and regarding if and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:5 0.0023 The State Full 1st Class _ Land reserved Along the Canal 1:12 0.0379 The State Full 1st Class _ Road 1:17 0.0258 The State Full 1st Class _ Road 1:18 0.0827 The State _ Full 1st Class _ Pradeshiya Sabha Road 1:19 0.0070 The State Full 1st Class _ Road 1:22 0.2194 The State Full 1st Class _ Pradeshiya Sabha Road 1:25 0.0230 The State Full 1st Class _ Road 1:37 0.0507 The State Full 1st Class _ Road 1:41 0.1342 The State Full 1st Class _ Road 1:43 0.0259 The State Full 1st Class _ Road 1:44 0.0387 The State _ Full 1st Class _ Land reserved For the access road 1:66 0.0153 The State Full 1st Class _ the digged drain 1:69 0.0343 The State Full 1st Class _ Road 1:71 0.0115 The State Full 1st Class _ the digged drain 1:73 0.0149 The State Full 1st Class _ Road 1:79 0.0405 The State _ Full 1st Class _ Land reserved For the access road 1:90 0.0088 The State Full 1st Class _ Road 1:92 0.1017 The State Full 1st Class _ Road 1:102 0.0170 The State _ Full 1st Class _ Land reserved For the access road EOG 01 - 0126/11 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 8, 1 : 13, 1 : 15, 1 : 16, 1 : 18, 1 : 22, 1 : 23, 1 : 25, 1 : 30, 1 : 33, 1 : 44, 1 : 45, 1 : 46, 1 : 51, 1 : 60, 1 : 66, 1 : 67, 1 : 77 and 1 : 78 of Block 1, contained in the Cadastral Map No. 620512, situated in the Village of Amuwala within the Grama Niladhari Division of No. 185B - Amuwala in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0744 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+16 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:8 0.0649 The State Full 1st Class _ Land 1:13 0.2163 The State Full 1st Class _ Road 1:15 0.0270 The State Full 1st Class _ Land 1:16 0.0014 The State Full 1st Class _ Land 1:18 0.0956 The State _ Full 1st Class _ Road 1:22 0.0623 The State Full 1st Class _ Land 1:23 0.0294 The State Full 1st Class _ Land 1:25 0.2022 The State Full 1st Class _ Land 1:30 0.0069 The State Full 1st Class _ Road 1:33 0.0152 The State Full 1st Class _ Land 1:44 0.2023 The State Full 1st Class _ Land 1:45 0.0446 The State Full 1st Class _ Land 1:46 0.5550 The State Full 1st Class _ Land 1:51 0.0244 The State Full 1st Class _ Land 1:60 0.0215 The State Full 1st Class _ Land 1:66 0.0173 The State Full 1st Class _ Land 1:67 0.0178 The State Full 1st Class _ Land 1:77 0.0068 The State Full 1st Class _ Land 1:78 0.0322 The State Full 1st Class _ Land EOG 01 - 0126/12 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2, 1 : 5, 1 : 13, 1 : 19, 1 : 20, 1 : 33, 1 : 43, 1 : 46, 1 : 50, 1 : 54, 1 : 56, 1 : 74, 1 : 77, 1 : 78, 1 : 89 and 1 : 97 of Block 2, contained in the Cadastral Map No. 620519, situated in the Village of Dambuluwana within the Grama Niladhari Division of No. 189 - Dambuluwana in the Divisional Secretary's Division of Elapatha, in the District of Ratnapura, in the Province of Sabaragamuwa, referred to in Notice No. 62/0736 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 06th July, 2024.
+
+17 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.01.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:2 0.0511 The State Full 1st Class _ Land 1:5 0.0747 The State Full 1st Class _ Land 1:13 0.1160 The State Full 1st Class _ Land 1:19 0.2820 The State Full 1st Class _ Land 1:20 0.3584 The State Full 1st Class _ Land 1:33 0.0616 The State Full 1st Class _ Land 1:43 0.1131 The State Full 1st Class _ Land 1:46 0.1698 The State Full 1st Class _ Land 1:50 0.1038 The State Full 1st Class _ Land 1:54 0.3288 The State Full 1st Class _ Land 1:56 0.0040 The State _ Full 1st Class _ Water Way 1:74 0.0405 The State Full 1st Class _ Land 1:77 0.2804 The State Full 1st Class _ Land 1:78 0.0089 The State Full 1st Class _ Land 1:89 0.0790 The State Full 1st Class _ Land 1:97 0.1146 The State Full 1st Class _ Land EOG 01 - 0126/13
