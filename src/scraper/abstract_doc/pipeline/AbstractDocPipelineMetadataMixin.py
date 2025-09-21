@@ -43,6 +43,9 @@ class AbstractDocPipelineMetadataMixin:
             doc_batch,
             max_threads=cls.MAX_THREADS,
         )
+        processed_doc_list = [
+            doc for doc in processed_doc_list if doc is not None
+        ]
 
         return processed_doc_list
 
