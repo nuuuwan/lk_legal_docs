@@ -35,7 +35,8 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         return os.path.join(self.dir_doc, "blocks.json")
 
     def extract_blocks(self):
-        assert os.path.exists(self.pdf_path)
+        if not os.path.exists(self.pdf_path):
+            return
         pdf_file = PDFFile(self.pdf_path)
         blocks = pdf_file.get_blocks()
         JSONFile(self.blocks_path).write(blocks)
@@ -46,7 +47,8 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         log.info(f"Wrote {self.doc_readme_path}")
 
     def get_blocks(self):
-        assert os.path.exists(self.blocks_path)
+        if not os.path.exists(self.blocks_path):
+            return []
         return JSONFile(self.blocks_path).read()
 
     def extract_text(self):  # overrides AbstractDocTextMixin

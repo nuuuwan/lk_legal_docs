@@ -1,4 +1,5 @@
 import time
+from multiprocessing import cpu_count
 
 from utils import Log, Parallel
 
@@ -6,8 +7,8 @@ log = Log("AbstractDocPipelineMetadataMixin")
 
 
 class AbstractDocPipelineMetadataMixin:
-    BATCH_SIZE = 4
-    MAX_THREADS = 4
+    BATCH_SIZE = 32
+    MAX_THREADS = min(4, cpu_count())
 
     @staticmethod
     def __log_processed_doc__(docs, dt):
