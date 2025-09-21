@@ -3,7 +3,7 @@
 
 from scraper.abstract_doc import (AbstractDoc, AbstractDocBase,
                                   AbstractDocBasePathsMixin,
-                                  AbstractDocChartDocsByYearMixin,
+                                  AbstractDocChartDocsByTimeAndLangMixin,
                                   AbstractDocGeneratorMixin,
                                   AbstractDocGlobalReadMeMixin,
                                   AbstractDocHuggingFaceMixin,

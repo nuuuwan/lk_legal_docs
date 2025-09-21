@@ -61,16 +61,37 @@ class AbstractDocMetadataMixin:
         }
 
     @classmethod
-    def get_year_to_lang_to_n(cls):
+    def get_best_time_unit(cls) -> str:
+        doc_list = cls.list_all()
+        for time_unit in ["decade", "year", "month", "day"]:
+            ts_list = [doc.get_ts(time_unit) for doc in doc_list]
+            n = len(set(ts_list))
+            if n > 5:
+                return time_unit
+        return "year"
+
+    def get_ts(self, time_unit: str) -> str:
+        ts = {
+            "decade": self.date_str[:3] + "0s",
+            "year": self.date_str[:4],
+            "month": self.date_str[:7],
+            "day": self.date_str[:10],
+        }.get(time_unit, None)
+        if ts is None:
+            raise ValueError(f"Invalid time_unit: {time_unit}")
+        return ts
+
+    @classmethod
+    def get_ts_to_lang_to_n(cls, time_unit: str):
         idx = {}
         for doc in cls.list_all():
-            year = doc.date_str[:4]
+            ts = doc.get_ts(time_unit)
             lang = doc.lang
-            if year not in idx:
-                idx[year] = {}
-            if lang not in idx[year]:
-                idx[year][lang] = 0
-            idx[year][lang] += 1
+            if ts not in idx:
+                idx[ts] = {}
+            if lang not in idx[ts]:
+                idx[ts][lang] = 0
+            idx[ts][lang] += 1
         return idx
 
     @classmethod
