@@ -25,8 +25,9 @@ class AbstractDocTextMixin:
         return os.path.join(self.dir_doc, "README.md")
 
     def extract_text(self):
-        File(self.text_path).write(self.text_from_metadata)
-        log.info(f"Wrote {self.text_path}")
+        if not self.has_text:
+            File(self.text_path).write(self.text_from_metadata)
+            log.info(f"Wrote {self.text_path}")
 
     def get_text(self):
         if not os.path.exists(self.text_path):

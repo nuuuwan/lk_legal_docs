@@ -57,7 +57,6 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         content = "\n\n".join(text_list)
         File(self.text_path).write(content)
         log.info(f"Wrote {self.text_path}")
-
         File(self.doc_readme_path).write(content)
         log.info(f"Wrote {self.doc_readme_path}")
 
@@ -67,8 +66,17 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         if not self.has_pdf:
             self.download_pdf()
 
-        if not os.path.exists(self.blocks_path):
-            self.extract_blocks()
+        if self.has_pdf:
+            if not os.path.exists(self.blocks_path):
+                self.extract_blocks()
 
-        if not os.path.exists(self.text_path):
-            self.extract_text()
+            if os.path.exists(self.blocks_path) and not os.path.exists(
+                self.text_path
+            ):
+                self.extract_text()
+        else:
+            # HACK cleanup
+            if os.path.exists(self.blocks_path):
+                os.remove(self.blocks_path)
+            if os.path.exists(self.text_path):
+                os.remove(self.text_path)
