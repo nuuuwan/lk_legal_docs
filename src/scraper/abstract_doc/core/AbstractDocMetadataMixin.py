@@ -11,6 +11,7 @@ log = Log("AbstractDocMetadataMixin")
 
 
 class AbstractDocMetadataMixin:
+    MAX_X_LABELS = 5
 
     def to_dict(self) -> dict:
         return dict(
@@ -66,7 +67,7 @@ class AbstractDocMetadataMixin:
         for time_unit in ["decade", "year", "month", "day"]:
             ts_list = [doc.get_ts(time_unit) for doc in doc_list]
             n = len(set(ts_list))
-            if n > 5:
+            if n >= cls.MAX_X_LABELS:
                 return time_unit
         return "year"
 
