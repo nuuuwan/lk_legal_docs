@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_12:01:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_12:59:40-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**100,968** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**16.8 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**100,978** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**16.8 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -45,20 +45,20 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-09-18 | `2025-09-18-2454-54-ta` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-ta)
 - 2025-09-18 | `2025-09-18-2454-54-si` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-si)
 - 2025-09-18 | `2025-09-18-2454-54-en` | Public Service Commission Minute of the Sri Lanka Principals Service 5th Amendemt | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-54-en)
+- 2025-09-18 | `2025-09-18-2454-53-ta` | Public Utilities Commission of S/L Issuance of Certificate of Exemption S.L.A.M. Power Solutions (Pvt) Ltd | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-53-ta)
+- 2025-09-18 | `2025-09-18-2454-53-si` | Public Utilities Commission of S/L Issuance of Certificate of Exemption S.L.A.M. Power Solutions (Pvt) Ltd | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-53-si)
+- 2025-09-18 | `2025-09-18-2454-53-en` | Public Utilities Commission of S/L Issuance of Certificate of Exemption S.L.A.M. Power Solutions (Pvt) Ltd | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-53-en)
+- 2025-09-18 | `2025-09-18-2454-52-ta` | Public Utilities Commission of Sri Lanka- Issuance of Certificate of Exemption 06 Companies | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-52-ta)
+- 2025-09-18 | `2025-09-18-2454-52-si` | Public Utilities Commission of Sri Lanka- Issuance of Certificate of Exemption 06 Companies | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-52-si)
+- 2025-09-18 | `2025-09-18-2454-52-en` | Public Utilities Commission of Sri Lanka- Issuance of Certificate of Exemption 06 Companies | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-18-2025-09-18-2454-52-en)
+- 2025-09-17 | `2025-09-17-2454-39-ta` | Ministry of Education - Universities Act,No 16 of 1978 Degree Awarding Institute Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-39-ta)
+- 2025-09-17 | `2025-09-17-2454-39-si` | Ministry of Education - Universities Act,No 16 of 1978 Degree Awarding Institute Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-39-si)
+- 2025-09-17 | `2025-09-17-2454-39-en` | Ministry of Education - Universities Act,No 16 of 1978 Degree Awarding Institute Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-39-en)
+- 2025-09-17 | `2025-09-17-2454-38-ta` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-ta)
 - 2025-09-17 | `2025-09-17-2454-38-si` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-si)
 - 2025-09-17 | `2025-09-17-2454-38-en` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-en)
 - 2025-09-17 | `2025-09-17-2454-35-si` | Governor's Office -western Province - Delegation of Powers under Co-operative Secietries | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-35-si)
 - 2025-09-17 | `2025-09-17-2454-35-en` | Governor's Office -western Province - Delegation of Powers under Co-operative Secietries | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-35-en)
-- 2025-09-16 | `2025-09-16-2454-24-si` | Land Title Settlement Dept. - Owitigama, Homagama D/S Division, Colombo District (25/415) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-16-2025-09-16-2454-24-si)
-- 2025-09-16 | `2025-09-16-2454-24-en` | Land Title Settlement Dept. - Owitigama, Homagama D/S Division, Colombo District (25/415) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-16-2025-09-16-2454-24-en)
-- 2025-09-15 | `2025-09-15-2454-13-ta` | 2454/13 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-13-ta)
-- 2025-09-15 | `2025-09-15-2454-13-si` | 2454/13 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-13-si)
-- 2025-09-15 | `2025-09-15-2454-13-en` | 2454/13 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-13-en)
-- 2025-09-15 | `2025-09-15-2454-05-si` | Land Title Settlement Dept. - Veediyawatta, Minuwangoda D/S Division, Gampha District (7850) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-05-si)
-- 2025-09-15 | `2025-09-15-2454-05-en` | Land Title Settlement Dept. - Veediyawatta, Minuwangoda D/S Division, Gampha District (7850) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-05-en)
-- 2025-09-15 | `2025-09-15-2454-04-si` | M/of Industry and Enterprenurship Development- Appointed Additional Secretary (Industrial Development) of the Ministry of Industry and Enterpreneurship Development | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-04-si)
-- 2025-09-15 | `2025-09-15-2454-04-en` | M/of Industry and Enterprenurship Development- Appointed Additional Secretary (Industrial Development) of the Ministry of Industry and Enterpreneurship Development | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-04-en)
-- 2025-09-15 | `2025-09-15-2454-01-si` | Sri Lanka Customs Rates of Exchange W.E.F. 15.09.2025 to 21.09.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-15-2025-09-15-2454-01-si)
 
 ---
 
