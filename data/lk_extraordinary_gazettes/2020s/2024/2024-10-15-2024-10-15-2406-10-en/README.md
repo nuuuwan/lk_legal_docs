@@ -1,0 +1,115 @@
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 67, 1 : 87 and 1 : 119 of Block 1, contained in the Cadastral Map No. 810181, situated in the Village of Hapugala within the Grama Niladhari Division of No. 123 Hapugala in the Divisional Secretary's Division of Bope-Poddala, in the District of Galle, in the Province of Southern, referred to in Notice No. 81/0340 calling for claims to land parcels which was duly published in the Gazette No. 2371/37 of 15th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st August, 2024
+
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2406/10 - 2024 ඔක්ෙතෝබර් මස 15 වැනි අඟහරුවාදා - 2024.10.15
+
+No. 2406/10 – TUESDAY, OCTOBER 15, 2024
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 042889 - 04 (10/2024)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:67 0.0240 Sarangu Hewage Dilini Niroshika 197553802493 Full 1st Class With the right _ V.I.P. Resident, to access with Mount Pleasant Waththa, Hapugala servitude of parcel No 1:14 and 1:61 and with other rights with servitude 1:87 0.4044 Kasthuri Arachchige Chaminda 721171132V Full 1st Class _ _ Pushparuwan Jayadewa No. 249 E/2, Mount Pleasant Waththa, Hapugala,Wakwella. 1:119 0.0257 Thushari Dilrukshi Kanakarathne 826094516V Full 1st Class With the right _ 163/A/1, Kohombangewaththa, to access with Navinna Road, Uluvitike, Galle. Servitude of Parcel No.1:14 and 1:61 with other rights
+
+with servitude
+
+With the servitude of Drain of parcel No. 1:120 Subject to the mortgage No.112 and 20.06.2022 Dated to the National Savings Bank EOG 10 - 0126/1
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 2, 1 : 58, 1 : 59, 1 : 82, 1 : 84, 1 : 85, 1 : 86, 1 : 87, 1 : 100, 1 : 107, 1 : 110, 1 : 130, 1 : 144 and 1 : 155 of Block 3, contained in the Cadastral Map No. 810181, situated in the Village of Hapugala within the Grama Niladhari Division of No. 123 Hapugala in the Divisional Secretary's Division of Bope-Poddala, in the District of Galle, in the Province of Southern, referred to in Notice No. 81/0336 calling for claims to land parcels which was duly published in the Gazette No. 2371/37 of 15th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st August, 2024
+
+3 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:2 0.0269 Migunthanna 195611002910 Full 1st Class With the right _ Karuyakaranage Kumaradasa to access with 53 A, Darlington Waththa, Hapugala servitude of Parcel No. 810181/04/1:1 1:58 0.1089 Rathnayaka Mudiyanselage 848502111V Full 1st Class Subject to the _ Nelummani Chandimala life interest of Pitamagoda, Hiniduma. Halvitigala Ihala Gamage Hariyet 1:59 0.1061 Mallika Weerasinghe 195855300859 Full 1st Class With the right _ No.142/656, Mount Pleasant to access with Waththa, Hapugala, Wakwella. servitude of parcel No. 1:54 Subject to the mortgage No.215 22.01.1990 dated, No.75 and 01.06.1998 dated, No.604 and 23.04.2001 dated, No.1690 and 30.10.2007 dated, No.2467 and 02.11.2010 dated, No.4099 and 11.01.2017 dated to the Bank Ceylon 1:82 0.0535 Wehalla Mudalige Susila Nandani 675830070V Full 1st Class With the right _ No.37, "Deemantha", to access with Mount Pleasant Waththa, Hapugala servitude of Parcel No. 1:54 Subject to the mortgage No.4659 and 21.08.2014 and No.7941 and 09.09.2018 dated to the Peoples Bank 1:84 0.0599 Paranamana Hemalatha other Name 486790490V Full 1st Class _ _ Paranamana Krishna Hemalatha No.576/193, Mount Pleasant Waththa, Hapugala,Wakwella. 1:85 0.0504 Kariyawasam Patuwatha Vithanage 523533886V Full 1st Class _ _ Sunil De Silva No.576/153, Mount Pleasant Waththa, Hapugala, Wakwella.
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:86 0.0512 Wehalla Mudalige Susila Nandani 675830070V Full 1st Class With the right _ No.37, "Deemantha", to access with Mount Pleasant Waththa, Hapugala servitude of parcel No. 1:154 Subject to the mortgage No.4659 and 21.08.2014 and No.7941 and 09.09.2018 dated to the Peoples Bank 1:87 0.0485 Nanayakkara Aparakkage Sirisena 195525110111 Full 1st Class With the right _ No.573/144, Mount Pleasant, to access with Hapugala servitude of parcel No. 1:54 1:100 0.0207 Mabarana Arachchige Karunawathi 565950770V Full 1st Class _ _ No. 70, Darlington Waththa, Hapugala. 1:107 0.0498 Urala Gamage Chandrarathne 196025300671 Full 1st Class Appointing the 100, Mount Pleasant Waththa, divisional Secretary of Hapugala, four Gravets Galle Wakwella. As the irrevocable holder of power of Attorney with The right to access with servitude and Various servitudes of parcel No.1:54 1:110 0.0509 Kariyawasam Patuwatha Vithanage 523533886V Full 1st Class With the right _ Sunil De Silva to access with No.576/153, Mount Pleasant servitude of Waththa, Hapugala, Wakwella. Parcel No. 1:109 1:130 0.0476 Mapalagama Himiduma Acharige 937332360V Full 1st Class _ _ Dinusha Milakshi No.576/146, Mount Pleasant Waththa, Hapugala, Wakwella. 1:144 0.0916 Masinachchi Kankanamalage 196452503566 Full 1st Class _ _ Chithrangani Manel Gunawardhana No.48, Mount Pleasant, Hapugala,Wakwella. 1:155 0.0818 Gurugamage Leelarathne 196405000883 Full 1st Class _ _ Darlington Waththa, Hapugala, Wakwella. EOG 10 - 0126/2
+
+5 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 37, 1 : 38, 1 : 41, 1 : 59, 1 : 83, 1 : 88, 1 : 108, 1 : 115 and 1 : 120 of Block 4, contained in the Cadastral Map No. 810181, situated in the Village of Hapugala within the Grama Niladhari Division of No. 123 Hapugala in the Divisional Secretary's Division of Bope-Poddala, in the District of Galle, in the Province of Southern, referred to in Notice No. 81/0337 calling for claims to land parcels which was duly published in the Gazette No. 2371/37 of 15th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st August, 2024 SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:37 0.0495 Tharindu Dharshana Gamage 198428200570 Full 1st Class With the right _ No. 241, Darlington Waththa, to access with Hapugala, Wakwella. Servitude of Parcel No.2:1 Subject to the Life interest of Nambukara Wasam Mapalagama Gamage Athula Saman Kumara and Galhenakanda Kankanige Yamuna Darshani Perera 1:38 0.0551 Tharindu Dharshana Gamage 198428200570 Full 1st Class With the right _ No. 241, Darlington Waththa, to access with Hapugala, Servitude of Wakwella. Parcel No. 2:1 and 1:47 Subject to the Life interest of Nambukara Wasam Mapalagama Gamage Athula Saman Kumara and Galhenakanda Kankanige Yamuna Darshani Perera 1:41 0.0501 Walakada Gamage Priyantha Ranjith 770871190V Full 1st Class With the right _ Shripathi, Ambalama Kanda, to access with Kapuhempala,Akmeemana. Servitude of Parcel No.1:1 Caveat injunction Valid up to 24.06.2025
+
+6 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:59 0.0537 Mawelle Vithanage Rathna 708462438V Full 1st Class _ _ Kumari Manel Ajanthawa, Darlington Waththa, Hapugala,Wakwella. 1:83 0.0511 Baddegama Ganithage Chithrasili 675990042V Full 1st Class Subject to the _ Darlington Waththa, Hapugala, Non compensation Wakwella. Agreement No. 700 and 13.10.2021 Made with Pradeshiya Sabha Bope –poddela 1:88 0.0736 Gardi Hewawasam 196581310024 Full 1st Class With the all _ Dodamgodage Indrani rights of State Timber Corporation Road, Servitude of Keppetipola, Welimada. Parcel No. 1:1 1:108 0.0509 Vithanage Bandupriya Chandarasena 195735200831 Full 1st Class _ _ No. 14, Darlington Waththa, Hapugala, Wakwella. 1:115 0.0192 Yaddehi Kapila Ariyalal De Silva 640723297V Full 1st Class With the right _ No.07,Kingston Park, Wakwella to access with Road, Hapugala. servitude of Parcel No. 1:116 with other rights
+
+with servitude
+
+1:120 0.0192 Yaddehi Kapila Ariyalal De Silva 640723297V Full 1st Class With the right _ No.07,Kingston Park, Wakwella to access with Road, Hapugala. servitude of Parcel No. 1:116 with other rights
+
+with servitude
+
+EOG 10 - 0126/3 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 21, 1 : 96, 2 : 10, 2 : 24, 2 : 27, 2 : 28 and 2 : 51 of Block 1, contained in the Cadastral Map No. 810194, situated in the Village of Hirimbura within the Grama Niladhari Division of No. 127 A Hirimburagama in the Divisional Secretary's Division of Bope-Poddala, in the District of Galle, in the Province of Southern, referred to in Notice No. 81/0339 calling for claims to land parcels which was duly published in the Gazette No. 2371/37 of 15th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C.D.Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st August, 2024
+
+7 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:21 0.0515 Hettimuni Susil Thilakasiri 195729903140 Full 1st Class With the right _ De Silva to access with No.29, Udumulla Waththa, servitude of Baddhegama Road, Parcel no. 1:27 Hiribura,Galle. 1:96 0.0379 Kamalawathi Kodikara 195883710049 Full 1st Class With the right _ No. 91B, Deegala Juntion, to access with Maramba, Akurassa. Servitude of parcel No.1:100 and all servitudes 2:10 0.1793 Don Kavinda Kushan Koshala 890755194V Full 1st Class _ _ Wickramasinghe Kosala, Baddegama, Hiribura Road, Galle. 2:24 0.0441 Faranseekku Baduge Gnagnarathne 195930304909 Full 1st Class With the right _ other Name Faranseekku Baduge to access with Gnagnarathne Servitude of No. 39/24, Pathum Uyana, parcel No. Baddegama Road, Galle. 2:26,2:35,2:56 and all servitudes 2:27 0.0466 Pemarathne Samarasinghe 532590426V Full 1st Class With the right _ Gunawardhana to access with No. 26 D, Pathum Uyana, Parcel No. Baddhegama Road, Hiribura,Galle. 2:26,2:35,2:56 with other rights with servitude 2:28 0.0439 Vanisiya Malkanthi Boralassa 195851001575 Full 1st Class With the right _ No. 22/39, Pathum Uyana, to access with Baddhegama Road, Hiribura. servitude of Parcel No. 2:22, 2:26, 2:35, 2:56 _ with other rights with servitude 2:51 0.0916 Yatamalagama Gamage Harichchandra 671630661V Full 1st Class Subject to the _ No.29/A, Baddhegama Road, mortgage No.8685 and Hiribura, Galle. 2020-06-15 dated, No.11592 and 15.02.2016 dated, No.4132 and 15.07.2013 dated, No.5548 and 27.05.2015 dated, No.1703 and 05.10.2007 dated to the Peoples Bank EOG 10 - 0126/4
+
+8 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2024.10.15 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.10.2024
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 4, 1 : 31, 1 : 77 and 1 : 155 of Block 2, contained in the Cadastral Map No. 810194, situated in the Village of Hirimbura within the Grama Niladhari Division of No. 127 A Hirimburagama in the Divisional Secretary's Division of Bope-Poddala, in the District of Galle, in the Province of Southern, referred to in Notice No. 81/0338 calling for claims to land parcels which was duly published in the Gazette No. 2371/37 of 15th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C.D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st August, 2024 SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No.and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.1077 Bataduwe Kiringodage Chandrasiri 195104203550 Full 1st Class _ _ Gunasekara No.43, Baddhegama Road, Hirambura, Galle. 1:4 0.0142 Karagodagamage Jayanthimala 588610446V Full 1st Class _ _ No. 68, Baddhegama Road, Hiribura, Galle. 1:31 0.1349 Denipitiya Manikkage 673210368V Full 1st Class Subject to the _ Sarathchandra Conditions of the No. 52A, Baddhegama Road, Deed of lease Hiribura,Galle. No.169 and 08.10.2023 dated of Notary Public K.R.Munasinghe 1:77 0.0553 Shrinika Nisansala Fernando 877103072V Full 1st Class _ _ No. 27, Gamunu Mawatha, Galle. 1:155 0.0492 Malani Sooriyaarachchi 485494804V Full 1st Class _ _ Lekevewe, Algiriya, Thelijjavila. EOG 10 - 0126/5
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
