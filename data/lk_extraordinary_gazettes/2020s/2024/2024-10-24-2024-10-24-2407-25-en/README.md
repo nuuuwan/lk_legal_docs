@@ -1,0 +1,59 @@
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 042940 - 14 (10/2024)
+
+NOTICE CALLING FOR CLAIMS TO LAND PARCELS Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1022 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 420710 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Kelathimbiriwewa (Block 01) or any part thereof, situated within the Grama Niladhari Division of No.1290 - Baddegama in the Divisional Secretariat Division of Kobeygane in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 420710 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Land Title Settlement. P.C.D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024. EOG 10 - 0186/1
+
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2407/25 - 2024 ඔක්ෙතෝබර් මස 24 වැනි බහස්පතින්දා - 2024.10.24
+
+No. 2407/25 – THURSDAY, OCTOBER 24, 2024
+
+PART III - LANDS Title Registration
+
+2 A III ෙකොටස – ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය – 2020.01.15 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2020
+
+NOTICE CALLING FOR CLAIMS TO LAND PARCELS
+
+Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1023 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 420710 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Hurigama (Block 02) or any part thereof, situated within the Grama Niladhari Division of No.1290 - Baddegama in the Divisional Secretariat Division of Kobeygane in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 420710 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement.
+
+P.C.D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024. EOG 10 - 0186/2
+
+NOTICE CALLING FOR CLAIMS TO LAND PARCELS
+
+Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1020 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 420728 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Holambalawa (Block 02) or any part thereof, situated within the Grama Niladhari Division of No.1311 - Holambalawa in the Divisional Secretariat Division of Kobeygane in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government
+
+Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 420728 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement. P.C.D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024. EOG 10 - 0186/3 NOTICE CALLING FOR CLAIMS TO LAND PARCELS Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1021 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 420731 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Millagaswewa (Block 07) or any part thereof, situated within the Grama Niladhari Division of No.1294 - Bamunugama in the Divisional Secretariat Division of Kobeygane in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 420731 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement.
+
+P.C.D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024.
+
+EOG 10 - 0186/4
+
+3 A III ෙකොටස – ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය – 2020.01.15 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.01.2020
+
+NOTICE CALLING FOR CLAIMS TO LAND PARCELS Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1026 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 420913 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Rathmale (Block 04) or any part thereof, situated within the Grama Niladhari Division of No.1247 - Rathmale in the Divisional Secretariat Division of Wariyapola in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 420913 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement.
+
+P.C.D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024. EOG 10 - 0186/5 NOTICE CALLING FOR CLAIMS TO LAND PARCELS Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1024 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 421207 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Kiwulegama (Block 01) or any part thereof, situated within the Grama Niladhari Division of No.300 - Kiwulegama in the Divisional Secretariat Division of Nikaweratiya in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act.
+
+The Cadastral Map No. 421207 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s Office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement.
+
+P.C.D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla 10th October, 2024 EOG 10 - 0186/6 NOTICE CALLING FOR CLAIMS TO LAND PARCELS Registration of Title Act, No. 21 of 1998 (Section 12) NOTICE No. : 42/1025 KURUNEGALA DISTRICT It is hereby notified that any person having a claim to the owner ship or possession or interest to one or more of the parcels of lands reflected in the Cadastral Map No. 421300 made by the Surveyor-General under Section 11 of the Registration of Title Act, No. 21 of 1998 relating to the village of Ambagahawewa (Block 03) or any part thereof, situated within the Grama Niladhari Division of No.1346 - Panduwasnuwara in the Divisional Secretariat Division of Panduwasnuwara West in the District of Kurunegala in the Province of North Western should submit his claim to the undersigned before 18th of November 2024 In the event of failure to submit any claim before the above-mentioned date, action will be taken to hold an exparte inquiry to determine title to the land and accordingly publish such determination in the Government Gazette in terms of Section 14 of the above Act. The Cadastral Map No. 421300 referred to above may be perused at the relevant Grama Niladhari Office, Divisional Secretariat, District Survey Office, Office of the Commissioner of Title Settlement, or the Surveyor - General’s office. Further information may be obtained from the Grama Niladhari, the Divisional Secretary, or the Commissioner of Title Settlement.
+
+P.C.D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No.1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 10th October, 2024. EOG 10 - 0186/7
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
