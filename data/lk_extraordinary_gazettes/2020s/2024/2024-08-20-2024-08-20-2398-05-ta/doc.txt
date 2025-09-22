@@ -1,0 +1,827 @@
+wxl 2398$05 - 2024 wf.daia;= ui 20 jeks w`.yrejdod - 2024'08'202398/ 05 Mk; ,yf;fk; - 2024 Mk; Mz;L Xfj;J khjk; 20 Me; jpfjp nrt;tha;f;fpoik
+
+1A – PG6828 – 05(2024/08)
+
+,t; mjptpN\l tu;j;jkhdpia www.documents.gov.lk vDk; ,izaj;jsj;jpypUe;J gjptpwf;fk; nra;a KbAk;.
+
+gFjp IV (M) - cs;~uhl;rp
+
+cs;~uhl;rp mwptpj;jy;fs;
+
+mafk gpuNjr rig
+
+1987 Mk; Mz;bd; 15 Mk; ,yf;f gpuNjr rigfs; rl;lj;jpd; 24 Mk; gphpTld; thrpf;f Ntz;ba> rg;gpufKt khfhzj;jpd; nfsut MSeu; mtu;fshy;> 2022 Mk; Mz;L rdthp khjk; 24 Mk; jpfjpa 23/16 Mk; ,yf;fKila mjp tpNrl tu;j;jkhdg; gj;jphpifapd; %yk; gpufldg;gLj;jg;gl;Ls;s ''rg;gpufKt khfhfzj;jpd; gpuNjr rigfspdhy; Ngzpr; nry;yg;gLfpd;w njUf;fs; kw;Wk; xLf;fg; ghijfspd; jpl;lkply; tptfhuq;fis xOq;F nra;jy; kw;Wk; ngau;g; gl;baiyf; fhl;rpaspf;fr; nra;J mwptpj;jy;fis gpuRhpj;jy; njhlu;ghd fl;lisfs;"" njhFg;gpd; %yk; rg;gpufKt khfhzj;jpd; gpuNjr rigfSf;F xg;gilf;fg;gl;Ls;s gzpfspd;gb> ,q;F fPo;f; fhl;lg;gl;Ls;s ml;ltizapy; cs;slq;fpa njUf;fs; kw;Wk; xLf;fg; ghijfs; mafk gpuNjr rigf;F chpj;jhfpAs;s njUf;fs; kw;Wk; xLf;fg; ghijfshf gpufldg;gLj;j Ntz;Lnkd 2024.06.20 Mk; jpfjp elj;jg;gl;l rigf;$l;lj;jpy; 03 Mk; ,yf;fj;jpd; fPo; jPu;khdpf;fg;gl;lJ vd;gij nghJ kf;fs; mwpe;J nfhs;tjw;fhf ,j;jhy; tpsk;gug;gLj;jg;gLfpd;wJ.
+
+Nkw;$wpa ml;ltizapy; cs;slq;fpa VjhtnjhU njU my;yJ xLf;fg; ghij VjhtnjhU fhzpnahd;wpD}lhfr; nry;Yk; my;yJ VjhtnjhU fhzpapd; xU gFjpf;F cl;gLfpwJ vd;gij njhlu;Gila fhzpf;F chpik $Wfpd;wtu;fspd; fUj;jhFkhapd; Nkw;$wpa fhzp njhlu;gpy; jkf;Fs;s chpikia cWjp nra;tjw;fhf ,t;twptpj;jw; jpfjpapypUe;J %d;W khj fhyk; nry;tjw;F Kd; jFe;j ePjpkd;wj;jpy; tof;nfhd;iwj; njhlu;tjw;fhd eltbf;iffis Nkw;nfhs;s Ntz;Lk; vd;gijAk; ,j;jhy; mwptpf;fg;gLfpd;wJ.
+
+NkYk; mNjNghd;W> Nkw;$wpa %d;Wkhj fhy vy;iy Kbtiltjw;F Kd; mj;jifa tof;nfhd;iw njhluhky; ,Uf;Fk; re;ju;g;gnkhd;wpy; Nkw;$wpa ml;ltizapy; cs;slq;fpa xt;nthU njUTk;> xLf;fg; ghijAk; mafk gpuNjr rigf;Fr; nrhe;jkhd njUnthd;whf my;yJ xLf;fg; ghijnahd;whff; fUjg;gLk; vd;gij NkYk; ,j;jhy; mwptpf;fg;gLfpd;wJ.
+
+Nf. V. hP. vk;. Flh Mur;rp> nrayhsu;> mjpfhuq;fs; kw;Wk; gzpfis nraw;gLj;Jk; mYtyu;> mafk gpuNjr rig.gpuNjr rig mYtyfk;>mafk>2024> Xfj;J 14.
+
+(murhq;fj;jpd; mjpfhuj;Jld; gpuRupf;fg;gl;lJ)
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%hw;s úfYI,yq;ifr; rdehaf Nrhryprf; FbauR th;j;jkhdg; gj;jphpif mjp tpNr\khdJ
+
+2AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+1 SG/ APS/ B160/ 01g`y fyj;Ju re;ij mUfpYs;s njU170113.366/ 144969.933170109.486/ 144969.904170551.909/ 144599.618170551.986/ 144595.819607.633.83
+
+2SG/ APS/ B160/ 02gioa ,wq;FJiwj; njU169909.099/ 145143.28169912.37/ 145140.895169999.404/ 145198.955170001.606/ 145195.615111.2843
+
+3SG/ APS/ B160/ 03g`y fyj;Ju %f;fyhdtj;j njU169739.508/ 145155.823169735.641/ 145157.201169713.658/ 144979.305169709.911/ 144980.706185.4543.8
+
+4SG/ APS/ B160/ 03/ 01ehye;j Xtpl;l njU169726.844/ 145109.788169726.366/ 145113.859169605.834/ 145122.919169601.854/ 145123.32149.2143
+
+5SG/ APS/ B160/ 03/ 02%f;fyhd tj;j Kjy;xOq;if 169728.235/ 145081.178169728.145/ 145083.985169577.077/ 145005.942169574.291/ 145006.221197.512.82.5
+
+6SG/ APS/ B160/ 03/ 02/ 01
+
+%f;fyhd tj;j Kjy;xOq;if Kjy; Jizg;ghij
+
+169575.326/ 145020.643169575.785/ 145023.614169519.328/ 144988.289169516.664/ 144989.66869.9832.5
+
+7SG/ APS/ B160/ 04g`y fyj;Ju ngj;ju njU169383.882/ 145278.223169379.895/ 145278.737169177.6/ 144941.575169174.785/ 144944.887407.8543
+
+8SG/ APS/ B160/ 04/ 01ngj;ju njUtpd; Kjy; xOq;if169348.032/ 145183.247169342.45/ 145179.449169447.516/ 145110.13169444.301/ 145107.749135.1843
+
+n`uzpahtf;f mafk gpujhd tPjpAld; ,ize;j mafk gpuNjr rigf;Fr; nrhe;jkhd njUf;fspd; ngau; ml;ltiz
+
+3A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+9SG/ APS/ B160/ 05fy;ty RFzGu njU168995.283/ 145602.67168992.146/ 145605.164167739.327/ 145892.608167738.909/ 145900.1411519.5442.5
+
+10SG/ APS/ B160/ 05/ 01RFzGu fk;nkj;j njU168874.189/ 145530.01168870.144/ 145529.951168879.64/ 145346.62168876.32/ 145345.509240.233.52.5
+
+11SG/ APS/ B160/ 05/ 02RFzGu tPlikg;G G{kpg; ghij167973.736/ 145811.978167971.534/ 145814.433167921.255/ 145603.884167921.491/ 145600.893395.732.5
+
+12SG/ APS/ B160/ 06
+
+Kjyhk; iky; fk;gk;ntynghj;J vyKy;ynjU
+
+168837.294/ 145835.107168836.807/ 145838.115168683.507/ 145798.247168680.973/ 145799.853191.8933
+
+13SG/ APS/ B160/ 07RFzGu Kjy; xOq;if168204.416/ 146374.432168201.52/ 146377.242168418.483/ 145666.763168412.298/ 145666.788907.6443
+
+14SG/ APS/ B160/ 07/ 01
+
+RFzGu Kjy; xOq;ifapd; Kjy; Jizj;njU
+
+168272.033/ 146111.139168273.198/ 146114.066168172.27/ 146091.214168171.407/ 146093.561108.612.52.5
+
+15SG/ APS/ B160/ 07/ 02
+
+RFzGu Kjy; xOq;ifapd; ,uz;lhk; Jizj;njU
+
+168226.94/ 146028.918168224.837/ 146031.956168178.699/ 146000.008168175.707/ 145999.79498.7732
+
+16SG/ APS/ B160/ 07/ 03
+
+RFzGu Kjy; xOq;ifapd; %d;whk; Jizj;njU
+
+168281.342/ 145961.919168281.169/ 145958.095168534.144/ 145925.341168532.51/ 145921.69278.242.5
+
+4AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+17SG/ APS/ B160/ 08fyj;Ju Mw;wq;fiuj; njU 167713.014/ 146621.292167715.829/ 146622.403167421.302/ 146638.17167417.284/ 146640.701317.7732.5
+
+18SG/ APS/ B160/ 09
+
+fyj;Ju Glitj; njhopw;rhiy mUfpYs;snjU
+
+167554.723/ 146592.385167550.493/ 146597.055167579.97/ 145634.803167577.804/ 145638.1661596.0643.5
+
+19SG/ APS/ B160/ 10fyj;Ju tj;JKy;y njU167378.821/ 146660.85167381.644/ 146659.67167213.311/ 146919.578167215.795/ 146921.264318.4332.5
+
+20SG/ APS/ B160/ 11nkj fyj;Ju tPlikg;G G{kpg; ghij167133.853/ 146500.813167126.943/ 146498.892167150.953/ 146470.686167151.55/ 146473.626437.3632.5
+
+21SG/ APS/ B160/ 11/ 01
+
+nkj fyj;Ju tPlikg;G G{kpg; ghijapd; Kjyhk; xOq;if
+
+167265.614/ 146504.506167262.459/ 146503.557167269.5/ 146443.28167270.962/ 146445.901132.8532.5
+
+22SG/ APS/ B160/ 12nkj fyj;Ju nfhnly;y njU167102.153/ 146492.319167099.208/ 146491.733167322.157/ 146390.608167323.996/ 146388.238320.2632.5
+
+23SG/ APS/ B160/ 12/ 01
+
+nkj fyj;Ju nfhnly;y njUtpd; Kjyhk; xOq;if
+
+167226.369/ 146352.988167221.719/ 146352.945167308.364/ 146301.179167307.019/ 146297.412119.8542.5
+
+24SG/ APS/ B160/ 13nkjtj;j ntykphpa njU167002.579/ 146469.379167005.225/ 146470.829167821.808/ 146736.869167823.734/ 146734.1081595.3132.5
+
+5A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+25SG/ APS/ B160/ 13/ 01mj;JNfhuynfhl nkjtj;j njU166915.632/ 146675.949166913.301/ 146677.839165764.665/ 146554.013165766.13/ 146556.7291440.7532.5
+
+26SG/ APS/ B160/ 13/ 01/ 01
+
+mj;JNfhuynfhl nkjtj;j njUtpd; Kjyhk; xOq;if
+
+166427.538/ 146692.873166430.672/ 146694.636166261.712/ 146859.298166262.577/ 146862.183448.1531
+
+27SG/ APS/ B160/ 13/ 02ntykphpa njUtpd; Kjyhk; xOq;if167092.409/ 146815.492167094.599/ 146817.544166481.51/ 147273.955166479.173/ 147275.836874.4433
+
+28SG/ APS/ B160/ 13/ 02/ 01
+
+ntykphpa njUtpd; Kjyhk; xOq;ifapd; Kjyhk; Jizj; njU
+
+166665.983/ 147275.304166661.978/ 147276.079166611.082/ 147226.767166608.246/ 147227.74478.3132.5
+
+29SG/ APS/ B160/ 13/ 02/ 02
+
+ntykphpa njUtpd; Kjyhk; xOq;ifapd; ,uz;lhk; Jizj; njU
+
+166564.914/ 147280.27166568.689/ 147279.786166580.43/ 147326.929166583.429/ 147326.87166.9932.5
+
+30SG/ APS/ B160/ 13/ 03ntykphpa njUtpd; ,uz;lhk; xOq;if167145.605/ 146910.763167145.481/ 146913.265166943.493/ 147075.367166945.977/ 147075.08294.922.52
+
+31SG/ APS/ B160/ 14nkj fyj;Ju guztj;j njU166869.254/ 146356.328166871.315/ 146358.527166755.963/ 146563.315166758.523/ 146564.88297.6932.5
+
+32SG/ APS/ B160/ 14/ 01guztj;j njUtpd; Kjy; xOq;if166758.291/ 146448.678166757.747/ 146451.153166706.472/ 146495.663166708.72/ 146496.75478.032.52
+
+6AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+33SG/ APS/ B160/ 15fyj;Ju fpuhk rigj; njUtpd; Kjy; xOq;if166827.685/ 146313.225166824.801/ 146312.358166831.43/ 145998.451166828.792/ 146000.167341.9232.5
+
+34SG/ APS/ B160/ 16fyj;Ju Kjy; xOq;if166726.715/ 146239.359166725.442/ 146238.165166744.994/ 146175.794166744.105/ 146174.34473.311.71
+
+35SG/ APS/ B160/ 17[a#hpa fe;j Nfhzngytj;j njU166494.213/ 146224.387166499.031/ 146224.317166532.476/ 146382.287166533.907/ 146379.651238.2832.5
+
+36SG/ APS/ B160/ 18[a#hpafe;j fpuhk rigj; njU166471.994/ 146216.76166469.296/ 146216.638166601.462/ 146146.933166600.789/ 146144.525162.232.51
+
+37SG/ APS/ B160/ 18/ 01[a#hpafe;j fpuhk rigj; njUtpd; Kjy; xOq;if166517.454/ 146205.574166515.521/ 146206.347166465.568/ 145934.197166463.958/ 145935.383340.6821
+
+38SG/ APS/ B160/ 19fy;nfNufe;j guztj;j njU166333.04/ 146217.111166330.066/ 146216.709166079.241/ 145970.423166080.644/ 145973.077607.6232.5
+
+39SG/ APS/ B160/ 19/ 01fy;nfNufe;j guztj;j njUtpd; Kjy; xOq;if166358.734/ 146002.092166356.863/ 145999.317166433.97/ 146006.403166431.674/ 146004.47283.0333
+
+40SG/ APS/ B160/ 20fq;fglnjd;d fPo; gFjpj; njU166246.833/ 146175.386166249.38/ 146177.106166458.746/ 146636.763166459.667/ 146633.908782.7132.5
+
+7A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+41SG/ APS/ B160/ 20/ 01fq;fglnjd;d fPo; gFjpj; njUtpd; Kjy; xOq;if166276.575/ 146343.513166277.956/ 146338.521166317.849/ 146330.309166315.223/ 146328.85870.6332.5
+
+42SG/ APS/ B160/ 21fy;nfNufe;j gJtyfe;j njUtpd; Kjy; xOq;if166225.551/ 146141.216166223.554/ 146141.062166217.187/ 146019.361166215.308/ 146018.675129.421
+
+43SG/ APS/ B160/ 22fy;nfNufe;j gJtyfe;j ,uz;lhk; njU166187.647/ 146166.435166185.74/ 146168.891166047.778/ 145782.006166045.922/ 145779.65466.9432.5
+
+44SG/ APS/ B160/ 23fy;nfNufe;j Kjy; xOq;if165928.581/ 146321.309165925.109/ 146320.879166047.679/ 146211.635166044.741/ 146211.029212.5232.5
+
+45SG/ APS/ B160/ 24mk;gf`N`d njU165729.146/ 146399.109165727.326/ 146401.504165735.154/ 146262.682165732.678/ 146264.374195.3332.5
+
+46SG/ APS/ B160/ 25rpq;`ynfhl mj;JNfhuynfhl njU 165726.929/ 146493.376165731.345/ 146489.999165602.141/ 147557.271165605.833/ 147561.7262029.75.54
+
+47SG/ APS/ B160/ 25/ 01mj;JNfhuynfhl njU165760.371/ 146557.601165761.649/ 146560.884165036.751/ 147051.9165037.5/ 147055.8861044.6132.5
+
+48SG/ APS/ B160/ 25/ 01/ 01mj;JNfhuynfhl njU Kjy; xOq;if165677.926/ 146624.009165678.882/ 146621.814165664.675/ 146696.023165665.929/ 146697.58188.3621
+
+8AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+49SG/ APS/ B160/ 25/ 02Jk;kyN`d njU165761.478/ 146707.138165763.311/ 146709.542165276.654/ 147004.443165277.024/ 147008.335812.3332
+
+50SG/ APS/ B160/ 25/ 03
+
+rpq;`ynfhl mj;JNfhuynfhl Kjy; xOq;if
+
+166116.071/ 146838.121166116.892/ 146835.157166340.391/ 147047.834166342.154/ 147045.407409.6632.5
+
+51SG/ APS/ B160/ 25/ 04
+
+rpq;`ynfhl mj;JNfhuynfhl ,uz;lhk; xOq;if
+
+165878.367/ 147288.793165877.437/ 147285.934165940.303/ 147334.963165943.298/ 147335.127123.8132.5
+
+52SG/ APS/ B160/ 25/ 05
+
+rpq;`ynfhl mj;JNfhuynfhl %d;whk; xOq;if
+
+165743.882/ 147346.323165741.273/ 147348.001165718.276/ 147275.826165716.071/ 147273.79293.7732
+
+53SG/ APS/ B160/ 26rpq;`ynfhl ghlrhiyj; njU164945.687/ 146763.993164948.536/ 146762.158165024.023/ 147421.251165025.307/ 147418.541601.0732.5
+
+54SG/ APS/ B160/ 27rpq;`ynfhl kzy; ghijj; njU164589.456/ 146940.64164592.043/ 146938.194164517.908/ 147113.347164521.222/ 147112.222261.123.53
+
+55SG/ APS/ B160/ 27/ 01kzy; ghijj; njUtpd; Kjy; xOq;if164640.982/ 146992.781164641.452/ 146990.643164734.111/ 146967.543164733.018/ 146965.868105.5421.5
+
+56SG/ APS/ B160/ 28rpq;`ynfhl Ie;jhk; iky; fk;gj; njU164139.335/ 147213.369164141.185/ 147210.989164375.735/ 147273.137164373.659/ 147270.971311.4732.5
+
+9A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+57SG/ APS/ B160/ 28/ 01
+
+rpq;`ynfhl Ie;jhk; iky; fk;gj; njUtpd; Kjy; xOq;if
+
+164315.03/ 147305.482164317.109/ 147304.909164365.215/ 147399.096164366.76/ 147397.826107.9921.5
+
+58SG/ APS/ B160/ 29rpq;`ynfhl kzy; mfOk; ,wq;FJiwj; njU163851.398/ 147412.564163856.526/ 147408.773163890.125/ 147482.202163892.807/ 147479.95388.683.53
+
+59SG/ APS/ B160/ 30rpq;`ynfhl Nkw; ghpTj; njU163451.732/ 147726.713163450.471/ 147729.792163426.979/ 147702.679163423.979/ 147702.71348.9432.5
+
+60SG/ APS/ B160/ 31vy;yN`d jy;f`tj;j njU163275.989/ 147825.808163273.058/ 147824.809163518.295/ 147218.009163515.73/ 147216.454766.0432.5
+
+61SG/ APS/ B160/ 32vy;yN`d gl;lN`d njU162897.036/ 147877.134162900.034/ 147876.076163141.936/ 148360.63163144.722/ 148359.112601.4132.5
+
+62SG/ APS/ B160/ 32/ 01vy;yN`d Jy;fy njU njU162994.791/ 147987.039162993.125/ 147984.536163562.983/ 147963.165163562.786/ 147960.172654.292.52
+
+63SG/ APS/ B160/ 32/ 02vy;yN`d G`uk;g njU162991.487/ 147987.525162993.424/ 147990.279162034.497/ 148635.488162035.498/ 148638.3171465.6932.5
+
+64SG/ APS/ B160/ 33vy;yN`d fz;fhzp fe;j njU162591.832/ 147946.704162591.39/ 147948.792162728.402/ 147465.776162727.308/ 147464.10372921.5
+
+10AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+65SG/ APS/ B160/ 34 mYgj;jy njU162537.095/ 148115.372162537.032/ 148118.431162294.826/ 148090.211162292.002/ 148091.226321.933
+
+66SG/ APS/ B160/ 35fNltj;j njU 162416.458/ 148294.793162414.964/ 148297.718162161.167/ 148149.368162158.514/ 148147.969351.2933
+
+67SG/ APS/ B160/ 36eptpj;jpfy jk;khde;j Njuu; njU162166.951/ 148351.351162160.818/ 148351.025162170.093/ 148246.784162166.153/ 148247.474130.7543.5
+
+68SG/ APS/ B160/ 37,e;jy tj;j tpj;jhdfk njU162004.92/ 148456.248162005.012/ 148452.475162095.431/ 149136.578162096.441/ 149133.188916.393.53
+
+69SG/ APS/ B160/ 37/ 01knlhy;yf;f njU162031.591/ 148485.582162029.016/ 148480.548162106.541/ 148472.445162106.394/ 148468.94783.873.53
+
+70SG/ APS/ B160/ 38gy;nyfe;j njUtpd; Kjy; xOq;if161941.815/ 148504.86161938.546/ 148507.184161512.118/ 148627.776161513.02/ 148631.674621.4343.5
+
+71SG/ APS/ B160/ 38/ 01
+
+gy;nyfe;j njUtpd; Kjy; xOq;ifapd; Kjy; Jizg; ghij
+
+161622.605/ 148518.707161621.074/ 148522.747161099.428/ 148316.164161100.02/ 148318.593845.172.52
+
+72SG/ APS/ B160/ 39gy;nyfe;j njUtpd; ,uz;lhk; xOq;if161632.548/ 148678.641161626.343/ 148680.457161593.948/ 148601.632161592.111/ 148603.339153.142.52
+
+11A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+73SG/ APS/ B160/ 39/ 01
+
+gy;nyfe;j njUtpd; ,uz;lhk; xOq;ifapd; Kjy; Jizg; ghij
+
+161639.977/ 148672.007161641.491/ 148670.092161653.383/ 148627.834161651.52/ 148628.56364.2321.5
+
+74SG/ APS/ B160/ 40uj;ky;njd;d tpj;jhdfk njU161320.983/ 148824.557161323.71/ 148826.154161770.266/ 149334.36161773.229/ 149333.728818.1932.5
+
+75SG/ APS/ B160/ 41g`y tj;j Kjy; xOq;if 160882.246/ 148915.589160879.883/ 148917.049160754.809/ 148791.884160752.456/ 148792.052200.492.52
+
+76SG/ APS/ B160/ C405/ 01g`y fyj;Ju tay; ghijj; njU170023.19/ 144645.043170025.98/ 144643.153170134.021/ 144941.636170136.343/ 144939.724397.0933
+
+77SG/ APS/ B160/ C405/ 01/01g`y fyj;Ju tay; ghij Kjy; xOq;if170082.246/ 144789.17170080.477/ 144786.747170183.999/ 144682.102170181.113/ 144682.923159.5633
+
+78SG/ APS/ B160/ C405/ 02Ky;yNf tj;j njU170259.608/ 143073.262170257.824/ 143070.246170313.919/ 142992.661170311.434/ 142990.196103.093.53
+
+79SG/ APS/ B160/ C405/ 03eKdpahtj;j gd;riyj; njU169962.577/ 142824.169169968.092/ 142826.99169908.984/ 143022.47169912.337/ 143018.63273.9454.5
+
+80SG/ APS/ B160/ C405/ 04nfl;Nlnghy vy;y njUtpd; Kjy; xOq;if170414.571/ 140765.432170411.556/ 140762.795170511.381/ 140784.441170515.089/ 140785.943127.0943
+
+12AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+81SG/ APS/ B160/ C405/ 05nfl;Nlnghy ghlrhiyj; njU170215.344/ 140587.581170212.263/ 140587.318170385.227/ 140393.267170384.874/ 140390.288271.3932.5
+
+82SG/ APS/ B160/ C405/ 06nfl;Nlnghy clnjd;d njU169983.072/ 140833.856169986.281/ 140828.822170250.25/ 141078.587170253.422/ 141076.151454.5843
+
+83SG/ APS/ B160/ C405/ 07nfl;Nlnghy fe;j cltj;j njU169889.517/ 140923.262169891.891/ 140921.424170018.785/ 140982.07170018.2/ 140979.128176.0833
+
+84SG/APS/B160/C405/07/01nfl;Nlnghy cltj;j njUtpd; Kjy; xOq;if169926.253/ 140986.235169928.31/ 140988.426169889.666/ 141014.97169890.784/ 141017.75349.0233
+
+85SG/APS/B160/C405/08 nfl;Nlnghy Kjy; xOq;if169767.372/ 140960.138169762.468/ 140960.833169744.59/ 140844.833169740.601/ 140844.544130.3743
+
+86SG/APS/B160/C405/09 nfl;Nlnghy ,uz;lhk; xOq;if169748.844/ 140969.421169750.754/ 140968.813169602.759/ 141189.268169602.492/ 141191.251363.222
+
+87SG/APS/B160 C405/10nfl;Nlnghy gPyp mUfpYs;s njU169605.881/ 141040.444169608.985/ 141038.336169596.648/ 141198.833169597.825/ 141196.073203.633
+
+88SG/APS/B160/C405/10/01
+
+nfl;Nlnghy gPyp mUfpYs;s njUtpd; Kjy; xOq;if
+
+169588.398/ 141194.499169589.189/ 141195.11169572.907/ 141279.181169573.906/ 141279.17191.8211
+
+13A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+89SG/APS/B160/C405/11 nfl;Nlnghy mQ;ry; mYtyfj; njU169374.651/ 141132.081169377.679/ 141131.937169372.053/ 141396.746169375.034/ 141396.407294.4433
+
+90SG/APS/B160/C405/12 nfl;Nlnghy mYj;nfju njU169238.729/ 141129.643169241.78/ 141129.161169217.669/ 141377.692169220.58/ 141376.968286.3733
+
+91SG/APS/B160/C405/13nfl;Nlnghy gd;riy Nkw;gphpTj; njU169060.368/ 141174.177169064.522/ 141173.793169118.288/ 141405.377169121.117/ 141402.549253.9543.3
+
+92SG/APS/B160/C405/14nfl;Nlnghy %d;whk; xOq;if169010.483/ 141176.257169007.763/ 141177.797169049.011/ 141105.355169049.662/ 141102.428105.4233
+
+93SG/APS/B160/C405/15nfl;Nlnghy [a khtj;ij168906.222/ 141216.422168908.771/ 141214.759168979.18/ 141388.474168982.02/ 141387.508203.9333
+
+94SG/APS/B160/C405/16 nfl;Nlnghy rdr%f epiyaj; njU168867.442/ 141228.327168871.442/ 141228.656168865.026/ 141457.523168868.905/ 141458.498242.8443
+
+95SG/APS/B160/C405/17 nfl;Nlnghy ckq;nfju njU168799.922/ 141218.599168801.901/ 141222.457165849.715/ 142089.509165846.859/ 142092.7233846.394.33.3
+
+96SG/APS/B160/C405/17/01nfl;Nlnghy Rfhjhu kj;jpa epiyaj; njU168782.794/ 141225.512168785.794/ 141225.562168780.646/ 141324.926168783.37/ 141323.669106.6933
+
+14AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+97SG/APS/B160/C405/17/02nfl;Nlnghy jYnfhl;Lt njU168711.792/ 141236.416168712.772/ 141236.148168727.054/ 141479.935168728.053/ 141479.936254.2811
+
+98SG/APS/B160/C405/17/03nfl;Nlnghy [k;Gf]; khtj;j168530.506/ 141286.99168534.114/ 141284.953168727.45/ 141550.931168725.691/ 141547.339476.743
+
+99SG/APS/B160/C405/17/04nfl;Nlnghy RJntypfe;j njU168434.88/ 141322.699168438.796/ 141323.535167855.566/ 141769.544167857.056/ 141773.257995.8143
+
+100SG/APS/B160/C405/17/04/01nfl;Nlnghy RJntypfe;j njU Kjy; xOq;if168370.141/ 141696.254168371.759/ 141692.359168503.532/ 141688.679168504.155/ 141684.728140.0743
+
+101SG/APS/B160/C405/17/04/01/01
+
+nfl;Nlnghy RJntypfe;j njUtpd; Kjy; xOq;ifapd; Kjy; Jizj; njU
+
+168395.25/ 141698.435168398.746/ 141698.287168409.921/ 141768.923168412.895/ 141769.31780.2633
+
+102SG/APS/B160/C405/17/05nfl;Nlnghy Jd;njhy njU167774.42/ 141374.025167779.482/ 141372.293167736.977/ 141826.867167740.091/ 141827.959524.513.33.3
+
+103SG/APS/B160/C405/17/05/01nfl;Nlnghy Jd;njhy njUtpd; Kjy; xOq;if167752.23/ 141644.966167753.041/ 141648.926167552.863/ 141675.41167552.432/ 141679.386231.7243
+
+104SG/APS/B160/C405/17/06ckq;nfju Gyj;Fyd njU167279.819/ 141608.239167282.965/ 141603.392167244.744/ 142176.018167247.899/ 142178.478764.2543
+
+15A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+105SG/APS/B160/C405/17/07ckq;nfju njU Kjy; xOq;if167101.287/ 141640.998167105.478/ 141640.072167178.237/ 141726.283167180.057/ 141729.845136.9343
+
+106SG/APS/B160/C405/17/08nkNufe;j njw;F njU166869.559/ 141549.182166867.051/ 141547.246167462.567/ 141070.003167459.369/ 141069.653912.3933
+
+107SG/APS/B160/C405/17/09ckq;nfju nghpa Xilj; njU166692.148/ 141594.424166690.752/ 141594.272166746.625/ 141483.911166747.584/ 141483.624167.210.5
+
+108SG/APS/B160/C405/17/10ckq;nfju fpuhk rig fPo; ghij166654.873/ 141606.457166654.113/ 141610.515166278.658/ 141898.316166282.433/ 141896.758580.0143
+
+109SG/APS/B160/C405/17/10/01
+
+ckq;nfju fpuhk rig fPo; ghij Clhf nkNufe;j njU
+
+166498.179/ 141663.364166496.43/ 141664.397166794.994/ 141076.833166793.419/ 141075.4971014.2521
+
+110SG/APS/B160/C405/17/10/02ckq;nfju fpuhk rigj; njUtpd; Kjy; xOq;if166293.657/ 141727.173166293.781/ 141728.199165966.038/ 141803.239165966.387/ 141804.176390.6911
+
+111SG/APS/B160/C405/17/11ckq;nfju mk;gf]; ngy;nghy njU166659.437/ 141706.904166660.027/ 141701.448166418.995/ 141882.003166420.84/ 141878.4311911.843
+
+112SG/APS/B160/C405/D410/01gpk;N`dfe;j njU170157.87/ 143145.246170161.037/ 143144.456170125.156/ 143218.231170127.905/ 143219.432117.8833
+
+16AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+113SG/APS/B160/C405/D410/02eKdpah tj;j Kjy; xOq;if 170139.554/ 143128.66170139.949/ 143130.665170116.677/ 143133.686170115.319/ 143135.15427.3121.7
+
+114SG/APS/B160/C405/D410/03eKdpah tj;j ,uz;lhk; xOq;if169679.154/ 143216.43169682.116/ 143214.106169757.654/ 143341.496169757.355/ 143338.009163.883.53
+
+115SG/APS/B160/C405/D410/04eKdpah tj;j %d;whk; xOq;if169470.553/ 143242.875169474.017/ 143242.366169472.26/ 143295.282169472.338/ 143291.78355.583.53
+
+116SG/APS/B160/C405/D410/05klgj;ju Kjy; xOq;if169370.285/ 143249.602169373.67/ 143248.371169309.29/ 143405.071169312.441/ 143406.812190.713.63
+
+117SG/APS/B160/C405/D410/06klgj;ju ,uz;lhk; xOq;if169345.237/ 143263.396169342.996/ 143265.392169306.6/ 143175.2169305.304/ 143172.496115.8532.6
+
+118SG/APS/B160/C405/D410/06/01
+
+klgj;ju ,uz;lhk; xOq;ifapd; Kjy; Jizj; njU
+
+169308.762/ 143213.311169310.09/ 143215.578169274.957/ 143240.155169272.442/ 143239.49552.362.62
+
+119SG/APS/B160/C405/D410/07klgj;ju epy; nrtd njU169290.693/ 143325.321169289.353/ 143328.086169245.773/ 143260.289169243.069/ 143261.58882.3832.6
+
+120SG/APS/B160/C405/D410/08klgj;ju %d;whk; xOq;if169271.64/ 143380.518169274.373/ 143378.077169410.528/ 143438.01169408.357/ 143435.139171.963.62.6
+
+17A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+121SG/APS/B160/C405/D41 C405/D410/09klgj;ju [a khtj;j169251.263/143415.698169253.352/ 143421.264169236.978/ 143270.563169235.409/ 143266.883206.2343.5
+
+122SG/APS/B160/C405/D41 C405/D410/09/01
+
+klgj;ju [a khtj;j Kjy; xOq;if169218.976/ 143364.919169220.377/ 143368.718169165.205/ 143407.395169169.183/ 143407.82479.7643.5
+
+123SG/APS/B160/C405/D410/10klgj;ju ehd;fhk; xOq;if169198.429/ 143529.493169201.625/ 143527.758169378.967/ 143455.137169376.689/ 143453.136221.5732.8
+
+124SG/APS/B160/C405/D410/11klgj;ju Uf;ky;tj;j njU169124.285/ 143532.635169121.005/ 143534.928169093.251/ 143459.222169089.33/ 143460.01384.5843.5
+
+125SG/APS/B160/C405/D410/12klgj;ju Ie;jhk; xOq;if168900.11/ 143619.444168896.681/ 143620.209168940.551/ 143493.93168937.084/ 143493.455151.993.52.7
+
+126SG/APS/B160/C405/D410/12/01
+
+klgj;ju Ie;jhk; xOq;ifapd; Kjy; Jizj; njU
+
+168894.991/ 143532.018168893.845/ 143534.792168869.714/ 143521.865168867.483/ 143523.8729.7632.5
+
+127SG/APS/B160/C405/D410/13klgj;ju Mwhk; xOq;if168871.005/ 143632.225168866.819/ 143643.732168833.88/ 143664.54168835.371/ 143668.03552.873.83
+
+128SG/APS/B160/C405/D410/14klgj;ju Njhl;lj; njU168818.266/ 143711.911168825.936/ 143707.173167867.638/ 144465.36167862.204/ 144467.6632325.6154
+
+18AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+129SG/APS/B160/C405/D410/14/01klgj;ju Njhl;lk; Kjy; xOq;if167793.924/ 144474.339167790.407/ 144474.375167826.457/ 144421.711167823.633/ 144419.64465.93.53
+
+130SG/APS/B160/C405/D410/14/02klgj;ju Njhl;lk; ,uz;lhk; xOq;if167703.713/ 144519.808167705.825/ 144522.847167715.761/ 144589.89167716.269/ 144586.427105.743.53
+
+131SG/APS/B160/C405/D410/14/02/01
+
+klgj;ju Njhl;lk; ,uz;lhk; xOq;ifapd; Kjy; Jizj; njU
+
+167681.173/ 144576.098167682.189/ 144579.899167493.085/ 144687.667167496.669/ 144688.832230.453.53
+
+132SG/APS/B160/C405/D410/14/03klgj;ju Njhl;lk; %d;whk; xOq;if167430.386/ 144721.229167431.401/ 144717.804167571.409/ 144762.82167574.537/ 144764.389197.43.53
+
+133SG/APS/B160/C405/D410/14/03/01
+
+klgj;ju Njhl;lk; %d;whk; xOq;ifapd; Kjy; Jizj; njU
+
+167501.603/ 144702.308167503.389/ 144704.83167461.744/ 144727.439167463.352/ 144729.97149.1832.8
+
+134SG/APS/B160/C405/D410/14/04klgj;ju Njhl;lk; ehd;fhk; xOq;if167381.759/ 144772.591167378.93/ 144773.628167306.386/ 144801.059167308.9/ 144799.422112.632.8
+
+135SG/APS/B160/C405/D410/15klgj;ju ,y. 03 gJtyfe;j Nky; njU168707.338/ 143756.4168711.235/ 143757.42168087.14/ 144025.556168087.906/ 144029.481789.4943.2
+
+136SG/APS/B160/C405/D410/15/01
+
+klgj;ju ,y. 03 gJtyfej; Nky; njUtpd; Kjy; Jizj; njU
+
+168087.437/ 144027.026168087.609/ 144028.01167304.221/ 144423.749167304.809/ 144424.558943.8811
+
+19A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+137SG/APS/B160/C405/D410/16klgj;ju jYf;f` N`d njU168601.63/ 143686.749168598.35/ 143685.525168719.649/ 143543.47168719.219/ 143539.996194.953.53
+
+138SG/APS/B160/C405/D410/16/01jYf;fy njU168662.153/ 143605.812168660.089/ 143608.305168634.765/ 143564.926168632.568/ 143566.96851.5333
+
+139SG/APS/B160/C405/D410/17klgj;ju clg];fk njU168542.004/ 143688.011168537.713/ 143688.872168363.437/ 143465.989168355.991/ 143462.549354.823.83.3
+
+140SG/APS/B160/C405/D409/01fhrpkzp vy;y njU169742.968/ 142613.455169737.228/ 142616.313169634.593/ 142364.9169630.79/ 142366.778560.133.83.3
+
+141SG/APS/B160/C405/D409/02clg];fk eKDnjd;d njU169475.58/ 142696.857169477.528/ 142700.352168095.413/ 143021.444168094.444/ 143025.3252048.3843.8
+
+142SG/APS/B160/C405/D409/02/01clg];fk gioa ghij169044.468/ 143052.573169048.624/ 143052.393168337.071/ 143434.479168334.854/ 143438.404898.8643.5
+
+143SG/APS/B160/C405/D409/02/02njj;jglfe;j fk;nkj;j njU168338.39/ 143286.724168342.345/ 143287.517167746.242/ 143439.653167746.006/ 143443.659876.7743.5
+
+144SG/APS/B160/C405/D409/03gioa nfl;Nlnghy njU169333.352/ 142427.942169329.886/ 142425.811169854.213/ 141860.305169852.615/ 141856.639921.8943
+
+20AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+145SG/APS/B160/C405/D409/03/01fphpvy;y Njhl;lf; nfhtpy; ghij169382.849/ 142402.421169376.724/ 142400.955169375.705/ 142272.137169375.867/ 142276.133207.942.5
+
+146SG/APS/B160/C405/D409/04clg];fk rkfp khtj;ij167700.902/ 143338.588167700.86/ 143342.64167602.232/ 143470.569167605.698/ 143472.567184.4442.5
+
+147SG/APS/B160/C405/D409/05eKdpahtj;j xd;gJ miwfs; njU167343.263/ 143767.071167338.875/ 143766.114167329.86/ 143733.399167328.415/ 143729.6745.7142.5
+
+148SG/APS/B160/C405/D409/06gJtyfe;j eKZnjd;d njU167316.468/ 143770.281167323.146/ 143769.337167582.876/ 144157.866167587.628/ 144156.312809.8453.5
+
+149SG/APS/B160/C405/D409/07eKZnjd;d nfg;ngl;bN`d njU166985.019/ 143922.873166984.246/ 143918.358167123.827/ 143671.908167120.156/ 143669.305306.494.53.5
+
+150SG/APS/B160/C405/D409/08eKZnjd;d Nghf`tj;j njU166860.302/ 144057.968166859.158/ 144063.086166599.711/ 144072.803166598.312/ 144076.555335.242.7
+
+151SG/APS/B160/C405/D409/09E}W Vf;fu; eKZnjd;d njU166820.224/ 144121.079166824.952/ 144122.706164256.629/ 145558.864164261.566/ 145558.0763546.5152.5
+
+152SG/APS/B160/C405/D409/09/01eKZnjd;d tpj;jpahyaj; njU166817.526/ 144126.935166817.135/ 144131.494166749.951/ 144109.425166745.954/ 144109.252189.243
+
+21A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+153SG/APS/B160/C405/D409/09/02njj;jglfe;j Nkw; ghij166688.36/ 144316.081166681.178/ 144320.816166029.427/ 143643.913166027.348/ 143647.3311740.1142.5
+
+154SG/APS/B160/C405/D409/09/02/01
+
+njj;jglfe;j gk;gufy fy;nghj;j njU166029.427/ 143643.913166026.459/ 143644.451165984.218/ 143157.297165981.431/ 143158.409700.5732.5
+
+155SG/APS/B160/C405/D409/02/02njj;jglfe;j Jd;fy njU166026.459/ 143644.451166027.348/ 143647.331165078.44/ 143601.756165079.856/ 143604.4011469.4832.5
+
+156SG/APS/B160/C405/D409/09/03eKZnjd;d ,UgJ Vf;fu; njU166278.728/ 144398.935166273.915/ 144402.313164213.027/ 144367.061164216.927/ 144367.9512578.9843
+
+157SG/APS/B160/C405/D409/09/03/01
+
+KZnjd;d ,UgJ Vf;fu; njUtpd; Kjy; xOq;if165511.922/ 144459.708165517.119/ 144455.006165111.56/ 144774.884165109.171/ 144778.46560.474.33
+
+158SG/APS/B160/C405/D409/09/03/02
+
+KZnjd;d ,UgJ Vf;fH njUtpd; ,uz;lhk; xOq;if
+
+164499.803/ 144339.619164497.333/ 144335.982164937.469/ 143966.901164935.835/ 143962.923608.984.33.8
+
+159SG/APS/B160/C405/D409/09/04E}W Vf;fu; njUtpd; Kjy; xOq;if165422.545/ 144862.918165419.846/ 144861.47165699.057/ 144710.02165698.875/ 144707.025438.2532.5
+
+160SG/APS/B160/C405/D409/09/04/01
+
+E}W Vf;fu; njU Kjy; xOq;ifapd; Kjy; Jizj; njU
+
+165497.717/ 144704.66165494.446/ 144704.893165445.485/ 144564.328165444.018/ 144566.955188.982.82.8
+
+22AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+161SG/APS/B160/C405/D409/09/05E}W Vf;fu; N`d;aha Kjy; xOq;if164685.661/ 145140.277164682.739/ 145146.808164522.56/ 144920.741164523.7/ 144918.516788.513.52.7
+
+162SG/APS/B160/C405/D409/09/06E}W Vf;fu; N`d;aha ,uz;lhk; xOq;if164600.687/ 145241.652164604.239/ 145239.251164758.982/ 145282.914164757.314/ 145279.837182.053.52.2
+
+163SG/APS/B160/C405/D403/01nfl;Nlnghy njhl;lk; Nfhtpy; njU168783.628/ 140513.014168780.937/ 140515.98168321.156/ 140838.007168324.526/ 140840.161595.8543
+
+164SG/APS/B160/C405/D403/01/01
+
+nfl;Nlnghy njhl;lk; Nfhtpy; njUtpd; Kjy; xOq;if
+
+168396.549/ 140725.574168394.786/ 140729.434168092.492/ 141005.296168096.118/ 141003.609469.7743
+
+165SG/APS/B160/C405/D403/02nfl;Nlnghy nkNufe;j njw;F njU168887.965/ 140405.067168887.009/ 140407.968166638.218/ 140813.023166635.534/ 140814.3633124.1733
+
+166SG/APS/B160/C405/D403/02/01
+
+nfl;Nlnghy nkNufe;j njw;F njUtpd; Kjy; xOq;if
+
+168526.064/ 140484.209168526.346/ 140485.188168174.602/ 140236.377168173.906/ 140237.095515.8411
+
+167SG/APS/B160/C405/D403/02/02
+
+nfl;Nlnghy nkNufe;j njw;F njUtpd; ,uz;lhk; xOq;if
+
+167732.909/ 140927.148167729.547/ 140929.639167630.656/ 140752.403167631.139/ 140756.374315.7843
+
+168SG/APS/B160/C405/D403/03k`vy tj;j hpy;ynfhnly;y njU169093.285/ 140304.048169098.865/ 140303.591170006.665/ 140358.374170006.973/ 140355.6091217.432.72.7
+
+23A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+169SG/APS/B160/C405/D403/04nkNufe;j tlf;F njU169309.845/ 140095.321169308.709/ 140098.12169391.864/ 139724.988169388.904/ 139725.4771113.3733
+
+170SG/APS/B160/C405/D403/04/01nkNufe;j tlf;F njUtpd; Kjy; xOq;if169318.454/ 139886.021169316.932/ 139892.151169017.568/ 139927.732169017.406/ 139931.729322.0143
+
+171SG/APS/B160/C405/D403/04/02nkNufe;j tlf;F njUtpd; ,uz;lhk; xOq;if169376.987/ 139781.767169373.122/ 139785.559169287.935/ 139790.989169290.736/ 139793.84497.2943
+
+172SG/APS/B160/C405/D403/05k`vy tj;j njU169313.03/ 140097.218169314.373/ 140094.368170222.915/ 140571.064170224.74/ 140568.5991596.832.7
+
+173SG/APS/B160/C405/D403/05/01k`vy tj;j njUtpd; Kjy; Jizj; njU170074.598/ 140137.641170074.042/ 140140.824170237.368/ 140096.908170234.902/ 140094.869235.473.22.7
+
+174SG/APS/B160/C405/D403/06vy;yfht k`vy tj;j njU170054.442/ 139173.363170058.274/ 139171.421170072.295/ 140135.593170074.598/ 140137.6411124.432.7
+
+175SG/APS/B160/C406/01fyj;Ju f`tj;j njUtpd; Kjy; xOq;if168126.152/ 146711.276168123.463/ 146709.413168279.319/ 146530.474168277.064/ 146528.495267.9333
+
+176SG/APS/B160/C406/02nkjfyj;Ju fLfk;Ky;y njU 168400.067/ 146768.865168398.554/ 146764.846169645.771/ 146649.179169647.499/ 146645.5711792.943.5
+
+24AIV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+177SG/APS/B160/D411/01fyj;Ju fZnfl;ba njU167546.451/ 145643.765167549.864/ 145646.054167537.891/ 145849.825167534.009/ 145850.792519.2843
+
+178SG/APS/B160/D411/02klgj;ju Njhl;lk; fyj;Ju Njhl;lg; ghijj; njU167960.047/ 145460.34167950.94/ 145457.138167867.638/ 144465.36167862.204/ 144467.6633417.7643.2
+
+179SG/APS/B160/D411/03g`y fyj;Ju nfhyzpj; njU169004.455/ 145121.378169004.228/ 145129.012168993.629/ 144859.85168992.062/ 144857.269354.3332.5
+
+180SG/APS/B160/D411/04g`y fyj;Ju nfhyzp Nkw; gFjpj; njU169174.28/145040.11169175.347/ 145043.695168977.546/ 144821.582168974.561/ 144821.877315.932.5
+
+181SG/APS/B160/D412/01
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; Kjy; xOq;if
+
+160344.117/149364.6160344.854/ 149361.673160591.186/ 149329.514160592.324/ 149326.439285.2132
+
+182SG/APS/B160/D412/02uj;ky;njd;d 18 Vf;fu; njU160349.256/149506.393160351.316/ 149502.666161336.59/ 148915.119161333.255/ 148912.905142243
+
+183SG/APS/B160/D412/02/01uj;ky;njd;d 18 Vf;fu; fPo;g; ghij160430.743/149536.542160428.695/ 149534.289160762.929/ 149220.244160760.877/ 149222.433546.9732.8
+
+184SG/APS/B160/D412/03
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; ,uz;lhk; xOq;if
+
+160250.809/149990.776160254.728/ 149991.629159381.674/ 150312.582159384.595/ 150315.3141045.542.5
+
+25A
+
+njh.,y.njUtpd; FwpaPLghijapd; ngau;
+
+Muk;g njhFjp ,yf;fq;fs;(fe;jty = yq;fh),Wjpj; njhFjp ,yf;fq;fs;(fe;jty = yq;fh)njUtpd; ePsk;(kPw;wu;)
+
+njUtpd;rhjhuzmfyk;(kPw;wu;)
+
+mgptpUj;jpnra;ag;gl;lmfyk;tyJ gf;fk;,lJ gf;fk;tyJ gf;fk;,lJ gf;fk;
+
+IV ^wd& jeks fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2024'08'20gFjp IV (M) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2024.08.20
+
+185SG/APSB160/D412/04uj;ky;njd;d vgpl;ltj;j njU160634.627/ 149815.764160637.205/ 149815.679160747.991/ 149962.752160749.595/ 149960.834234.412.52
+
+186SG/APS/B160/D412/05
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; %d;whk; xOq;if
+
+160800.886/149794.811160790.591/ 149792.725160838.238/ 149727.138160840.234/ 149729.241119.92.92.9
+
+187SG/APS/B160/D412/06
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; ehd;fhk; xOq;if
+
+161689.645/149486.809161693.029/ 149484.668161768.46/ 149428.916161766.847/ 149434.227569.3343
+
+188SG/APS/B160/D412/07
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; Ie;jhk; xOq;if
+
+162233.972/149047.009162237.084/ 149046.005162167.782/ 149254.767162169.4/ 149257.527253.463.22.6
+
+189SG/APS/B160/D412/08
+
+uj;ky;njd;d tpj;jhdfk fyj;Ju njUtpd; Mwhk; xOq;if
+
+162394.808/ 148851.175162393.151/ 148854.628162310.209/ 148806.848162311.285/ 148810.178100.763.52.8
+
+190SG/APS/B160/D412/09
+
+tpj;jhdfk njhlf;fk; rpq;`ynfhl Ie;jhk; iky; fk;gj; njU
+
+164147.455/ 147955.56164145.479/ 147955.914164219.923/ 147309.905164218.681/ 147308.11747.1521
+
+EOG 08 - 0197
+
+,yq;if murhq;f mr;Rj; jpizf;fsj;jpw; gjpg;gpf;fg;ngw;wJ.
