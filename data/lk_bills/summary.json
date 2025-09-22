@@ -2,30 +2,30 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-09-22 16:16:45",
-  "n_docs": 4056,
-  "n_docs_with_pdfs": 4055,
-  "n_docs_with_text": 4055,
+  "time_updated": "2025-09-22 17:45:55",
+  "n_docs": 4059,
+  "n_docs_with_pdfs": 4058,
+  "n_docs_with_text": 4058,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2025-09-18",
-  "dataset_size": 17253779606,
+  "date_str_max": "2025-09-22",
+  "dataset_size": 17591693123,
   "url_source": "https://documents.gov.lk",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2025-09-18-2025-09-18-634-2025-ta",
-    "num": "2025-09-18-634-2025-ta",
-    "date_str": "2025-09-18",
-    "description": "Protection of Occupants - GS",
+    "doc_id": "2025-09-22-2025-09-22-635-2025-ta",
+    "num": "2025-09-22-635-2025-ta",
+    "date_str": "2025-09-22",
+    "description": "Sri Lanka Institute of Architects (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2025/9/634-2025_T.pdf",
-    "doc_number": "634/2025"
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/9/635-2025_T.pdf",
+    "doc_number": "635/2025"
   }
 }
