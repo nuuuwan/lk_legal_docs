@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_14:21:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_14:48:09-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
