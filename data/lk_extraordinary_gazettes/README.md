@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_12:02:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_12:59:43-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**100,978** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**19.3 GB**), from **2010-01-01** to **2025-09-21**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**101,036** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**19.3 GB**), from **2010-01-01** to **2025-09-22**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (10%), **TXT** (10%) & **🤗 Hugging Face** (10%)
 
@@ -17,14 +17,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes",
-    "doc_id": "2025-09-21-2025-09-21-2454-68-ta",
-    "num": "2025-09-21-2454-68-ta",
-    "date_str": "2025-09-21",
-    "description": "Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service.",
+    "doc_id": "2025-09-22-2025-09-22-2455-01-si",
+    "num": "2025-09-22-2455-01-si",
+    "date_str": "2025-09-22",
+    "description": "2455/01",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-68_T.pdf",
-    "doc_number": "2454/68"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-01_S.pdf",
+    "doc_number": "2455/01"
 }
 ```
 
@@ -39,6 +39,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-09-22 | `2025-09-22-2455-01-si` | 2455/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-22-2025-09-22-2455-01-si)
+- 2025-09-22 | `2025-09-22-2455-01-en` | 2455/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-22-2025-09-22-2455-01-en)
 - 2025-09-21 | `2025-09-21-2454-68-ta` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-ta)
 - 2025-09-21 | `2025-09-21-2454-68-si` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-si)
 - 2025-09-21 | `2025-09-21-2454-68-en` | Presidential Secretariat - Declaration of the Services Connected to the supply of Electricity to be an essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-21-2025-09-21-2454-68-en)
@@ -57,8 +59,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-09-17 | `2025-09-17-2454-38-ta` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-ta)
 - 2025-09-17 | `2025-09-17-2454-38-si` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-si)
 - 2025-09-17 | `2025-09-17-2454-38-en` | Land Commission General's Department Appointed Land Officers | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-38-en)
-- 2025-09-17 | `2025-09-17-2454-35-si` | Governor's Office -western Province - Delegation of Powers under Co-operative Secietries | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-35-si)
-- 2025-09-17 | `2025-09-17-2454-35-en` | Governor's Office -western Province - Delegation of Powers under Co-operative Secietries | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes/2020s/2025/2025-09-17-2025-09-17-2454-35-en)
 
 ---
 
