@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_09:44:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_10:15:12-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,059** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills) (**19.5 GB**), from **2010-05-10** to **2025-09-22**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**4,062** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills) (**19.5 GB**), from **2010-05-10** to **2025-09-22**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -51,14 +51,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-09-17 | `2025-09-17-632-2025-ta` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-17-2025-09-17-632-2025-ta)
 - 2025-09-17 | `2025-09-17-632-2025-si` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-17-2025-09-17-632-2025-si)
 - 2025-09-17 | `2025-09-17-632-2025-en` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-17-2025-09-17-632-2025-en)
+- 2025-09-12 | `2025-09-12-636-2025-ta` | Convention against Doping in Sport (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-12-2025-09-12-636-2025-ta)
+- 2025-09-12 | `2025-09-12-636-2025-si` | Convention against Doping in Sport (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-12-2025-09-12-636-2025-si)
+- 2025-09-12 | `2025-09-12-636-2025-en` | Convention against Doping in Sport (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-12-2025-09-12-636-2025-en)
 - 2025-09-04 | `2025-09-04-631-2025-ta` | Convention against Doping in Sport (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-04-2025-09-04-631-2025-ta)
 - 2025-09-04 | `2025-09-04-631-2025-si` | Convention against Doping in Sport (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-04-2025-09-04-631-2025-si)
 - 2025-09-04 | `2025-09-04-631-2025-en` | Convention against Doping in Sport (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-09-04-2025-09-04-631-2025-en)
 - 2025-08-19 | `2025-08-19-630-2025-ta` | Penal Code (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-08-19-2025-08-19-630-2025-ta)
 - 2025-08-19 | `2025-08-19-630-2025-si` | Penal Code (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-08-19-2025-08-19-630-2025-si)
-- 2025-08-19 | `2025-08-19-630-2025-en` | Penal Code (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-08-19-2025-08-19-630-2025-en)
-- 2025-08-19 | `2025-08-19-629-2025-ta` | National Building Research Institute - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-08-19-2025-08-19-629-2025-ta)
-- 2025-08-19 | `2025-08-19-629-2025-si` | National Building Research Institute - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills/2020s/2025/2025-08-19-2025-08-19-629-2025-si)
 
 ---
 
