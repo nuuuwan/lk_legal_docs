@@ -1,0 +1,27 @@
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ ගැසŸ පƴය
+
+අƯ ɪෙශෂ
+
+අංක 2366/41 - 2024 ජනවාɜ මස 12 වැǧʆýරාදා - 2024.01.12 No. 2366/41 - FRIDAY, JANUARY 12, 2024
+
+EXTRAORDINARY
+
+THE LAND ACQUISITION ACT (CHAPTER 460) Notice under Section 7 My Reference No.: DS/NOR/L/7/A/2/17. Land Ministry's Ref. No.: 4-3/5/2015/CEB/201. I, hereby give notice under Sub-section (1) of Section 7 of the Land Acquisition Act, as amended by the Land Acquisition (Amendment) Act, No. 28 of 1964, that the Government intends to acquire the following Lands/ Servitude which are required for a public purpose. Description of the land or Servitude to be Acquired: The land called Carolina Estate and St. Helis of Total Extent about 0.6126 Hectare, shown Lot Nos. 01, 02, 03, 04, 05, 06 and 07, in Cadastral Map 330250 dated 27.12.2023 prepared by the Surveyor General situated in the Watawala village of in the 320/E, Rozella Grama Niladhari Division of the Divisional Secretary's Division of Norwood, in the District of Nuwara Eliya.
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+(Published by Authority) PART III — LANDS Land Acquisition Notices
+
+1A - G 041237 - 09 (01/2024)
+
+01. Lot No. 01 Name of the Land : Carolina Estate; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.1851 Hectare. Boundaries - North : Agra Oya and Road; East: Road; South : Carolina Estate of claimed by Land Reform Commission (T.P. 47317); West : Agra Oya. 02. Lot No. 02 Name of the Land : Carolina Estate and St. Helis; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.2575 Hectare. Boundaries - North : Carolina Estate and St. Helis of claimed by Land Reform Commission (T.P. 47317); East: Carolina Estate and St. Helis of claimed by Land Reform Commission (T.P. 47317); South : Lot No. 03, Carolina Estate and St. Helis of claimed by Land Reform Commission (T.P. 47317); West : Carolina Estate and St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road.
+
+2 A III ෙකʣටස - ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය - 2024.01.12 Pൺඋඍ III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 12.01.2024
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+03. Lot No. 03 Name of the Land : —; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.0024 Hectare. Boundaries - North : Lot No. 02, St. Helis of claimed by Land Reform Commission (T.P. 47317); East: St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road; South : Lot No. 04, St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road; West : Lot No. 04, St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road. 04. Lot No. 04 Name of the Land : St. Helis; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.0760 Hectare. Boundaries - North : Lot No. 03, Road and St. Helis of claimed by Land Reform Commission (T.P. 47317); East: St. Helis of claimed by Land Reform Commission (T.P. 47317); South : Lot No. 05, Road and St. Helis of claimed by Land Reform Commission (T.P. 47317); West : St. Helis of claimed by Land Reform Commission (T.P. 47317). 05. Lot No. 05 Name of the Land : —; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.0032 Hectare. Boundaries - North : Lot No. 04, St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road; East: Road; South : Lot No. 06; West : Road. 06. Lot No. 06 Name of the Land : St. Helis; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.0699 Hectare.
+
+Boundaries - North : Road, Lot Nos. 05, 08, St. Helis of claimed by Land Reform Commission (T.P. 47317); East: St. Helis of claimed by Land Reform Commission (T. P. 47317), Lot No. 07 and Agra Oya; South : St. Helis of claimed by Land Reform Commission (T.P. 47317); West : St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road. 07. Lot No. 07 Name of the Land : St. Helis; Claimant's Name and Address : Land Reform Commission, No. 475, Kaduwela Road, Battaramulla; Extent : about 0.0185 Hectare. Boundaries - North : Agra Oya; East: St. Helis of claimed by Land Reform Commission (T. P. 47317); South : Lot No. 06; West : St. Helis of claimed by Land Reform Commission (T.P. 47317) and Road. All persons interested in the aforesaid land/lands on which a servitude is to be acquired are hereby required to appear personally, or by agents duly authorized in writing, before me at Divisional Secretariat, Norwood on the 25th day of March, 2024 at 10.00 a.m. and are hereby requested to notify to me in writing (in duplicated) on or before 11th day of March, 2024 the nature of their interests in the land, the particulars of their claims for compensation for the acquisition of the said land/ servitude, the amount of compensation and the details of the computation of such amount. Sංඍඁൺඋൺ Rඎඐංඇං Gൺආൺ඀ൾ, Divisional Secretary (Acting), Norwood. 02nd January, 2024, Divisional Secretariat, Norwood. EOG 01-0108
