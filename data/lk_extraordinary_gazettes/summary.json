@@ -2,30 +2,30 @@
   "doc_class_label": "lk_extraordinary_gazettes",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-09-24 14:30:08",
-  "n_docs": 101071,
-  "n_docs_with_pdfs": 10740,
-  "n_docs_with_text": 10416,
+  "time_updated": "2025-09-24 14:56:13",
+  "n_docs": 101128,
+  "n_docs_with_pdfs": 10799,
+  "n_docs_with_text": 10475,
   "date_str_min": "2010-01-01",
   "date_str_max": "2025-09-23",
-  "dataset_size": 19506709468,
+  "dataset_size": 19542369823,
   "url_source": "https://documents.gov.lk",
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data/data/lk_extraordinary_gazettes/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes",
-    "doc_id": "2025-09-23-2025-09-23-2455-11-ta",
-    "num": "2025-09-23-2455-11-ta",
+    "doc_id": "2025-09-23-2025-09-23-2455-12-si",
+    "num": "2025-09-23-2455-12-si",
     "date_str": "2025-09-23",
-    "description": "Presidential Secretariat- The Public Security Ordinance (Chapter 40) Order",
+    "description": "Dept. of Census and Statistics- National Consumer Price Index - August 2025",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-11_T.pdf",
-    "doc_number": "2455/11"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-12_S.pdf",
+    "doc_number": "2455/12"
   }
 }
