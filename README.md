@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_23:49:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_00:20:46-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**20.3 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**3,925** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_acts) (**20.4 GB**), from **1981-01-22** to **2025-09-10**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -16,7 +16,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_23:12:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_23:45:02-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_bills)
 
@@ -32,7 +32,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_23:25:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_23:59:22-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes)
 
@@ -40,7 +40,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - [**101,137** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data/data/lk_extraordinary_gazettes) (**20.3 GB**), from **2010-01-01** to **2025-09-23**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
-- In **JSON**, **PDF** (12%), **TXT** (11%) & **🤗 Hugging Face** (11%)
+- In **JSON**, **PDF** (12%), **TXT** (12%) & **🤗 Hugging Face** (12%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
