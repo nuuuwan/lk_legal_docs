@@ -10,7 +10,7 @@ log = Log("BigJSONFile")
 
 
 class BigJSONFile:
-    MIN_BIG_FILE_SIZE = 50_000_000
+    MIN_BIG_FILE_SIZE = 10_000_000
 
     def __init__(self, dir_path):
         self.dir_path = dir_path
