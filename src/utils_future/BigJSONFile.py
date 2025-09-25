@@ -10,7 +10,7 @@ log = Log("BigJSONFile")
 
 
 class BigJSONFile:
-    MIN_BIG_FILE_SIZE = 10_000_000
+    MIN_BIG_FILE_SIZE = 20_000_000
 
     def __init__(self, dir_path):
         self.dir_path = dir_path
@@ -39,7 +39,7 @@ class BigJSONFile:
         chunk_size = math.ceil(total_size / n_chunks)
 
         for i in range(n_chunks):
-            chunk_path = os.path.join(self.dir_path, f"part_{i + 1:03d}")
+            chunk_path = os.path.join(self.dir_path, f"part_{i + 1:04d}")
             i_start = i * chunk_size
             i_end = min((i + 1) * chunk_size, total_size)
             chunk_content = content[i_start:i_end]
