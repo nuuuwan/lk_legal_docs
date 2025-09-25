@@ -1,4 +1,5 @@
 import os
+import tempfile
 from abc import ABC
 from dataclasses import dataclass
 from functools import cached_property
@@ -26,7 +27,12 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         return os.path.exists(self.pdf_path)
 
     def download_pdf(self):
-        WWW(self.url_pdf).download_binary(self.pdf_path)
+        with tempfile.NamedTemporaryFile(
+            suffix=".pdf", delete=False
+        ) as temp_pdf_f:
+            temp_pdf_path = temp_pdf_f.name
+            WWW(self.url_pdf).download_binary(temp_pdf_path)
+            PDFFile(temp_pdf_path).compress(self.pdf_path)
 
     # Blocks (Extracted from PDF)
     # ----------------------------------------------------------------
