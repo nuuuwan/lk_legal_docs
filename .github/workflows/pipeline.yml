@@ -38,7 +38,7 @@ jobs:
           token: "${{ secrets.REPO_DATA_TOKEN }}"
           fetch-depth: 1
 
-      - name: "⬇️ Checkout data"
+      - name: "⬇️ Checkout main for data"
         uses: actions/checkout@v4
         with:
           ref: "main"
@@ -48,19 +48,20 @@ jobs:
 
       - name: "✅ Ensure data branch exists and is checked out"
         run: |
+          BRANCH_DATA="data"
           cd "${{ env.REPO_MAIN }}_data"
-          if git ls-remote --heads origin data | grep -q 'refs/heads/data'; then
-            git fetch origin data
-            git switch data
+          if git ls-remote --heads origin $BRANCH_DATA | grep -q "refs/heads/$BRANCH_DATA"; then
+            git fetch origin $BRANCH_DATA
+            git switch $BRANCH_DATA
           else
-            git switch --orphan data
+            git switch --orphan $BRANCH_DATA
             git rm -rf .
             touch .gitkeep
             git add .gitkeep
             git -c user.email="${{ secrets.GIT_USER_EMAIL }}" \
                 -c user.name="${{ secrets.GIT_USER_NAME }}" \
-                commit -m "Initialize data branch"
-            git push -u origin data
+                commit -m "Initialize $BRANCH_DATA branch"
+            git push -u origin $BRANCH_DATA
           fi
 
       - name: "⚙️ Run pipeline"
@@ -89,6 +90,7 @@ jobs:
 
       - name: "⬆️ Push data"
         run: |
+          BRANCH_DATA="data"
           cd ${{ env.REPO_MAIN }}_data
           git add .
           if git diff --cached --quiet; then
@@ -100,9 +102,9 @@ jobs:
 
           for attempt in {1..8}; do
             echo "Attempt $attempt to rebase+push..."
-            git fetch origin data
-            git rebase origin/data || git rebase --abort
-            if git push --force-with-lease origin HEAD:data; then
+            git fetch origin $BRANCH_DATA
+            git rebase origin/$BRANCH_DATA || git rebase --abort
+            if git push --force-with-lease origin HEAD:$BRANCH_DATA; then
               echo "Push succeeded."
               break
             fi
