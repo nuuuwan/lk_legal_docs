@@ -3,8 +3,9 @@ from functools import cached_property
 from utils import File, Log
 
 from scraper.abstract_doc import AbstractDoc
-from scraper.global_readme.GlobalReadMeSummaryMixin import \
-    GlobalReadMeSummaryMixin
+from scraper.global_readme.GlobalReadMeSummaryMixin import (
+    GlobalReadMeSummaryMixin,
+)
 from utils_future import FileOrDirFuture
 
 log = Log("GlobalReadMe")
@@ -70,6 +71,6 @@ class GlobalReadMe(GlobalReadMeSummaryMixin):
             + self.lines_for_footer
         )
 
-    def write(self) -> None:
+    def build(self) -> None:
         File(self.PATH).write_lines(self.lines)
         log.info(f"Wrote {self.PATH}")
