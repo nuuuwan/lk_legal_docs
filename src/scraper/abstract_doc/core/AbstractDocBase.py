@@ -29,6 +29,10 @@ class AbstractDocBase(ABC):
         return cls.get_repo_name()
 
     @classmethod
+    def is_multi_doc(cls) -> bool:
+        return cls.get_repo_name() != cls.get_doc_class_label()
+
+    @classmethod
     def get_doc_class_description(cls) -> str:
         return f"A collection of {cls.get_doc_class_label()} documents."
 

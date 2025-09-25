@@ -25,13 +25,19 @@ class AbstractDocRemotePathMixin:
         )
 
     @classmethod
+    def get_data_branch_name(cls):
+        if not cls.is_multi_doc():
+            return "data"
+        return f"data_{cls.get_doc_class_label()}"
+
+    @classmethod
     def get_remote_data_url_base(cls) -> str:
         # E.g. https://github.com/nuuuwan/lk_acts/tree/data
         return "/".join(
             [
                 cls.get_remote_repo_url(),
                 "tree",
-                "data",
+                cls.get_data_branch_name(),
             ]
         )
 
@@ -64,6 +70,6 @@ class AbstractDocRemotePathMixin:
                 cls.get_repo_name(),
                 "refs",
                 "heads",
-                "data",
+                cls.get_data_branch_name(),
             ]
         )
