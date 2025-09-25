@@ -7,8 +7,8 @@ on:
         description: "max_dt"
         required: false
         default: "1"
-  # schedule:
-  #   - cron: "*/30 * * * *"
+  schedule:
+    - cron: "*/30 * * * *"
 
 jobs:
   pipeline:
@@ -18,7 +18,7 @@ jobs:
       fail-fast: false
       max-parallel: 4
       matrix:
-        doc_class_label: ["lk_acts", "lk_bills", "lk_extraordinary_gazettes"]
+        doc_class_label: ["lk_acts", "lk_bills"]
 
     container:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
@@ -38,31 +38,13 @@ jobs:
           token: "${{ secrets.REPO_DATA_TOKEN }}"
           fetch-depth: 1
 
-      - name: "⬇️ Checkout main for data"
+      - name: "⬇️ Checkout data"
         uses: actions/checkout@v4
         with:
-          ref: "main"
+          ref: "data_${{ matrix.doc_class_label }}"
           path: "${{ env.REPO_MAIN }}_data"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
           fetch-depth: 1
-
-      - name: "✅ Ensure data branch exists and is checked out"
-        run: |
-          BRANCH_DATA="data"
-          cd "${{ env.REPO_MAIN }}_data"
-          if git ls-remote --heads origin $BRANCH_DATA | grep -q "refs/heads/$BRANCH_DATA"; then
-            git fetch origin $BRANCH_DATA
-            git switch $BRANCH_DATA
-          else
-            git switch --orphan $BRANCH_DATA
-            git rm -rf .
-            touch .gitkeep
-            git add .gitkeep
-            git -c user.email="${{ secrets.GIT_USER_EMAIL }}" \
-                -c user.name="${{ secrets.GIT_USER_NAME }}" \
-                commit -m "Initialize $BRANCH_DATA branch"
-            git push -u origin $BRANCH_DATA
-          fi
 
       - name: "⚙️ Run pipeline"
         run: |
@@ -90,7 +72,7 @@ jobs:
 
       - name: "⬆️ Push data"
         run: |
-          BRANCH_DATA="data"
+          BRANCH_DATA="data_${{ matrix.doc_class_label }}"
           cd ${{ env.REPO_MAIN }}_data
           git add .
           if git diff --cached --quiet; then
