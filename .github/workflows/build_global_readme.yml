@@ -1,0 +1,49 @@
+name: pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    container:
+      image: ghcr.io/nuuuwan/pdf-scraper-image:latest
+
+    env:
+      REPO_MAIN: lk_legal_docs
+
+    steps:
+      - name: "⬇️ Checkout main"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          path: "${{ env.REPO_MAIN }}"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⚙️ Run pipeline"
+        run: |
+          cd ${{ env.REPO_MAIN }}
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global --add safe.directory /__w/${{ env.REPO_MAIN }}/${{ env.REPO_MAIN }}
+
+          git pull origin main --rebase
+          python workflows/build_global_readme.py
+
+      - name: "⬆️ Push main"
+        run: |
+          cd ${{ env.REPO_MAIN }}
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin main --rebase
+          git push origin main

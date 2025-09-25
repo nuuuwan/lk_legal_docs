@@ -1,4 +1,8 @@
-# ⚖️#SriLanka 🇱🇰 Acts `Dataset`
+# 🇱🇰 #SriLanka `Datasets`
+
+**3** datasets, with **109,152** documents (**21.0 GB**).
+
+## 001 ⚖️ Acts
 
 ![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_18:47:24-green)
 
@@ -14,6 +18,37 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_acts/data/lk_acts/docs_by_decade_and_lang.png)
 
+## 002 ⚖️ Bills
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_19:10:53-green)
+
+[https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
+
+A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
+
+- [**4,062** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-09-22**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+
+- In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
+
+- In **සිංහල**, **தமிழ்** & **English**
+
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png)
+
+## 003 ⚖️ Extraordinary Gazettes
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_19:07:19-green)
+
+[https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
+
+An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
+
+- [**101,165** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**12.4 GB**), from **2010-01-01** to **2025-09-23**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+
+- In **JSON**, **PDF** (13%), **TXT** (12%) & **🤗 Hugging Face** (12%)
+
+- In **සිංහල**, **தமிழ்** & **English**
+
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes/docs_by_year_and_lang.png)
 
 ---
 

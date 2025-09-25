@@ -58,18 +58,6 @@ jobs:
           git pull origin main --rebase
           python workflows/pipeline.py "${{ matrix.doc_class_label }}" ${{ github.event.inputs.max_dt }}
 
-      - name: "⬆️ Push main"
-        run: |
-          cd ${{ env.REPO_MAIN }}
-          git add .
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin main --rebase
-          git push origin main
-
       - name: "⬆️ Push data"
         run: |
           BRANCH_DATA="data_${{ matrix.doc_class_label }}"
