@@ -37,6 +37,11 @@ class BigJSONFile:
         total_size = len(content)
         n_chunks = math.ceil(total_size / self.MIN_BIG_FILE_SIZE)
         chunk_size = math.ceil(total_size / n_chunks)
+        n_data_list = len(data_list)
+        log.debug(
+            f"{n_data_list=:,}, {total_size=:,},"
+            + f" {n_chunks=:,}, {chunk_size=:,}"
+        )
 
         for i in range(n_chunks):
             chunk_path = os.path.join(self.dir_path, f"part_{i + 1:04d}")
