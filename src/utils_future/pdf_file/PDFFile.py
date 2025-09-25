@@ -64,10 +64,10 @@ class PDFFile(FileOrDirFuture, PDFTextMixin):
         compressed_pdf_file = PDFFile(compressed_pdf_path)
         p_compress = 100 * (1 - compressed_pdf_file.size / self.size)
         if p_compress > 0:
-            log.info(
+            log.debug(
                 f"Compressed {self} -> {compressed_pdf_file} ({p_compress:.1f}%)"
             )
         else:
-            log.info(f"Compression not effective, copying original {self}")
+            log.warning(f"Compression not effective, copying original {self}")
             shutil.copy(self.path, compressed_pdf_path)
         return compressed_pdf_file
