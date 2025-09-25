@@ -34,4 +34,3 @@ class AbstractDocPipelineMixin(
         cls.build_summary()
         cls.build_doc_class_readme()
         cls.build_and_upload_to_hugging_face()
-        cls.build_global_readme()

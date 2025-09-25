@@ -13,5 +13,5 @@ from scraper.abstract_doc.pipeline import (
     AbstractDocPipelineCleanupMixin, AbstractDocPipelineExtendedDataMixin,
     AbstractDocPipelineMetadataMixin, AbstractDocPipelineMixin)
 from scraper.abstract_doc.readme import (
-    AbstractDocChartDocsByTimeAndLangMixin, AbstractDocGlobalReadMeMixin,
-    AbstractDocReadMeMixin, AbstractDocSummaryMixin)
+    AbstractDocChartDocsByTimeAndLangMixin, AbstractDocReadMeMixin,
+    AbstractDocSummaryMixin)

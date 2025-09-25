@@ -14,8 +14,6 @@ from scraper.abstract_doc.pipeline.AbstractDocPipelineMixin import \
 from scraper.abstract_doc.readme import AbstractDocReadMeMixin
 from scraper.abstract_doc.readme.AbstractDocChartDocsByTimeAndLangMixin import \
     AbstractDocChartDocsByTimeAndLangMixin
-from scraper.abstract_doc.readme.AbstractDocGlobalReadMeMixin import \
-    AbstractDocGlobalReadMeMixin
 from scraper.abstract_doc.readme.AbstractDocSummaryMixin import \
     AbstractDocSummaryMixin
 
@@ -30,7 +28,6 @@ class AbstractDoc(
     AbstractDocSummaryMixin,
     AbstractDocHuggingFaceMixin,
     AbstractDocPipelineMixin,
-    AbstractDocGlobalReadMeMixin,
     AbstractDocChartDocsByTimeAndLangMixin,
     AbstractDocTextMixin,
 ):

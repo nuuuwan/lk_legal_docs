@@ -3,8 +3,6 @@
 
 from scraper.abstract_doc.readme.AbstractDocChartDocsByTimeAndLangMixin import \
     AbstractDocChartDocsByTimeAndLangMixin
-from scraper.abstract_doc.readme.AbstractDocGlobalReadMeMixin import \
-    AbstractDocGlobalReadMeMixin
 from scraper.abstract_doc.readme.AbstractDocReadMeMixin import \
     AbstractDocReadMeMixin
 from scraper.abstract_doc.readme.AbstractDocSummaryMixin import \

@@ -5,7 +5,6 @@ from scraper.abstract_doc import (AbstractDoc, AbstractDocBase,
                                   AbstractDocBasePathsMixin,
                                   AbstractDocChartDocsByTimeAndLangMixin,
                                   AbstractDocGeneratorMixin,
-                                  AbstractDocGlobalReadMeMixin,
                                   AbstractDocHuggingFaceMixin,
                                   AbstractDocMetadataMixin,
                                   AbstractDocPipelineCleanupMixin,
@@ -17,3 +16,4 @@ from scraper.abstract_doc import (AbstractDoc, AbstractDocBase,
                                   AbstractDocSummaryMixin,
                                   AbstractDocTextMixin)
 from scraper.abstract_pdf_doc import AbstractPDFDoc
+from scraper.global_readme import GlobalReadMe, GlobalReadMeSummaryMixin
