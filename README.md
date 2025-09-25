@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**3** datasets, with **109,152** documents (**21.3 GB**).
+**3** datasets, with **109,152** documents (**21.4 GB**).
 
 ## 001 ⚖️ Acts
 
@@ -20,7 +20,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_02:34:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_03:04:19-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -36,7 +36,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_02:30:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_02:54:52-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
