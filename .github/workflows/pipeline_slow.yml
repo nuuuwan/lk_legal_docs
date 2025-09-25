@@ -1,0 +1,98 @@
+name: pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_dt:
+        description: "max_dt"
+        required: false
+        default: "1"
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        doc_class_label: ["lk_extraordinary_gazettes"]
+
+    container:
+      image: ghcr.io/nuuuwan/pdf-scraper-image:latest
+
+    env:
+      REPO_MAIN: lk_legal_docs
+      GITHUB_USERNAME: ${{ secrets.GIT_USER_NAME }}
+      HUGGING_FACE_USERNAME: ${{ secrets.GIT_USER_NAME }}
+      HUGGING_FACE_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
+
+    steps:
+      - name: "⬇️ Checkout main"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          path: "${{ env.REPO_MAIN }}"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⬇️ Checkout data"
+        uses: actions/checkout@v4
+        with:
+          ref: "data_${{ matrix.doc_class_label }}"
+          path: "${{ env.REPO_MAIN }}_data"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⚙️ Run pipeline"
+        run: |
+          cd ${{ env.REPO_MAIN }}
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global --add safe.directory /__w/${{ env.REPO_MAIN }}/${{ env.REPO_MAIN }}
+
+          git pull origin main --rebase
+          python workflows/pipeline.py "${{ matrix.doc_class_label }}" ${{ github.event.inputs.max_dt }}
+
+      - name: "⬆️ Push main"
+        run: |
+          cd ${{ env.REPO_MAIN }}
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin main --rebase
+          git push origin main
+
+      - name: "⬆️ Push data"
+        run: |
+          BRANCH_DATA="data_${{ matrix.doc_class_label }}"
+          cd ${{ env.REPO_MAIN }}_data
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+
+
+          for attempt in {1..8}; do
+            echo "Attempt $attempt to rebase+push..."
+            git fetch origin $BRANCH_DATA
+            git rebase origin/$BRANCH_DATA || git rebase --abort
+            if git push --force-with-lease origin HEAD:$BRANCH_DATA; then
+              echo "Push succeeded."
+              break
+            fi
+            sleep $(( (RANDOM % 10) + 5 ))
+            if [ $attempt -eq 8 ]; then
+              echo "Push failed after retries."
+              exit 1
+            fi
+          done
