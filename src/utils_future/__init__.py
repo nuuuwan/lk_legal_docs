@@ -7,6 +7,6 @@ from utils_future.FileOrDirFuture import FileOrDirFuture
 from utils_future.Format import Format
 from utils_future.Markdown import Markdown
 from utils_future.Parse import Parse
-from utils_future.pdf_file import PDFFile, PDFTextMixin
+from utils_future.pdf_file import PDFFile, PDFFileCompressMixin, PDFTextMixin
 from utils_future.WWW import WWW
 from utils_future.WWWSSLMixin import WWWSSLMixin

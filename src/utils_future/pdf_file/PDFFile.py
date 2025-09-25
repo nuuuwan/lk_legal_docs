@@ -1,4 +1,3 @@
-
 import pymupdf
 from utils import Log
 
