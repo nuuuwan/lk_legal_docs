@@ -41,10 +41,27 @@ jobs:
       - name: "⬇️ Checkout data"
         uses: actions/checkout@v4
         with:
-          ref: "data"
+          ref: "main"
           path: "${{ env.REPO_MAIN }}_data"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
           fetch-depth: 1
+
+      - name: "✅ Ensure data branch exists and is checked out"
+        run: |
+          cd "${{ env.REPO_MAIN }}_data"
+          if git ls-remote --heads origin data | grep -q 'refs/heads/data'; then
+            git fetch origin data
+            git switch data
+          else
+            git switch --orphan data
+            git rm -rf .
+            touch .gitkeep
+            git add .gitkeep
+            git -c user.email="${{ secrets.GIT_USER_EMAIL }}" \
+                -c user.name="${{ secrets.GIT_USER_NAME }}" \
+                commit -m "Initialize data branch"
+            git push -u origin data
+          fi
 
       - name: "⚙️ Run pipeline"
         run: |
