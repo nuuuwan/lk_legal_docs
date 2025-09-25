@@ -1,4 +1,4 @@
-name: pipeline
+name: build_global_readme
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
-  pipeline:
+  build_global_readme:
     runs-on: ubuntu-latest
 
     container:
@@ -24,7 +24,7 @@ jobs:
           token: "${{ secrets.REPO_DATA_TOKEN }}"
           fetch-depth: 1
 
-      - name: "⚙️ Run pipeline"
+      - name: "⚙️ Run build_global_readme"
         run: |
           cd ${{ env.REPO_MAIN }}
           export PYTHONPATH="$PYTHONPATH:./src"
@@ -44,6 +44,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [build_global_readme.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main

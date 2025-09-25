@@ -1,4 +1,4 @@
-name: pipeline
+name: pipeline_slow
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
-  pipeline:
+  pipeline_slow:
     runs-on: ubuntu-latest
 
     strategy:
@@ -58,18 +58,6 @@ jobs:
           git pull origin main --rebase
           python workflows/pipeline.py "${{ matrix.doc_class_label }}" ${{ github.event.inputs.max_dt }}
 
-      - name: "⬆️ Push main"
-        run: |
-          cd ${{ env.REPO_MAIN }}
-          git add .
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
-          git pull origin main --rebase
-          git push origin main
-
       - name: "⬆️ Push data"
         run: |
           BRANCH_DATA="data_${{ matrix.doc_class_label }}"
@@ -79,7 +67,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [pipeline_slow.yml] $(date '+%Y-%m-%d-%H%M')"
 
 
           for attempt in {1..8}; do
