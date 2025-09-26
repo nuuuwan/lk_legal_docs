@@ -9,7 +9,7 @@ class Format:
 
     @staticmethod
     def and_list(
-        x_list: list[str], max_display: int = 5
+        x_list: list[str], max_display: int = 30
     ) -> str:  # noqa: CFQ004
         assert max_display >= 2
         n = len(x_list)
