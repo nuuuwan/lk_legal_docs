@@ -59,10 +59,16 @@ class WWW(WWWSSLMixin):
         options = Options()
         options.add_argument("--headless")
         driver = webdriver.Firefox(options=options)
-        driver.get(self.url)
-        content = driver.page_source
-        driver.quit()
-        log.debug(f"Opened {self} with Selenium ({len(content):,}B)")
+
+        content = None
+        try:
+            driver.get(self.url)
+            content = driver.page_source
+            log.debug(f"Opened {self} with Selenium ({len(content):,}B)")
+
+        finally:
+            driver.quit()
+
         return content
 
     @cached_property

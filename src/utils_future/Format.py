@@ -20,7 +20,9 @@ class Format:
         if n <= max_display:
             return ", ".join(x_list[:-1]) + " & " + x_list[-1]
 
-        return ", ".join(x_list[:max_display]) + f" & {n - (max_display)} more"
+        return (
+            ", ".join(x_list[:max_display]) + f" & {n - (max_display)} more"
+        )
 
     @staticmethod
     def title(x) -> str:
