@@ -2,6 +2,7 @@ import inspect
 import os
 import pathlib
 from dataclasses import asdict
+from functools import cached_property
 
 from utils import JSONFile, Log, TSVFile
 
@@ -47,12 +48,16 @@ class AbstractDocMetadataMixin:
         d = JSONFile(json_path).read()
         return cls.from_dict(d)
 
+    @cached_property
+    def cmp(self):
+        return (self.date_str, self.doc_id)
+
     @classmethod
     def list_all(cls):
         doc_list = [
             cls.from_file(json_path) for json_path in cls.get_all_json_paths()
         ]
-        doc_list.sort(key=lambda doc: (doc.doc_id), reverse=True)
+        doc_list.sort(key=lambda doc: doc.cmp, reverse=True)
         return doc_list
 
     @classmethod
