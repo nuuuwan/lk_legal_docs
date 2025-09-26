@@ -2,6 +2,8 @@ from functools import cached_property
 
 import urllib3
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 from urllib3.exceptions import InsecureRequestWarning
 from utils import Log
 
@@ -74,3 +76,15 @@ class WWW(WWWSSLMixin):
         except Exception as e:
             log.error(f"Failed to download {self.url}: {e}")
             return
+
+    def read(self):
+        return self.content
+
+    def readSelenium(self):
+        options = Options()
+        options.add_argument("--headless")
+        driver = webdriver.Firefox(options=options)
+        driver.get(self.url)
+        content = driver.page_source
+        driver.quit()
+        return content
