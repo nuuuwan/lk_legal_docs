@@ -8,6 +8,7 @@ from scraper.abstract_doc.pipeline.AbstractDocPipelineExtendedDataMixin import \
     AbstractDocPipelineExtendedDataMixin  # noqa: E501
 from scraper.abstract_doc.pipeline.AbstractDocPipelineMetadataMixin import \
     AbstractDocPipelineMetadataMixin  # noqa: E501
+from scraper.global_readme.GlobalReadMe import GlobalReadMe
 
 log = Log("AbstractDocPipelineMixin")
 
@@ -34,3 +35,8 @@ class AbstractDocPipelineMixin(
         cls.build_summary()
         cls.build_doc_class_readme()
         cls.build_and_upload_to_hugging_face()
+
+        if not cls.is_multi_doc():
+            GlobalReadMe(
+                {cls.get_repo_name(): [cls.get_doc_class_label()]}
+            ).build()

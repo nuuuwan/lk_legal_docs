@@ -2,7 +2,9 @@ from functools import cached_property
 
 from utils import File, Log
 
-from scraper.abstract_doc import AbstractDoc
+from scraper.abstract_doc.readme.AbstractDocReadMeMixin import (
+    AbstractDocReadMeMixin,
+)
 from scraper.global_readme.GlobalReadMeSummaryMixin import (
     GlobalReadMeSummaryMixin,
 )
@@ -33,7 +35,7 @@ class GlobalReadMe(GlobalReadMeSummaryMixin):
         ]
 
     def get_lines_for_dataset(self, i_dataset, summary) -> list[str]:
-        header_lines = AbstractDoc.get_lines_for_header(summary)
+        header_lines = AbstractDocReadMeMixin.get_lines_for_header(summary)
         first_header_line = header_lines[0]
         first_header_line = f"## {i_dataset:03d} " + (
             first_header_line.replace("#SriLanka 🇱🇰", "")
@@ -43,8 +45,10 @@ class GlobalReadMe(GlobalReadMeSummaryMixin):
         header_lines[0] = first_header_line
         return (
             header_lines
-            + AbstractDoc.get_lines_for_blurb(summary)
-            + AbstractDoc.get_lines_chart_docs_by_year_and_lang(summary)
+            + AbstractDocReadMeMixin.get_lines_for_blurb(summary)
+            + AbstractDocReadMeMixin.get_lines_chart_docs_by_year_and_lang(
+                summary
+            )
         )
 
     @cached_property
@@ -56,7 +60,7 @@ class GlobalReadMe(GlobalReadMeSummaryMixin):
 
     @cached_property
     def lines_for_footer(self) -> list[str]:
-        return AbstractDoc.get_lines_for_footer()
+        return AbstractDocReadMeMixin.get_lines_for_footer()
 
     @cached_property
     def lines(self) -> list[str]:
