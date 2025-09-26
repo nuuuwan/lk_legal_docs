@@ -60,6 +60,10 @@ class AbstractDocReadMeMixin:
         return "- In " + Format.and_list(blurb_langs)
 
     @classmethod
+    def render_url_source_list(cls, url_source_list) -> str:
+        return Format.and_list([f"[{url}]({url})" for url in url_source_list])
+
+    @classmethod
     def get_lines_for_blurb(cls, summary) -> list[str]:
         doc_class_description = summary["doc_class_description"]
         time_updated = summary["time_updated"]
@@ -67,11 +71,14 @@ class AbstractDocReadMeMixin:
         date_str_min = summary["date_str_min"]
         date_str_max = summary["date_str_max"]
         dataset_size = summary["dataset_size"]
-        url_source = summary["url_source"]
         url_data = summary["url_data"]
 
         dataset_size_humanized = FileOrDirFuture.humanize_size(dataset_size)
         time_updated_for_badge = Format.badge(time_updated)
+
+        url_source_list = summary.get("url_source_list") or [
+            summary["url_source"]
+        ]  # HACK! legacy url_source should be removed
 
         return [
             "![LastUpdated](https://img.shields.io/badge"
@@ -84,7 +91,8 @@ class AbstractDocReadMeMixin:
             f"- [**{n_docs:,}** documents]({url_data})"
             + f" (**{dataset_size_humanized}**),"
             + f" from **{date_str_min}** to **{date_str_max}**,"
-            + f" scraped from **[{url_source}]({url_source})**",
+            + " scraped from "
+            + cls.render_url_source_list(url_source_list),
             "",
             cls.get_line_for_blurb_item_files(summary),
             "",

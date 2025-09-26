@@ -13,6 +13,25 @@ class AbstractDocSummaryMixin:
     def has_pdf(self) -> bool:
         return False
 
+    @staticmethod
+    def get_url_source_list(doc_list) -> list:
+        url_metadata_list = [doc.url_metadata for doc in doc_list]
+        top_url_list = [
+            "/".join(url.split("/")[:3]) for url in url_metadata_list
+        ]
+        top_url_to_n = {}
+        for top_url in top_url_list:
+            if top_url not in top_url_to_n:
+                top_url_to_n[top_url] = 0
+            top_url_to_n[top_url] += 1
+
+        sorted_top_url_to_n = dict(
+            sorted(
+                top_url_to_n.items(), key=lambda item: item[1], reverse=True
+            )
+        )
+        return list(sorted_top_url_to_n.keys())
+
     @classmethod
     def get_summary(cls) -> dict:
         doc_list = cls.list_all()
@@ -28,7 +47,7 @@ class AbstractDocSummaryMixin:
         date_str_max = max(date_strs)
         dataset_size = FileOrDirFuture(cls.get_data_branch_dir_root()).size
         latest_doc = doc_list[0]
-        url_source = "/".join(latest_doc.url_metadata.split("/")[:3])
+        url_source_list = cls.get_url_source_list(doc_list)
         url_data = cls.get_remote_data_url_for_class()
         latest_doc_d = latest_doc.to_dict()
         langs = set([doc.lang for doc in doc_list])
@@ -49,7 +68,7 @@ class AbstractDocSummaryMixin:
             date_str_min=date_str_min,
             date_str_max=date_str_max,
             dataset_size=dataset_size,
-            url_source=url_source,
+            url_source_list=url_source_list,
             url_data=url_data,
             url_chart=url_chart,
             langs=list(langs),
