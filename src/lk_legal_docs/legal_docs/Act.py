@@ -101,3 +101,13 @@ class Act(AbstractPDFDoc):
     def gen_docs(cls) -> Generator["Act", None, None]:
         for url_year in cls.gen_url_years():
             yield from cls.gen_docs_for_year(url_year)
+
+    @classmethod
+    def run_pipeline(cls, max_dt=None):
+        max_dt = (
+            max_dt
+            or (float(sys.argv[2]) if len(sys.argv) > 2 else None)
+            or cls.MAX_DT
+        )
+        log.debug(f"{max_dt=}s")
+        AbstractPDFDoc.run_pipeline(max_dt=max_dt)
