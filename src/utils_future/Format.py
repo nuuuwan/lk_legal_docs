@@ -8,12 +8,19 @@ class Format:
         return x
 
     @staticmethod
-    def and_list(x_list) -> str:
-        if len(x_list) == 0:
+    def and_list(
+        x_list: list[str], max_display: int = 5
+    ) -> str:  # noqa: CFQ004
+        assert max_display >= 2
+        n = len(x_list)
+        if n == 0:
             return ""
-        if len(x_list) == 1:
+        if n == 1:
             return x_list[0]
-        return ", ".join(x_list[:-1]) + " & " + x_list[-1]
+        if n <= max_display:
+            return ", ".join(x_list[:-1]) + " & " + x_list[-1]
+
+        return ", ".join(x_list[:max_display]) + f" & {n - (max_display)} more"
 
     @staticmethod
     def title(x) -> str:
