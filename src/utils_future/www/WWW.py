@@ -60,7 +60,10 @@ class WWW(WWWSSLMixin):
     def download_binary(self, local_path):
         try:
             response = WWW.get_session().get(
-                self.url, timeout=self.TIMEOUT, verify=False
+                self.url,
+                timeout=self.TIMEOUT,
+                verify=False,
+                headers=self.HEADERS,
             )
             print(response.status_code)
             response.raise_for_status()
