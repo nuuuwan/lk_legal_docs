@@ -14,6 +14,7 @@ urllib3.disable_warnings(InsecureRequestWarning)
 
 class WWW(WWWSSLMixin):
     TIMEOUT = 120
+
     HEADERS = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         + "AppleWebKit/537.36 (KHTML, like Gecko) "
