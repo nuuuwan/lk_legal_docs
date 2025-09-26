@@ -26,7 +26,7 @@ class AbstractDocHuggingFaceMixin:
 
     @classmethod
     def build_docs(cls):
-        d_list = [doc.to_dict() for doc in cls.list_all()]
+        d_list = [doc.to_dict() for doc in cls.list_all_ascending()]
         BigJSONFile(cls.get_docs_json_path()).write(d_list)
         return d_list
 
@@ -59,7 +59,7 @@ class AbstractDocHuggingFaceMixin:
     @classmethod
     def build_chunks(cls):
         d_list = []
-        for doc in cls.list_all():
+        for doc in cls.list_all_ascending():
             d_list.extend(cls.get_data_list_for_doc(doc))
 
         BigJSONFile(cls.get_chunks_json_path()).write(d_list)

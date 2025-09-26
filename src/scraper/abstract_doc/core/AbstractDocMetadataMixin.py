@@ -61,6 +61,12 @@ class AbstractDocMetadataMixin:
         return doc_list
 
     @classmethod
+    def list_all_ascending(cls):
+        doc_list = cls.list_all()
+        doc_list.sort(key=lambda doc: doc.cmp, reverse=False)
+        return doc_list
+
+    @classmethod
     def get_url_metadata_set(cls) -> set[str]:
         return {
             doc.url_metadata
