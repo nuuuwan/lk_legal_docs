@@ -1,3 +1,4 @@
+import time
 from functools import cached_property
 
 import urllib3
@@ -22,6 +23,8 @@ class WWW(WWWSSLMixin):
         + "AppleWebKit/537.36 (KHTML, like Gecko) "
         + "Chrome/127.0.0.0 Safari/537.36"
     }
+
+    T_SELENIUM_LOAD = 5
 
     def __init__(self, url):
         self.url = url
@@ -63,9 +66,9 @@ class WWW(WWWSSLMixin):
         content = None
         try:
             driver.get(self.url)
+            time.sleep(self.T_SELENIUM_LOAD)
             content = driver.page_source
             log.debug(f"Opened {self} with Selenium ({len(content):,}B)")
-
         finally:
             driver.quit()
 
@@ -85,7 +88,6 @@ class WWW(WWWSSLMixin):
                 verify=False,
                 headers=self.HEADERS,
             )
-            print(response.status_code)
             response.raise_for_status()
             with open(local_path, "wb") as f:
                 f.write(response.content)
