@@ -29,7 +29,3 @@ class ExtraordinaryGazette(Act):
     @classmethod
     def get_url_index(cls) -> str:
         return f"{cls.get_url_base()}/egz.html"
-
-    @classmethod
-    def build_global_readme(cls):
-        pass
