@@ -2,12 +2,10 @@ from functools import cached_property
 
 from utils import File, Log
 
-from scraper.abstract_doc.readme.AbstractDocReadMeMixin import (
-    AbstractDocReadMeMixin,
-)
-from scraper.global_readme.GlobalReadMeSummaryMixin import (
-    GlobalReadMeSummaryMixin,
-)
+from scraper.abstract_doc.readme.AbstractDocReadMeMixin import \
+    AbstractDocReadMeMixin
+from scraper.global_readme.GlobalReadMeSummaryMixin import \
+    GlobalReadMeSummaryMixin
 from utils_future import FileOrDirFuture
 
 log = Log("GlobalReadMe")

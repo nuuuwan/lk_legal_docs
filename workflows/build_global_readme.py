@@ -3,7 +3,13 @@ from scraper import GlobalReadMe
 
 def main():
     GlobalReadMe(
-        {"lk_legal_docs": ["lk_acts", "lk_bills", "lk_extraordinary_gazettes"]}
+        {
+            "lk_legal_docs": [
+                "lk_acts",
+                "lk_bills",
+                "lk_extraordinary_gazettes",
+            ]
+        }
     ).build()
 
 
