@@ -55,6 +55,17 @@ class WWW(WWWSSLMixin):
             return None
 
     @cached_property
+    def content_from_selenium(self):
+        options = Options()
+        options.add_argument("--headless")
+        driver = webdriver.Firefox(options=options)
+        driver.get(self.url)
+        content = driver.page_source
+        driver.quit()
+        log.debug(f"Opened {self} with Selenium ({len(content):,}B)")
+        return content
+
+    @cached_property
     def soup(self):
         if not self.content:
             return None
@@ -81,10 +92,4 @@ class WWW(WWWSSLMixin):
         return self.content
 
     def readSelenium(self):
-        options = Options()
-        options.add_argument("--headless")
-        driver = webdriver.Firefox(options=options)
-        driver.get(self.url)
-        content = driver.page_source
-        driver.quit()
-        return content
+        return self.content_from_selenium
