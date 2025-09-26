@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:13:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:39:53-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -20,7 +20,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:34:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:06:56-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -36,15 +36,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:27:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:57:48-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**101,168** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**13.1 GB**), from **2010-01-01** to **2025-09-23**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
+- [**101,168** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**13.2 GB**), from **2010-01-01** to **2025-09-23**, scraped from **[https://documents.gov.lk](https://documents.gov.lk)**
 
-- In **JSON**, **PDF** (14%), **TXT** (13%) & **🤗 Hugging Face** (13%)
+- In **JSON**, **PDF** (14%), **TXT** (14%) & **🤗 Hugging Face** (14%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
