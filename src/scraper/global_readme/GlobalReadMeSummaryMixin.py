@@ -1,4 +1,7 @@
 import requests
+from utils import Log
+
+log = Log("GlobalReadMeSummaryMixin")
 
 
 class GlobalReadMeSummaryMixin:
@@ -23,17 +26,24 @@ class GlobalReadMeSummaryMixin:
 
     @classmethod
     def get_summary(cls, repo_name, doc_class_label):
-        url = cls.get_url_summary(repo_name, doc_class_label)
-        response = requests.get(url, timeout=120)
-        response.raise_for_status()
-        return response.json()
+        try:
+            url = cls.get_url_summary(repo_name, doc_class_label)
+            response = requests.get(url, timeout=120)
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            log.error(
+                f"Failed to get summary for {repo_name}/{doc_class_label}: {e}"
+            )
+            return None
 
     def get_summary_list(self) -> list[dict]:
         summary_list = []
         for repo_name, doc_class_labels in self.repo_to_doc_classes.items():
             for doc_class_label in doc_class_labels:
                 summary = self.get_summary(repo_name, doc_class_label)
-                summary_list.append(summary)
+                if summary:
+                    summary_list.append(summary)
         return summary_list
 
     @classmethod
