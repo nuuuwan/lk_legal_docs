@@ -79,8 +79,16 @@ class AbstractDocMetadataMixin:
         doc_list = cls.list_all()
         for time_unit in ["decade", "year", "month", "day"]:
             ts_list = [doc.get_ts(time_unit) for doc in doc_list]
-            n = len(set(ts_list))
-            if n >= cls.MAX_X_LABELS:
+            ts_to_n = {}
+            for ts in ts_list:
+                ts_to_n[ts] = ts_to_n.get(ts, 0) + 1
+            n = len(ts_list)
+            min_n = n * 0.01
+            sufficient_ts_list = [
+                x[0] for x in ts_to_n.items() if x[1] >= min_n
+            ]
+            n_sufficient_ts = len(set(sufficient_ts_list))
+            if n_sufficient_ts >= cls.MAX_X_LABELS:
                 return time_unit
         return "year"
 
