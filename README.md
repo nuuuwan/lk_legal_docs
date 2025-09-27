@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**3** datasets, with **109,224** documents (**24.3 GB**).
+**3** datasets, with **109,224** documents (**24.4 GB**).
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_03:40:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_04:09:59-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -20,7 +20,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_04:05:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_04:34:20-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -36,13 +36,13 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_04:00:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_04:29:47-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**101,237** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**15.7 GB**), from **2010-01-01** to **2025-09-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**101,237** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**15.8 GB**), from **2010-01-01** to **2025-09-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (18%), **TXT** (17%) & **🤗 Hugging Face** (17%)
 
