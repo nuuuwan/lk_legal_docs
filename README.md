@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_15:09:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_15:39:57-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -20,7 +20,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_15:34:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_16:06:12-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -36,7 +36,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_15:27:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_15:59:37-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
@@ -44,7 +44,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - [**101,237** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**16.4 GB**), from **2010-01-01** to **2025-09-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (19%), **TXT** (18%) & **🤗 Hugging Face** (18%)
+- In **JSON**, **PDF** (19%), **TXT** (19%) & **🤗 Hugging Face** (19%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
