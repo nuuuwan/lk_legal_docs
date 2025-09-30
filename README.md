@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:13:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:39:51-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -20,7 +20,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:34:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_03:04:20-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -36,13 +36,13 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:29:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:58:14-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**101,328** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**17.8 GB**), from **2010-01-01** to **2025-09-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**101,328** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**17.9 GB**), from **2010-01-01** to **2025-09-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (21%), **TXT** (21%) & **🤗 Hugging Face** (21%)
 
