@@ -43173,5 +43173,38 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/acts/2025/9/18-2025_T.pdf",
     "doc_number": "18/2025"
+  },
+  {
+    "doc_type": "lk_acts",
+    "doc_id": "2025-09-22-2025-09-22-19-2025-en",
+    "num": "2025-09-22-19-2025-en",
+    "date_str": "2025-09-22",
+    "description": "National Audit (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/9/19-2025_E.pdf",
+    "doc_number": "19/2025"
+  },
+  {
+    "doc_type": "lk_acts",
+    "doc_id": "2025-09-22-2025-09-22-19-2025-si",
+    "num": "2025-09-22-19-2025-si",
+    "date_str": "2025-09-22",
+    "description": "National Audit (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/9/19-2025_S.pdf",
+    "doc_number": "19/2025"
+  },
+  {
+    "doc_type": "lk_acts",
+    "doc_id": "2025-09-22-2025-09-22-19-2025-ta",
+    "num": "2025-09-22-19-2025-ta",
+    "date_str": "2025-09-22",
+    "description": "National Audit (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/9/19-2025_T.pdf",
+    "doc_number": "19/2025"
   }
 ]

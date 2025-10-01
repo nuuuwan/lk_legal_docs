@@ -2,13 +2,13 @@
   "doc_class_label": "lk_acts",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",
-  "time_updated": "2025-10-01 10:39:09",
-  "n_docs": 3925,
-  "n_docs_with_pdfs": 3919,
-  "n_docs_with_text": 3919,
+  "time_updated": "2025-10-01 11:12:39",
+  "n_docs": 3928,
+  "n_docs_with_pdfs": 3922,
+  "n_docs_with_text": 3922,
   "date_str_min": "1981-01-22",
-  "date_str_max": "2025-09-10",
-  "dataset_size": 6790058827,
+  "date_str_max": "2025-09-22",
+  "dataset_size": 6791559251,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -21,13 +21,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_acts",
-    "doc_id": "2025-09-10-2025-09-10-18-2025-ta",
-    "num": "2025-09-10-18-2025-ta",
-    "date_str": "2025-09-10",
-    "description": "Presidents\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 Entitlements (Repeal)",
+    "doc_id": "2025-09-22-2025-09-22-19-2025-ta",
+    "num": "2025-09-22-19-2025-ta",
+    "date_str": "2025-09-22",
+    "description": "National Audit (Amendment)",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2025/9/18-2025_T.pdf",
-    "doc_number": "18/2025"
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/9/19-2025_T.pdf",
+    "doc_number": "19/2025"
   }
 }
