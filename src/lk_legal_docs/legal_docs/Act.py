@@ -5,7 +5,7 @@ from typing import Generator
 from utils import Log
 
 from scraper import AbstractPDFDoc, GlobalReadMe
-from utils_future import WWW
+from utils import WWW
 
 log = Log("Act")
 
