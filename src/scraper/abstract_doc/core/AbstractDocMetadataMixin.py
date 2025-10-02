@@ -4,9 +4,7 @@ import pathlib
 from dataclasses import asdict
 from functools import cached_property
 
-from utils import JSONFile, Log, TSVFile
-
-from utils_future import FileOrDirFuture
+from utils import FileOrDirectory, JSONFile, Log, TSVFile
 
 log = Log("AbstractDocMetadataMixin")
 
@@ -136,4 +134,4 @@ class AbstractDocMetadataMixin:
             d_list_for_file = d_list[:n] if n else d_list
             all_tsv_path = cls.get_all_tsv_path(suffix)
             TSVFile(all_tsv_path).write(d_list_for_file)
-            log.info(f"Wrote {FileOrDirFuture(all_tsv_path)}")
+            log.info(f"Wrote {FileOrDirectory(all_tsv_path)}")

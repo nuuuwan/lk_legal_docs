@@ -1,12 +1,11 @@
 from functools import cached_property
 
-from utils import File, Log
+from utils import File, FileOrDirectory, Log
 
 from scraper.abstract_doc.readme.AbstractDocReadMeMixin import \
     AbstractDocReadMeMixin
 from scraper.global_readme.GlobalReadMeSummaryMixin import \
     GlobalReadMeSummaryMixin
-from utils_future import FileOrDirFuture
 
 log = Log("GlobalReadMe")
 
@@ -22,7 +21,7 @@ class GlobalReadMe(GlobalReadMeSummaryMixin):
     @cached_property
     def lines_for_global_summary(self) -> list[str]:
         log.debug(f"global_summary={self.global_summary}")
-        all_dataset_size_humanized = FileOrDirFuture.humanize_size(
+        all_dataset_size_humanized = FileOrDirectory.humanize_size(
             self.global_summary["all_dataset_size"]
         )
         return [

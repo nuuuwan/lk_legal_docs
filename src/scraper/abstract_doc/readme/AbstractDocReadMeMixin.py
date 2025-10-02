@@ -1,9 +1,7 @@
 import json
 import os
 
-from utils import File, Log
-
-from utils_future import FileOrDirFuture, Format
+from utils import File, FileOrDirectory, Format, Log
 
 log = Log("AbstractDocReadMeMixin")
 
@@ -73,7 +71,7 @@ class AbstractDocReadMeMixin:
         dataset_size = summary["dataset_size"]
         url_data = summary["url_data"]
 
-        dataset_size_humanized = FileOrDirFuture.humanize_size(dataset_size)
+        dataset_size_humanized = FileOrDirectory.humanize_size(dataset_size)
         time_updated_for_badge = Format.badge(time_updated)
 
         url_source_list = summary.get("url_source_list") or [

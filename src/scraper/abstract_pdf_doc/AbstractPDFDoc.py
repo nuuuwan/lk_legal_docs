@@ -4,10 +4,9 @@ from abc import ABC
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import File, JSONFile, Log
+from utils import WWW, File, JSONFile, Log, PDFFile
 
 from scraper.abstract_doc import AbstractDoc
-from utils_future import WWW, PDFFile
 
 log = Log("AbstractPDFDoc")
 

@@ -1,8 +1,6 @@
 import os
 
-from utils import JSONFile, Log, Time, TimeFormat
-
-from utils_future import FileOrDirFuture
+from utils import FileOrDirectory, JSONFile, Log, Time, TimeFormat
 
 log = Log("AbstractDocSummaryMixin")
 
@@ -45,7 +43,7 @@ class AbstractDocSummaryMixin:
         date_strs = [doc.date_str for doc in doc_list]
         date_str_min = min(date_strs)
         date_str_max = max(date_strs)
-        dataset_size = FileOrDirFuture(cls.get_data_branch_dir_root()).size
+        dataset_size = FileOrDirectory(cls.get_data_branch_dir_root()).size
         latest_doc = doc_list[0]
         url_source_list = cls.get_url_source_list(doc_list)
         url_data = cls.get_remote_data_url_for_class()
