@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_12:11:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_12:34:48-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,071** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-10-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,074** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-10-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -48,6 +48,9 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-10-01 | `2025-10-01-637-2025-ta` | Institute of Real Estate Professionals, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-10-01-2025-10-01-637-2025-ta)
 - 2025-10-01 | `2025-10-01-637-2025-si` | Institute of Real Estate Professionals, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-10-01-2025-10-01-637-2025-si)
 - 2025-10-01 | `2025-10-01-637-2025-en` | Institute of Real Estate Professionals, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-10-01-2025-10-01-637-2025-en)
+- 2025-09-26 | `2025-09-26-639-2025-ta` | Appropriation - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-26-2025-09-26-639-2025-ta)
+- 2025-09-26 | `2025-09-26-639-2025-si` | Appropriation - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-26-2025-09-26-639-2025-si)
+- 2025-09-26 | `2025-09-26-639-2025-en` | Appropriation - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-26-2025-09-26-639-2025-en)
 - 2025-09-22 | `2025-09-22-635-2025-ta` | Sri Lanka Institute of Architects (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-22-2025-09-22-635-2025-ta)
 - 2025-09-22 | `2025-09-22-635-2025-si` | Sri Lanka Institute of Architects (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-22-2025-09-22-635-2025-si)
 - 2025-09-22 | `2025-09-22-635-2025-en` | Sri Lanka Institute of Architects (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-22-2025-09-22-635-2025-en)
@@ -56,9 +59,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-09-18 | `2025-09-18-634-2025-en` | Protection of Occupants - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-18-2025-09-18-634-2025-en)
 - 2025-09-18 | `2025-09-18-633-2025-ta` | Rent (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-18-2025-09-18-633-2025-ta)
 - 2025-09-18 | `2025-09-18-633-2025-si` | Rent (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-18-2025-09-18-633-2025-si)
-- 2025-09-18 | `2025-09-18-633-2025-en` | Rent (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-18-2025-09-18-633-2025-en)
-- 2025-09-17 | `2025-09-17-632-2025-ta` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-17-2025-09-17-632-2025-ta)
-- 2025-09-17 | `2025-09-17-632-2025-si` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-09-17-2025-09-17-632-2025-si)
 
 ---
 
