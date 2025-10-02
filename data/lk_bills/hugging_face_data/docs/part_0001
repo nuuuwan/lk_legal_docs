@@ -44713,5 +44713,71 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/bills/2025/10/637-2025_T.pdf",
     "doc_number": "637/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-01-2025-10-01-638-2025-en",
+    "num": "2025-10-01-638-2025-en",
+    "date_str": "2025-10-01",
+    "description": "Social Security Contribution Levy (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/638-2025_E.pdf",
+    "doc_number": "638/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-01-2025-10-01-638-2025-si",
+    "num": "2025-10-01-638-2025-si",
+    "date_str": "2025-10-01",
+    "description": "Social Security Contribution Levy (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/638-2025_S.pdf",
+    "doc_number": "638/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-01-2025-10-01-638-2025-ta",
+    "num": "2025-10-01-638-2025-ta",
+    "date_str": "2025-10-01",
+    "description": "Social Security Contribution Levy (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/638-2025_T.pdf",
+    "doc_number": "638/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-26-2025-10-26-639-2025-en",
+    "num": "2025-10-26-639-2025-en",
+    "date_str": "2025-10-26",
+    "description": "Appropriation - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/639-2025_E.pdf",
+    "doc_number": "639/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-26-2025-10-26-639-2025-si",
+    "num": "2025-10-26-639-2025-si",
+    "date_str": "2025-10-26",
+    "description": "Appropriation - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/639-2025_S.pdf",
+    "doc_number": "639/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-26-2025-10-26-639-2025-ta",
+    "num": "2025-10-26-639-2025-ta",
+    "date_str": "2025-10-26",
+    "description": "Appropriation - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/639-2025_T.pdf",
+    "doc_number": "639/2025"
   }
 ]
