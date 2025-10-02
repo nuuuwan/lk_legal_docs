@@ -8,13 +8,10 @@ class Format:
         return x
 
     @staticmethod
-    def and_list(
-        x_list: list[str], max_display: int = 30
-    ) -> str:  # noqa: CFQ004
+    def and_list(x_list: list[str], max_display: int = 30) -> str:
         assert max_display >= 2
         n = len(x_list)
-        if n == 0:
-            return ""
+        assert n > 0
         if n == 1:
             return x_list[0]
         if n <= max_display:
