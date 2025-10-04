@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**3** datasets, with **109,537** documents (**28.1 GB**).
+**3** datasets, with **109,537** documents (**28.2 GB**).
 
 ## 001 ⚖️ Acts
 
@@ -36,15 +36,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_23:00:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_00:01:08-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**101,532** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**19.5 GB**), from **2010-01-01** to **2025-10-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**101,532** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes) (**19.6 GB**), from **2010-01-01** to **2025-10-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (23%), **TXT** (22%) & **🤗 Hugging Face** (22%)
+- In **JSON**, **PDF** (23%), **TXT** (23%) & **🤗 Hugging Face** (23%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
