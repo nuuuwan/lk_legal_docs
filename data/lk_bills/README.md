@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:08:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:35:24-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -11,6 +11,8 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
 - In **සිංහල**, **தமிழ்** & **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ## 📝 Example Metadata
 
