@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_10:43:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:15:57-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -16,11 +16,13 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 - In **සිංහල**, **தமிழ்** & **English**
 
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
+
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_acts/data/lk_acts/docs_by_decade_and_lang.png)
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_10:36:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:35:22-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -32,11 +34,13 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 - In **සිංහල**, **தமிழ்** & **English**
 
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
+
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png)
 
 ## 003 ⚖️ Extraordinary Gazettes
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:01:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:28:09-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes)
 
@@ -47,6 +51,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - In **JSON**, **PDF** (24%), **TXT** (23%) & **🤗 Hugging Face** (23%)
 
 - In **සිංහල**, **தமிழ்** & **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes/data/lk_extraordinary_gazettes/docs_by_year_and_lang.png)
 
