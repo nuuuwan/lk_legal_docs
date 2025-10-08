@@ -1,0 +1,543 @@
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 70 of Block 1, contained in the Cadastral Map No. 420350, situated in the Village of Nikapothagama within the Grama Niladhari Division of No. 756 - Hadirawalana Ihala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0295 calling for claims to land parcels which was duly published in the Gazette No. 1796/31 of 08th February, 2013 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2454/30 - 2025 සැප්තැම්බර් මස 16 වැනි අඟහරුවාදා - 2025.09.16
+
+No. 2454/30 – TUESDAY, SEPTEMBER 16, 2025 - 16.09.2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 045390 - 04 (09/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:70 0.3779 Narasinghe Wijendra Gamlathge 951371645V Full 1st Class Subject to the _ Dhanushka Pasindu Chathuranga life inertest of Harirawalana Road, Nikapotha, Narasinghe Wellawa Wijendra Galladdalage Dhanapala EOG 09 - 0157/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 76 and 1 : 94 of Block 2, contained in the Cadastral Map No. 420351, situated in the Village of Adukkana within the Grama Niladhari Division of No. 757 - Pahala Hadirawalana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0371 calling for claims to land parcels which was duly published in the Gazette No. 1906/31 of 18th March, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:76 0.0038 The State Full 1st Class _ _ 1:94 0.0636 The State Full 1st Class _ _ EOG 09 - 0157/2
+
+3 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 13 : 2 of Block 2, contained in the Cadastral Map No. 420352, situated in the Village of Thalatuwa within the Grama Niladhari Division of No. 758 - Thalatuwa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0305 calling for claims to land parcels which was duly published in the Gazette No. 1804/47 of 05th April, 2013 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+13:2 0.0759 Naranvita Madhu Arachchilage 765912059V Full 1st Class _ _ Wijelakshmi C 102/1, Malmaduwa Road, Atala EOG 09 - 0157/3 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 6 : 131 of Block 4, contained in the Cadastral Map No. 420352, situated in the Village of Waththegama within the Grama Niladhari Division of No. 758 - Thalatuwa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0333 calling for claims to land parcels which was duly published in the Gazette No. 1867/18 of 20th June, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+6:131 0.0380 Karuna Pedige Upul Shantha 742410730V Full 1st Class With the right _ Karunarathna to access with 123, Rikillagamuva Colony, Servitude of Wellawa Parcel No. 142 EOG 09 - 0157/4 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 148 of Block 4, contained in the Cadastral Map No. 420353, situated in the Village of Wellawa within the Grama Niladhari Division of No. 759 - Wellawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0332 calling for claims to land parcels which was duly published in the Gazette No. 1864/36 of 28th May, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:148 0.0374 Weerasekara Ekanayaka Mudiyanselage 726172110V Full 1st Class With the right _ Anusha to access with 509, Galagedara, Makulwewa servitude of Parcel No. 420353/06/01 EOG 09 - 0157/5
+
+5 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 107 of Block 5, contained in the Cadastral Map No. 420353, situated in the Village of Panagamuwa within the Grama Niladhari Division of No. 759 - Wellawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0395 calling for claims to land parcels which was duly published in the Gazette No. 1946/30 of 22nd December, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:107 0.0109 Private Full 1st Class To access _ Parcel Nos. 108, 109 and 110 EOG 09 - 0157/6 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 186 and 1 : 187 of Block 4, contained in the Cadastral Map No. 420354, situated in the Village of Godagama within the Grama Niladhari Division of No. 760 - Dematagolla in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0406 calling for claims to land parcels which was duly published in the Gazette No. 1951/04 of 25th January, 2016 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+6 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:186 0.6478 Samarakkody Dumidu Dulmini 197721601417 Full 1st Class _ _ Ranasinghe Godagama, Wellawa 1:187 0.0242 Samarakkody Dumidu Dulmini 197721601417 Full 1st Class _ _ Ranasinghe Godagama, Wellawa EOG 09 - 0157/7 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 40 and 1 : 85 of Block 3, contained in the Cadastral Map No. 420355, situated in the Village of Rikillagamuwa within the Grama Niladhari Division of No. 761 - Rikillagamuwa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0324 calling for claims to land parcels which was duly published in the Gazette No. 1847/66 of 31st January, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:40 0.1900 Incumbent Lunukadawella Rajamaha Full 1st Class _ _ Viharaya Rikillagamuva, Wellawa 1:85 0.1792 The State Full 1st Class _ Land reserved for the tank bund EOG 09 - 0157/8
+
+7 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 60 of Block 3, contained in the Cadastral Map No. 420356, situated in the Village of Budanapitiya within the Grama Niladhari Division of No. 762 - Budanapitiya in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0385 calling for claims to land parcels which was duly published in the Gazette No. 1926/39 of 05th August, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:60 0.0296 Jayakody Arachchilage Chandralatha 697000984V Full 1st Class _ _ Padmini Jayakody No. 401, Ihala Budanapitiya, Wellawa EOG 09 - 0157/9 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 37 of Block 1, contained in the Cadastral Map No. 420357, situated in the Village of Bamunapotha within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0330 calling for claims to land parcels which was duly published in the Gazette No. 1855/12 of 24th March, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+8 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:37 0.0626 The State Full 1st Class _ _ EOG 09 - 0157/10 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 48 of Block 2, contained in the Cadastral Map No. 420357, situated in the Village of Bamunapotha within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0335 calling for claims to land parcels which was duly published in the Gazette No. 1871/11 of 14th July, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:48 0.0114 The State Full 1st Class _ _ EOG 09 - 0157/11 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 1, 1 : 52, 1 : 56,
+
+9 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+1 : 65, 3 : 140, 6 : 147, 6 : 148 and 6 : 149 of Block 3, contained in the Cadastral Map No. 420357, situated in the Village of Bamunapotha within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0385 calling for claims to land parcels which was duly published in the Gazette No. 1926/39 of 05th August, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:1 0.0074 Private _ Full 1st Class _ Land reserved for the Public well 1:52 0.3552 Wasala Mudiyanselage Ukku Amma 577190496V Full 1st Class _ _ Bamunapotha, Wellawa 1:56 0.1267 Mannapperu Mudiyanselage Gunarath 587173760V Full 1st Class _ _ Menike Puwakgolla, Bamunapotha, Wellawa 1:65 0.1681 Herath Mudiyanselage Chaminda Herath 941350461V Full 1st Class Subject to the _ Bumunapotha, Medagama, Wellawa life interest of Herath Mudiyanselage Loku Banda 3:140 0.2122 Sri Narayana Bamunu Mudiyanselage 537420278X Full 1st Class _ _ Siwurathna Menike Bamunapotha, Wellawa 6:147 0.1327 Sri Narayana Bamunu Mudiyanselage 200011701556 Full 1st Class _ _ Janith Samitha Rathnayaka Bamunapotha, Assedduma, Wellawa 6:148 0.1327 Sri Narayana Bamunu Mudiyanselage 200011701556 Full 1st Class _ _ Janith Samitha Rathnayaka Bamunapotha, Assedduma, Wellawa 6:149 0.1326 Ganega Ralalage Kumudhuni 866842060V Full 1st Class _ _ Damayanthi Bamunapotha, Assedduma, Wellawa EOG 09 - 0157/12 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 121 of Block 6, contained in the Cadastral Map No. 420357, situated in the Village of Waraddana within the Grama Niladhari Division of No. 763 -
+
+10 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0441 calling for claims to land parcels which was duly published in the Gazette No. 1981/12 of 22nd August, 2016 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:121 0.0036 The State Full 1st Class _ _ EOG 09 - 0157/13 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 43 of Block 7, contained in the Cadastral Map No. 420357, situated in the Village of Mirihabura within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0451 calling for claims to land parcels which was duly published in the Gazette No. 1985/33 of 29th September, 2016 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+11 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:43 0.0270 Sri Narayana Bamunu Mudiyanselage 196834800134 Full 1st Class _ _ Karunarathna 367, Bamunapotha, Mirihambura, Werella, Wellawa EOG 09 - 0157/14 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 98 and 1 : 100 of Block 9, contained in the Cadastral Map No. 420357, situated in the Village of Waraddana within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0462 calling for claims to land parcels which was duly published in the Gazette No. 1991/34 of 02nd November, 2016 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:98 0.0413 The State Full 1st Class _ _ 1:100 0.4452 Sri Narayana Bamunu Mudiyanselage 540060452V Full 1st Class _ _ Rejinton Ananda Soba, Waraddana, Wellawa EOG 09 - 0157/15
+
+12 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 121 of Block 10, contained in the Cadastral Map No. 420357, situated in the Village of Waraddana within the Grama Niladhari Division of No. 763 - Waraddana in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0525 calling for claims to land parcels which was duly published in the Gazette No. 2030/24 of 02nd August, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:121 0.0486 Jayasundara Mudiyanselage 197779103824 Full 1st Class Subject to the _ Sumanawathi Jayasundara life inertest of 472/2, Kattambuwawa, Mapa Koonwewa Mudiyanselage Punchi Bandage Nandawathi As a firm gift giving up the power of revocation EOG 09 - 0157/16 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 2 : 319, 11 : 1, 11 : 2, 11 : 3, 11 : 4, 11 : 5, 11 : 6, 11 : 7 and 11 : 8 of Block 2, contained in the Cadastral Map No. 420358, situated in the Village of Rangama within the Grama Niladhari Division of No. 764 - Rangama in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0339 calling for claims to land parcels which was duly published in the Gazette No. 1876/09 of 19th August, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+13 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+2:319 0.0825 Disanayaka Mudiyanselage Subhashini 766072755V Full 1st Class Subject to the _ Chamila Disanayaka life interest of Disna, Udumulla, Doratiyava Basnayaka Mudiyanselage Bisomenike As a firm gift, giving up the power of revocation 11:1 0.0379 Divulgaspitiya Naidelage Rumesh 953201569V Full 1st Class With the right _ Pushpamal Kumara to access with Weweldeniya, Hunupola, servitude of Nikapotha Parcel No. 420358/02/11/04 11:2 0.0563 Basnayaka Mudiyanselage Somawathi 618663418V Full 1st Class With the right _ Basnayaka Menike to access with Rangama, Medakotasa, Rangama, servitude of Wellawa Parcel No. 420358/02/11/04 11:3 0.0563 Basnayaka Mudiyanselage Somawathi 618663418V Full 1st Class With the right _ Basnayaka Menike to access with Rangama, Medakotasa, Rangama, servitude of Wellawa Parcel No. 420358/02/11/04 11:4 0.0363 Private Full 1st Class To access _ Parcel Nos. 01,02.03,05,06,07 and 08 11:5 0.0379 Kalukumara Mudiyanselage 197165500842 Full 1st Class With the right _ Priyangani Devika Herath to access with 275/23, Araliya Uyana, Pore, servitude of Athurugiriya Parcel No 420358/02/11/04 11:6 0.0380 Kalukumara Mudiyanselage 197165500842 Full 1st Class With the right _ Priyanganee Devika Herath to access with 275/23, Araliya Uyana, Pore, servitude of Athurugiriya Parcel No. 420358/02/11/04 11:7 0.0319 Kalukumara Mudiyanselage 197165500842 Full 1st Class With the right _ Priyanganee Devika Herath to access with 275/23, Araliya Uyana, Pore, servitude of Athurugiriya Parcel No. 420358/02/11/04 11:8 0.0332 Basnayaka Mudiyanselage Somawathi 618663418V Full 1st Class With the right _ Basnayaka Menike to access with Rangama, Medakotasa, Rangama, servitude of Wellawa Parcel No. 420358/02/11/04 EOG 09 - 0157/17
+
+14 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 30, 1 : 31 and 1 : 47 of Block 6, contained in the Cadastral Map No. 420358, situated in the Village of Rangama within the Grama Niladhari Division of No. 764 - Rangama in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0960 calling for claims to land parcels which was duly published in the Gazette No. 2376/09 of 18th March, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:30 0.0577 Wanasinghe Mudiyanselage Pulasthi 198833901772 Full 1st Class With the right _ Bandara Wasasinghe to access with Yatikaduruva, Maspotha servitude of Parcel No. 32 1:31 0.1026 Nilantha Kulathunga 650540468V Full 1st Class With the right _ 429, 2 post Watta, to access with Nidahas Mawatha, Yanthampalawa, servitude of Kurunegala Parcel No. 32 1:47 0.2934 Abesinghe Mudiyanslage Chandana 861501957V Full 1st Class _ _ Bandara Akkara 4, Waraddana Road, Rangama, Wellawa EOG 09 - 0157/18
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998
+
+Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 126, 4 : 1 and 4 : 3 of Block 8, contained in the Cadastral Map No. 420358, situated in the Village of Bambaragoda within the Grama Niladhari Division of No. 764 - Rangama in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0600 calling for claims to land parcels which was duly published in the Gazette No. 2085/39 of 24th August, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+15 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:126 0.0565 Land Reforms Commission Full 1st Class With the right _ District Land Reforms Board, to access with Kurunegala servitude of Parcel No. 127 4:1 0.3946 Perumbadage Waruni Jayasena 197482301722 Full 1st Class Subject to the _ Bambaragoda, Wellawa Mortgage No. 5163 dated 23/05/2011 to he People’s Bank of Kurunegala With the right To access with servitude of Parcel Nos. 420358/08/01/172 and 193 4:3 0.4048 Perumbadage Yulani Jayasena 717981960V Full 1st Class With the right _ Bambaragoda, Wellawa to access with servitude of Parcel Nos. 420358/08/01/172 and 193 EOG 09 - 0157/19 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 66 of Block 9, contained in the Cadastral Map No. 420358, situated in the Village of Bambaragoda within the Grama Niladhari Division of No. 764 - Rangama in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0618 calling for claims to land parcels which was duly published in the Gazette No. 2094/09 of 23rd October, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+16 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:66 0.0385 Abdhul Majeed Muhammadu Risad 863632552V Full 1st Class With the right _ No.70, Nadee Piyasa, Rangama, to access with Wellawa Servitude of Parcel Nos. 36, 68 and 105
+
+EOG 09 - 0157/20 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 24, 1 : 35, 1 : 36 and 1 : 58 of Block 2, contained in the Cadastral Map No. 420360, situated in the Village of Porapola within the Grama Niladhari Division of No. 768 - Pubbowa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0874 calling for claims to land parcels which was duly published in the Gazette No. 2350/13 of 18th September, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:24 0.2679 Gani Achchi Loluvagoda Kankanamge 532480485V Full 1st Class _ _ Jayawardhana Wellawa, Porapola 1:35 0.0909 Ranasinghe Arachchige Nimal 571111519V Full 1st Class _ _ Dharmasiri 94, Kandy Road, Yakkala 1:36 0.0086 Ranasinghe Arachchige Nimal 571111519V Full 1st Class _ _ Dharmasiri 94, Kandy Road, Yakkala 1:58 0.0541 Private Full 1st Class _ To access Parcel Nos. 52,55,56,57,68 and 69 EOG 09 - 0157/21
+
+17 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 19 of Block 4, contained in the Cadastral Map No. 420363, situated in the Village of Thalwita within the Grama Niladhari Division of No. 766 - Thalvita in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0054 calling for claims to land parcels which was duly published in the Gazette No. 2054/33 of 17th January, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:19 0.1133 1. Meragalge Chandrani Elisabeth 545110768V Full 1st Class _ _ Gunarathna Co - ownership 2. Munasinghage Upulani Nisansala 816534372V Munasinghe 205, Makulkotuva Watta, Wellawa EOG 09 - 0157/22 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 3 : 77 of Block 5, contained in the Cadastral Map No. 420366, situated in the Village of Kudakandegama within the Grama Niladhari Division of No. 772 - Mahakandegama in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0474 calling for claims to land parcels which was duly published in the Gazette No. 2000/66 of 08th February, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+18 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+3:77 0.3563 Muthugalage Pasan Nadeeshanka 199836100013 Full 1st Class With the right _ Muthugala to access with No.82/1, Kudakandegama, Servitude of Wellawa Parcel No. 420366/05/01/24 EOG 09 - 0157/23 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 315 of Block 1, contained in the Cadastral Map No. 420368, situated in the Village of Bamunawala within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0642 calling for claims to land parcels which was duly published in the Gazette No. 2114/33 of 14th March, 2019 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:315 0.0444 Dasanayaka Mudiyanselage 194850510143 Full 1st Class With the right _ Madhurawathi Menike to access with Dembepola, Boyagane, Kurunegala Servitude of Parcel No. 230 EOG 09 - 0157/24
+
+19 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 76, 1 : 104, 1 : 130, 1 : 133 and 1 : 146 of Block 4, contained in the Cadastral Map No. 420368, situated in the Village of Bamunawala within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0670 calling for claims to land parcels which was duly published in the Gazette No. 2142/52 of 25th September, 2019 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:76 0.0409 Siwurathna Bandara Nayaka Yapa 605140483V Full 1st Class With the right _ Mudiyanselage Dayawathi Menike to access with Pahala Madawala, Uhumeeya servitude of Parcel Nos. 14 and 19 1:104 0.0159 Balasooriya Arachchilage Kanthi 685432277V Full 1st Class _ _ Ashoka Balasooriya Sujeewa, Siyatha Lane, Malkaduwawa, Kurunegala 1:130 0.0376 Rathnayaka Mudiyanselage Jayathilaka 761560344V Full 1st Class With the right _ Bandara Rathnayaka to access with No 155, Main Street, Pinwalapitiya servitude of Watta, Bamunawala, Kurunegala Parcel No. 14 1:133 0.0377 Basnayaka Mudiyanselage Lilani 697181881V Full 1st Class With the right _ Priyanka Basnayaka to access with No.151, Pinwalapitiya Watta, servitude of Main Street, Aluth Malkaduwawa Parcel Nos. 14 and 19 and 27 Subject to the Mortgage Nos. 4368– 04/12/2003 and 4849-14/12/2005 to the Bank of Ceylon of Colombo
+
+20 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:146 0.0424 Mohamad Hanifa Haleema Shifani 198261300997 Full 1st Class With the right _ No. 135, Pinwalapitiya Watta, to access with Aluth Malkaduwawa, servitude of Kurunegala Parcel Nos. 14 and 19 and 27 Subject to the Mortgage No 1640 dated 01/08/2011 to the State Mortgage And Investments Bank of Colombo 03 EOG 09 - 0157/25 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 25, 1 : 61 and 1 : 62 of Block 5, contained in the Cadastral Map No. 420368, situated in the Village of Bamunawala within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0680 calling for claims to land parcels which was duly published in the Gazette No. 2152/30 of 04th December, 2019 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:25 0.0305 Mohomad Jaya Jamalon 542202777V Full 1st Class With the right _ 320/3, The road in front of the temple, to access with Bamunawala, Kurunegala servitude of Parcel No. 38
+
+21 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:61 0.0090 Asanar Lebbe Najimudeen 198210104921 Full 1st Class With the right _ Negambo Road, Bamunawala, to access with Kurunegala servitude of Parcel No. 19 1:62 0.0281 1. Mohomad Fareed Mohomad Rafi 803044635V Full 1st Class With the right _ 2. Jbbar Ayaru Nisa 817963820V Co - ownership to access with Negambo Road, Bamunawala, servitude of Kurunegala Parcel No. 19 EOG 09 - 0157/26 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 6, 1 : 9, 1 : 11, 1 : 13, 1 : 14, 1 : 24, 1 : 34, 1 : 35, 1 : 36, 1 : 37, 1 : 89, 1 : 90, 6 : 202, 6 : 203, 6 : 204 and 6 : 205 of Block 6, contained in the Cadastral Map No. 420368, situated in the Village of Kumbalpola within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0679 calling for claims to land parcels which was duly published in the Gazette No. 2152/30 of 04th December, 2019 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:6 0.2109 Disanayakage Seetha Airangani 195684900240 Full 1st Class With the right _ Sanda Sisila, Kumbalpola, to commonly Boyagane use the road of Parcel No. 08 1:9 0.2270 Narayana Mudiyanselage Dingiri 522822337V Full 1st Class With the right _ Banda to commonly Lahiru Sevana, Kumbalpola, use the road of Boyagane Parcel No. 08
+
+22 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:11 0.0450 Lansakara Hitihamilage Waruna Ruvan 922470960V Full 1st Class Subject to the _ Sajeewa Lansakara life inertest of Kumbalpola, Boyagane Lansakara Hitihamilage Tikiri Banda and Oppurala Mudiyanselage Somawathi As a firm gift, giving up the power of revocation 1:13 0.1108 Rathnayaka Mudiyanselage Hansi 986860630V Full 1st Class Subject to the _ Nisansala Rathnayaka life inertest of Hansi Sewana, Kumbalpola, Narayana Boyagane Mudiyanselage Bandara Menike As a permanent gift, giving up the power of revocation 1:14 0.1274 Rathnayaka Mudiyanselage Menaka 831950587V Full 1st Class With the right _ Thilak Bandara to commonly Sumangala Mawatha, Kumbalpola, use the road for Boyagane Parcel No. 08 Subject to the Mortgage No. 2158-12/08/2012, 2546-10/09/2015, 2812-18/10/2019, 3633-30/11/2020 and 15017-23/02/2022 to the Commercial Bank of Ceylon Subject to the Mortgage No. 2770-28/11/2018 to the Commercial Bank of Ceylon 1:24 0.0495 Kadawath Pedige Wajirathilaka 196625100114 Full 1st Class _ _ Kithsiri Karunarathna Sumangala Mawatha, Kumbalpola, Boyagane 1:34 0.0882 Narayana Mudiyanselage Tikiri 435590845V Full 1st Class _ _ Menika Kumbalpola, Boyagane 1:35 0.0751 Narayana Mudiyanselage Aberathna 195307006613 Full 1st Class Subject to the _ Kumbalpola, Boyagane right of using the road Parcel No. 36
+
+23 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:36 0.0060 Private Full 1st Class _ To access Parcel Nos. 35, 37 and 38 1:37 0.0832 Narayana Mudiyanselage Bandara 498121713V Full 1st Class With the right _ Menika to access with Kumbalpola, Boyagane servitude of Parcel No. 36 Subject to the Mortgage No. 134 and dated 18/05/2023 to the Notary Public D.C. Ekanayaka 1:89 0.0386 Rathnayaka Mudiyanselage 197329801446 Full 1st Class With the right _ Dharmarathna Bandara Rathnayaka to access with Sumangala Mawatha, Kumbalpola, servitude of Boyagane Parcel No. 139 1:90 0.0419 Rathnayaka Mudiyanselage 197329801446 Full 1st Class With the right _ Dharmarathna Bandara Rathnayaka to access with Sumangala Mawatha, Kumbalpola, servitude of Boyagane Parcel No. 139 6:202 0.0668 Rathnayaka Mudiyanselage 197329801446 Full 1st Class _ _ Dharmarathna Bandara Rathnayaka Kumbalpola, Boyanage 6:203 0.0668 Rathnayaka Mudiyanselage Malani 707511907V Full 1st Class _ _ Kumari Rathnayaka Gangode, Minhettiya 6:204 0.0670 Madasinghe Achchillage Iresha 955670647V Full 1st Class Subject to the _ Sandamali life inertest of Kehelhena, Welamitiyava, Rathnayaka Narammala Mudiyanselage Chandralatha and Madasinghe Arachchilage Uparathna As a firm gift, giving up the power of revocation 6:205 0.0071 Rathnayaka Mudiyanselage Dharmarathna 197329801446 Full 1st Class _ _ Bandara Rthnayaka Kumbalpola, Boyagane EOG 09 - 0157/27 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 150 and 1 : 151 of
+
+24 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+Block 8, contained in the Cadastral Map No. 420368, situated in the Village of Bamunawala within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0741 calling for claims to land parcels which was duly published in the Gazette No. 2210/57 of 15th January, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:150 0.0379 Wickramasinghe Mudiyanselage 922723648V Full 1st Class Subject to the _ Rukshan Ravihansa Wickramasinghe life inertest of 54, Isuru Place, Malkaduwawa, Gajanayaka Kurunegala Mudiyanselage Indrani Gajanayaka With the right to access with servitude of Parcel Nos. 134 and 153 1:151 0.0380 Wickramasinghe Mudiyanselage 922723648V Full 1st Class Subject to the _ Rukshan Ravihansa Wickramasinghe life inertest of 54, Isuru Place, Malkaduwawa, Gajanayaka Kurunegala Mudiyanselage Indrani Gajanayaka With the right to access with servitude of Parcel Nos. 134 and 153 EOG 09 - 0157/28 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 22, 1 : 27 and 1 : 84 of Block 13, contained in the Cadastral Map No. 420368, situated in the Village of Bamunawala within the Grama Niladhari Division of No. 815 - Bamunawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North
+
+25 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+Western, referred to in Notice No. 42/0788 calling for claims to land parcels which was duly published in the Gazette No. 2264/50 of 27th January, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:22 0.2773 The State Full 1st Class _ Land reserved alone the Maguruoya Canal 1:27 0.0135 The State Full 1st Class _ _ 1:84 0.0658 The State Full 1st Class _ _ EOG 09 - 0157/29 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 39, 1 : 40, 1 : 41, 1 : 43, 1 : 44, 1 : 45, 1 : 46, 1 : 47, 1 : 48, 1 : 49, 1 : 50, 1 : 51, 1 : 52, 1 : 53, 1 : 141, 1 : 143, 1 : 174, 1 : 197, 1 : 199, 1 : 200, 1 : 203 and 9 : 1 of Block 4, contained in the Cadastral Map No. 420369, situated in the Village of Heraliyawala within the Grama Niladhari Division of No. 817 - Heraliyawala in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0481 calling for claims to land parcels which was duly published in the Gazette No. 2001/13 of 11th January, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+26 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:39 0.0119 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:40 0.0018 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:41 0.0509 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:43 0.0240 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:44 0.0774 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:45 0.0098 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:46 0.0160 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:47 0.0299 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:48 0.0835 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:49 0.0617 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:50 0.0785 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:51 0.0226 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:52 0.0607 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:53 0.0674 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:141 0.4191 Thalahitiya Gamaralalage Tharanga 903483903V Full 1st Class Subject to the _ Bandara Jayasundara life interest of 18/50, Araliya Uyana, Wewarauma, Thalahitiya Kurunegala Gamaralalage Jayasundara Subject to the lease to Wijekoon Mudiyanselage Ananda Wijekoon from 26.05.2017 up to 25.05.2027
+
+27 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 1:143 0.1976 Thalahitiya Gamaralalage Taranga 903483903V Full 1st Class Subject to the _ Bandara Jayasundara life interest of 18/50, Araliya Uyana, Wewarauma, Talahitiya Kurunegala Gamaralalage Jayasundara Subject to the lease to Wijekoon Mudiyanselage Ananda Wijekoon from 26.05.2017 up to 25.05.2027 1:174 0.0998 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:197 0.0375 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:199 0.0406 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:200 0.0174 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 1:203 0.0449 Land Reforms Commission Full 1st Class _ _ District Land Reforms Board, Kurunegala 9:1 0.0529 Dilini Chanika Sathsarani Amanullahi 965022201V Full 1st Class With the right _ 652/A, Temple Road, Wehera, to access with Kurunegala Servitude of Parcel No. 131 EOG 09 - 0157/30 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 39 of Block 5, contained in the Cadastral Map No. 420380, situated in the Village of Division No 10 Illuppugedara within Kurunegala Municipal Council within the Grama Niladhari Division of No. 838 - Iluppugedara in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0497 calling for claims to land parcels which was duly published in the Gazette No. 2009/40 of 10th March, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+28 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:39 0.0380 Ramanayaka Mudiyanselage 816403219V Full 1st Class Subject to the _ Nayana Nadeeka Ramanayaka right of using and 30/5, Iluppugedara Road, Kurunegala maintaining the Road Parcel No. 41 EOG 09 - 0157/31 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 57, 1 : 63 and 1 : 70 of Block 8, contained in the Cadastral Map No. 420380, situated in the Village of Division No 10 Illuppugedata within Kurunegala Municipal Council within the Grama Niladhari Division of No. 838 - Iluppugedara in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0476 calling for claims to land parcels which was duly published in the Gazette No. 2000/66 of 05th January, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:57 0.0171 1. Balasooriya Mudiyanselage Dilani 656839945V Full 1st Class Subject to the _ 2. Kurudhugodage Manjula 196434210018 Co - ownership Mortgage No 16782 Wijesinghe dated 07/07/2017 115/15, Iluppugedara Road, to the Commercial Kurunegala Credit and Finance PLC With the right to access with servitude of Parcel Nos. 24 and 58
+
+29 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:63 0.0148 1. Arunasalam Arumugam 602593843V Full 1st Class With the right _ 2. Waiyapuri Andichchi 625102774V Co - ownership to access with 115/14, Iluppugedara Road, servitude of Kurunegala Parcel Nos. 24 and 58 1:70 0.0181 Abesinghe Mudiyanselage 903303514V Full 1st Class With the right _ Sahan Madhava Narampanava to access with 95/11A, 13 Lane, Iluppugedara Road servitude of Kurunegala Parcel No. 08 EOG 09 - 0157/32 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 122 of Block 1, contained in the Cadastral Map No. 420383, situated in the Village of Wehera within the Grama Niladhari Division of No. 806 - Wehera West in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0695 calling for claims to land parcels which was duly published in the Gazette No. 2161/11 of 03rd February, 2020 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:122 0.1297 Vithanage Madhurapani Anuruddhika 646650240V Full 1st Class With the right _ Thoradeniya to access with 641/1, Polmandala Road, Wehera, servitude of Kurunegala Parcel No. 28 EOG 09 - 0157/33
+
+30 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 145, 1 : 154, 1 : 155, 1 : 163 and 1 : 170 of Block 2, contained in the Cadastral Map No. 420383, situated in the Village of Wehera within the Grama Niladhari Division of No. 806 - Wehera West in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0745 calling for claims to land parcels which was duly published in the Gazette No. 2214/23 of 09th February, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:145 0.0252 Weerakoon Mudiyanselage Suneth 793490739V Full 1st Class With the right _ Priyantha Bandara to access with 421/4, Temple Road, Wehera, servitude of Kurunegala Parcel No. 156 Subject to the lease (only the upper floor of the house) to Mapa Mudiyanselage Indrajith Sanjeewa Bandara from 01/05/2023 to 30/04/2028 1:154 0.0391 Hewa Diddenige Vimalka Darshani 197384901583 Full 1st Class With the right _ 402/03, Temple Road, Wehera, to access with Kurunegala Servitude of Parcel No. 156 Subject to the Mortgage No. 2754 dated 16/02/2010 to the National Servings Bank 1:155 0.0278 Hewa Diddenige Roshani Hansika 787512917V Full 1st Class With the right _ Udayamali to access with 31/3, Gammadugolla Mawatha, servitude of Malkaduwawa, Kurunegala Parcel Nos. 153 and 156 1:163 0.1169 Kulathunga Mudiyanselage Udara 835530957V Full 1st Class With the right _ Kalpani Senevirathna to access with 574/1, Wilbava Road, Kurunegala servitude of Parcel No. 162 1:170 0.0727 Hewa Diddenige Wimaladasa 363061400V Full 1st Class With the right _ 421/, Sampatha, Temple Road, to access with Wehera, Kurunegala servitude of Parcel No. 156 EOG 09 - 0157/34
+
+31 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 71, 1 : 73, 1 : 80, 1 : 82, 1 : 91, 1 : 94, 1 : 95, 1 : 97 and 1 : 132 of Block 2, contained in the Cadastral Map No. 420385, situated in the Village of Henamulla (Division No. 6) Kurunegala Municipal Council within the Grama Niladhari Division of No. 841 - Kurunegala Town - South in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0695 calling for claims to land parcels which was duly published in the Gazette No. 2161/11 of 03rd February, 2020 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement.
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:71 0.0397 Ambana Badalge Hektar Nihal 643021390V Full 1st Class _ _ Gunarathna 3A/6, 2nd Lane, Jayanthipura, Kurunegala 1:73 0.0264 Imi Arachchilage Waruna Senanayaka 703192548V Full 1st Class _ _ 65/28, 2nd Lane, Jayanthipura, Kurunegala 1:80 0.0629 New Dharmasiri Investments Full 1st Class With the right _ (PVT) L.T.D. to access with No.162/1, Puttalam Road, Kurunegala servitude of Parcel No. 420385/04/09 1:82 0.0379 Ranabharana Gedara Kelum Tharanga 197818502260 Full 1st Class _ _ 006A, 2nd Lane, Jayanthipura Road, Kurunegala 1:91 0.0599 Radampolagamage Geethani 827182850V Full 1st Class With the right _ Radampolagamage to access with 206, Chilaw Road, Girathalana, servitude of Hettipola Parcel No. 105 1:94 0.0491 1. Herath Mudiyanselage Jayantha 197009103287 Full 1st Class With the right _ Tikiri Bandara Herath 705982775VCo - ownership to access with 2. Hitinayaka Mudiyanselage Chula servitude of Subhashini Kumari Hitinayaka Parcel No. 105 11, Baladaksha Mawatha, Subject to the Jayanthipura, Kurunegala mortgage No. 245 dated 12/09/2005 to the People’s Bank of Peradeniya 1:95 0.0488 Wasalamuni Arachchilalage Dilini 846730745V Full 1st Class With the right _ Dampalee to access with 71/7, Baladaksha Mawatha, Jayanthipura, servitude of Kurunegala Parcel No. 105
+
+32 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:97 0.0474 Wikumasinghe Arachchige Geetha 548283310V Full 1st Class With the right _ Piyaseelee Wikumasinghe to access with Wickrama Niwasa, Jayanthipura, servitude of Kurunegala Parcel No. 105 Subject to the lease to Dinithi Premathilaka from 08/03/2024 up to 07/03/2025 (only building ) 1:132 0.0488 Dissanayaka Mudiyanselage Indika 720871017V Full 1st Class _ _ Disanayaka 71/35, 3 Lane, Jayanthipura Road, Kurunegala EOG 09 - 0157/35 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 20 and 1 : 22 of Block 4, contained in the Cadastral Map No. 420385, situated in the Village of Henamulla (Division No. 6) Kurunegala Municipal Council within the Grama Niladhari Division of No. 841 - Kurunegala Town - South in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0806 calling for claims to land parcels which was duly published in the Gazette No. 2280/06 of 16th May, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+33 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:20 0.0558 1. Don Reginold Jayasooriya 471381780V Full 1st Class Subject to the _ 2. Mery Marsi Krisenthiya 537680199V Mortgage No. 7765 - Fernando 30/11/1989, 65/10, 2 Lane, Jayanthipura Road, Mortgage No. 10630 - Kurunegala 19/03/1997, Mortgage No. 6062, 09/04/1986 and Mortgage No. 6100 14/05/1986 to the Hatton National Bank of Kurunegala 1:22 0.0580 Aththanayaka Mudiyanselage Waruni 786300347V Full 1st Class With the right _ Samanthika Aththanayaka Jayarathna to access with 65/9A, Jayanthipura Road, Kurunegala servitude of Parcel No. 09 EOG 09 - 0157/36 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 47 and 1 : 125 of Block 1, contained in the Cadastral Map No. 420386, situated in the Village of udawalpola(Division No. 7 Udawalpola within Kurunegala Municipality) within the Grama Niladhari Division of No. 842 - Udawalpola in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0949 calling for claims to land parcels which was duly published in the Gazette No. 2373/05 of 26th February, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+34 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:47 0.0252 Kanapeddala Gamage Supul 731871345V Full 1st Class With the right _ Dilhan Gamage to access with 1 lane, Dharmapala Mawatha, servitude of Udaththapola, Kurunegala Parcel No. 45 1:125 0.0273 1. Rajaguru Mudiyanselage Nimal 552721543V Full 1st Class _ _ Bandara Herath 586175904V Co - ownership 2. Tennakoon Arachchige Piyaseeli Chandra 85/B, South Circle Road, Kurunegala EOG 09 - 0157/37 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 54, 1 : 127 and 1 : 136 of Block 2, contained in the Cadastral Map No. 420386, situated in the Village of udawalpola(Division No. 7 Udawalpola within Kurunegala Municipality) within the Grama Niladhari Division of No. 842 - Udawalpola in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0916 calling for claims to land parcels which was duly published in the Gazette No. 2359/45 of 24th November, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:54 0.0402 Jayalathge Niranga Kashyapa 199221900860 Full 1st Class Subject to the _ Gunasekara Mortgage No. 12493 No. 10, 1 Lane, dated 21/10/1993 Sumanadasa Mawatha, Udawalpola, to the Bank of Kurunegala Ceylon of Kurunegala
+
+35 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE - (Contd.) Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+Subject to the Mortgage No. 11854 dated 01/10/1991 to the Bank of Ceylon of Pothuhera 1:127 0.0168 Wickramasinghage Somadasa 371910735V Full 1st Class _ _ 9/12, Udawalpola, Kurunegala 1:136 0.0335 Karunasinghalage Kulasena 483234481V Full 1st Class _ _ No. 16, Udawalpola, Kurunegala EOG 09 - 0157/38 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 196 of Block 2, contained in the Cadastral Map No. 420438, situated in the Village of Malkaduwawa within the Grama Niladhari Division of No. 816 - Malkaduwawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0843 calling for claims to land parcels which was duly published in the Gazette No. 2314/74 of 13th January, 2023 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:196 0.0512 Rajaguru Mudiyanselage Geetha 835561909V Full 1st Class With the right _ Subhashini Gunathilaka to access with 101/6A, Bauddhaloka Road, servitude of Kurunegala Parcel No. 20 EOG 09 - 0157/39
+
+36 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No 1 : 18 of Block 3, contained in the Cadastral Map No. 420438, situated in the Village of Malkaduwawa within the Grama Niladhari Division of No. 816 - Malkaduwawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0797 calling for claims to land parcels which was duly published in the Gazette No. 2270/77 of 12th March, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:18 0.0480 Dadella Lanumodarage Geemal 763333388V Full 1st Class With the right _ Geethapriya to access with No. 85, 5th Lane, Blugahawatta, servitude of Malkaduwawa, Kurunegala Parcel No.113 EOG 09 - 0157/40 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 127 and 1 : 142 of Block 4, contained in the Cadastral Map No. 420438, situated in the Village of Malkaduwawa within the Grama Niladhari Division of No. 816 - Malkaduwawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0772 calling for claims to land parcels which was duly published in the Gazette No. 2250/21 of 19th October, 2021 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025.
+
+37 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.16 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 16.09.2025
+
+SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:127 0.1163 Herath Mudiyanselage Indrarathna 703422195V Full 1st Class _ _ Pahala Wanduragala, Malkaduwawa, Kurunegala 1:142 0.0324 Herath Mudiyanselage Chandradasa 490523502V Full 1st Class _ _ No. 01/13, Gamameda Road, Malkaduwawa, Kurunegala EOG 09 - 0157/41 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 78 and 1 : 148 of Block 5, contained in the Cadastral Map No. 420438, situated in the Village of Malkaduwawa within the Grama Niladhari Division of No. 816 - Malkaduwawa in the Divisional Secretary's Division of Kurunegala, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0815 calling for claims to land parcels which was duly published in the Gazette No. 2284/09 of 15th June, 2022 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P. C. D. SIGERA, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla, 14th July, 2025. SCHEDULE
+
+Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare)
+
+1:78 0.0488 Kuda Kankanamalage Ranil Suranga 198210804261 Full 1st Class Subject to the _ Kusumpaya, Gammeda Road, life inertest of Malkaduwawa, Kurunegala Madhurasinghe Arachchilage Kusumaseeli Madhurasinghe and Kuda Kankanamalage Premadasa 1:148 0.0136 Private Full 1st Class _ To access Parcel Nos. 141 and 143
+
+EOG 09 - 0157/42
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
