@@ -1,0 +1,25 @@
+wxl 2150$73 - 2019 fkdjeïn¾ 22 jeks isl=rdod - 2019'11'22
+
+(rcfha n,hmsg m%isoaO lrk ,§)I jeks fldgi: (I) jeks fPoh - idudkH
+
+rcfha ksfõok
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+ckf,aLk yd ixLHdf,aLk fomd¾;fïka;=j úiska .Kkh lrk ,ocd;sl mdßfNda.sl ñ, o¾Ylh
+
+^moku : 2013 = 100 &
+
+ckf,aLk yd ixLHdf,aLk fomd¾;fïka;=j u.ska 2019 Tlaf;dan¾ udih i|yd .Kkh lrk ,o cd;sl mdßfNda.sl ñ,o¾Ylh 131'9 ^tlish ;sia tlhs oYu kjhhs& la jk nj ish¨ fokdf.au oek.ekSu i|yd fuhska ksfõokh lrñ'
+
+wdpd¾h whs' wd¾' nKavdr"ckf,aLk yd ixLHdf,aLk wOHlaI ckrd,a'
+
+2019 fkdjeïn¾ ui 21 jeks Èk"ckf,aLk yd ixLHdf,aLk fomd¾;fïka;=j";e' fm' 121"n;a;ruq,a,'
+
+12 - 138
+
+fuu w;s úfYI .eiÜ m;%h www.documents.gov.lk fjí wvúfhka nd.; l< yel'
+
+1A - G 31546 — 18 (2019/11)Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'

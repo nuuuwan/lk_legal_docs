@@ -1,0 +1,31 @@
+I fldgi: (I) fPoh – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'10'221A
+
+Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+^rcfha n,hmsg m%isoaO lrk ,§&
+
+I jeks fldgi: (I) jeks fPoh – idudkH
+
+rcfha ksfõok
+
+wxl 2150$74 – 2019 fkdjeïn¾ ui 22 jeks isl=rdod – 2019'11'22
+
+iñ;s wd{dmk;
+
+iñ;s wd{dmkf;a ^123 wêldrh& 3 jk yd 4 jk j.ka;sj,ska ud fj; mejreKq n,;, m%ldr l¾udka; yd jdKsc lghq;="È.=ld,Skj wj;ekajQ mqoa.,hka kej; mÈxÑ lsÍu" iuQmldr ixj¾Ok iy jD;a;Sh mqyqKq yd ksmqK;d ixj¾Ok wud;HßIdâ nÈhq§ka jk uu fï ksfõokfhka;
+
+01'fld<U 01" ckdêm;s udj;" 48" m%Odk bxðfkare ndf¾" ork ia:dkfha msysá zzfydfg,a bxðksh¾ia wefidaisfhaIka"Y%S ,xldZZ kue;s iñ;sh wdrïN lrkq ,enQ mrud¾:hka ta wd{dmkf;ys n,;, yd myiqlï jHdma; l< hq;=mrud¾:hka jYfhka kshu lrñ; iy
+
+02'tA wd{dmkf;ys 5^4& j.ka;sfha úêúOdkj,ska ksoyia lsÍfuka tA wd{dmk; wod< lsÍu tlS iñ;shg iSud lrñ'
+
+ßIdâ nÈhq§ka"l¾udka; yd jdKsc lghq;="È.=ld,Skj wj;ekajQ mqoa.,hka kej; mÈxÑ lsÍu"iuQmldr ixj¾Ok iy jD;a;Sh mqyqKq ydksmqK;d ixj¾Ok wud;H'
+
+2019 fkdjeïn¾ ui 14 jeks Èk"l¾udka; yd jdKsc lghq;=" È.=ld,Skj wj;ekajQ mqoa.,hka kej; mÈxÑ lsÍu"iuQmldr ixj¾Ok iy jD;a;Sh mqyqKq yd ksmqK;d ixj¾Ok wud;HdxYh"73$1" .d¨ mdr"fld<U 03'
+
+12 – 190
+
+1A – G 31550 – 22 (2019/11)fuu w;s úfYI .eiÜ m;%h www.documents.gov.lk fjí wvúfhka nd.; l< yel'
