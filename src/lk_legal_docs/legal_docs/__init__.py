@@ -1,6 +1,7 @@
 # lk_legal_docs.legal_docs (auto generate by build_inits.py)
 # flake8: noqa: F408
 
+from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc
 from lk_legal_docs.legal_docs.Act import Act
 from lk_legal_docs.legal_docs.Bill import Bill
 from lk_legal_docs.legal_docs.ExtraordinaryGazette import ExtraordinaryGazette

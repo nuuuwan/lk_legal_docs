@@ -1,10 +1,10 @@
 from dataclasses import dataclass
 
-from lk_legal_docs.legal_docs.Act import Act
+from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc
 
 
 @dataclass
-class Bill(Act):
+class Bill(AbstractGovLkPDFDoc):
 
     @classmethod
     def get_url_base(cls) -> str:
@@ -21,6 +21,10 @@ class Bill(Act):
                 "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",  # noqa: E501
             ]
         )
+
+    @classmethod
+    def get_doc_class_emoji(cls) -> str:
+        return "⚖️"
 
     @classmethod
     def get_url_for_year(cls, year: int) -> str:

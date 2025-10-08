@@ -1,10 +1,10 @@
 from dataclasses import dataclass
 
-from lk_legal_docs.legal_docs.Act import Act
+from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc
 
 
 @dataclass
-class ExtraordinaryGazette(Act):
+class ExtraordinaryGazette(AbstractGovLkPDFDoc):
 
     @classmethod
     def get_url_base(cls) -> str:
@@ -21,6 +21,10 @@ class ExtraordinaryGazette(Act):
                 "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",  # noqa: E501
             ]
         )
+
+    @classmethod
+    def get_doc_class_emoji(cls) -> str:
+        return "⚖️"
 
     @classmethod
     def get_url_for_year(cls, year: int) -> str:
