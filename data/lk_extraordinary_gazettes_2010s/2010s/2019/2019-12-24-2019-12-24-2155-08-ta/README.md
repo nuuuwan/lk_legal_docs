@@ -1,0 +1,1639 @@
+இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக
+
+(அரசாங்கத்தின் அதிகாரத்ᾐடன் பிரசுாிக்கப்பட்டᾐ)
+
+பகுதி IV (அ) - மாகாண சைபகள்
+
+மாகாண சைப அறிவித்தல்கள்
+
+ேமல் மாகாண மாகாண சைப
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ
+
+අංක 2155/8 - 2019 ෙදසැම්බර් මස 24 වැනි අඟහරුවාදා - 2019.12.24
+
+2155/8 ஆம் இலக்கம் - 2019 ஆம் ஆண்ᾌ திெசம்பர் மாதம் 24 ஆந் திகதி ெசவ்வாய்க்கிழைம
+
+அதி விேசஷமானᾐ
+
+Nky; khfhzj;jpd; MSeu; tpN[ghy = ehwhad thry gz;lhuehaf;f nkhn`hl;lyhNf rPjh Fkhup muk;Ngnghy Mfpa ehd;> 1989 Mk; Mz;bd; 12 Mk; ,yf;f> khfhz rigfs; (,ilNeu; tpisthd) rl;lj;jpd; 2 MtJ gpupTld; Nru;j;J thrpf;fg;gl Ntz;ba 1987 Mk; Mz;bd; 15 Mk; ,yf;f> gpuNjr rigfs; rl;lj;jpd; 171 kw;Wk; 184 Mk; gpupTfspd; fPo; vdf;F xg;gilf;fg;gl;Ls;s mjpfhuj;jpw;F ,zq;f Nky; khfhzj;jpd; gpuNjr rigfs; njhlu;ghf “ gpuNjr rigfs; epjp epu;thfj;jpw;Fupa fzf;F eltbf;iffs; njhlu;ghd xOq;F tpjpfs; ” vd;w ngau; nfhz;l xOq;F tpjpfis ,j;jhy; mKy;gLj;Jfpd;Nwd;. ; lgps;a+. v];. vd;. lgps;a+. gp. vk;. rPjh Fkhup muk;Ngnghy> MSeu;> Nky; khfhzk;. khfhz rig fl;llj;jpy; mike;Js;s MSeu; fhupahyak;> nld;rpy; nfhg;NgfLt khtj;ij> gj;juKy;iy> 2019> jpnrk;gu; 23.
+
+இவ்வர்த்தமானிைய www.documents.gov.lk எᾔம் இைணயத்தளத்திᾢᾞந்ᾐ பதிவிறக்கம் ெசய்ய ᾙᾊᾜம். 1A - PG 4832 - 82 (2019/12)
+
+2A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+xOq;Ftpjpfs; 1. gpuNjr rig epjp eltbf;iffis cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathf nray;gLj;Jtjw;Fk;> gpuNjr rig epjp Kfhikj;Jtj;jpw;fhd cupa Vw;ghLfisj; jahupg;gjw;Fk; 1989 Mk; Mz;L Vg;gpwy; khjk; 17 Me; jpfjpa 554/5 Mk; ,yf;f
+
+,yq;ifr; rdehaf Nrhryprf; Fbaurpd; mjptpN~l tu;j;jkhdg; gj;jpupifapy; cs;slf;fg;gl;l nghJ epu;thf khfhz rigfs; kw;Wk; cs;ehl;lYty;fs; mikr;rupdhy; jahupf;fg;gl;l 1988 Mk; Mz;bd; gpuNjr rig (epjp kw;Wk; epu;thf) xOq;F tpjpfis ,uj;Jr; nra;tjw;fhd Vw;ghLfis Nkw;nfhs;tjw;fhfTk; ,e;j xOq;F tpjpfs; ,aw;wg;gl;Ls;sd. 2. ,e;j xOq;F tpjpahdJ gpuNjr rigapd; epjp Kfhikj;Jtj;Jf;Fupa fzf;fPl;L eltbf;iffs; njhlu;ghd xOq;F tpjp vd miof;fg;gLk;.
+
+I MtJ mj;jpahak;
+
+nghJ tplaq;fs; 3. gpuNjr rig epjpaj;jpypUe;J ve;jnthU njhifiaAk; nrYj;Jjy; my;yJ epjpaj;jpw;Fupa tUkhd nkhd;iw epjpaj;jpw;fhf tR+ypj;jy; vd;gd mjw;Fupa vOj;J %ykhd rl;lj;jpy; Fwpg;gplg;gl;Ls;s Vw;ghLfSf;F ,iathftd;wp NtWtifapy; Nkw;nfhs;syhfhJ. 4. gpuNjr rigapd; epjpahz;L xt;nthU tUlKk; rdtup khjk; Kjyhk; jpfjp njhlq;fp jpnrk;gu; khjk; Kg;gj;Njhuhk; jpfjp KbtilAk;. 5. (i) gpuNjr rigapd; jiytu; gpuNjr rig epjpaj;jpd; gpujhd fzf;fPl;L cj;jpNahfj;juhf ,Uj;jy; Ntz;Lnkd;gNjhL mtu; fPo; tUk; tplaq;fs; njhlu;ghf Neubahf nghWg;Gf; $wy; Ntz;Lk;. m. vOj;J %ykhd rl;lj;jpd; %yk; gpuNjr rigf;F toq;fg;gl;Ls;s mjpfhuq;fs;> nraw;ghLfis nraw;gLj;JtJ rk;ge;jkhf cupa rigahdJ jPu;khdpf;f Ntz;ba tplaq;fs; njhlu;ghd jPu;khdq;fis rigapypUe;J ngw;Wf;nfhs;Sjy;. M. rigapdhy; jPu;khdpf;fg;gl;l VNjDnkhU vOj;jpyhd rl;lj;jpd; Clhf mjpfhukspf;fg;gl;l tplaq;fs; njhlu;ghd jPu;khdq;fis jhkjkpd;wp epiwNtw;Wtjw;F eltbf;ifnaLj;jy;. ,. rl;lj;jpdhy; jiytUf;F mspf;fg;gl;Ls;s my;yJ rigapdhy; epiwNtw;w Ntz;ba flikfs; kw;Wk; nghWg;Gf;fis Kiwahf nraw;gLj;Jjy;. <. rigapd; mYtyu; Fohj;jpw;F Kiwahf mjpfhuq;fis kw;Wk; flikfis xg;gilj;jy; kw;Wk; xg;gilf;fg;gl;l mjpfhuq;fs; kw;Wk; flikfs; Kiwahf epiwNtw;wg;gLfpd;wjh vd;gjw;fhd nghWg;ig Vw;wy;. (ii) gpuNjr rigapd; nrayhsu; gpuNjr rig epjpaj;jpd; fzf;fPl;L cj;jpNahfj;juhf ,Ug;ghu;. 6. VNjDnkhU vOj;J %ykhd rl;lj;jpw;F mikthf kw;Wk; vOj;J %ykhd rl;lj;jpdhy; Fwpg;gplg;gLk; nray;ghl;L tpjpfSf;F mikthf Kiwahd epjp Kfhikj;Jtj;Jld; rigapd; eltbf;iffis nfhz;L elhj;JtJ jiytupd; kw;Wk; nrayhsupd; flikahFk;. 7. rl;ltpNuhj nfhLg;gdnthd;wpw;F rigapdhy; mjpfhukspf;fg;gl;bUf;Fk; re;ju;g;gj;jpy; gpujhd fzf;fPl;L cj;jpNahfj;ju; vd;w tifapy; jiytu; Fwpj;j nrytpid Nkw;nfhs;sf; $lhnjd;gNjhL> ftdaPdj;jpdhy; my;yJ jtwhd nraw;ghLfspdhy; rig epjpaj;jpw;F el;lk; Vw;gLk; gl;rj;jpy; el;lj;jpw;Fg; nghWg;Gf; $w Ntz;batu;fis milahsk; fz;L mjid mwtpl;Lf;nfhs;tjw;F jiytu; kw;Wk; nrayhsupdhy; eltbf;ifnaLj;jy; Ntz;Lk;.
+
+3A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+8. rigapd; epjpaj;jpypUe;J fzf;if rku;g;gpj;jy; ,e;j xOq;F tpjpapd; Clhf Nkyjpf Vw;ghLfis nra;tpf;Fk; Kiwapy; ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathf jahupj;J xt;nthU epjpahz;bw;Fkhd fzf;ifj; njhlu;e;J tUk; epjpahz;bd; ngg;GUtup khjk; ,Ugj;njl;lhk; (28) jpfjpad;Nwh my;yJ mjw;F Kd;dNuh fzf;fha;thsu; ehafj;jpw;F rku;g;gpg;gjw;F eltbf;ifnaLj;jy; Ntz;Lk;. 9. rig epjpaj;jpd; ghJfhg;G> epjpaj;jpw;fhf tUkhdq;fisr; Nrfupg;gJ NghyNt Nrfupf;fg;gl;l tUkhdj;ij nrytopg;gJk; cupa vOj;J %ykhd rl;lj;jpw;F ,iathdjhfTk; kw;Wk; tUlhe;j tuTnryTf; fzf;fPl;L Mtzj;jpw;F mikthfTk; ,Ug;gjhf rigapd; nrayhsu; cl;gl mYtyu; Fohk; cWjpg;gLj;Jk; tifapy; nray;gLj;Jtjw;F gpujhd fzf;fPl;L cj;jpNahfj;ju; kw;Wk; fzf;fPl;L cj;jpNahfj;ju; vd;w tifapy; nray;gLj;jy; Ntz;Lk;. 10. cupa vOj;J %ykhd rl;lj;jpy; Fwpg;gplg;gl;Ls;s Vw;ghLfSf;F Vw;w tifapy; jiytupd; kw;Wk; nrayhsupd; nghJthd Nkw;ghu;it kw;Wk; Kfhikj;Jtj;jpw;F cl;gl;l tifapy; gpuNjr rigapd; epjp kw;Wk; fzf;F nraw;ghLfs; kw;Wk; Kfhikj;Jt eltbf;iffs; Nkw;nfhs;sg;gLfpd;wd vd;gij KiwNa gpujhd fzf;fPl;L cj;jpNahfj;ju; kw;Wk; fzf;fPl;L cj;jpNahfj;ju; vd;wtifapy; cWjpg;gLj;Jjy; Ntz;Lk;. 11. vOj;J %ykhd rl;lj;jpy; Fwpg;gplg;gl;Ls;s Vw;ghLfSf;F mikthf nraw;gl;ljd; gpd;du; kw;Wk; tUlhe;j tuTnryTj; jpl;l mwpf;ifapy; xJf;fPL nra;ag;gl;bUf;fhj re;ju;g;gj;jpy; vt;tifahd nryTfSf;Fk; cupa ,uz;lhk; jug;gpdNuhL gpizg;Gfs; Vw;gLj;jpf;nfhs;shj tifapy; nrayhw;WtJ jiytupdJk; nrayhsupdJk; flikahFk;. 12. fPo;tUk; tplaq;fis cWjpg;gLj;Jk; tifapy; jiytu; epjp Kfhikj;Jtj;ij nray;gLj;Jjy; Ntz;Lk;.
+
+i. rigapd; gpujhd mYtyfj;jpy; kw;Wk; cgmYtyfq;fspy; tUkhdk; kw;Wk; nryTfs; njhlu;ghd Kiwahd Kfhikj;Jtk; Kd;ndLf;fg;gLtjhf>
+
+ii. tuTnryTj; jpl;l Mtzj;jpd; cupa epfo;r;rpj;jpl;lj;jpd; gpufhuk; nryTfs; tifg;gLj;jg;gl;L gpuNjr rigapd; epjpr;nraw;ghLfs; Kiwahf jpl;lkplg;gl;bUg;gjhf kw;Wk; ,e;j xOq;F tpjpapy; cs;slf;fg;glhj tplaq;fs; njhlu;ghf jiytupdhy; mur epjpg;gpukhdk; my;yJ xt;nthU Nky; khfhz rigapd; fPohd epjp Kfhikj;Jt xOq;F tpjpfspd; fPo; Fwpg;gplg; gl;Ls;s Vw;ghLfs; Nghjpa mstpy; gpuNahfpf;fg;gl;Ls;sjhf>
+
+iii. rigapd; tUkhdj;ij Nrfupg;gJ njhlu;ghf nrayhsupdhy; Njitahd Kiwapy; cs;sf eilKiwfisj; jahupj;J eilKiwg;gLj;jg;gLtjhf>
+
+iv. ,w;iwg;gLj;jg;gl;l jfty;fs; Kd;itf;fg;gLtij jpUg;jpAwf; $ba tifapy; Kiwahd Kfhikj;Jtg; nghwpKiwnahd;W fl;likf;fg;gl;Ls;sjhf>
+
+v. mgptpUj;jpj; jpl;lj;jpy; kw;Wk; tUlhe;j tuTnryT mwpf;ifapy; cs;slf;fg;gl;l epfo;r;rpj; jpl;lq;fs; ntw;wpfukhf nray;gLj;jg;gLtijAk;> mjD}lhfj; jpul;lg;gl;l Mjhak; nrytpdq; fSld; rupahd msT tPjj;jpy; ,Ug;gijAk; cWjp nra;jy;>
+
+vi. cupa cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fspdhy; rigf;Fr; Nrfupf;fg;gl Ntz;ba tUkhdq;fis tuTnryTj; jpl;l Mtzj;jpw;F Vw;g epu;zapf;fg;gl;l fhyg;gFjpf;Fs; mwtPL nra;tjw;F eltbf;if Nkw;nfhs;sg;gl;bUg;gijAk; Kiwahff; fzf;F gjptplg;gl;Ls;sJ vd;gijAk;>
+
+vii. cs;sff; fzf;fha;T eilKiwfs; Kiwahf gpuNjr rigapDs; ,lk;ngWtnjd;gij>
+
+viii. gpuNjr rigapd; rfy mirAk; kw;Wk; mirahj Mjdq;fspd; ghJfhg;gpw;fhf Njitahd eltbf;iffs; Nkw;nfhs;sg;gl;bUg;gjhf>
+
+4A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+ix. khjhe;jk; tq;fpf; fzf;fpzf;ff; $w;W cupa khjk; Kbtile;J mLj;J tUk; khjk; 15 Mk; jpfjpf;F Kd; jahupf;fg;gLfpd;wnjd;gjid cWjpg;gLj;jy;>
+
+x. topapilg; gzk; nfhz;L nry;Yjy; cl;gl Vida ngWkjp kpf;fitfs; rk;ge;jkhf mtrpakhd fhg;gPl;L Vw;ghLfs; ahTk; nra;ag;gl;Ls;sd vd;gij cWjpg;gLj;Jjy; Ntz;Lk;.
+
+xi. epjp kw;Wk; fsQ;rpa eltbf;iffs; cl;gl gpizf; fl;lisr; rl;lj;jpw;F cl;gLk; mYtyu;fs; njhlu;ghf Njitahd gpizj;njhif ngw;Wf;nfhs;sg;gl;Ls;sik gw;wpj; jpUg;jpailjy;>
+
+xii. ehd;F Mz;L mgptpUj;jpj; jpl;lj;jpw;F mikthf tUlhe;jk; mgptpUj;jpj; jpl;lj;ijj; jahupj;J rigapy; Kd;itj;J gpuNjr rig mq;fPfhuj;ijg; ngw;Wf;nfhs;tjw;F eltbf;ifnaLj;jy;. 13. gpuNjr rigf;F my;yJ mjd; epjpaj;jpw;F Vw;gLk; el;lk;> ,og;G my;yJ Nrjk; rk;ge;jkhf Fwpj;j gpuNjr rigapd; ahNuDk; mjpfhupnahUtupd;> cj;jpNahfj;jnuhUtupd; my;yJ gzpahsu; xUtupd; njhlu;G ,Uf;Fk; gl;rj;jpy; jiytupdhy; mt;thW Vw;gl;Ls;s el;lk;> ,og;G kw;Wk; Nrjk; Mfpatw;iwf; fz;lwptjw;fhfTk; mjw;Fg; nghWg;Gf;$w Ntz;batu;fis ,dq;fz;L cWjpnra;tjw;fhfTk; nghUj;jkhd %d;WNgu; mlq;fpa tprhuizf; FOnthd;iw epakpj;jy; Ntz;Lk;. 14. jiytupdhy; Nkw;Fwpj;j tpjpapd; fPo; epakpf;fg;gl;l tprhuizf; FOtpd; mwpf;if jkf;F fpilf;fg;ngWk; gl;rj;jpy; cupa el;lk;> ,og;G kw;Wk; Nrjk; vd;gtw;iwg; nghWg;Gf;$w Ntz;batu; fsplkpUe;J mwtpl;Lf;nfhs;tjw;F eltbf;ifnaLj;jy; Ntz;Lk;. 15. NkNy 13 Mk; tpjpapd; fPo; Nkw;nfhs;sg;gLk; tprhuizapy; Fwpj;j el;lk; my;yJ ,og;G my;yJ Nrjk; vd;gtw;iw Nkw;nfhs;ifapy; nghWg;Gf;$w Ntz;batu;fs; mjw;fhf Ju;elj;ij my;yJ flik kPwy;> murhq;fj;jpd;> Nky; khfhz rigapd; kw;Wk; gpuNjr rigapd; cupikfSf;Fg; ghjpg;G Vw;gLj;jf;$ba vt;tifahd nraiyAk; Nkw;nfhz;Ls;sdu; vd;w tplak; ntspg;gLj;jg;gLk; gl;rj;jpy;> mJ njhlu;ghf Kiwahd xOf;fhw;W eltbf;if vLg;gjw;fhf xOf;fhw;W mjpfhupf;F mwptpj;jy; Ntz;Lk;. 16. NkNy 14 Mk; tpjpapd; fPo; fz;lwpag;gl;l el;lk;> ,og;G kw;Wk; Nrjk; njhlu;ghd ngWkjp my;yJ mjd; gFjpia nghWg;Gf; $w Ntz;batu;fs; vdf; fz;lwpag;gl;l jug;ghuplkpUe;J my;yJ jug;ghu;fsplkpUe;J rl;l eltbf;iffs; %yk; mwtpl;Lf;nfhs;s Kbahky; Nghjy; my;yJ mt;thW mwtpl;Lf;nfhs;s Ntz;ba njhif epuhfupf;ff;$ba ngWkjpahf ,Uf;Fk; gl;rj;jpy; vOj;J %ykhd rl;lj;jpd; fPo; Fwpj;j njhifia gpuNjr rigf;F mwtpl;Lf;nfhs;s Kbahj njhifahff; fUjp eltbf;ifnaLf;Fk; Nehf;fpy; Kd;nkhopnthd;iw jiytupdhy; rigapy; Kd;itf;fyhk;. 17. gpuNjr rigahdJ cg mYtyfq;fis elhj;jpr;nry;tjhapd;> mjw;Fupa epjp eltbf;iffisg; NgZjy; njhlu;ghf gpd;tUk; eltbf;iffs; vLf;fg;gLtij cWjpg;gLj;Jjy; rfy cg mYtyfq; fspdJk; nghWg;gjpfhupfspd; kw;Wk; mjd; midj;J cj;jpNahfj;ju;fspdJk; nghWg;ghFk;. (i) jkf;F xg;gilf;fg;gLk; rfy flikfis jhkjkpd;wpAk; vOj;J %ykhd rl;lj;jpw;F mikthfTk; mJ njhlu;ghf rigapdhy; vLf;fg;gl;Ls;s jPu;khdq;fSf;F mikthfTk; Nkw;nfhs;sg;gLtij cWjpg;gLj;jpf;nfhs;sy;.
+
+(ii) cg mYtyfq;fspd; gFjpfspypUe;J gpuNjr rig epjpaj;jpw;Fr; Nrfupf;fg;gl Ntz;ba rfy tUkhdq;fisAk; vOj;J%ykhd rl;lj;jpy; Fwpg;gplg;gl;Ls;s Kiwapy; mwtpl;Lf;nfhs;tjw;F eltbf;ifnaLj;jy;. (iii) rfy Mtzq;fisAk; jfty;fisAk; Kiwahfg; NgZtjw;F eltbf;ifnaLj;jy;. (iv) nghJthd fhg;gPl;Lg; ghJfhg;G ngw;Wf;nfhz;Ls;s jkJ fhupahyaj;jpw;F njhlu;Gs;s Mjdq;fspd; tplaj;jpy; rk;ge;jg;gl;l fhg;gPl;Lg; ghJfhg;ig ngw;Wf;nfhs;sYk; mijg; guhkupj;jYk;.
+
+5A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+(v) cg mYtyfq;fSf;fhf rigapdhy; jPu;khdpf;fg;gLk; ngWkjpapy; rpy;yiwf; fhR fl;Lepjpia toq;Fjy; kw;Wk; mjidg; guhkupj;jy;.
+
+(vi) cg mYtyfq;fSf;Fupa ehshe;j mwpf;if> khjhe;j mwpf;if kw;Wk; fhyhz;L mwpf;if vd;w tifapy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf gpujhd mYtyfj;jpw;F mwpf;ifaply;.
+
+(vii) cg mYtyf mjpfhu vy;iyf;F cupa rfy nrhj;Jf;fspdJk; ghJfhg;ig cWjpg;gLj;Jjy; kw;Wk; fhg;GWjp nra;ag;glNtz;ba nrhj;Jf;fs; njhlu;ghf kjpg;gPl;il Nkw;nfhz;L ngw;Wf;nfhz;l mwpf;ifapd; gpufhuk; fhg;GWjp nra;jy;.
+
+(viii) cg mYtyfj;jpw;Fupa rfy jfty;fisAk;> 2016 Mk; Mz;bd; 12 Mk; ,yf;f jftywpAk; rl;lj;jpw;F kw;Wk; epge;jidfSf;F mikthf guhkupj;jy; kw;Wk; jfty; Kd;Ndw;w ml;il> kpf Kf;fpa tpUj;jpf;fhd jfty;fs; njhlu;ghd Mtzq;fis guhkupj;jy;. 18. NkNy 17 Mk; tpjpapd; fPohd Vw;ghLfSf;fikthf eltbf;iffs; Nkw;nfhs;sg;gLfpd;wdth vd;gJ gw;wpAk; kw;Wk; gpujhd mYtyfj;jpw;Fupa rfy jfty;fSk;> 2016 Mk; Mz;bd; 12 Mk; ,yf;f jftywpAk; rl;lk; kw;Wk; epge;jidSf;F mikthf kw;Wk; Vw;ghLfSf;F mikthf jfty; Kd;Ndw;w ml;il> kpfKf;fpa kw;Wk; tpUj;jpf;fhd jfty;fs; njhlu;ghd Mtzq;fisg; guhkupg;gJ njhlu;ghf nrayhsu; Nkw;ghu;it nra;jy; Ntz;Lk;. 19. gpuNjr rig njhlu;ghf Nkw;nfhs;sg;gLk; tprhuiz rk;ge;jkhf my;yJ mjd; mjpfhupnahUtu;> cj;jpNahfj;jnuhUtu; njhlu;ghf cs;@uhl;rp Mizahsupdhy;> cs;@uhl;rp Mizahsupdhy; mjpfhukspf;fg;gl;l tprhuiz cj;jpNahfj;jupdhy; my;yJ NtW vtNuDnkhU cj;jpNahfj;jupdhy; Nfhug;gLk; gpuNjr rig epjpaj;Jld; njhlu;Gila fzf;F rk;ge;jkhf my;yJ NtW VNjDk; jfty;fis toq;Ftjw;Fe; jiytupdhy; Njitahd Vw;ghLfis Vw;ghL nra;jy; Ntz;Lk;. 20. fzf;fha;thsu; ehafj;jpdhy; my;yJ mikr;rupdhy; my;yJ cs;@uhl;rp Mizahsupdhy; jiytUf;F my;yJ nrayhsUf;F Kd;itf;fg;gLk; my;yJ jiytuplk; my;yJ nrayhsuplk; tpdtg;gLk; vt;tifahd tplaq;fs; njhlu;ghfTk; jhkjkpd;wp gjpy; toq;Ftjw;F kw;Wk; jfty;fis toq;Ftjw;Fj; jiytu; my;yJ rigapd; nrayhsu; eltbf;ifnaLj;jy; Ntz;Lk;. 21. gpuNjr rigapd; cs;sff; fzf;fha;T nrad;Kiwfis 2018 Mk; Mz;bd; 19 Mk; ,yf;f Njrpa fzf;fha;Tr; rl;lj;jpw;F mikthfg; NgZtjw;Fj; Njitahd rfy eltbf;iffSk; jiytupdhy; Nkw;nfhs;sg;gly; Ntz;Lk;. 22. VNjDnkhU epjpahz;bDs; gpuNjr rigf;F rl;lG+u;tkhf mwtplg;gl Kbahj njhifiaNah my;yJ iftpLtjw;F Vw;wtifapyhd mwtPL nra;Ak; mstpw;F ngWkjpaw;w tUkhdnkhd;nwdpy; gpuNjr rig epjpaj;jpw;F Fwpj;j njhifahdJ mwtplj; Njitaw;w njhifnad rigapdhy; jPu;khdpf;ff; $ba tifapyhd Kd;nkhopnthd;iw jiytupdhy; Fwpj;j epjpahz;by; my;yJ mLj;JtUk; epjpahz;bd; MW khjq;fs; flg;gjw;F Kd;du; Kd;itj;jy; Ntz;Lk;. 23. gpuNjr rigapd; ve;jnthU ,ae;jpu cgfuzj;ijNah> thfdj;ijNah my;yJ Vida vt;tifahd Mjdj;ijNah FiwghLs;s gad;ghl;bw;F toptif nra;ahky; ifahStjw;Fk; kw;Wk; Kiwahd guhkupg;GlDk; gOJghu;g;GlDk; NgZtjw;Fj; Njitahd rfy eltbf;iffisAk; jiytupdhy; Nkw;nfhs;sg;gly; Ntz;Lk;. 24. ,e;j xOq;F tpjpapd; fPo; vof;$ba my;yJ xOq;F tpjpapdhy; cs;slf;fg;glhj vt;tifahd tplaq;fs; njhlu;ghfTk; jPu;khdk; Nkw;nfhs;Sk; gl;rj;jpy;> eilKiwg;gLj;Jk; gl;rj;jpy;> eilKiwg;gLj;jhik njhlu;ghfntdpd; jiytupdhy; my;yJ gpuNjr rigapd; vtNuDnkhW nghWg;gjpfhupapdhy; nghUj;jkhd tifapy; murhq;fj;jpd; epjpg; gpukhdj;ij my;yJ khfhz rigapd; epjp xOq;F tpjpiag; gpuNahfpf;f Ntz;Lk;.
+
+6A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+25. gpuNjr rigapd; jiytUf;F> gpujpj; jiytUf;F my;yJ NtW vtNuDnkhU cWg;gpdUf;F> nrayhsu; my;yJ vtNuDnkhU mYtyUf;F cs;@uhl;rp epWtdj;jpd; gpujpepjp> mjpfhup vd;w tifapy; fUjg;gl;L toq;fg;gLk; vt;tifahd md;gspg;Gf;fisAk;> ed;nfhilfisAk; mit gpuNjr rigf;F mspf;fg;gl;l khdpakhff; fUj Ntz;Lk;. 26. gpuNjr rigapd; mLj;JtUk; tUlj;jpw;fhd tuTnryTj; jpl;lj;ij elg;G Mz;by; nraw;FOtplk; MNyhrpj;J jiytupdhy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathdjhf ,jdfj;J ,jd;gpd; Vw;ghLfs; Nkw;nfhs;sg;gl;Ls;s tpjj;jpy; kw;Wk; cs;@uhl;rp Mizahsupdhy; gupe;Jiuf;fg;gl;l gbtj;jpw;F mikthfj; jahupf;fg;gLjy; Ntz;Lk;. 27. jiytupdhy; Kd;itf;fg;gLk; tuTnryTj; jpl;lj;jpw;Fupa epjpahz;L njhlq;Ftjw;F Kd;du; vOj;J %ykhd rl;lj;jpy; Fwpg;gplg;gl;ljd; gpufhuk;> Kiwahf rig mq;fPfhuk;ngw;w tuTnryTj; jpl;lnkd fUJtjw;F Vw;w tifapy; tplaq;fs; G+uzg;gLj;jg;gl;bUj;jy; Ntz;Lk;> 28. rigapdhy; tuTnryTj; jpl;lj;ij mq;fPfupj;jjd; gpd;du; mjd; rhd;WWjpg;gLj;jg;gl;l gpujpfis fzf;fha;thsu; ehafk;> cs;@uhl;rp Mizahsu; kw;Wk; khtl;l cjtp cs;@uhl;rp MizahsUf;F mDg;gpitj;jy; Ntz;Lk;. 29. jiytupdhy; VjhtnjhU epjpahz;bd; vr; re;ju;g;gj;jpYk; Nkyjpf tUkhdj;jpw;fhf cs;Shul;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf Fiwepug;G tuTnryTj; jpl;lj;ijj; jahupj;J mq;fPfhuj;jpw;fhf rigapy; Kd;itf;fyhk;. vt;thwhapDk; gpuNjr rigahdJ Nja;khdj;jpw;fhd Fiwepug;G tuTnryTj; jpl;lnkhd;iw Kd;itf;Fk; gl;rj;jpy; tUkhdj;jpw;F Nenuhj;jjhf ,Uf;f Ntz;ba mtrpak; ,y;iy. 30. rigapy; Kd;itf;fg;gLk; vt;tifahd tuTnryTj; jpl;l Mtznkhd;iwNah my;yJ Fiwepug;G tuTnryTj; jpl;l Mtznkhd;iwNah epjp njhlu;ghd nraw; FOtpd; rpghupirg; ngWk; tiu nghJf; FOtpdhy; guprPyidf;F cl;gLj;jyhfhJ. 31. tuTnryTj; jpl;lj;jpd; Clhf my;yJ Fiwepug;G tuTnryTj; jpl;lj;jpD}lhf VNjDnkhW nryTf;fhf my;yJ tplaj;jpw;fhf xJf;fg;gl;l xJf;fPL NghJkhdjhf ,y;yhj gl;rj;jpy;> Vida tplaq;fspd; fPOs;s xJf;fPl;bd; %yk; xJf;fPl;ilj; jiytu; Vw;gLj;jpf; nfhs;s KbAk;. 32. gpuNjr rigahdJ rigapdhy; Kiwg;gb Vw;Wf;nfhs;sg;gl;l tuTnryTj; jpl;lj;ij my;yJ xt;nthU Fiwepug;G tuTnryTj; jpl;lj;ijAk; nghJkf;fs; mwpe;Jnfhs;tjw;fhf gfpuq;fg;gLj;Jjy; Ntz;Lk;. 33. gpuNjr rigf;fhd epjpakhdJ mbg;gilr; rl;lj;jpy; Fwpg;gplg;gl;Ls;s tiuaiwfs; kw;Wk; Vw;ghLfSf;F cl;gl;l epjpakhf ,Uj;jy; Ntz;Lk;. 34. gpuNjr rigf;fhf ngwg;gLk; rfy njhiffSk; mikr;rupdhy; mDkjpf;fg;gLk; tq;fpapy; epjpa nkhd;whf fzf;F Ngzg;gly; Ntz;Lk;. 35. gpuNjr rigf;fhd epjpaj;jpw;Fupa fzf;fpdJ fhNrhiyapy; kw;Wk; nfhLg;ghizapy; mbg;gilr; rl;lj;jpy; mjpfhukspf;fg;gl;Ls;sjd; gpufhuk; gpuNjr rigapd; ,U cj;jpNahfj;ju;fs; xg;gkply; Ntz;Lk;. 36. gpuNjr rig epjpaj;jpw;Fupa fzf;fpdJ fhNrhiyapy; kw;Wk; nfhLg;ghizapy; xg;gkpl Ntz;ba cj;jpNahfj;ju;fspd; khjpupf; ifnahg;gq;fs; cs;@uhl;rp epWtdq;fspd; gpujhd fzf;fPl;L mYtyupdhy; cWjpg;gLj;jg;gl;L cupa tq;fpf;F rku;g;gpj;jy; Ntz;Lk;. 37. gpuNjr rigapy; fhRf; nfhLf;fy;thq;fy; nra;af; $ba fhyvy;iy rigapdhy; jPu;khdpf;fg;gl;l tifapy; ,Uj;jy; Ntz;Lk;.
+
+7A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+38. gpuNjr rigapd; epjpf;fhf Nrfupf;fg;gLk; gzk; rigapdhy; NtW tpjj;jpy; mjpfhukspf;fg;gl;bUf;fhj rfy re;ju;g;gq;fspYk; ehshe;jk; tq;fpapy; itg;gpyplg;gl Ntz;Lk;. 39. gpuNjr rig epjpaj;jpw;fhf fhNrhiy %yk; Nkw;nfhs;sg;gLk; nfhLg;gdTf;fhd fhNrhiy VjhtnjhU fhuzj;jpdhy; kjpg;gpof;Fk; gl;rj;jpy;> mjw;Fupa ngWkjpia gzkhfr; nrYj;jg;gly; Ntz;Lnkd nfhLg;gdT nra;j egUf;Fg; gzpj;jy; Ntz;Lk;. 40. gpuNjr rig epjpaj;jpw;Fupa fzf;ifg; NgZjy; kw;Wk; mjw;fhd fzf;fPl;L eltbf;ifAl;gl mjDld; njhlu;Ggl;l tplaq;fs; rfy re;ju;g;gq;fspYk; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf ,jdfj;J ,jd; gpd;du; Fwpg;gplg;gLk; Kiwapy; Nkw;nfhs;sg;gLjy; Ntz;Lk;. 41. gpuNjr rigf;F Kd;itf;fg;gLk; rfy fzf;fha;T tprhuizfSf;Fk;> tprhuiz Mtzj;jpy; Fwpg;gplg;gl;l fhyg;gFjpapDs; jhkjkpd;wp gjpy; mDg;Gtjw;fhd rfy Vw;ghLfisAk; fzf;fPl;L cj;jpNahfj;ju; Nkw;nfhz;bUj;jy; Ntz;Lk;. 42. gpuNjr rigapdhy; guhkupf;fg;gLk; rfy Mjdq;fSk; nghUl;gjpNtl;by; cs;slf;fg;gl;bUj;jy; Ntz;Lnkd;gNjhL xt;nthU tUl ,WjpapYk; nghUl; fzpg;gPL Nkw;nfhz;L cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Nritf; fzf;fPl;L epakq;fSf;F ,iathf cs;@uhl;rp Miz ahupdhy; mjw;nfd rpghupRnra;ag;gl;l gbtk; VJk; ,Ug;gpd; mjd; gpufhuk; jahupf;fg;gl;l nghUl; gjpNtl;by; cs;slf;fp rPu;nra;J guhkupj;jy; Ntz;Lk;. 43. nghUl; fzpg;gPl;Lr; rigapd; mwpf;ifapd; fPo; VNjDk; nghUl;fis ghtidapypUe;J mfw;w Ntz;Lnkd rpghupR nra;ag;gl;bUg;gpd;> mJ njhlu;ghf mLj;JtUk; epjpahz;bd; khr;R khjk; 31 Me; jpfjpahFk; nghOJ Vyj;jpy; tplg;gl Ntz;ba nghUl;fis Vyj;jpy; tpw;gidnra;tjw;fhf kw;Wk; mopf;fNtz;ba nghUl;fis mopg;gjw;fhd jPu;khdk; Nkw;nfhs;tjw;fhf mjw;Fupa Kd;nkhopit jiytu; nghJr; rigf;F Kd;itj;jy; Ntz;Lnkd;gNjhL> ,Wjp mwpf;if ngg;GUtup khjk; gjpide;jhk; (15) jpfjpf;F Kd;du; rku;g;gpj;jy; Ntz;Lk;. 44. nghUl; fzpg;gPl;L rig mwpf;if mjd; gpujpfSld; fzf;fha;thsu; ehafk;> cs;@uhl;rp Mizahsu; kw;Wk; khtl;l cjtp cs;@uhl;rp MizahsUf;Fr; rku;g;gpj;jy; Ntz;Lk;. 45. gpuNjr rigapd; nrhj;Jf;fs; njhlu;ghf epakpf;fg;gLk; fzpg;gPl;Lr; rigapd; nkhj;j vz;zpf;ifapy; khtl;l cjtp cs;@uhl;rp Mizahsu; rpghupR nra;Ak; mYtynuhUtu; cs;slf;fg;gl Ntz;Lnkd;gNjhL epakpf;fg;glNtz;ba fzpg;gPl;Lf; FOtpd; vz;zpf;if nrayhsupdhy; jPu;khdpf;fg; gly; Ntz;Lk;. 46. rfy fzpg;gPl;Lf; FOf;fSk; nrayhsupdhy; epakpf;fg;gly; Ntz;Lk; vd;gNjhL epakpf;fg;gl;l jpdj;jpypUe;J %d;W khjj;jpDs; flikfisr; nra;JKbj;jy; Ntz;Lk;. 47. fsQ;rpag; nghUl;fisf; nfhs;tdT nra;jjd; gpd;du; jhkjpahky; Mtzj;jpy; gjpTfis Nkw;nfhs;s Ntz;Lnkd;gNjhL nfhs;tdtpw;fhd cWjpr; rPl;by; jpfjp kw;Wk; ,yf;fj;ij mjw;Nfw;Gilajhf Fwpg;gplg;gl;bUj;jy; Ntz;Lk;. 48. mjpfhukspf;fg;gl;l cj;jpNahfj;jnuhUtupd; tpepNahfj;jpw;fhd fl;lisapd;wp ve;jnthU fsQ;rpag; nghUSk; tpepNahfpf;fg;glf; $lhJ vd;gNjhL xt;nthU epjpahz;bd; ,WjpapYk; fsQ;rpag; nghUl;fs; njhlu;ghd fzpg;gPl;il ,e;j xOq;F tpjpapd; fPo; tpgupf;fg;gl;Ls;s fzpg;gPl;Lf; FOtpd; %yk; fzpg;gPl;il Nkw;nfhz;L mwpf;ifnahd;W ngw;Wf;nfhs;sg;gly; Ntz;Lk;.
+
+8A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+II MtJ mj;jpahak;
+
+gpuNjr rig epjpak; kw;Wk; epjpaj;jpw;F nrYj;jg;gLk; nfhLg;gdTfs; 49. gpuNjr rig epjpaj;jpw;F nrYj;jg;gLk; VNjDnkhU nfhLg;gdtpw;fhf rhj;jpakhd rfy re;ju;g;gq;fspYk; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf cs;@uhl;rp Mizahsupdhy; tpje;Jiuf;fg;gl;l khjpupg;gbtj;jpw;F mikthd gw;Wr;rPl;nlhd;W toq;fg;gly; Ntz;Lk;. vdpDk; gpuNjr rig epjpaj;jpw;F nrYj;jg;gl;l nfhLg;gdthf gpuNjr rig epjpak; rhu;ghf gzj;ijg; ngw;Wf; nfhs;tjw;fhf Fwpj;j gpuNjr rigapdhy; mjpfhuk; toq;fg;gl;l VNjDnkhU epajpr;rl;l epWtdnkhd;W my;yJ 2007 Mk; Mz;bd; 07 Mk; ,yf;f fk;gdpfs; rl;lj;jpd; fPo; nraw;gLk; epWtdnkhd;W> kj;jpa tq;fpapd; epjpr; rigapdhy; mq;fPfupf;fg;gl;l tq;fpnahd;W my;yJ NtW VNjDnkhU epjp epWtdnkhd;W nraw;gLk;nghOJ> Fwpj;j epWtdj;jpdhy; gzj;ijg; ngw;Wf;nfz;ljw;fhf jhdpaq;fp %yk; my;yJ nraw;ghl;bdhy; ,lg;gLk; Fwpg;G my;yJ toq;fg;gLk; gw;Wr; rPl;lhdJ gpuNjr rig mjw;fhf toq;Fk; gw;Wr;rPl;lhff; fUjg;gly; Ntz;Lk;. 50. NkNy 49 Mk; tpjpapd; fPo; Fwpg;gplg;gl;l Kiwapy; gpuNjr rig rhu;ghf VNjDnkhU epajpr;rl;l epWtdnkhd;W 2007 Mk; Mz;bd; 07 Mk; ,yf;f fk;gdpfs; rl;lj;jpd; fPo; nraw;gLk; epWtdnkhd;W kj;jpa tq;fpapd; epjpr; rigapdhy; mq;fPfupf;fg;gl;l tq;fpnahd;W Vida epjp epWtdnkhd;W gzj;ijg; ngw;Wf; nfhs;Sk; nraw;ghl;il Nkw;nfhs;Sk; NghJ> mt;thW mwtplg;gLk; gzj;ij gpuNjr rig epjpaj;jpw;F tuTitj;jy; cl;gl;l rfy tplaq;fSk; gpuNjr rig kw;Wk; Fwpj;j epWtdj;Jld; Vw;gLj;jpf;nfhs;sg;gLk; xg;ge;jj;jpd; gpufhuk; eilngwNtz;Lk;. 51. NkNy 49 Mk; tpjpapd; fPo; Fwpg;gplg;gl;l khjpupg;gbtj;jpw;fikthd gw;Wr; rPl;L gzk; ngw;Wf; nfhz;likf;fhf toq;fg;gLk; rfy re;ju;g;gq;fspYk; mJ ehd;F gpujpfspy; G+uzg;gLj;jg;glNtz;Lk;. gzj;ijg; ngw;Wf;nfhz;likia rhd;Wg;gLj;Jtjw;fhf gzj;ijg; ngw;Wf;nfhz;ltupdhy; xg;gkplg; gl;bUj;jy; Ntz;Lk;. 52. rfy mbapjo;Nru; Gj;jfq;fSk; mjw;nfd Fwpg;ghf mjpfhukspf;fg;gl;l cj;jpNahfj;jupd; nghWg;gpy; itj;jpUf;f Ntz;Lnkd;gNjhL mjd; ghJfhg;G njhlu;ghf gpuNjr rigapd; nrayhsu; jdpg;gl;l Kiwapy; nghWg;Gf; $wy; Ntz;Lk;. 53. rfy mbapjo;Nru; Gj;jfq;fs;> gw;Wr; rPl;L kw;Wk; Mtzq;fs; 2016 Mk; Mz;bd; 12 Mk; ,yf;f jfty; mwpAk; rl;lj;jpw;F kw;Wk; mjd; epge;jidfSf;F mikthd Kiwapy; ghJfhg;ghf itj;jpUg;gJ nrayhsupd; flikahFk;. 54. gpuNjr rig epjpaj;jpw;nfd gzj;ijg; ngw;Wf;nfhs;Sk; mDkjpapd; fPo; nrayhw;Wk; gpuNjr rigAld; xg;ge;jk; nra;Jnfhz;Ls;s epWtdnkhd;W gpuNjr rig rhu;ghf tR+ypf;fg;gl;l gzj;ij xg;ge;jj;jpd; gpufhuk; gpuNjr rig epjpaj;jpw;F tuT itj;jik njhlu;ghd mwpf;ifia njhlu;e;J tUk; khjj;jpd; nghJf; $l;lj;jpw;F rku;g;gpj;J mJ nghJf;$l;lj;jpy; kjpg;gha;T nra;ag;gly; Ntz;Lk;. 55. gpuNjr rig epjpaj;jpw;F Nkw;nfhs;sg;gLk; nfhLg;gdTfs; njhlu;ghf cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf cs;@uhl;rp Mizahsupdhy; rpghupR nra;ag;gl;l gbtj;jpw;F mikthf ehshe;j tuTg; gFg;gha;it jahupf;f Ntz;Lnkd;gNjhL cg mYtyfq;fspd; fPohd tuTfis ntt;Ntwhff; fhl;Ljy; Ntz;Lk;. 56. gpuNjr rig epjpaj;jpw;F Nkw;nfhs;sg;gLk; nfhLg;gdTfs; njhlu;ghf cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf cs;@uhl;rp Mizahsupdhy; tpje;Jiuf;fg;gl;l gbtj;jpw;F mikthf xUq;fpize;j nryT njhlu;ghd khjhe;j gFg;gha;itj; jahupj;J fzf;fPl;L mjpfhupf;Fr; rku;g;gpj;jy; Ntz;Lk;.
+
+9A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+57. xt;nthU fyz;lu; khjj;jpw;Fkhd Rakhf <l;lg;gl;l tUkhdj;jpd; fPo; epYit tUkhdk; rk;ge;jkhd mwpf;ifia cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathf cs;@uhl;rp Mizahsupdhy; rpghupR nra;ag;gl;l tpjj;jpy; gpujhd mYtyf kl;lj;jpYk; cg mYtyf kl;lj;jpYk; jahupf;f Ntz;Lnkd;gNjhL mjd; nghopg;G mwpf;ifapid gpuNjr rigapd; nrayhsUf;F rku;g;gpj;jy; Ntz;Lk;. 58. xt;nthU epjpahz;bd; ,WjpapYk; rig epjpaj;jpw;F mwtplg;glNtz;ba kjpg;gPl;L tup kw;Wk; tR+y;fs;> fl;lzq;fs; kw;Wk; thliffs; cl;gl Vida tUkhdq;fspd; fPohd epYitj; njhifapy; mwtplj;jf;f fhR kPjpia khj;jpuk; mLj;JtUk; epjpahz;bw;F Kd;nfhz;L nrd;wjhf nrayhsupdhy; cWjpg;gLj;jy; Ntz;Lk;. 59. gpuNjr rig epjpaj;jpd; fPo; Ngzg;gLk; rpy;yiwf; fhR Kw;gzj;njhifapd; cr;r vy;iy cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf rigapdhy; jPu;khdpf;fg; gly; Ntz;Lk;. 60. gpuNjr rig epjpaj;jpw;fhf Kw;gzq;fis tpLtpg;gjhdJ vg;nghOJk; mjw;Fupa kjpg;gPl;bw;fpzq;f gjtpepiy cj;jpNahfj;jnuhUtUf;F \&gh xU ,yl;rk;’ vd;w cr;r vy;iyf;Fl;gl;ljhFk;. 61. vt;thwhapDk; Fwpj;j gpuNjr rigapd; mYtyu; Fohj;jpd; gUkidf; fUj;jpw; nfhz;L mjw;fhd kjpg;gPl;il mbg;gilahff; nfhz;L &gh ,Ugj;ije;jhapuj;jpw;F Nkw;glhj Kw;gzj; njhifia gjtp epiyay;yhj cj;jpNahfj;jnuhUtUf;F tpLtpg;gjhdJ rl;lG+u;tkhf ,Uj;jy; Ntz;Lk;. 62. gpuNjr rigapd; jiytupdhy; Fwpj;j tplaj;jpw;fhf gpuj;jpNafkhf mjpfhukspf;fg;gl;Ls;s cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fspdhy; gpuNjr rig mjpfhu vy;iyapDs; mike;Js;s gpuNjr rig epjpaj;jpw;fhd elg;ghz;bd; tUkhd %yq;fshd nrhj;Jf;fis ,dq;fhz;gjw;fhd fzpg;gPl;il Nkw;nfhz;L mjw;fhd mwpf;ifia xt;nthU tUlj;jpYk; khr;R khjk; Kg;gj;Njhuhk; jpfjpf;F Kd;du; Kd;itj;jy; Ntz;Lk;.
+
+III MtJ mj;jpahak;
+
+gpuNjr rig epjpaj;jpdhy; Nkw;nfhs;sNtz;ba nfhLg;gdTfs;
+
+63. gpuNjr rig epjpaj;jpdhy; nra;ag;gLk; gazr; nryTfis kPsspg;Gr; nra;tijj; jtpu gyjug;gl;l nfhLg;gdTfis cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthdjhf ,e;j xOq;F tpjpapd; fPo; gpd;du; Fwpg;gplg;gl;Ls;s Vw;ghLfspd; gpufhuk; kw;Wk; cs;@uhl;rp Mizahsupdhy; mjw;nfd gupe;Jiuf;fg;gl;Ls;s gbtj;jpw;F Vw;wthwhd cWjpr; rPl;L %yk; Nkw;nfhs;sy; Ntz;Lk;. 64. gpuNjr rig epjpaj;Jld; njhlu;ghd nfhLg;gdtpw;Fupa cWjpr; rPl;bd; nrytpw;fhd mDkjpaspj;jy; mbg;gilr; rl;lj;jpd; Vw;ghLfSf;F Vw;g Nkw;nfhs;sg;gl;Ls;snjd Fwpg;gplg;gl;bUf;f Ntz;L nkd;gNjhL cWjpr; rPl;bw;Fupa nrytpid mq;fPfupg;gJ jiytupdhy; Nkw;nfhs;sg;gly; Ntz;Lnkd;gNjhL nrytpid rhd;Wg;gLj;JtJ nrayhsupdhy; Nkw;nfhs;sg;gly; Ntz;Lk;. 65. xt;nthU cWjpr; rPl;bYk; nrytpw;fhd mq;fPfhuj;ij toq;fpa rigj; jPu;khdj;jpd; my;yJ rigapd; mjpfhuj;ijg; gpuNahfpg;gjw;F mjpfhukspf;fg;gl;l re;ju;g;gj;jpy; mt;thW mjpfhukspf;fg;gl;l nraw;FOtpd; jPu;khdj;ij my;yJ mjpfhuk; mspf;fg;gl;Ls;s cj;jpNahfj;jpupdhy; nryTf;fhd mjpfhuj;ij toq;fpa Kiwikiaf; Fwpg;gpl;bUj;jy; Ntz;Lk;. 66. VjhtJ Nritf;Fg; nghWg;ghdtu;fspdhy; cWjpr; rPl;L jahupf;fg;gl Ntz;Lnkd;gNjhL Fwpg;ghf mjw;nfd mjpfhukspf;fg;gl;l cj;jpNahfj;jupdhy; cWjpr; rPl;L guPl;rpf;fg;gl;Uj;jy; Ntz;Lk;.
+
+10A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+67. xt;nthU cWjpr; rPl;bYk; Nkw;nfhs;sg;gl;l Nrit njspthff; Fwpg;gplg;gl;bUj;jy; Ntz;Lnkd;gNjhL cWjpr;rPl;by; cupa rfy jfty;fSk; Kiwahf cs;slf;fg;gl;Ls;sik gw;wp jpUg;jpAw;W nrt;it ghu;f;Fk; mYtyupdhy; cj;jpNahf Kj;jpiuapl;L xg;gkplg;gLjy; Ntz;Lk;. 68. cWjpr; rPl;by; cs;slf;fg;gl;Ls;s ngWkjp vOj;J kw;Wk; ,yf;fk; Mfpa ,U KiwfspYk; Fwpg;gplg;gl;bUj;jy; Ntz;Lk;. 69. ve;jnthU cWjpr; rPl;bYk; Fwpg;Gf;fis mopj;J tpLjy; my;yJ jpupTgLj;jy; vd;gd Nkw;nfhs;sg;gl;bUf;fyhfhJ vd;gNjhL jpUj;jq;fs; Nkw;nfhs;s mtrpakhapd; ntspg;gilahfj; njupAk; tz;zk; ntl;br; RUf;fkhd ifnahg;gkpLjy; Ntz;Lk;. 70. xt;nthU cWjpr; rPl;LlDk; cupa cWjpg;gLj;jy; gpd;dpizg;ghf Nru;f;fg;gl;bUj;jy; Ntz;Lk;. 71. cld;gbf;if my;yJ xg;ge;jj;jpd; fPo; nghUl;fis tpepNahfpf;Fk; nghOJ my;yJ gzpfs; epiwNtw;wg;gLk; nghOJ cupa nfhLg;gdTfs; cld;gbf;ifapd; my;yJ xg;ge;jj;jpd; gpufhuk; Nkw;nfhs;sg;gl;Ls;sJ vdTk; nra;J Kbf;fg;gl;l Ntiynahd;whapd; Fwpj;j Ntiy Kiwahf epiwNtw;wg;gl;Ls;sd vd;gJ gw;wpa rhd;Wg; gj;jpunkhd;W cupa cWjpr; rPl;Lld; ,izj;jpUj;jy; Ntz;Lk;. 72. ,Wjpf; nfhLg;gdT my;yJ epWj;jp itf;fg;gl;l njhifia nfhLg;gdT nra;tjw;fhd cWjpr; rPl;nldpd; Fwpj;j Ntiy KiwahfTk; jpl;lkpl;l tpjj;jpYk; nra;ag;gl;Ls;snjd Fwpj;j NtiyAld; njhlu;Ggl;l nghWg;gjpfhupapdhy; toq;fg;gl;l rhd;wpjo; cWjpr; rPl;Lld; rku;g;gpf;fg;gl;bUj;jy; Ntz;Lk;. 73. fsQ;rpag; nghUl;fs; fpilf;fg;ngw;wikf;fhd nfhLg;gdT cWjpr; rPl;nldpd; fsQ;rpag; nghUl;fs; fpilf;fg;ngw;wik kw;Wk; me;jg; nghUl;fs; nghUl; gjpNtl;by; my;yJ nghUs; ,Ug;Gg; Gj;jfj;jpy; gjpag;gl;bUg;gjhf rhd;wpjnohd;wpd; %yk; cWjpg;gLj;jpapUj;jy; Ntz;Lk;. 74. VNjDnkhU nfhLg;gdit mDkjpg;gjw;fhd vt;tifahd rk;gsg; gl;baypd; cWjpr; rPl;Nlh my;yJ NtW vt;tifahd Mtzj;jpd; xU gpujp khj;jpuk; mjpfhukspf;fg;gl;ltupdhy; rhd;Wg;gLj;j Ntz;Lnkd;gNjhL Nkyjpfg; gpujpfs; Njitg;gLk; rfy re;ju;g;gq;fspYk; “gpujp” vdf; Fwpg;gplg;gLjy; Ntz;Lk;.
+
+cs;@uhl;rp epWtdq;fspd; gjtpazpapdUf;fhd rk;gsk; 75. cs;@uhl;rp epWtdj;jpd;> Nky; khfhz khfhz rig mur Nritapy; epue;ju Xa;T+jpaj;jpw;F cupj;Jila gjtpapy; Nritahw;Wk; my;yJ mur Nrit Copau; Nrkyhg epjpaj;jpd; mq;fj;Jtj;jpd; fPo; Nritahw;Wk; cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fSf;Fupa rk;gsf; nfhLg;gdT njhlu;ghf mur jhgd tpjpf; Nfhitapd; Vw;ghLfs;> cupa khfhzj;jpd; khfhz rig mur Nritapd; Nrit eilKiwfs;> xOq;F tpjpfs;> Nky; khfhz MSeupdhy; iff;nfhs;sg;gLk; kw;Wk; khfhzj;jpw;nfd tpjpf;fg;gLk; Vida tpjpKiwfSf;Fk; nghUe;Jtdjhf ,Uj;jy; Ntz;Lk;. 76. VNjDnkhU cs;@uhl;rp epWtdj;jpd; Nky; khfhz rig mur Nritapd; gjtpay;yhj NghJk; cs;@uhl;rp epWtdj;jpw;fhf Nritapy; <LgLj;jg;gLk; vtNuDnkhU Copau; njhlu;ghf mtu; Nritapy; <LgLj;jg;gl;lik rk;ge;jkhf nghUe;Jk; epge;jidfisg; gpuNahfpf;f Ntz;Lnkd;gNjhL mjw;Nfw;g rk;gsk; cl;gl Vida nfhLg;gdTfs; cs;@uhl;rp epWtd epjpaj;jpw;F nrythf ,Uj;jy; Ntz;Lk;. 77. cs;@uhl;rp epWtdj;jpy; Nritahw;Wk; Fwpj;j Nky; khfhzj;jpd; khfhz rig mur Nritapd; gjtpnahd;iw tfpf;Fk; cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fs; njhlu;ghd rk;gsf; nfhLg;gdT> cupa gpuNjr rig epjpaj;jpypUe;J nfhLg;gdT nra;ag;glNtz;Lnkd;gNjhL> mt;thW Nkw;nfhs;sg;gLk; njhifahdJ mur rk;gsk; kPsspg;G nra;ag;glNtz;ba epajpfSf;F mikthf <Lnra;J nfhs;sg;gLjy; Ntz;Lk;.
+
+11A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+78. gpuNjr rigapy; rk;gsj;ijg; ngWk; rfy Copau;fSf;Fkhd rk;gsk; njhlu;ghd tpguq;fslq;fpa Mtzk; ,yq;if mur Jiwf; fzf;fPl;Lf; nfhs;iffSf;F mikthdjhf cs;@uhl;rp epWtdj;jpdhy; Ngzg;gly; Ntz;Lk;. 79. gpuNjr rigf;fhf khfhzj;jpd; khfhz rig mur Nritapd; gjtpnahd;iw tfpf;Fk; cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fSf;F mur jhgd tpjpf;Nfhitapd; Vw;ghLfSf;F my;yJ Nky;khfhz khfhz mur Nritapd; nray;Kiw xOq;F tpjpfspy; Fwpg;gplg;gLk; Vw;ghLfSf;F mikthdjhf mt;Tj;jpNahfj;ju; Fwpj;j gpuNjr rigf;fhf Nkw;nfhz;l NritAld; njhlu;Ggl;l gazf;nfhLg;gdT kw;Wk; tpLKiw jpdf; flikf;fhf toq;fg;gLk; tpLKiw jpdf; nfhLg;gdit cupa cWjpg;gj;jpuj;jpD}lhf rku;g;gpj;J mjw;Fupa Vida epajpfSf;F mikthf ngw;Wf;nfhs;syhk;. 80. cs;@uhl;rp epWtdnkhd;wpy; Nritahw;Wk; Fwpj;j khfhz rig mur Nritapy; Xa;T+jpa cupj;Js;s gjtpia tfpf;Fk; rfy cj;jpNahfj;ju;fs;> gzpahsu;fs; njhlu;ghf 1993 Mk; Mz;bd; 17 Mk; ,yf;f khfhz rig Xa;T+jpag; gpukhzj;jpd; Vw;ghLfSld; Xa;T+jpa epajpr;rl;lj;jpd; Vw;ghLfs; gpuNahfpf;fg;gl Ntz;Lnkd;gNjhL> Xa;T+jpa cupj;jw;w gjtp tfpf;Fk; Copau;fs; rk;ge;jkhf mur cj;jpNahfj;ju;fspd; Copau; Nrkyhg epjpaj;jpy; mq;fj;Jtk; ngwg;gLjy; Ntz;Lk;. 81. vt;thwhapDk; ,e;jf; xOq;F tpjpfs; eilKiwg;gLj;jg;gLk; jpdj;jpy; Xa;T+jpaj; Jizr; rl;lj;jpd; fPo; cs;@uhl;rp epWtdq;fspy; Xa;T+jpa cupj;ijg; ngWk; xUtUf;F ,e;jg; gpuptpd; Vw;ghLfs; mjw;fhd jilahf ,Uj;jyhfhJ. rig epjpaj;jpdhy; toq;fg;gLk; fld; kw;Wk; KjyPL 82. gpuNjr rigapd; cj;Njrpf;fg;gl;l NritfSf;F Nkyjpfkhd gzk; Njitg;gbd; 1887 Mk; Mz;bd; 15 Mk; ,yf;f gpuNjr rigr; rl;lj;jpy; cs;slf;fg;gl;l Vw;ghLfSf;F mikthf rigapdhy; jPu;khdpf;fg;gLk; tpjj;jpy; KjyPLfis Nkw;nfhs;syhk;. 83. (i). gpuNjr rig epjpaj;jpypUe;J toq;fg;gLk; fld; kw;Wk; kPsr;nrYj;Jif rk;ge;jkhd Mtzj;ij guhkupf;fg;gly; Ntz;Lnkd;gNjhL mJ cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf ,jdfj;J ,jd;gpd;du; Fwpg;gplg;gLk; Vw;ghLfspd;gb cs;@uhl;rp Mizahsupdhy; tpje;Jiuf;fg;gl;l khjpupg;gbtq;fSf;F Vw;g jahupf;fg;gly; Ntz;Lk;. (ii). gpuNjr rig cj;jpNahfj;ju;fs; kw;Wk; gzpahsu;fSf;fhf toq;fg;gl Ntz;ba Copau; flDf;fhf jdpahd Kw;gzf; fzf;nfhd;W Ngzg;gly; Ntz;Lk;. IV MtJ mj;jpahak;
+
+gpuNjr rigf;fhf> cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; Vw;Gilajhjy; gpuNjr rigf; fzf;Ffisg; guhkupj;jy; kw;Wk; epjp mwpf;iffs;
+
+84. gpuNjr rigapdhy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fisg; gpuNahfpj;J jkJ fzf;Ffisg; guhkupj;jy; kw;Wk; epjp mwpf;iffisj; jahupj;jy; Ntz;Lk;. gpuNjr rig epjp mwpf;ifiaj; jahupf;Fk; Nehf;fk; kw;Wk; mjw;Fupa Nfhl;ghLfs;
+
+85. gpuNjr rigahdJ epjp mwpf;ifia Kd;itf;Fk; gl;rj;jpy; mjw;Fwpa Nehf;fk; gpuNjr rig mq;fPfupf;Fk; epjp mwpf;ifapLk; tpguq;fs;> epjp mwpf;ifiag; gad;gLj;Jk; vtNuDk; egu;fSf;F gad;ngwj;jf;f tifapy; toq;FtjhFk;.
+
+12A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+86. ,e;jf; xOq;F tpjpapd; fPo; gpuNjr rigf;fhd nrhj;Jf;fs;>nghWg;Gf;fs; kw;Wk; Njwpa nrhj;J vdg;gLk; ,Ug;G njhlu;ghd nrhw;nghUs; tpsf;fk; gpd;tUkhW fUjg;gly; Ntz;Lk;. i. fle;jfhy eltbf;iffspd; gpujpgydhf gpuNjr rig epu;tfpf;Fk; jw;Nghija nghUshjhu nrhj;Jf;fs; gpuNjr rigapd; nrhj;Jf;fshff; fUjg;gly; Ntz;Lk;. ii. fle;jfhy eltbf;iffspd; gpujpgydhf nghUshjhu nrhj;njhd;iw xg;gilg;gjw;F gpuNjr rigf;Fs;s Mf;f Kaw;rpf;fhd flg;ghLldhd nghWg;nghd;whFk;. iii. gpuNjr rigapd; rfy nghWg;Gf;fisAk; Fiwj;jjd; gpd; nrhj;Jf;fspd; vQ;rpa cupik gpuNjr rigapd; Njwpa nrhj;J my;yJ ,Ug;ghff; fUjg;gly; Ntz;Lk;.
+
+87. gpuNjr rigapd; ‘tUkhdk;’ vdg;gLtJ %yjd epjpakhf murpdhy; my;yJ khfhz rigapdhy; Nkw;nfhs;sg;gLk; gq;fspg;Gf;fSld; njhlu;Ggl;l tplaq;fisj; jtpu mwpf;ifaplg;gLk; fhyg;gFjpapy; Njwpa nrhj;J vdg;gLk; ,Ug;G mjpfupg;gjd; tpisthf epjp cl;gha;r;ry; my;yJ nrhj;J mjpfupg;G my;yJ nghWg;Gf;fs; FiwtilAk; tbtpyhd nghUshjhug; gad;fspd; mjpfupg;ghFk;.
+
+88. ‘gpuNjr rigapd; nryTfs;’ vd;gJ %yjdj;jpw;fhf gq;fspg;Gr; nra;Nthu; murpw;F my;yJ Nky; khfhz rigf;F gfpu;e;jspf;fg;gLk; tpepNahfq;fSld; rk;ge;jg;gl;l tplaq;fisj; jtpu jPu;khdpf;fg;gl;l VNjDnkhU fhyg; gFjpapDs; Njwpa nrhj;J my;yJ ,Ug;G Fiwtiltjd; tpisthd epjp ntspg;gha;r;ry; my;yJ nrhj;Jf; Fiwtiljy; my;yJ nghWg;Gf;fs; cUthFjy; tbtpyhd nghUshjhu tUkhdk; FiwtiljyhFk;. 89. nrhj;J> nghWg;G> tUkhdk; my;yJ nryTfs; vd;gdtw;wpd; tiuaiufSf;F mikthf fPo; tUk; msTNfhs;fisg; G+u;j;jpnra;Ak; tplaq;fis gpuNjr rig epjp mwpf;iff;fhf ,dq;fhZjy; Ntz;Lk;. i. Fwpj;j tplak; kw;Wk; mjDld; njhlu;Ggl;l ve;jnthU vjpu;fhy tUkhdj;ijAk; gpuNjr rigf;F cl;gha;r;ryhf my;yJ ntspg;gha;r;ryhf vjpu;ghu;f;f KbAnkd> ii. ek;gfj;jd;ikAld; kjpg;gpl KbAkhd nryT my;yJ ngWkjp Fwpj;j tplaq;fSf;F cs;snjd. 90. gpuNjr rigapdhy; mjd; epjp mwpf;ifapy; jpul;lg;gl;litfis mbg;gilahff; nfhz;l fzf;fPLfisg; gad;gLj;jp jahupf;fg;gly; Ntz;Lk;. jpul;lg;gl;litfs; mbg;gilapy; cupa tplak; nrhj;J> nghWg;G> ,Ug;G> tUkhdk; my;yJ nryT vd ,dq;fhz;gJ me;j tplaj;jpw;fhd msTNfhs;fisg; G+u;j;jpnra;Ak; gl;rj;jpy; khj;jpuNkahFk;. gpuNjr rig mjd; epjp mwpf;ifiar; rku;g;gpj;jy;
+
+91. gpuNjr rigapdJ epjp mwpf;ifia Kd;itg;gjhdJ> mbg;gilr; rl;lj;jpy; Fwpg;gplg;gl;Ls;s Vw;ghLfSf;F cl;gl;ljhf ,Uj;jy; Ntz;Lk;. 92. gpuNjr rigapdhy; Kd;itf;fg;gLk; rfy epjp mwpf;iffspYk; gpuNjr rigapd; epjp epiyik kw;Wk; epjp nraw;jpwid epahakhf Kd;itj;jy; Ntz;Lnkd;gNjhL epjp mwpf;ifapy; NtWghLfs; ,Ug;gpd; khw;wq;fs; kw;Wk; mJ njhlu;ghd Fwpg;Gf;fs; ntspg;gLj;jg;gly; Ntz;Lk;. 93. gpuNjr rigapdhy; epiwNtw;wg;gLk; epjp mwpf;ifapy;> Fwpj;j epjp mwpf;if cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf jahupf;fg;gl;Ls;snjd;w mwpf;ifnahd;W cs;slf;fg;gly; Ntz;Lk;.
+
+13A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+94. (i). gpuNjr rigapdhy; epiwNtw;wg;gl;l epjp mwpf;ifapd; njhlu;r;rpahd epiyg;Ngw;iw gpuNjr rigapd; jiytu; cl;gl epu;thfkhdJ vg;nghOJk; kjpg;gPL nra;jy; Ntz;Lk;. mt;thNw gpuNjr rigapd; njhlu;r;rpahd epiyg;Ngw;iwf; fUj;jpw;nfhz;L tUlhe;j epjp mwpf;ifia tUlhe;j mbg;gilapy; kl;Lg;gLj;jhJ vjpu;fhyj;jpw;fhfTk; mjid kjpg;gPL nra;J jahupf;fg;gly; Ntz;Lk;. mt;thNw gpuNjr rigapdhy; mq;fPfupf;fg;gl;l epjp mwpf;ifapd; fPo; nrayhw;Wtjpy; re;Njfk; Vw;gLfpd;w my;yJ epr;rakw;w jd;ikia gpuNjr rig ntspg;gLj;Jjy; Ntz;Lk;. (ii). gpuNjr rigapdhy; epiwNtw;wg;gl;l epjp mwpf;ifapd; njhlu;r;rpahd epiyNgW jiytu;> nrayhsu; cl;gl mjw;fhd gpuj;jpNaff; FOtpdhy; cWjpg;gLj;jg;gly; Ntz;Lk;. 95. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf gpuNjr rigapdhy; nraw;ghLfspd; jd;ikapy; Fwpg;gplj;jf;f tifapyhd khw;wj;jpd; gpd;du; my;yJ tUlhe;j epjp mwpf;ifia kjpg;gha;T nra;Ak;nghOJ> NtW tpjj;jpy; rku;g;gpf;fg;gl;bUj;jy; my;yJ tifg;gLj;jy; kpfTk; nghUj;jkhdJ vd ,yFtpy; milahsk; fhzf;$bajhf ,Ue;jhNy jtpu ,ad;wtiu Fwpj;j mwpf;ifapy; tplaq;fis Kd;itj;jy; kw;Wk; tifg;gLj;jy; njhlu;e;JtUk; tUlj;jpYk; mt;thNw nfhz;L elhj;jg;gly; Ntz;Lk;. 96. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspy; Fwpg;gplg;gl;Ls;sjd; gpufhuk; elg;G Mz;bw;fhd epjp mwpf;ifapy; cupa fhyg;gFjpf;fhd ngWkjpahf ,Uj;jy; Ntz;L nkd;gNjhL Kd;ida tUlj;Jld; xg;gplj;jf;f jfty;fs; xg;gPl;lstpy; Fwpg;gplg;gl;bUj;jy; Ntz;Lk;. 97. cupa epjpahz;bw;fhf ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; fPohd ,dq;fhzy; kw;Wk; mstPl;L Nfhl;ghLfSf;F Vw;g gpuNjr rig jahupj;j tuTnryTj;jpl;l Mtzj;jpd; tuTnryT tpguq;fs;> mjw;fhd fhy vy;iy epjp mwpf;ifapy; Fwpg;gplg;gly; Ntz;Lk;. 98. cupa epjpahz;bw;fhf cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; fPohd ,dq;fhzy; kw;Wk; mstPl;L Nfhl;ghLfSf;F Vw;g gpuNjr rigapdhy; jahupf;fg;gl;lhj tuTnryTj;jpl;l Mtzj;jpd; tuTnryT tpguq;fs;> mjw;fhd fhyvy;iyf;fhd epjp mwpf;ifapy; Kd;itf;fg;glyhfhJ. 99. epjp mwpf;ifapy; tuTnryT tpguq;fis Kd;itf;Fk; gpuNjr rigapdhy;> (i). xg;gPL nra;tij ,yFgLj;Jtjw;fhf gpd;tUk; ngWkjpfs; jdpahd epuypy; my;yJ tupapy; fhl;lg;gly; Ntz;Lk;.
+
+m. cz;ikahd ngWkjp M. tuTnrytpy; cs;slf;fg;gl;l kw;Wk;> ,. Kd;ida xg;gPl;L fhyg;gFjpapd; cz;ikahd ngWkjp (ii). NtWgbd;> KjyhtJ kw;Wk; ,Wjpahd tuTnryT Mtzj;ij jdpj;jdpahd epuypy; fhl;Ljy; kw;Wk;> (iii). Fwpg;Gf;fspy; tupir tplaq;fSf;fhf fhl;lg;gl;l ngWkjpfSf;fpilapy; VJk; Fwpg;gplj;jf;f khw;wq;fs; ,Ug;gpd; mjw;fhd fhuzj;ij Kd;itj;jy; Ntz;Lk;. mstPLfs; kw;Wk; xUq;fpizg;G 100. tpguq;fisf; iftpLjy; my;yJ ntspg;gLj;jhJ tpLtjpdhy; jdpj;jdpahf my;yJ $l;lhf epjp mwpf;ifapd; mbg;gilapy; nghUshjhu jPu;khdq;fis Nkw;nfhz;l Ma;TfSf;F ghjpg;ig Vw;gLj;Jnkdpd;> me;j tpguq;fs; NghJkhd jftyhff; fUjg;gly; Ntz;Lk;.
+
+14A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+101. mjid mt;thW nra;tjdhy; Vw;gLk; ghjpg;G NghjpasT ,y;iynadpd;> ,e;j juepu;zaj;jpd; mtrpak; ,y;yhjpUf;f Ntz;Lk;. 102. xNu khjpupahd tplaq;fspd; msT jpUg;gjpfukhdJ vd;gij gpuNjr rig ntt;Ntwhf Kd;itj;jy; Ntz;Lnkd;gNjhL> mJ jpUg;gjpfukhdjhf ,y;iynadpd;> mjd; NtWghLfs; gpuNjr rigahy; ntt;Ntwhf Kd;itj;jy; Ntz;Lk;. KOikahd epjp mwpf;ifj; njhFjp
+
+103. gpuNjr rigf;fhd KOikahd epjp mwpf;ifj; njhFjpapy; fPo; Fwpg;gplg;gl;Ls;s midj;Jk; cs;slf;fg;gly; Ntz;Lk;.
+
+(i) nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; mwpf;if> (ii) tpupthd tUkhd mwpf;if> (iii) Njwpa nrhj;J Æ ,Ug;G khw;wq;fs; rk;ge;jkhd mwpf;if> (iv) epjpg; gha;r;ry; mwpf;if kw;Wk; (v) Fwpg;gplj;jf;f tpjj;jpyhd fzf;fPl;Lf; nfhs;iffs; kw;Wk; Vida tpupthd tpguq;fspd; RUf;ff; Fwpg;G epjp mwpf;iffis ,dq;fhzy;
+
+104. gpuNjr rigahdJ xt;nthU epjp mwpf;iffisAk; njspthf ,dq;fz;L nfhs;s Ntz;Lnkd;gNjhL (Fwpg;Gf;fs; cl;gl) mt;twpf;ifapYs;s Vida jfty;fspd; %yKk; mjid NtWgLj;jp milahsk; fhz Ntz;Lk;. mt;thNw mjw;F Nkyjpfkhf gpuNjr rigapdhy; fPo; Fwpg;gplg;gLk; tpguq;fs; njspthfj; njupAk; tpjj;jpy; fhl;Ltjw;F Vw;ghLnra;jy; Ntz;Lnkd;gNjhL rku;g;gpf;fg;gl;l jfty;fis Gupe;Jnfhs;tjw;fhf Njitg;gLk; gl;rj;jpy; mjid kPz;Lk; kPz;Lk; Kd;itj;jy; Ntz;Lk;.
+
+(i). mwpf;ifaplg;gLk; gpuNjr rigapd; ngau; kw;Wk; Kd;ida fhyvy;iyapd; ,WjpapypUe;J mjd; ngaupy; VJk; khw;wq;fs; Vw;gl;bUg;gpd; mJ>
+
+(ii). epjp mwpf;ifapLk; fhyvy;iyapd; ,Wjpj; jpfjp kw;Wk; epjp mwpf;ifapd; %yk; cs;slf;fg;gl;l fhyvy;iy>
+
+(iii) epjp mwpf;if Kd;itf;fg;gl;Ls;sJ ve;j ehzaj;jpy; vd> kw;Wk;
+
+(iv) epjp mwpf;iffspy; Kd;itf;fg;gl;Ls;s ngWkjpfspd; ehza klq;Ffspd; vz;zpf;if (&gh kpy;ypad; Nghd;w) 105. gpuNjr rigf;Fupa epjp mwpf;iff; Fwpg;Gf;fspy; gpd;tUk; tpguq;fs; ntspg;gLj;jg;gly; Ntz;Lk;. (m) gpuNjr rigapd; rl;l mikg;G> mjd; mjpfhu vy;iy> mjd; mjpfhu vy;iy mike;Js;s khfhzk;> kw;Wk; mjd; gpujhd mYtyfj;jpd; Kftup> kw;Wk;
+
+(M) gpuNjr rigapd; nraw;ghLfs; njhlu;ghd tpguq;fs; kw;Wk; mjd; gpujhd nraw;ghL
+
+nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; gw;wpa $w;W
+
+106. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpj; jpdj;jpy; cs;sthwhd gpuNjr rigapd; nrhj;Jf;fs;> nghWg;Gf;fs; kw;Wk; Njwpa nrhj;J Æ ,Ug;G njhlu;ghd nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; gw;wpa $w;wpid Kd;itj;jy; Ntz;Lk;.
+
+mirAk; kw;Wk; mirah Mjdq;fspd; tif
+
+107. gpuNjr rigapdhy; mjd; nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; gw;wpa $w;wpy; jdpj;jdpahd tifg;gLj;jyhf mirAk; kw;Wk; mirahr; nrhj;Jf;fs; kw;Wk; eilKiw kw;Wk; ePz;lfhyg; nghWg;Gf;fs; fhl;lg;gl Ntz;Lk;.
+
+15A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+108. fPo;f; Fwpg;gplg;gLk; re;ju;g;gq;fspy; gpuNjr rigapd; nrhj;njhd;W mirAk; nrhj;njd tifg;gLj;jg;gly; Ntz;Lk;.
+
+(m) gpuNjr rigapd; nghJthd nraw;ghl;Lr; Row;rpapDs; nrhj;Jf;fs; gzkhf;fg;gLtij vjpu;ghu;j;jy; my;yJ Efu;tjw;F> tpw;gid nra;tjw;F cj;Njrpj;jy;.
+
+(M) tpw;gid nra;Ak; Nehf;fj;jpw;fhf Kjd;ikahf nrhj;ij jf;fitj;Jf;nfhs;sy;.
+
+(,) mwpf;ifaplg;gLk; jpdj;jpw;Fg; gpd;du; gd;dpuz;L khj fhyj;jpDs; nrhj;Jf;fisg; gzkhf;fg; gLtij vjpu;ghu;j;jy;.
+
+(<) mwpf;ifaplg;gLk; jpdj;jpw;Fg; gpd;du; Fiwe;jgl;rk; gd;dpuz;L khj fhyj;jpw;F nrhj;njhd;iw nghWg;gpidj; jPu;g;gjw;fhf gupkhw;wk; nra;jy; my;yJ ghtidia kl;Lg;gLj;jg;glhjpUg;gpd; md;wp> nrhj;jhdJ gzk; my;yJ gzj;jpw;Fr; rkdhd xd;whjy;. 109. gpuNjr rigapd; Vida rfy nrhj;Jf;fisAk; mirahr; nrhj;Jf;fs; vd tifg;gLj;jy; Ntz;Lk;. epWtdj;jpd; nghJthd nraw;ghl;L Row;rpa njspthf ,dq;fhz Kbahj gl;rj;jpy; mjd; fhy vy;iy gd;dpuz;L khjq;fshf ,Uj;jy; Ntz;Lnkdf; fUjg;gLk;. 110. fPo; Fwpg;gplg;gLk; re;ju;g;gq;fspy; gpuNjr rigapdhy; nghWg;Gf;fs; eilKiwg; nghWg;ngd tifg; gLj;jg;gly; Ntz;Lk;.
+
+(m) gpuNjr rigapd; nghJthd nraw;ghl;Lr; Row;rpapDs; nghWg;Gf;fisj; jPu;g;gjw;F vjpu;ghu;j;jy;>
+
+(M) mwpf;ifaplg;gLk; jpdj;jpw;Fg; gpd;du; gd;dpuz;L khj fhyj;jpDs; nghWg;Gf;fisj; jPu;g;gjw;F jpl;lkpl;bUj;jy;> my;yJ
+
+(,) mwpf;ifaplg;gLk; jpdj;jpw;Fg; gpd;du; Fiwe;jgl;rk; gd;dpuz;L khj fhyj;jpDs; nghWg;Gf; fisj; jPu;g;gij ,ilepWj;Jtjw;F epWtdj;jpw;F epge;jidaw;w cupik ,y;yhjpUj;jy;. 111. gpuNjr rigahdJ Vida rfy nghWg;Gf;fisAk; ePz;lfhyg; nghWg;Gf;fnsd tifg;gLj;jy; Ntz;Lk;. nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; my;yJ Fwpg;Gf;fspy; fhl;lg;gl Ntz;ba jfty;fs; 112. Kd;itf;fg;gl;l tupir tplaq;fspd; fPo; fhl;lg;gl;Ls;s cg tifg;gLj;jiy nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; my;yJ Fwpg;Gf;fspy; gpuNjr rigapdhy; ntspg;gLj;jg;gl;bUj;jy; Ntz;Lk;.
+
+(m) gpuNjr rigapd; Kiwahd tifg;gLj;jypy; Mjdk; ,ae;jpuj;njhFjp kw;Wk; cgfuzq;fs;>
+
+(M) njhlu;Gila jug;gpduplk; fpilf;fg;ngw Ntz;ba ngWkjp kw;Wk; Vida jug;ghu;fsplkpUe;J fpilf;fg;ngw Ntz;ba ngWkjp kw;Wk; ,Jtiu tpiyg;gl;bayplg;glhj jpuz;l tUkhdj; jpypUe;J vOk; ngwj;jf;fitfis jdpahff; fhl;b tpahghu kw;Wk; Vida ngwj;jf;fitfs;.
+
+(,) gpd;tUk; ,Ug;Gf;fspd; ngWkjp jdpahff; fhl;lg;gly; Ntz;Lk;.
+
+i. nghJthd tpahghu eltbf;iffSf;fhf itf;fg;gl;Ls;s ,Ug;G> ii. mt;thwhd tpw;gidf;fhf cw;gj;jp eltbf;iffspYs;s ,Ug;G> iii. cw;gj;jp eltbf;iffspy; my;yJ Nrit toq;Fk;NghJ ghtidf;fhfTs;s nghUl;fs; my;yJ Nritapd; msTfs;> (<) tpahghu tpepNahfj;ju;fSf;F nrYj;jg;gl Ntz;bait> njhlu;Ggl;l jug;gpdUf;F nrYj;jg;glNtz;bait> ,ilepWj;jg;gl;l tUkhdk; kw;Wk; jpuz;l nryTfs; jdpahff; fhl;lg;gl;l tpahghu kw;Wk; Vida nrYj;jg;gl Ntz;baitfs;>
+
+(c) Copau;fspd; ed;ikf;fhd xJf;fPLfs; kw;Wk; Vida tplaq;fs; jdpahff; fhl;lg;gl;l xJf;fPLfs;> (C) gq;fspg;Gr; nra;j %yjd kpif Æ FiwghL kw;Wk; xd;WNru;e;j kpif Æ FiwghL ,tw;wpy; ,dq;fhzg;glhj %yjd nryT> khdpak;> Njwpa nrhj;JÆ,Ug;G tiffs;.
+
+16A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+113. nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; my;yJ Fwpg;Gf;fspy; Njwpa nrhj;JÆ,Ug;G cs;slf;fg;gLk; rfy ifapUg;Gf;fspd; tpguq;fs; gpuNjr rigapdhy; ntspg;gLj;jg;gly; Ntz;Lk;.
+
+tpupthd tUkhd mwpf;if
+
+114. mwpf;ifaplg;gLk; fhyg;gFjpapd; kpif my;yJ Fiwghl;by; Vida tpupthd tUkhdq;fs; cs;slf;fg;gl;bUg;gpd; kw;Wk; tpupthd tUkhd mwpf;ifapy; Vida tpupthd tUkhdq;fs; kw;Wk; tpupthd tUkhdq;fis epu;zak; nra;Ak;NghJ ,dq;fhzg;gl;l tUkhdk; kw;Wk; nryTfs; gpuNjr rigapdhy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathf Kd;itj;jy; Ntz;Lk;. 115. gpuNjr rigapd; nryTfspy; nraw;ghl;L mbg;gilapyhd tifg;gLj;jiyg; ghtpj;J nryTfspd; gFg;gha;it gpuNjr rigapdhy; Kd;itj;jy; Ntz;Lk;. nryTfspy; nraw;ghl;L mbg;gilapyhd xUq;fpizj;jYf;F cjhuzkhf miktJ epu;thfk;> Rfhjhuk;> cl;fl;likg;G guhkupg;G> nghJg; gad;ghl;Lr; Nritfs; kw;Wk; eyd;Gupr; NritfshFk;. gpuNjr rigapdhy; epjp mwpf;ifapy; tUkhdk; my;yJ nryT tplak; ‘mjptpN~l tplaq;fs;’ vd Kd;itg;gNjh my;yJ tptupf;fNth $lhJ.
+
+epjpg; gha;r;ry; $w;W gzj;jpw;F ,izahditfs;
+
+116. ‘gzj;jpw;F ,izahditfs;’ vd;gJ> FWfpa fhy gzg; nghWg;Gf;fSf;fhd Njitg;ghLfis G+u;j;jp nra;Jnfhs;tjw;fhf jf;fitj;Jf;nfhz;Ls;s mjpf gzg;Gof;fj;Jld; $ba FWfpa fhy KjyPLfshFk;. vdNt KjyPnlhd;W gzj;jpw;F ,izahditahFtjw;F nghJthfj; jFjpngWtJ mjw;F FWfpa Kjpu;rpf; fhyj;ijf; nfhz;bUf;Fk; NghNjahFk;. mjhtJ> ifafg;gLj;jpa jpdj;jpypUe;J %d;W khjq;fs; my;yJ mjw;Ff; Fiwthd Kjpu;r;rpf; fhyj;ijf; nfhz;bUf;Fk; NghNjahFk;. tq;fpg; gw;Wfs; nghJthf fld; ngWtjw;Fr; rkdhd epjp eltbf;ifahff; fUjg;gLk;.
+
+epjpg; gha;r;ry; $w;wpy; Kd;itf;fg;glNtz;ba jfty;fs;
+
+117. mwpf;ifaplg;gLk; fhyg;gFjpf;fhf Kd;itf;fg;gLk; epjpg;gha;r;ry; nray;ghl;L eltbf;iffs;> KjyPl;L eltbf;iffs; kw;Wk; epjp eltbf;iffs; vd;w tifg;gLj;jy; %yk; gpuNjr rigapdhy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F ,iathf epjpg;gha;r;ry; $w;W Kd;itf;fg;gly; Ntz;Lk;.
+
+nraw;ghl;L eltbf;iffs;
+
+118. ‘nraw;ghl;L eltbf;iffs;’ vd;gJ gpuNjr rigapd; kPz;nlOk; nraw;ghLfshFk;. mjd;gb nraw;ghl;L eltbf;iffspdhy; epjpg;gha;r;ry; tpisthf ,Ug;gJ> Nkyjpfj;ij my;yJ Fiwghl;il epu;zak; nra;Ak; nghOJ cs;slq;Fk; gupkhw;wq;fs; kw;Wk; Vida rk;gtq;fs; kw;Wk; epiyikfshy; MFk;. gpuNjr rigapdhy; cw;gj;jp nra;J tpw;gid nra;ag;gLk; ,ae;jpuq;fs; Nghd;w rpy nfhLf;fy;thq;fy;fs; Nkyjpfj;ij my;yJ Fiwghl;by; cs;slf;fg;gl;Ls;s mD$yk; my;yJ el;lk; cUthtjw;F fhuzkha; mikAk;. vt;thwhapDk; mt;thwhd nfhLf;fy;thq;fy;fSld; rk;ge;jg;gl;l epjpg;gha;r;ry; KjyPl;L eltbf;iffspd; %yk; ngwg;gl;l epjpg; gha;r;ryhFk;. KjyPl;L eltbf;iffs;
+
+119. ‘KjyPl;L eltbf;iffs;’ vd;gJ gzj;jpw;F ,izahditfSf;F cl;glhj ePz;lfhyr; nrhj;J kw;Wk; Vida KjyPLfspd; ifafg;gLj;jy; kw;Wk; mfw;WjyhFk;. epjpaply; eltbf;iffs;
+
+120. epjpaply; eltbf;ifnad;gJ gpuNjr rigf;F gq;fspg;Gr; nra;j %yjdk; kw;Wk; fld; ngWiffspd; msT kw;Wk; njhFg;G fhuzkhf Vw;gl;l nraw;ghLfs;.
+
+17A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+nraw;ghl;L eltbf;iffspypUe;J mwpf;ifapLk; epjpg; gha;r;ry;
+
+121. gpuNjr rigapd; nraw;ghl;L eltbf;iffspdhyhd epjpg; gha;r;ry; kiwKf Kiwikfisg; gad;gLj;jp Kd;itf;fg;gly; Ntz;Lk;. mjd; gpufhuk; gzky;yhj nfhLf;fy; thq;fy;fs; fle;jfhy my;yJ vjpu;fhy nray;ghLfs; gz tuTfs; my;yJ nfhLg;gdTfspy; VNjDk; xj;jpitf;fg;gl;l my;yJ xd;WNru;e;j kw;Wk; KjyPL kw;Wk; epjpr; nraw;ghLfSld; njhlu;Gila epjpg; gha;r;rypy; tUkhdk; my;yJ nryT tplaq;fspd; jhf;fj;jpw;fhf Nkyjpfk; my;yJ FiwghL rPu;nra;ag;gLk;. 122. nraw;ghl;L eltbf;iffspdhyhd Njwpa epjpg; gha;r;ry; epu;zapf;fg;gLtJ gpd;tUtdtw;wpd; jhf;fj;jpw;fhf Nkyjpfk; my;yJ FiwghL rPu;nra;ag;gLtjd; %ykhFk;>
+
+(i) fhyg;gFpjpapDs; ,Ug;G kw;Wk; nraw;ghLfspypUe;J fpilf;fg;ngw Ntz;baitfs; kw;Wk; nrYj;jg;gl Ntz;baitfspd; NtWghL.
+
+(ii) Nja;khdk;> xJf;fPL ,Jtiu fhrhff; fpilf;fg;ngwhj (my;yJ nrYj;jhj) jpul;ba tUkhdk; (my;yJ nryT) kw;Wk; jPu;itahfhj ntspehl;L ehza ed;ikfs; kw;Wk; el;lk; Nghd;w gzky;yhj tplaq;fs; kw;Wk;
+
+(iii) KjyPl;Lld; my;yJ epjpaplYld; rk;ge;jg;gl;l gzj;jpw;F jhf;fj;ij Vw;gLj;Jk; Vida rfy tplaq;fs;.
+
+(iv) vjpu; gjpT tuTfs; kw;Wk; nfhLg;gdTfs;. 123. Fwpg;Gf;fspy; gpd;tUk; tplaq;fs; fhzg;gl Ntz;Lk;.
+
+(i) epjp mwpf;if jahupf;fg;gLk; mbg;gil kw;Wk; gad;gLj;jg;gl;l Fwpg;ghd fzf;fPl;Lf; nfhs;iffs; njhlu;ghd jfty;fis Kd;itj;jy;>
+
+(ii) epjp mwpf;ifapy; NtW ,lq;fspy; fhl;lg;glhj ,e;jf; xOq;F tpjpfspdhy; Njitg;gLj;jg;gLk; jfty;fis ntspg;gLj;Jjy;> kw;Wk;
+
+(iii) epjp mwpf;ifapy; NtW ,lj;jpy; fhl;lg;glhj> vdpDk; mtw;wpy; VNjDnkhd;iwg; Gupe;J nfhs;tjw;fhd jfty;fis ntspg;gLj;Jjy;. 124. gpuNjr rigapdhy; ,ad;wtiu eilKiwr; rhj;jpakhd Kiwapy; Fwpg;Gf;fis xOq;FKiwahd tpjj;jpy; Kd;itf;f Ntz;Lk;. Fwpg;Gf;fspy; fhzg;gLk; VNjDk; njhlu;Gila tpguq;fSf;F cupa> epjpf; $w;wpy; cs;s xt;nthU tplaj;jpw;Fkhd vjpu;f; Fwpg;nghd;W gpuNjr rigapdhy; toq;fg;gl Ntz;Lk;. 125. Kiwahd tpjj;jpy; gjpTfis Kd;itf;fg;gLtJ vd;gJ>
+
+(i). epjp mwpf;if gpuNjr rig rk;ge;jkhd cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf jahupf;fg;gl;Ls;snjd;w mwpf;ifnahd;iw Kd;itg;gJ.
+
+(ii). jw;NghJ eilKiwg;gLj;jg;gLk; Kf;fpakhd fzf;fPl;Lf; nfhs;iffspd; RUf;fk;.
+
+(iii). epjp mwpf;ifapy; Kd;itf;fg;gl;l tplaq;fSf;F Mjuthd jfty;fs; rku;g;gpf;fg;gl;l rfy mwpf;iffspYk; kw;Wk; rfy tupir tplaq;fspdJk; njhlu;tupir> kw;Wk;
+
+(iv). Vida VNjDk; ntspg;gLj;jy;fs;. fzf;fPl;Lf; nfhs;iffis ntspg;gLj;Jjy;
+
+126. Kf;fpakhd fzf;fPl;Lf; nfhs;iffspd; RUf;fj;jpy; gpd;tUk; tplaq;fs; gpuNjr rigapdhy; ntspg; gLj;jg;gly; Ntz;Lk;. (i) epjp mwpf;ifiaj; jahupf;f gad;gLj;jg;gl;l msTNfhs; mbg;gilfs; (mbg;gil)> kw;Wk;
+
+(ii) epjp mwpf;ifiag; Gupe;Jnfhs;tjw;fhf gad;gLj;jg;gl;l Vida fzf;fPl;L epakq;fs;.
+
+18A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+fzf;fPl;Lf; nfhs;iffs;> kjpg;gPL kw;Wk; gpioahff; fzf;fPl;Lf; nfhs;iffisj; njupT nra;jy; kw;Wk; eilKiwg;gLj;jg;gly; 127. fzf;fPl;Lf; nfhs;iffSf;F Vw;g> gpuNjr rigapdhy; epjp mwpf;ifiaj; jahupf;Fk; NghJ kw;Wk; Kd;itf;Fk; NghJ gpuNahfpf;fg;gLk; cupa nfhs;iffs;> mbg;gilfs;> mq;fPfupf;fg;gl;l tpjpfs; kw;Wk; mJ Nghd;w eilKiwfshFk;. gpuNjr rigahdJ mjd; fzf;fPl;Lf; nfhs;if xNu khjpupahd nfhLf;fy;thq;fy;fs;> Vida eltbf;iffs; kw;Wk; epiyikfSf;fhf njupTnra;J mjw;Nfw;g mtw;iw eilKiwg;gLj;jy; Ntz;Lk;.
+
+fzf;fPl;Lf; nfhs;iffspy; khw;wq;fs;
+
+128. gpuNjr rigahdJ mjd; fzf;fPl;L nfhs;ifia khw;wpf; nfhs;Ntz;ba mtrpak; Vw;gbd;> gpuNjr rigapd; nray;ghLfspy; Vida epfo;Tfspd; my;yJ #y;epiyfspd; jhf;fk; njhlu;ghd ek;gj;jFe;jJk; kpfTk; nghUj;jkhdJkhd tpguq;fisf; Fwpj;j khw;wj;jpd; gpujpgydhf epjpf; $w;Wf;fis Kd;itg;gjhdhy; kl;LNk md;wp fzf;fPl;Lf; nfhs;iffspy; khw;wq;fs; nra;ag;glyhfhJ.
+
+129. Vw;fdNt Nkw;nfhs;sg;glhj my;yJ Fiwghl;Lldhd nfhLf;fy; thq;fy;fs;> Vida epfo;Tfs; kw;Wk; epiyikfSf;F Gjpa fzf;fPl;Lf; nfhs;iffis gpuNahfpg;gJ fzf;fPl;Lf; nfhs;iffis khw;Wtjhf fUjg;glyhfhJ.
+
+fzf;fPl;Lf; nfhs;iffspy; khw;wq;fis eilKiwg;gLj;Jjy;
+
+130. Kd;ida fhyg;gFjpfSld; njhlu;Gila fzf;fPl;Lf; nfhs;ifapd; khw;wj;ij Njwpa nrhj;JÆ ,Ug;G khw;wk; rk;ge;jkhd mwpf;ifia gpuNjr rig Kd;itf;f Ntz;baJ> mwpf;ifaplg;gLk; fhyg;gFjpf;fhd Nkyjpfk; my;yJ Fiwghl;il jPu;khdpf;Fk; NghJ mJ ,dq;fhzg;glhj tplankd jPu;khdpf;f Ntz;Lnkd;gNjhL Kd;nfhz;Ltug;gl;l Nkyjpfk; my;yJ Fiwghl;il jPu;khdpf;Fk; NghJ ,dq;fhzg; gl;l tplankd jPu;khdpf;f Ntz;Lk;.
+
+fzf;fPl;L kjpg;gPL khw;wkiljy; 131. nrhj;Jf;fs; kw;Wk; nghWg;Gf;fSld; njhlu;Gila jw;Nghija epiyik kw;Wk; vjpu;ghu;f;fg;gLk; vjpu;fhy mD$yq;fs; kw;Wk; gpizg;Gf;fs; kjpg;gPl;bd; gpujpgydhf nrhj;njhd;wpd; my;yJ nghWg;nghd;wpd; eilKiwg; ngWkjp nrhj;Jf;fis tof;fkhf gad;gLj;Jtjd; fhuzkhf Vw;gLk; ngWkjpf;F nghUe;jf;$ba tifapy; fzf;fPl;L kjpg;gPl;L NtWghlhFk;. fzf;fPl;L kjpg;gPl;by; khw;wkile;j Gjpa tpguq;fs; my;yJ Gjpjhf vOk; epiyikfspd; tpisthfyhk; vd;gNjhL mjd; gpufhuk; mtw;iw jpUj;jq;fs; vdf; fUj KbahJ vd;gNjhL fzf;fPl;Lf; nfhs;iffspd; khw;wj;ij fzf;fPl;L kjpg;gPl;L khw;wj;jpypUe;J gpupj;J mwpe;Jnfhs;tJ fbdkhf ,Uf;Fk; gl;rj;jpy; me;j khw;wkhdJ fzf;fPl;L kjpg;gPnlhd;wpd; khw;wk; vd fUjg;gLk;.
+
+132. fzf;fPl;L kjpg;gPnlhd;wpd; khw;wq;fs; gpd;tUk; Kiwapd; fPo; fUj;jpy; nfhs;sg;gl KbAk;.
+
+(m) Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tplaj;jpd; tifnahd;wpd; nrhj;jpd; eyd;fis EfUk; Kiwia jpUj;jpa kjpg;gPl;il ntspf;fhl;Ltjw;F me;j tplaj;jpd; Nja;T Kiwia Fiwe;J nry;Yk; KiwapypUe;J rhjhuz topKiwfSf;F khw;Wjy; kw;Wk;
+
+(M) Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; tplaj;jpy; gaDs;s MAl;fhyj;ij kPz;Lk; kjpg;gPL nra;jy;. 133. fzf;fPl;L kjpg;gPnlhd;wpy; khw;wkilAk; jhf;fk; mjd; kpjkpQ;rpaitfs; my;yJ FiwghLfs; gw;wp gpd;tUkhW fle;j fhy epfo;TfSld; nghUj;jpg;ghh;j;J gpuNjr rigahdJ ,dq;fhZjy; Ntz;Lk;.
+
+(m) khw;wk; mf;fhyg; gFjpf;F kl;Lk; jhf;fk; nrYj;Jkplj;J khw;wk; epfo;e;j fhyg; gFjp my;yJ
+
+(M) me;j khw;wk; ,U fhyg; gFjpf;Fk; jhf;fk; nrYj;Jkplj;J khw;wk; epfo;e;j fhyg; gFjp kw;Wk; vjpu;fhy fhyg; gFjpf;Fk; ,dk;fhzg;gLjy; Ntz;Lk;.
+
+19A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+134. fzf;fPl;L kjpg;gPnlhd;W khw;wkiltjd; fhuzj;jpdhy; Njhw;wk; ngWtjw;F VJthd nrhj;njhd;wpy; my;yJ nghWg;nghd;wpy; me;j khw;wk; fhuzkhf Vw;gLk; msT> me;j khw;wk; epfo;e;j fhyg; gFjpapy; nrhj;jpd; my;yJ nghWg;gpd; nfhs;ssTg; ngWkjpia nrk;ikahf;fy; nra;tjd; %yk; gpuNjr rigapdhy; ,dk;fhzg;gly; Ntz;Lk;.
+
+fhyk; fle;j jtWfis rupnra;jy; 135. gpd;tUk; ek;gfkhd jfty;fisg; gad;gLj;Jtjw;F jtwpajd; fhuzj;jpdhNyh my;yJ J~;gpuNahfk; nra;ag;gl;l fhuzj;jpdhNyh gpuNjr rigapd; xU fhyg; gFjp my;yJ mjw;F Nkw;gl;l fhyg; gFjpf;fhd epjpf; $w;Wf;fspy; epfOk; gjptopj;jy; my;yJ Fiwthf gjptply; fhyk; fle;j jtWfshFk;.
+
+(m) mf;fhyg; gFjpf;fhf epjpf; $w;Wf;fis ntspapLtjw;F mDkjp toq;Fk; NghJ ngw;Wf;nfhs;s KbAkhf ,Ue;j jfty;fs; kw;Wk;
+
+(M) me;j epjpf; $w;Wf;fisj; jahupf;fpd;w NghJ kw;Wk; rku;g;gpf;fpd;w NghJ epahakhd Kiwapy; ngw;Wf;nfhs;s KbAnkd vjpu;ghu;f;ff; $bajhf ,Ue;j jfty;fs;.
+
+136. Nkw;gb gpupTfspd; fPo; tpgupf;fg;gLk; jtWfSf;F fzpjuPjpahd jtWfspd; jhf;fq;fs;> fzf;fPl;Lf; nfhs;iffis gpuNahfpf;Fk; NghJ Vw;gLk; jtWfs;> ftdf; FiwT> tplaq;fis jtWjyhfg; Gupjy; kw;Wk; Nkhrb Mfpad cs;slf;fg;gly; Ntz;Lk;.
+
+137. fle;j fhyg; gFjpfSld; njhlu;Gila Fw;wq;fspd; jhf;fk; mwpf;ifaplg;gLk; fhyg; gFjpapd; kpif my;yJ Fiwghl;il jPu;khdpf;Fk; NghJ mJ ,dk;fhzg;glhjit MapDk; Kd;nfhz;L tug;gl;l> epWj;jpitf;fg;gl;l tUkhd rk;ghj;jpaq;fis jPu;khdpf;Fk; NghJ ,dk;fhzg;gl;l tplakhf ,Ug;gpy; Vw;gl;l khw;wq;fSf;fhd $w;wpy; gpuNjr rig mtw;iw ,dk;fhZjy; Ntz;Lk;.
+
+fzf;fPl;Lf; nfhs;iffspd; khw;wq;fis ntspg;gLj;jy; 138. fzf;fPl;Lf; nfhs;ifnahd;W khw;wkilAk; NghJ elg;G fhyg; gFjpf;F my;yJ VNjDk; Kd;ida fhyg;gFjpf;F jhf;fnkhd;W ,Uf;Fkplj;J gpuNjr rigahdJ gpd;tUk; tplaq;fis ntspg;gLj;jy; Ntz;Lk;. (i) fzf;fPl;Lf; nfhs;ifapd; khw;wq;fspd; jd;ik>
+
+(ii) Gjpa fzf;fPl;Lf; nfhs;iffis gpuNahfpg;gjdhy; ek;gfkhd kw;Wk; kpfTk; Vw;Gila jfty;fs;fis toq;Ftjw;F Vd; fhuzkhfpd;wJ vd;gJ gw;wp;>
+
+(iii) kpif my;yJ Fiwghl;Lf;fhd rPuhf;fypd; ngWkjp eilKiwrhj;jpakhFk; msT>
+
+m. elg;G fhyg; gFjpf;fhf kw;Wk; M. elg;G fhyg; gFjpf;F Kd;duhd fhyg; gFjpf;fhf jpul;lg;gl;l ngWkjp. (iv) Nkw;gb (iii) ,y; ntspf;fhl;lg;gl Ntz;ba ngWkjpia jPu;khdpg;gJ eilKiwr; rhj;jpakw;wJ vdpd;> mjw;fhd fhuzq;fs; gpd;du; epfof;$ba fhyg; gFjpf;fhd epjpf; $w;Wf;fspy; ,e;j ntspg;gLj;Jif kPz;Lk; kPz;Lk; nra;a Ntz;ba mtrpak; fpilahJ.
+
+kjpg;gPl;L khw;wq;fis ntspg;gLj;jy;
+
+139. fzf;fPl;L kjpg;gPnlhd;wpy; VNjDk; khw;wnkhd;wpd; jd;ik kw;Wk; me;j khw;wj;jpd; kPjhd nrhj;Jf;fs;> nghWg;Gf;fs;> tUkhdk; kw;Wk; nryTfSf;fhf elg;G fhyg; gFjpapd; jhf;fj;ij gpuNjr rigapdhy; ntspg;gLj;Jjy; Ntz;Lk;.
+
+20A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+fle;j fhyg; gFjpapd; jtWfis ntspg;gLj;jy; 140. Kd;ida fhyj; jtWfs; njhlu;gpy; gpd;tUk; jfty;fis gpuNjr rigf;F Vw;GilathW ntspg;gLj;jy; Ntz;Lk;.
+
+(i) Kd;ida fhyg; gFjpapdJ Fw;wj;jpd; jd;ik.
+
+(ii) epWj;jpitf;fg;gl;l tUkhd rk;ghj;jpaq;fs; rupnra;ag;gl;l ngWkjp.
+
+(iii) NkYs;s (i) my;yJ (ii) ,d; ngWkjpfis ntspg;gLj;Jtjw;F jPu;khdpj;jy; eilKiwr;rhj;jpakw;w tplj;J mjw;fhd fhuzq;fs;.
+
+MapDk;> gpd;du; epfof;$ba fhyg; gFjpf;fhd epjpf; $w;Wf;fspy; ,e;j ntspg;gLj;Jifia kPz;Lk; kPz;Lk; nra;a Ntz;baJ mtrpakw;wJ.
+
+ifapUg;G
+
+141. gpd;tUk; nrhj;Jf;fs; ifapUg;Gf;fshf fUj;jpw;nfhs;sg;gly; Ntz;Lk;.
+
+(i) gpuNjr rigapd; epu;thf eltbf;iffSf;fhf my;yJ Nrit toq;Fk; NghJ Efu;T my;yJ tpepNahfpf;Fk; nghUl;fs; my;yJ Nrit tbtpyhd nrhj;Jf;fs;.
+
+(ii) nraw;gLj;jy;fspd; nghJthd nrad;Kiwapd; NghJ tpw;gidf;F my;yJ tpepNahfpg;gjw;F jLj;J itf;fg;gl;Ls;s nrhj;Jf;fs; my;yJ
+
+(iii) cw;gj;jp nrad;Kiwapy; Efu;Tf;fhd nghUl;fs; my;yJ Nrit tbtpyhd nrhj;Jf;fs; my;yJ
+
+(iv) tpw;gid nra;jy; my;yJ tpepNahfpg;gjw;fhf cw;gj;jp nrad;KiwapYs;s nrhj;Jf;fs;. ifapUg;Gf;fis mstpLjy;
+
+142. 143 Mk; tpjp Vw;GilajhFk; re;ju;g;gq;fspy; jtpu ifapUg;G> nryT my;yJ Njwpa jPu;itg; ngWkjp Mfpatw;wpy; Fiwe;j ngWkjpf;F fzpg;gplg;gly; Ntz;Lk;.
+
+143. gpd;tUtdtw;Wf;F jLj;J itf;fg;gl;Ls;s ifapUg;G> nryT my;yJ elg;G kPsspf;fg;gl;l nrytpd; Fiwe;j ngWkjpf;F fzpg;gplg;gly; Ntz;Lk;.
+
+(i) fl;lzk; ,d;wp my;yJ ngaustpyhd fl;lzj;jpw;F toq;fg;gLk; Nrit my;yJ epWtdj;jpd; epu;thf nrad;KiwapDs; Efug;gLk; ifapUg;G.
+
+(ii) fl;lzk; ,d;wp my;yJ ngaustpyhd fl;lzj;jpw;F tpepNahfpg;glTs;s ifapUg;G. (iii) fl;lzk; ,d;wp my;yJ ngaustpyhd fl;lzj;jpw;F tpepNahfpg;gjw;fhf cw;gj;jpr; nrad;Kiwapy; Efu;Tf;fhf cs;s ifapUg;G.
+
+ifapUg;Gf;fspd; nryT
+
+144. midj;J nfhs;tdTfspdJk; nryT> khw;wj;jF nryT kw;Wk; ifapUg;G mtw;wpd; jw;Nghija mikg;G kw;Wk; epiyf;F nfhz;LtUtjw;fhf nra;ag;gl;l NtW nrytpdq;fspdhy; ifapUg;Gr; nryT mikag;ngw;wpUj;jy; Ntz;Lk;.
+
+nfhs;tdTr; nryT
+
+145. nfhs;tdTr; nryT> jhgdj; jPu;it tup kw;Wk; NtW tupfs; (tup mjpfhu rigfspypUe;J gpd;du; kPz;Lk; mwtpl KbAkhd tupfs; jtpu;e;j) kw;Wk; Nghf;Ftuj;Jr; nryTfs;> njhopw;ghl;Lf; fl;lzq;fs; kw;Wk; KbTg; nghUs;> nghUl;fs; kw;Wk; Nritfisg; ngw;Wf;nfhs;tjw;F Neubahfr; Rkj;jg;gl;l nryTfspdhy; ifapUg;Gf; nfhs;tdTr; nryT mikag;ngw;wpUf;Fk;. nfhs;tdTr; nrytpidj; jPu;khdpf;Fk; NghJ tpahghuf; fopTfs;> nfhilfs; kw;Wk; mijnahj;jitfs; fopf;fg;gLjy; Ntz;Lk;.
+
+21A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+khw;wj;jF nryT 146. ifapUg;ig khw;Wk; nryTf;F cw;gj;jp myFfspd; vz;zpf;iff;F Neubahf njhlu;Gs;s Neubg; nghUl;fs; kw;Wk; Neub ciog;G Nghd;w nryTfs; khj;jpuk; cs;slf;fg;gLjy; Ntz;Lk;. ,ize;j cw;gj;jpfs; kw;Wk; Jiz cw;gj;jpfs; 147. cw;gj;jp nrad;Kiwnahd;wpd; NghJ xNu jlitapy; xd;Wf;F Nkw;gl;l vz;zpf;if mstpy; cw;gj;jp nra;ag;glyhk;. mt;thwhd epfo;TfSf;fhd cjhuzk; ,ize;j cw;gj;jpnahd;iw nra;Ak; NghJ my;yJ gpujhd cw;gj;jpnahd;W my;yJ Jiz cw;gj;jpnahd;iw nra;Ak; NghJ %yg; nghUl;fs; my;yJ rfy cw;gj;jpfspd; NghJk; khw;wj;jF nryit NtWgLj;jp milahsk; fhz Kbahj tplj;J mit cw;gj;jpfSf;F ,ilapy; gFg;gha;T kw;Wk; ,ize;j mbg;gilapy; gpuNjr rigapd; %yk; NtWgLj;Jjy; Ntz;Lk;. mt;thNw> cw;gj;jpfis jdpj;jdpahf milahsk; fhz KbAkhFk; re;ju;g;gj;jpNyh my;yJ cw;gj;jp epiwTw;w re;ju;g;gj;jpNyh midj;J cw;gj;jpfspdJk; xg;gPl;L tpw;gidg; ngWkjpapd; mbg;gilapy; NtWgLj;j KbAk;. Jiz cw;gj;jpnahd;wpd; nryit vz;zpf;ifastpy; fzpg;gpl Kbahj tplj;J> tpw;gid tpiyapypUe;J cw;gj;jpia epiwTnra;tjw;F nrythFk; nryitf; fopj;J fopf;fg;gLk; ngWkjpia gpujhd cw;gj;jpf;fhd nrytpypUe;J fopg;gjd; %yk; gpuNjr rig mjidf; fzpg;gply; Ntz;Lk;.
+
+ifapUg;gpypUe;J mfw;wg;gLk; nryT 148. ifapUg;Gr; nrytpypUe;J mfw;wg;gl;L mit epfo;e;j fhyg; gFjpapy; nrynthd;whf milahsk; fhzg;gl;l nryTf;F gpd;tUk; tplaq;fs; vLj;Jf;fhl;lhf mikjy; Ntz;Lk;. (i) tpuakhf;fg;gLk; nghUl;fspd; mrhjhuzg; ngWkjp ciog;G my;yJ NtW cw;gj;jpr; nryTfs; (ii) cw;gj;jpf; fl;lq;fspy; Njit Vw;gl;lhNy md;wp fsQ;rpar; nryT (iii) cw;gj;jp kw;Wk; epu;thfr; nryT (iv) tpw;gidr; nryT (v) tl;br; nryT kw;Wk; (vi) md;dpar; nryhtdp khw;wq;fs;
+
+Nritnahd;wpd; ifapUg;Gf;fspd; nryT
+
+149. Nritnahd;wpd; ifapUg;G fzpg;gplg;gLtJ cw;gj;jpr; nryTf;fhFk;. cw;gj;jpr; nryT mbg;gilapy; mikag;ngw;wpUg;gJ Nkw;ghu;it Copau;fs; cs;spl;l Nritia toq;Ftjpy; Neubahf <LgLk; Copau;fspd; nrytpypUe;jhFk;. tpw;gid kw;Wk; epu;thf Copau;fs; njhlu;ghd nryit cs;slf;fhJ mit nryT nra;ag;gl;l fhyg; gFjpapd; nrynthd;whf milahsk; fhzg;gly; Ntz;Lk;. Nritnahd;wpd; ifapUg;Gf;fspd; nrytpdJ ,yhgk; ,Wjp epiy my;yJ xJf;fg;gl;l nrytpy; cs;slf;fg;gLjy; Ntz;Lk;.
+
+nryitg; ngw;Wf;nfhs;sf; $ba Kiwfs; 150. nghJthf gwpkhw;wpf;nfhs;s Kbahj kw;Wk; Fwpj;njhJf;fg;gl;l fUj;jpl;lq;fSf;nfd NtWgLj;jpf; nfhs;s KbAkhd cw;gj;jp nra;ag;gl;l Nritfs; kw;Wk; nghUs; tifaPLfspd; ifapUg;Gr; nryT gpuNjr rigapdhy; mtw;wpd; jdpahd nryTfis Fwpg;ghf milahsk; fhz;gjd; %yNk fzpg;gplg; gLjy; Ntz;Lk;.
+
+151. ifapUg;Gr; nryT Muk;gj;jpy; fpilf;fg;ngw;wij Kjypy; tpepNahfpj;jy; (FIFO) my;yJ epiwaspf;fg; gl;l ruhrup nryitg; gad;gLj;jp gpuNjr rigapdhy; fzpg;gplg;gly; Ntz;Lk;. xNu khjpupahd jd;ikapy; gad;ghl;bYs;s midj;J ifapUg;Gf;fSf;fhfTk; gpuNjr rigapdhy; mijnahj;j Kiwnahd;wpidg; gad;gLj;Jjy; Ntz;Lk;. NtW jd;ikapyhd my;yJ gad;ghl;bYs;s ifapUg;Gf;fSf;F NtW Kiwnahd;iw epahag;gLj;jyhk;. vt;thwhapDk; ,Wjpahff; fpilf;fg;ngw;wij Kjypy; tpepNahfpj;jy; (LIFO) Kiwik mDkjpf;fg;glkhl;lhJ.
+
+22A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+nrynthd;whf milahsk; fhZjy;
+
+152. ifapUg;Gf;fis tpw;gid nra;Ak; NghJ gupkhw;wk; nra;Ak; NghJ> my;yJ tpepNahfpf;Fk; NghJ me;jf; ifapg;Gf;fspd; jf;fitg;G ngWkjpAld; njhlu;Gila tUthia ,dk;fhZk; fhyg; gFjpapy; nrytpdkhf ,dk; fhzg;gly; Ntz;Lk;. njhlu;Gila tUtha; ,y;yhj NghJ nrytpdk; ,dk;fhzg;gLtJ nghUl;fs; tpepNahfpf;fg;gLk; my;yJ Nrit toq;fg;gLk; re;ju;g;gj;jpyhFk;. ifapUg;Gf;fspd; VNjDk; gjptopg;gpd; NghJ my;yJ ifapUg;Gf;fspd; midj;J Fiwg;ghLfspdJk; ngWkjpfis gjptopf;Fk; NghJ my;yJ el;lk; epfo;e;j fhyg;gFjpapy; nrytpdkhf fUjg;gly; Ntz;Lk;. VNjDk; ifapUg;Gf;fspd; gjptopg;ig kPs;khw;Wk; fhuzj;jpdhy; VNDk; ngWkjpia kPs;khw;wk; epfo;e;j fhyg; gFjpapy; nrytpdkhf ,dk;fhzg;gl;l ifapUg;Gf;fspd; ngWkjpapypUe;J fopf;fg;gl Ntz;ba xd;whf mJ ,dk; fhzg;gly; Ntz;Lk;. 153. rpy ifapUg;Gf;fis NtW nrhj;Jf;fs; fzf;FfSf;fhf xJf;f KbAk;. cjhuzkhf Rakhf mikf;fg;gl;l Mjdk;> ,ae;jpuk; my;yJ cgfuzk; xd;iw ifapUg;ghf gad;gLj;JtJ ,t;thW NtW Mjdq;fSf;fhf xJf;fg;gl;l ifapUg;Gf;fis gpd;du; me;jf; ifapUg;Gf;fspd; tiff;F ,e;j xOq;F tpjpapd; ifapUg;G njhlu;ghd tpjpfSf;F mikthf ,Uj;jy; Ntz;Lk;. ntspg;gLj;jy;fs; 154. gpd;tUk; tplaq;fs; gpuNjr rigapdhy; ntspg;gLj;jg;gly; Ntz;Lk;:
+
+i. gad;gLj;jg;gl;l Kiw cs;spl;l ifapUg;ig kjpg;gPL nra;tjw;fhf gpd;gw;wg;gl;l fzf;fPl;Lf; nfhs;iffs;.
+
+ii. ifapUg;Gf;fspd; nkhj;j jf;fitg;G tUkhdk; kw;Wk; gpuNjr rigf;Fg; nghUj;jkhd tifaPLfspd; jf;fitg;G ngWkjp.
+
+iii. fhyg; gFjpapDs; nrynthd;whf ,dk; fhzg;gl;l ifapUg;Gf;fspd; ngWkjp.
+
+iv. fhyg; gFjpapDs; gjptopf;fg;gl;l my;yJ el;lkhf milahsk; fhzg;gl;l ifapUg;Gf;fs; my;yJ khw;wPLfs;.
+
+v. nghWg;Gf;fSf;F cj;juthjkhf thf;FWjp mspf;fg;gl;l ifapUg;Gf;fspd; nkhj;j jf;fitg;Gg; ngWkjp.
+
+Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; 155. Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; vd;gd gpd;tUk; njhl;Lzuf;$ba Mjdq;fshFk;.
+
+i. cw;gj;jp my;yJ nghUl;fs; my;yJ Nritfis toq;Fjy;> NtW Ml;fSf;F thliff;F toq;Ftjw;fhf my;yJ epu;thf eltbf;iffSf;fhf gad;gLj;Jtjw;fhf itf;fg;gl;Ls;sitfs;> kw;Wk;
+
+ii. xU mwpf;ifaplg;gLk; fhyg;gFjpf;F Nkyjpfkhd fhyj;jpw;Fg; gad;gLj;Jtjw;F vjpu;ghu;f;fg; gLgitfs;. 156. gpuNjr rigahdJ xU fhyg;gFjpf;F Nky; $ba fhyg;gFjpapy; mtw;iwg; gad;gLj;Jtjw;F cj;Njrpf;Fk; gl;rj;jpy; cjpupg; ghfq;fs;> fhj;jpUg;Gf;fhf itf;fg;gl;Ls;s cgfuzq;fs; kw;Wk; gOJghu;f;fg;gLk; nghUl;fs; vd itf;fg;gl;Ls;s tifaPLfs; my;yJ Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fSld; njhlu;Gila tiffSld; khj;jpuk; mtw;iwg; gad;gLj;j KbAnkdpd;> mit Mjdk;> ,ae;jpuk; kw;Wk; cgfuzk; vDk; tifiar; Nru;e;jitahFk;. ,d;Nwy; mit ifapUg;G vd tifaPL nra;ag;gLjy; Ntz;Lk;.
+
+157. fhzp kw;Wk; fl;blq;fs; gpupf;f KbAkhd Mjdq;fshFk;. mit xd;whf RtPfupf;fg;gl;l NghjpYk; gpuNjr rigahdJ jdpj;jdpahff; fzf;F itj;jy; Ntz;Lk;.
+
+23A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+,dq;fhZk; NghJ msj;jy;
+
+158. Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tiffs; mtw;wpd; Muk;g ,dq;fhzypd; NghJ gpuNjr rigapdhy; mjd; nryTf;F ,dq;fhzg;gly; Ntz;Lk;.
+
+nrytpd; Kf;fpa $Wfs;
+
+159. Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tiffspd; nryT gpd;tUk; midj;ijAk; nfhz;bUj;jy; Ntz;Lk;. i. rl;l fl;lzq;fs; kw;Wk; juTf;$yp cs;spl;l mjd; nfhs;tdT tpiy> ,wf;Fkjpj; jPu;it tup kw;Wk; kPsspf;fg;glhj nfhs;tdT tupfspd; tpahghuf; fopTfs; kw;Wk; js;Sgbfisf; fopg;gdT nra;j gpd;du; kw;Wk;
+
+ii. Kfhikj;Jtk; vjpu;ghu;f;Fk; Kiwf;F Vw;w tifapy; mjid nraw;gLj;j KbAkhd tpjj;jpy; Mjdj;ij Njitahd epiyf;F my;yJ ,lj;jpw;F nfhz;LtUtjw;F Neub kjpg;gPl;lbg;gilahd ve;jnthU nryTk; ,lj;ij mikg;gjw;fhd Muk;g xg;gilg;G kw;Wk; njhopw;ghl;L nghUj;jy; kw;Wk; Nrfupj;jy; kw;Wk; nraw;ghl;il gupNrhjpf;Fk; nryT Mfpa nryTfs; mjpy; cs;slf;fg;gl KbAk;.
+
+160. gpd;tUk; nryT Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fSf;fhd nrythf fUjg;glkhl;lhJ. mj;NjhL mtw;iw Vw;wpUf;Fk; NghJ gpuNjr rigapdhy; mJ nrythf ,dk;fhzg;gly; Ntz;Lk;.
+
+i. Gjpa trjpnahd;iw jpwe;Jitg;gjw;fhd nryT. ii. Gjpa cw;gj;jpnahd;W my;yJ Nritnahd;iw mwpKfk; nra;Ak; nryT (gpurhu kw;Wk; Cf;Ftpg;G nraw;ghLfSf;fhd nryTfs; cl;gl). iii. Gjpa ,ltiknthd;wpd; my;yJ nfhLf;fy; thq;fy; tFg;nghd;wpd; tpahghu eltbf;iffis Nkw;nfhs;tjw;fhd nryT (Copau;fis gapw;Wtpf;Fk; nrytpdq;fs; cl;gl).
+
+iv. epu;thfk; kw;Wk; NtW nghJ tplaq;fSf;fhd nryTfs; kw;Wk;
+
+v. fldpWj;jy; nryT.
+
+161. Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;iw mikf;Fk; NghJ my;yJ mgptpUj;jp nra;Ak; NghJ tUkhdk; kw;Wk; ,ilNeu; tpisthd njhopw;ghL njhlu;Gw;w nryTfs; me;j njhopw;ghl;L tif vjpu;ghu;f;Fk; mikg;Gf;F my;yJ njhopw;ghl;L epiyikf;F nfhz;LtUtjw;F Njitahf ,y;yhj NghJ kpif kw;Wk; FiwghL ,dk; fhzg;gLk;.
+
+Muk;g ,dq;fhzypd; gpd;du; mstpLjy;
+
+162. Muk;g ,dq;fhzypd; gpd;du; Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;W gpd;du; epfOk; jpuz;l Nja;khdk; my;yJ VNjDk; jpuz;l ghjpg;ghd el;lj;ij nrytpypUe;J fopg;gjd; %yk; mstplg;gly; Ntz;Lk;.
+
+163. rhjhuz gad;ghl;bd; NghJ my;yhJ ghjpg;Gf;F cs;shd Mjdk;> ,ae;jpuq;fs; kw;Wk; cgfuz tifnahd;W jpuz;l Nja;khdk; fopf;fg;gl;l nrytpd; Vw;Gila tpfpjhrhuk; ghjpg;nghd;whf kpifapy; my;yJ Fiwtpy; ,dk;fhzg;gly; Ntz;Lk;. Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;wpd; ehshe;j Nrit nryT me;jr; nryT nra;ag;gl;l fhyg;gFjpapd; kpifapy; my;yJ Fiwg;ghl;by; gpuNjr rigapdhy; ,dk;fhzg;gly; Ntz;Lk;.
+
+kjpg;gpwf;fk; nra;ag;gl Ntz;ba ngWkjp kw;Wk; kjpg;gpwf;fk; nra;Ak; fhyg; gFjp
+
+164. nrhj;njhd;wpd; kjpg;gpwf;fk; nra;ag;gl Ntz;ba ngWkjp Kiwg;gb gpuNjr rigapdhy; mjd; MAl; fhyk; G+uhTk; xJf;fg;gly; Ntz;Lk;. jpuz;l Nja;T fopf;fg;gl;l nryT kw;Wk; vr;rg; ngWkhdk; fopf;fg;gl;l jpuz;l ghjpg;G el;lk; Nja;T nra;ag;gl Ntz;ba ngWkjpahf ,Uj;jy; Ntz;Lk;. nrhj;njhd;wpd; MAl;fhyk; jw;NghJ Kbtile;J mjd; gpuNahrdKs;s MAl;fhyj;jpd; ,Wjpapy; cj;Njrpf;fg;gl;l epiyia mile;jpUg;gpd; nrhj;njhd;wpd; vr;rg; ngWkhdk; vd;gJ jw;fhyj;jpy; me;jr; nrhj;ij mfw;Wk; NghJ mfw;Wtjw;fhd kjpg;gPl;Lr; nryT fopf;fg;gl;l gpd;du; fpilf;fg;ngWk; kjpg;gPl;Lg; ngWkjpahFk;.
+
+24A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+165. midj;J fhyg;gFjpfspYk; Nja;Tr; nrytpdk; kpif my;yJ Fiwg;ghl;by; ,dk;fhzg;gly; Ntz;Lk;.
+
+166. nrhj;ij vt;thW gad;gLj;j Ntz;Lk; vd;gjpy; khw;wnkhd;W> Fwpg;gpl;lsT vjpu;ghuh mopT kw;Wk; Nja;tiljy; njhopy;El;g kl;lj;jpy; cau;tiljy; kw;Wk; re;ij tpiy khw;wq;fs; Nghd;w fhuzpfs; kpfTk; fpl;ba tUlhe;j mwpf;ifaplg;gLk; jpfjpapd; gpd;du; nrhj;jpd; vr;rg; ngWkhdk; kw;Wk; gaDs;s MAl;fhyk; khw;wkile;Js;sjhf vjpu;T$w KbAk;. mt;thwhd vjpu;T$wy;fs; fhzg;gLkplj;J gpuNjr rig mjd; Kd;duhd kjpg;gPl;il kPsha;T nra;J kw;Wk; elg;G vjpu;ghu;g;Gf;fs; khw;wkile;jpUg;gpd; vr;rg; ngWkhdj;ij Nja;T nra;Ak; Kiwia my;yJ gaDs;s MAl;fhyj;ij jpUj;jpaikj;jy; Ntz;Lk;. vr;rg; ngWkhdk;> Nja;T nra;Ak; Kiw my;yJ gaDs;s MAl;fhyj;jpd; khw;wq;fs; vd;gtw;iw gpuNjr rigapdhy; fzf;fPl;L kjpg;gPLfspy; khw;wq;fshf fzf;F itj;jy; Ntz;Lk;.
+
+167. nrhj;njhd;iw gad;ghl;Lf;fhf ngw;Wf;nfhs;s KbAkhd re;ju;g;gj;jpypUe;J mjd; Nja;khdk; Muk;gkhfpd;wJ. mjhtJ> Kfhikj;Jtk; vjpu;ghu;f;Fk; Kiwf;F nrhj;ij nraw;gLj;j KbAkhd Njitahd epiyik kw;Wk; ,lnkhd;wpy; nrhj;ij mikg;gjw;F nrhj;ij kPs; ,dk;fhZk; NghJ my;yJ nkhj;jkhf kjpg;gpwf;fk; nra;Ak; NghJ nrhj;jpd; kjpg;gpwf;fk; nra;jy; epWj;jg;gLk;.
+
+168. nrhj;njhd;wpd; gaDs;s MAl;fhyk; vd;gJ gpuNjr rigapdhy; nrhj;ijg; gad;gLj;Jtjw;F cj;Njrpj;j fhyg;gFjp my;yJ gpuNjr rigapdhy; nrhj;jpypUe;J ngw;Wf;nfhs;s cj;Njrpf;fg;gl;l cw;gj;jp vz;zpf;if my;yJ mjw;Fr; rkdhd myFfshFk;. nrhj;njhd;wpd; gaDs;s MAl;fhyj;ij jPu;khdpf;fpd;w NghJ gpuNjr rigapdhy; gpd;tUk; midj;Jtpjkhd fhuzpfisAk; fUj;jpw;nfhs;sy; Ntz;Lk;. i. nrhj;jpd; cj;Njr gad;ghL nrhj;jpd; cj;Njr nfhs;ssT my;yJ ngsjpf KbTg;nghUspd; mbg;gilapy; kjpg;gPL nra;ag;gLk;.
+
+ii. cj;Njr ngsjPf mopT my;yJ fhyk; fle;J nry;yy; nrhj;ijg; gad;gLj;Jtjw;F cj;Njrpf;Fk; Nrit Kiwfspd; vz;zpf;if kw;Wk; gOJghu;g;G kw;Wk; guhkupg;G epfo;r;rpj;jpl;lq;fs; kw;Wk; nrhj;J nrayw;W fhzg;gLk; NghJ nra;ag;gLk; cgrupg;G kw;Wk; guhkupg;G Nghd;w njhopw;ghl;L fhuzpfs; kPJ jq;fpAs;sJ. iii. nrhj;jpd; Nrit KbTg;nghUspd; my;yJ cw;gj;jpapd; re;ijf; Nfs;tpapd; khw;wq;fspdhy; Njhw;wk; ngWk; my;yJ cw;gj;jpia tpUj;jp nra;tjw;fhf nra;ag;gLk; khw;wq;fspdhy; epfOk; njhopy;El;g my;yJ tu;j;jf uPjpahd tof;fpoe;J Nghjy; kw;Wk;
+
+iv. njhlu;Gila Fj;jiff; fhyg; gFjp fle;Jnry;yy; Nghd;w nrhj;jpd; gad;ghl;bd; kPJ rl;luPjpahd kw;Wk; mijnahj;j kl;Lg;ghLfs;> fw;Fopfs; kw;Wk; fhzp rPuikg;Gf;fhf gad;gLj;jg;gLk; epyk; Nghd;w rpytw;iwj; jtpu> fhzpfSf;fhd tiuaiwaw;w MAl;fhyk; ,Ug;gjdhy; mtw;iw kjpg;gpwg;gj;jpw;F cl;gLj;jy; MfhJ. v. Mjdk; nfhs;tdT nra;ag;gLk; my;yJ gad;ghl;Lf;F vLj;Jf;nfhs;sg;gLk; tUlj;jpy; kjpg;gpwf;fk; nra;tjw;fhf Vw;Gilajhftplj;Jk; mfw;Wk; re;ju;g;gj;jpy; Vw;Gila tUlj;jpw;F kjpg;gpwf;fk; nra;jy; Ntz;Lk;.
+
+kjpg;gpwf;fk; nra;Ak; Kiw
+
+169. nrhj;jpd; vjpu;fhy nghUshjhu eyd;fis Efu;tjw;fhf mJ vjpu;ghu;f;fg;gLk; khjpupia vLj;Jf;fhl;Lk; kjpg;gpwf;f Kiwnahd;iw gpuNjr rigapdhy; Nju;e;njLj;jy; Ntz;Lk;. Vw;Wf;nfhs;sg;gl;l kjpg;gpwf;f KiwfSf;Fs; Neu;Nfhl;L Kiw> kPjp Fiwe;J nry;Yk; Kiw kw;Wk; cw;gj;jp myF Kiw Nghd;w Kiwfs; gad;ghl;il mbg;gilahff; nfhz;L cs;slf;fg;gLfpd;wJ.
+
+kPs; ,dk;fhzy;
+
+170. gpd;tUk; tplaq;fspd; kPJ gpuNjr rigahdJ Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;iw kPs; ,dk;fhzy; Ntz;Lk;.
+
+i. mfw;Wjy; fhuzkhf my;yJ> ii. mjd; gad;ghl;bd; %yk; my;yJ mfw;Wtjd; %yk; NkYk; vjpu;fhy eyd;fs; fpilf;fg;ngwhj tplj;J.
+
+25A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+171. tplaq;fis kPs ,dk; fhZk; NghJ Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tplankhd;W kPs; ,dk; fhzypd; kPjhd eyd;fs; my;yJ el;lq;fs; my;yJ Fiwghl;bid gpuNjr rig ,dk; fhZjy; Ntz;Lk;. mt;thwhd eyd;fs;> tUtha;fshf gpuNjr rigapdhy; tifg;gLj;jy; MfhJ.
+
+172. xJf;fg;gl;l jpdkhdJ nrhj;jpdJ cupj;J rk;ge;jkhf ,lu;ghLfs; kw;Wk; mD$yq;fs; iftplg;gl;l jpdkhf fUj;jpw;nfhs;sg;gly; Ntz;Lk; 173. Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;iw kPs; ,dk;fhZtjd; %yk; vof;$ba tUkhdq;fs; my;yJ el;lq;fs; vd;gtw;iw gpuNjr rigapdhy; mj;jifa tifapd; jw;Nghija ngWkjp kw;Wk; xJf;fg;gLtjd; %yk; <l;lg;gLk; njhifahapd; mtw;wpw;F ,ilapYs;s tpj;jpahrkhf mJ jPu;khdpf;fg;gly; Ntz;Lk;. ntspg;gLj;jy;
+
+174. midj;J tifahd Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fSf;Fk; gpuNjr rig gpd;tUk; tplaq;fis ntspg;gLj;Jjy; Ntz;Lk;.
+
+(i) Njwpa rkfhyg; ngWkjpia jPu;khdpg;gjw;F gad;gLj;jg;gl;l mstPl;L mbg;gilfs;;
+
+(ii) gad;gLj;jg;gl;l kjpg;gpwf;f Kiwfs;;
+
+(iii) gaDs;s MAl;fhyk; my;yJ gad;gLj;jg;gl;l kjpg;gpwf;f tpfpjhrhuq;fs;;
+
+(iv) mwpf;ifaplg;gLk; fhyg;gFjpapd; Muk;gj;jpy; my;yJ ,Wjpapy; jpuz;l kjpg;gpwf;fj;ij kw;Wk; nkhj;jkhf ghjpg;ig Vw;gLj;Jk; nkhj;j ,og;Gf;fspd; rkfhyg; ngWkjp ,Ug;gpd;; kw;Wk;
+
+(v) gpd;tUk; tplaq;fs; jdpahff; fhl;lg;gl;L mwpf;ifaplg;gLk; fhyg;gFjpapd; Muk;gj;jpy; my;yJ ,Wjpapy; rkfhyg; ngWkhdq;fSld; xg;gPL nra;jy;> mjhtJ
+
+(m) Nru;j;jy;
+
+(M) xJf;Fjy;
+
+(,) kjpg;gpwf;fk; nra;jy;
+
+(<) Nrjkiljy;
+
+KjyhditfspypUe;J xg;gPL nra;jy; Ntz;Lk;.
+
+175. gpuNjr rigahdJ mt;thNw cupikfis tiuaWj;j my;yJ nghWg;Gf;fSf;F fhg;gPlhf gpizak; itf;fg;gl;l Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; ,Ug;G kw;Wk; rkfhy ngWkjpia ntspg;gLj;Jjy; Ntz;Lk;.
+
+Fj;jif
+
+176. “Fj;jif” vd;gJ> xg;Gf;nfhz;l xU fhyg; gFjpf;fhf nrhj;njhd;iwg; gad;gLj;Jk; cupikf;fhf nfhLg;gdTfSf;F my;yJ nfhLg;gdTfs; gytw;wpw;F gjpy; mspf;Fk; tifapy; Fj;jiff; nfhs;tdthsUf;F Fj;jiff;F toq;Fgtuhy; clikia ifkhw;Wk; xg;ge;jkhFk;. Fj;jifj; jtizapd; ,Wjpapy; Fj;jiff; nfhs;tdthsUf;F nrhj;jpd; clikia tupnahd;iw mwtpLtjd; %yk; ifaspf;fNth my;yJ ifaspf;fhkypUf;fNth KbAk;.
+
+177. gpd;tUtdtw;iwj; jtpu midj;J Fj;jiffSf;Fkhd fzf;fPL ,e;j tpjpfspd; %yk; cs;slf;fg;gLfpd;wJ.
+
+(i) fdpaq;fs;> ,aw;if thA kw;Wk; mijnahj;j kPs; cw;gj;jp nra;a Kbahj nghUl;fis Nrhjid nra;tjw;fhd Fj;jif; (ii) rydj; jpiug;glq;fs;> fhndhyp xspg;gjpTnra;jy;> ehl;ba ifE}y;> Mf;fTupik my;yJ gjpg;Gupik Nghd;w tplaq;fSf;fhfg; ngw;Wf; nfhLf;fg;gLk; mDkjpg;gj;jpu xg;ge;jq;fs;;
+
+26A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+(iii) capupay; nrhj;Jf;fSf;fhd Fj;jif; kw;Wk;
+
+m. cupikfSld; njhlu;Gila midj;J Mgj;Jf;fs; kw;Wk; eyd;fisf; fzprkhd msT ifaspj;jy;; kw;Wk;
+
+M. nrhj;jpd; gaDs;s MAl;fhyj;jpypUe;J Fj;jiff; fhyg; gFjp fzprkhd msT mjd; gFjpahf nfhs;sg;glhj NghJ>
+
+Fj;jiff; nfhs;tdthsupd; epjpf; $w;Wf;fs; 178. Fj;jiff; nfhLg;gdthsUf;F nra;ag;gLk; nfhLg;gdTfs;> Fj;jiff; nfhLg;gdthsupd; cj;Njr gztPf;fr; nryT mjpfupg;Gf;fSf;F ,og;gPL nra;tjw;F cj;Njr ruhrup gztPf;fj;jpw;F mika mjpfupg;Gf;F fl;likf;fg;glhjikiaj; jtpu> Fj;jiff; nfhs;tdthsu; Fj;jiff; nfhLg;gdit nrythf rhjhuz topKiwapy; milahsk; fhZjy; Ntz;Lk;.
+
+Fj;jiff; nfhLg;gdthsupd; epjpf; $w;Wf;fs;
+
+179. Fj;jiff;F cl;gLk; nrhj;Jf;fs; mjd; nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; nrhj;jpd; jd;ikf;F Vw;g Fj;jiff; nfhLg;gdthsupdhy; rku;g;gpf;fg;gly; Ntz;Lk;.
+
+180. Fj;jiff; nfhLg;gdthsupd; cj;Njr gztPf;fr; nryT mjpfupg;Gf;fSf;F ,og;gPL nra;tjw;F cj;Njrpf;Fk; ruhrup gztPf;fj;jpw;F mika mjpfupg;Gf;F fl;likf;fg;glhj tplj;J jtpu> Fj;jiff; nfhLg;gdthsu; Fj;jif tUkhdj;jpdJ kpifapd; my;yJ Fiwghl;bd; Fj;jiff; fhyg;gFjp KOtJk; rhjhuz topKiwapy; ,dk;fhzg;gLjy; Ntz;Lk;.
+
+181. Fj;jif tUkhdk; ngwg;gLk; NghJ Vw;gLk; Nja;khdq;fs; cl;gl MFnryT nrynthd;whff; Fj;jif nfhLg;gdthsupdhy; ,dk;fhzg;gly; Ntz;Lk;.
+
+ntspg;gLj;Jjy;fs;
+
+182. Fj;jiff;fhf Fj;jiff;F vLg;gtu; gpd;tUtdtw;iw ntspg;gLj;Jjy; Ntz;Lk;. (i). nrynthd;whf ,dq;fhzg;gl;l Fj;jiff; nfhLg;gdT.
+
+(ii). cjhuzkhf vjpu;ghu;f;f Kbahj $yp njhlu;ghd tpguq;fs;> GJg;gpj;jy; my;yJ nfhs;tdT nra;tjd; khw;Wj; njupT kw;Wk; mjpfupf;fg;gLk; gpupT kw;Wk; Fj;jiff;F ,zq;Ftjd; %yk; tpjpf;fg;gLk; epge;jidfs; cl;gl Fj;jiff;F vLg;gtupd; Fwpg;gplj;jf;f Fj;jif xg;ge;jq;fspd; nghJthd tpguq;fs;.
+
+Copau;fSf;fhd ed;ikfs; - nghJthd ,dq;fhzg;gLk; Nfhl;ghLfs;
+
+183. Kfhikj;Jtk; cl;gl Copau;fshy; toq;fg;gLk; NritfSf;fhd gupkhw;wkhf gpuNjr rig toq;Fk; kjpg;gPl;Lj; njhif Copau;fSf;fhd ed;ikfshFk;. ,e;j xOq;F tpjpfspy; nrhy;yg;gl;l Njitg;ghLfspd; gpufhuk; gpuNjr rigf;F toq;fg;gl;l NritfSf;fhd gpujpgydhf mjd; Copau;fSf;Ff; fpilf;Fk; cupj;Jf;fs; Copau; mD$yq;fSf;fhd nryTfs; gpuNjr rigapdhy; gpd;tUkhW milahsk; fhzg;gly; Ntz;Lk;.
+
+(i) Neubahf Copau;fSf;F my;yJ Copau; eyd;Gup epjpaj;jpw;fhd gq;fspg;ghf nrYj;jg;gl;l ngWkjpia Fiwj;jjd; gpd;du; nghWg;nghd;whf> mwpf;ifaplg;gLk; jpdj;jpw;F Kd;du; Copau;fshy; Kd;itf;fg;gLk; nghWg;Gf;fSf;F Nkyjpfkhf nrYj;jg;gl;l ngWkjp mjpfupf;F Nkahdhy;> mt;tjpfupg;G gpuNjr rigapdhy; Fwpj;j Kw;nfhLg;gdT vjpu;fhy nfhLg;gdT fSf;fhf my;yJ gzj;ij jpUg;gpr;nrYj;Jiffis Fiwg;gjw;F toptFf;Fk; njhif tiuapyhd nrhj;njhd;whf> my;yJ
+
+(ii) ,Ug;Gj; njhif my;yJ Mjdk;> ,ae;jpuq;fs; my;yJ cgfuzq;fs; Nghd;w nrhj;Jf;fspd; nryTfspd; gFjpahf nryTfis milahsk; fhz;gjw;fhf ,e;j xOq;F tpjpapd; NtW tpjpfspd; %yk; Njitg;gl;bUe;jhNy jtpu nrynthd;whff; fUjg;gly; Ntz;Lk;.
+
+27A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+Copau;fSf;fhd Fwpg;gpl;l mD$yq;fs;
+
+184. Copau;fs; gpuNjr rigf;F Nritia toq;Fk; nghOJ Nkyjpfkhf my;yJ Fiwhl;by; fz;lwpag;gl;l ngWkjpia gpuNjr rigahdJ gpd;tUkhW fzpg;gPL nra;jy; Ntz;Lk;.
+
+(i) rk;gsk;> Cjpak;> tpjit mdhijfs; epjpak;> Copau; Nrkyhg epjpak;> Copau; ek;gpf;if epjpak; Mfpatw;wpfhd gq;fspg;G> kUj;Jt fhg;GWjp jtizf; fl;lzk; kw;Wk; thfd ghtiz my;yJ tPl;L trjpfs; Nghd;w Nritfs; mwpf;ifaplg;gLk; fhyg;gFjpapy; Nritf;fhyj;jpd; gpd;du; my;yJ Nritf; fhyj;jpw;F Kd;duhd FWfpa fhyg;gFjpapDs; nrYj;jg;glNtz;ba nfhLg;gdTfs;.
+
+(ii) Nritfs; toq;fg;gl;l mwpf;ifaplg;gLk; fhyg;gFjpapd; Cf;Ftpg;Gf; nfhLg;gdT kw;Wk; gq;fpyhgq;fspd; nfhLg;gdT>
+
+(iii) Copau;fs; mD$yq;fisg; ngw cupj;Jila mwpf;ifaplg;gLk; fhyg;gFjpapy; fhg;GWjpapy; cs;slf;fg;glhj kUj;Jt mD$yq;fs;>
+
+(iv) tpLKiw ngwg;gl;l mwpf;ifaplg;gLk; fhyg;gFjpf;fhd mika> tUlhe;j my;yJ RfaPd yPTf;fhf nrytplg;gl;l njhiffs;. 185. gzpf;nfhil Nghd;w Nritia epiwT nra;Ak; NghJ nrYj;jg;gl Ntz;ba mD$yq;fis Copau; cupa jpdj;jpy; NritapypUe;J tpyFthNuahdhy; mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; nrYj;jg;glNtz;ba ngWkjpia fzf;fpl;L mjid nghWg;Gld; ,dq;fhz Ntz;Lk;.
+
+186. CopanuhUtupd; Nrit nghJthf Xa;TngWk; jpfjpf;F Kd; NritapypUe;J tpyf;FtJ gpuNjr rigapd; jPu;khdj;jpd; tpisthfntdpd; nrYj;jg;gl Ntz;ba nfhLg;gdTfs; me;j jPu;khdj;ij Copau;fSf;F mwptpf;fg;gl;L mwpf;ifaplg;gLk; fhyg;gFjpapy; fzf;fplg;gly; Ntz;Lk;.
+
+187. jhq;fshfNt mdhtrpakhf kpiffis Vw;Wf;nfhs;tjw;fhd Copau;fspd; jPu;khdj;jpd; tpisthf me;j mD$yq;fspd; gupkhw;wkhf nrYj;jg;gl Ntz;ba eyd;fis Copau; Vw;Wf;nfhz;L mwpf;ifapLk; fhyg;gFjpapy; NkyjpfkhfNth FiwghlhfNth ,dq;fhzg;gLk;.
+
+188. Kd;dhy; Copau;fSf;F toq;fg;gl;l Xa;T+jpak; Nghd;w Nritapd; gpd;duhd mD$yq;fs; nfhLg;gdT nra;ag;gl;l fhyg;gFjpapd; nrynthd;whf milahsk; fhzg;gl Ntz;Lk;. kj;jpa murhq;fk;> Vida gpuNjr rigaplkpUe;J kPsspg;Gg; ngwhky; mt;thwhd mD$yq;fis nrYj;Jtjhdhy;> mt;thwhd mD$yq;fSf;fhd nryTfis gpuNjr rig tUkhdk; kw;Wk; nryT vd;w epjp nray;jpwd; mwpf;ifapy; kw;Wk; nkhj;j Nkyjpfk; my;yJ FiwghL Mfpa ,uz;bYk; milahsk; fhzg;gly; Ntz;Lk;.
+
+189. gpd;tUk; tplaq;fis epjp mwpf;ifapd; gjpTfspD}lhf gpuNjr rigapdhy; ntspg;gLj;jg;gly; Ntz;Lk;.
+
+(i) cupa fhyg;gFjpapDs; gpuNjr rigapd; Kd;dhy; Copau;fSf;F nrYj;jg;gl;l my;yJ nrYj;jg;gl Ntz;ba Xa;T+jpak; Nghd;w Nritapd; gpd;duhd nfhLg;gdTfspd; ngWkjp> (ii) cupa fhyg;gFjpapDs; gpuNjr rigapd; Kd;dhy; Copau;fSf;F Xa;T+jpakhf nrYj;jg;gl;l my;yJ nrYj;jg;gl Ntz;ba Nritapd; gpd;duhd nfhLg;gdTfspy; kj;jpa murhq;fk; Nghd;w Vida epWtdq;fspdhy; nrYj;jg;gl;l my;yJ nrytplg;gl;l ngWkhdk;> (iii) fhyg;gFjpapDs; mt;thW Nritapd; gpd;duhd eyd;fSf;F nrYj;jg;gl Ntz;ba Copau;fspd; vz;zpf;if kw;Wk; Xa;T ngw;wjd; fhuzkhf mt;thwhd eyd;fis ngWtjw;F cupikAs;s jw;Nghija Copau;fspd; vz;zpf;if.
+
+28A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+gupkhw;wky;yhj nfhLf;fy;thq;fy;fspypUe;J ngwg;gLk; tUtha;fs; tup kw;Wk; mspg;Gf;fs;
+
+190. %yjd epjpakhf murpdhy; kw;Wk; Nky;khfhz rigapdhy; toq;fg;gLk; gq;fspg;Gf;fSld; njhlu;Gila epjp cl;gha;r;ry; jtpu;e;j me;j epjp cl;gha;r;rypd; Njwpa nrhj;J> nkhj;j nrhj;J mjpfupg;gjd; tpisthf gpuNjr rigapd; nghJthd nraw;ghLfspdhy; mwpf;ifaplg;gLk; fhyg;gFjpapy; fpilf;fg;ngWk; nghUshjhu mD$yq;fs; my;yJ Nrit tsq;fspd; nkhj;j epjp cl;gha;r;ry; tUkjpahFk;. fPo;f; Fwpg;gplg;gLk; nfhLf;fy; thq;fy;fs; kw;Wk; epfo;TfspypUe;J fpilf;fg;ngWk; tUkjpfis fzf;fpypLk; nghOJ ,e;j tpjp gad;gLk;.
+
+(i) fpilf;fg;ngw;w my;yJ fpilf;fg;ngw Ntz;ba tup kw;Wk; kjpg;gPl;L tup. (ii) fpilf;fg;ngw;w my;yJ fpilf;fg;ngw Ntz;ba jz;lg;gzk; cl;gl e~;l<L. (iii) %yjdj; njhifay;yhj murplkpUe;J ngwg;gl;l gupkhw;wj;jpD}lhf ngw;Wf;nfhs;sg;gl;l mspg;Gf;fs;. (iv) murhq;fj;jplkpUe;J jtpu NtWtifapy; fpilf;fg;ngw;w ed;n fhil kw;Wk; khdpak;.
+
+tup kw;Wk; e~;l<L
+
+191. gpuNjr rigf;F tUkhdj;ijg; ngw;Wf;nfhs;tjw;fhf ,aw;wg;gl;Ls;s rl;lk; my;yJ tpjpKiwfspd; gpufhuk; gpuNjr rigf;Fr; nrYj;jg;gl;l my;yJ nrYj;jg;glNtz;ba ngWkjp kw;Wk; Vida tpjj;jpyhd mwtPLfs; tupfspy; mlq;Fk;.
+
+192. tup kw;Wk; e~;l<Lfs; tpjpf;fg;gLk; fhyg;gFjpapd; tUkjpahf ,dq;fhzg;gl Ntz;Lk;.
+
+193. mwpf;ifaplg;gLk; jpdj;jpw;F Kd;duhd fhyg;gFjpf;fhd tup kw;Wk; e~;l<Lfs; jug;gl;l ,Wjp kPjpahf cs;s mwtplf;$ba ngWkjpahf fzpg;gpl;L nrhj;jhf ,dq;fhzg;gl Ntz;Lk;.
+
+murhq;fj;jpdhy; my;yJ Nky; khfhz rigapd; mspg;Gf;fs;
+
+194. nryTfis nra;tjw;fhf murpdhy; kw;Wk; Nky;khfhz rigapdhy; toq;fg;gLk; khdpaq;fs;> mt;thwhd nryTfis ,dq;fhZk; fhyg;gFjpf;fhd tUkjpahf fzpf;fg;gLk;.
+
+195. ,dq;fhzg;gl;l Mjdk;> ,ae;jpuq;fs; kw;Wk; cgfuzq;fs; my;yJ Vida nrhj;Jf;fSf;fhf epjpia toq;Fk; murpd; my;yJ Nky;khfhz rigapd; toq;fy;fs; mt;thwhd Mjdk;> ,ae;jpuq;fs; kw;Wk; cgfuzq;fs; my;yJ Vida nrhj;Jf;fspd; Nkyjpfj;ij my;yJ Fiwghl;il fz;lwpag;gLk; fhyg;gFjpapd; tUkjpahf fzpf;fg;gLk;.
+
+196. Fwpg;gpl;l fhyg;gFjpAld; njhlu;Ggl;l murpd; my;yJ Nky;khfhz rigapd; toq;fy;fs; Fwpj;j fhyg;gFjpapd; tUkjpahff; fzpf;fg;gly; Ntz;Lk;.
+
+197. 194> 195 my;yJ 196 Mk; ge;jpfspy; Fwpg;gplg;glhj> %yjd epjp jtpu murpd; %yk; my;yJ Nky;khfhz rigapd; %ykhf toq;fg;gLgit> Fwpj;j toq;fy;fs; fpilf;fg;ngw;w my;yJ fpilf;fg; ngwNtz;ba fhyg;gFjpf;fhd tUkjpahff; fzpf;fg;gly; Ntz;Lk;.
+
+198. %yjd epjpaj;jpw;fhf murpdhy; my;yJ Nky;khfhz rigapdhy; nra;ag;gLk; toq;fy;fs; Kjyhtjhf Vida tpupthd tUkhdkhf ,dq;fhzg;gLk;. mt;thNw Vida tpupthd tUkhdj;jpy; ,dq;fhzg;gl;l kw;Wk; Kd;ida ge;jpfspy; Fwpg;gplg;gl;l tUkjpfisf; fz;lwpAk; msTNfhis jpUg;jpg;gLj;jpa fhyg;gFjpapy; Nenuhj;j ngWkjpia Vida tpupthd tUkhdj;jpypUe;J fopf;fg;gLk;. mwpf;ifaplg;gLk; jpdj;jpy; Kd;ida ge;jpfspy; Fwpg;gplg;gl;Ls;s tUkjpfis ,dq;fhZk; msTNfhis jpUg;jpg;gLj;jhj murpdhy; kw;Wk; Nky;khfhz rigapdhy; toq;fg;gl;l nkhj;j tUkhdk; jdpahd mq;fkhf nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; fhl;lg;gly; Ntz;Lk;.
+
+29A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+muR my;yJ Nky;khfhz rig jtpu Vida jug;gpdupduhy; toq;fg;gl;lit
+
+199. nryTfis Vw;gJ murpdhy; my;yJ khfhz rigapdhy; jtpu NtW jug;gpduhy; fpilf;fg; ngWgitfs; mt;thwhd nryTfs; ,dq;fhzg;gLk; fhyg;gFjpapy; tUkjpahff; fUjg;gLk;.
+
+200. ,dq;fhzg;gl;l Mjdk;> ,ae;jpuq;fs; kw;Wk; cgfuzk; my;yJ Vida nrhj;Jf;fSf;fhf epjpiag; ngw;Wf;nfhLg;gJ murpdhy; my;yJ Nky; khfhz rigiaj; jtpu NtW tifahd toq;Fjy;fs; Mapd; mt;thwhd Mjdk;> ,ae;jpuk; kw;Wk; cgfuzk; Mfpatw;wpd; Nkyjpfj; njhif my;yJ kjpg;gpwf;fk; ,dq;fhzg;gl;l fhyg;gFjpapd; tUkhdkhff; fUjg;gly; Ntz;Lk;.
+
+201. Fwpg;gpl;l fhyg;gFjpAld; njhlu;Gila murpdhy; my;yJ Nky; khfhz rigiaj; jtpu NtW tifahd toq;Fjy;fs; me;j fhyg;gFjpf;fhd tUkhdkhff; fUjg;gly; Ntz;Lk;.
+
+202. 199> 200 kw;Wk; 201 Mk; tpjpfspy; nrhy;yg;glhj %yjd epjpak; jtpu;e;j murpdJ my;yJ khfhz rigapdJ Vida toq;Fjy;fs;> Fwpj;j toq;Fjy;fs; fpilf;fg;ngw;w my;yJ fpilf;fg;ngw Ntz;ba fhyg;gFjpf;fhd tUkjpahf fUjg;gLk;. 203. %yjd nrytpw;fhf murpdhy; my;yJ Nky; khfhz rigiaj; jtpu NtW jug;ghu;fsplkpUe;J ngwg;gLk; toq;Fjy;fs; Kjyhtjhf tpupthd tUkhdj;jpy; ,dq;fhzg;gLk;. mt;thW Vida tpupthd tUkhdj;jpy; ,dq;fhzg;gl;l toq;Fjy;fs; tUkhdkhf fz;lwpag;gl;l kw;Wk; Ke;ija ge;jpfspy; Fwpg;gplg;gl;l tUkjpfisf; fz;lwpAk; msTNfhy;fis G+u;j;jp nra;j fhyg;gFjpapDs; Nenuhj;j ngWkjpia Vida tpupthd tUkhdj;jpypUe;J Fiwj;jy; Ntz;Lk;. mwpf;ifaplg;gLk; jpdj;jpy; Ke;ija ge;jpfspy; Fwpg;gplg;gl;l tUkhdk; fz;lwpAk; msTNfhy;fis G+u;j;jp nra;ahj murpdhy; my;yJ Nky; khfhz rigiaj; jtpu Vida jug;ghupdJ toq;Fjy;fs; nkhj;j tUkhdj;jpy; jdpahd mq;fkhf nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; gw;wpa $w;wpy; ,dq;fhzg;gly; Ntz;Lk;.
+
+204. gpuNjr rigapdhy; tup kw;Wk; toq;fy;fs; rk;ge;jkhf gpd;tUtdtw;iw ntspg;gLj;Jjy; Ntz;Lk;.
+
+(m). tupfspd; tiffSf;F Vw;g nghUj;jkhd gFg;gha;Tld; $ba tupahf ,dq;fhzg;gl;l tUthapd; ngWkjp>
+
+(M). ,og;gPLfspd; jz;lg;gzj;jpw;Nfw;g nghUj;jkhd gFg;gha;Tld; $ba jz;lg;gzkhf mwpag;gl;l tUkjpfs;.
+
+gupkhw;wf; nfhLf;fy; thq;fs;fspd; tUkjpfs;
+
+205. %yjd epjpahf murhq;fj;jpdhy; kw;Wk; Nky;khfhz rigapdhy; fpilf;fg;ngWk; gq;fspg;Gf;fSld; njhlu;Ggl;l epjp cl;gha;r;ry; jtpu;e;j Njwpa nrhj;J nkhj;j tUkhdk; mjpfupg;gjd; tpisthf gpuNjr rigapd; nghJthd eltbf;iffspdhy; mwpf;ifaplg;gLk; fhyg;gFjpapy; Vw;glf;$ba nghUshjhu mD$yq;fs; my;yJ Nrit tsq;fspd; nkhj;j epjp cl;gha;r;ry; tUkhdk; MFk;. fPo;tUk; nfhLf;fy; thq;fy;fs;fspdhy; kw;Wk; epfo;Tfspdhy; cz;lhFk; tUkhdj;ij fzf;fpypLk; NghJ ,e;jf; tpjp gad;gLk;.
+
+(m). nghUl;fis tpw;gid nra;jy; (tpw;gid nra;Ak;nghUl;L epWtdj;jpdhy; cw;gj;jp nra;ag;gl;l my;yJ kPs; tpw;gidf;fhff; nfhs;tdT nra;ag;gl;l)>
+
+(M). Nritfis toq;Fjy;>
+
+(,). gpuNjr rigapd; xg;ge;jf;fhuuhd epu;khz xg;ge;jf;fhuu; ‘epu;khz xg;ge;jk;’ vdg;gLk; mt;thwhd jpl;lq;fs;> njhopy;El;gj;jpd; kw;Wk; nraw;ghLfspd; my;yJ ,Wjpahd Nehf;fk; my;yJ ghtizfs; %yk; nrhy;yg;gLk; neUf;fkhd xd;Nwhnlhd;iw njhlu;GgLj;Jk; my;yJ xd;W kw;nwhd;NwhL gpzpf;fg;gl;l Mjdk; my;yJ nrhj;Jf;fis xUq;fpizg;gjw;fhf gpuj;jpNafkhf tiuag;gl;l xg;ge;jk;> kw;Wk;
+
+(<). tl;b <l;Lk; KjyPLfs; my;yJ fpilf;fg;ngw Ntz;baitfs;.
+
+30A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+tUkhdj;ijf; fzpg;gPL nra;jy; 206. tUkjpahf ngwg;gl;l my;yJ fpilf;fg;ngw Ntz;ba ngWkjpf;fhf tUkhdj;ij gpuNjr rig mstpLjy; Ntz;Lk;. ngwg;gl;l my;yJ fpilf;fg;ngw Ntz;ba tUkjp vd;gJ gpuNjr rigapdhy; mDkjpf;fg;gl;l VNjDk; tpahguf; fopT> jhkjkpd;wp jPu;g;gjw;fhd fopTfs; kw;Wk; msTfis kPsspj;jy; vd;gd fopf;fg;gl;ljd; gpd;duhd ngWkjpahFk;.
+
+207. gpuNjr rigahdJ tUkhdj;jpy; cs;slf;fg;glNtz;baJ gpuNjr rigapd; nrhe;j fzf;fpw;F fpilf;fg;ngw;w my;yJ fpilf;fg;ngw Ntz;ba nghUshjhu mD$yq;fspd; nkhj;j cl;gha;r;riy khj;jpukhFk;. %d;whk; jug;gpdu; rhu;gpy; gpuNjr rig tR+ypj;j rfy ngWkjpfSk; tUkhdj;jpypUe;J ePf;fg;gly; Ntz;Lk;. murhq;fj;jpd; rhu;gpy; my;yJ Nky;khfhz rigapd; rhu;gpy; tR+ypf;fg;gl;l tpw;gid my;yJ ngWkjp Nru;f;fg;gl;l mbg;gilapdhyhd rfy tupfspypUe;Jk; cs;slf;fg;gl Ntz;baJ mjd; juFg; gzj;ij khj;jpuNkahFk;. jiyik mjpfhup rhu;gpy; tR+ypf;fg;gl;l njhiffs; gpuNjr rigapd; tUkhdkhf fUjg;glkhl;lhJ.
+
+nghUl;fspd; tpw;gid 208. nghUl;fspd; tpw;gid %yk; ngwf;$ba tUkhdj;ij gpuNjr rigahdJ ,dq;fhd Ntz;baJ fPo; Fwpg;gplg;gl;Ls;s rfy epge;jidfSk; G+u;j;jp nra;ag;gLk; NghjhFk;. (m). nghUl;fspd; cupikapy; fzprkhd msT gad;fs; kw;Wk; mD$yq;fs; gpuNjr rigapdhy; ngWeUf;F toq;fg;gl;bUf;Fk; NghJ> (M). tpw;fg;gl;l nghUl;fs; kPJ gpuNjr rigahdJ nghJthf cupj;Jld; njhlu;Ggl;l njhlu;r;rpahf Kfhikj;Jtk; rk;ge;jkhf nraw;gLtJ my;yJ gaDs;s fl;Lg;ghLfis jf;f itj;Jf; nfhs;s khl;lhJ.
+
+(,). tUkhdj;jpd; ngWkjpia ek;gj;jFe;j tifapy; fzpg;gpl KbAk; vd>
+
+(<). nfhLf;fy;thq;fy;fSld; njhlu;Ggl;l nghUshjhu mD$yq;fs; gpuNjr rigf;Ff; fpilg;gjw;F mjpf tha;g;Gs;sjhf (mjhtJ ,lk;ngw Kbahjij tpl ,lk;ngw mjpf tha;g;Gs;sjhf) kw;Wk; (c). nfhLf;fy; thq;fYld; njhlu;ghf Vw;fg;gl;l my;yJ Vw;fg;glNtz;ba tUkhdj;ij ek;gj;jFe;j tifapy; fzpg;gpl KbAk; vdf; fUJk; NghjhFk;. 209. ngWeUf;F cupj;jpy; fzprkhd msT gad;fs; kw;Wk; mD$yq;fs; gpuNjr rigapdhy; toq;fg;gl;lJ vg;NghJ vd;gij kjpg;gpLk; nghOJ nfhLf;fy; thq;fypy; fUj;jpy; nfhs;sg;gl Ntz;ba tplaq;fis Muha Ntz;Lk;. ngUk;ghyhd re;ju;g;gq;fspy; cupikapd; gad;fs; toq;fg;gLtJ rl;luPjpahd cupj;J khw;wk; nra;jy; my;yJ nfhs;tdthsUf;F Ml;rpiaf; ifaspg;gJ vd;w ,U tplaq;fSf;Fk; rkkhdjhf MFk;. mNef rpy;yiw tpw;gidfspd; epiyik ,JthFk;. cupikapy; fzprkhd msT gaid my;yJ mD$yj;ij gpuNjr rig jf;fitj;Jf;nfhs;tjid tUkhdkhf ,dq;fhzg;glyhfhJ.
+
+Nrit toq;fy; 210. Nrit toq;FjYld; njhu;Gila nfhLf;fy;thq;fy;fspd; KbTfis ek;gfj; jd;ikAld; kjpg;gpl KbAnkd;why;> nfhLf;fy;thq;fYld; njhlu;Ggl;l tUkhdj;ij mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; mjid epiwTnra;Ak; gbKiwf;F ftdj;jpw;F cl;gLj;jp gpuNjr rig ,dq;fhz Ntz;Lk;.
+
+31A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+211. rjtPjj;ij KbTWj;Jk; Kiwikahf ,dq;fhzg;gLk; fPo;Fwpg;gplg;gLk; rfy epge;jidfisAk; jpUg;gjpg;gLj;j Ntz;LNkahdhy; nfhLf;fy;thq;fypd; KbTfis ek;gfG+u;tkhdjhf kjpg;gplg;gl KbAk;.
+
+i. tUkjpfspd; ngWkjpia ek;gfj;jd;ikAld; mstpl KbAkhjy;.
+
+ii. nfhLf;fy; thq;fYld; njhlu;Ggl;l nghUshjhu mD$yq;fs; gpuNjr rigf;F cl;gha;tij vjpu;ghu;f;f KbAkhjy;.
+
+iii. nfhLf;fy; thq;fypy; Kbtile;Js;s kl;lj;ij fzf;fPl;Lf; fhyg;gFjpapd; ,Wjpapy; ek;gfj;jd;ikAld; mstpl KbAkhjy;.
+
+iv. nfhLf;fy; thq;fYf;fhf Vw;Fk; nryTfs; kw;Wk; nfhLf;fy; thq;fiy epiwTnra;tjw;fhd nryTfis ek;gfj;jd;ikAld; mstpl KbAkhjy;.
+
+212. Nritnahd;Wld; njhlu;Gila nfhLf;fy; thq;fy;fspd; ngWNgw;wpid ek;gfj; jd;ikAld; mstpl Kbahj NghJ> gpuNjr rigapd; tUkjpfis ,dq;fz;L nfhs;s Ntz;baJ nryTfspy; mwtplg;gl KbAkhd njhiff;F khj;jpuNkahFk;.
+
+epu;khz xg;ge;jk;
+
+213. epu;khz xg;ge;jj;jpd; ngWNgw;wpid ek;gfj;jd;ikAld; kjpg;gpl KbAkhf ,Uf;Fk; gl;rj;jpy;> mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; nraw;ghLfspd; epiwTnra;Ak; kl;lj;jpw;F mtjhdk; nrYj;Jtjd; %yk; KiwNa tUkjpfs; kw;Wk; nryTfs; vd epu;khz xg;ge;jq;fSld; njhlu;Gila xg;ge;j tUkjpfis kw;Wk; xg;ge;j nryTfis gpuNjr rigahdJ ,dq;fhz Ntz;Lk;. ngWNgw;wpd; ek;gfj;jd;ikAs;s kjpg;gPbw;fhf epiwT nra;ag;gl;Ls;s kl;lk; kw;Wk; vjpu;fhyr; nryTfs; njhlu;ghd ek;gfj;jd;ikAs;s kjpg;gPL ,jw;fhf NjitahdjhFk;.
+
+rjtPjk; G+u;j;jp nra;ag;gl;Ls;s Kiwik
+
+214. Nrit toq;FtjD}lhf kw;Wk; epu;khz xg;ge;jq;fspd; Clhf tUkjpfis ,dq;fz;L nfhs;tjw;F ,e;j Kiwik gad;gLj;jg;gLk;. tUkjpapd; kw;Wk; nryTfspd; kjpg;gPL Nrit nfhLf;fy;thq;fnyhd;W my;yJ epu;khz xg;ge;jnkhd;W eilngw;Wf; nfhz;bUf;Fk; NghJ gpuNjr rig kjpg;gha;T nra;J Njitg;gLk; re;ju;g;gj;jpy; jpUj;jq;fis Nkw;nfhs;s Ntz;Lk;.
+
+215. nfhLf;fy; thq;fnyhd;wpy; my;yJ xg;ge;jnkhd;wpy; epiwTnra;ag;gl;Ls;s gzpfis kpfTk; ek;gfj; jd;ikAld; mstpLk; Kiwia gad;gLj;jp gpuNjr rigapdhy; G+u;j;jp nra;ag;gl;Ls;s kl;lj;ij jPu;khdpg;gjw;F Vw;Wf;nfhs;sg;gl;l KiwfSf;F cl;gl Ntz;Lk;. mjw;fhf> (m) ,d;Wtiu Nkw;nfhs;sg;gl;l gzpfSf;fhf nryT nra;ag;gl;l nryTfs; kjpg;gplg;gl;l nkhj;j nryTfSf;F tpfpjrkkhf Vw;fg;gLk;. ,d;Wtiu Nkw;nfhs;sg;gl;l gzpfSf;fhf nryT nra;ag;gl;l nryTfs; vjpu;fhy nraw;ghLfSld; rk;ge;jg;gl;l nryTfSf;F cl;gLj;jyhfhJ. mjhtJ> nghUl;fSf;fhd my;yJ vjpu;fhy nfhLg;gdTfs; Nghd;w>
+
+(M) Nkw;nfhs;sg;gl;l gzpfis Ma;T nra;jy; (,) Nrit nfhLf;fy;thq;fy; my;yJ xg;ge;j gzpfspd; ngsjPf rktpfpjj;ij epiwTnra;jy;
+
+thbf;ifahsu;fspdhy; ngwg;gl;l Kd;Ndw;wf; nfhLg;gdT kw;Wk; Kw;gzk; ngUk;ghYk; Nkw;nfhs;sg;gl;l gzpfspd; gpujpgspg;ghf fUjg;gl KbahJ. 216. nryTfis mwtpl KbAnkd vjpu;ghu;f;fg;gLkhapd;> nghUl;fSf;fhf my;yJ Kw;nfhLg;gdT Nghd;w nfhLf;fy;thq;fy;fSf;F my;yJ xg;ge;jnkhd;wpd; vjpu;fhy eltbf;iffSld; rk;ge;jg;gl;l nryTfs; nrhj;njhd;whf gpuNjr rigapdhy; fUjg;gly; Ntz;Lk;.
+
+217. VNjDnkhU nrynthd;iw mwtpl;Lf; nfhs;tij vjpu;ghu;f;f Kbahnjdpd; mjidr; nrynthd;whf mij gpuNjr rigahdJ cldbahf ,dq;fhzy; Ntz;Lk;.
+
+32A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+218. epu;khz xg;ge;jnkhd;wpd; KbTfis ek;gj;jFe;jjhf kjpg;gPL nra;a Kbahjtplj;J>
+
+(m). nrytplg;gl;l nryTfspy; mwtpl;Lf;nfhs;s KbAnkd vjpu;ghu;f;fg;gLk; njhif tiu khj;jpuk; gpuNjr rigapdhy; tUkhdkhf fUjg;gly; Ntz;Lk;. (M). xg;ge;jq;fspd; nryTfis> mJ nrytplg;gl;l fhyg;gFjpapd; nrynthd;whd gpuNjr rig fUJjy; Ntz;Lk;.
+
+219. epu;khz xg;ge;jnkhd;wpd; kPJ nkhj;j xg;ge;j nryTfs;> nkhj;j xg;ge;j tUkjpapYk; mjpfupf;Fk; vd vjpu;ghu;f;fg;gLk; re;ju;g;gj;jpy;> Kf;fpakhd xg;ge;jnkhd;wpw;fhf mjw;fpizahd Vw;ghLfSld; $ba> vjpu;ghu;f;fg;gLk; el;lj;ij nrynthd;whf cldbahf ,dq;fhzy; Ntz;Lk;.
+
+220. xg;ge;j tUkjpfshf Vw;fdNt ,dq;fhzg;gl;l ngWkjpia mwtpLtij ,dpNkYk; vjpu;ghu;f;f Kbahj tplj;J> mwtplg;gl Kbahj ngWkjpia xg;ge;j tUkjpapd; rupg;gLj;jyhff; fhl;Ltij tpl nrynthd;whf gpuNjr rig ,dq;fhz Ntz;Lk;.
+
+tl;b
+
+221. tl;bia ,dq;fhz;gJ vg;nghOJk; gaDs;s tl;b tPjj;ij gad;gLj;jpahFk;. 222. ‘gaDs;s tl;b tPjk;’ vd;gJ nrhj;jpd; rkfhy ngWkjpf;F kjpg;gplg;gl;l vjpu;fhy epjp ngwg;gLtJ Jy;ypakhd kl;lj;jpyhd tpfpjkhFk;. gaDs;s tl;b tPjj;ij jPu;khdpg;gJ mbg;gil ,dq;fhzypd; NghjhFk;. gaDs;s tl;b tPj Kiwapd; fPo;> (m) nrhj;jpd; rkfhy kjpg;G vd;gJ gaDs;s tl;b tpfpjj;jpd; fPo;f; Fiwf;fg;gl;l vjpu;fhy epjp tUkhdj;jpd; jw;fhyg; ngWkjp> kw;Wk; (M) cupa fhyg;gFjpapd; Muk;gj;jpy; nrhj;njhd;wpd; rkfhyg; ngWkjpahdJ me;j fhyg;gFjpf;fhd gaDs;s tl;b tPjj;jpd; ngWkjp mjpfupf;Fk; NghJ epfOk; ngWkjpf;F mf;fhyg;gFjpf;fhd tl;b tUkhdk; rkkhf ,Uf;Fk; 223. xNu tl;b tpfpjj;jpw;F kw;Wk; mjpfupg;gpw;F Vw;g tl;bahdJ Kiwahd tpjj;jpy; ngwg;gLk; re;ju;g;gq;fspy; tl;b ngwg;gl;l nrhj;Jld; njhlu;Gila fopT my;yJ NtW tUkjpfs; my;yJ nfhLg;gdTfs; rk;ge;jg;glhj nghOJ me;j nrhj;jpypUe;J cupa fhyg;gFjpf;Ff; fpilf;fg;ngw Ntz;ba tl;bnad;gJ Fwpj;j fhyg;gFjpf;fhf Fwpj;j nrhj;jpdJ tl;b tUkhdkhFk;. ntspg;gLj;Jjy; 224. gpuNjr rigapdhy; tUkhdk; njhlu;ghd gpd;tUk; tplaq;fs; ntspg;gLj;jg;gly; Ntz;Lk;.
+
+(m). cupa re;ju;g;gq;fspy; nfhLf;fy;thq;fy;fspy; epiwT ngw;Ws;s kl;lq;fisj; jPu;khdpg;gjw;F gpd;gw;wpa Kiwik cl;gl tUkjpfis ,dq;fhz;gjw;F gpd;gw;wpa fzf;fPl;Lf; nfhs;if> kw;Wk; (M). Fiwe;jgl;rk; gpd;tUtdtw;wpypUe;J fpilf;fg;ngw;w tUkhdq;fis Ntwhff; fhl;b cupa fhyg;gFjpapDs; ,dq;fhzg;gl;l tpj;jpahrq;fspd; %ykhd tUkhdj;jpd; ngWkjp.
+
+i. nghUl;fs; tpw;gid
+
+ii. Nrit toq;Fjy;
+
+iii. tl;b
+
+iv. juFg; gzk;> kw;Wk;
+
+v. Vida Fwpg;gplj;jf;f tUkhd tiffs;.
+
+33A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+225. gpuNjr rigahdJ epu;khz xg;ge;jq;fspdJ tUkhdk; njhlu;ghf fPo; tUk; tplaq;fis ntspg; gLj;Jjy; Ntz;Lk;.
+
+(i). cupa fhyg;gFjpapDs; tUkjpahf ,dq;fhzg;gl;l xg;ge;jj;jpd; %ykhd tUkhdj;jpd; ngWkjp.
+
+(ii). cupa fhyg;gFjpapDs; ,dq;fhzg;gl;l xg;ge;jj;jpd; %ykhd tUkhdj;ij KbTnra;Ak; nghOJ gad;gLj;jpa Kiwik> kw;Wk;
+
+(iii). jw;NghJ nraw;gLj;jg;gl;Lf; nfhz;bUf;Fk; xg;ge;jq;fspd; epiwTf; fl;lj;ij jPu;khdpg;gjw;fhf gad;gLj;jpa Kiwik.
+
+226. gpuNjr rigahdJ gpd;tUtdtw;iwr; rku;g;gpj;jy; Ntz;Lk;.
+
+(i). xg;ge;jg; gzpfSf;fhf thbf;ifahsuplkpUe;J fpilf;fg; ngwNtz;ba nkhj;jg; ngWkjp nrhj;jhfTk;> kw;Wk;
+
+(ii). xg;ge;jg; gzpfSf;fhf thbf;ifahsUf;F nrYj;jg;gl Ntz;ba nkhj;jg; ngWkjp nghWg;ghfTk;.
+
+227. gpuNjr rigahdJ gpd;tUtdtw;iw nghJthf ntspg;gLj;Jjy; Ntz;Lk;.
+
+(i). nfhLf;fy;thq;fy;fspd; tiffspd; gpufhuk; nghUj;jkhd gFg;gha;Tld; gupkhw;w nfhLf;fy; thq;fy;fspdJ ,dq;fhzg;gl;l tUkhdj;jpd; ngWkjp> (ii). gupkhw;w nfhLfy;thq;fy;fspdJ mwtpl Kbahj fpilf;fg;ngw Ntz;baitfspd; Nkyjpfj;jpd; my;yJ Fiwghl;bd; ,dq;fhzg;gl;l ngWkjp> (iii). fpilf;fg;ngw Ntz;ba nkhj;jg; ngWkjp kw;Wk; mwtpl Kbahj fpilf;fg;ngw Ntz;bait fSf;fhf mDkjpf;fg;gl;Ls;s msit gFg;gha;Tld; mwpf;ifaplg;gLk; jpdj;jpy; gupkhw;w nfhLf;fy; thq;fy;fspdhy; fpilf;fg;ngw Ntz;bait vd ,dq;fhzg;gl;l ngWkjp> (iv). cupa fhyg;gFjpapd; Muk;gj;jpy; xJf;fpitf;fg;gl;l mstpd; ngWkjp Nkyjpfk; my;yJ FiwghLldhdJ vd ,dq;fhzg;gl;ljd; ngWkjp kw;Wk;> mwpf;ifaplg;gLk; jpdj;jpy; xJf;fp itf;fg;gl;ljd; msT cs;slq;fyhf mwpf;ifaplg;gLk; fhyg;gFjpapDs; gupkhw;w nfhLf;fy; thq;fy;fspd; %ykhf mwtplg;gl Kbahj fpilf;fg;ngw Ntz;baitfSf;fhf xJf;fpitf;fg; gl;l tUkjp kw;Wk; nry;kjp vd;gdtw;wpd; gFg;gha;T. (v). mwpf;ifaplg;gLk; jpdj;jpy; gupkhw;w nfhLf;fy; thq;fy;fspdhy; fpilf;fg;ngw Ntz;bait fspd; nkhj;jg; ngWkjpapd; fhyg;gFjpapy; gFg;gha;T> kw;Wk; (vi). mwtplg;gl Kbahik vd;gij mq;fPfupj;j mjpfhu rig kw;Wk; cupa fhyg;gFjpapDs; mwtplg;gl Kbahjnjd gupkhw;w nfhLf;fy; thq;fy;fspdJ fpilf;fg;ngw Ntz;baitfspy; gjptopf;fg;gl;litfspd; ngWkjp. 228. Vida mj;jpahaq;fspd; %yk; cs;thq;fg;gLk; me;j xJf;fPLfisj; jtpu ,e;j xOq;F tpjpapd; rfy xJf;fPLfis (mjhtJ> epr;rakw;w fhyf;nfL my;yJ ngWkjpfspd; nghWg;G) eilKiwg;gLj;j Kbahj nghWg;G kw;Wk; Gydhfhj nrhj;Jf;fs; vd nghUs;gLk;. mtw;wpw;F fPo; fhl;lg;gl;Ls;stw;Wld; njhlu;Gila Vw;ghLfs; cs;slf;fg;gLk;.
+
+(i). Fj;jif (ii). epu;khz xg;ge;jk; (iii). Copau; gad;fs; %ykhd gpizg;Gf;fs;> kw;Wk; (iv). tUkhd tup.
+
+34A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+229. gpuNjr rigahdJ xJf;fPLfis ,dq;fz;Lnfhs;s Ntz;baJ gpd;tUk; re;ju;g;gj;jpy; khj;jpuNkahFk;>
+
+(m) fle;j fhy epfo;nthd;wpd; tpisthf mwpf;ifaplg;gLk; jpdj;jpy; gpuNjr rigf;Fg; gpizg;Gf;fs; ,Ug;gpd;>
+
+(M) jPu;f;fg;gLk; nghOJ gpuNjr rigf;F nghUshjhu ed;ikfis toq;Fjtw;F Njitg;gLnkd vjpu;ghu;f;fg;gl KbAnkdpd; (mjhtJ> eilngwhikia tpl eilngwf;$ba)>
+
+(,) nghWg;Gf;fspd; ngWkjp ek;gfj;jd;ikAld; kjpg;gplf; $bajhf ,Uj;jy;.
+
+230. ifapUg;gpYs;s Mjdk;> ,ae;jpuk; kw;Wk; cgfuzk; Nghd;w nrhj;Jf;fspd; nryTfspd; gFjpahf nryit ,dq;fhz;gjw;F ,e;j xOq;F tpjpapy; NtW tpjpfspdhy; mtrpag;gLj;jg;gLkhdhy; gpuNjr rigapdhy; xJf;fPLfis nghWg;nghd;whf nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; ,dq;fz;L xJf;fPLfspd; ngWkjpia nrynthd;whf ,dq;fhz Ntz;Lk;.
+
+mbg;gil mstPL
+
+231. mwpf;ifaplg;gLk; jpfjpapy; nghWg;Gf;fis jPu;T nra;tjw;F Njitg;gLk; ngWkjpapd; rpwe;j kjpg;gPl;bw;fhf xJf;fPLfs; gpuNjr rigapdhy; mstplg;gly; Ntz;Lk;. rpwe;j kjpg;gPL vd;gJ mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; gpuNjr rigahdJ ju;f;fuPjpahf nghWg;Gf;fis jPu;T nra;tjw;fhf nrYj;jg;gLk; my;yJ mr;re;ju;g;gj;jpy; %d;whk; jug;gpdUf;F nghWg;gspf;fg;gLk; ngWkjpahFk;. (m) xJf;fPLfSf;F ngUksthd kf;fs; njhif vd;w tplak; rk;ge;jkhf nghUl;gLj;jg;gLk; nghOJ ngWkjpNahL rk;ge;jg;gl;l nray;ghLfspd; %ykhf epfof;$ba rfy ngWNgWfspd; Rikfis cl;gLj;Jtij gpujpgypg;gjhf mikAk;. njhlu;e;J Vw;w ,wf;fq;fs; epfOk;nghOJ kw;Wk; mt;thwhd Vw;w ,wf;fq;fspd; rfy mk;rq;fs; NtW vt;tifahd mt;thwhd tplaq;fs; epfOk; nghOJ Vw;w ,wf;fq;fs; mjd; ikag;Gs;spahf mikAk;.
+
+(M). jdpg;gl;l nghWg;nghd;wpdhy; xJf;fPLfs; cUthFk; nghOJ> mtw;iwj; jPu;g;gjw;F Njitg;gLk; rpwe;j kjpg;gPlhf miktJ ngUk;ghYk; rhj;jpakhd ngWNgwhFk;. vdpDk; mt;thwhd re;ju;g;gq;fspy; $l gpuNjr rigapdhy; NtW tifapy; epfoj;jf;f Vw;ghLfis ftdj;jpw; nfhs;s Ntz;Lk;. Vida epfoj;jf;f Vw;ghLfs; ngUk;ghYk; epfo;j;jg;glj;jf;f Vw;ghLfis tpl kpfTk; cau;thdJ my;yJ kpfTk; FiwthdJ vdpd;> rpwe;j kjpg;gPL vd;gJ ngUk;ghYk; epfoj;jg;glj;jf;f jdpahd nray;ghLfis tpl kpfTk; mjpfkhd my;yJ Fiwe;j ngWkjpahFk;.
+
+fhyq;fle;j mstpLjy;
+
+232. Muk;gj;jpNyNa ,dq;fhzg;gl;l xJf;fPLfSf;fhd nryTfis khj;jpuk; gpuNjr rigapdhy; xJf;fPL fSf;F vjpu;khwhf mwtplg;gly; Ntz;Lk;.
+
+233. xt;nthU mwpf;ifaplg;gLk; jpdj;jpw;Fkhd xJf;fPLfisAk; gpuNjr rigahdJ kjpg;gha;T nra;aNtz;L nkd;gNjhL me;j mwpf;ifaplg;gLk; jpdj;jpy; nghWg;Gf;fis jPu;g;gjw;F Njitg;gLk; ngWkjpapy; rpwe;j eilKiwapYs;s kjpg;gPl;il gpujpgypg;gjw;fhf mit rPu; nra;ag;gly; Ntz;Lk;. Mjdj;jpd; nrytpw;fhd gFjpahf xJf;fPl;Lfs; Muk;gj;jpy; ,dq;fhzg;gl;bUf;fhtpbd; Vw;fdNt ,dq;fhzg;gl;l ngWkjpfSf;fhd VJk; rPu; nra;jypd; Nkyjpfj;ijNah Fiwghl;ilNah ,dq;fhZjy; Ntz;Lk;.
+
+vjpu;ghuhj nghWg;Gf;fs;
+
+234. ‘vjpu;ghuhj nghWg;Gf;fs;’ vd;gJ Vw;gl rhj;jpaKs;s Mdhy; epr;rakw;w nghWg;G my;yJ 228 Mk;
+
+tpjpapd; (ii) kw;Wk; (iii) ,y; Fwpg;gplg;gl;Ls;s epge;jidfspy; xd;W my;yJ ,uz;ilAk; epiwNtw;wj; jtwpaikapdhy; ,dq;fhzg;glhj jw;Nghija nghWg;ghFk;. gpuNjr rigahdJ vjpu;ghuhj nghWg;nghd;iw> nghWg;ghf ,dq;fhzyhfhJ. nghWg;nghd;wpw;fhf gpuNjr rigahdJ $l;lhfth my;yJ jdpj;jdpahfNth nghWg;Gf; $w Ntz;ba re;ju;g;gj;jpy;> nghWg;gpd; gFjpnahd;iw kw;iwa jug;gpduhy; Vw;fg;gLnkd vjpu;ghu;f;fg;gLk; nghOJ vjpu;ghuhj nghWg;ngd fUjg;gLk;.
+
+35A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+Gydhfhj nrhj;Jf;fs;
+
+235. KOikahf gpuNjr rigapd; fl;Lg;ghl;by; xd;Nwh my;yJ mjw;F Nkw;gl;l epr;rakw;w vjpu;fhy epfo;Tfs; Vw;gl;lik my;yJ Vw;glhik vd;w tplakhf khj;jpuk; mjd; epiyg;ghl;il cWjpg;gLj;Jk; kw;Wk; fle;j fhy epfo;Tfspdhy; epfo;e;jjhf fUjg;gLk; nrhj;J Gydhfhj nrhj;jhFk;. gpuNjr rigapdhy; Gydhfhj nrhj;njhd;iw> nrhj;jhf ,dq;fhzg;glyhfhJ. vjpu;fhy nghUshjhu mD$yq;fs; %ykhf gpuNjr rigf;fhd epjp cl;gha;r;ryhdJ cz;ikahfNt epfof;$baJ vd;gJ cWjpahf ,Ug;gpd;> mt;thwhd nrhj;J Gydhfhj nrhj;jy;y> kw;Wk; mjid ,dq;fhz;gJ nghUj;jkhFk;.
+
+xJf;fPLfs; njhlu;ghd ntspg;gLj;jy;fs;
+
+236. xt;nthU tplaq;fSf;fhd xJf;fPLfSf;fhf gpuNjr rigahdJ fPo; tUtdtw;iw ntspg;gLj;Jjy; Ntz;Lk;.
+
+i. gpd;tUtdtw;iwf; fhl;b xg;gpLtjd; %yk;> m. cupa fhyg;gFjpapd; Muk;gj;jpy; kw;Wk; ,WjpapYs;s rkfhy kjpg;G.
+
+M. cupa fhyg;gFjpapDs; jpul;lg;gl;lit.
+
+,. cupa fhyg;gFjpapDs; xJf;fPLfSf;F vjpupilahf mwtplg;gl;l ngWkjp.
+
+<. cupa fhyg;gFjpapDs; gupkhw;wg;gl;l gad;gLj;jg;glhjtw;wpd; ngWkjp.
+
+ii. nghWg;gpd; jd;ik kw;Wk; mjd; tpisthd VJk; nfhLg;gdTfs; kw;Wk; vjpu;ghu;f;fg;gl;l ngWkjp gw;wpa RUf;fkhd tpsf;fk;. iii. mt;thwhd epjp ntspg;gha;r;ry;fspd; ngWkjp kw;Wk; nrYj;jg;gl Ntz;ba fhyg; gFjpapd; epr;rakw;w jd;ik gw;wpa ntspg;ghLfs;> kw;Wk; iv. vjpu;ghu;f;fg;gLk; mt;thwhd kPsspg;Gf;fhfTk; ,dq;fhzg;gl;l VNjDk; nrhj;njhd;wpd; ngWkjpiaf; Fwpg;gpl;L> vjpu;ghu;f;fg;gLk; VJk; kPsspg;gpd; ngWkjp.
+
+vt;thwhapDk; Kd;ida fhyg;gFjpf;fhd xg;gPl;L uPjpapyhd jfty;fs; mtrpakw;witahFk;.
+
+vjpu;ghuhj nghWg;Gf;fs; njhlu;ghf ntspg;gLj;jy;
+
+237. jPu;T nra;Ak; nghOJ tsq;fspy; VJk; epjp ntspg;gha;r;ry; Vw;gLk; vd vjpu;ghu;f;fg;gl;lhNy jtpu> mwpf;ifaplg;gLk; jpdj;jpy; xt;nthU tplaj;jpdJk; vjpu;ghuhj nghWg;Gf;fhfTk;> vjpu;ghuhj nghWg;gpd; jd;ik gw;wpa RUf;fkhd tpsf;fj;ijAk; vt;thwhd re;ju;g;gj;jpy; rhj;jpahkhFk; vd;gijAk; gpuNjr rigahdJ ntspg;gLj;Jjy; Ntz;Lk;.
+
+i. mjd; epjp jhf;fk; nrYj;Jk; kjpg;gPLfs;.
+
+ii. VNjDk; epjp ntspg;gha;r;rypd; msT kw;Wk; nrYj;jg;gl Ntz;ba fhy vy;iy rk;ge;jkhd epr;rakw;w jd;ikapd; ntspg;gLj;jy;. iii. VJk; kPsspg;G nra;af;$bait vd.
+
+mt;thW Nkw;nfhs;tjw;fhd rfy epahakhd Kaw;rpfisAk; Nkw;nfhz;ljd; gpd;du;> ,q;Fs;s xd;Nwh my;yJ mjw;F Nkw;gl;l vz;zpf;ifapyhd ntspg;ghLfis Nkw;nfhs;s Kbahky; NghFkplj;J> me;j tplaj;ij ntspg;gLj;Jjy; Ntz;Lk;.
+
+36A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+Gydhfhj nrhj;Jf;fs; njhlu;ghf ntspg;gLj;Jjy;
+
+238. nghUshjhu eyd;fspd; cl;gha;r;riy vjpu;ghu;f;f KbAnkdpd; (eilngwhikia tpl eilngw rhj;jpKs;s) Mdhy; cz;ikahfNt epiyaw;wnjdpd;> (mjd; fhuzkhf ,dq;fhzg;glhj) mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; Gydhfhj nrhj;Jf;fspd; jd;ikapd; tpguq;fs;> epahakw;w nryTfs; my;yJ Kaw;rpfs; ,y;yhj eilKiwahf ,Uf;Fk; gl;rj;jpy; mtw;wpd; epjp jhf;fj;jpd; kjpg;gPl;il gpuNjr rigahdJ ntspg;gLj;Jjy; Ntz;Lk;. mt;thW nra;tjw;F ,ad;w epahakhd Kaw;rpfis Nkw;nfhz;ljd; gpd;du; ,e;j ntspg;gLj;jiy gpuNjr rigapdhy; Nkw;nfhs;s KbahJ tpbd; me;j tplaq;fs; Fwpg;gplg;gLjy; Ntz;Lk;.
+
+fld; ngWtjw;fhd nryTj; njhif
+
+239. fld; ngWtjw;fhd nryTj; njhif vd;gJ epjpia fld; njhifahf ngWk;NghJ gpuNjr rigapdhy; nrYj;jg;gl Ntz;ba tl;b kw;Wk; Vida nryTfshFk;.
+
+,dq;fhzy;
+
+240. gpuNjr rigapdhy; rfy fld; ngWtjw;fhd nryTfisAk; mjid Vw;Fk; fhyg;gFjpapd; Nkyjpfk; my;yJ Fiwghl;bd; nrynthd;whf ,dq;fhzg;gly; Ntz;Lk;.
+
+241. mwpf;ifaplg;gLk; fhyg;gFjpapDs; ,dq;fhzg;gl;l nkhj;j tl;b nryTfisAk; gpuNjr rig milahsk; fhZjy; Ntz;Lk;.
+
+ntspehl;L ehzag; gupkhw;wk;
+
+242. gpuNjr rigapdJ epjpf; $w;wpy;> vOj;J %ykhd rl;lj;jpy; mDkjpf;fg;gl;l mstpw;F ntspehl;L ehza nfhLf;fy; thq;fy;fis cs;slf;f Ntz;ba Kiwik gpd;tUkhW mikjy; Ntz;Lk;.
+
+ntspehl;L ehzag; gupkhw;wj;ij mwpf;ifaply;
+
+243. ‘ntspehl;L ehzag; gupkhw;wk;’ vd;gJ gpuNjr rigapdhy; Nkw;nfhs;sg;gLk; fPo;tUk; nfhLf;fy; thq;fy;fspdhy; Vw;gLgit cl;gl ntspehl;L ehzaj;jpy; ngauplg;gl;l my;yJ nrYj;jp Kbf;fg;gl Ntz;ba nfhLf;fy; thq;fy;fshFk;.
+
+(i). ntspehl;L ehzaj;jpy; tpiy Fwpf;fg;gl;l Nritnahd;W my;yJ nghUs; nfhs;tdT my;yJ tpw;gid.
+
+(ii). ntspehl;L ehzaj;jpy; tpiy Fwpf;fg;gl;l nrYj;jg;glNtz;ba my;yJ fpilf;fg;ngw Ntz;ba ngWkjpfspd; fld;ngWif my;yJ fld; toq;fs;.
+
+(iii). ntspehl;L ehzaj;jpy; tpiy Fwpf;fg;gl;l nrhj;J gwpKjy; nra;jy; my;yJ tpLtpj;jy;> nghWg;Ngw;wy; my;yJ jPu;j;J itj;jy;. 244. nfhLf;fy; thq;fy; ,lk;ngw;w jpdj;jpd; Njrpa ehzak; kw;Wk; ntspehl;L ehzak; Mfpatw;wpw; fpilapy; rkfhy ntspehl;L ehza ngWkjpf;F gzkhf;fp mbg;gil ,dq;fhzypd; NghJ ntspehl;L ehzaj;jpd; ngWkjpia Njrpa ehzaj;jpd; ngWkjpf;F gpuNjr rigahdJ ,dq;fhz Ntz;Lk;.
+
+245. nfhLf;fy; thq;fypd; jpdnkd;gJ> ,e;j ntspehl;L ehza nfhLf;fy; thq;fy;fis mwpf;ifapLtjw;F cupa tpjpfspd; gpufhuk; nfhLf;fy; thq;fiy ,dq;fhz;gjw;fhf Kjypy; jFjpngWk; jpdkhFk;. eilKiw fhuzq;fSf;fhf ngUk;ghYk; nfhLf;fy; thq;fy; eilngw;w jpdj;jpd; cz;ikahd tpfpjj;jpw;F fpl;ba tpfpjj;ij gad;gLj;Jjy; Ntz;Lk;.
+
+i. xt;nthU ntspehl;L ehzaj;jpw;fhfTk; xU thuj;jpd; my;yJ xU khjj;jpd; rhjhuzkhd tpfpjj;ij me;j fhyg;gFjpapDs; Nkw;nfhs;Sk; rfy nfhLf;fy; thq;fy;fSf;Fk; gad;gLj;j KbAk;> my;yJ
+
+ii. nfhLf;fy; thq;fy; ,lk;ngw;w jpfjp Kjy; FWfpa fhyj;jpDs; nfhLg;gdTfis nrYj;jp Kbf;fg;gLkhdhy;> mt;tplaj;jpy; fpilf;fg;ngw Ntz;baitfs; my;yJ nrYj;jg;gl Ntz;baitfis nrYj;jp Kbf;ff; $ba tpfpjq;fis gad;gLj;j KbAk;.
+
+37A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+vjpu;tUk; mwpf;ifaplg;gLk; fhyg;gFjpapy; ,Wjp mwpf;ifaply;
+
+246. mwpf;ifaplg;gLk; xt;nthU fhyg;gFjpapd; ,WjpapYk; gpuNjr rigapdhy;> i. ,Wjpahd tpfpjhrhuj;ij gad;gLj;jp rfy ntspehl;L ehza epjpahf gupkhw;wk; nra;jy;> kw;Wk;
+
+ii. nfhLf;fy; thq;fy; eilngw;w jpdj;jpd; ntspehl;L ehza khw;W tpfpjj;ij gad;gLj;jp epjpay;yhj tplaq;fis gupkhw;wk; nra;jy;. 247. epjp tplaq;fis jPu;f;Fk; nghOJ my;yJ Vw;fdNt gupkhw;wk; nra;j tpfpjhrhuj;j tpl NtW tifahd tpfpjhrhuj;jpy; epjp tplaj;ij gupkhw;Wk; nghOJ vOk; nryhtzp khw;wj;ij mJ epfo;e;j fhyg;gFjpapd; Nkyjpfj;ij my;yJ Fiwghl;il gpuNjr rigahdJ ,dq;fhz Ntz;Lk;. njhlu;Gila jug;gpdiu ntspg;gLj;Jjy;
+
+248. gpuNjr rigahdJ mjd; epjp mwpf;iffspy; njhlu;Gila jug;gpdUldhd nfhLf;fy; thq;fy;fs; kw;Wk; mt;thwhd jug;gpdNuhLs;s epYitj; njhiffs; rk;ge;jkhfTk; Njitf;Nfw;wthW ntspg;gLj;jy;fis Nkw;nfhs;s Ntz;Lk;.
+
+njhlu;Gila jug;gpdu; vd;gjd; tiutpyf;fzk;
+
+249. xU jug;gpdUf;F (m) kw;iwa jug;gpdiu fl;Lg;gLj;Jtjw;Nfh (M) epjp kw;Wk; nraw;ghl;L jPu;khdq;fis vLf;Fk; NghJ kw;iwa jug;gpdu; kPJ fzprkhdsT nry;thif nrYj;Jtjw;Nfh KbAnkdpd; Fwpj;j jug;gpdu; ,e;j tplaj;Jld; njhlu;Gila jug;gpdu; vdf; fUjg;gLjy; Ntz;Lk;.
+
+250. njhlu;Gila jug;gpdUf;F cs;slf;fg;gLNthu;>
+
+(i). gpujhd Kfhikj;Jtj;jpd; Mszpapdu; kw;Wk; gpujhd Kfhikj;Jtj;jpd; neUq;fpa FLk;g cWg;gpdu;fs;.
+
+(ii). (m) tpy; tpgupf;fg;gl;l vtNuDnkhU egupdhy; NeubahfNth kiwKfkhfNth fzprkhd cupikiaf; nfhz;l jug;gpdNuh my;yJ mjd;kPJ fzprkhd nry;thf;if gpuNahfpf;fj;jf;f egu;fs;.
+
+(iii). mwpf;ifaplg;gLk; gpuNjr rigf;F fl;Lg;gLk; my;yJ mjd;kPJ Fwpg;gplj;jf;f nry;thf;iff; nfhz;Ls;s jug;gpdu;.
+
+251. gpujhd Kfhikj;Jtj;jpd; Mszpapdu; vd;Nghu;>
+
+(i). gpuNjr rigapd; rfy rig cWg;gpdu;fs;.
+
+(ii). gpuNjr rigapd; jpl;lkply;> nraw;gLj;Jjy; kw;Wk; Kfhikj;Jtk; nra;jy; Nghd;w nraw;ghLfSf;fhd mjpfhuk; kw;Wk; nghWg;Gs;s Vida Mszpapdu;> kw;Wk;
+
+(iii). gpuNjr rigapd; nrayhsu; kw;Wk; re;ju;g;gj;jpw;Nfw;wthW mjd; xt;nthU gpupTj; jittu;fs;.
+
+252. jdpegnuhUtupd; FLk;gj;jpy; neUq;fpa mq;fj;jtu;fs; vd fPo;f; Fwpg;gplg;gLgtu;fs; fUjg;gLtu;.
+
+(i). tho;f;ifj; Jiz> tPl;Lg; gq;Fjhuu; my;yJ nghJthd FbapUg;ghsu;fshf thOk; cwtpdu;fs;.
+
+(ii). iff;Foe;ijfs;> Nguf;Foe;ijfs;> ngw;Nwhu;> FLk;gj;jpd; %j;j mq;fj;jtu;fs;> rNfhju rNfhjupfs;> kw;Wk;
+
+(iii). tho;f;ifj; Jizapd; my;yJ tPl;Lg; gq;fhspapd; Foe;ijfs;> khkdhu;> khkpahu;> kUkfd; kw;Wk; kUkfs; MfpNahu;.
+
+38A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+epu;thfk; kw;Wk; fl;Lg;gLj;Jjy; njhlu;Gfis ntspg;gLj;Jjy;
+
+253. njhlu;Gila jug;gpdUld; nfhLf;fy; thq;fy; ,Ue;jjh ,y;iyah vd;gijg; gw;wp fUj;jpw; nfhs;shJ Jizf; fk;gdp kw;Wk; mjd; fl;Lg;ghl;L fk;gdpAldhd njhlu;gpid ntspg;gLj;Jjy; Ntz;Lk;.
+
+njhlu;Gila jug;gpdupd; nfhLf;fy;thq;fy;fis ntspg;gLj;Jjy; 254. gpuNjr rigAld; njhlu;Gila jug;gpdUld; nfhLf;fy;thq;fy;fs; ,Ug;gpd;> njhlu;Gila jug;gpdupd; njhlu;gpd; jd;ikia kw;Wk; nfhLf;fy;thq;fy; njhlu;ghd jfty;fs;> epYit kPjpfs; kw;Wk; gpizg;Gf;fs;> epjpf; $w;wpd; gpufhuk; njhlu;Gfs; Nghd;w rhj;jpakhd jhf;fj;ij Gupe;J nfhs;tjw;Fj; Njitahd tpguq;fis ntspg;gLj;Jjy; Ntz;Lk;.
+
+255. mit> njhlu;Gila jug;gpdUld; vd;why;> ntspg;gLj;jg;glNtz;ba nfhLf;fy;thq;fy;fs; gpd;tUk; Kiwapy; mikjy; Ntz;Lk;.
+
+(i) nghUl;fis nfhs;tdT nra;jy; my;yJ tpw;gid nra;jy; (G+u;j;jpahd my;yJ G+u;j;jpahfhj). (ii) Mjdq;fs; kw;Wk; gpw nrhj;Jf;fspd; nfhs;tdT.
+
+(iii) Fj;jif.
+
+(iv) Muha;r;rp kw;Wk; mgptpUj;jp nghWg;gspj;jy;.
+
+(v) epjp tplaq;fspy; cld;ghLfspd; fPo; nghWg;gspj;jy; (fld;fs; kw;Wk; gzk; my;yJ nghUl;fs; cl;gl;l ifapUg;Gf;fspy; gq;fspg;G).
+
+(vi) cj;juthjq;fs; my;yJ Nkyjpf cj;juthjq;fSf;fhd Vw;ghLfs;> kw;Wk;
+
+(vii) gpuNjr rigapd; rhu;ghf nghWg;G my;yJ Vida jug;gpdu; rhu;ghf gpuNjr rigapdhy; nrYj;jp Kbj;jy;. 256. mt;thwhd tplaq;fis cWjpg;gLj;j KbAnkd;whNy jtpu> iff;nfl;ba J}uj;jpy; ,lk;ngWk; nfhLf;fy;thq;fy;fSf;Fr; rkdhd ntspg;ghLfspd; mbg;gilapy; njhlu;Gila jug;gpdupd; nfhLf;fy;thq;fy;fs; ,lk;ngw;wjhf gpuNjr rigahdJ Kd;itj;jyhfhJ.
+
+257. gpuNjr rigapd; epjpf; $w;wpd; gpufhuk; njhlu;Gila jug;gpdupd; jiyaPL njhlu;ghd njspitg; ngw;Wf;nfhs;tjw;F jdpahd ntspg;gLj;jy; Njitg;gl;lhNyad;wp mJ Nghd;w jd;ikAs;s tplaq;fis gpuNjr rigahdJ $l;lhf ntspg;gLj;Jjy; Ntz;Lk;.
+
+Vida nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; fpilf;fg;ngw Ntz;baitfs;
+
+258. cupa rl;lk; kw;Wk; Jiz tpjpfspd; gpufhuk; fpilf;fg;ngw Ntz;baitfspd; ngWkjp gupkhw;wk; nra;ahj nfhLf;fy;thq;fy;fspypUe;J fpilf;fg;ngw Ntz;baitfis gpuNjr rigahdJ Kjypy; fz;lwpe;J fzpg;gpl Ntz;baJ kjpg;gPl;Lj; njhifapyhFk;.
+
+259. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; fpilf;fg;ngw Ntz;baitfspd; ngWkjpia mwtpl;Lf;nfhs;s KbAkh vd;gij gpuNjr rigahdJ Muha;e;J KbT nra;jy; Ntz;Lk;. 260. fpilf;fg;ngw Ntz;baitfs; vd ,dq;fhzg;gLk; njhiffspy; vt;tsT njhifia mwtpl;Lf;nfhs;s KbAnkd;gij kjpg;gPL nra;tjw;fhf> mwpf;ifaplg;gLk; jpfjpapy; ngwg;gl Ntz;baitfspd; ngWkjpfis gpuNjr rig Muha;jy; Ntz;Lk;. ,og;gPLfSf;fhf <Lnra;jiy ,dq;fz;L mwtplg;gl KbAkhd ngWkjpia nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; ngwg;gl Ntz;baitfs; fzf;fplg;gly; Ntz;Lk;. mwpf;ifaplg;gLk; jpfjpay; ,og;gPLfspd; rkfhy ngWkjpapd; NtWghl;il> fpilf;fg;ngw Ntz;baitfspd; ,og;Gf;fshf Nkyjpfj; njhifapy; my;yJ Fiwghl;by; ,dq;fhzg;gLjy; Ntz;Lk;.
+
+39A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+gl;bayplg;gl;l epWtdq;fspd; gq;Ffs;
+
+261. cupa gq;F gupkhw;wk; Kiwahf mwpf;ifaplg;gLk; fhyg;gFjp Kbtiltjw;F Kd;du; ntspg;gLj;jg;gLk; tpahghuq;fspd; xUq;fpizj;j nkhj;j njhif tpiy epu;zaq;fSf;F Vw;g gq;Fg; gupkhw;wj;jpy; nfhLf;fy;thq;fy; nra;ag;gLk; gq;Ffs; mstplg;gly; Ntz;Lk;.
+
+262. gq;Fg; gupkhw;wj;jpy; gl;bayplg;gl;l gq;fpd; nfhLf;fy;thq;fy;fs; mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; me;j gwpkhw;wj;jpd; nfhLf;fy;thq;fy;fs; ,ilepWj;jg;gl;bUg;gpd;> nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; me;j gq;fpid mj;jpfjpapy; mjpfk; vjpu;ghu;f;fj;jf;f ngWkjpapy; mstplg;gly; Ntz;Lk;.
+
+Vida epWtdq;fspd; gq;Ffs;
+
+263. gq;F epWtdnkhd;wpd; tpiy Nkw;Nfhs; fhl;lg;glhj epWtdq;fspd; gq;Ffs; nryTfs; my;yJ Njwpa nrhj;jpd; kjpg;G Mfpatw;wpy; Fiwe;j ngWkjpf;F mstply; Ntz;Lk;. gq;Ffspd; Njwpa nrhj;jpd; kjpg;G ngw;Wf;nfhs;s Ntz;baJ Fwpj;j gpuNjr rigapd; nghJ Nehf;fq;fSf;fhd epjpf; $w;wpd; mbg;gilapyhFk;. nrYj;jg;glNtz;ba fld;fs;
+
+264. gpuNjr rigapdhy; nrYj;jg;gl Ntz;ba fld;fis fzpg;gpl Ntz;baJ jpUg;gpr; nrYj;j Ntz;ba ngWkjpf;fhfthFk;. 265. fld; njhifnahd;iw jpUg;gpr; nrYj;j Ntz;baJ mwpf;ifaplg;gLk; jpdj;jpypUe;J xU tUlj;jpw;F gpd;duhapd;> mJ eilKiway;yhj nghWg;ghf tifg;gLj;jy; Ntz;Lk;. mwpf;ifaplg;gLk; jpdj;jpy; xU tUlj;jpw;Fk; Fiwthd fld; njhif eilKiwg; nghWg;ghf tifg;gLj;jy; Ntz;Lk;.
+
+266. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjptiuf;Fk; nrYj;jg;glhj xd;WNru;e;j tl;b tPjj;ij nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; nghWg;ghf ,dq;fhzy; Ntz;Lk;. nrYj;jg;gl Ntz;baitfs;
+
+267. gpuNjr rigapdhy; nrYj;jg;gl Ntz;baitfis Kjyhtjhf nfhLf;fy;thq;fy; tpiyapy; fzpj;J ,dq;fhzy; Ntz;Lk;.
+
+268. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; kpFjpahfTs;s nrYj;jg;gl Ntz;baitfspd; ngWkjpia nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; nghWg;ghf ,dq;fhzg;gly; Ntz;Lk;.
+
+Nkyjpfk; my;yJ Fiwghl;bd; kPjhd tup 269. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjp tiuf;Fk; mjd; Nkyjpfj;jpd; my;yJ Fiwghl;bd; kPJ cupa ahg;gpd; gpufhuk; fzf;fplg;gl;L nrYj;jg;gl Ntz;ba ngWkjpia> nrYj;jg;gl Ntz;ba tupahf gpuNjr rigapdhy; ,dq;fhzg;gly; Ntz;Lk;. ntspg;gLj;Jjy;
+
+270. gpuNjr rigapdhy; gupkhw;wk; nra;ag;glhj nfhLf;fy; thq;fy;fspdhy; kw;Wk; gupkhw;w nfhLf;fy; thq;fy;fspdhy; fpilf;fg;ngw Ntz;baitfs; rk;ge;jkhf fPo; tUtdtw;iw jdpj;jdpahf ntspg;gLj;Jjy; Ntz;Lk;.
+
+(i). fpilf;fg;ngw Ntz;baitfspd; nkhj;jg; ngWkjpfspd; kw;Wk; mwtplg;gl Kbahj fpilf;fg;ngw Ntz;batitfSf;fhd <Lnra;jy; gFg;gha;Tld; mwpf;ifaplg;gLk; jpdj;jpy; fpilf;fg;ngw Ntz;baitfnsdf; fz;lwpag;gl;l Njwpa ngWkjp>
+
+40A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+(ii). fhyg;gFjpapd; njhlf;fj;jpy; <Lnra;jy; ngWkjp> Nkyjpfj;jpy; my;yJ Fiwghl;by; ,dq;fhzg;gl;l ngWkjp kw;Wk; mwpf;ifaplg;gLk; jpdj;jpd; ,Wjp <Lnra;jy; cl;gl> mwpf;ifaplg;gLk; fhyg;gFjpapDs; mwtplg;gl Kbahj fpilf;fg;ngw Ntz;baitfSf;fhf <Lnra;jy; Vw;w ,wf;fj;jpd; gFg;gha;T.
+
+(iii). mwpf;ifaplg;gLk; jpdj;jpy; fpilf;fg;ngw Ntz;ba ngWkjpfspd; fhyg;gFjpf;fhd gFg;gha;T> kw;Wk;
+
+(iv). fhyg;gFjpapDs; mwtplg;gl KbahjJ vd xJf;fg;gl;l VJk; ngWkjp kw;Wk; mt;thW xJf;Ftjw;F mDkjpaspj;j mjpfhu myF.
+
+Nrit nray;jpwd; jfty;fis mwpf;ifapLjy; tplak;
+
+271. epjpf; $w;Wf;fspy; Nrit nray;jpwd; jfty;fis mwpf;ifapLtJ ,e;j xOq;F tpjpapd; fPo; Fwpg;gplg;gLs;s Vw;ghLfSf;F mikthf ,Uj;jy; Ntz;Lk;. 272. ,e;j tpjpfspd; gpufhuk; Nrit nrayhw;Wif jfty;fis mwpf;ifapLtjDhlhf rpwe;j guPl;rak; ntspf;fhl;lg;gLfpd;wJ. epjpf; $w;Wf;fs; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiw fzf;fPl;L epakq;fSf;F mika jahupf;fg;gl;Ls;snjd cWjpahf Fwpg;gpLtjw;F ,e;j tpjpfSld; Nenuhj;Jr; nry;y Ntz;Lnkd;gJ mtrpaky;y. 273. Nrit nrayhw;Wif jfty;fs; ,e;j tpjpfspd; midj;J Nfhl;ghLfSlDk; ,zq;fpdhNy jtpu mit ,e;j tpjpfSld; ,zq;fpr; nry;tjhf tpgupj;jy; MfhJ. Nrit nrayhw;Wif $w;W
+
+274. ,e;j tpjpfspd; gpufhuk; Nrit tpidj;jpwd; jfy;fis mwpf;ifapLk; gpuNjr rigahdJ ,e;j tpjpfspd; fPo; Muk;gj;jpy; Fwpg;gplg;gl;Ls;s epjpf; $w;Wf;fis rku;g;gpg;gjw;F Nkyjpfkhf Nrit nrayhw;Wif $w;nwhd;iw rku;g;gpj;jy; Ntz;Lk;. Nrit nrayhw;Wif jfty;fs;
+
+275. Nrit nrayhw;Wif $w;wpy; gpd;tUk; jfty;fis Kd;itj;jy; Ntz;Lk;. (i) Nrit nrayhw;Wifapd; Nehf;fq;fs; ;
+
+(ii) nrayhw;Wif Rl;bfs; ; kw;Wk;
+
+(iii) Nritfspd; nkhj;jr; nryT.
+
+276. nrayhw;Wif Rl;bfs; kw;Wk; Nritfspd; nkhj;jr; nryT njhlu;gpy; gpuNjr rigapdhy; gpd;tUk; jfty;fs; rku;g;gpf;fg;gLjy; Ntz;Lk;.
+
+(i) mwpf;ifaplg;gl;l fhyg; gFjpf;F jpl;lkplg;gl;l kw;Wk; cz;ikahd jfty;fs; ; kw;Wk;
+
+(ii) Kd;du; mwpf;ifaplg;gl;l fhyg; gFjpf;fhd cz;ikahd jfty;fs;. 277. epjpf; $w;Wf;fs; cs;slf;fg;gl;Ls;s NtW $w;Wf;fspy; my;yJ Fwpg;Gf;fspy; cs;s jfty;fs; Nrit nrayhw;Wif jfty;fs; cs;slf;fg;gLk; re;ju;g;gj;jpy; me;jj; jfty;fSf;fhd njhlu;nghd;W Nrit nrayhw;Wif $w;wpy; rku;g;gpf;fg;gly; Ntz;Lk;. tpupthd crhTif kw;Wk; gFg;gha;T 278. gpuNjr rigahdJ mjd; Nrit nrayhw;Wif jfty;fspd; kPJ tpupthd crhTif kw;Wk; gFg;gha;T xd;wpid rku;g;gpj;jy; Ntz;Lk;.
+
+41A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+279. Nritr; nrayhw;Wifj; jfty;fs; kPJ tpupthd crhTif kw;Wk; gFg;gha;tpd; NghJ gpuNjr rigapdhy; Nritr; nrayhw;Wifapd; RUf;fkhd tpsf;fnkhd;W toq;fg;gLjy; Ntz;Lk;.
+
+280. Nritr; nrayhw;Wifnahd;wpd; tpupthd crhTif kw;Wk; gFg;gha;tpd; %yk;>;
+
+(i) Nritr; nrayhw;Wif Nehf;fq;fis mile;J nfhz;l msitf; fye;JiuahLjy;.
+
+(ii) rku;g;gpf;fg;gl;l jfty;fspd; Neu;kiwahd kw;Wk; vjpu;kiwahd Njhw;wq;fs; ,uz;ilAk; tpopf;fpd;w gf;fr;rhu;gw;w tpsf;fnkhd;iw rku;g;gpj;jy;.
+
+(iii) gpuNjr rigapd; Nritr; nrayhw;Wifapd; tpidj;jpwd; kw;Wk; tpisj;jpwd; njhlu;gpy; guprPyid nra;gtu;fspd; kjpg;gPl;Lf;F trjpaspj;jy;.
+
+mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;du; epfOk; rk;gtq;fs; 281. ‘mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;duhd epfo;Tfs;’ vd;gJ mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpj; jpfjp kw;Wk; epjpf; $w;Wf;fis ntspapLtjw;F mDkjp toq;fg;gl;l jpfjpf;Fk; ,ilapy; epfOk; rk;gtq;fs; ‘mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;duhd epfo;Tfs;’ vd miof;fg;gLk;.
+
+,dk;fhzy; kw;Wk; mstpLjy; mwpf;ifaplg;gLk; fhyg;gFjpapd; gpd;du; nrk;ikahf;fg;gLk; epfo;Tfs;
+
+282. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; nrk;ikahf;fg;gLk; epfo;Tfs; ntspf;fhl;lg;gLtJld; njhlu;Gila ntspg;gLj;jy;fs; cl;gl gpuNjr rigapdhy; mjd; epjpf; $w;Wf;fspy; ,dk;fhzg;gl;l ngWkjpfs; rPuhf;fk; nra;ag;gly; Ntz;Lnkd;gNjhL> Kd;du; ,dk; fhzg;glhj tiffs; ,dk; fhzg;gly; Ntz;Lk;. mwpf;ifaplg;gLk; fhyg;gFjpf;Fg; gpd;du; rPuhf;fk; nra;ag;gLk; epfo;Tfshf fhyg;gFjpapd; ,Wjpapy; fhzg;gLk; epiyikfSf;F rhl;rpakhf cs;s epfo;TfshFk;. 283. ,q;F gpd;tUk; tplaq;fs; Nkw;gb tpjpapd; fPo; Fwpg;gplg;gl;Ls;s epfo;TfSf;F cjhuzq;fshff; nfhs;s KbAk;.
+
+(i) mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; nrhj;Jf;fs; Nrjkhf;fg;gl;Ls;sjhf my;yJ nrhj;njhd;Wf;F Kd;du; ,dk;fhzg;gl;l Nrj el;lj;ijr; rPuhf;fk; nra;a Ntz;Lnkd Rl;bf;fhl;b mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;du; jfty;fs; fpilf;fg;ngwy;> mjhtJ>
+
+m. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;du; thlif tPl;Llikahsu; xUtu; tq;FNuhj;J epiyia mile;jpUg;gJ rhjhuzkhf cWjpahtJ fpilf;f Ntz;ba thlif kPjhd mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; el;lnkhd;W cs;sjhf kw;Wk; fpilf;f Ntz;ba tPl;L thlif Nrjj;jpw;fhd foptpd; jf;fitg;Gg; ngWkjpiar; rPuhf;fk; nra;jy; Ntz;Lk; vdTk;; kw;Wk; M. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;F gpd;du; tpw;gid nra;ag;gl;l ifapUg;Gf;fspy; md;iwa jpdk; mwtpl KbAkhd ngWkjpia kjpg;gPL nra;Ak; Nehf;fj;jpw;fhf mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapy; mtw;wpd; tpw;gid tpiy njhlu;gpy; rhl;rpak; toq;f KbAk;.
+
+(ii) mwpf;ifaplg;gLk; fhyg;gFjp Kbtiltjw;F Kd;du; nfhs;tdT nra;ag;gl;l nrhj;Jf;fspd; nrytpdk; my;yJ tpw;gid nra;ag;gl;l nrhj;Jf;fspdhy; ngwg;gl;l njhifia mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; jPu;khdpj;jy;.
+
+42A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;du; rPuhf;fk; nra;ag;gl Kbahj epfo;Tfs;
+
+284. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; rPuhf;fk; nra;ag;glhj epfo;Tfis vLj;Jf;fhl;Ltjw;fhf mjd; epjpf; $w;Wf;fspy; ,dk; fhzg;gl;Ls;s ngWkjpfisr; rPuhf;fk; nra;jy; MfhJ. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; rPuhf;fk; nra;ag;glhj epfo;Tfshf mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpf;Fg; gpd;du; Njhw;wk; ngw;w epiyia vLj;Jf;fhl;Lk; epfo;TfshFk;. 285. mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; rPuhf;fk; nra;ag;glhj epfo;Tfshf mwpf;ifaplg;gLk; fhyg;gFjpapd; ,Wjpapd; gpd;du; epfo;e;j nts;sg; ngUf;F> jPapdhy; my;yJ NtW epfo;Tfspdhy; Vw;gl;l el;lq;fshff; fUjg;gLk;.
+
+ntspg;gLj;jy; tpepNahfpj;jy; kw;Wk; mDkjptoq;fg;gl;l jpfjp
+
+286. epjpf; $w;Wf;fis ntspapLtjw;F mDkjp toq;fg;gl;l jpfjp kw;Wk; me;j mDkjpia toq;fpatu; ahu; vd;gJ gw;wp gpuNjr rigapdhy; ntspg;gLj;jg;gly; Ntz;Lk;.
+
+V MtJ mj;jpahak;
+
+tupg;gzk; kw;Wk; Vida tupfs; kw;Wk; fl;lzq;fs;
+
+287. gpuNjr rigahdJ cs;@uhl;rp Mizahsupdhy; gzpf;fg;gLk; khjpupg; gbtj;jpw;F mikthd tupg;gz tupg; gjpNtnlhd;wpd; fPo; gpuNjr rigf;F tupg;gzk; nrYj;jNtz;ba midj;Jf; fl;blq;fs; kw;Wk; fhzpfs; njhlu;gpyhd jfty;fisg; NgzptUjy; Ntz;Lk;.
+
+i. gpuNjr rigapdhy; mbg;gilr; rl;lj;jpy; cs;sthW fl;lisaplg;gl;Ls;s mt;thW fl;lisaplg; gl;l fhyg; gFjpf;Fs; nrYj;jhj tupg;gzk; njhlu;gpy; me;j tupg;gzq;fis mwtpl;Lf; nfhs;Sk; fl;lzq;fis mwtpLtjw;fhd mDkjpg;gj;jpunkhd;iw toq;Fjy; Ntz;Lk;.
+
+ii. tpepNahfpf;fg;gl;l mDkjpg;gj;jpunkhd;W njhlu;gpy; rl;lj;jpy; Fwpg;gplg;gl;Ls;s eltbf;iffis mLj;JtUk; jtiz Kbtiltjw;F Kd;du; epiwTnra;J tupg;gzj; njhif kw;Wk; Nkyjpff; fl;lzq;fis mwtpl;Lf;nfhs;tjw;F nrayhsupdhy; KbAkhd midj;J eltbf;iffSk; vLf;fg;gly; Ntz;Lk;. iii. mDkjpg;gj;jpunkhd;wpd; fPo; Mjdnkhd;W jilnra;ag;gl;bUe;jhNy md;wp ve;jnthU re;ju;g;gj;jpYk; mwtpl Ntz;ba tupg;gzj; njhiff;F Nkyjpfkhf fl;lznkhd;iw mwtpLjy; $lhJ.
+
+iv. jilnra;ag;gl;Ls;s mirAk; nrhj;njhd;W Vyj;jpy; tplg;gLk; tiuapyhd fhyg;gFjpapy; ghJfhg;ghf NgzptuNtz;baJ nrhj;ijj; jilnra;tjw;Fg; gpbahiz %yk; mjpfhuk; mspf;fg;gl;l mjpfhupapd; flikahjy; Ntz;Lk;. jilnra;ag;gl;l Mjdk; gw;wpa jfty;fis %d;W gpujpfspy; jahupj;J mjpy; xU gpujpia nrayhsu; my;yJ tUkhdg; gpuptpd; gpujhd cj;jpNahfj;jupd; nghWg;gpy; itj;jpUj;jy; Ntz;Lk;.
+
+v. Mjdj;ijj; jilnra;Ak; nghUl;L mDkjpg;gj;jpuj;ij eilKiwg;gLj;jp Mjdj;ijj; jilnra;tjw;F mjpfhuk; mspf;fg;gl;l mjpfhupapdhy; mwtplg;gLk; tupg;gzj; njhiffs; kw;Wk; Nkyjpff; fl;lzq;fSf;fhf cupa gw;Wr;rPl;il tupg;gz tupf;F cl;gl;l Mspd; ngaupy; tpepNahfpj;jy; Ntz;Lk;. vi. Mjdj;ijj; jilnra;tjw;F eltbf;if vLj;J mwtplg;gLk; tupg;gzk; kw;Wk; vOjg;gl;l rl;lj;jpy; Fwpg;gplg;gl;L;s;sjd; gpufhuk; Nkyjpff; fl;lznkhd;iw itg;gpypl Ntz;Lnkd;gNjhL> Mjdj;ijj; jilnra;Ak; cj;jpNahfj;jupdhy; mjw;Fupa fzf;F itf;fg;gly; Ntz;Lk;.
+
+43A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+288. Mjdj;ijj; jilnra;Ak; nghUl;L cj;jpNahfj;jnuhUtUf;F toq;fg;gLk; mDkjpg;gj;jpuj;jpd; fPo; jd;dhy; vLf;fg;gl;l eltbf;iffs; njhlu;gpy; mwpf;ifnahd;iw mDkjpg;gj;jpuj;ij toq;Fk; cj;jpNahfj;juplk; rku;g;gpf;f Ntz;baJ cupa cj;jpNahfj;jupd; flikahFk;.
+
+289. Mjdj;ijj; jilnra;Ak; gzpf;fhf rigapd; epue;ju Nritahsu; xUtu; my;yhj xUtupd; Nrit ngw;Wf;nfhs;sg;gLkplj;J> mjw;fhf mtUf;Fr; nrYj;j Ntz;ba njhif gw;wpa tplaq;fs; rigf;Fk; cupa Nritia toq;FgtUf;Fk; mJ njhlu;gpy; Vw;gLj;jpf;nfhs;Sk; xg;ge;jj;jpd; gpufhuk; mikjy; Ntz;Lk;.
+
+290. Mjdj;ijj; jilnra;Ak; gzpf;fhf ntspahupd; cjtp ngw;Wf;nfhs;sg;gLkhapd; mJ njhlu;gpy; nghUj;jkhd gpizankhd;iw cupa jug;gpduplkpUe;J ngw;Wf;nfhs;tJ gpuNjr rigapd; gpuNjr Mizahsupd; flikahjy; Ntz;Lk;. Vf;fu; tup
+
+291. gpuNjr rigapdhy; Vf;fu; tup tpjpf;fg;gLkplj;J Vf;fu; tupf;F cl;gLk; Mjdk; gw;wpa gjpNtnlhd;W Ngzg;gly; Ntz;Lk;.
+
+292. gpuNjr rigapdhy; tpjpf;fg;gLk; Vf;fu; tupnahd;iwr; nrYj;jhj tplj;J mjid mwtpl;Lf; nfhs;tjw;fhf mDkjpg;gj;jpunkhd;iw eilKiwg;gLj;Jk; NghJk; ,e;j tpjpf;Nfhitapd; 287 Kjy; 290 tiuapyhd tpjpfs; re;ju;g;gj;jpw;F Vw;wthW Vw;GilajhFk;. 293. tupg;gzk; njhlu;gpy; kw;Wk; Vf;fu; tupAld; njhlu;Gila Mjdk; njhlu;gpy; Mjd rupghu;j;jy; %yk; ngsjPf khw;wq;fis cupa Kiwapy; ,dq;fz;L nraw;gl Ntz;baJ gpuNjr rigr; nrayhsupdJk; mjw;F Vw;Gilajhf mtuhy; mjw;nfd mjpfhuk; mspf;fg;gLk; cj;jpNahfj;ju;fspdJk; nghWg;ghjy; Ntz;Lk;. thfd kw;Wk; fhy;eil tup
+
+294. thfd kw;Wk; fhy;eil tupf;F Vw;Gila jfty;fs; midj;J tPl;L Kjy;tupd; %yKk; ngw;Wf; nfhs;sy; Ntz;Lk;. ngw;Wf;nfhz;l jfty;fspd; mbg;gilapy; gjpNtnlhd;iwg; Ngzptuy; Ntz;Lk;.
+
+295. thfd kw;Wk; fhy;eil tupia mwtpLk; NghJ mjw;Fupa gzpf;fhf Jiz tpjpnahd;W mKypy; ,Uf;Fkplj;J mjw;F ,izthd gzpfshff; fUjp Vw;Gila tupia mwtpLtjw;F eltbf;if vLj;jy; Ntz;Lk;. ifj;njhopy; tup kw;Wk; tpahghu tu;j;jf tup
+
+296. midj;J gpuNjr rig mjpfhug; gpuNjrj;jpw;Fk; ifj;njhopy; tup kw;Wk; tu;j;jf tpahghu tupf;F cl;gl;l Mjdq;fs; gw;wpa Ma;nthd;iw Nkw;nfhz;L mjw;Fupa gl;bay;fis Vw;Gila Mz;bd; khr;R khjk; 31 Me; jpfjpf;F Kd;du; cs;@uhl;rp epWtdq;fspd; tUkhdg; gupNrhjfu;fspdhy; Nkw;nfhs;sg;gLjy; Ntz;Lk;. 297. Nkw;gb gpupT 293 ,d; fPo; jahupf;fg;gLk; mwpf;iff;F gpd;tUk; jfty;fis cs;slf;Fjy; Ntz;Lk;. i. ifj;njhopypd;/tpahghuj;jpd; miktplk;.
+
+ii. fpuhk mYtyu; gpupT.
+
+iii. ifj;njhopypd;/ tpahghuj;jpd; jd;ik.
+
+iv. tupg;gz ,yf;fnkhd;W ,Ug;gpd; mjd; ,yf;fk;.
+
+v. ,lj;jpd; tUlhe;jg; ngWkjp fzf;fplg;gl;bUg;gpd; mjd; ngWkjp.
+
+vi. ifj;njhopiy / tpahghuj;ij NgzptUgtupd; ngau;.
+
+44A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+298. ifj;njhopy; tupf;F cl;gl;l Mjdk; kw;Wk; tpahghu tupf;F cl;gl;l Mjdk; gw;wpa jfty;fs; jdpj;jdpahf gjpe;J cs;@uhl;rp Mizahsupdhy; gzpf;fg;gLk; khjpupg; gbtq;fspy; rhuhk;rg;gLj;jp mwpf;iffisg; NgzptUjy; Ntz;Lk;. 299. elg;G Mz;bd; khr;R khjk; Kg;gj;Njhuhk; (31) Mk; jpfjpf;Fr; nrYj;jg;glhj ifj;njhopy; tup my;yJ tpahghu tupf;F cl;gl;l Mjdk; kw;Wk; Gwf;fzpf;Fk; Ml;fs; njhl;gpyhd gl;banyhd;iwj; jahupj;J elg;G Mz;bd; Vg;gpwy; khjk; Kg;gjhk; (30) jpfjpf;F Kd;du; gpuNjr rigapd; tUkhdg; gpuptpd; jiytuhy; gpuNjr rigapd; nrayhsUf;F mwpf;ifaplg;gly; Ntz;Lk;. 300. elg;G Mz;bd; khr;R khjk; Kg;gj;Njhuhk; jpfjpastpy; nrYj;jg;glhj ifj;njhopy; tup kw;Wk; tpahghu tupia mwtpLtjw;F mbg;gilr; rl;lj;jpd; Vw;ghLfisg; gpd;gw;w Ntz;baJ gpuNjr rigr; nrayhsupd; nghWg;ghjy; Ntz;Lk;. mgptpUj;jp nra;ag;glhj fhzpfSf;fhd tup 301. gpuNjr rig mjpfhug; gpuNjrj;jpw;Fs; mike;Js;s mgptpUj;jp nra;ag;glhj fhzpfs; kPjhd tupf;F cl;gl;l tifapYs;s fhzpfis ,dk;fz;L mbg;gilr; rl;lj;jpd; Vw;ghLfspd; gpufhuk; mgptpUj;jp nra;ag;glhj fhzpfs; kPjhd tupf;F cl;gl;lnjd cupa fhzpfSf;F cupik NfhUk; Ml;fSf;F mwptpj;jy; Ntz;Lk;.
+
+302. tupf;F cl;gl;l Mjdk; njhlu;gpy; %yjdg; ngWkjpia ,dk;fhz;gjw;fhd jfty;fis toq;Ftjw;F Fwpg;gpl;lnjhU fhyj;ij tiuaWj;J Vw;Gila mwptpj;jiy tupf;F cl;gl;l Mjdq;fSf;F cupik NfhUk; jug;gpdUf;F gjpTj; jghy; %yk; mwptpj;jy; Ntz;Lk;. ,d;Nwy; ifapdhy; nfhz;L nrd;W xg;gilj;jy; Ntz;Lk;. 303. Nkw;gb tpjpapd; fPohd mwptpj;jiy xg;gilj;j gpd;du; mwptpj;jypd; fPo; toq;fg;gl;l fhyg;gFjpf;Fs; vjpu;ghu;f;fg;gl;l jfty;fis toq;fhjtplj;J mt;thwhd jfty;fs; ,y;iy vdf; fUjp %yjdg; ngWkjp jPu;khdpf;fg;gLjy; rl;lKiwahdjhFk;. 304. tupf;F cl;gl;l egu; tupiar; nrYj;jhj tplj;J mbg;gilr; rl;lj;jpy; Fwpg;gplg;gl;Ls;s gbKiwapd; fPo; eltbf;if vLj;J Vw;Gila tupj; njhiffis mwtpLtjw;fhf eltbf;if vLf;f Ntz;baJ gpuNjr rigapd; nrayhsupd; flikahFk;. 305. mgptpUj;jp nra;ag;glhj fhzpfs; kPjhd tupia mwtpLtJ njhlu;gpyhd jfty;fisj; jdpahd mwpf;ifapd; fPo; Ngzptug;gly; Ntz;Lk;.
+
+fhzp tpw;gid kPjhd tup
+
+306. gpuNjr rigf;F Vw;Gila fhzpia tpw;gid nra;tjd; kPJ tup mwtply;> fhzp tpw;gid mbg;gilapy; fzpg;gplg;gly; Ntz;Lk;.
+
+307. VNjDnkhU fhzpia tpw;gid nra;tjw;F Kd;du; xU njhifia fhzp tpw;gid kPjhd tupahf nrYj;j Ntz;bapUg;gpd; mt;thW nrYj;jg;gLk; njhif itg;Gg; gzkhf ,Uj;jy; Ntz;Lk;. fhzpia tpw;gid nra;j gpd;du; vQ;rpa njhifia mwtpLtjw;fhf eltbf;if vLj;J KOikahd tupj; njhifia mwtpLtjw;F eltbf;if vLj;jy; Ntz;Lk;.
+
+308. nrYj;jhj fhzp tpw;gid kPjhd tupia mwtpLtjw;fhf mbg;gilr; rl;lj;jpy; Fwpg;gplg;gl;Ls;s gbKiwia gpd;gw;wp eltbf;if vLf;f Ntz;baJ gpuNjr rigapd; nrayhsupd; flikahFk;.
+
+309. mwtplg;gLk; fhzp tpw;gid kPjhd tup njhlu;gpyhd jfty;fs; cs;@uhl;rp Mizahsupdhy; gzpf;fg;gLk; khjpupg; gbtj;jpw;F mika gjpNtnlhd;wpd; fPo; Ngzptug;gLjy; Ntz;Lk;.
+
+45A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+VI MtJ mj;jpahak;
+
+Mjdq;fis Fj;jiff;F toq;fy; my;yJ thliff;F toq;fy;
+
+310. cs;@uhl;rp epWtdnkhd;wpdhy; thliff;F toq;fg;gLk; my;yJ Fj;jiff;F toq;fg;gLk; Mjdk; rk;ge;jkhd tpguq;fs; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq; fSf;F ,iathdjhf cs;@uhl;rp Mizahsupdhy; gupe;Jiuf;fg;gLk; gbtj;jpw;F mikthf Mtzj;jpd; fPo; guhkupf;fg;gly; Ntz;Lk;.
+
+311. cs;@uhl;rp epWtdnkhd;W ,uz;lhk; jug;gpdNuhL Mjdq;fisf; Fj;jiff;F toq;Fjy; my;yJ thliff;F toq;Ftjw;F Vw;gLj;jpf; nfhs;sg;gLk; xt;nthU xg;ge;jj;jpdJk; cs;@uhl;rp epWtdj;jpd; epUthf jiyik mjpfhupapdhy; cWjpg;gLj;jg;gl;l gpujpnahd;iw cs;sf fzf;fha;T gpuptpw;F kw;Wk; tUkhdg; gpuptpw;F toq;Fjy; Ntz;Lk;.
+
+312. xg;ge;jj;jpw;Fupa khjhe;j thlifj; njhifia cupa khjj;jpd; 10 Mk; jpfjpNah my;yJ mjw;F Kd;dNuh nrYj;Jjy; Ntz;Lnkd;gNjhL> mJ njhlu;ghd epge;jid xg;ge;jj;jpy; cs;slf;fg;gl;bUj;jy; Ntz;Lk;.
+
+313. cs;@uhl;rp epWtdnkhd;wpd; trKs;s Mjdj;ijf; Fj;jiff;F toq;Fjy; kw;Wk; thliff;F toq;Fk;NghJ gpuNjr rig eltbf;ifnaLf;Fk; NghJ mbg;gilr; rl;lj;jpy; kw;Wk; gpd;tUk; tpjpfspd; fPo;f; Fwpg;gplg;gLk; Vw;ghLfis Kiwahf gpd;gw;Wtjw;F cs;@uhl;rp epWtdj;jpd; epiwNtw;Wj; jiyik mjpfhupapdhy; kw;Wk; epUthfj; jiyik mjpfhupapdhy; rfy eltbf;iffisAk; vLj;jy; Ntz;Lk;.
+
+314. gpuNjr rig trKs;s Mjdj;ijf; Fj;jiff;F toq;Fjy; my;yJ thliff;F toq;Fjy;> tpw;gid nra;tjw;fhd tpiykDf; Nfhuy; eltbf;ifapd; NghJ mjd; epWtdk; vd;w tifapy; gpuNjr rigAk; my;yJ VNjDk; tpiykDf; Nfhuy; nraw;ghLfSf;fhf rigapdhy; my;yJ rigapdhy; jdpj;jdpahfNth nghJthf mjpfhukspf;fg;gLk; nraw;FO vd nghUs; nfhs;sg;gLtNjhL nfhs;Kjy; FO vd;gJ rigapdhy; VNjDnkhU tpiykDf; Nfhuy; eltbf;iff;F my;yJ tpiykDf; Nfhuy; eltbf;iffSf;F epakpf;fg;gLk; Vida vt;tifahd FOf;fisAk; Fwpf;Fk;. 315. ,e;j tpjpapd; fPo; tpiykDf; Nfhuy; eilKiwapd; %yk; gpd;tUk; tplaq;fs; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+i. cau;e;j juj;JlDk; cr;r nghUshjhu ed;ikfisAk; ngw;Wf;nfhs;s KbAkhd tifapy; cupa fhyj;jpDs; jukhd Kiwapy; tpiykDf; Nfhuy; eilKiwfis Nkw;nfhs;sy;.
+
+ii. eilKiwapYs;s vOj;J%ykhd rl;lj;jpw;F ,iathf kw;Wk; rig epjpaj;jpw;F cr;r epjp ed;ik Vw;glj;jf;f tifapy; nrayhw;Wjy;.
+
+iii. jFjpAs;s Mu;tKs;s jug;gpdUf;F tpiykDf; Nfhuypy; gq;Fgw;Wtjw;F epahakhd> rkkhd kw;Wk; mjpf re;ju;g;gq;fis toq;Fjy;.
+
+iv. kjpg;gPL nra;jy; kw;Wk; njupT nra;jy; nraw;ghl;L eilKiwapd; ntspg;gilj; jd;ik kw;Wk; rl;lG+u;t jd;ikia cWjpg;gLj;Jjy; v. Mu;tKs;s nghJkf;fSf;F tpiykDf; Nfhuy; eltbf;iffs; njhlu;ghf cupa jfty;fis mwpe;Jnfhs;tjw;F Vw;w tifapy; kpfTk; ntspg;gilj; jd;ikAld; tpiykDf; Nfhuy; eltbf;iffis Nkw;nfhs;sy;. 316. fPo; tUk; tplaq;fs; ghJfhf;fg;gLk; tifapy; gpuNjr rigapd; Mjdj;ijf; Fj;jiff;F toq;Ftjw;Fupa tpiykDf; Nfhuy; eilKiwfisg; G+uzg;gLj;jpapUj;jy; Ntz;Lk;.
+
+i. tpiykDf; NfhuYf;Fupa jfty;fs; vOj;J %ykhf rl;lj;jpd; tuk;GfSf;F cl;gl;ljhf nghJkf;fSf;F mwpe;Jnfhs;tjw;F cs;s cupik ghJfhf;fg;gLk; tifapy; eltbf;iffis Nkw;nfhs;tjw;F cWjpaspj;jy; Ntz;Lk;.
+
+46A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+ii. tpiykDf; Nfhuy; eltbf;iffspy; <Lgl;Ls;stu;fs; jkJ mjpfhuj;ij Kiwaw;w tpjkhf gad;gLj;Jjy; $lhJ. jdf;F my;yJ jkJ FLk;g mq;fj;jtu;fSf;F my;yJ tu;j;jfj; jug;gpdUf;F ed;ikfisg; ngw;Wj; jUk; tifapy; tpiykDf; Nfhuy; eltbf;ifapd; NghJ jdJ me;j];ij Kiwaw;w tpjkhf gad;gLj;jy; $lhJ. iii. KOikahd eltbf;ifapd; NghJ njhlu;Gfs; rk;ge;jkhd ,zf;fg;ghLfspd;wp ,Ug;gij tpiykDf; Nfhuy; eltbf;ifAld; njhlu;Gs;s midj;J cj;jpNahfj;ju;fSk; gpufldg; gLj;Jjy; Ntz;Lk;. mt;thwhd re;Njfk; vOk; re;ju;g;gk; Vw;gbd; cupa mYtyupdhy; mtupd; njhlu;Gfis ntspg;gLj;jp tpiykDf; Nfhuy; eltbf;iffspypUe;J ntspNawy; Ntz;Lk;.
+
+iv. ve;jnthU tpiykDf; Nfhuy; nraw;ghLfspypUe;Jk; vt;tifahd jdpg;gl;l mD$yq;fisg; ngw;Wf; nfhs;tjpypUe;J jtpu;e;J nfhs;sy; Ntz;Lk;. vt;tifahd md;gspg;Gf;fisAk; ngw;Wf;nfhs;sf; $lhnjd;gNjhL> vt;tifahd tw;GWj;jy;fSf;Fk; mbgzpjyhfhJ. VJk; tpiykDTld; rk;ge;jg;gl;l egupd; jPu;khdj;jpy; nry;thf;if nrYj;JtJ my;yJ mt;thwhdtu;fspd; Nehf;fq;fSf;F ghjpg;G Vw;gLj;jf;$ba tifapy; vt;tifahf nraw;ghL fspYk; <LglyhfhJ. 317. i. rigf;Fr; nrhe;jkhd Mjdj;ij Fj;jiff;F toq;Fjy;> thliff;F toq;Fjy;> tpw;gid nra;jy; my;yJ rig trKs;s Mjdnkhd;iwj; jdpahu; Jiwapd; ,ilj;njhlu;Gila nghWg;gpy; nfhz;Lelhj;Jjy; rk;ge;jkhd tpiykDf; Nfhuy; nraw;ghLfSf;fhf tpiykDf; Nfhuy; FOnthd;iw> mjw;fhd kjpg;gPl;Lf; FOnthd;iw epakpf;FkhW Kd;nkhopnthd;iw gpuNjr rigapd; jiytupdhy; rigapy; Kd;itf;fg;gly; Ntz;Lk;.
+
+ii. mt;thW Kd;nkhopit Kd;itf;Fk; nghOJ mjw;fhd mbg;gilj; Njitfis G+u;j;jp nra;jpUg;gjhf me;j Kd;nkhoptpy; tplaq;fs; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+iii. rigapdhy; ,e;j xOq;F tpjpapd; fPo; tpgupf;fg;gLk; tpiykDf; Nfhuy; nraw;ghLfSf;fhf epue;jkhd my;yJ Njitf;Nfw;g tpiykDf; Nfhuy; FOnthd;iw kw;Wk; kjpg;gPl;Lf; FOnthd;iw epakpj;jy; Ntz;Lk;.
+
+318. tpiykDf; Nfhuy; FOtpdhy; fPo; tUk; tplaq;fis G+u;j;jp nra;J tpiykDf; Nfhuy; eltbf;iffs; KOikailtjhf rigaplk; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+i. tpiykDf; Nfhuy; eltbf;iffspd; rfy gq;Fjhuu;fSlDk; Njitahd njhlu;ghly; ,izg;gpid itj;jpUj;jy;.
+
+ii. Kd; jFjp Mtzq;fs;> tptuf;Fwpg;G Mtzq;fs;> Nfs;tpg;gj;jpu Mtzq;fs; jahupj;jy; kw;Wk; mJ gw;wp fye;jhNyhrpj;jy; kw;Wk; mDkjp ngWtjw;fhf njhopy;El;g kjpg;gPl;Lf; FOtpw;F Kd;itj;jy;.
+
+iii. kjpg;gPl;L mwpf;if fpilf;fg;ngWtjw;F Kd;du; juTfs; kw;Wk; jfty;fisj; jahu;gLj;Jjy;.
+
+iv. kjpg;gPl;Lf; FO kw;Wk; tpiykDf; Nfhuy; FO $l;l mwpf;ifg; gjpTfis gfpu;e;jspj;jy;.
+
+v. tpiykDf; Nfhuy; eltbf;iffs; kw;Wk; mjDld; njhlu;Ggl;l Vida midj;J tplaq;fisAk; Nkw;nfhs;tij ,yFgLj;jiy epahag;gLj;Jtjw;fhf Njitahd xj;Jiog;ig toq;FkhW kjpg;gPl;Lf; FOtpy; cupa Nfhupf;ifia Kd;itj;jy;.
+
+vi. tpiykDf; Nfhuy; eltbf;iffSld; njhlu;Gila rfy jfty;fs; kw;Wk; eltbf;iffs; kpfTk; ntspg;gilj; jd;ikAld; nfhz;L elhj;Jjy;. 319. tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FOtpdhy; rigf;F Kd;itf;fg;gLk; FOtpd; gupe;Jiufs; rk;ge;jkhf nghWg;Gf; $wy; Ntz;Lk;.
+
+47A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+320. cupa tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FOtpdhy; ,e;j xOq;F tpjpapd; %yk; tpgupf;fg;gl;Ls;sthW cupa KOikahd tpiykDf; Nfhuy; nray;KiwfisAk; nraw;gLj;Jjy; Ntz;Lk;.
+
+321. tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FOtpy; Nritahw;Wk; midj;J cWg;gpdu;fSk; jkJ md;whl flikfis tpl tpiykDf; Nfhuy; FO Æ kjpg;gPl;Lf; FOtpdhy; jkf;F mspf;fg;gl;Ls;s flikfSf;F Kd;Dupik mspj;jy; Ntz;Lk;.
+
+322. tpiykDf; Nfhuy; FOthdJ tpiykDf; Nfhuy; nray;Kiw njhlu;ghf fPo; Fwpg;gplg;gLk; tplaq;fs; g+u;j;jp nra;ag;gl;bUg;gJ njhlu;ghfj; jpUg;jpailjy; Ntz;Lk;.
+
+i. jhk; tpiykDf; Nfhuy; FOtpw;F Kiwahf epakpf;fg;gl;bUg;gjhf>
+
+ii. jpl;lkpl;Ls;sthW toq;fg;gLtjw;fhf tpiykDf; Nfhuy; fhy ml;ltiz gw;wp fye;jhNyhrpj;jy; kw;Wk; mjw;F cld;gLjy;>
+
+iii. KjyhtJ $l;lj;jpy; tpiykDf; Nfhuy; njhlu;ghd tpsk;gu mwptpj;jiy ntspapLjy;> Nfs;tpg; gj;jpuk; NfhUk; Mtzq;fis tpw;gid nra;jy;> Nfs;tpg; gj;jpuq;fisf; NfhUtij epiwTnra;jy; kw;Wk; jpwj;jy; Nghd;w tplaq;fs; Nkw;nfhs;sg;gl Ntz;ba Kiwik kw;Wk; jpfjpfisj; jPu;khdpj;jy;.
+
+323. njhopy;El;g kjpg;gPl;Lf; FO fPo;f; Fwpg;gplg;gl;Ls;s eltbf;iffs; epiwTnra;ag;gl;Ls;sjhf jpUg;jp ailjy; Ntz;Lk;.
+
+i. ,ad;wtiu FWfpa fhyg;gFjpapDs; Nfs;tpg; gj;jpuq;fis ntspapLtjw;fhd fhy ml;ltiz rk;ge;jkhf tpiykDf; Nfhuy; FOTld; cld;gLjy;.
+
+ii. nghUj;jkhd re;ju;g;gq;fspy; Vyk; Nfl;NghupdJ vOj;J %y tpsf;fq;fisg; ngw;Wf; nfhs;SkhW tpiykDf; Nfhuy; FOtpw;F gupe;Jiu nra;jpUg;gjhf>
+
+iii. Njitahd re;ju;g;gq;fspy; Nfs;tpg; gj;jpuk; NfhUk; Mtzq;fspy; Fiwepug;G gupe;Jiu nra;ag;gl;bUg;gjhf.
+
+iv. tpiykDf; Nfhuy; FOtpdhy; nra;ag;gLk; mwptpj;jypd; gpufhuk; cld;gbf;if fye;Jiuahlypy; <Lgl;bUj;jy;.
+
+v. rigapdhy; jahupf;fg;gl;Ls;s xg;ge;j tiutpid tpiykDf; Nfhuy; FOtpd; mtjhdpg;G fSf;F mikthdnjd;gij cWjpg;gLj;jp mJ njhlu;ghf jkJ gupe;Jiuia tpiykDf; Nfhuy; FOtpw;F rku;g;gpj;jpUg;gjhf. 324. rigapdhy; rigj; jPu;khdj;jpD}lhf jPu;khdpf;fg;gl;l mjptpN~l re;ju;g;gj;jpy; kw;Wk; mt;thwhd tpN~l re;ju;g;gj;jpw;F Vw;w tifapy; rhjhuz tpiykDf; Nfhuy; eilKiwapypUe;J tpyfpr; nraw;gLtjw;F mtrpakhd re;ju;g;gq;fspy; mjw;fhd tpN~l fhuzq;fis Fwpg;gpl;L fzf;Ff; FOtpdhy; rigaplk; mwpf;ifapl KbAnkd;gNjhL> mt;tplaq;fs; njhlu;ghf fUj;jpw; nfhz;L rigapdhy; cs;@uhl;rp Mizahsupd; mDkjpapd; fPo; tpiykDf; Nfhuy; Kiwik njhlu;ghd jPu;khdj;ij Nkw;nfhs;s Ntz;Lk;.
+
+325. rigapdhy; ,e;j xOq;F tpjpapd; fPo; epakpf;fg;gLk; xt;nthU tpiykDf; Nfhuy; FOtpdJk; vz;zpf;ifapy; gpuNjr rigapd; jiytu;> nrayhsu; kw;Wk; cs;@uhl;rp epWtdk; mike;Js;s khtl;lj;jpd; cjtp cs;@uhl;rp Mizahsupdhy; ngau; Fwpg;gplg;Lk; cj;jpNahfj;ju; MfpNahu; fl;lha cWg;gpdu;fshf ,Uf;fNtz;Lnkd;gNjhL> mjw;F Nkyjpfkhf kw;Wk; cr;r cWg;gpdu;fspd; vz;zpf;if Ie;J (5) vd;w Kiwapy; Vida cWg;gpdu;fis epakpj;jy; Ntz;Lk;. mt;thW epakpf;fg;gLk; Vida ,U mq;fj;jtu;fs; fl;lhakhf Fwpj;j rigia gpujpepjpj;Jtg;gLj;Jk; rig cWg;gpdu;fshf ,Uj;jy; Ntz;Lnkd;gNjhL mt;thW epakpj;jypy; rigia gpujpepjpj;Jtg;gLj;Jk; ngz;fspd; gpujpepjpj;Jtj;ijAk; fUj;jpw; nfhs;sNtz;Lk;.
+
+48A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+326. gpuNjr rigapd; jiytu;> tpiykDf; Nfhuy; FOtpd; jiytuhf ,Uj;jy; Ntz;Lk;.
+
+327. VNjDnkhU fhuzj;jpdhy; tpiykDf; Nfhuy; FOtpd; jiytu; cupa $l;lj;jpw;F tUif juhJ> jiytu; vd;w tifapy; jkJ nraw;ghLfis Nkw;nfhs;s Kbahj re;ju;g;gj;jpy; jpl;lkpl;l tifapy; $l;lj;ij elhj;jpr; nry;tjw;Nfw;w tifapy; Fwpj;j $l;lj;jpw;F tUif je;Js;s vtNuDnkhU mq;fj;jtu; gjpy; flikahw;Wk; jiytuhf nrayhw;Wjy; Ntz;Lk;.
+
+328. midj;J kjpg;gPl;Lf; FOf;fSk;> rigapdhy; jPu;khdpf;fg;gl;ljd; gpd;du; jiytupdhy; epakpf;fg;gly; Ntz;Lk;.
+
+329. xt;nthU tpiykDf; Nfhuy; FOTf;Fk; nrayhsuhf rigapd; cj;jpNahfj;jnuhUtu; rigapdhy; jPu;khdpf;fg;gl;L jiytupdhy; epakpf;fg;gly; Ntz;Lk;.
+
+330. VNjDk; tpiykDf; Nfhuy; eltbf;iff;fhf kjpg;gPl;Lf; FOnthd;iw epakpf;Fk; nghOJ vtNuDnkhU cWg;gpdu; kjpg;gPl;Lf; FO kw;Wk; tpiykDf; Nfhuy; FO Mfpa ,uz;bYk; mq;fj;Jtuhf ,Uj;jyhfhJ.
+
+331. VNjDk; tpN~l tplaq;fs; rk;ge;jg;gl;l my;yJ tpiykD Mtzq;fspd; tiuTfis Nkw;nfhs;tjw;fhf kw;Wk; kjpg;gPL nra;tjw;fhf Njitg;gLk; re;ju;g;gq;fspy; kjpg;gPl;Lf; FOtpdhy; rigf;F mwpf;ifapl;L mjd; %yk; ntsp egu;fsplkpUe;J my;yJ epWtdq;fsplkpUe;J epGzj;Jt MNyhridiag; ngw;Wf; nfhs;syhk;.
+
+332. tpiykDf; Nfhuy; FO> kjpg;gPl;Lf; FO Mfpatw;wpw;fhf epakpf;fg;gLk; cWg;gpdu;fs; $l;lq;fspy; gq;Fgw;Wtjw;fhf toq;fg;gLk; nfhLg;gdTfs; mt;tg;NghJ cs;@uhl;rp Mizahsupdhy; toq;fg;gLk; gzpg;Giufs; kw;Wk; MNyhridfSf;F mikthf ,Uj;jy; Ntz;Lk;.
+
+333. tpiykDf; Nfhuy; FOtpd; mq;fj;JtnuhUtUf;F VNjDnkhU fhuzj;jpdhy; cupa $l;lj;jpw;F tUif je;J mtUf;F xJf;fg;gl;l flikfis Nkw;nfhs;s Kbahj re;ju;g;gq;fspy; mt;thW $l;lj;jpw;F tUif ju Kbahik gw;wp Fwpj;j cWg;gpduhy; cupa FOtpd; nrayhsUf;F vOj;J %yk; mwptpj;jy; tpLj;jy; Ntz;Lk;.
+
+334. mt;thW cWg;gpdnuhUtu; tUif jujtplj;J> tUif je;Js;s cWg;gpdu;fspd; vz;zpf;if nkhj;j cWg;gpdu;fspd; vz;zpf;ifapy; 50% I tpl mjpfkhf ,Uf;FNkahdhy;> mtu;fspdhy; $l;lj;ij jpl;lkpl;l tifapy; nfhz;L elhj;Jtjw;fhd jPu;khdj;ij Nkw;nfhs;syhk;. tUif juhj cWg;gpdupd; mtjhdpg;Gf;fs; VJk; ,Ug;gpd; mtw;iw FOtpd; nrayhsupdhy; FOtpd; Vida cWg;gpdu;fspilNa gfpu;e;jspf;fg;gly; Ntz;Lk;.
+
+335. Fwpj;j FOtpd; nrayhsupdhy; xU thuj;jpDs; $l;l mwpf;ifg; gjpTfis $l;lj;jpw;F tUif juhj cWg;gpdu;fSf;F mDg;gg;gly; Ntz;Lk;. mJ njhlu;ghd mtjhdpg;Gf;fs; 3 ehl;fSf;Fs; Kd;itf;fg;gLkhdhy;> mjidj; jiytUf;F Kd;itj;jy; Ntz;Lnkd;gNjhL jiytupdhy; mjid FOtplk; Kd;itf;fg;gly; Ntz;Lk;.
+
+336. Vw;Wf;nfhs;sf;$ba fhuzkpd;wp Fwpj;j tpiykDf; Nfhuy; gzpf;fhd tpiykD Nfhuy; FOtpdJ my;yJ kjpg;gPl;Lf; FOtpdJ cWg;gpdnuhUtu; mLj;JtUk; %d;W (03) $l;lq;fSf;F tUif juhjtplj;J> mtu; me;jf; FOtpd; mq;fj;Jtj;jpypUe;J tpyfpf; nfhz;ljhff; fUjg;gl Ntz;Lnkd;gNjhL> mJ njhlu;ghf rigf;F kw;Wk; cs;@uhl;rp MizahsUf;F FOtpd; nrayhsupdhy; mwpf;ifaplg;gly; Ntz;Lk;.
+
+337. jiytUld; fye;jhNyhrpj;J nrayhsupdhy; xt;nthU $l;lKk; eilngWk; jpfjp> Neuk; kw;Wk; ,lk; njhlu;ghf cWg;gpdu;fSf;F mwptpj;jy; tpLj;jy; Ntz;Lk;.
+
+49A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+338. tpiykDf; fhy ml;ltiz> tpiykD Kiwik kw;Wk; Nfs;tpg;gj;jpuk; Nfhug;gLk; Mtz tiffs; njhlu;ghd ,zf;fg;ghl;il vl;Ltjw;fhf tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FO ,ize;J KjyhtJ $l;lj;ij elhj;Jjy; Ntz;Lk;.
+
+339. FOf; $l;lq;fspd; jpfjp kw;Wk; Neuk; vd;gd tpiykDf; Nfhuy; fhy ml;ltizf;F mikthf epu;zapf;fg;gly; Ntz;Lk;.
+
+340. cWg;gpdu;fspd; tUifg; gjpNtL FOtpd; nrayhsupdhy; guhkupf;fg;gly; Ntz;Lk;.
+
+341. FOf;fspd; $l;l mwpf;ifahdJ rigapdhy; mq;fPfupf;fg;gl;Ls;s gbtj;jpw;F Vw;g mwpf;ifaplg;gly; Ntz;Lnkd;gNjhL> mjid tUif je;jpUf;Fk; cWg;gpdu;fspdhy; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+342. tpiykDf; Nfhuy; FOtpd; vtNuDnkhU cWg;gpdUf;F jhd; cld;gltpy;iynad;gijj; njuptpf;fyhk;. vdpDk; mt;thwhd re;ju;g;gq;fspy; cld;glhikf;fhd fhuzj;ij cs;slf;fpa jdpahd vOj;J %y mwpf;ifapid FO mwpf;ifapd; ,izg;ghf rku;g;gpf;fg;gly; Ntz;Lk;.
+
+343. mwpf;iffisg; ghJfhg;ghf itj;jpUg;gjw;fhd Vw;ghLfs; rigapd; nrayhsupdhy; Nkw;nfhs;sg;gl Ntz;Lnkd;gNjhL> mt;twpf;iffis Fiwe;j gl;rk; gd;dpuz;L (12) tUlq;fshtJ ghJfhg;ghf itj;jpUj;jy; Ntz;Lk;.
+
+344. tpiykDf; Nfhuy; FOtpd; kw;Wk; kjpg;gPl;Lf; FOtpd; rfy cWg;gpdu;fSk; gf;fr; rhu;gw;w jd;ik kw;Wk; Neu;ikahd eltbf;if gw;wpAk;> jdpg;gl;l njhlu;Gfs; VJk; ,y;iynad;gJ gw;wpAk; Fwpj;j FOf;fspd; Kjy; $l;lj;jpNy gpufldnkhd;wpy; ifnahg;gkply; Ntz;Lk;. 345. rigapdhy; my;yJ rigapdhy; mjpfhukspf;fg;gLk; epjpf; FOtpdhy;>
+
+i. tpiykDf;Nfhuy; rigapd; kw;Wk; kjpg;gPl;Lf; FOtpd; nraw;jpwid KbTnra;jy; Ntz;Lk;.
+
+ii. vNjr;irahf njupTnra;ag;gl;l> gpd;duhd tpiykDf; Nfhuy; kPsha;Tfis Nkw;nfhs;s Ntz;Lk;. mt;thwpd;Nwy; mjw;fhd eltbf;iffis Nkw;nfhs;s Ntz;Lk;.
+
+iii. $l;lq;fSf;F tUif jUk; xOq;FKiwfs; kw;Wk; cWg;gpdu;fshy; vLf;fg;gLk; jPu;khdq;fs; Vw;Wf;nfhs;sg;gl;l tpiykDf; Nfhuy; eilKiwfSf;F kw;Wk; ,e;j xOq;F tpjpfSf;F mikthdjh vd;gJ gw;wp vNjr;irahf Nju;e;njLf;Fk; mbg;gilapy; guPl;rpj;J mwpf;ifapLk; Kiwiknahd;iw mikj;Jf; nfhs;sy; Ntz;Lnkd;gNjhL> mt;twpf;ifia mt;tg;NghJ rigapdhy; guprPyid nra;J Njitahd gupfhuq;fis Njly; Ntz;Lk;.
+
+346. tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FOf;fs; nraw;gLk; NghJ kw;Wk; mtw;wpd; gzpfs; Nkw;nfhs;sg;gLk; NghJ cWg;gpdu;fspd; myl;rpaj; jd;ikapdhy; ftdaPdj;jpdhy; my;yJ nrayhw;whikapdhy; my;yJ nghWg;gw;w Kiwapy; nraw;gl;ljhf fz;lwpag;gl;lhy; my;yJ ntspg;gLj;jg;gl;lhy; mjid cs;@uhl;rp MizahsUf;F mwpf;ifapLtjw;Fk;> gpd;tUk; eltbf;iffis vLg;gjw;Fk; jiytupdhy; eltbf;ifnaLj;jy; Ntz;Lk;. i. tpiykDf; Nfhuy; fhy ml;ltizia kPz;Lk; jahupj;J tpiykDf; Nfhuy; eltbf;iffis Jupjg;gLj;JkhW MNyhrid toq;Fjy;.
+
+ii. jpUj;jpf; nfhs;tjw;fhd topKiwfis gpd;gw;WkhW MNyhrid toq;Fjy;.
+
+iii. cWg;Gupikia rPuikg;gjw;F eltbf;ifnaLf;FkhW rigf;F MNyhrid toq;Fjy;.
+
+50A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+347. nraw;jpl;lnkhd;W cupa fhyj;jpDs; epiwT nra;tij cWjpg;gLj;Jk; nghUl;L tpiy kDf; Nfhuy; jpl;lj;jpw;F ,iathf nkhj;j tpiykDf; Nfhuy; nraw;ghLfisAk; tpidj;jpwDld; jpl;lkpLtjw;F eltbf;ifnaLj;jy; Ntz;Lk;.
+
+348. Nfs;tpg;gj;jpuk; Nfhuy; my;yJ tpiykDjhuu;fspd; Ke;ija jFjpfis tpiykDf; Nfhuy; FOtpd; mDkjpAld; guPl;rpj;jy; Ntz;Lk;. 349. gpujhd tpiykDf; Nfhuy; jpl;lj;jpw;fhf>
+
+i. Rigr; nrayhsupdhy; gpujhd tpiykDf; Nfhuy; jpl;lj;ij jahupj;jy; Ntz;Lk;. mjw;fhf rig mq;fPfhuj;ijg; ngw;Wf; nfhs;sy; Ntz;Lk;.
+
+ii. Fiwe;jgl;rk; xU tUl fhyj;jpw;fhtJ cj;Njrpf;fg;gLk; tpiykDf; Nfhuy; eltbf;iffis gpujhd tpiykDf; Nfhuy; jpl;lj;jpy; ml;ltizg;gLj;jg;gl;bUj;jy; Ntz;Lk;.
+
+iii. gpujhd tpiykDf; Nfhuy; jpl;lkhdJ MW (06) khjj;jpw;F Nkw;glhj fhyj;jpDs; ,w;iwg;gLj;jg;gly; Ntz;Lk;. 350. tpiykDf; Nfhuy; eltbf;iffs; Muk;gpf;fg;gl;lJ njhlf;fk; KbtilAk; tiu xt;nthU tpiykDf; Nfhuy; eltbf;iffspdJk; gbKiwfs; fhy xOq;F Kiwg;gb ,uz;L fl;lq;fshf fhy ml;ltizapy; cs;slf;fg;gly; Ntz;Lk;. ,J gpuNjr rigapd; nrayhsupdhy; jahupf;fg;gly; Ntz;Lk;.
+
+351. tpiykDf; Nfhuy; eltbf;iffs; Muk;gpj;jJ Kjy; Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fspd; tiuTfis Nkw;nfhs;Sk; tiuahd nraw;ghLfs; tpiykDf; Nfhuy; fhy ml;ltizapd; Kjy; fl;lkhf ,Uj;jy; Ntz;Lnkd;gNjhL> KjyhtJ fl;lj;ij jhkjkpd;wp jahupj;jy; Ntz;Lk; vd;gJld; mbf;fb ,w;iwg;gLj;jg;gLtjidAk; fz;fhzpg;gJ nrayhsupd; nghWg;ghFk;.
+
+352. Nfs;tpg; gj;jpuk; NfhUk; Mtzq;fisj; jahupj;jjd; gpd;du; vOk; rfy tpiykDf; Nfhuy; eltbf;iffSk; tpiykDf; Nfhuy; fhy ml;ltizapd; ,uz;lhtJ fl;lj;jpw;F cs;slf;fg;gly; Ntz;Lk;.
+
+353. tpiykDf; Nfhuy; fhy ml;ltizia Muha;tjw;F kw;Wk; Kjy; $l;lj;jpNyNa mDkjp toq;FtJ cupa tpiykDf; Nfhuy; FOtpd; nghWg;ghtNjhL> tpiykDf; NfhuYf;Fupa fhy ml;ltizapd; tiutpid kw;Wk; mJ njhlu;ghd tpiykDf; Nfhuy; Mtzq;fisj; jiytupdhy; tpiy kDf; Nfhuy; FOtpw;F rku;g;gpj;jy; Ntz;Lk;.
+
+354. tpiykDf; Nfhuy; fhy ml;ltiz njhlu;ghf ,zf;fg;ghl;bw;F te;jjd; gpd;du; tpiykDf; Nfhuy; FOtpd; jiytu; kjpg;gPl;Lf; FOtpd; cWg;gpdu;fsplk; fye;jhNyhrpj;J Fwpj;j tpiykDf; Nfhuy; nraw;ghl;bd; Kd;Ndw;wj;ij mtjhdpf;f Ntz;Lnkd;gNjhL mJ njhlu;ghf rigf;F mwpf;ifaply; Ntz;Lk;.
+
+355. mjpf jhkjk; Vw;gLk; gl;rj;jpy; me;j jhkjk; njhlu;ghd fhuzj;ij njspTgLj;JtJk; mjw;fhd gupfhu gbKiwfis Nkw;nfhs;tJk; mJ njhlu;ghf rigia njupag;gLj;JtJk; cupa tpiykDf; Nfhuy; FOtpd; jiytupd; nghWg;ghFk;.
+
+356. Nfs;tpg; gj;jpuk; NfhUk; Mtzq;fspd; tiuTfis Muk;gpf;Fk; eltbf;ifahdJ> kjpg;gPl;Lf; FOit epakpg;gjw;F Kd;dNuahdhYk; rigapdhy; mjw;fhd mjpfhuk; mspf;fg;gl;l cj;jpNahfj;jupdhy; Muk;gpf;fg;glyhk;.
+
+357. Nfs;tpg; gj;jpuk; NfhUk; miog;gpjopy; ntw;wpailAk; Vyk; Nfl;Nghu;fSf;F ,Uf;f Ntz;ba Neubahd jFjpia cWjpg;gLj;jf;$ba msTNfhy; kw;Wk; jFjpfs; njhlu;ghd Njitg;ghLfs; cl;gl Nfs;tpg;gj;jpuk; my;yJ tpiyia Fwpg;gjw;F Vyf; Nfhupf;ifahsu;fSf;F Njitg;gLk; nghUj;jkhd kw;Wk; cupa mbg;gil jfty;fs; cs;slf;fg;gl;bUj;jy; Ntz;Lk;.
+
+51A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+358. xOq;F tpjpfspy; tiuaWf;fg;gl;Ls;s cupa tplaq;fs; Vyk; Nfl;Nghu;fSf;fhd mwpTWj;jypy; cs;slf;fg;gl;bUj;jy; Ntz;Lk;.
+
+359. mt;tg;NghJ ,w;iwg;gLj;jg;gLk;> rigapdhy; jPu;khdpf;fg;gLk; rPh;Nflhf Mtzq;fis Kd; itj;jpUf;Fk; jug;gpdiu> rigahdJ mt;tg;NghJ ntspg;gLj;Jjy; Ntz;Lk;. 360. Nfs;tpg;gj;jpuf; fhg;gPL %yk; gpd;tUk; tplaq;fs; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+i. nry;YgbahFk; fhyj;jpDs; Vyk; Nfl;Nghupdhy; Nfs;tpg;gj;jpuj;ij jpUk;gg; ngWtjw;Nfh khw;Wtjw;Nfh KbahJ vdTk;>
+
+ii. Nfs;tpg;gj;jpuk; Nfhug;gLk; Mtzq;fspy; tpgupf;fg;gl;Ls;s msTNfhYf;F Vw;g> fzpj gpiofs; rPu;nra;ag;gl;ljd; gpd;du; Vy tpiyf;F ,zq;FtjhfTk;>
+
+iii. nry;YgbahFk; fhyj;jpDs; tpiykD toq;fg;gl;lhy;> Vyk; Nfl;Nghupdhy; mf;Nfs;tp mspg;ig Vw;Wf;nfhs;tjhfTk;>
+
+iv. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fspy; Fwpg;ghff; fhl;lg;gl;Ls;s ,Wjpj; jpfjpf;F Kd;du;> Vyk; Nfl;Nghupdhy; gaDWjpkpf;f fhg;gPnlhd;iw Kd;itg;gjhfTk;.
+
+Nfs;tpg;gj;jpu fhg;gPl;Lf;fhf gpd;tUk; Kiwikfspy; VjhtnjhU Kiwik gpuNahfpf;fg;gly; Ntz;Lk;. i. Nfs;tpg;gj;jpuf; fhg;gPl;Lg; gpufldnkhd;iw Kd;itj;jy;. Nfs;tpg;gj;jpuf; fhg;gPl;bd; epge;jidfis epiwNtw;Wtjw;F Vyk; Nfl;Nghu; jtUk; gl;rj;jpy;> VNjDk; Fwpg;gpl;l fhyg;gFjpf;F Vyk; Nfl;NghUf;F rigapd; Mjdj;ijNah my;yJ NtW mspg;Gf;fNsh toq;fg;gLtJ ,ilepWj;jg;gLtjw;F ,zq;Ftjhf xg;Gf;nfhz;L cupa khjpupg;gbtj;jpYs;s Nfs;tpg;gj;jpuf; fhg;gPl;Lg; gpufldj;ij rku;g;gpf;FkhW gzpj;jy;.
+
+ii. nghUj;jkhd Nfs;tpg;gj;jpu fhg;gPl;ilNah gz itg;nghd;iwNah Kd;itf;FkhW gzpj;jy;.
+
+iii. NkNy cggpupT (ii) ,d; fPo; eltbf;if Nkw;nfhs;Sk; NghJ rigapdhy; fPo; tUk; tpUg;gj; njupTfspy; xd;iwj; njupTnra;jy; Ntz;Lk;.
+
+(m) kjpg;gplg;gl;l ngWkjpapy; xU rjtPjk; Kjy; ,uz;L rjtPjk; (1% njhlf;fk; 2%) tiu rhjhuzkhf xNu jlitapy; nrYj;jg;gLk; Fwpg;gpl;l njhiff;fhd cj;juthj tbtpy; khj;jpuk; Nfs;tpg; gj;jpuj;jpw;fhd gpiznahd;iw ngw;Wf;nfhs;sy;.
+
+(M) kjpg;gplg;gl;l ngWkjpapy; jrk; Ie;J rjtPjk; Kjy; xU rjtPjk; (0.5% njhlf;fk; 1%) tiuahd njhiff;Fr; rkdhd> xNu jlitapy; nrYj;jg;gLk; njhiff;fhd cj;juthj tbtpy; khj;jpuk; Nfs;tpg; gj;jpuj;jpw;fhd gpiznahd;iw ngw;Wf;nfhs;sy;.
+
+iv. “fhg;gPL> cj;juthjk;> gpiz” vDk; tbtpy; Nfs;tpg;gj;jpu fhg;gPnlhd;W Kd;itf;fg;gbd;> mJ ,uj;Jr; nra;ag;gl KbahjJk; rigapdhy; Kd;itf;fg;gLk; KjyhtJ vOj;J tbtpyhd Nfhupf;ifapd; kPJ epge;jidapd;wp gzkhf khw;Wtjw;F KbAkhf ,Uj;jy; Ntz;Lk;. v. ,e;j xOq;F tpjpapy; Fwpg;gplg;gl;Ls;s tpjpfSf;F Vyk; Nfl;Nghu; ,zq;fj; jtWk; gl;rj;jpy;> rigapdhy; Fwpj;j fhg;gPl;il> gz itg;ig rig epjpaj;jpw;F tuT itj;jy; Ntz;Lk;. 361. Fiwe;jgl;rk; Nfs;tpg;gj;jpuk; NfhUk; ,Wjpj; jpfjpf;F Kd;ida jpfjp tiu> epu;zapf;fg;gl;l fl;lzNkJk; ,Ug;gpd; mjidr; nrYj;Jtjd; Clhf> vtNuDnkhU VyjhuUf;F Nfs;tpg;gj;jpuk; NfhUk; Mtzj;ij mYtyf Neuj;jpDs; Neubahfg; ngw;Wf; nfhs;sNth jghy; %yk; ngw;Wf;nfhs;sNth toptif nra;jy; Ntz;Lk;.
+
+52A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+362. Nfs;tpg;gj;jpuk; NfhUk; Mtzj;ijg; guPl;rpg;gjw;F tpUk;Gk; vtNuDk; vjpu;fhy Vyf; Nfhupf;ifahsUf;F> ,ytrkhf Fwpj;j Mtzj;ij guPl;rpg;gjw;fhd re;ju;g;gj;ij Vw;gLj;jpf; nfhLj;jy; Ntz;Lk;.
+
+363. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fisr; rigapd; gpujhd mYtyfj;jpy; kw;Wk; cgmYtyfq;fspy; ngw;Wf;nfhs;tjw;F Mtz nra;jy; Ntz;Lk;. 364. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fisg; ngw;Wf;nfhs;tjw;F VJk; fl;lzk; epu;zapf;fg;gl;bUg;gpd;> mf;fl;lzkhdJ Vyk; Nfl;Nghu;fis Cf;fkpof;fr; nra;Ak; tifapy; kpfTk; mjpf njhifahf ,Uj;jyhfhJ. 365. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fis tpepNahfpj;jy; njhlu;ghd mwpf;ifia rigapdhy; itj;jpUj;jy; Ntz;Lk;. 366. Nfs;tpg;gj;jpuk; NfhUtjw;fhf toq;fg;gl;Ls;s fhyk;> Nfs;tpg; gj;jpuj;ij jahupg;gjw;F epahakhd fhy mtfhrk; ,Uj;jy; Ntz;Lk;. 367. Nfs;tpg; gj;jpuk;>
+
+i. gjpTj; jghypd; %ykhf> my;yJ
+
+ii. tpN~lkhf Fwpg;gplg;gl;Ls;s ,lj;jpy;> gpuNjr rigapdhy; mjpfhukspf;fg;gl;l cj;jpNahfj; juplk; Nfs;tpg; gj;jpuj;ijf; ifaspj;J gw;Wr; rPl;ilg; ngw;Wf;nfhs;sy;> my;yJ
+
+iii. Kj;jpiuaplg;gl;l Nfs;tpg;gj;jpug; ngl;bnahd;W cs;sjhf Nfs;tpg; gj;jpuk; NfhUk; Mtzq;fspy; Fwpg;gplg;gl;bUg;gpd;> nrayhsupdhy; Fwpj;j Nehf;fj;jpw;fhf Kj;jpiuaplg;gl;l Nfs;tpg;gj;jpug; ngl;bapDs; ,lr;nra;J Fwpg;gpl;l ,lq;fspy; khj;jpuk; ngw;Wf; nfhs;s Ntz;Lk;. 368. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fspy;> rfy Nfs;tpg;gj;jpuq;fSk; Kj;jpiuaplg;gl;l ciwapd; %yk; rku;g;gpf;fg;gl Ntz;Lnkd;w epge;jid Fwpg;gplg;gl;bUj;jy; Ntz;Lk;. 369. Nfs;tpg;gj;jpuk; NfhUk; Mtzq;fspy; Fwpg;gplg;gl;l Neuj;jpy; Nfs;tpg;gj;jpuq;fisg; ngw;Wf;nfhs;tij epWj;jpf; nfhs;s Ntz;Lk;. Jhkjkhff; fpilf;Fk; Nfs;tpg;gj;jpuq;fisf; ifNaw;ff; $lhJ vd;gNjhL> mtw;iw jpwf;fhJ jpUg;gpaDg;Gjy; Ntz;Lk;. 370. Nfs;tpg;gj;jpuj;ijj; jpwf;Fk; nghWg;G tpiykD Nfhuy; FOtpw;F mspf;fg;gl;Ls;sJ. tpiykD Nfhuy; FOtpdhy; me;j mjpfhuj;ij Nfs;tpg;gj;jpuk; jpwf;Fk; FOtpw;F toq;f KbAnkd;gNjhL> mf;FOtpy; Fiwe;jgl;rk; tpiykDf; Nfhuy; FOtpdhy; mDkjpf;fg;gl;l ,uz;L cWg;gpdu;fisf; nfhz;bUj;jy; Ntz;Lk;. 371. Nfs;tpg; gj;jpuk; Vw;wy; Kbtile;jJk; Kbe;jtiu tpiuthf> Vyk; Nfl;Nghu; my;yJ fye;J nfhs;s tpUk;Gk; mtu;fsJ gpujpepjpfs; Kd;dpiyapy; Nfs;tpg; gj;jpuq;fisj; jpwj;jy; Ntz;Lk;. 372. Nfs;tpg; gj;jpuq;fisr; rku;g;gpg;gjw;F toq;fg;gl;Ls;s ,Wjp Neuj;jpy; my;yJ mjw;F Kd;duhf VNjDnkhU Nfs;tpg;gj;jpuj;ij> mJ jpwf;fg;gLk; re;ju;g;gj;jpy; epuhfupf;ff; $lhJ.
+
+373. Nfs;tpg; gj;jpuq;fisj; jpwf;Fk; nghOJ “mry; gpujp” vd milahskplg;gl;l Nfs;tpg; gj;jpuj;ij khj;jpuk; jpwj;jy; Ntz;Lk;. “efy; gpujp” vd milahskplg;gl;litfis jpwf;ff; $lhJ.
+
+53A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+374. Nfs;tpg; gj;jpuq;fis rku;g;gpf;Fk; ,Wjp Neuj;jpy; my;yJ mjw;F Kd;du; Nfs;tpg; gj;jpuj;ij “kPsg; ngw;Wf; nfhs;sy;” vd milahskplg;gl;l fbj ciw fpilf;fg;ngw;why;> mt;Tiwia Kjypy; jpwj;jy; Ntz;Lk;. mt;TiwapYs;s fbjj;jpy; Fwpg;gplg;gl;Ls;s tplaq;fs; njhlu;ghf Nfs;tpg; gj;jpuk; jpwf;Fk; FOtpdhy; re;Njfj;jpw;fplkpd;wp jpUg;jpailAk; gl;rj;jpy; Vyk; Nfl;Nghupd; mry; Nfs;tpg;gj;jpuj;ij jpwf;ff; $lhJ. VJk; re;Njfk; ,Ug;gpd; mry; Nfs;tpg;gj;jpuj;ij Vida Nfs;tpg;gj;jpuq;fSld; jpwj;jy; Ntz;Lk;. “jpUj;jk;” vd milahskplg;gl;l VJk; fbj ciwfs; ,Ug;gpd;> mtw;iw mry; Nfs;tpg; gj;jpuq;fSld; jpwj;jy; Ntz;Lk;. 375. Nfs;tpg; gj;jpuk; jpwf;Fk; FOtpdhy; mq;F tUif je;Js;s egu;fSf;F fPo;f; Fwpg;gplg;gl;Ls;s tplaq;fisf; $w Ntz;Lk;.
+
+i. xt;nthU Vyk; Nfl;NghupdJk; ngau; kw;Wk; Nfs;tpg; gj;jpuj;jpy; Fwpg;gplg;gl;Ls;s njhif>
+
+ii. Nfs;tpg;gj;jpu fhg;gPL> Nfs;tpg;gj;jpu fhg;gPl;L gpufldk; Kd;itf;fg;gl;Ls;sJ my;yJ Kd;itf;fg;gltpy;iy vd;gJ gw;wp>
+
+iii. fopTfs; VJk; Kd;itf;fg;gl;bUg;gpd; me;j fopT> kw;Wk;
+
+iv. Nfs;tpg; gj;jpuk; jpwf;Fk; FOtpd; jw;Jzptpd; gb Vida cupa jfty;fs;. 376. Nfs;tpg; gj;jpuk; jpwg;gJ njhlu;ghd eltbf;iffis cupa khjpupg; gbtj;jpy; gjpag;gl Ntz;Lnkd;gNjhL> mg;gjpTf; Fwpg;Gfspy; Nfs;tpg; gj;jpuk; jpwf;Fk; FOtpd; midj;J cWg;gpdu;fspdhYk; ifnahg;gkplg;gly; Ntz;Lk;. 377. Nfs;tpg; gj;jpuk; jpwf;Fk; eltbf;if Kbtile;jTld; mry; Nfs;tpg; gj;jpu Mtzk; kw;Wk; Nfs;tpg; gj;jpuk; jpwg;gJ njhlu;ghd gjpTf; Fwpg;Gf;fs; midj;ijAk; ,izj;J Kj;jpiuapl;L gpuNjr Mizahsuplk; ifaspj;jy; Ntz;Lk;. nrayhsupdhy; mtw;iw kjpg;gPl;Lf; FOtpd; jiytuplk; ifaspj;jy; Ntz;Lk;. 378. Nfs;tpg; gj;jpuq;fis kjpg;gpLtjd; Fwpf;Nfhshf miktJ rku;g;gpf;fg;gl;Ls;s Nfs;tpg; gj;jpuq;fspy; kjpg;gPL nra;J KbAkhdtiu NghJkhd KbTld; cr;r tpiyAld; $ba Nfs;tpg; gj;jpuj;ij jPu;khdpg;gjhFk;. 379. Nfs;tpg; gj;jpuq;fis kjpg;gpLk; nghOJ gpd;tUk; gbKiwfspd; fPo; Nfs;tpg;gj;jpu kjpg;gPLfis Nkw;nfhs;syhk;>
+
+i. Nfs;tpg; gj;jpuj;ijg; guPl;rpj;jy; :
+
+Vyk; Nfl;Nghupd; jFjp> Nfs;tpg;gj;jpuj;jpd; rl;lG+u;tj; jd;ik> Nfs;tpg;gj;jpuj;jpd; fpilf;fg; ngwNtz;ba KbAkhd KbTfis jPu;khdpj;jy;. ii. tpupthd Nfs;tpg;gj;jpu kjpg;gPL:
+
+fpilf;fg;ngw;Ws;s fzprkhd Nfs;tpg;gj;jpuq;fSf;fpilapy; kjpg;gplg;gLk; Mff; Fiwe;j tpiyAld; $ba Nfs;tpg;gj;jpuj;ijj; jPu;khdpj;jy;.
+
+iii. gpd;duhd jFjpfs;
+
+kjpg;gplg;gl;l Fiwe;j tpiyAldhd Vyjhuupd; jFjp kw;Wk; mDgtj;ij jPu;khdpj;jy;.
+
+380. Nfs;tpg; gj;jpuq;fisg; guPl;rpf;Fk; nghOJ gpd;tUk; tplaq;fis cWjpg;gLj;jpf; nfhs;s Ntz;Lk;.
+
+i. Vyk; Nfl;Nghu; jFjpiag; ngw;wpUj;jy;.
+
+ii. Nfs;tpg; gj;jpuj;jpy; ifnahg;gkpl;bUj;jy;.
+
+54A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+iii. Nfs;tpg; gj;jpuk; rl;lG+u;tkhf Vw;Wf;nfhs;Sk; jd;ikapUj;jy;.
+
+iv. Nfs;tpg; gj;jpuj;jpy; Fwpg;gplg;gl;Ls;s Vw;ghLfspy; Kf;fpakhdtw;wpypUe;J tpLgltpy;iy vd;gJ. 381. rku;g;gpf;fg;gl;Ls;s Nfs;tpg; gj;jpuk; njhlu;ghf NkNy 380 Mk; tpjpapy; Fwpg;gplg;gl;Ls;s VNjDk; Vw;ghLfs; cWjpg;gLj;jg;glhj re;ju;g;gj;jpy; Fwpj;j Nfs;tpg; gj;jpuj;ij mfw;Wjy; Ntz;Lk;.
+
+382. tpiykDf; Nfhuy; FOtpdhy; kjpg;gPl;Lf; FOtpd; mwpf;ifia ftdkhf ghu;g;gjd; %yk; kw;Wk; kjpg;gPl;Lf; FOtplkpUe;J Njitahd njspTgLj;jy;fis ngw;Wf;nfhz;ljd; gpd;du; fPo; tUk; (i) kw;Wk; (ii) Mk; tpjpfspy; fhl;lg;gl;Ls;s Vw;ghLfspy; VjhtnjhU Vw;ghl;bid nraw;gLj;Jjy; Ntz;Lk;.
+
+i. (m) Nfs;tp mspg;Gr; nra;tjw;fhd rpghupRfis rigaplk; Kd;itf;fyhk;.
+
+(M) tpiykDf; Nfhuy; FOtpdhy; nra;ag;gLk; mtjhdpg;Gf;fis Kiwahf fUj;jpw;nfhz;L kPz;Lk; mwpf;ifnahd;wpid Kd;itf;FkhW kjpg;gPl;Lf; FOtplk; Nfhupf;if tpLf;fyhk;.
+
+ii. kjpg;gPl;Lf; FO mwpf;ifapYs;s VNjDk; Fwpg;gpl;l tplak; njhlu;ghf tpiykDf; Nfhuy; FOtpdhy; njhlu;r;rpahf gpur;rpid vOg;gg;gl;lhy;> mt;thW gpur;rpid vOg;gg;gLk; tplak; njhlu;ghf ,zf;fg;ghl;il Vw;gLj;jpf; nfhs;tjw;fhf kjpg;gPl;Lf; FOtpd; midj;J cWg;gpdu;fSlDk; fye;jhNyhrpj;jy; Ntz;Lk;. mjd; gpd;dUk; tpiykDf; Nfhuy; FOtpd; cWg;gpdu;fSf;F Fwpj;j gpur;rpidf;Fupa tplak; njhlu;ghf xUkpj;j jPu;khnkhd;iw vLf;f KbahJtpbd;> tpiykDf; Nfhuy; FOtpd; cWg;gpdu;fspy; ngUk;ghd;ikahdtu;fspd; Kbit mKy;gLj;j Ntz;Lk;. 383. cupa Nfs;tp mspg;Gr; nra;jy; rk;ge;jkhd tpiykDf; Nfhuy; FOtpd; rpghupR rigf;F Kd;itf;fg; gl;ljd; gpd;du; ntw;wpngWk; Vyf;Nfhupf;ifahsiu njupTnra;jy;> me;j Vyf;Nfhupf;ifahsUf;F Nfs;tp mspg;Gr; nra;tjw;F rigapdhy; jPu;khdpf;fg;gly; Ntz;Lk;.
+
+384. Nfs;tpg; gj;jpuj;jpd; nry;YgbahFk; fhyj;jpDs; cupa Nfs;tp mspg;Gr; nra;tJ njhlu;ghf rigapdhy; jPu;khdpf;fg;gl;ljd; gpd;du; nrayhsupdhy; mjw;fhd Vw;Gf; fbjj;ij toq;Fjy; Ntz;Lk;. Vw;Gf; fbjj;jpy; gpd;tUk; Njitg;ghLfisg; G+u;j;jpnra;jy; njhlu;ghf njupthf Vyf;Nfhupf;ifahsUf;F mwptpj;jy; Ntz;Lk;.
+
+i. xg;ge;jj;jpw;fhd gpizf; fhg;gPl;il Kd;itf;f Ntz;ba jpfjp.
+
+ii. rig kw;Wk; Vyk; Nfl;Nghu; cupa xg;ge;jj;jpw;F cs;thq;fNtz;ba jpfjp> ,lk; kw;Wk; mJ njhlu;ghd MNyhridfs; ,Ug;gpd; mjid Kd;itf;f Ntz;ba jpfjp. 385. njupthfhj Vyk; Nfl;Nghu;fspd; FiwghLfis RUf;fkhf fhl;b Vida Nfs;tpg; gj;jpuq;fspy; cs;slf;fg;gl;l tplaq;fis ntspg;gLj;jh tz;zk; njupTnra;ag;glhikf;fhd fhuzj;ij njupthfhj Vyk; Nfl;Nghu; Æ Vyk; Nfl;Nghu;fSf;F mwptpj;jy; Ntz;Lk;. 386. cupa Nfs;tp mspg;gpw;fhd mwptpj;jiy toq;fpajd; gpd;du; jdJ Nfs;tpg;gj;jpuk; njupT nra;ag;glhik njhlu;ghd fhuzj;ij mwpe;J nfhs;tjw;F tpUk;Gk; Vyf; Nfhupf;ifahsupdhy; mjw;fhd Nfhupf;ifia jiytUf;F Kd;itj;jy; Ntz;Lk;. 387. jiytuplk; mt;thwhd Nfhupf;if Kd;itf;fg;gLk; re;ju;g;gj;jpy; Fwpj;j Nfhupf;iff;Fupa Nfs;tpg;gj;jpuk; njhlu;ghf jfty;fis khj;jpuk; Nfhupf;ifahsUf;F mwptpj;jy; Ntz;Lk;.
+
+55A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+388. ,e;j xOq;F tpjpapd; fPohd Njitg;ghLfs; G+u;j;jp nra;ag;gl;ljd; gpd;du; 1987 Mk; Mz;bd; 15 Mk; ,yf;f gpuNjr rig rl;lj;jpd; 19 MtJ kw;Wk; 174 MtJ gpupTfspd; Vw;ghLfs; re;ju;g;gj;jpw;Nfw;wthW G+uzg;gLj;jpajd; gpd;du; rig kw;Wk; Vyk; Nfl;Nghu; cupa xg;ge;jj;jpw;F Fwpg;gpl;l jpdj;jpy; kw;Wk; Neuj;jpy; cs;thq;fg;gLtu;. 389. gpuNjr rigAld; Xg;ge;jj;jpy; ,iztjw;F Kd;du; gpuNjr rigf;fhd Fwpj;j xg;ge;j tiuT mq;fPfupf;fg;gl;Ls;sik kw;Wk; xg;ge;jj;jpw;Fupa fhg;gPL G+uzg;gLj;jg;gl;Ls;sik gw;wp nrayhsupdhy; jiytUf;F cWjpg;gLj;jy; Ntz;Lk;. 390. mspg;Gr; nra;ag;gLk; xg;ge;jq;fs; njhlu;ghf rigapdhy;> (m) fpilf;fg;ngw;w nkhj;j Nfs;tpg;gj;jpuq;fspd; vz;zpf;if. (M) ntw;wpahsuhd Vyf; Nfhupf;ifahsupd; ngau;.
+
+(,) xg;ge;jj;ij mspg;Gr; nra;ag;gl;l njhifia nghUj;jkhd jfty; Clfj;jpd; %yk; ntspaplg;gly; Ntz;Lk;.
+
+i. Nfs;tpg; gj;jpuj;Jld; Nfs;tpg;gj;jpu fhg;gPl;Lg; gpufldnkhd;iw Kd;itf;FkhW Nfhug;gLk; NghJ kw;Wk; vtNuDnkhU Fwpg;gpl;l Vyk; Nfl;Nghu; me;j fhg;gPl;L gpufldj;jpYs;s VNjDnkhU epge;jidia epiwNtw;Wtjw;F jtWk; gl;rj;jpy; jiytupdhy; mt;thwhd jtWif gw;wpa tpguq;fis cs;@uhl;rp MizahsUf;F cldbahf mwptpj;jy; Ntz;Lnkd;gNjhL mJ njhlu;ghf rigaplk; mwpf;ifaply; Ntz;Lk;.
+
+ii. jiytupdhy; mt;thW mwpf;ifapl;ljd; gpd;du;> mjw;Fg; gjpyspg;gjw;fhf VO ehs; fhy mtfhrk; Vyk; Nfl;gtUf;F toq;fg;gLjy; Ntz;Lk;.
+
+iii. jiytupdhy; mt;thW fhy mtfhrj;ij toq;fpajd; gpd;dUk; mjw;fhd jpUg;jpfukhd gjpy; fpilf;fg;ngwtpy;iyahapd; rigapd; mq;fPfhuj;ijg; ngw;W nrayhsupdhy; mJ gw;wp khfhz rigapdhy; guhkupf;fg;gLk; Gwf;fzpg;Gr; nra;j jug;ghupd; juT %yj;jpw;F> Fwpj;j jug;ghupd; ngaiu cl;Nru;j;jy; Ntz;Lk;. 391. ,e;j tpjpapd; fPo; Kd;djhf vjpu;kiwahf vt;thW Fwpg;gplg;gl;bUg;gpDk; jdpahu; Jiwapd; ,ilj;njhlu;Gld; KjyPl;L nraw;jpl;lq;fis nraw;gLj;Jjy; rk;ge;jkhf ,e;jg; ge;jpapd; fPo; Fwpg;gplg;gLk; tpjpfs; Kd;dpiyg;gLj;jg;gl;L Njitf;Nfw;g Vw;Gilajhjy; Ntz;Lk;. 392. rig kw;Wk; jdpahu; Jiwapd; ,ilj;njhlu;Gld; KjyPl;L nraw;jpl;lq;fis nraw;gLj;Jk; NghJ nghUj;jkhd egu;fis cs;slf;fpa> tpN~l tpiykDf; Nfhuy; FO kw;Wk; kjpg;gPl;Lf; FO rigapdhy; epakpf;fg;gly; Ntz;Lk;. 393. gpuNjr rigapdhy; ,dq;fhzg;gl;l nraw;jpl;l eltbf;iffSf;fhf my;yJ rigapdhy; mJtiu ,dq;fhzg;glhj nraw;jpl;l eltbf;iffis nraw;gLj;Jk; MNyhridAld; jdpahu; Jiwapd; ,ilj;njhlu;Gld; KjyPl;L nraw;jpl;lq;fis nraw;gLj;Jtjw;fhf gpuNjr rigapy; jPu;khdnkhd;W mq;fPfupf;fg;gl;bUg;gpd; mJ njhlu;ghf fPo; tUk; Njitg;ghLfs; G+u;j;jp nra;ag;gl;bUj;jy; Ntz;Lk;.
+
+i. Nfs;tpg;gj;jpuk; NfhUtjw;fhf Njrpa Nghl;bKiw Nfs;tpg;gj;jpuk; NfhUk; nray;Kiw tpjpfs; gpd;gw;wg;gly; Ntz;Lk;.
+
+ii. nraw;jpl;lj;ij nraw;gLj;Jtjw;fhd fhzpahdJ NtW gpizg;Gfspd;wp cs;sjhfTk; Fog;gkw;w cupj;J kw;Wk; ,ilA+uw;w Ml;rpAilikia nfhz;bUg;gjhfTk; cWjpg;gLj;jpf; nfhs;sy;.
+
+iii. Fwpj;j fhzp ve;j tifapy; rigapdhy; cupik ngwg;gl;Ls;snjd mwpe;J itj;jpUj;jy;.
+
+56A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+iv. rig jPu;khdnkhd;wpd; Kbtpd; fPo; jPu;khdpf;fg;gl;l nraw;jpl;lnkhd;wh my;yJ jPu;khdj;jpd; fPo; ,dq;fhzg;gl;L nraw;gLj;Jtjw;F cj;Njrpj;Js;s nraw;jpl;lnkhd;wh vd;gij ,dq;fhzy;.
+
+v. nkhj;j KjyPl;bw;Fupa rigapd; gq;fspg;gpd; nkhj;j kjpg;gPl;il rig ,dq;fz;bUj;jy;.
+
+vi. mt;thwhd nraw;jpl;lq;fs; jilapd;wp nraw;gLj;Jtjw;Fj; Njitahd Vida tplaq;fs; ,Ug;gpd; mitaidj;ijAk; epiwNtw;wpapUj;jy;.
+
+vii. nraw;jpl;lj;jpw;F tplag;nghUshd nrhj;jpd; KjyPl;L jd;ikf;Nfw;g mLf;Fkid jpl;l tiuglj;ij mDkjpg;gjw;F fhuzkhapUg;gpd; mjw;fhd rfy Njitg;ghLfisAk; G+u;j;jp nra;jpUj;jy;.
+
+viii. tpiykDf; Nfhuy; FOtpy; rigapd; cWg;gpdu;fs; Fiwe;jgl;rk; VO (07) Ngu;fshtJ ,Uj;jy; Ntz;Lnkd;gNjhL mjpy; jiytu; kw;Wk; rigia gpujpepj;Jtg;gLj;Jk; rig cWg;gpdnuhUtUk; nrayhsu; kw;Wk; cs;@uhl;rp Mizahsiu gpujpepjpg;gLj;Jk; cWg;gpdnuhUtUk; mjd; vz;zpf;ifapy; fz;bg;ghf cs;slf;fg;gLjy; Ntz;Lk;.
+
+ix. jdpahu; kw;Wk; muR ,ize;j nraw;jpl;lq;fis nraw;gLj;JtJ njhlu;ghf kw;Wk; Nfs;tp eilKiw gw;wpa mwpTs;s cWg;gpdnuhUtu; cl;gl kjpg;gPl;Lf; FOtpy; Fiwe;jgl;rk; Ie;J (05) cWg;gpdu;fisf; nfhz;bUj;jy; Ntz;Lk;.
+
+x. kjpg;gPl;Lf; FOtpdhy; Nfs;tpg; gj;jpuk; NfhUk; Mtzj;ij tiutjw;fhf kw;Wk; Nfs;tpg; gj;jpuj;ij kjpg;gPL nra;tjw;fhf kjpg;gPl;Lf; FOtpd; topfhl;ly;fs; kw;Wk; Nkw;ghu;itapd; fPo; ntsp MNyhrfu;fspd; cjtpiag; ngw;Wf;nfhs;sy;. 394. ,e;j tpjpapd; fPo; Kd;djhf vt;thW Fwpg;gplg;gl;bUe;j NghjpYk; rigapd; trKs;s re;ijfis Fj;jiff;F tply;> thliff;F tply;> khl;biwr;rp tpw;gid epiyak;> kPd; tpw;gid epiyak; vd;gtw;iw FWfpa fhy Fj;jiff;F> thliff;F tply; rk;ge;jkhf ,e;j tpjpfspd; fPo; Fwpg;gplg;gLk; tpjpfs; Kd;dpiyg;gLj;jp Njitf;Nfw;g Vw;Gilajhjy; Ntz;Lk;. 395. tUlhe;j Fj;jif> thliff;F tply; rk;ge;jkhf fyz;lu; tUlj;ij mbg;gilahff; nfhs;sy; Ntz;Lk;. 396. Fj;jiff;F my;yJ thliff;F toq;fg;gLk; Mjdk; gpuNjr rigfs; rl;lj;jpd; 16 Mk; kw;Wk; 18 Mk; gpupTfSf;F mikthf rigf;F mspf;fg;gl;Ls;s Mjdnkdpd; mLj;JtUk; fyz;lu; tUlj;jpw;fhf Fj;jiff;F toq;Fjy;> thliff;F toq;Fjy; rk;ge;jkhf rl;lj;jpy; Fwpg;gplg;gl;Ls;s Njitg;ghLfis G+u;j;jp nra;ag;gl;Ls;sjhf epjp nraw;FOtpd; rpghupR tpiykDf; Nfhuy; rigapd; Clhf rigaplk; Kd;itj;jy; Ntz;Lk;. 397. mLj;JtUk; fyz;lu; tUlj;jpw;nfd xg;ge;jk; nra;ag;glNtz;ba cupa Mjdk; rk;ge;jkhf tpiykDf; Nfhuy; nraw;ghLfs; elg;G Mz;bd; nrj;njk;gu; khjk; Kjyhk; (01) jpfjpapypUe;J Muk;gpf;fg; gl;bUj;jy; Ntz;Lk;. 398. Mjdk; njhlu;ghf Nfs;tpg; gj;jpug; ngWkjpia gl;la kjpg;gPl;lhsnuhUtupd; kjpg;gPl;L mwpf;ifia mbg;gilahff; nfhz;L jPu;khdpf;fg;gly; Ntz;Lk;. 399. rigapdhy; Xg;ge;jk; nra;ag;gLk; midj;J Mjdq;fSf;Fk; mt;thW xg;ge;jk; Nkw;nfhs;tjw;fhd rl;lG+u;tkhd cupik rigf;F cs;snjd;gij tpiykDf; Nfhuy; FOtpd; KjyhtJ $l;lj;jpNy jPu;khdpj;jy; Ntz;Lk;. 400. Nfs;tpg;gj;jpuk; NfhUtjw;fhf gj;jpupiffs; %yk; mwptpj;jiyg; gpRupg;gjh my;yJ khw;W Kiwik nahd;iw gpd;gw;wp Nfs;tpg; gj;jpu mwptpj;jiy ntspapLtjw;fhd fhuzKs;sjhntdTk; mt;thnwdpd; me;j khw;W Kiwik vd;dntd;gijg; gw;wpa gupe;Jiuia tpiykDf; Nfhuy; FOtpdhy; rigaplk; Kd;itj;jy; Ntz;Lk;.
+
+57A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+401. Nfs;tpg;gj;jpuk; NfhUk; nghOJ Kd;itf;fg;gLk; Nfs;tpg; gj;jpuq;fSf;fpilapy; jFjpfisg; G+u;j;jp nra;Js;s Nfs;tpg;gj;jpukhf kjpg;gPl;Lf; FOtpd; rpghupR tpiykDf; Nfhuy; FOtpw;F Kd;itf;fg;gl;ljd; gpd;du; rigf;F kpfTk; rhjfkhd ntw;wpngWk; Nfs;tpg;gj;jpuk; rk;ge;jkhd gupe;Jiuia tpiykDf; Nfhuy; FOtpdhy; kw;Wk; fzf;Ff; FOtpd; %yk; nghJr; rigf;F Kd;itf;fg;gly; Ntz;Lk;.
+
+402. ntw;wpngWk; Vyk; Nfl;Nghu; rk;ge;jkhf rig jPu;khdpj;jjd; gpd;du; cupa Nfs;tp mspg;G njhlu;ghd jPu;khdj;ij ntw;wpngWk; Vyk; Nfl;NghUf;F nrayhsupdhy; vOj;J %yk; mwptpj;jy; Ntz;Lk;.
+
+403. ntw;wpngWk; Vyk; Nfl;NghUf;F Nfs;tp mspg;Gr; nra;ag;gl;ljd; gpd;du;> Vw;Gf; fbjj;jpy; Fwpg;gplg;gl;Ls;s jpdj;jpy; (mjw;Fupa epahakhd fhuzj;ij Kd;itg;gjd; ClhfNth Kd;itf;fhkNyh) cupa xg;ge;jj;jpw;F cs;thq;f jtWk; gl;rj;jpy; tpiykDf; Nfhuy; FO cldbahf $b vLf;fg;gl Ntz;ba mLj;jfl;l eltbf;iffs; njhlu;ghd gupe;Jiuia rigaplk; Kd;itj;jy; Ntz;Lk;. 404. Fj;jiff;F vLj;jtu; my;yJ thliff;F vLj;jtu; tUlj;jpDs; my;yJ xg;ge;j fhyj;jpDs;> fhyj;ij kPjg;gLj;jp xg;ge;jj;ij KbTWj;Jtjw;F fhuzNkw;gl;bUf;Fk; re;ju;g;gj;jpy;> tUlj;jpd; vQ;rpa fhyg;gFjpf;fhf xg;ge;jf;fhuu;fis ,dq;fhz;gJ mjw;fhf Kd;ida Nfs;tpg;gj;jpuq;fspy; jFjpAs;s Nfs;tpg;gj;jpukhf kjpg;gPl;Lf; FOtpdhy; gupe;Jiuf;fg;gl;l Vyk; Nfl;Nghu;fSf;fpilapypUe;J Vyk; Nfl;NghnuhUtiu tpiykDf; Nfhuy; rigapdhy; gupe;Jiu nra;ayhk; vd;gNjhL> mt;thwpd;Nwy; mjw;fhf rigf;Fr; rhjfkhd khw;W topKiwfs; vd;dntd;gij Fwpj;j Nfs;tpg;gj;jpuf; Nfhupf;ifAld; njhlu;Ggl;l tpiykDf; Nfhuy; FOtpdhy; rigf;F gupe;Jiu nra;jy; Ntz;Lk;. mjw;fhf tpiykDf; Nfhuy; rigapd; Kd; Vyk; Nfl;Nghiu mioj;J fye;JiuahLtJ rl;lG+u;tkhFk;. 405. Nfs;tp mspg;Gg; gj;jpuj;jpy; xg;ge;jj;jpy; ,iztjw;F toq;fg;gLk; cupa jpfjpapNyh mjw;F Kd;dNuh Kiwahd xg;ge;jnkhd;Wf;F cs;thq;fj; jtwpa my;yJ Nkyjpf fhyk; toq;fg;gl;L mf; fhyg; gFjpapDs;NsDk; xg;ge;jnkhd;Wf;F cs;thq;fhj epiyahd nrhj;Jf;fs; rk;ge;jkhf nrayhsupdhy; tpiykDf; Nfhuy; FOtpw;F mJ gw;wpa mwpf;ifia toq;Fjy; Ntz;Lk;. 406. tpiykDf; Nfhuy; FOtpdhy; mijj; njhlu;e;J vLf;fg;glNtz;ba nraw;ghLfs; njhlu;ghd gupe;Jiu xU thuj;jpDs; rigaplk; Kd;itf;fg;gly; Ntz;Lk;. 407. VNjDnkhU Mjdk; rk;ge;jkhf jFjptha;e;j Vyk; Nfl;Nghu; xd;Wf;F Nkw;gl;Nlhu; ,Uf;Fk; re;ju;g;gj;jpy; mLj;j rhjfkhd Vyk; Nfl;Nghuhf tpiykDf; Nfhuy; FO gupe;Jiuf;FNkahdhy; Nfs;tp mspg;ig Fwpj;j Vyk; Nfl;NghUf;F toq;f KbAnkd;gNjhL> jFjptha;e;j Vyk; Nfl;Nghu;fSf;F khj;jpuk; cupa gbKiwia njhlu;e;J gpd;gw;Wtjw;F tpiykD Nfhuy; FOtpdhy; gupe;Jiu toq;fg;gLtJ rl;lG+u;tkhdjhFk;. 408. VNjDnkhU Mjdk; rk;ge;jkhf jFjptha;e;j Vyk; Nfl;Nghu; xd;Wf;F Nkw;gl;Nlhu; ,y;yhj re;ju;g;gj;jpy; my;yJ jFjptha;e;j Vyk; Nfl;Nghu; Nfs;tp mspg;ig Vw;fhj re;ju;g;gj;jpy; Fwpj;j Mjdk; njhlu;ghf ,e;j xOq;F tpjpf;F mikthf kPz;Lk; tpiykDf; Nfhuy; eilKiwia Muk;gpg;gjw;F jiytu; eltbf;ifnaLj;jy; Ntz;Lk;. 409. epiyahd nrhj;njhd;iw Fj;jiff;F my;yJ thliff;F toq;Fk;NghJ mjd; Nfs;tpg; gj;jpu kjpg;gPL Kd; gzg;ngWkjp kw;Wk; thlifia jPu;khdpf;Fk; nghOJ vg;nghOJk; mur my;yJ jdpahu; gl;la kjpg;gPl;lhsu; %yk; cWjpg;gLj;jg;gl;l ngWkjpia mbg;gilahff; nfhs;sy; Ntz;Lk;. 410. ,e;j xOq;F tpjpapd; fPo; Kd;du; vt;thW Fwpg;gplg;gl;bUe;j NghjpYk; rigf;Fr; nrhe;jkhd epiyahd kw;Wk; eilKiw nrhj;Jf;fis tpw;gid nra;tJ rk;ge;jkhf ,e;j mj;jpahaj;jpd; fPo; Fwpg;gplg;gLk; tpjpfs; mjw;fhf Kd;dpiyg;gLj;jp Vw;Gilajhjy; Ntz;Lk;.
+
+58A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+i. rigf;Fr; nrhe;jkhd epiyahd nrhj;J> rigf;F nrhe;jkhfpa Kiwf;Nfw;g cupa gj;jpuj;jpd; fPo; khw;wy; gjpNtl;by; Fwpg;gplg;gl;Ls;s epge;jidfspd; gpufhuk; my;yJ NtW tifapy; tpw;gid nra;tjw;F vt;tpjkhd jilAkpy;iy vd;gJ gw;wp mJ njhlu;ghf epakpf;fg;gl;l tpN~l FOtpdhy; cWjpg;gLj;jg;gly; Ntz;Lk;.
+
+ii. NkYs;s tpjpapd; fPohd mwpf;ifia nrayhsupdhy; jiytUf;F Kd;itj;jjd; gpd;du; jiytupdhy; mjw;fhd rigapd; mDkjpiag; ngWtjw;fhd Kd;nkhopnthd;iw rigapy; Kd;itj;J mDkjpiag; ngw;Wf;nfhs;sy; Ntz;Lk;.
+
+iii. tpiykDf; Nfhuy; eltbf;iffSf;fhf epiyahd tpiykDf; Nfhuy; FOnthd;W my;yJ mjw;fhfNt epakpf;fg;gl;l tpiykDf; Nfhuy; FOtpdhy; tpiykDf; Nfhuy; eltbf;iff;Fupa Mjdj;ij Fwpg;ghf ,dq;fz;Lnfhs;s Ntz;Lnkd;gNjhL> mjw;fpizahf Fwpj;j gzpf;fhf epakpf;fg;gl;Ls;s kjpg;gPl;Lf; FOtpd; fPo; tpw;gid nra;tjw;Fupa Mjdk; rk;ge;jkhf re;ju;g;gj;jpw;Nfw;w tifapy; gl;la kjpg;gPl;lhsnuhUtupd; fPo; my;yJ eilKiwr; nrhj;njhd;nwdpd; mjw;fhd epGzj;JtKs;s egu;fsplkpUe;J ngw;Wf;nfhs;sg;gl;l kjpg;gPl;L mwpf;ifia mbg;gilahff; nfhz;L Mjdj;jpd; ngWkjp njhlu;ghd gupe;Jiuia tpiykD Nfhuy; FOtpw;F toq;Fjy; Ntz;Lk;.
+
+iv. eilKiwr; nrhj;J rk;ge;jkhf vdpd; tpiykDf; Nfhuy; FOtpdhy; cupa nghUl;fspd; jdpj;jdpahd kjpg;gPl;Lg; ngWkjpia mbg;gilahff; nfhz;L me;je;j nghUl;fspd; Nfs;tpg; gj;jpu kjpg;gPl;il jPu;khdpf;f Ntz;Lnkd;gNjhL> me;j kjpg;gPl;bd; gb rigf;F cr;r epjp ed;ikiaj; juf;$bajhf Nkw;nfhs;sg;gl Ntz;ba nghUj;jkhd tpiykDf; Nfhuy; Kiwik njhlu;ghd gupe;Jiuia rigaplk; Kd;itj;jy; Ntz;Lk;. me;j gupe;Jiuaia mbg;gilahff; nfhz;L gpd;gw;w Ntz;ba tpiykD Nfhuy; eilKiwia rig jPu;khdpj;jy; Ntz;Lk;.
+
+v. epiyahd nrhj;J rk;ge;jkhf vdpd; Njrpa mstpy; gpugykhd gj;jpupifapd; %yk; nghJkf;fSf;F tpsk;gug;gLj;jg;gLk; mwptpj;jy; Clhf kw;Wk; tpiykDf; Nfhuy; rigapdhy; gupe;Jiu nra;ag;gLk; NtW Kiwapy; tpsk;gug;gLj;jp gfpuq;f Vy tpw;gidapd; fPo; Nfs;tpg; gj;jpuk; NfhUtjd; Clhf kpfTk; rhjfkhd tpiyf;F tpw;gid nra;jy; Ntz;Lk;.
+
+vi. eilKiwr; nrhj;jpd; fPohf xNu jlitapy; tpw;gid nra;tjw;Fs;s nghUl;fis ntt;Ntwhf Fwpg;gpl;L tpiuthf mjw;fhd tpiykDf; Nfhuy; eltbf;ifapD}lhf Nfs;tp gj;jpu ngWkjpia ngw;Wf;nfhs;s Ntz;Lnkd;gNjhL> mt;thW nghUl;fs; vd;w uPjpapy; fUjhJ Nfs;tpg; gj;jpu ngWkjpiag; ngw;Wf;nfhs;tjw;F fhuzkpUg;gpd; mjw;fhd fhuzj;ij kjpg;gPl;Lf; FO kw;Wk; tpiykDf; Nfhuy; FO ,ize;J elhj;Jk; $l;lj;jpy; jPu;khdpj;J rig mq;fPfhuj;ij ngw;wpUj;jy; Ntz;Lk;. 411. rig trKs;s fhzp> fl;blj;ij ePz;l fhy Fj;jiff;F> thliff;F toq;FtJ rk;ge;jkhf ,e;j tpjpapd; fPo; Kd;duhf vt;thW Fwpg;gplg;gl;bUe;j NghjpYk; fPo; tUk; Vw;ghLfs; mJ njhlu;ghf Kd;Dupik mspj;jy; Ntz;Lk;.
+
+i. rig trKs;s fhzpfis xU tUlj;jpw;F Nkw;gl;l fhyj;jpw;F Fj;jiff;F tply;> thliff;F toq;Ftjw;fhd tpiykDf; Nfhuy; eltbf;ifapy; ,e;j xOq;F tpjpapd; fPo; Vida tpjpfspy; vt;thW Fwpg;gplg;gl;bUg;gpDk; ,e;j ge;jpapd; fPohd tpjpfs; Kd;Dupik mspj;J Vw;Gilajhjy; Ntz;Lnkd;gNjhL mjw;fhf fPo; tUk; tplaq;fs; G+u;j;jp nra;ag;gl;bUg;gjhf tpiykDf; Nfhuy; FOtpdhy; rigaplk; gupe;Jiuia toq;Fjy; Ntz;Lk;.
+
+ii. gpuNjr rigahdJ jdJ nrhe;j epiyahd nrhj;ij (fhzp my;yJ fl;llk;) Fj;jiff;F tpLjy; my;yJ thliff;F toq;Fjy; my;yJ tpw;gid nra;tJ rk;ge;jkhd eltbf;iffis Nkw;nfhs;Sk; NghJ 1987 Mk; Mz;bd; 15 Mk; ,yf;f gpuNjr rigfs; rl;lj;jpd; 19 MtJ gpuptpd; (1) MtJ cg gpuptpd; (x, xi kw;Wk; xii) vDk; Jiz gpuptpd; fPo; Fwpg;gplg;gl;Ls;s Vw;ghLfs; mjw;fhf G+uzkhAs;sjhf tpiykDf; Nfhuy; FOtpdhy; rigaplk; gupe;Jiu toq;Fjy; Ntz;Lk;.
+
+59A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+iii. rigapdhy; Fj;jiff;F toq;f cj;Njrpj;Js;s midj;Jf; fl;blq;fs; rk;ge;jkhfTk; Fj;jiff;F vLf;Fk; jug;ghiu ,dq;fhz Ntz;baJ ,e;j tpjpapd; fPo; tpgupf;fg;gLk; Kiwahd tpiykDf; Nfhuy; eltbf;ifapD}lhf vd;gNjhL> mt;thW ,dq;fhzg;gLk; jug;ghu;fSf;fpilapy; cld;gbf;if nra;Jnfhs;sg;gLk; fhyvy;iy vt;tsT vd;gij mjw;fhd mbg;gilahff; nfhs;sg;gLk; tpiykD mwptpj;jypy; njspthff; Fwpg;gplg;gLjy; Ntz;Lk;. mjd; gpufhuk; nra;Jnfhs;sg;gLk; Fj;jif xg;ge;jj;jpy; Fj;jif fhyk;> mjw;F mbg;gilahff; nfhs;sg;gLk; tpiykD mwptpj;jypy; gupe;Jiuf;fg;gLk; Fj;jiff; fhyg; gFjpahf fUjp Nfs;tp mspg;Gr; nra;jy; Ntz;Lk;.
+
+iv. nrhe;j Mjdk; rk;ge;jkhf VNjDnkhU Fj;jif fhyg;gFjpf;fhfTk; Kiwahd tpiykDf; Nfhuy; eltbf;ifapD}lhf njupTnra;ag;gl;l Vyk; Nfl;NghUld; nra;Jnfhs;sg;gLk; xg;ge;jj;jpy; xg;ge;j fhyj;jpw;F khj;jpuk; gpd;Dupj;Jf; fhuu;fspd; cupikfSk; mf;fhyj;jpw;fhf Vw;Wf;nfhs;s KbAk;.
+
+v. Kw;gzj;ij gad;gLj;jp Nkw;nfhs;sg;gLk; epu;khzkhf ,Uf;Fk; gl;rj;jpy; khj;jpuk; epu;khzpf;fg;glTs;s fl;blj;jpd; Fj;jif vt;thwhapDk;> xg;ge;jj;jpy; Fwpg;gplg;gl;Ls;s epge;jidfSf;F cl;gl;L> mjid ePbg;gjw;fhd ,zf;fg;ghl;il Vw;Wf;nfhs;tjw;F NkYs;s tpjp jilahf ,Uj;jyhfhJ.
+
+vi. rigapdhy; Fj;jiff;F my;yJ thliff;F toq;fpa> xg;ge;jk; nra;Js;s Fj;jiff;F vLg;gtu;fs; my;yJ thliff; fhuu;fspd; fPo; guhkupf;fg;gLk; fl;blnkhd;iw mgptpUj;jp eltbf;iff;fhf my;yJ NtW VNjDk; Njitg;ghLfSf;fhf mfw;Wk; re;ju;g;gj;jpy; me;j Mjdj;jpw;F xg;ge;jk; nra;Jnfhz;Ls;s jug;ghUf;F xg;ge;j fhyg;gFjpf;F khj;jpuk; eilKiwapYs;s Fj;jif xg;ge;jj;jpd; epge;jidfSf;F mikthf khw;W ,lj;ij toq;Ftjw;F rigapdhy; eltbf;ifnaLj;jy; Ntz;Lk;.
+
+vii. mgptpUj;jp eltbf;iffSf;fhf mfw;wg;gl;ljd; gpd;du; epu;khzpf;fg;gLk; tu;j;jff; fl;blj; njhFjpapy; Gjpa trjpfSld; Kd;ida Fj;jif ngWeu;fSf;F tpw;gid epiyaj;ij toq;Fk; NghJ mjw;fhf murpd; kjpg;gPl;Lg; ngWkjpia mbg;gilahff; nfhz;L epu;zak; nra;ag;gl;l thlifia Fj;jiff; $ypahf fUjp Kd;ida xg;ge;jj;jpd; vQ;rpa fhyg;gFjpf;F khj;jpuk; Nkyjpfkhd xg;ge;jnkhd;iw Vw;gLj;jpf; nfhs;tjw;F ,e;j tpjp jilahf ,Uj;jyhfhJ.
+
+viii. cs;@uhl;rp epWtdnkhd;W Fj;jiff;F my;yJ thliff;F toq;Fk; midj;J epiyahd nrhj;Jf;fSf;Fk; cupa xg;ge;j fhyg;gFjpapDs; Fj;jiff; fhyk; xt;nthU fl;blj;jpw;Fk;> fhzpf;Fk; xg;ge;jk; nra;Jnfhs;sg;gl;l jpfjpapypUe;J xt;nthU %d;W tUlj;jpw;nfhUKiw khjhe;j thlifia mur kjpg;gPl;lhsupd; my;yJ gl;la kjpg;gPl;lhsupd; my;yJ kjpg;gPl;bw;F mika jpUj;jpaikf;fg;gly; Ntz;Lnkd;gNjhL mjw;fhd mq;fPfhuj;ij cWjpg;gLj;Jk; nghUl;L cupa tpiykDf; Nfhuy; mwptpj;jypy; kw;Wk; Fj;jif mspg;Gf; fbjj;jpy; gaDs;s epge;jidfs; cs;slf;fg;gl;bUj;jy; Ntz;Lk;.
+
+ix. tpjpf;fg;gl;l Fj;jifj; njhiff;F Nkyjpfkhf kjpg;gPl;L tupiaAk; cupa Fj;jiff; fhyj;jpw;fhf nrYj;jg;gly; Ntz;Lnkd;gij tpiykDf; Nfhuy; mwptpj;jypy; ntspg;gLj;jy; Ntz;Lnkd;gNjhL mjw;F mikthf xg;ge;jj;ij Nkw;nfhs;s Ntz;Lk;.
+
+gpuNjr rigf;F fpilf;fg;ngw Ntz;ba fl;lzq;fs;
+
+412. gpuNjr rig mwtpLk; Kj;jpiuf; fl;lzky;yhj Vida rfy fl;lzq;fSk;> mf; fl;lzq;fis jPu;khdpg;gjw;fhf cs;@uhl;rp epWtdq;fSf;F mjpfhukspf;fg;gl;l vOj;J %y rl;lj;jpy; Fwpg;gplg; gl;Ls;s Vw;ghLfSf;F mikthf rigapdhy; jPu;khdpf;fg;gl;L gpufldg;gLj;jg;gl;l fl;lzq;fshf ,Uj;jy; Ntz;Lk;.
+
+60A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+413. gpuNjr rig mjpfhu vy;iyapDs; fhzp gupkhw;wk; rk;ge;jkhf mwtplg;gl Ntz;ba Kj;jpiuf; fl;lzk; mt;tg;NghJ mjw;fhf khfhz rigapdhy; tpjpf;fg;gLk; epajpr; rl;lq;fs; Clhf my;yJ NtNwNjDk; vOj;J%y rl;lj;jpd; fPo; Fwpg;gplg;gl;Ls;s tpjj;jpy; cs;@uhl;rp epWtdq;fspdhy; mwtplg;gly; Ntz;Lk;.
+
+414. gpuNjr rigf;Fr; nrYj;j Ntz;ba fl;lzq;fis ,e;j xOq;F tpjpapd; fPohd Vw;ghL nra;ag;gl;Ls;s ve;jnthU tifapYk; nrYj;jg;glyhk; vd;gNjhL> fl;lznkhd;Wf;fhd Nritnahd;W njhlu;G gl;bUf;Fk; rfy re;ju;g;gj;jpYk; Fwpj;j fl;lzj;ijr; nrYj;Jk; tiu Nritia Vw;Wf;nfhs;tjw;F vtUf;Fk; cupik ,Uj;jyhfhJ.
+
+415. cupa fl;lzj;ij mwtpLtjw;F Kd;du; mjw;Fupa Nritia Vw;Wf;nfhs;tjw;F rfy tpjj;jpYk; vOj;J%y rl;lj;jpd; Njitg;ghLfs; G+u;j;jp nra;ag;gl;Ls;sij fl;lzj;ij mwtpLtjw;F mjpfhukspf;fg;gl;l cj;jpNahfj;ju; jpUg;jpailjy; Ntz;Lk;. 416. mwtplg;gLk; fl;lzkhdJ cs;@uhl;rp epWtdnkhd;wpdhy; ngwg;glNtz;ba mDkjpg;gj;jpuk; rk;ge;jkhfntdpd; mf; fl;lzj;ij cupa mDkjpg;gj;jpuk; tpepNahfpg;gjw;fhf mwtplg;gLk; fl;lzkhf mwtplg;gl Ntz;Lnkd;gNjhL mDkjpg;gj;jpuj;ij tpepNahfpg;gjw;F Kd;du; mwtPLfis Nkw;nfhs;syhfhJ. 417. tUlhe;j mDkjpg;gj;jpuj;jpd; fPo; tu;j;jfk; ifj;njhopy; rk;ge;jkhd mwpf;ifnahd;W elg;G Mz;bd; khr;R khjk; Kg;gj;Njhuhk; (31) jpfjpf;F Kd;du; Nkw;nfhs;sg;gl;l fzf;nfLg;G jfty;fspd; mbg;gilapy; jahupf;fg;gly; Ntz;Lnkd;gNjhL> me;j jfty;fspd; mbg;gilapy; md;iwa jpfjp tiu mDkjpg;gj;jpuq;fisg; ngw;wpUf;fhj ifj;njhopy;fs; kw;Wk; tpahghuq;fs; njhlu;ghf mjw;Fupa ePjpthd; ePjpkd;wpy; Fw;wr;rhl;il KiwapLtjw;F mjw;Fupa mjpfhukspf;fg;gl;l cj;jpNahfj;jupdhy; tpiuthf eltbf;ifnaLj;jy; Ntz;Lk;. 418. NkYs;s gpuptpd; fPo; jahupf;fg;gl;l mwpf;iff;F fPo;f; Fwpg;gplg;gl;Ls;s tpguq;fs; cs;slf;fg;gly; Ntz;Lk;.
+
+i. ifj;njhopy; my;yJ tpahghuj;jpd; ngau;.
+
+ii. fpuhk mYtyu; gpupT.
+
+iii. ifj;njhopy; my;yJ tpahghuj;jpd; jd;ik.
+
+iv. tup kjpg;gPl;L ,yf;fk; (,Ug;gpd;)>
+
+v. ifj;njhopiy my;yJ tpahghuj;ij nfhz;L elhj;Jk; egupd; ngau;. 419. cs;@uhl;rp epWtdj;jpw;F nrYj;jg;gLk; fl;lzj; njhifahdJ mjw;fhf mwtplg;gl Ntz;ba ngWkjpnad mjw;nfd mjpfhukspf;fg;gl;l cj;jpNahfj;jupdhy; cWjpg;gLj;jpapUj;jy; Ntz;Lk;. 420. fyz;lu; khj;jpw;F ,izahf cs;@uhl;rp epWtd epjpaj;jpw;F mwtplg;gl;l fl;lzq;fs; njhlu;ghd mwpf;ifia gpuNjr rigapd; nrayhsuplk; rku;g;gpj;jy; Ntz;Lk;. 421. cs;@uhl;rp epWtd epjpaj;jpw;Fupajhd nfhLg;gdTfs; rk;ge;jkhf Muk;gpf;fg;gLk; ePjpkd;w eltbf;iffSf;F mjw;fhf nrayhsupdhy; mjpfhuk; toq;fg;gl;l cj;jpNahfj;jupdhy; ngau;g; gl;banyhd;iw guhkupj;jy; Ntz;Lk;. 422. gpuNjr rigapdhy; nghUl;fs;> Ntiy> Nrit jfty; fl;likg;G kw;Wk; toq;fy; vd;w tplaq;fs; rk;ge;jkhd nfhs;Kjy; eltbf;iffis mJ rk;ge;jkhf Njrpa nfhs;Kjy; Mizf;FOtpdhy; mjw;nfd jahupf;fg;gl;Ls;s tpjpKiwfSf;F cl;gl;L Nkw;nfhs;s Ntz;Lnkd;gNjhL> mJtiu murpd; nfhs;Kjy; topfhl;b tpjpf;Nfhitia mjw;fhf Vw;Gilajhf;fpf; nfhs;sNtz;Lk;.
+
+61A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+Neubahf gzpf;fku;j;Jtjd; %ykhd nraw;ghLfs;
+
+423. gpuNjr rigapdhy; Neubahf gzpf;fku;j;Jtjd; %yk; nraw;jpl;lq;fis nraw;gLj;Jk;NghJ fPo;f; Fwpg;gplg;gl;Ls;s gbKiwfs; G+u;j;jp nra;ag;gl;bUj;jy; Ntz;Lk;.
+
+i. gpuNjr rigapdhy; Neubahf gzpf;fku;j;Jtjd; %yk; nraw;gLj;jg;gLk; nraw;jpl;lq;fs; rk;ge;jkhf Ntiy nraw;ghLfspy; <LgLj;Jk;NghJ mjw;fhf mDkjpaspf;fg;gl;l kjpg;gPl;bw;F mikthf eltbf;ifnaLj;jy; Ntz;Lnkd;gNjhL> mjpy; VJk; khw;wq;fs; ,Ug;gpd; mtw;iw rigapdhy; my;yJ rigapdhy; mjpfhukspf;fg;gl;Ls;s Kiwapy; mDkjpiag; ngw;Wf; nfhs;s Ntz;Lk;.
+
+ii. gpuNjr rigahdJ Neubahf gzpf;fku;j;Jtjd; %yk; Nkw;nfhs;sg;gLk; gzpfs; rk;ge;jkhf jahupf;f Ntz;ba kjpg;gPl;bid rigapdhy; mq;fPfupf;fg;gl Ntz;Lk;.
+
+424. Neubahf gzpf;fku;j;Jtjd; %yk; kjpg;gPl;Lg; ngWkjp njhlu;ghf Fwpg;gplj;jf;f epjp NtWghLfis cupa khfhz rigapdhy; mjw;fhf cupa mjpfhupfspd; %ykhf mt;tg;NghJ ntspg;gLj;jg;gly; Ntz;Lk;. 425. Neubahf gzpf;fku;j;Jtjd; %yk; eltbf;iffis Nkw;nfhs;Sk; xt;nthU Ntiyj; jsj;jpYk; nray;gLj;jg;gLk; nraw;ghLfs; NghyNt ehshe;j kpFjpia kw;Wk; Nritapy; <LgLj;jg;gLk; gzpahsu;fs; njhlu;ghd jfty;fisAk; ifapUg;gpy; itj;jpUj;jy; Ntz;Lk;.
+
+,ilf;fhy Vw;ghLfs;
+
+426. VNjDk; gpuNjr rignahd;wpdhy; 2019.01.01 Me; jpfjpastpy; vt;thwhd epjp mwpf;ifaply; gad;gLj;jg;gl;l NghjpYk;> 2020.01.01 Me; jpfjp Kjy; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mika gpuNjr rigapd; epjp mwpf;ifaplg;gly; Ntz;Lk;. MapDk;> 2019.12.31 Me; jpfjpf;F Kd;du; gpuNjr rigapdhy; 2019 Mk; Mz;bd; epjp Mz;Lf;fhf eilKiwg;gLj;jg;gl;l tuTnryTj;jpl;lj;jpw;F ,izthf rigapdhy; cupa Kiwapy; Vw;Wf; nfhs;sg;gl;l tuTnryTj;jpl;lq;fs; re;ju;g;gj;jpw;F Vw;g ,e;j tpjpfSf;F cl;gl;L 2020 Mk; Mz;Lf;fhf Vw;Gilajhf ,Uj;jy; Ntz;Lk;. 427. gpuNjr rigf;fhd cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mika Muk;g epjpf; $w;Wf;fspy; gpuNjr rigapdhy; mJ njhlu;gpy; njspthf Fwpg;gpLjy; Ntz;Lk;. mj;NjhL> gpuNjr rigapdhy; mt;thW Muk;g $w;nwhd;whf gpd;tUk; re;ju;g;gq;fs; fUjg;gly; Ntz;Lk;.
+
+(i) Kd;ida fhyg;gFjpf;fhf epjpf; $w;Wf;fs; rku;g;gpf;fg;glhj tplj;J> my;yJ (ii) midj;J tplaq;fs; njhlu;gpYk; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; mbg;gilfSf;F mika Nru;f;fg;gl;l mbg;gilapy; kpf mz;ika Kd;ida epjpf; $w;Wf;fis rku;g;gpj;jy; my;yJ> (iii) cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mika mjd; mz;ika Kd;ida epjpf; $w;Wf;fs; rku;g;gpf;fg;gLkplj;J> 428. 2020 rdtup 01 Mk; jpfjpf;F Kd;du; jahupf;fg;gl;l epjpf; $w;Wf;fspy; vt;thW Fwpg;gplg;gl;Ls;s NghjpYk; 2020 rdtup khjk; 01 Mk; jpfjpf;F ,e;j tpjpfspd; fPOs;s Vw;ghLfSf;F mikthf nrhj;Jf;fs; kw;Wk; nghWg;Gf;fspd; $w;Wf;fs; jahupf;fg;gLjy; Ntz;Lk;. 429. ,e;j tpjpfspd; fPo; gpd;tUk; tpjpfSf;Fs; Vw;ghLfs; cs;slf;fg;gl;Ls;s re;ju;g;gq;fspy; md;wp> gpuNjr rigapdhy; mjd; Muk;g nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;Wf;fspy; gpd;tUk; jfty;fis cs;slf;Fjy; Ntz;Lk;.
+
+62A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+(i) cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; %yk; ,dq;fhz;gjw;F mtrpakhd midj;J nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; ,dk; fhzg;gLjy; Ntz;Lk;.
+
+(ii) cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; Clhf ,dk; fhz;gjw;F mDkjp toq;fg;glhj nrhj;Jf;fs; kw;Wk; nghWg;Gf;fspd; tiffs; ,dk;fhzg;gly; $lhJ.
+
+(iii) cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; fPo; NtWgl;l tiffspd; nrhj;Jf;fs;> nghWg;Gf;fs; my;yJ gq;Ffspd; $Wfs;> mjd; Kd;ida mbg;gilapd; epjp mwpf;ifapd; fPo; xU tifapdJ nrhj;Jf;fs;> nghWg;Gf;fs; my;yJ gq;fpd; $whf milahsk; fhzg;gl;l midj;J tiffSk; kPz;Lk; tifg;gLj;jg;gly; Ntz;Lk;. (iv) midj;J milahsk; fhzg;gl;l nrhj;Jf;fs; kw;Wk; nghWg;Gf;fis mstpLk; NghJ cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fisg; gpuNahfpj;jy; Ntz;Lk;.
+
+430. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fis gpuNjr rigahdJ mjd; Muk;g nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; $w;wpy; gad;gLj;jpa fzf;fPl;Lf; nfhs;iffs; 2020 rdtup 01 Me; jpfjpf;F Kd;duhd gad;gLj;jg;gl;ltw;wpypUe;J khWgl KbAk;. NtW epfo;Tfs; my;yJ epiyikapd; ngWNgWfspd; mbg;gilapy; rPuhf;fq;fs; epfo KbAk;. vdNt> cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F eilKiwg;gLj;jg;gl;l jpfjpahd 2020 rdtup 01 Me; jpfjpf;F kpif my;yJ Fiwghl;Lf;F (my;yJ nghUj;jnkdpd; Njwpa nrhj;Jf;fs; Æ ,Ug;Gf; fspDs; NtW tifnahd;W) rPuhf;fq;fshf mit gpuNjr rigapdhy; ,dq;fhzg;gLjy; Ntz;Lk;. 431. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf kpfTk; mz;ika mjd; epjpf; $w;Wf;fis rku;g;gpj;j gpuNjr rigahdJ cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf epjpf; $w;Wf;fis rku;g;gpf;fpd;w NghJ gad;gLj;jpa Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;wpd; kPs;fzf;fplg;gl;l ngWkjpiag; gad;gLj;Jtjw;F njupTnra;a KbAk;. mt;thwhd kPs;fzpg;gpd; %yk; md;iwa jpdk; me;j tifapdJ rkfhyg; ngWkjp fhl;lg;gLtjhy; ,e;j epakq;fSf;F mika epjpf; $w;Wf;fs; rku;g;gpf;fg;gl;Ls;sjhf fUjg;gly; Ntz;Lk;. 432. gpuNjr rigapdhy; Kd;ida epjpf; $w;Wf;fspy; ,dk; fhzhj Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; my;yJ Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tiffs;. (m) ,dq;fhz;gjw;F> njupT nra;tjw;F cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fis fle;J nry;tjw;F Kd;du; ifafg;gLj;jg;gl;l Mjdk;> ,ae;jpuk; kw;Wk; cgfuzk; my;yJ VNjDk; Vw;Gila tiffspd; Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; khw;wk; ngw;w jpfjpf;Fupa re;ij tpiyf;F my;yJ
+
+(M) cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; khw;wk; ngw;w jpfjpf;F nghWg;G gFjpasT my;yJ KOikahf epYitahf cs;s fld; ngWiffs; %yk; epjpaPl;lk; nra;J nfhs;tdT nra;ag;gl;l Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; jtpu;e;j gpuNjr rig Kd;ida epjpf; $w;Wf;fspy; ,dk;fhzhj Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; my;yJ VNjDk; tplankhd;wpd; Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fSf;F cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; khw;wk; ngw;w jpfjpf;F Kd;du; ifafg;gLj;jg;gl;l Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fs; my;yJ VNjDk; tifnahd;wpd; Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fis gpuNjr rigapdhy; ,dk; fhzhjpUf;f KbAk;.
+
+63A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+433. Kd;ida tpjpapd; gpufhuk; njupTnra;ag;glhj kw;Wk; VNjDk; Mjdk;> ,ae;jpuk; kw;Wk; cgfuz tifnahd;W my;yJ tiffis ,dk; fhzhj gpuNjr rigahdJ gpd;du; epfOk; mwpf;ifaplg;gLk; jpfjp Vw;Gila tifapd; my;yJ tiff;Fl;gl;l Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; re;ijg; ngWkjpia ,dk;fz;L me;j Vw;Gila Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; re;ijg; ngWkjpia md;iwa jpdj;jpy; mtw;wpd; rkfhy ngWkjpahf ,dq;fhz KbAk;. 434. Nkw;gb tpjpfSf;F mika nrhj;Jf;fs; kw;Wk; nghWg;Gf;fspd; rkfhyg; ngWkjpia ,dk;fz;l gpuNjr rig eyid xg;gpl;L Fiwghl;il my;yJ kpifia ,dq;fhZjy; Ntz;Lk;. 435. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F mikthf cs;s mjd; Muk;g epjpf; $w;Wf;fspy; xg;gPl;L uPjpahd jfty;fshf ,e;j epakq;fspd; gpufhuk; jahupf;fg;gl;l mjd; Muk;gr; nrhj;Jf;fs; kw;Wk; nghWg;Gf;fs; (2020 rdtup 01 Mk; jpfjpf;F) $w;wpy; gpuNjr rigapdhy; rku;g;gpf;fg;gly; Ntz;Lk;. 436. me;jf; fhyg;gFjpf;fhf gpuNjr rigapdhy; rku;g;gpf;fg;gl;l nghJ Nehf;fq;fs; epjpf; $w;Wf;fspy; ,dk;fhzy; kw;Wk; mstpLk; nfhs;iffspd; kPJ cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fisg; gad;gLj;jp jahupf;fg;gl;l mjd; Muk;g epjpf; $w;Wf;fspy; tpupthd tUkhdf; $w;wpy; Kd;ida epjpf; fhyg;gpupTld; njhlu;Gila xg;gPl;Lj; jfty;fs; gpuNjr rigapdhy; rku;g;gpf;f KbAk;. kw;Wk; me;j tplaq;fis Fwpg;Gf;fspy; ntspg;gLj;jy; Ntz;Lk;. 437. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; khw;wj;ij tpsf;Fk; NghJ gpuNjr rigahdJ mjd; Kd;ida epjp mwpf;ifaplypd; mbg;gilapy; cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fSf;F khWk; NghJ mq;F mwpf;ifaplg;gl;l ,Ug;G kw;Wk; epjpr; nrayhw;Wiff;F mJ vt;thW jhf;fk; nrYj;jpaJ vd;gij njspTgLj;jy; Ntz;Lk;. 438. Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; VNjDk; tifnahd;wpd; tifia ,dk;fhz;gjw;fhf njupT nra;ag;gl;l gpuNjr rigahdJ gpd;tUk; tplaq;fis ntspg;gLj;jy; Ntz;Lk;.
+
+(i). epjpf; $w;Wf;fspd; mjd; njupT;
+
+(ii). njupTf;F Vw;Gila Mjdk;> ,ae;jpuk; kw;Wk; cgfuzq;fspd; tFg;G my;yJ tFg;Gf;fs;>
+
+(iii). fld; ngWif fhuzkhf njupT Vw;Gilajhf ,y;yhj VNjDk; Mjdk;> ,ae;jpuk; my;yJ cgfuznkhd;iw ,dk;fhzy;; kw;Wk;
+
+(iv). Nkw;gb (iii) ,y; Fwpg;gplg;gl;Ls;s VNjDk; fld; ngWifia ,dk;fhzy;. 439. Mjdk;> ,ae;jpuk;> cgfuzk; my;yJ VNjDk; tiff;Fupa Mjdk;> ,ae;jpuk;> cgfuzj;jpw;F ,dk; fhzg;gl;l re;ijg; ngWkjpapd; ,Ug;G> mjd; rkfhy ngWkjp re;ijg; ngWkjpahf ,dk; fhzg;gl;l jpfjp kw;Wk; me;j re;ijg; ngWkjpiag; ngw;Wf;nfhz;l Kiwia ntspg;gLj;jy; Ntz;Lk;. 440. Kd;ida ge;jpfSld; ,zq;Ftjw;F cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fisg; gad;gLj;jp jahupf;fg;gl;l Muk;g epjpf; $w;Wf;fspy; gpuNjr rigapdhy; cs;slf;fg;gl Ntz;ba tplaq;fs;:
+
+(i) fzf;fPl;Lf; nfhs;iffspd; midj;J khw;wq;fspdJk; jd;ikapd; tpgunkhd;W ; kw;Wk;
+
+(ii) Kd;du; gad;gLj;jpa epjp mwpf;ifaplypd; mbg;gilapy; jPu;khdpf;fg;gl;l mjd; Njwpa nrhj;Jf;fs; / ,Ug;Gf;fs; cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; khw;wkile;j jpfjpahd 2020 rdtup 01 Me; jpfjp cs;@uhl;rp epWtdq; fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fspd; gpufhuk; jPu;khdpf;fg;gl;l mjd; Njwpa nrhj;Jf;fs; / ,Ug;Gf;fSld; xg;gpLjy;.
+
+64A
+
+IV (අ) ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2019.12.24
+
+பகுதி IV (அ) - இலங்ைகச் சனநாயக ேசாசᾢசக் குᾊயரசு வர்த்தமானப் பத்திாிைக - அதி விேசஷமானᾐ - 2019.12.24
+
+இலங்ைக அரசாங்க அச்சுத் திைணக்களத்தில் அச்சிடப்பட்டᾐ.
+
+441. cs;@uhl;rp epWtdq;fSf;fhd ,yq;if mur Jiwf; fzf;fPl;L epakq;fs; 2019 Mk; Mz;L jpnrk;gu; khjk; 31 Me; jpfjp my;yJ mjw;Fg; gpd;du; KbtilAk; fhyg;gFjpapia cs;slf;Fk; epjpf; $w;Wf;fSf;F nry;YgbahFk;. mjw;F Kd;du; gpuNahfpg;gjw;F mDkjp toq;fg;gLk;. gpuNjr rigahdJ ,e;j epakq;fis 2019 jpnrk;gu; 31 Me; jpfjpf;F Kd;du; KbtilAk; fhyg;gFjpf;F gpuNahfpg;gjhapd; me;j tplaq;fis ntspg;gLj;jy; Ntz;Lk;. 442. ,e;j tpjpfs; eilKiwg;gLj;jg;gLk; jpfjpapypUe;J ,yq;ifr; rdehaf Nrhryprf; Fbaurpd; ,y. 554/5 kw;Wk; 1989 Mk; Mz;L Vg;gpwy; khjk; 17 Me; jpfjpa mjp tpNrl tu;j;jkhdg; gj;jpupifapy; gpuRupf;fg;gl;Ls;s 1988 Mk; Mz;bd; gpuNjr rigfs; (epjp kw;Wk; epu;thf) xOq;F tpjpfs; ,j;jhy; ,uj;Jr; nra;ag;gLfpd;wd. 443. ,e;j tpjpfspd; fPo; Fwpj;Jiuf;fg;gl;L mjpfhuk; toq;fg;gl;l tplaq;fs; kw;Wk; tpjpfis mKy;gLj;Jk; NghJ Njitahd VNjDk; tplak; njhlu;gpyhd gbtq;fs; kw;Wk; fzf;F FwpaPLfis tpjpf;Fk; mjpfhuk; Nky; khfhz rigapd; cs;@uhl;rp MizahsUf;F cz;L. 444. nrhw;gpuNahfq;fs; rk;ge;jkhf NtW tpjj;jpy; nghUs;nfhs;sg;gl Ntz;ba mtrpak; Vw;gl;lhNy jtpu ,e;j tpjpfspd; fPo;>
+
+‘gaDs;sgq;fspg;G’ vd;gJ cz;ikahd ngWNgW kw;Wk; Nritr; nrayhw;Wif Nehf;fk; Mfpatw;Wf;F ,ilapyhd njhlu;G vdTk;;
+
+‘tpidj;jpwd;’ vd;gJ (m) <LgLj;jy; kw;Wk; KbTWj;jy; (M) <LgLj;jy; kw;Wk; ngWNgW Mfpatw;Wf;F ,ilapyhd njhlu;G vdTk;,
+
+‘<LgLj;jy;’ vd;gJ KbTWj;jiy eilKiwg;gLj;Jtjw;fhf gpuNjr rig gad;gLj;Jk; tsq;fs; vdTk;; ‘KbTWjy;’ vd;gJ gpuNjr rigf;F ntspapYs;stu;fSf;F toq;fg;gLk; Nrit vdTk;;
+
+‘ngWNgW’ vd;gJ nghJthf cilikahf;ff; $ba r%fj;jpw;F Vw;gLk; jhf;fk; vdTk;> nghUs;gLk;. 1 - 303
