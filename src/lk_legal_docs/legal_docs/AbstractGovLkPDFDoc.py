@@ -1,5 +1,6 @@
 import sys
 from dataclasses import dataclass
+from functools import cache
 from typing import Generator
 
 from scraper import AbstractPDFDoc, GlobalReadMe
@@ -19,6 +20,11 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
     @classmethod
     def get_url_index(cls) -> str:
         raise NotImplementedError
+
+    @classmethod
+    @cache
+    def get_shard_decade(cls):
+        return None
 
     @classmethod
     def __parse_tr__(
@@ -70,6 +76,15 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
             yield from cls.__parse_tr__(tr, url_metadata=url_year)
 
     @classmethod
+    def is_year_shard_match(cls, args) -> bool:
+        shard_decade = cls.get_shard_decade()
+        if not shard_decade:
+            return True
+        year = int(args[-9:-5])
+        decade = str(year)[:3] + "0s"
+        return decade == shard_decade
+
+    @classmethod
     def gen_url_years(cls) -> Generator[str, None, None]:
         url_index = cls.get_url_index()
         www = WWW(url_index)
@@ -79,7 +94,9 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
             return
         div = soup.find("div", class_="button-container")
         for a in div.find_all("a"):
-            yield f"{cls.get_url_base()}/{a['href']}"
+            href = a["href"]
+            if cls.is_year_shard_match(href):
+                yield f"{cls.get_url_base()}/{href}"
 
     @classmethod
     def gen_docs(cls) -> Generator["AbstractGovLkPDFDoc", None, None]:

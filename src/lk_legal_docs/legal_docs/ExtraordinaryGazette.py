@@ -1,10 +1,16 @@
 from dataclasses import dataclass
+from functools import cache
 
 from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc
 
 
 @dataclass
 class ExtraordinaryGazette(AbstractGovLkPDFDoc):
+
+    @classmethod
+    @cache
+    def get_shard_decade(cls):
+        return "2020s"
 
     @classmethod
     def get_url_base(cls) -> str:
