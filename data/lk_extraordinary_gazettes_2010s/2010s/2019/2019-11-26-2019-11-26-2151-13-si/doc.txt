@@ -1,0 +1,27 @@
+wxl 2151$13 - 2019 fkdjeïn¾ ui 26 jeks wÕyrejdod - 2019'11'26
+
+^rcfha n,hmsg m%isoaO lrk ,oS&I jeks fldgi: (I) jeks fPoh - idudkH
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+fuu w;s úfYI .eiÜ m;%h www.documents.gov.lk fjí wvúfhka nd.; l< yel'
+
+Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'1A - G 31572 — 392 (2019/11)
+
+ckdêm;s;=udKka úiska lrk ,o m;alsÍï wdÈh
+
+2019 wxl 915$3
+
+ckd'ld' wxlh ( mStia$iStiata$00$1$13$3
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha wdKavql%u jHjia:dfõ 41 jeks jHjia:dfõ ^1& wkqjHjia:dj hgf;a w;s.reckdêm;s;=ud úiska 2019 fkdjeïn¾ ui 19 jeks Èk isg l%shd;aul jk mßÈ wdpd¾h mS' î' chiqkaor uy;d ckdêm;sf,alï jYfhka m;alrkq ,en we;s nj fuhska oekqï fokq ,efí'
+
+w;s.re ckdêm;s;=udf.a kshuh mßÈ"
+
+wei, ùrfldaka"ckdêm;s fcHIaG w;sf¾l f,alï"ckdêm;s f,alï fjkqjg'
+
+2019 fkdjeïn¾ ui 26 jeks Èk"fld<U 01"ckdêm;s ld¾hd,fha § h'
+
+12 - 354
