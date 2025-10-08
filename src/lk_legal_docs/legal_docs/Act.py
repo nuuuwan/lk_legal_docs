@@ -1,4 +1,3 @@
-
 from utils import Log
 
 from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc

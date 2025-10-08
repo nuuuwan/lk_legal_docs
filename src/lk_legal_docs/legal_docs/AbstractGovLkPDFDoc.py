@@ -13,6 +13,14 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
     doc_number: str
 
     @classmethod
+    def get_url_base(cls) -> str:
+        raise NotImplementedError
+
+    @classmethod
+    def get_url_index(cls) -> str:
+        raise NotImplementedError
+
+    @classmethod
     def __parse_tr__(cls, tr, url_metadata) -> "AbstractGovLkPDFDoc":
         tds = tr.find_all("td")
         if len(tds) != 4:
