@@ -1,0 +1,35 @@
+III fldgi - Y%S,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2017'08'03gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2017.08.031 A
+
+,yq;if murhq;f mr;Rj; jpizf;fsj;jpy; mr;rplg;gl;lJ.
+
+wxl 2154$53 - 2019 foieïn¾ ui 20 jeks isl=rdod - 2019'12'202154/ 53 Mk; ,yf;fk; - 2019 Mk; Mz;L jpnrk;gu; khjk; 20 Me; jpfjp nts;spf;fpoik
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif
+
+w;s úfYI mjptpNr\khdJ
+
+(murhq;fj;jpd; mjpfhuj;Jld; gpuRupf;fg;gl;lJ)
+
+gFjp III - fhzpfs;
+
+fhzp nfhs;tdT gw;wpa mwptpj;jy;fs;
+
+,t; mjptpN\l tu;j;jkhdpia www.documents.gov.lk.vDk; ,izaj;jsj;jpypUe;J gjptpwf;fk; nra;a KbAk;.
+
+fhzp vLj;jw; rl;lk; (mj;jpahak; 460)
+
+5 Mk; gpuptpd; gbahd gpufldk;
+
+fPo;f; fhZk; fhzp xU gfpuq;fj; Njitf;F Ntz;bajha;,Uf;fpd;wnjd;Wk; fhzp vLj;jw; rl;lj;jpd; Vw;ghLfspd; gpufhuk;mJ vLj;Jf; nfhs;sg;gLnkd;Wk; fhzp vLj;jw; rl;lj;jpd; 5 Mk;gpuptpd; (1) Mk; cl;gpuptpd; gpufhuk; fhzp kw;Wk; ghuhSkd;wkWrPuikg;G mikr;ru; fae;j fUzhjpyf;f Mfpa ehd;> ,j;jhy;gpufldk; nra;fpd;Nwd;.
+
+fpof;F khfhzk;> mk;ghiw khtl;lk;> mf;fiug;gw;W gpuNjrnrayhsh; gpuptpy;> (mf;fiugw;W khefu rig vy;iyf;Fl;gl;l)efu; gpupT ,y. 04> mf;fiug;gw;W fpuhkj;jpy; mike;Js;s> epymsitahsu; ehafj;jpdhy; jahupf;fg;gl;l 2018.06.04 Me; jpfjpAM/AKK/2018/72 Mk; ,yf;f Kjw;Rtl;L tiuglj;jpy; fhl;lg;gl;l0.0492 n`f;lahu; tp];jPuzKil fPo; tpgupf;fg;gl;l vy;iyfSs;mike;j fhzpj; Jz;L.
+
+01. Jz;L ‘A’ - Neuf;Fopg;G{kp- tp];jPuzk; : 0.0492n`f;lahu;tlf;F : it. Nf. vl;tl; kw;Wk; vk;. vk;. ckh;nyg;ig cupikNfhUk;Neuf;Fopg;G{kp fhzp@ fpof;F: vk;. vk;. ckh;nyg;ig cupikNfhUk;Neuf;Fopg;G{kp fhzp kw;Wk; xoq;if@ njw;F : xOq;if kw;Wk;vk;. vk;. fpjpu; nkh`kl; cupikNfhUk; Neuf;Fopg;G{kp fhzp@Nkw;F : vk;. vk;. fpjpu; nkh`kl; kw;Wk; it.Nf.vl;tl; cupikNfhUk;Neuf;Fopg;G{kp fhzp.
+
+fae;j fUzhjpyf;f>fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;rh;.
+
+Fwpg;G ,y. : 4-3/4/2017/LO/548.fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;R>''kp`pfj nkJu"">u[ky;tj;ij tPjp>gj;juKy;iy>2019> xw;Nwhgu; 18.
+
+01 - 220
+
+1A - G 31693 - 26 (2019/12)
