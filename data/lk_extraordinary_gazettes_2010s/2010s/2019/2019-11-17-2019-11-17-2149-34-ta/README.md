@@ -1,0 +1,33 @@
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'04'29gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjp tpNr\khdJ - 2019.04.29
+
+1 A
+
+,yq;if murhq;f mr;Rj; jpizf;fsj;jpw; gjpg;gpf;fg;ngw;wJ.
+
+(murhq;fj;jpd; mjpfhuj;Jld; gpuRupf;fg;gl;lJ)gFjp I : njhFjp (I) - nghJ
+
+murhq;f mwptpj;jy;fs;
+
+,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif
+
+mjp tpNr\khdJ
+
+wxl 2149/34 - 2019 fkdjeïn¾ ui 17 jeks bßod - 2019'11'172149/ 34 Mk; ,yf;fk; - 2019 Mk; Mz;L entk;gu; khjk; 17 Me; jpfjp Qhapw;Wf;fpoik
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+1981 Mk; Mz;bd; 15 Mk; ,yf;f rdhjpgjpj; Njh;jy;fs; rl;lk;
+
+64(2) Mk; gphptpd; fPohd mwptpj;jy;
+
+Njh;jy; Mizf;FO> jpU. Nfhl;lhga uh[gf;\ mtu;fs; ,yq;ifr; rdehaf Nrhryprf; Fbaurpd; rdhjpgjpahf 1981 Mk; Mz;bd; 15 Mk; ,yf;f rdhjpgjpj; Njh;jy;fs; rl;lj;jpd; 56 Mk; gphptpd; fPo; Njh;e;njLf;fg;gl;lhnud ntspg;gLj;jg;gl;Ls;snjd Nkw;nrhy;yg;gl;l rl;lj;jpd; 64(2) Mk; gphptpd; fPo; ,j;jhy; mwptpf;fg;gLfpd;wJ.
+
+k`pe;j Njrg;gpupa> vd;.N[. mNgNrfu> v];. ,uj;d[Ptd; vr;. `_y;> jtprhsu;> mq;fj;jtu;> mq;fj;jtu;> Nju;jy; Mizf;FO. Nju;jy; Mizf;FO. Nju;jy; Mizf;FO.
+
+Nju;jy; Mizf;FO>Nju;jy;fs; nrayfk;>ruz khtj;ij>,uh[fpupa>2019> entk;gu; 17.
+
+,t; mjptpNrl tu;j;jkhdpia www.documents.gov.lk vDk; ,izaj;jsj;jpypUe;J gjptpwf;fk; nra;a KbAk;.
+
+1A - PG 004692 — 912 (2019/11)
