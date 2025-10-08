@@ -19,13 +19,7 @@ jobs:
       max-parallel: 4
       matrix:
         doc_class_label:
-          [
-            "lk_extraordinary_gazettes_2020s",
-            "lk_extraordinary_gazettes_2010s",
-            "lk_extraordinary_gazettes_2000s",
-            "lk_extraordinary_gazettes_1990s",
-            "lk_extraordinary_gazettes_1980s",
-          ]
+          ["lk_extraordinary_gazettes_2020s", "lk_extraordinary_gazettes_2010s"]
 
     container:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
