@@ -21,7 +21,9 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
         raise NotImplementedError
 
     @classmethod
-    def __parse_tr__(cls, tr, url_metadata) -> "AbstractGovLkPDFDoc":
+    def __parse_tr__(
+        cls, tr, url_metadata
+    ) -> Generator["AbstractGovLkPDFDoc", None, None]:
         tds = tr.find_all("td")
         if len(tds) != 4:
             return
@@ -38,9 +40,7 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(
-                " ", "_"
-            )
+            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
             num = f"{date_str}-{doc_number_cleaned}-{lang}"
             yield cls(
                 num=num,
