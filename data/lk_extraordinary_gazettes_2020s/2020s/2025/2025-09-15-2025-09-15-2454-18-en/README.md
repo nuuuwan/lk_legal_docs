@@ -1,0 +1,191 @@
+1AIII ෙකාටස – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.09.15PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.09.2025
+
+ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ ගැසŸ පƴයThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අƯ ɪෙශෂ EXTRAORDINARY
+
+අංක 2454/18 – 2025 සැȗතැȼබə මස 15 වැǧ සǿදා – 2025.09.15No. 2454/18– MONDAY, SEPTEMBER 15, 2025
+
+(Published by Authority)
+
+PART III – LANDSPART III – LANDS
+
+Land Redemption Notices
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+ORDER UNDER SECTION 39 (a) (1)
+
+THE allotments specified in the Order No. 109 of 2014 made under the Proviso (a) to Section 38 of the Land Acquisition Act, (Chapter 460) and published in the Gazette Extraordinary No. 1863/21 dated 22ND May, 2014 are vested absolutely in the State and the possession of which has been taken for or on behalf of the State under Paragraph (a) of Section 40 of the aforesaid Act. But by the virtue of powers vested in me by Sub section (1) of Section 39(a) (inserted by Act, No. 8 of 1979) of the Land Acquisition Act, I, Kuragamage Don Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation, do hereby divest only the allotments specified in the Schedule 1 below.
+
+K. D. Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation.
+
+My No.: 4-3/10/2012/LRB/323. Land Acquiring Ofﬁcer’s No.: WGSWD&EIP/ACQ/KB/15.Ministry of Agriculture, Livestock, Lands and Irrigation,“Mihikatha Medura”, Land Secretariat,1200/6, Rajamalwatta Road, Battaramulla,27th August, 2025.
+
+SCHEDULE
+
+Allotments of land depicted in below names and extents in the Cadastral Map No. 521203, Block 07 from 18 Block Numbers, Sheet No. 5, page No. 42 of the list of land details, dated 01.03.2016, prepared by the Surveyor General, situated in the Thumbowila Village in No.576 B, Thumbowila South Grama Niladhari Division in the Divisional Secretary’s Division of Kesbewa in Colombo District of the Western Province and bounded as follows:
+
+01. Lot No. 477 – Bandipitiya Aswedduma and Delgaha Watta – Extent: 0.0327 Hectare North: Lot Nos. 471,71 and 72; East: 72 and 474: South: Lot Nos. 478 and 471; West: Lot No.471.
+
+02. Lot No. 520 – Liyanage Owita and Kiripellagaha watta alias Pidawillewatta – Extent: 0.0360 Hectare North: Lot Nos. 515 and 519; East: 519 and 156: South: Lot No. 522; West: Lot Nos.521 and 514.
+
+1A – G 045377– 19 (09/2025)
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+III ෙකාටස – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.09.15
+
+PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.09.20252A
+
+03. Lot No. 526 – Idigaha Owita – Extent: 0.0750 Hectare North: Lot Nos. 521,522 and 523; East: 525 and 534 South: Lot Nos. 534,533 and 527; West: Lot Nos.527 and 521.
+
+04. Lot No. 534 – Idigaha Owita – Extent: 0.1345 Hectare North: Lot Nos. 526,525 and 161; East: 161 and 535 ; South: Lot No. 535; West: Lot Nos.533 and 527.
+
+EOG 09 – 0140
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+REVOCATION ORDER UNDER SECTION 39(1)
+
+THE allotment of land specified morefully in the Order No. 109 of 2014 dated 09.05.2014 made under the Proviso (a) to Section 38 of the Land Acquisition Act Chapter 460 and published in the Gazette Extraordinary No. 1863/21 dated 22.05.2014 was vested in the Democratic Socialist Republic of Sri Lanka. But the possession of the said land has not yet been taken for and on behalf of the Democratic Socialist Republic of Sri Lanka. Therefore, I, Kuragamage Don Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation, by virtue of the powers vested in me under Section 39(1) of the Lands Acquisition Act, do hereby revoke the Order in respect of the land specified in the Schedule of the Order No. 109 of 2014 dated 09.05.2014 published in the Gazette Extraordinary No. 1863/21 dated 22.05.2014.
+
+K. D. Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation.
+
+My No.: 4-3/10/2012/LRB/323. Land Acquiring Officer’s No.: WGSWD&EIP/ACQ/KB/15.Ministry of Agriculture, Livestock, Lands and Irrigation,“Mihikatha Medura”, Land Secretariat,1200/6, Rajamalwatta Road, Battaramulla,27th August, 2025.
+
+SCHEDULE
+
+Allotments of land depicted in below names and
+
+extents in the Cadastral Map No. 521203, Block 07
+
+18 Block Numbers, Sheet No.5, Page No.42 of the list
+
+of land of details,dated 01.03.2016, prepared by the
+
+Surveyor General, situated in the Thunbowila Village in
+
+No.576 B,Thumbowila South Grama Niladhari Division
+
+in the Divisional Secretariat Division of Kesbewa in
+
+Colombo District of the Western Province and bounded as
+
+follows:
+
+01. Lot No. 474 – Bandipitiya Kumbura, Bandipitiya Owita, Delgahakumbura, Kirigahakumbura and Acharige Kumbura – Extent: 0.1902 Hectare North: Lot Nos. 72,73,74,75 and 76; East: Lot Nos. 77,475 and 476; South: Lot No. 476; West: Lot Nos. 478 and 477..
+
+02. Lot No. 507 – Unumunna Owita – Extent: 0.0153 Hectare North: Lot No. 495; East: Lot Nos. 506 and 499; South: Lot Nos. 499 and 514; West: Lot No. 508.
+
+03. Lot No. 506 – Unumunna Owita – Extent: 0.0158 Hectare North: Lot No. 495 and 496; East: Lot Nos. 505 and 499; South: Lot No. 499; West: Lot Nos. 499 and 507.
+
+04. Lot No. 505 – Unumunna Owita – Extent: 0.0147 Hectare North: Lot Nos. 496 and 504; East: Lot Nos. 504 and 499; South: Lot Nos. 499 and 506; West: Lot Nos. 506 and 496.
+
+05. Lot No. 504 – Unumunna Owita – Extent: 0.0155 Hectare North: Lot Nos. 496 and 503; East: Lot Nos. 503 and 499; South: Lot Nos. 499 and 505; West: Lot Nos. 505 and 496.
+
+06. Lot No. 503 – Unumunna Owita – Extent: 0.0152 Hectare North: Lot Nos. 496 and 502; East: Lot Nos. 502 and 499; South: Lot Nos. 499 and 504; West: Lot Nos. 504 and 496.
+
+07. Lot No. 502 – Unumunna Owita – Extent: 0.0156 Hectare North: Lot Nos. 496 and 501; East: Lot Nos. 501 and
+
+3AIII ෙකාටස – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.09.15PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.09.2025
+
+499; South: Lot No. 499; West: Lot Nos.. 499 and 503.
+
+08. Lot No. 501 – Unumunna Owita – Extent: 0.0155 Hectare North: Lot No. 496; East: Lot Nos. 496 and 500; South: Lot Nos. 499 and 502; West: Lot Nos. 502 and 496.
+
+09. Lot No. 499 – Extent: 0.0390 Hectare North: Lot Nos. 506,505,504,503,502,501,500 and 108; East: Lot Nos. 501,500,108,498 and 516; South: Lot Nos. 516,515 and 514; West: Lot Nos. 514,507,506 and 505.
+
+10. Lot No. 514 – Unumunna Owita –Extent: 0.0420 Hectare North: Lot Nos. 507 and 499 ; East: Lot Nos. 512 and 520; South: Lot Nos. 521 and 513; West: Lot Nos. 508,507 and 499.
+
+11. Lot No. 515 – Unumunna Owita –Extent: 0.0420 Hectare North: Lot No. 499 ; East: Lot No. 516; South: Lot No. 519 and 520; West: Lot Nos. 514 and 499.
+
+12. Lot No. 519 –Extent: 0.0227 Hectare North: Lot Nos. 515,516 and 141 ; East: Lot No. 518; South: Lot Nos. 155,156 and 520; West: Lot Nos. 520 and 515.
+
+13. Lot No. 516 – Unumunna Owita –Extent: 0.0425 Hectare North: Lot Nos. 499 and 498 ; East: Lot No. 141; South: Lot No. 519; West: Lot Nos. 515 and 499.
+
+14. Lot No. 524 – Liyanage Owita –Extent: 0.0407 Hectare North: Lot Nos. 155 and 154 ; East: Lot Nos. 601 and 162; South: Lot Nos. 161 and 525 ; West: Lot Nos. 523 and 155.
+
+15. Lot No. 523 – Liyanage Owita –Extent: 0.0420 Hectare North: Lot Nos. 156 and 155 ; East: Lot No. 524; South: Lot Nos. 525 and 526 ; West: Lot No. 522.
+
+16. Lot No. 522 – Liyanage Owita –Extent: 0.0497 Hectare North: Lot Nos. 520 and 156 ; East: Lot No. 523; South: Lot Nos. 525 and 526 ; West: Lot No. 521.
+
+17. Lot No. 521 – Acharige Kumbura, Mahakumbura, Galahitiya Kumbura and Gammadde Kumbura –Extent: 0.1444 Hectare North: Lot Nos. 514 and 515 ; East: Lot Nos. 520 and 522; South: Lot Nos. 526 and 527 ; West: Lot No. 513.
+
+18. Lot No. 535 – Kethdawa Owita –Extent: 0.0902 Hectare North: Lot Nos. 534 and 161 ; East: Lot Nos. 167 and 542; South: Lot No. 542 ; West: Lot Nos. 536 and 533.
+
+19. Lot No. 525 – Idigaha Owita –Extent: 0.0640 Hectare North: Lot Nos. 523,524 and 161 ; East: Lot Nos. 161 and 534; South: Lot Nos. 534 and 526 ; West: Lot Nos. 526,522 and 523
+
+EOG 09 – 0141
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+ORDER UNDER SECTION 39 (a) (1)
+
+THE allotments specified in the Order No. 109 of 2014 made under the Proviso (a) to Section 38 of the Land Acquisition Act, (Chapter 460) and published in the Gazette Extraordinary No. 1863/21 dated 22ND May, 2014 are vested absolutely in the State and the possession of which has been taken for or on behalf of the State under Paragraph (a) of Section 40 of the aforesaid Act. But by the virtue of powers vested in me by Sub section (1) of Section 39(a) (inserted by Act, No. 8 of 1979) of the Land Acquisition Act, I, Kuragamage Don Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation, do hereby divest only the allotments specified in the Schedule below.
+
+K. D. Lal Kantha, Minister of Agriculture, Livestock, Lands and Irrigation.
+
+My No.: 4-3/10/2012/LRB/323. Land Acquiring Officer’s No.: WGSWD&EIP/ACQ/KB/15.Ministry of Agriculture, Livestock, Lands and Irrigation,“Mihikatha Medura”, Land Secretariat,1200/6, Rajamalwatta Road, Battaramulla,27th August, 2025.
+
+III ෙකාටස – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.09.15
+
+PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.09.20254A
+
+SCHEDULE
+
+Allotments of land depicted in below names and extents in the Tracing No. CO/DSO/2024/40 dated 10.09.2024 prepared by the Surveyor General, situated in the Thumbowila and Bokundara Villages (Division No.10-Thumbowila and Division No.05-Bokundara within the limits of Kesbewa Urban Council) in No.576 B, Thumbowila South Grama Niladhari Division in the Divisional Secretariat Division of Kesbewa in Colombo District of the Western Province and bounded as follows:
+
+01. Lot A Jambugasmulla Watta-Extent-0.1374 hectare North: CM 521211 Block 1 Sheet 3 Lot No. 222, CM521203 Block 1 Sheet 5 Lot No. 461, CM 521211 Block 1 Sheet 3 Lot No. 190, Sheet 1 Lot No. 57 and Sheet 3 Lot No. 224;East : Lots. C , D and B;South: C, D, B and CM521203 Block 1 Sheet 5 Lot No. 461;West: CM521211 Block 1 Sheet 3 Lot No. 222, CM521203 Block 1 Sheet 5 Lot No. 461, CM 521211 Block 1 Sheet 3 Lot No. 190, Sheet 1 Lot No. 57 and Sheet 3 Lot No. 224.
+
+02.Lot C- Jambugasmulla Watta -Extent -0.0860 hectares North: Lot. A. CM521211 Block 1 Sheet 3 Lot Nos. 224 and 225;East: CM 521211 Block 1 Sheet 3 Lot No. 227;South: Lot. D;West: Lots. D, B,A CM521211 Block 1 Sheet 3 Lot Nos. 224 and 225
+
+03. Lot -F-Thaladeniva Owita and MulleOwita-Extent -0.2669 hectares
+
+North:CM521211 Block 1 Sheet 3 Lot No. 228, Sheet 1 Lot No. 60 and 3 Lot No. 230; East: CM521211 Block I Sheet 3 Lot Nos. 230, 231 Lot Nos. G, H and E in this tracing;South: Lot. G, H and E;West: Lot. E, CM521211 Block 1 Sheet 3 Lot No. 228 and Sheet 1 Lot No. 60
+
+04. Lot -T-Ambalame Owita-Extent -0.0410 hectares North: Lot. S CM521211 Block 1 Sheet 3 Lot Nos. 243 and 246; East: CM 521211 Block 1 Sheet 3 Lot Nos. 246, 247 and Lot . V in this tracing; South: Lots . V, W CM 521203 Block 1 Sheet 5 Lot No. 455 and Lot. U in thistracing;West: Lot. W, CM 521203 Block 1 Sheet 5 Lot No. 455 and Lot. S in this tracing
+
+05. Lot -V-Ambalame Owita-Extent -0.0494 hectares North: Lot. T, CM 521211 Block 1 Sheet 3 Lot Nos. 446,
+
+447 and Sheet 1 Lot No. 177;East: CM 521211 Block 1 Sheet 3 Lot No. 247, Sheet 1 Lot No. 177 CM 521203 Block 1 Sheet 5 Lot No. 442 and Lot. X in this tracing;South: Lot. X,Y and W;West: Lot No. W CM 521203 Block 1 Sheet 5 Lot No. 455, Lots. U and T in this tracing.
+
+06. Lot.- AL-Bandiyapitiya Aswedduma-Extent -0.0615 hectares North: Lot. AK; East: Lots. AK, AI, AJ and CM 521211 Block 7 Sheet 1 Lot No. 55; South: Lot. AJ CM 521211 Block 7 Sheet 1 Lot No. 55,CM521203 Block 7 Sheet 5 Lot No.447, AO and AN in this tracing; West: CM 521203 Block 7 Sheet 5 Lot No. 447, Lots. AO, AN, AM and AK in this tracing.
+
+07. Lot -AN-Ambalame Kumbura -Extent 0.0634 hect-ares North: Lot. AM, AK and AL;East: Lots. AL and AO;-South: Lots. AO, AP and AM;West: Lot. AM.
+
+08.Lot -AO: Bandiyapitiva Aswedduma-Extent -0.0316 hectares North: Lots. AN and AL; East: Lot. AL and CM 521203 Block 7 Sheet5 Lot No. 477; South: Lot No. AP; West: Lots. AP, AM and AN.
+
+09. Lot - AR: Bandiyapitiya Aswedduma and Delga-hawatta -Extent -0.0570 North:Lot AQ; East: Lot. AQ and CM 521203 Block 7 Sheet 1 Lot No. 44; South: Lot BB; West: Lots. AS and AT
+
+10. Lot -AS-Bandiyapitva Aswedduma and Delgaha-watta -Extent. 0.0752 hectares North: Lots. AT and AQ;East: Lot Nos. AQ. AR and BB;-South : Lot No. BB;West: Lot Nos. AV and AU
+
+11. Lot -AX- Bandiyapitiya Aswedduma and Delgahawatta -Extent -0.0426 hectares North : Lots. AW and AV; East : Lots. AV and BB; South : Lots .BB, BA and AZ;West : Lots. BB,BA,AZ,AY and AW.
+
+12. Lot -AZ- Bandiyapitiya Aswedduma andDelgahawatta -Extent-0.0285 hectares North : CM 521203 Block 7 Sheet 5 Lot No. 461 and Lot. AY in this tracing;East : Lots. AW and AX; South : Lot. BA;West : CM 521203 Block 7 Sheet 5 Lot No. 461 and Lot. AY in this tracing.
+
+13. Lot- BK - Bandiyapitiya Aswedduma -Extent -0.0377 hectares North : Lot. BI, Access Road, CM521203 Block 7 Sheet 5 Lot No. 468 and Lot. BG in this tracing ;East : Lot. BG;-South : Lot BJ and CM 521203 Block 7 Sheet 5 Lot No.
+
+5AIII ෙකාටස – ɼ ලංකා ȝජාතාǦƵක සමාජවාǏ ජනරජෙɏ අƯ ɪෙශෂ ගැසŸ පƴය – 2025.09.15PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 15.09.2025
+
+461;West : CM 521203 Block 7 Sheet 5 Lot No. 461 and Lot. BL.
+
+14. Lot -BL- Bandiyapitya Aswedduma-Extent -0.0595 hectares North : Lot. BA, BB and Access Road;East : Access Road and Lot. BK;South : CM 521203 Block 7 Sheet 5 Lot No. 461 and Lot. BM in this tracing;West : Lots. BM and BA.
+
+15.Lot - BR- Bandiyapitiya Aswedduma and Delgahawatta -Extent-0.0395 North : CM 521203 Block 7 Sheet 5 Lot Nos. 477 and 474; East : CM 521203 Block 7 Sheet 5 Lot No. 474 and Lot. BU in this tracing; South : Lots. BU, BT, BS, BQ and BC; West : Lots. BS, BQ. BP and BC
+
+16. Lot -CA- Doowage Owita -Extent -0.0926 hectares North : Lot. BZ, BY,BX and CM 521203 Block 7 Sheet 5 Lot No. 496; East : CM 521203 Block 7 Sheet 5 Lot Nos. 496, 506,507,508 and Lot. CB in this tracing; South : CM 521203 Block 7 Sheet 5 Lot Nos. 506, 507,508 and Lot CB, CC and BZ;West : Lots BZ.BY, BW and BX.
+
+17. Lot. -CJ- Aswedduma Kumbura, Keddewa Kum-bura, Idigaha Owita, Garinda Kumbura and Garinda Owita -Extent -0.1062 hectares North : Lot CG, CM 521203 Block 7 Sheet 5 Lot Nos.
+
+521 and 526; East : CM 521203 Block 7 Sheet 5 Lot Nos. 526, 534 and Lot. CL. in this tracing; South : Lots, CL, CK and CI; West : Lots CI, CH, CG and CM 521203 Block 7 Sheet 5 Lot No. 521
+
+18. Lot -CM- Kethdawa Owita-Extent -0.0428 hectares North : Lot. CL and CM 521203 Block 7 Sheet 5 Lot No. 535; East : CM 521203 Block 7 Sheet 5 Lot No. 535 and Lot. CO in this tracing; South : Lots. CO, CN and CM 521203 Block 7 Sheet 5 Lot No. 537; West : CM 521203 Block 7 Sheet 5 Lot No. 537 Lot CK and CL in this tracing.
+
+19. Lot -CP- Kethdawa Owita-Extent -0.1710 hectares North : Lots. CO, CM 521203 Block 7 Sheet 1 Lot No. 167 and Sheet 5 Lot No. 543;East : CM 521203 Block 7 Sheet 1 Lot No. 167 and Sheet 5 Lot No. 543, Bokundara and Lot. CS in this tracing;South : Bokundara, Lots. CS, CR and CQ; West : Lots. CQ, CN and CO.
+
+20. Lot -CS Kethdawa Owita-Extent -0.1038 hectares North :Lot. CP and Bokundara; East : Bokundara;South : Bokundara and CM 521203 Block 7 Sheet 5 Lot No. 488; West : Lots. CR, CQ and CP.
+
+EG 09-0142
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
