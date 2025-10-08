@@ -1,0 +1,528 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      66.24,
+      191.76,
+      524.39,
+      222.09
+    ],
+    "text": "\u027c \u0dbd\u0d82\u0d9a\u0dcf \u021d\u0da2\u0dcf\u0dad\u0dcf\u01e6\u01b5\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u01cf \u0da2\u0db1\u0dbb\u0da2\u0dd9\u024f \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dba",
+    "fonts": [
+      "IskoolaPota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      30.201881408691406,
+      30.323692321777344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.44,
+      234.42,
+      327.94,
+      251.6
+    ],
+    "text": "\u0d85\u01af \u026a\u0dd9\u0dc1\u0dc2",
+    "fonts": [
+      "IskoolaPota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.835535049438477,
+      17.179393768310547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      164.4,
+      268.86,
+      432.6,
+      279.9
+    ],
+    "text": "\u0d85\u0d82\u0d9a 2154/9 - 2019 \u0dd9\u0daf\u0dc3\u0dd0\u023c\u0db6\u0259 \u0db8\u0dc3 18 \u0dc0\u0dd0\u01e7 \u0db6\u0daf\u0dcf\u0daf\u0dcf - 2019.12.18",
+    "fonts": [
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      9.118988037109375,
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.68,
+      294.08,
+      406.67,
+      336.96
+    ],
+    "text": "(\u0dbb\u0da2\u0dd9\u024f \u0db6\u0dbd\u0dba\u0218\u0da7 \u021d\u0286\u01ca\u0db0 \u0d9a\u0dbb\u0db1 \u0dbd\u01cf) III \u0dc0\u0dd0\u01e7 \u0dd9\u0d9a\u02a3\u0da7\u0dc3 - \u0d89\u0da9\u023c",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.118988037109375,
+      10.078991889953613,
+      22.077693939208984,
+      24.66761589050293,
+      25.917407989501953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      188.88,
+      335.91,
+      410.7,
+      372.3
+    ],
+    "text": "\u0d89\u0da9\u023c \u0dbb\u0da2\u0dba\u0da7 \u0d9c\u0dd0\u01e8\u0db8 \u0218\u0298\u0db6\u0db3 \u0daf\u0dd0\u01e6\u026b\u023c",
+    "fonts": [
+      "IskoolaPota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      6.832508563995361,
+      11.038795471191406,
+      15.33334732055664,
+      16.078292846679688
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.68,
+      770.44,
+      319.98,
+      778.36
+    ],
+    "text": "\u0dd9\u0db8\u0db8 \u0d85\u01af \u026a\u0dd9\u0dc1\u0dc2 \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dba www.documents.gov.lk \u0dd9\u0dc0\u0229 \u0d85\u0da9\u026a\u0dd9\u0dba\u01e6 \u0db6\u0dcf\u0d9c\u0dad \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a.",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      7.91920804977417
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.92,
+      395.82,
+      276.12,
+      406.86
+    ],
+    "text": "\u0d89\u0da9\u023c \u0d85\u01ae\u0d9a\u0dbb \u0d9c\u0dd0\u01e8\u0dd9\u023c \u0db4\u0db1\u0dad (460 \u0dc0\u0dd0\u01e7 \u0db4\u025c\u013c\u0dd9\u0146\u0daf\u0dba)",
+    "fonts": [
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.32,
+      407.61,
+      237.48,
+      428.94
+    ],
+    "text": "7 \u0dc0\u0dd0\u01e7 \u0dc0\u0d9c\u01e6\u01af\u0dba \u0dba\u0da7\u0dd9\u01ae \u0daf\u0dd0\u01e6\u026b\u0db8",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      9.118988037109375,
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.76,
+      437.36,
+      288.54,
+      464.72
+    ],
+    "text": "\u25cc\u0dd4 \u0db8\u0dd9\u0118 \u0d85\u0d82\u0d9a\u0dba: DS/VN/L.A.A/MSJ-232. \u0d89\u0da9\u023c \u0dc4\u0dcf \u0db4\u0dcf\u0259\u0263\u0dd9\u023c\u01e6\u01b1 \u021d\u01af\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d85\u0db8\u0dcf\u0dad\u0255\u0dcf\u0d82\u0dc1\u0dd9\u024f \u0dd9\u0dba\u02a3\u023f",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic"
+    ],
+    "sizes": [
+      5.039495944976807,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      176.88,
+      465.68,
+      286.68,
+      475.76
+    ],
+    "text": "\u0d85\u0d82\u0d9a\u0dba: 4-3/5/2018/HA/04.",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.12,
+      476.44,
+      286.7,
+      573.88
+    ],
+    "text": "\u0db8\u0dc4\u0da2\u0db1 \u0d9a\u0da7\u0252\u01ae\u0dad\u00fa \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0dc0\u0dc1\u0255 \u0db4\u0dc4\u0dad \u0daf\u0dd0\u00fa\u0dd9\u0dc0\u0db1 \u0db4\u0dbb\u0dc0\u0dc1\u0dad\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u01e8\u0db8\u0da7 \u0d86\u019c\u018d\u0dc0 \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dd0\u0269, 1964 \u0d85\u0d82\u0d9a 28 \u0daf\u0dbb\u0db1 \u0d89\u0da9\u023c \u0d85\u01ae\u0d9a\u0dbb \u0d9c\u0dd0\u01e8\u0dd9\u023c \u0dc3\u0d82\u0dd9\u0dc1\u02a4\u0db0\u0db1 \u0db4\u0db1\u0dad \u0db4\u025c\u01ce \u0d89\u0da9\u023c \u0d85\u01ae\u0d9a\u0dbb \u0d9c\u0dd0\u01e8\u0dd9\u023c \u0db4\u0db1\u0dd9\u01ae 7 \u0dc0\u0dd0\u01e7 \u0dc0\u0d9c\u01e6\u01af\u0dd9\u024f (1) \u0dc0\u0dd0\u01e7 \u0d8b\u0db4\u0dc0\u0d9c\u01e6\u01af\u0dba \u0dba\u0da7\u0dd9\u01ae \u0dd9\u0db8\u0250\u01e6 \u0daf\u0dd0\u01e9\u023c \u01cf \u0286\u0179\u023d. \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u01e8\u0db8\u0da7 \u0db6\u0dbd\u0dcf\u0dd9\u0db4\u02a3\u0dd9\u0dbb\u02a3\u01ae\u01b1\u0dc0\u0db1 \u0db4\u0dbb\u0dc0\u0dc1\u0dad\u0dcf\u0dc0\u0dd9\u024f \u026a\u0dc3\u0dca\u0dad\u0dbb :",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613,
+      17.998199462890625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.08,
+      572.72,
+      286.68,
+      649.04
+    ],
+    "text": "\u0db4\u0dc5\u0dcf\u0dad : \u0d8b\u01b1\u0dbb \u01ce\u0dc3\u0dca\u01b5\u00fa\u0d9a\u0dba : \u0dba\u0dcf\u0db4\u0db1\u0dba \u021d\u0dcf\u0dd9\u01ca\u0275\u0dba \u0dd9\u0262\u0d9a\u023c \u0dd9\u0d9a\u02a3\u0178\u0da8\u0dcf\u0dc3\u0dba : \u0dc0\u0263\u0d9a\u0dcf\u0db8\u023c \u0d8b\u01b1\u0dbb, \u0dd9\u0dad\u0262\u0263\u0217\u0db4\u0dd9\u0dc5\u02a2 \u011e\u0dcf\u0db8 \u01e7\u0dbd\u0db0\u0dcf\u025c \u0dd9\u0d9a\u02a3\u0178\u0da8\u0dcf\u0dc3\u0dba : \u0db8\u0dcf\u026a\u0178\u0da7\u021a\u0dbb\u023c \u0daf\u00fd\u0dab (J/232) \u0d9c\u0db8 : \u0db8\u0dcf\u026a\u0178\u0da7\u021a\u0dbb\u023c \u0240\u0263\u0d9a \u0218\u0249\u025e \u0d85\u0d82\u0d9a\u0dba : \u0218\u0218\u0dba\u0dcf 2936",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.32,
+      395.84,
+      542.26,
+      485.33
+    ],
+    "text": "\u0dd9\u0dc4\u02a2\u01b1\u0dc0 \u0db8\u0dcf\u026a\u0178\u0da7\u021a\u0dbb\u023c \u0daf\u00fd\u0dab \u011e\u0dcf\u0db8 \u01e7\u0dbd\u0db0\u0dcf\u025c \u0dc0\u0dc3\u0dd9\u023c \u011e\u0dcf\u0db8 \u01e7\u0dbd\u0db0\u0dcf\u025c \u0d9a\u0dcf\u0259\u0dba\u0dcf\u0dbd \u0dd9\u0d9c\u02a3\u0da9\u0db1\u0dd0\u0119\u0262\u0dbd \u0d89\u01ce \u00fb\u025d\u0db8 \u0dc3\u0db3\u0dc4\u0dcf (J/232) (\u011e\u0dcf\u0db8 \u0dd9\u0262\u0d9a\u023c \u0d9a\u0dcf\u0259\u0dba\u0dcf\u0dbd\u0dba)",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.32,
+      486.32,
+      539.89,
+      538.4
+    ],
+    "text": "\u0d9a\u0dd0\u0db6\u0263 \u0d85\u0d82\u0d9a 1 \u0d89\u0da9\u0dd9\u023c \u0db1\u0db8: \u021a\u0263\u0dba\u018b; \u0d89\u0da9\u0dd9\u023c \u026a\u0dc3\u0dca\u0dad\u0dbb\u0dba: \u0dc0\u01ae\u0dd9\u01ae \u0dd9\u0d9c\u02a3\u0da9\u0db1\u0dd0\u0119\u0262\u0dbd \u0dc4\u0dcf \u0dc0\u0dd0\u0286\u00fb\u0263 \u0dc0\u0dbd \u0dc4\u0dcf \u0db1\u0dc5 \u0298\u0daf\u00fa; \u028f\u023d\u0d9a\u023c \u00fb\u0dba\u0db1 \u0d85\u0dba: \u0dd9\u0dc3\u0262\u0dc0\u0dbb\u0dcf\u0dc3\u0dcf \u0d85\u014f\u01ae\u00fd\u0db8\u0dcf\u0259; \u021d\u0db8\u0dcf\u0dab\u0dba: \u0dd9\u0dc4\u00fa\u0da7\u0dba\u0dcf\u0259 0.0180.",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.32,
+      539.34,
+      539.98,
+      616.64
+    ],
+    "text": "\u0d89\u0dc4\u0dad \u0dc3\u0db3\u0dc4\u01e6 \u0d89\u0da9\u0db8\u0da7/\u0db4\u0dbb\u0dc0\u0dc1\u0dad\u0dcf\u0dc0\u0dba\u0da7 \u028f\u023d\u0d9a\u023c \u0d85\u0250\u01af\u0dc0\u0dcf\u0286\u0d9a\u023c \u0dd9\u0dc4\u02a4 \u0dd9\u0dc0\u0db1\u01ae \u0dc3\u023c\u0db6\u01e6\u0db0\u0d9a\u023c \u00fb\u0dba\u0dcf \u0286\u0179\u0db1 \u0286\u0dba\u0265 \u0dd9\u0daf\u0db1\u0dcf\u0db8 \u0dad\u0db8 \u0dad\u0db8\u01e6 \u0dd9\u0dc4\u02a4 \u0d94\u026c\u01e6\u0dd9\u0118 \u0263\u0dba\u026a\u0263\u0dc0\u0263\u01e6 \u0db6\u0dbd\u0dba\u0dbd\u01ae \u0d85\u0dba\u0dc0\u0265\u01e6 \u0dd9\u0dc4\u02a4 2020 \u0dd9\u0db4\u0db6\u0dbb\u0dc0\u0dcf\u025c \u0db8\u0dc3 10 \u0dc0\u0dd0\u01e7 \u01ce\u0db1 \u0dd9\u0db4. \u0dc0. 10.00 \u0da7 \u0dd9\u0dad\u0262\u0263\u0217\u0db4\u0dd9\u0dc5\u02a2 \u021d\u0dcf\u0dd9\u01ca\u0275\u0dba \u0dd9\u0262\u0d9a\u023c \u0d9a\u0dcf\u0259\u0dba\u0dcf\u0dbd\u0dd9\u024f \u01cf \u0db8\u0dcf \u0dc3\u023c\u023f\u0d9b \u026a\u0dba \u0252\u01b1 \u0250.",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.32,
+      624.3,
+      539.91,
+      651.43
+    ],
+    "text": "\u0dad\u0dc0 \u0daf 2020 \u0da2\u0db1\u0dc0\u0dcf\u025c \u0db8\u0dc3 31 \u0dc0\u0dd0\u01e7 \u01ce\u0db1\u0da7 \u0db8\u01ae\u0dd9\u0dad\u01e6 \u0d92 \u0d89\u0da9\u0db8 \u0dc3\u023c\u0db6\u01e6\u0db0\u0dd9\u0dba\u01e6 \u0d94\u026c\u01e6\u0dd9\u0118 \u0d85\u0250\u01af\u0dc0\u0dcf\u0286\u0d9a\u023c\u0dc0\u0dbd \u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dba\u01ae \u0d91\u00fc",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      1.9198079109191895,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      757.96,
+      144.06,
+      765.88
+    ],
+    "text": "1A - G31638 \u2013 22 (2019/12)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.08,
+      85.28,
+      75.48,
+      95.36
+    ],
+    "text": "2 A",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.88,
+      87.2,
+      481.48,
+      97.32
+    ],
+    "text": "III \u0dd9\u0d9a\u02a3\u0da7\u0dc3 : \u027c \u0dbd\u0d82\u0d9a\u0dcf \u021d\u0da2\u0dcf\u0dad\u0dcf\u01e6\u01b5\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u01cf \u0da2\u0db1\u0dbb\u0da2\u0dd9\u024f \u0d85\u01af \u026a\u0dd9\u0dc1\u0dc2 \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dba - 2019.12.18",
+    "fonts": [
+      "ArialUnicodeMS,Bold",
+      "IskoolaPota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.08,
+      115.04,
+      297.44,
+      166.4
+    ],
+    "text": "\u0d89\u0da9\u0db8/\u0db4\u0dbb\u0dc0\u0dc1\u0dad\u0dcf\u0dc0\u0dba\u0da7 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u01e8\u0db8 \u0d9c\u0dd0\u0db1 \u0dc0\u01e6\u01ce \u0d89\u0262\u0264\u0db8\u0da7 \u0d87\u01af \u0d9a\u025e\u019f \u0218\u0298\u0db6\u0db3 \u026a\u0dc3\u0dca\u0dad\u0dbb\u01ae \u0dc0\u01e6\u01ce \u023f\u0daf\u0dbd \u0dc4\u0dcf \u0d92 \u023f\u0daf\u0dbd \u0d9c\u0dab\u01e6 \u0db6\u0dd0\u0266 \u0dc4\u0dd0\u0179\u01ae \u0db8\u0dcf \u0dd9\u0dc0\u0dad \u0218\u0da7\u0db4\u01ae \u0dd9\u0daf\u0d9a\u00fa \u0dc3\u028f\u0dad \u026d \u0263\u0dba\u026a\u0262\u0dbd\u00fb\u01e6 \u0daf\u0dd0\u01e9\u023c\u01ce\u0dba \u0252\u01b1\u0250.",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.08,
+      169.75,
+      274.44,
+      250.38
+    ],
+    "text": "\u0dc3.\u0286\u0dc0\u027c, \u021d\u0dcf\u0dd9\u01ca\u0275\u0dba \u0dd9\u0262\u0d9a\u023c, \u0dd9\u0dad\u0262\u0263\u0217\u0db4\u0dd9\u0dc5\u02a2.",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      9.118988037109375,
+      10.078991889953613,
+      16.078292846679688
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.08,
+      255.68,
+      192.6,
+      336.74
+    ],
+    "text": "\u021d\u0dcf\u0dd9\u01ca\u0275\u0dba \u0dd9\u0262\u0d9a\u023c \u0d9a\u0dcf\u0259\u0dba\u0dcf\u0dbd\u0dba, \u0dc0\u0263\u0d9a\u0dcf\u0db8\u023c \u0d8b\u01b1\u0dbb, \u0dd9\u0dad\u0262\u0263\u0217\u0db4\u0dd9\u0dc5\u02a2. 2019 \u0dd9\u0daf\u0dc3\u0dd0\u023c\u0db6\u0259 \u0db8\u0dc3 09 \u0dc0\u0dd0\u01e7 \u01ce\u0db1,\u25cc\u0dd2",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.998800277709961,
+      23.997600555419922
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.08,
+      344.0,
+      88.92,
+      354.08
+    ],
+    "text": "12-892",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      403.44,
+      115.25,
+      452.52,
+      127.25
+    ],
+    "text": "\u0276\u01ca\u01dd\u0db4\u01b4\u0dba",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.88,
+      128.45,
+      535.08,
+      152.7
+    ],
+    "text": "\u0d89\u0da9\u023c \u0d85\u01ae\u0d9a\u0dbb \u0d9c\u0dd0\u01e8\u0dd9\u023c \u0db4\u0db1\u0dad (460 \u0dc0\u0dd0\u01e7 \u0db4\u025c\u013c\u0dd9\u0146\u0daf\u0dba)",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      11.038795471191406,
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      359.28,
+      153.89,
+      496.44,
+      178.14
+    ],
+    "text": "7 \u0dc0\u0dd0\u01e7 \u0dc0\u0d9c\u01e6\u01af\u0dba \u0dba\u0da7\u0dd9\u01ae \u0daf\u0dd0\u01e6\u026b\u0db8",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      11.038795471191406,
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.2,
+      179.12,
+      547.51,
+      200.24
+    ],
+    "text": "\u0db8\u0dd9\u0118 \u0d85\u0d82\u0d9a\u0dba: DIVPANN/LND/ACDEP/1/4/15.",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      310.08,
+      201.2,
+      595.81,
+      277.52
+    ],
+    "text": "2019 \u0db8\u0dd0\u0250 \u0db8\u0dc3 10 \u0dc0\u0dd0\u01e7 \u01ce\u0db1\u0dd0\u01af \u0d85\u0d82\u0d9a 2122/55 \u0daf\u0dbb\u0db1 \u027c \u0dbd\u0d82\u0d9a\u0dcf \u021d\u0da2\u0dcf\u0dad\u0dcf\u01e6\u01b5\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u01cf \u0da2\u0db1\u0dbb\u0da2\u0dd9\u024f \u0d85\u01af\u026a\u0dd9\u0dc1\u0dc2 \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dd9\u024f \u0db4\u0dc5\u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d89\u0dc4\u0dad \u0dc3\u0daf\u0dc4\u01e6 \u0daf\u0dd0\u01e6\u026b\u0dd9\u023c \u0d89\u0da9\u023c \u0dc4\u0dcf \u0db4\u0dcf\u0259\u0263\u0dd9\u023c\u01e6\u01b1 \u021d\u01af\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d85\u0db8\u0dcf\u0dad\u0255\u0d82\u0dc1\u0dd9\u024f \u0dd9\u0d9c\u02a3\u01e9 \u0d85\u0d82\u0d9a\u0dba 4-3/2017/Lo/283 \u0dba\u01e9\u0dd9\u0dc0\u01e6 \u0dc3\u0db3\u0dc4\u01e6 \u026b \u0d87\u0dad\u01ae \u0d91\u0dba 4-3/4/2017/Lo/54 \u0dc0\u0dc1\u0dd9\u0dba\u01e6 \u01e7\u0dc0\u0dd0\u0dbb\u01ce \u026a\u0dba \u0252\u01b1\u0dba.",
+    "fonts": [
+      "IskoolaPota",
+      "IskoolaPota,Italic"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      310.08,
+      288.79,
+      545.64,
+      361.28
+    ],
+    "text": "\u0d86\u0259. \u0d91\u023c. \u0d91\u0dc3\u0dca. \u026a\u0100\u0db8\u0dbb\u01ae\u0db1 \u0db6\u019c\u0da9\u0dcf\u0dbb, \u021d\u0dcf\u0dd9\u01ca\u0275\u0dba \u0dd9\u0262\u0d9a\u023c, \u0db4\u01e6\u0db1\u0dbd. 12-893",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.0,
+      771.76,
+      399.54,
+      780.16
+    ],
+    "text": "\u027c \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0da2\u0dd9\u024f \u023f\u01d6\u0dab \u0dd9\u0daf\u0db4\u0dcf\u0259\u0dad\u0dd9\u023c\u01e6\u01b1\u0dd9\u0269 \u023f\u01d6\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0dbd\u01cf.",
+    "fonts": [
+      "IskoolaPota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.39915943145752
+    ]
+  }
+]
