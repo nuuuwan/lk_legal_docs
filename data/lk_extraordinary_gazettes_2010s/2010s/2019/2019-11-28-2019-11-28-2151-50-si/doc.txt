@@ -1,0 +1,63 @@
+1 AI fldgi: (I) fPoh - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'11'28
+
+wxl 2151$50 - 2019 fkdjeïn¾ ui 28 jeks n%yiam;skaod - 2019'11'28
+
+^rcfha n,hmsg m%isoaO lrk ,oS&I jeks fldgi: (I) jeks fPoh - idudkH
+
+rcfha ksfõok
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+1A - G 31594 — 27 (2019/11)fuu w;s úfYI .eiÜ m;%h www.documents.gov.lk fjí wvúfhka nd.; l< yel'
+
+^175 jeks wêldrh jQ& jkaokd .uka wd{dmk;
+
+idOd;=l lr~qj iys; Y%S iquk iuka foaj m%;sudjykafia f.!;u Y%S mdoia:dkh olajd jevu lrùfïfmryer 2019 - 2020
+
+f,dõ;=rd nqoaO;ajfhka jir 8 lg miq inr.uqfõ md,lj isá iquk foõ uy rcqf.a werhqfuka iuka;l+G m¾j;uia:lfha Y%S mdo ,dxPkh msysgqjd Y%S ,xldj mdßY=oaO;ajhg m;alr jÞ< fial' t;eka isg iuka;l+G m¾j;h f,dal mqð;jQy' tjla mgka rdc rdc uydud;Hd§ka úiska mqo fmryer mj;aj;s'
+
+inr.uq m<df;a" r;akmqr ÈYdfõ kjÿka fldar,fha me,auvq,a, l=Ügdmsáh úydr .fï msysá .,afmd;a;dfj, Y%S mdorcuy úydrfha wjdrfha § iquk iuka foaj m%;sudjykafia ;ekam;a lr mqomQcd mj;ajk foaj ukaÈrh msysgd we;'
+
+1' 2019 jif¾ W÷jma ui mqr mif<diajl fmdfydh Èkg fmr Èk iOd;+l lr~qkajykafia iys; iuka foaj m%;sudjykafia .,afmd;a;dfj, Y%S mdo rcuy úydria:dkfha isg iuka;l+G m¾j; uia:lhg jevu lrùfï fmryerux.,Hh iqN fydardfjka wdrïN flf¾'
+
+) 2019'12'09 Èk miajrefõ isg 2019'12'10 Èk w¿hu olajd foaj m%;sud jykafia ksrdjrKh lr ne;su;=kaf.amqocqcd meje;aùu'
+
+) 2019'12'10 Èk .,afmd;a;dfj, Y%S mdo rcuyd úydria:dkfha isg w¿hu fmryer wdrïN lsÍu'
+
+I' 2019'12'10 Èk mqo mQcd ksudùfuka miq w¿hu .,afmd;a;dfj, Y%S mdo rcuy úydria:dkfha isg me,auvq,a,"r;akmqr" l=reúg" weye<shf.dv" wúiaidfõ,a," foys´úg" lrjke,a," háhkaf;dg" wU.uqj" yegka" uiafl<shk,a,;kaksh wd§ m%Odk k.r Tiafia ßh fmryer meje;aùu'
+
+II' 2019'12'10 Èk w¿hu .,afmd;a;dfj, Y%S mdo rcuy úydria:dkfha isg me,auvq¨ k.rh" .fka.u" md;lv"ikakia.u" Èmamsá.," f,,af,dmsáh" je,su¿j" m;=,amdk" me,ajdäh" ;sßjdkleáh" ngqf.or" jrldf;dg"l=vq.,aj;a;" k.r iNdj" Trf,daiq lKqj" O¾umd, udj;" fudr.yhg" mdkÿr mdr" .,alvqj" inr.uq uyiuka foajd,hg f.dia kej; fudr.yhg" frday,a ykaÈh" fjr¿fm ykaÈh kj k.rh" ysoe,a,k úÿy,a
+
+2 AI fldgi: (I) fPoh - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'11'28
+
+udj;" *dï .dâka ykaÈh kj k.rh" fjr¿fm ykaÈh" fudr.yhg *¾.ika mdr" niakej;=ïfmd< l=vq.,aj;a;"f.dä.uqj u,aj," mdr Tiafia Y%S m,dn;a., rcuyd úydria:dkh olajd ßh fmryer meje;aùu yd m,dn;a.,fmryer iu. .uka lrk l=reúg tr;ak fmryer o" .,afmd;a;fj, Y%S mdo rc uyd úydria:dkfha isgume,auvq,a," .fka.u' md;lv" ikakia.u" ÈmamsÜ.," f,,af,dmsáh" je,su¿j" m;=,amdk" me,ajdäh";srejdkdleáh" ngqf.or" jrldf;dg" l=vq.,aj;a;" k.riNdj" Trf,daiq lKqj" wi,ska O¾umd, udj;fudr.yhg" .,alvqj" iuka foajd,hg f.dia mqo mQcd mj;ajd" lyx.u fyd,Smsáh" f.drl we< ykaÈfhkamy;a.u yryd l=reúg k.rhg lgq;shUrdj" tlake,sf.dv yryd tr;ak mdf¾ j¾K.,g f.dia md .ukskam,dn;a., fmryer msg;a ùfuka miq .uka lsÍu isÿfõ'
+
+III' 2019'12'10 Èk w¿hu .,afmd;a;dfj, Y%S mdo rcuy úydria:dkfha isg me,auvq,a, k.rh" boaou,af.dv"ó.yf.dv" rUql fndaêh" fudrf;dg ykaÈh" yqKqj," fo,a.ia.dj" ´mkdhl" Wvfj," fj<fÕa" n,xf.dvg"we,af,wrdj fudrye," mskakj, fnd,a;+fò iuka foajd,hg f.dia wdmiq udr;ekak yryd n.jka;,dj"fkda¾jqâ yegka ykaÈh uiafl<sh k,a,;kaksh olajd ßh fmryer meje;aùu'
+
+wk;=rej rc udj; Tiafia;a" yegka ud¾.h Tiafia;a" Y%S mdo u¿j olajd iOd;=l lr~qj iys; iukafoaj m%;sudjykafia foda,dfjka iuka;l+G m¾j;h olajd jevu ùfuka fmryer ux.,Hh ksu lsÍug kshñ;h'
+
+) Y%S mdoia:dkdêm;s kdysñ kïlrk r: i|yd fmryef¾ m%uqL;djh Èh hq;= w;r" fm<.eiaug ndOdfkdjk f,i" fmryerg iïnkaO jk fiiq r: thg miqmiska .uka l< hq;= h'
+
+2' úydrN+ñh ;=< fj<|dï lsÍu ;ykï lrñ' m%Odk ud¾.h yd m%Odk ud¾.fha isg Y%S mdo úydrh olajd w;=reud¾.fha fj<|dï lsÍu yd okaie,a meje;aùu" ne;su;=kag yd fmryerg ndOdjla fkdjk f,i l< hq;= h'
+
+3' me,auvq,a, k.rfha isg Y%S mdo úydrN+ñh f;la iïudoï tl;= lsÍu" wdOdr tl;= lsÍu ;ykï lrñ'
+
+4' m%Odk ud¾.fha isg Y%S mdo úydrN+ñh olajd ud¾.fha fmryerg yd ne;su;=kag wjysr jk f,i mqoa.,slr:jdyk kj;d ;eîu ;ykï lrñ'
+
+5' úydrN+ñh yd wjg ud¾.fha ùÈ ,dïmq yd wu;r ,dïmq iúlsÍu ,xld úÿ,sn, uKav,hg yd me,auvq,a,m%dfoaYSh iNdjg mjrñ'
+
+6' fmryer ux.,Hhg fmr yd miq fi!LH lghq;= ikSmdrlaIl lghq;= yd wmøjH bj;a lsÍu me,auvq,a,m%dfoaYSh iNdjg yd fi!LH ffjoH ks,OdÍ ld¾hd,hg mjrñ'
+
+7' ne;su;=kag wjYH mdkSh c,h wu;r c,gexls fhdod myiqlï iemhSu c, iïmdok uKav,fha m%dfoaYShld¾hd,hg mjrñ'
+
+8' ish¨ wdrlaIl lghq;= fmryerg yd ne;su;=kag wjysr fkdjk f,i ud¾.fha r:jdyk yeisrùu wdrlaIlwxY yd fmd,Sish fj; mjrñ'
+
+9' Y%S mdoia:dkfha udi 6la jkaokdudk yd mqomQcd mj;ajd bÈßhg t<fUk fjila fmdfydh Èkg miq.,afmd;a;dfj, rcuyd úydria:dkfha uyd foaj ukaÈrfha ;ekam;a lr mqomQcd mj;ajkq ,nhs' tÈk f;laWla; lreKq 08g wÞ< ksfhda. j,x.= fõ'
+
+î' tia' Ô' rejkaisß"m%dfoaYSh f,alï"me,auvq,a,'
+
+12 - 435
+
+Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'
