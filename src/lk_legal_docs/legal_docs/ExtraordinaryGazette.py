@@ -8,17 +8,17 @@ from lk_legal_docs.legal_docs.AbstractGovLkPDFDoc import AbstractGovLkPDFDoc
 class ExtraordinaryGazette(AbstractGovLkPDFDoc):
 
     @classmethod
-    @cache
-    def get_shard_decade(cls):
-        return "2020s"
-
-    @classmethod
     def get_url_base(cls) -> str:
         return "https://documents.gov.lk/view/extra-gazettes"
 
     @classmethod
     def get_doc_class_label(cls):
-        return "lk_extraordinary_gazettes"
+        return "lk_extraordinary_gazettes_" + cls.get_shard_decade()
+
+    @classmethod
+    @cache
+    def get_shard_decade(cls):
+        raise NotImplementedError
 
     @classmethod
     def get_doc_class_description(cls) -> str:
