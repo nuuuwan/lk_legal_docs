@@ -7,8 +7,8 @@ on:
         description: "max_dt"
         required: false
         default: "1"
-  schedule:
-    - cron: "*/30 * * * *"
+  # schedule:
+  #   - cron: "*/30 * * * *"
 
 jobs:
   pipeline_slow:
