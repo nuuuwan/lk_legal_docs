@@ -2,32 +2,32 @@
   "doc_class_label": "lk_extraordinary_gazettes_2010s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-10-08 09:37:14",
-  "n_docs": 8,
-  "n_docs_with_pdfs": 8,
-  "n_docs_with_text": 8,
-  "date_str_min": "2019-12-31",
+  "time_updated": "2025-10-08 10:23:34",
+  "n_docs": 56379,
+  "n_docs_with_pdfs": 101,
+  "n_docs_with_text": 101,
+  "date_str_min": "2010-01-01",
   "date_str_max": "2019-12-31",
-  "dataset_size": 883987,
+  "dataset_size": 81031777,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2010s",
-    "doc_id": "2019-12-31-2019-12-31-2156-16-si",
-    "num": "2019-12-31-2156-16-si",
+    "doc_id": "2019-12-31-2019-12-31-2156-17-ta",
+    "num": "2019-12-31-2156-17-ta",
     "date_str": "2019-12-31",
-    "description": "Consumer Affairs Authority - Directs that maximum retail price, batch number etc., shall be legibly printed on packs, containers or on wrappers of all articles/goods",
+    "description": "Election Commission - A member of the Trincomalee Town & Gravets Pradeshiya Sabha has vacated his office of member",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2019.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2019/12/2156-16_S.pdf",
-    "doc_number": "2156/16"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2019/12/2156-17_T.pdf",
+    "doc_number": "2156/17"
   }
 }
