@@ -2,13 +2,13 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-10-08 22:11:11",
+  "time_updated": "2025-10-08 22:35:13",
   "n_docs": 4077,
   "n_docs_with_pdfs": 4076,
   "n_docs_with_text": 4076,
   "date_str_min": "2010-05-10",
   "date_str_max": "2025-10-26",
-  "dataset_size": 1797865133,
+  "dataset_size": 1797865131,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
