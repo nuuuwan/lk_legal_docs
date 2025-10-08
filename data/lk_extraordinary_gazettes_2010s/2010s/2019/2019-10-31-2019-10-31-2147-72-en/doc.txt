@@ -1,0 +1,319 @@
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20191A
+
+w;s úfYI
+
+wxl 2147$72 - 2019 Tlaf;dan¾ ui 31 jeks n%yiam;skaod - 2019'10'31No. 2147/72 - THURSDAY, OCTOBER 31, 2019
+
+EXTRAORDINARYThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+(Published by Authority)PART I : SECTION (I) — GENERALGovernment Notifications
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk1A - PG 4689— 517 (10/2019)
+
+NOTIFICATION UNDER THE FINANCE ACT, NO. 35 OF 2018
+
+By virtue of the powers vested in me by Section 51 read with Section 19 of the Finance Act, No. 35 of 2018, I, ManagalaSamaraweera, Minister of Finance, do by this Order promulgate the following regulations.
+
+MANGALA SAMARAWEERA,Minister of Finance.
+
+Ministry of Finance,Colombo 01,October 31, 2019.
+
+Regulations
+
+1. These regulations may be cited as the Finance (Luxury Tax on Motor Vehicles) Regulations, No. 2 of 2019 andshall be effective from November 01, 2019.
+
+2. The date for the purposes of Sections 19, 20 and 21 of the Finance Act, No. 35 of 2018 shall be March 06, 2019.
+
+3. The Luxury tax on motor vehicles payable in terms of Section 19 of the said Act, on a specified motor vehicle,imported into Sri Lanka based on a Letter of Credit (LC) established on or after March 06, 2019 or assembled inSri Lanka for which the Bill of entry delivered to the Director General of Customs on or after March 06, 2019,shall be paid to the Director General of Customs, by the person importing such motor vehicle, or delivering suchBill of entry, as the case may be, at the time of releasing the said motor vehicle from the Sri Lanka Customs.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20192A
+
+4. Provided that :
+
+(a)The Luxury Tax on Motor Vehicles shall be applied at zero (0%) rate on a motor vehicle, imported into SriLanka based on a Letter of Creidt established on or before March 05, 2019, subject to no amendment ismade to the description or quantity or technical specifications of such motor vehicle in the said Letter ofCredit and value or expiry date of the said Letter of Credit and released from the Sri Lanka Customs on orbefore December 31, 2019 and
+
+(b)For greater certainty, a petrol motor vehicle of which the cylinder capacity not exceeding 1800 cc or adiesel motor vehicle of which the cylinder capacity not exceeding 2300 cc or an electric motor vehicle ofwhich the motor power of the engine not exceeds 200 kW, imported into Sri Lanka based on a Letter ofCredit established within the period from March 06, 2019 to October 31, 2019 subject to no amendmentis made to the description or quantity or technical specifications of such motor vehicle in the said Letterof Credit and value or expiry date of the said Letter of Credit and released from the Sri Lanka Customs onor before March 31, 2020, shall not be subject to the Lxury Tax on Motor Vehicles.
+
+5. The Luxury Tax on Motor Vehicles shall be charged on every specified motor vehicle as specified in Column I, ofwhich the Cost, Insurance Freight (CIF) value or the Ex-Factory Price (Manufacturer’s Price), as the case maybe, in exceeding the Luxuary Tax Free Threshold Value as specified in Column II of the Schedule hereto, at therate specified in the corresponding entry in Column III of the said Schedule.
+
+For the purpose of these Regulations,
+
+“Luxury Tax Free Threshold Value” means the maximum Luxury Tax Free value of the Cost, Insurance,Freight (CIF), value or the Ex-Factory Price (Manufacturer’s Price) of a locally assembled, as the casemay be, of a motor vehicle as defined in the Column II of the Schedule to these Regulations.
+
+6. The Gazette Notification No. 2113/11 dated March 05, 2019, as amended, published under the Sections 51 readwith Section 19 of the Finance Act, No. 35 of 2018, is hereby repealed with effect from November 01, 2019.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20193A
+
+87.02Motor vehicles for the transportof ten or more persons, includingthe driver.8702.10With only compression-ignitioninternal combustion piston engine(diesel or semi-diesel) :Motor vehicles for the transportof less than 13 persons (adults)including the driver, not more thanthree and a half years old:8702.10.12Modified vehicles of heading 87.03,Rs. 3.5 Mn120%not more than two years old8702.10.13Modified vehicles of heading 87.03,Rs. 3.5 Mn120%more than two years old8702.10.19OtherRs. 3.5 Mn0%Motor vehicles for the transportof less than 13 persons (adults)including the driver, more thanthree and a half years old :8702.10.21Modified vehicles of heading 87.03Rs. 3.5 Mn120%8702.10.29OtherRs. 3.5 Mn0%Motor vehicles for the transport of 13or more persons (adults) but lessthan 25 persons (adults) includingthe driver, not more than five years old :8702.10.32Modified vehicles of heading 87.03,Rs. 3.5 Mn120%not more than two years old8702.10.33Modified vehicles of heading 87.03,Rs. 3.5 Mn120%more than two years old8702.10.39OtherRs. 3.5 Mn0%Motor vehicles for the transport of 13or more persons (adults) but lessthan 25 persons (adults) includingthe driver, more than five years old:8702.10.41Modified vehicles of heading 87.03Rs. 3.5 Mn120%8702.10.49OtherRs. 3.5 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, not more thanten years old:
+
+SCHEDULE
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20194A
+
+8702.10.53Modified vehicles of heading 87.03,Rs. 3.5 Mn120%not more than two years old8702.10.54Modified vehicles of heading 87.03,Rs. 3.5 Mn120%more than two years old8702.10.55Other, not more than five years oldRs. 3.5 Mn0%8702.10.59OtherRs. 3.5 Mn0%Motor vehicles for the transportof 25 or more persons (adults) butless than 35 persons (adults)including the driver, more thanten years old :8702.10.61Modified vehicles of heading 87.03Rs. 3.5 Mn120%8702.10.69OtherRs. 3.5 Mn0%Other, not more than ten years old8702.10.73Modified vehicles of heading 87.03,Rs. 3.5 Mn120%not more than two years old8702.10.74Modified vehicles of heading 87.03,Rs. 3.5 Mn120%more than two years old8702.10.75Other, not more than five years oldRs. 3.5 Mn0%8702.10.79OtherRs. 3.5 Mn0%Other, more than ten years old8702.10.81Modified vehicles of heading 87.03Rs. 3.5 Mn120%8702.10.89OtherRs. 3.5 Mn0%8702.20With both compression-ignitioninternal combustion piston engine(diesel or semi-diesel) and electricmotor as a motors for propulsion:Motor vehicles for the transportof less than 13 persons (adults)including the driver, not more thanthree and a half years old:8702.20.11Modified vehicles of headingRs. 4.0 Mn90%87.03, not more than two years old8702.20.12Modified vehicles of heading 87.03,Rs. 4.0 Mn90%more than two years old8702.20.19OtherRs. 4.0 Mn0%Motor vehicles for the transportof less than 13 persons (adults)including the driver, more than threeand a half years old :8702.20.21Modified vehicles of heading 87.03Rs. 4.0 Mn90%8702.20.29OtherRs. 4.0 Mn0%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20195A
+
+Motor vehicles for the transportof 13 or more persons (adults) butless than 25 persons (adults)including the driver, not morethan five years old :8702.20.31Modified vehicles of heading 87.03,Rs. 4.0 Mn90%not more than two years old8702.20.32Modified vehicles of heading 87.03,Rs. 4.0 Mn90%more than two years old8702.20.39OtherRs. 4.0 Mn0%Motor vehicles for the transport of 13or more persons (adults) but lessthan 25 persons (adults) includingthe driver, more than five years old:8702.20.41Modified vehicles of heading 87.03Rs. 4.0 Mn90%8702.20.49OtherRs. 4.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults) butless than 35 persons (adults)including the driver, not morethan ten years old:8702.20.51Modified vehicles of heading 87.03,Rs. 4.0 Mn90%not more than two years old8702.20.52Modified vehicles of heading 87.03,Rs. 4.0 Mn90%more than two years old8702.20.53Other, not more than five years oldRs. 4.0 Mn0%8702.20.59OtherRs. 4.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults) butless than 35 persons (adults)including the driver, more thanten years old :8702.20.61Modified vehicles of heading 87.03Rs. 4.0 Mn90%8702.20.69OtherRs. 4.0 Mn0%Other, not more than ten years old8702.20.71Modified vehicles of heading 87.03,Rs. 4.0 Mn90%not more than two years old8702.20.72Modified vehicles of heading 87.03,Rs. 4.0 Mn90%more than two years old8702.20.73Other, not more than five years oldRs. 4.0 Mn0%8702.20.79OtherRs. 4.0 Mn0%Other, more than ten years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20196A
+
+8702.20.81Modified vehicles of heading 87.03Rs. 4.0 Mn90%8702.20.89OtherRs. 4.0 Mn0%8702.30With both spark-ignition internalcombustion reciprocating pistonengine and electric motor as amotors for propulsion:Motor vehicles for the transportof less than 13 persons (adults)including the driver, not more thanthree and a half years old:8702.30.11Modified vehicles of heading 87.03,Rs. 4.0 Mn80%not more than two years old8702.30.12Modified vehicles of heading 87.03,Rs. 4.0 Mn80%more than two years old8702.30.19OtherRs. 4.0 Mn0%Motor vehicles for the transportof less than 13 persons (adults)including the driver, more than threeand a half years old :8702.30.21Modified vehicles of heading 87.03Rs. 4.0 Mn80%8702.30.29OtherRs. 4.0 Mn0%Motor vehicles for the transportof 13 or more persons (adults)but less than 25 persons (adults)including the driver, not more thanfive years old :8702.30.31Modified vehicles of heading 87.03,Rs. 4.0 Mn80%not more than two years old8702.30.32Modified vehicles of heading 87.03,Rs. 4.0 Mn80%more than two years old8702.30.39OtherRs. 4.0 Mn0%Motor vehicles for the transportof 13 or more persons (adults)but less than 25 persons (adults)including the driver, more thanfive years old:8702.30.41Modified vehicles of heading 87.03Rs. 4.0 Mn80%8702.30.49OtherRs. 4.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults) butless than 35 persons (adults)including the driver, not morethan ten years old:
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20197A
+
+8702.30.51Modified vehicles of heading 87.03,Rs. 4.0 Mn80%not more than two years old8702.30.52Modified vehicles of heading 87.03,Rs. 4.0 Mn80%more than two years old8702.30.53Other, not more than five years oldRs. 4.0 Mn0%8702.30.59OtherRs. 4.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, more thanten years old :8702.30.61Modified vehicles of heading 87.03Rs. 4.0 Mn80%8702.30.69OtherRs. 4.0 Mn0%Other, not more than ten years old8702.30.71Modified vehicles of heading 87.03,Rs. 4.0 Mn80%not more than two years old8702.30.72Modified vehicles of heading 87.03,Rs. 4.0 Mn80%more than two years old8702.30.73Other, not more than five years oldRs. 4.0 Mn0%8702.30.79OtherRs. 4.0 Mn0%Other, more than ten years old8702.30.81Modified vehicles of heading 87.03Rs. 4.0 Mn80%8702.30.89OtherRs. 4.0 Mn0%8702.40With only electric motor forpropulsionMotor vehicles for the transportof less than 13 persons (adults)including the driver, not more thanthree and a half years old:8702.40.11Modified vehicles of heading 87.03,Rs. 6.0 Mn60%not more than two years old8702.40.12Modified vehicles of heading 87.03,Rs. 6.0 Mn60%more than two years old8702.40.19OtherRs. 6.0 Mn0%Motor vehicles for the transportof less than 13 persons (adults)including the driver, more than threeand a half years old :8702.40.21Modified vehicles of heading 87.03Rs. 6.0 Mn60%8702.40.29OtherRs. 6.0 Mn0%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20198A
+
+Motor vehicles for the transportof 13 or more persons (adults)but less than 25 persons (adults)including the driver, not morethan five years old :8702.40.31Modified vehicles of heading 87.03,Rs. 6.0 Mn60%not more than two years old8702.40.32Modified vehicles of heading 87.03,Rs. 6.0 Mn60%more than two years old8702.40.39OtherRs. 6.0 Mn0%Motor vehicles for the transportof 13 or more persons (adults)but less than 25 persons (adults)including the driver, more thanfive years old:8702.40.41Modified vehicles of heading 87.03Rs. 6.0 Mn60%8702.40.49OtherRs. 6.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, not morethan ten years old8702.40.51Modified vehicles of heading 87.03,Rs. 6.0 Mn60%not more than two years old8702.40.52Modified vehicles of heading 87.03,Rs. 6.0 Mn60%more than two years old8702.40.53Other, not more than five years oldRs. 6.0 Mn0%8702.40.59OtherRs. 6.0 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, more thanten years old :8702.40.61Modified vehicles of heading 87.03Rs. 6.0 Mn60%8702.40.69OtherRs. 6.0 Mn0%Other, not more than ten years old8702.40.71Modified vehicles of heading 87.03,Rs. 6.0 Mn60%not more than two years old8702.40.72Modified vehicles of heading 87.03,Rs. 6.0 Mn60%more than two years old8702.40.73Other, not more than five years oldRs. 6.0 Mn0%8702.40.79OtherRs. 6.0 Mn0%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.20199A
+
+Other, more than ten years old8702.40.81Modified vehicles of heading 87.03Rs. 6.0 Mn60%8702.40.89OtherRs. 6.0 Mn0%8702.90OtherMotor vehicles for the transportof less than 13 persons (adults)including the driver, not more thanthree and a half years old :8702.90.12Modified vehicles of heading 87.03,Rs. 3.5 Mn100%not more than two years old8702.90.13Modified vehicles of heading 87.03,Rs. 3.5 Mn100%more than two years old8702.90.19OtherRs. 3.5 Mn0%Motor vehicles for the transportof less than 13 persons (adults)including the driver, more thanthree and a half years old :8702.90.21Modified vehicles of heading 87.03Rs. 3.5 Mn100%8702.90.29OtherRs. 3.5 Mn0%Motor vehicles for the transportof 13 or more persons (adults)but less than 25 persons (adults)including the driver, not morethan five years old :8702.90.32Modified vehicles of heading 87.03,Rs. 3.5 Mn100%not more than two years old8702.90.33Modified vehicles of heading 87.03,Rs. 3.5 Mn100%more than two years old8702.90.39OtherRs. 3.5 Mn0%Motor vehicles for the transportof 13 or more persons (adults) butless than 25 persons (adults) includingthe driver, more than five years old :8702.90.41Modified vehicles of heading 87.03Rs. 3.5 Mn100%8702.90.49OtherRs. 3.5 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, not more thanten years old :8702.90.53Modified vehicles of heading 87.03,Rs. 3.5 Mn100%not more than two years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201910A
+
+8702.90.54Modified vehicles of heading 87.03,Rs. 3.5 Mn100%more than two years old8702.90.55Other, not more than five years oldRs. 3.5 Mn 0%8702.90.59OtherRs. 3.5 Mn0%Motor vehicles for the transportof 25 or more persons (adults)but less than 35 persons (adults)including the driver, more thanten years old :8702.90.61Modified vehicles of heading 87.03Rs. 3.5 Mn100%8702.90.69OtherRs. 3.5 Mn0%Other, not more than ten years old8702.90.73Modified vehicles of heading 87.03,Rs. 3.5 Mn100%not more than two years old8702.90.74Modified vehicles of heading 87.03,Rs. 3.5 Mn100%more than two years old8702.90.75Other, not more than five years oldRs. 3.5 Mn0%8702.90.79OtherRs. 3.5 Mn0%Other, more than ten years old8702.90.81Modified vehicles of heading 87.03Rs. 3.5 Mn100%8702.90.89OtherRs. 3.5 Mn0%87.03Motor cars and other motorvehicles principally designedfor the transport of persons(other than those of heading87.02), including station wagonsand racing cars.8703.10Vehicles specially designed fortravelling on snow ; golf cars andsimilar vehicles :Not more than three years old8703.10.11Electric Golf carsRs. 6.0 Mn0%8703.10.19OtherRs. 3.5 Mn0%More than three years old8703.10.21Electric Golf carsRs.6.0 Mn0%8703.10.29OtherRs. 3.5 Mn0%Other vehicles, with onlyspark-ignition internal combustionreciprocating piston engine :8703.21Of cylinder capacity not exceeding1,000 cc :
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201911A
+
+8703.21.10Ambulances and prison vans notRs. 3.5 Mn0%more than three years old8703.21.20Ambulances and prison vans moreRs. 3.5 Mn0%than three years oldMotor cars including stationwagons and racing cars, not morethan three years old :8703.21.62Go-KartsRs. 3.5 Mn0%8703.21.63Other, of cylinder capacity notRs. 3.5 Mn0%exceeding 300 cc includingQuadricycle8703.21.64All - terrain vehicle (ATV)Rs. 3.5 Mn0%8703.21.69OtherRs. 3.5 Mn100%Motor cars including station wagonsand racing cars, more than threeyears old :8703.21.72Other, of cylinder capacity notRs. 3.5 Mn0%exceeding 300 cc includingQuadricycle8703.21.73All - terrain vehicle (ATV)Rs. 3.5 Mn0%8703.21.79Other :Rs. 3.5 Mn100%Other :8703.21.92Not more than three years oldRs. 3.5 Mn100%8703.21.93More than three years oldRs. 3.5 Mn100%8703.22Of a cylinder capacity exceeding1,000 cc but not exceeding 1,500 cc :8703.22.10Ambulances and prison vans,Rs. 3.5 Mn0%not more than three years old8703.22.20Ambulances and prison vans,Rs. 3.5 Mn0%more than three years old8703.22.50Motor cars including station wagonsRs. 3.5 Mn100%and racing cars, not more thanthree years old8703.22.60Motor cars including station wagonsRs. 3.5 Mn100%and racing cars, more than threeyears old8703.22.70Other, not more than three years oldRs. 3.5 Mn100%8703.22.80Other, more than three years oldRs. 3.5 Mn100%8703.23Of a cylinder capacity exceeding1,500 cc but not exceeding 3,000 cc :8703.23.10Ambulances and prison vans notRs. 3.5 Mn0%more than three years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201912A
+
+8703.23.20Ambulances and prison vans moreRs. 3.5 Mn0%than three years oldMotor cars including station wagonsand racing cars of a cylinder capacitynot exceeding 2,000 cc, not morethan three years old :8703.23.52Of a cylinder capacity notRs. 3.5 Mn100%exceeding 1,600 cc8703.23.55Of a cylinder capacity exceeding1,600cc, but not exceeding 1,800ccRs. 3.5 Mn100%8703.23.59OtherRs. 3.5 Mn100%Motor cars including station wagonsand racing cars of a cylinder capacitynot exceeding 2,000 cc, more thanthree years old:8703.23.62Of a cylinder capacity not exceedingRs. 3.5 Mn100%1,600 cc8703.23.65Of a cylinder capacity exceedingRs. 3.5 Mn100%1,600cc, but not exceeding 1,800cc8703.23.69OtherRs. 3.5 Mn100%8703.23.70Motor cars including station wagonsRs. 3.5 Mn100%and racing cars of a cylinder capacityexceeding 2,000 cc, not more thanthree years old8703.23.80Motor cars including station wagonsRs. 3.5 Mn100%and racing cars of a cylinder capacityexceeding 2,000 cc, more thanthree years oldOther :8703.23.92Of a cylinder capacity not exceedingRs. 3.5 Mn100%2,000 cc, not more than three years old8703.23.94Of a cylinder capacity not exceedingRs. 3.5 Mn100%2,000 cc, more than three years old8703.23.96Of a cylinder capacity exceedingRs. 3.5 Mn100%2,000 cc, not more than three years old8703.23.98Of a cylinder capacity exceedingRs. 3.5 Mn100%2,000 cc, more than three years old8703.24Of a cylinder capacity exceeding3,000 cc :8703.24.10Ambulances and prison vans notRs. 3.5 Mn0%more than three years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201913A
+
+8703.24.20Ambulances and prison vans moreRs. 3.5 Mn0%than three years old8703.24.50Motor cars including station wagonsRs. 3.5 Mn100%and racing cars, not more thanthree years old8703.24.60Motor cars including station wagonsRs. 3.5 Mn100%and racing cars, more than threeyears old8703.24.70Other, not more than three years oldRs. 3.5 Mn100%8703.24.80Other, more than three years oldRs. 3.5 Mn100%Other vehicles, with onlycompression – ignition internalcombustion piston engine (diesel orsemi diesel) :8703.31Of a cylinder capacity not exceeding1,500cc :8703.31.10Ambulances and prison vans notRs. 3.5 Mn0%more than three years old8703.31.20Ambulances and prison vans moreRs. 3.5 Mn0%than three years old8703.31.70Motor cars including station wagonsRs. 3.5 Mn120%and racing cars, not more than threeyears old8703.31.80Motor cars including station wagonsRs. 3.5 Mn120%and racing cars, more than threeyears oldOther:8703.31.92Not more than three years oldRs. 3.5 Mn120%8703.31.94More than three years oldRs. 3.5 Mn120%8703.32Of a cylinder capacity exceeding1,500 cc but not exceeding 2,500 cc :8703.32.10Ambulances and prison vans not moreRs. 3.5 Mn0%than three years old8703.32.20Ambulances and prison vans moreRs. 3.5 Mn0%than three years oldMotor cars including station wagonsand racing cars of a cylindercapacity not exceeding 2,000 cc,not more than three years old :8703.32.52Of a cylinder capacity not exceedingRs. 3.5 Mn120%1,600cc
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201914A
+
+8703.32.55Of a cylinder capacity exceedingRs. 3.5 Mn120%1,600cc, but not exceeding 1,800cc8703.32.59OtherRs. 3.5 Mn120%Motor cars including station wagonsand racing cars of a cylinder capacitynot exceeding 2,000 cc, more thanthree years old:8703.32.63Of a cylinder capacity not exceedingRs. 3.5 Mn120%1,600 cc8703.32.65Of a cylinder capacity exceedingRs. 3.5 Mn120%1,600cc, but not exceeding 1,800cc8703.32.69Other :Rs. 3.5 Mn120%Motor cars including station wagonsand racing cars of a cylinder capacityexceeding 2,000 cc, not more thanthree years old:8703.32.71Vehicles for the transport of 7 orRs. 3.5 Mn120%more persons (adults) including thedriver, with non-monocoque bodybolted on ladder type heavy dutychassis, with permanent four-wheeldrive capability, and a total payload(of persons and cargo) of over 800 kg.8703.32.79OtherRs. 3.5 Mn120%8703.32.80Motor cars including station wagonsRs. 3.5 Mn120%and racing cars of a cylinder capacityexceeding 2,000 cc, more thanthree years oldOther8703.32.92Of a cylinder capacity not exceedingRs. 3.5 Mn120%2,000 cc, not more than three years old8703.32.93Motor - homes, specially equippedRs. 3.5 Mn0%for habitation (with sleeping,cooking , toilet facilities etc)of a cylinder capacity exceeding2000cc , not more than three years old8703.32.95Other, of a cylinder capacityRs. 3.5 Mn120%exceeding 2,000 cc, not more thanthree years old8703.32.97Other, of a cylinder capacity notRs. 3.5 Mn120%exceeding 2,000 cc, more thanthree years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201915A
+
+8703.32.99Other, of a cylinder capacityRs. 3.5 Mn120%exceeding 2,000 cc, more thanthree years old8703.33Of a cylinder capacity exceeding2,500 cc :8703.33.10Ambulances and prison vans notRs. 3.5 Mn0%more than three years old8703.33.20Ambulances and prison vansRs. 3.5 Mn0%more than three years old8703.33.50Motor cars including station wagonsRs. 3.5 Mn120%and racing cars, not more thanthree years old8703.33.60Motor cars including stationRs. 3.5 Mn120%wagons and racing cars, morethan three years oldOther, not more than three years old8703.33.71Motor–homes, specially equippedRs. 3.5 Mn0%for habitation (with sleeping, cooking ,toilet facilities etc)8703.33.79OtherRs. 3.5 Mn120%8703.33.80Other, more than three years oldRs. 3.5 Mn120%8703.40Other vehicles, with bothspark-ignition internal combustionreciprocating piston engine andelectric motor as motors forpropulsion, other than thosecapable of being charged byplugging to external sourceof electric powerVehicles other than motor carsincluding station wagons and racingcars, of a cylinder capacity notexceeding 1,000 cc:8703.40.11Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.40.12Ambulances and prison vans moreRs. 4.0 Mn0%than three years8703.40.18Other, not more than three years oldRs. 4.0 Mn80%8703.40.19Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars, of a cylinder capacitynot exceeding 1,000 cc:
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201916A
+
+8703.40.21Go-Karts , not more than threeRs. 4.0 Mn0%years old8703.40.22Go-Karts , more than three years oldRs. 4.0 Mn0%8703.40.23Quadricycle of cylinder capacity notRs. 4.0 Mn0%exceeding 300 cc, not more thanthree years old8703.40.24Quadricycle of cylinder capacity notRs. 4.0 Mn0%exceeding 300 cc, more than threeyears old8703.40.25All terrain vehicle (ATV) , not moreRs. 4.0 Mn0%than three years old8703.40.26All terrain vehicle (ATV) , moreRs. 4.0 Mn0%than three years old8703.40.28Other, not more than three years oldRs. 4.0 Mn80%8703.40.29Other, more than three years oldRs. 4.0 Mn80%Of a cylinder capacity exceeding1000 cc, but not exceeding 1500cc8703.40.31Ambulances and prison vans, notRs. 4.0 Mn0%more than three years old8703.40.32Ambulances and prison vans, moreRs. 4.0 Mn0%than three years old8703.40.35Motor cars including station wagonsRs. 4.0 Mn80%and racing cars, not more thanthree years old8703.40.36Motor cars including station wagonsRs. 4.0 Mn80%and racing cars, more than threeyears old8703.40.38Other, not more than three years oldRs. 4.0 Mn80%8703.40.39Other, more than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 1,500 cc but notexceeding 2,000 cc:8703.40.41Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.40.42Ambulances and prison vans moreRs. 4.0 Mn0%than three years old8703.40.48Other, not more than three years oldRs. 4.0 Mn80%8703.40.49Other, more than three years oldRs. 4.0 Mn80%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201917A
+
+Motor cars including station wagonsand racing cars of a cylinder capacityexceeding 1,500 cc but notexceeding 2,000 cc:8703.40.51Of a cylinder capacity not exceedingRs. 4.0 Mn80%1,600 cc, not more than threeyears old8703.40.52Of a cylinder capacity not exceedingRs. 4.0 Mn80%1,600 cc, more than three years old8703.40.53Of a cylinder capacity exceedingRs. 4.0 Mn80%1,600 cc, but not exceeding 1,800cc,not more than three years old8703.40.54Of a cylinder capacity exceedingRs. 4.0 Mn80%1,600 cc, but not exceeding 1,800cc,more than three years old8703.40.58Other, not more than three years oldRs. 4.0 Mn80%8703.40.59Other, more than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacity exceeding2,000 cc but not exceeding 3,000 cc:8703.40.61Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.40.62Ambulances and prison vans moreRs. 4.0 Mn0%than three years old8703.40.68Other, not more than three years oldRs. 4.0 Mn80%8703.40.69Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars of a cylinder capacityexceeding 2,000 cc but notexceeding 3,000 cc:8703.40.71Not more than three years oldRs. 4.0 Mn80%8703.40.72More than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 3,000 cc:8703.40.81Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.40.82Ambulances and prison vans moreRs. 4.0 Mn0%than three years old8703.40.88Other, not more than three years oldRs. 4.0 Mn80%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201918A
+
+8703.40.89Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 3,000 cc:8703.40.91Not more than three years oldRs. 4.0 Mn80%8703.40.92More than three years oldRs. 4.0 Mn80%8703.50Other vehicles, with bothcompression-ignition internalcombustion piston engine (dieselor semi-diesel) and electric motoras motors for propulsion, otherthan those capable of being chargedby plugging to external sourceof electric powerVehicles other than motor carsincluding station wagons and racingcars, of a cylinder capacity notexceeding 1,000 cc:8703.50.11Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.50.12Ambulances and prison vans moreRs. 4.0 Mn0%than three years8703.50.18Other, not more than three years oldRs. 4.0 Mn90%8703.50.19Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars, of a cylindercapacity not exceeding 1,000 cc:8703.50.21Go-Karts , not more than threeRs. 4.0 Mn0%years old8703.50.22Go-Karts , more than three years oldRs. 4.0 Mn0%8703.50.23Quadricycle of cylinder capacityRs. 4.0 Mn0% not exceeding 300 cc, not morethan three years old8703.50.24Quadricycle of cylinder capacityRs. 4.0 Mn0%not exceeding 300 cc, more thanthree years old8703.50.25All terrain vehicle (ATV) , notRs. 4.0 Mn0%more than three years old8703.50.26All terrain vehicle (ATV) , moreRs. 4.0 Mn0%than three years old8703.50.28Other, not more than three years oldRs. 4.0 Mn90%8703.50.29Other, more than three years oldRs. 4.0 Mn90%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201919A
+
+Of a cylinder capacity exceeding1,000 cc, but not exceeding 1,500cc8703.50.31Ambulances and prison vans, notRs. 4.0 Mn0%more than three years old8703.50.32Ambulances and prison vans, moreRs. 4.0 Mn0%than three years old8703.50.35Motor cars including station wagonsRs. 4.0 Mn90%and racing cars, not more than threeyears old8703.50.36Motor cars including station wagonsRs. 4.0 Mn90%and racing cars, more than threeyears old8703.50.38Other, not more than three years oldRs. 4.0 Mn90%8703.50.39Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacity exceeding1,500 cc but not exceeding 2,000 cc:8703.50.41Ambulances and prison vans, notRs. 4.0 Mn0%more than three years old8703.50.42Ambulances and prison vans, moreRs. 4.0 Mn0%than three years old8703.50.48Other, not more than three years oldRs. 4.0 Mn90%8703.50.49Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 1,500 ccbut not exceeding 2,000 cc:8703.50.51Of a cylinder capacity notRs. 4.0 Mn90%exceeding 1,600 cc, not morethan three years old8703.50.52Of a cylinder capacity not exceedingRs. 4.0 Mn90%1,600 cc, more than three years old8703.50.53Of a cylinder capacity exceedingRs. 4.0 Mn90%1,600 cc, but not exceeding 1,800cc,not more than three years old8703.50.54Of a cylinder capacity exceedingRs. 4.0 Mn90%1,600 cc, but not exceeding 1,800cc,more than three years old8703.50.58Other, not more than three years oldRs. 4.0 Mn90%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201920A
+
+8703.50.59Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 2,000 cc but notexceeding 3,000 cc:8703.50.61Ambulances and prison vans, notRs. 4.0 Mn0%more than three years old8703.50.62Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.50.68Other, not more than three years oldRs. 4.0 Mn90%8703.50.69Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars of a cylinder capacityexceeding 2,000 cc but notexceeding 3,000 cc:8703.50.71Vehicles for the transport of 7 orRs. 4.0 Mn90%more persons (adults) includingthe driver, with non-monocoquebody bolted on ladder type heavyduty chassis, with permanentfour-wheel drive capability, andtotal payload (of persons and cargo)of over 800kg, not more thanthree years old8703.50.72Motor -homes, specially equippedRs. 4.0 Mn0%for habitation (with sleeping, cooking ,toilet facilities etc) , not more thanthree years old8703.50.78Other, not more than three years oldRs. 4.0 Mn90%8703.50.79Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacity exceeding3,000 cc:8703.50.81Ambulances and prison vans notRs. 4.0 Mn0%more than three years old8703.50.82Ambulances and prison vans moreRs. 4.0 Mn0%than three years old8703.50.88Other, not more than three years oldRs. 4.0 Mn90%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201921A
+
+8703.50.89Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 3,000 cc:8703.50.91Motor -homes, specially equippedRs. 4.0 Mn0%for habitation (with sleeping, cooking ,toilet facilities etc) , not morethan three years old8703.50.98Other, not more than three years oldRs. 4.0 Mn90%8703.50.99Other, more than three years oldRs. 4.0 Mn90%8703.60Other vehicles, with bothspark-ignition internal combustionreciprocating piston engine andelectric motor as motors forpropulsion, capable of beingcharged by plugging to externalsource of electric powerVehicles other than motor carsincluding station wagons andracing cars, of a cylindercapacity not exceeding 1,000 cc:8703.60.11Ambulances and prison vans notmore than three years oldRs. 4.0 Mn 0%8703.60.12Ambulances and prison vans morethan three yearsRs. 4.0 Mn 0%8703.60.18Other, not more than three years oldRs. 4.0 Mn 80%8703.60.19Other, more than three years oldRs. 4.0 Mn 80%Motor cars including station wagonsand racing cars, of a cylinder capacitynot exceeding 1,000 cc:8703.60.21Go-Karts , not more than threeyears oldRs. 4.0 Mn 0%8703.60.22Go-Karts , more than three years oldRs. 4.0 Mn 0%8703.60.23Quadricycle of cylinder capacity notexceeding 300 cc, not more thanthree years oldRs. 4.0 Mn 0%8703.60.24Quadricycle of cylinder capacityRs. 4.0 Mn0%not exceeding 300 cc, more thanthree years old8703.60.25All terrain vehicle (ATV) , not moreRs. 4.0 Mn0%than three years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201922A
+
+8703.60.26All terrain vehicle (ATV) , moreRs. 4.0 Mn0%than three years old8703.60.28Other, not more than three years oldRs. 4.0 Mn80%8703.60.29Other, more than three years oldRs. 4.0 Mn80%Of a cylinder capacity exceeding1,000 cc, but not exceeding 1,500cc8703.60.31Ambulances and prison vans, notRs. 4.0 Mn0%more than three years old8703.60.32Ambulances and prison vans, moreRs. 4.0 Mn0%than three years old8703.60.35Motor cars including station wagonsRs. 4.0 Mn80%and racing cars, not more thanthree years old8703.60.36Motor cars including station wagonsRs. 4.0 Mn80%and racing cars, more than threeyears old8703.60.38Other, not more than three years oldRs. 4.0 Mn80%8703.60.39Other, more than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 1,500 cc but notexceeding 2,000 cc:8703.60.41Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.60.42Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.60.48Other, not more than three years oldRs. 4.0 Mn80%8703.60.49Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars of a cylinder capacityexceeding 1,500 cc but notexceeding 2,000 cc:8703.60.51Of a cylinder capacity not exceedingRs. 4.0 Mn80%1,600 cc, not more than three years old8703.60.52Of a cylinder capacity not exceedingRs. 4.0 Mn80%1,600 cc, more than three years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201923A
+
+8703.60.53Of a cylinder capacity exceedingRs. 4.0 Mn80%1,600 cc, but not exceeding1,800cc, not more than three years old8703.60.54Of a cylinder capacity exceedingRs. 4.0 Mn80%1,600 cc, but not exceeding 1,800cc,more than three years old8703.60.58Other, not more than three years oldRs. 4.0 Mn80%8703.60.59Other, more than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 2,000 cc but notexceeding 3,000 cc:8703.60.61Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.60.62Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.60.68Other, not more than three years oldRs. 4.0 Mn80%8703.60.69Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 2,000 cc butnot exceeding 3,000 cc:8703.60.71Other, not more than three years oldRs. 4.0 Mn80%8703.60.72Other, more than three years oldRs. 4.0 Mn80%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 3,000 cc:8703.60.81Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.60.82Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.60.88Other, not more than three years oldRs. 4.0 Mn80%8703.60.89Other, more than three years oldRs. 4.0 Mn80%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 3,000 cc:8703.60.91Not more than three years oldRs. 4.0 Mn80%8703.60.92More than three years oldRs. 4.0 Mn80%
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201924A
+
+8703.70Other vehicles, with bothcompression-ignition internalcombustion piston engine (dieselor semi-diesel) and electric motoras motors for propulsion,capable of being charged byplugging to external sourceof electric powerVehicles other than motor carsincluding station wagons and racingcars, of a cylinder capacity notexceeding 1,000 cc:8703.70.11Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.70.12Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.70.18Other, not more than three years oldRs. 4.0 Mn90%8703.70.19Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars, of a cylindercapacity not exceeding 1,000 cc:8703.70.21Go-Karts , not more than three years oldRs. 4.0 Mn0%8703.70.22Go-Karts , more than three years oldRs. 4.0 Mn0%8703.70.23Quadricycle of cylinder capacityRs. 4.0 Mn0%not exceeding 300 cc, not morethan three years old8703.70.24Quadricycle of cylinder capacityRs. 4.0 Mn0%not exceeding 300 cc, more thanthree years old8703.70.25All terrain vehicle (ATV) ,Rs. 4.0 Mn0%not more than three years old8703.70.26All terrain vehicle (ATV) ,Rs. 4.0 Mn0%more than three years old8703.70.28Other, not more than three years oldRs. 4.0 Mn90%8703.70.29Other, more than three years oldRs. 4.0 Mn90%Of a cylinder capacity exceeding1,000 cc, but not exceeding 1,500cc8703.70.31Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.70.32Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201925A
+
+8703.70.35Motor cars including station wagonsRs. 4.0 Mn90%and racing cars, not more thanthree years old8703.70.36Motor cars including station wagonsRs. 4.0 Mn90%and racing cars, more than threeyears old8703.70.38Other, not more than three years oldRs. 4.0 Mn90%8703.70.39Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 1,500 cc but notexceeding 2,000 cc:8703.70.41Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.70.42Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.70.48Other, not more than three years oldRs. 4.0 Mn90%8703.70.49Other, more than three years oldRs. 4.0 Mn90%Motor cars including station wagonsand racing cars of a cylindercapacity exceeding 1,500 cc butnot exceeding 2,000 cc:8703.70.51Of a cylinder capacity notRs. 4.0 Mn90%exceeding 1,600 cc, not morethan three years old8703.70.52Of a cylinder capacity not exceedingRs. 4.0 Mn90%1,600 cc, more than three years old8703.70.53Of a cylinder capacity exceedingRs. 4.0 Mn90%1,600 cc, but not exceeding1,800cc, not more than three years old8703.70.54Of a cylinder capacity exceedingRs. 4.0 Mn90%1,600 cc, but not exceeding1,800cc, more than three years old8703.70.58Other, not more than three years oldRs. 4.0 Mn90%8703.70.59Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons and racingcars of a cylinder capacityexceeding 2,000 cc but notexceeding 3,000 cc:
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201926A
+
+8703.70.61Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.70.62Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.70.68Other, not more than three years oldRs. 4.0 Mn90%8703.70.69Other, more than three years oldRs. 4.0 Mn90%Motor cars including stationwagons and racing cars of acylinder capacity exceeding2,000 cc but not exceeding 3,000 cc:8703.70.71Vehicles for the transport of 7Rs. 4.0 Mn90%or more persons (adults) includingthe driver, with non-monocoquebody bolted on ladder type heavyduty chassis, with permanentfour-wheel drive capability,and total payload (of persons andcargo) of over 800kg, not morethan three years old8703.70.72Motor -homes, specially equippedRs. 4.0 Mn0%for habitation (with sleeping,cooking , toilet facilities etc) ,not more than three years old8703.70.78Other, not more than three years oldRs. 4.0 Mn90%8703.70.79Other, more than three years oldRs. 4.0 Mn90%Vehicles other than motor carsincluding station wagons andracing cars of a cylinder capacityexceeding 3,000 cc:8703.70.81Ambulances and prison vans,Rs. 4.0 Mn0%not more than three years old8703.70.82Ambulances and prison vans,Rs. 4.0 Mn0%more than three years old8703.70.88Other, not more than three years oldRs. 4.0 Mn90%8703.70.89Other, more than three years oldRs. 4.0 Mn90%Motor cars including stationwagons and racing cars of a cylindercapacity exceeding 3,000 cc:
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201927A
+
+8703.70.91Motor -homes, specially equippedRs. 4.0 Mn0%for habitation (with sleeping,cooking , toilet facilities etc) ,not more than three years old8703.70.98Other, not more than three years oldRs. 4.0 Mn90%8703.70.99Other, more than three years oldRs. 4.0 Mn90%8703.80Other vehicles, with only electricmotor for propulsionOther, powered by on boardaccumulators charged solely byelectricity generated by on boardsolar electricity panels:8703.80.21Not more than three years oldRs. 6.0 Mn60%8703.80.22More than three years oldRs. 6.0 Mn60%Other, powered by on boardaccumulators charged by externalelectric source (e.g. National grid),not more than three years old8703.80.31Capacity of motors notRs. 6.0 Mn60%exceeding 50kW8703.80.32Capacity of motors exceedingRs. 6.0 Mn60%50kW, but not exceeding 100kW8703.80.33Capacity of motors exceedingRs. 6.0 Mn60%100kW, but not exceeding 200kW8703.80.34Capacity of motors exceeding 200kWRs. 6.0 Mn60%Other , driven by electric motorspowered by on board accumulatorscharged by external electricsource (e.g. National Grid) ,more than 3 years old :8703.80.41Capacity of motors notRs. 6.0 Mn60%exceeding 50kW8703.80.42Capacity of motors exceedingRs. 6.0 Mn60%50kW, but not exceeding 100kW8703.80.43Capacity of motors exceedingRs. 6.0 Mn60%100kW, but not exceeding 200kW8703.80.44Capacity of motors exceeding 200kWRs. 6.0 Mn60%Other, powered by on boardaccumulators charged by externalelectric source (e.g. National grid)and supported by an internal
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201928A
+
+combustion engine used exclusivelyto generate electricity by driven agenerator on board, not more thanthree years old8703.80.51Capacity of motors notRs. 6.0 Mn60%exceeding 50kW8703.80.52Capacity of motors exceedingRs. 6.0 Mn60%50kW, but not exceeding 100kW8703.80.53Capacity of motors exceedingRs. 6.0 Mn60%100kW, but not exceeding 200kW8703.80.54Capacity of motors exceeding 200kWRs. 6.0 Mn60%Other , powered by on boardaccumulators charged by externalelectric source (e.g. National grid)and supported by an internalcombustion engine usedexclusively to generate electricityby driving a generator on board ,more than 3 years old :8703.80.61Capacity of motors notRs. 6.0 Mn60%exceeding 50kW8703.80.62Capacity of motors exceedingRs. 6.0 Mn60%50kW, but not exceeding 100kW8703.80.63Capacity of motors exceedingRs. 6.0 Mn60%100kW, but not exceeding 200kW8703.80.64Capacity of motors exceeding 200kWRs. 6.0 Mn60%Other:8703.80.71Not more than three years oldRs. 6.0 Mn60%8703.80.72More than three years oldRs. 6.0 Mn60%8703.90Other:Not more than three years old8703.90.11With wankel rotary engineRs. 3.5 Mn100%8703.90.19OtherRs. 3.5 Mn100%More than three years old8703.90.21With wankel rotary engineRs. 3.5 Mn100%8703.90.29OtherRs. 3.5 Mn100%87.05Special purpose motor vehicles,other than those principallydesigned for the transport ofpersons or goods (for example,breakdown lorries, crane lorries,fire fighting vehicles, concrete
+
+SCHEDULE(Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'10'31PART I : SEC. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 31.10.201929A
+
+mixer lorries, road sweeperlorries, spraying lorries, mobileworkshops, mobile radiologicalunits)8705.10Crane lorries :8705.10.10Not more than ten years oldRs. 3.5 Mn0%8705.10.20More than ten years oldRs. 3.5 Mn0%8705.20Mobile drilling derricks :8705.20.10Not more than seven years oldRs. 3.5 Mn0%8705.20.20More than seven years oldRs. 3.5 Mn0%8705.30Fire fighting vehicles :8705.30.10Not more than seven years oldRs. 3.5 Mn0%8705.30.20More than seven years oldRs. 3.5 Mn0%8705.40Concrete-mixer lorries :8705.40.10Not more than ten years oldRs. 3.5 Mn0%8705.40.20More than ten years oldRs. 3.5 Mn0%8705.90Other :Mobile workshops8705.90.11Not more than seven years oldRs. 3.5 Mn0%8705.90.12More than seven years oldRs. 3.5 Mn0%Gully bowzers equipped withsuction pumps for extracting sewagewater /wastes:8705.90.21Not more than seven years oldRs. 3.5 Mn0%8705.90.22More than seven years oldRs. 3.5 Mn0%Concrete pump trucks :8705.90.31Not more than ten years oldRs. 3.5 Mn0%8705.90.32More than ten years oldRs. 3.5 Mn0%Other :8705.90.91g. v. w. not exceeding 4 tonnes ,Rs. 3.5 Mn0%not more than seven years old8705.90.92g. v. w. not exceeding 4 tonnes ,Rs. 3.5 Mn0%more than seven years old8705.90.93g. v. w. exceeding 4 tonnes ,not more than seven years oldRs. 3.5 Mn0%8705.90.94g. v. w. exceeding 4 tonnes ,Rs. 3.5 Mn0%more than seven years old
+
+The Technical terms following used in Schedule should be read as follows ;cc - cubic centimeter(s)kW - Kilowatt(s)g.v.w. -gross vehicle weight
+
+SCHEDULE (Contd.)
+
+IIIIII
+
+H. S.H. S. CodeDescriptionLuxury Tax FreeRate (Applicable on theHeadingThresholdamount exceeding theValueLuxury Tax Free Threshold)
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
