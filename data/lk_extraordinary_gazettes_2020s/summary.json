@@ -2,32 +2,32 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-10-09 14:24:06",
-  "n_docs": 45171,
+  "time_updated": "2025-10-09 14:51:03",
+  "n_docs": 45194,
   "n_docs_with_pdfs": 177,
   "n_docs_with_text": 177,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-10-06",
-  "dataset_size": 231864183,
+  "date_str_max": "2025-10-08",
+  "dataset_size": 231883568,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-06-2025-10-06-2457-01-si",
-    "num": "2025-10-06-2457-01-si",
-    "date_str": "2025-10-06",
-    "description": "Sri Lanka Customs - Rates of Exchange with effect from. 06.10.2025 to 12.10.2025",
+    "doc_id": "2025-10-08-2025-10-08-2457-02-si",
+    "num": "2025-10-08-2457-02-si",
+    "date_str": "2025-10-08",
+    "description": "Election Commission - Filling of a Vacancy in the Office of Member of the Valvettithurai Urban Council",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-01_S.pdf",
-    "doc_number": "2457/01"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-02_S.pdf",
+    "doc_number": "2457/02"
   }
 }
