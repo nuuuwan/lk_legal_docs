@@ -1,0 +1,27 @@
+wxl 2147$58 - 2019 Tlaf;dan¾ ui 30 jeks nodod - 2019'10'30
+
+^rcfha n,hmsg m%isoaO lrk ,oS&I jeks fldgi: (I) jeks fPoh - idudkH
+
+rcfha ksfõok
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+fuu w;s úfYI .eiÜ m;%h www.documents.gov.lk fjí wvúfhka nd.; l< yel'1A - G 31383 — 57 (2019/10)
+
+t,a'ã'î' 5$2007
+
+2006 wxl 19 ork bf,lafg%dksl .kqfokq mk;
+
+18 jk j.ka;sh hgf;a jQ kshuh
+
+2006 wxl 19 ork bf,lafg%dksl .kqfokq mkf;a 18 jk j.ka;sh u.ska ud fj; mejÍ we;s n,;, m%ldr" äðg,a há;,myiqlï iy f;dr;=re ;dlaIK wud;H wð;a' mS' fmf¾rd jk ud úiska" fï kshuh u.ska" tlS mkf;a ld¾hh i|yd iy;sllsÍfï n,dêldrh jYfhka" 2007 wxl 7 ork iud.ï mk; hgf;a Y%S ,xld i¾Ü ^m%hsjÜ& ,sñgâ f,i ,shdmÈxÑ lrk ,oY%S ,xld mß.Kl yÈis m%;spdr lKavdhu ^YS% ,xld i¾Ü& fuhska kï lrkq ,efí'
+
+2013 iema;eïn¾ ui 24 jeks Èk wxl 1829$29 ork w;s úfYI .eiÜ m;%fha m< lrk ,o 18 jk j.ka;sh hgf;aidok ,o kshuh tA hgf;a l,ska isÿ lrk ,o lsisjlg w.;shla fkdue;sj fuhska wj,x.= lrkq ,efí
+
+wð;a mS' fmf¾rd"äðg,a há;, myiqlï yd f;dr;=re ;dlaIKwud;H'2019 Tlaf;dan¾ ui 28 jeks Èk'fld<U § h'
+
+11 - 1074
+
+Y%S ,xld rcfha uqøK fomd¾;fïka;=fõ uqøKh lrk ,§'
