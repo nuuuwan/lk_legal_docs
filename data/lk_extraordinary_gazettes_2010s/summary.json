@@ -2,13 +2,13 @@
   "doc_class_label": "lk_extraordinary_gazettes_2010s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-10-09 13:19:06",
+  "time_updated": "2025-10-09 13:50:33",
   "n_docs": 56379,
-  "n_docs_with_pdfs": 1756,
-  "n_docs_with_text": 1756,
+  "n_docs_with_pdfs": 1778,
+  "n_docs_with_text": 1778,
   "date_str_min": "2010-01-01",
   "date_str_max": "2019-12-31",
-  "dataset_size": 1298206708,
+  "dataset_size": 1311183060,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -16,8 +16,8 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2010s",
