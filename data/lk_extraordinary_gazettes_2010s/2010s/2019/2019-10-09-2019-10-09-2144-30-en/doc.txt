@@ -1,0 +1,43 @@
+PART III - LANDS Title Registration AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 78 of Block 06 contained in the Cadastral Map No. 520023 situated in the village of Ku-damaduwa within the Grama Niladhari Division of No. 591A Kudamaduwa in the Divisional Secretary’s Division of Homagama in the District of Colombo in the Province of Western published in the Gazette Extraordinary No. 2099/24 of 29th November, 2018. “0.0519” mentioned in the column “Extent” is amended as “Hectare 0.0268” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/1
+
+(Published by Authority)
+
+ ලංකා ජාතා ක සමාජවා ජනරජෙ ගැස පය
+
+අ ෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2144/30 - 2019 ඔෙතබ 09 වැ බදාදා - 2019.10.09
+
+No. 2144/30 – WEDNESDAY, OCTOBER 09, 2019
+
+N.B.– This Extraordinary Gazette can be downloaded from www.documents.gov.lk
+
+1A - G 31208 - 14 (2019/10)
+
+2 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.10.09 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 09.10.2019
+
+AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 35 of Block 04 contained in the Cadastral Map No. 521203 situated in the village of Thumbo-vila within the Grama Niladhari Division of No. 574 B Thumbovila in the Divisional Secretary’s Division of Kesbewa in the District of Colombo in the Province of Western published in the Gazette Extraordinary No. 1868/29 of 25th June, 2014. “0.0280” mentioned in the column of “Extent ” is amended as “Hectare 0.0480”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/2 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 01 of Block 20 contained in the Cadastral Map No. 521203 situated in the village of Thumbo-vila within the Grama Niladhari Division of No. 576A Thumbovila North in the Divisional Secretary’s Division of Kesbewa in the Dis-trict of Colombo in the Province of Western published in the Gazette Extraordinary No. 2129/93 of 28th June, 2019. “First Class” mentioned in the column “Class and Nature of Title” is amended as “Second Class”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/3 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 236 of Block 03 contained in the Cadastral Map No. 510001 situated in the village of Wara-dala within the Grama Niladhari Division of No. 79/A Waradala in the Divisional Secretary’s Division of Divlapitiya in the District of Gampaha in the Province of Western published in the Gazette Extraordinary No. 2129/29 of 25th June, 2019.
+
+3 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.10.09 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 09.10.2019
+
+“First Class” mentioned in the column “Class and Nature of Title” is amended as “Second Class”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/4 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 254 of Block 03 contained in the Cadastral Map No. 510207 situated in the village of Boruk-gamuwa West within the Grama Niladhari Division of No. 336 - Borukgamuwa in the Divisional Secretary’s Division of Meerigama in the District of Gampaha in the Province of Western published in the Gazette Extraordinary No. 1814/29 of 11th June, 2013. “0.04478” mentioned in the column “Extent” is amended as “Hectare 0.4478” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/5 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 341 of Block 01 contained in the Cadastral Map No. 510245 situated in the village of Mot-tunna within the Grama Niladhari Division of No. 339 A Mottunna in the Divisional Secretary’s Division of Meerigama in the District of Gampaha in the Province of Western published in the Gazette Extraordinary No. 1975/61 of 14th July, 2016. “0.0598” mentioned in the column “Extent” is amended as “Hectare 0.0599” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/6
+
+4 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.10.09 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 09.10.2019
+
+AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 122 of Block 02 contained in the Cadastral Map No. 420351 situated in the village of Aduk-kana within the Grama Niladhari Division of No. 757 Hadirawalana Pahala in the Divisional Secretary’s Division of Kurunegala in the District of Kurunegala in the Province of North West published in the Gazette Extraordinary No. 1973/45 of 29th June, 2016. “122” mentioned in the column “parcel No” is amended as “383” and “0.2188” mentioned in the column “Extent” is amended as “Hectare 0.3021”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties)
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/7 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 95 of Block 03 contained in the Cadastral Map No. 320262 situated in the village of Bambha-radeniya within the Grama Niladhari Division of No. 63 Bambharadeniya in the Divisional Secretary’s Division of Udunuwara in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 1697/17 of 16th March, 2011. “95” mentioned in the column “parcel No” is amended as “94” and “0.0499” mentioned in the column “Extent” is amended as “Hectare 0.0496”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/8 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 284 of Block 10 contained in the Cadastral Map No. 620283 situated in the village of Kahen-gama within the Grama Niladhari Division of No. 154/A Kahengama in the Divisional Secretary’s Division of Kuruwita in the District of Rathnapura in the Province of Sabaragamuwa published in the Gazette Extraordinary No. 2097/25 of 15th November, 2018.
+
+5 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.10.09 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 09.10.2019
+
+“0.5363” mentioned in the column “Extent ” is amended as “Hectare 0.5368” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/9 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 122 of Block 04 contained in the Cadastral Map No. 820021 situated in the village of Uyan-wattha North within the Grama Niladhari Division of No. 471 D Uyanwattha North in the Divisional Secretary’s Division of Matara in the District of Matara in the Province of Southern published in the Gazette Extraordinary No. 2116/17 of 26th March, 2019. “First Class” mentioned in the column “Class and Nature of Title” is amended as “Second Class”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 26th September, 2019 10-863/10
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
