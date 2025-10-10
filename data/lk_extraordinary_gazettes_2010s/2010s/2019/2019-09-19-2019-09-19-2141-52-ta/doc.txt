@@ -1,0 +1,123 @@
+1AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.19
+
+(murhq;fj;jpd; mjpfhuj;Jld; gpuRupf;fg;gl;lJ)gFjp I : njhFjp (I) - nghJ
+
+murhq;f mwptpj;jy;fs;
+
+,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif
+
+mjp tpNr\khdJ
+
+wxl 2141/52 - 2019 iema;eïn¾ ui 19 jeks n%yiam;skaod - 2019'09'192141/ 52 Mk; ,yf;fk; - 2019 Mk; Mz;L nrj;njk;gu; khjk; 19 Me; jpfjp tpahof;fpoik
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+w;s úfYI
+
+,t; mjp tpNrl tu;j;jkhdpia www.documents.gov.lk vd;Dk; ,izaj;jsj;jpypUe;J gjptpwf;fk; nra;a KbAk;.1A - PG 4655 — 1517 (2019/09)
+
+Nju;jy; fhyg;gFjpf;Fs; murhq;fj;jpw;F my;yJ murhq;f $l;Lj;jhgdq;fSf;F cupj;jhdvitNaDk; mirahj my;yJ mirAk; Mjdq;fis fl;rpfs;> FOf;fs;> Ntl;ghsu;fspd;Cf;Ftpg;Gf;F ,d;Nwy; ghjpg;Gf;Ff; fhuzkhFk; tpjj;jpNyh my;yJ Rje;jpukhdJk;ePjpahdJkhd Nju;jnyhd;iw elhj;Jk; gzpf;F jlq;fyhFk; tpjj;jpNyh gad;gLj;Jtijj;jLg;gjw;fhd Vw;ghLfs;
+
+,yq;if rdehaf Nrhryprf; Fbaurpd; murpayikg;gpd; 104M(4)(m) cg cWg;Giuapd;fPo;> Nju;jy; Mizf;FOtpdhy;cUthf;fg;gLfpd;w murhq;fj;jpw;F my;yJ $l;Lj;jhgdnkhd;Wf;F cupj;jhd vitNaDk; mirahj my;yJ mirAk;Mjdq;fis Nju;jnyhd;wpd; NghJ fl;rpfs;> FOf;fs;> Ntl;ghsu;fspd; Cf;Ftpg;G ,d;Nwy; ghjpg;Gf;F fhuzkhFk;tpjj;jpNyh my;yJ Rje;jpukhdJk; ePjpahdJkhd Nju;jnyhd;iw elhj;Jtjw;Fj; jlq;fyhFk; tpjj;jpNyhgad;gLj;Jtijj; jLg;gjw;fhf fPo;f; Fwpg;gplg;gl;Ls;s Vw;ghLfs; gpufldg;gLj;jg;gLfpd;wd.
+
+k`pe;j Njrg;gpupa>vd;. N[. mNgNrfu>v];. uj;d[Ptd; vr;. `_y;>jtprhsu;>mq;fj;jtu;>mq;fj;jtu;>Nju;jy; Mizf;FO.Nju;jy; Mizf;FO.Nju;jy; Mizf;FO.
+
+Nju;jy;fs; nrayfk;>ruz khtj;ij>uh[fpupa>2019> nrj;njk;gh; 19.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.192A
+
+murpayikg;gpd; 104M(4)(m) cWg;Giuf;fika> “Nju;jy; fhyj;jpd;NghJ muRf;F my;yJ VNjDk; gfpuq;f$l;Lj;jhgdj;jpw;Fr; nrhe;jkhd VNjDk; mirAk; my;yJ mirahMjdnkhd;iw”VNjDNkhu;murpay; fl;rpia my;yJRNar;irf; FOitj; Nju;e;njLg;gij Cf;Ftpf;fpd;w my;yJ jLf;fpd;w gzpf;fhf VNjDNkhu; murpay; fl;rpapdhy;my;yJ RNar;irf; FOnthd;wpdhy; gad;gLj;Jtij jil nra;Ak; mjpfhuk; Nju;jy; Mizf;FOTf;F cz;L.mt;TWg;Giuapd; (M) Mk; cgcWg;Giuapd;fPo; Nju;jy; Mizf;FOtpdhy; tpLf;fg;gLfpd;w gzpg;Gf;fismKy;gLj;Jtjw;F muRf;F cupj;jhd Mjdq;fSf;Fg; nghWg;ghfTs;s midj;J mYtyu;fSk; fl;Lg;gl;Ls;sdu;.Mjyhy;> mikr;Rf;fspd; nrayhsu;fs;> khfhzrigfspd; gpujk nrayhsu;fs; cs;spl;l midj;J mur mYtyu;fSk;,t;Ntw;ghLfSf;F mikthf ele;J nfhs;sy; Ntz;Lk;. mNjNghd;W jkJ fl;Lg;ghl;bYs;s midj;J murhq;fmYtyu;fSk; ,g;gzpg;Gf;F mikthf ele;Jnfhs;fpwhu;fs; vd;gjw;F epWtdj; jiytu; nghWg;ghjy; Ntz;Lk;.,g;gzpg;Gf;fs; murhq;f mikr;Rf;fs;> Mizf;FOf;fs;> jpizf;fsq;fs;> khfhzrigfs;> cs;~u; mjpfhu rigfs;>murhq;f $l;Lj;jhgdq;fs;> epajpr; rl;lrigfs;> murhq;f tq;fpfs;> murhq;f gy;fiyf;fofq;fs; Nghd;w midj;Jmur epWtdq;fSf;Fk; murhq;fj;jhy; ifNaw;fg;gl;Ls;s fk;gdpfSf;Fk; tYTilajhFk;.
+
+02. mYtyu;fs;
+
+I. murhq;f mYtyu;fspd; Mw;wy;fs;> mwpT> mtu;fspd; fhyNeuk; vd;gdTk; mur Mjdnkhd;whtnjd;gjdhy;ve;jNthu; mur mYtyUk; jdJ mYtyf Neuj;jpy; mjhtJ flikf;F mwpf;if ,l;Ls;s Neuj;jpw;Fs; my;yJflik tpLKiw ngw;Wf; nfhz;Ls;s NghJ mYtyfj;jpw;F cs;NsNah my;yJ ntspNaNah murpay; uPjpahdCf;Ftpg;G eltbf;iffspy; <Lglf;$lhJ. murpay; cupikfs;mw;w mYtyu;fs; tpLKiwfisg;ngw;Wf;nfhz;NlDk; murpay; uPjpahd gzpfspy; <Lglf;$lhJ. murpay; cupikfs; cs;s mYtyu;fSk; $lmYtyf Neuj;jpw;Fs; murpay;uPjpahd gzpfspy; <Lglf;$lhnjd;gNjhL> mt;thW <LgLtjhapd; Kd;$l;bNajdpg;gl;l my;yJ tpNrl tpLKiw mDkjpiag; ngw;Wf;nfhs;Sjy; Ntz;Lk;.
+
+II. ve;jNthu; mYtyUf;F my;yJ CopaUf;F murpay; eltbf;iffSf;fhf mur Mjdq;fs; mjhtJ Vidamur mYtyu;fs;> thfdq;fs;> gpur;rhuf; fUtpfs;> mr;R ,ae;jpuq;fs;> njhiyNgrp trjpfs; Nghd;w muRf;Fcupj;jhd vjidAk; gad;gLj;Jk; cupik fpilahJ. mt;thW nra;jy; KOikahf jil nra;ag;gl;lnthd;whFk;.
+
+III. murpayikg;G rigapdhy; epakdk; nra;ag;gl;Ls;s Mizf;FOf;fspd; mjpfhuq;fspd;fPo; KiwahfNkw;nfhs;sg;gLfpd;w Ml;Nru;g;Gf;fs;> epakdq;fs;> gjtp cau;Tfs; kw;Wk; ,lkhw;wq;fs; jtpu;e;j,f;fhyg;gFjpapy; murhq;f epWtdq;fspy; vt;tpjj;jpYk; Ml;Nru;g;Gf;fs;> epakdq;fs; kw;Wk; gjtp cau;Tfs;Nju;jy; Mizf;FOtpd; mq;fPfhukpd;wp Nkw;nfhs;sg;gLtijj; jtpu;j;Jnfhs;Sjy; Ntz;Lk;.
+
+IV. Nju;jy; ntspg;gLj;jg;gl Kd;du; Muk;gpf;fg;gl;l mYtyu;fspd; Ml;Nru;g;Gf;fs;/ gjtp cau;TfNshLnjhlu;Gila ehlshtpa uPjpapyhd eilKiwnahd;W my;yJ cs;sf gjtp cau;T nray;jpl;lnkhd;W fhyxj;jp itg;gpd;wp nraw;gLj;jg;gl Ntz;Lk; vd;W mikr;rpd; nrayhsu; my;yJ epWtdj; jiytu;fs;vjpu;ghu;f;fpd;w NghJk; KO ehl;Lf;Fk; nraw;glj;jf;fthW murhq;f NritNahL my;yJ mur epWtdq;fNshLnjhlu;Gilajhf Nkw;nfhs;sg;gLfpd;w Ml;Nru;g;Gf;fs;/ gjtp cau;Tfs; vd;gd KiwahfTk; murpay;jiyaPLfspd;wpAk; Nkw;nfhs;sg;gLtjhf cupa mjpfhupfSf;F re;Njfj;Jf;fplkpd;wp cWjpg;gLj;jpf;nfhs;sKbAkhd re;ju;g;gq;fspy; mjw;fhf Nju;jy;fs; Mizf;FOtpd; ,zf;fg;ghl;il toq;f KbAk;. mj;jifare;ju;g;gq;fspy; mjw;fhf Mizf;FOTf;F Nfhupf;iffis rku;g;gpj;jy; Ntz;Lk;.
+
+V. Rfeyg; ghJfhg;G> Rj;jpfhpg;G kw;Wk; guhkhpg;G eltbf;iffs; jilg;gLtijj; jtph;g;gjw;fhfTk; mj;jpahtrpaNritfisj; njhlh;e;J elhj;jpr; nry;tjw;fhfTk; gpuNjr my;yJ khfhz kl;lj;jpy; murhq;f Copah;fisMl;Nrh;g;G nra;tjhapd; mj;jifa Ml;Nrh;g;Gf;fSf;Ff; $l Njh;jy; Mizf;FOtpd; ,zf;fg;ghLngw;Wf;nfhs;sg;gl Ntz;Lnkd;gJld; vt;tpj murpay; jiyaPLkpd;wp ntspf;fhl;L jd;ikAld; $bajhfme;j eltbf;iffis Nkw;nfhs;s Ntz;ba nghWg;G chpa mYtyh;fisr; rhUk;.
+
+VI. Nju;jy; elhj;jg;glTs;s gpuNjrq;fspy; Nju;jy; flikf;fhfg; gad;gLj;Jtjw;nfd vjpu;ghu;f;fg;gLfpd;wmurhq;fg; ghlrhiyfspd; Mrpupau;fs;> mjpgu;fs; cs;spl;l midj;J murhq;f mYtyu;fspdJk; toikahd,lkhw;wq;fs; Ntl;GkD mwptpj;jy; ntspaplg;gl;l jpdj;jpypUe;J Nju;jy; Kbtile;J ,uz;L thuq;fs; fopAk;tiu ,ilepWj;jg;gLk;. Nju;jy; flikfSf;fhf gad;gLj;jg;glhj murhq;f my;yJ mur $l;Lj;jhgdq;fspd;mYtyu;fs; Nju;jy; fhyg;gFjpf;Fs; ,lkhw;wk; nra;ag;gLk; NghJ murpay; fhuzq;fSf;fhf ,lkhw;wq;fs;Nkw;nfhs;sg;glf; $lhnjd;gNjhL> mt;thWNkw;nfhz;ljhf Kiwg;ghLfs; fpilf;fhjthW cupa ,lkhw;wq;fisNkw;nfhs;sy; midj;J mjpfhupfspdJk; nghWg;ghFk;. xOf;fhw;W Mizf;fika Nkw;nfhs;sg;gLfpd;w
+
+3AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.19
+
+,lkhw;wq;fSf;fhf ,g;gzpg;G tYTilajhf fhzg;glhnjd;gNjhL> tpNrl re;ju;g;gq;fspy; my;yJ Nritj;Njitg;ghl;Lf;fika> ,lkhw;wq;fis Nkw;nfhs;s Ntz;btupd;> mJgw;wp Mizf;FOTf;F mwptpj;JKd;$l;bNa mDkjpiag; ngw;Wf;nfhs;sy; Ntz;Lk;.
+
+VII. murpay; cupikfs; mw;w murhq;f mYtynuhUtu; jdJ jdpg;gl;l r%f tiyj;jsf; fzf;nfhd;iw my;yJNtWfzf;nfhd;iwg; gad;gLj;jp VNjDk; murpay; fl;rpnahd;iw my;yJ Ntl;ghsnuhUtiu Cf;Ftpg;gjw;Fmy;yJ ghjpg;gpid Vw;gLj;Jtjw;F VNjDk; xU gpur;rhuj;ij my;yJ ntspg;gLj;Jifia Nkw;nfhs;tJFw;wkhFk;> murpay; cupikfSs;s murhq;f mYtyu; xUtuhapDk; mg;gpur;rhunkhd;iw mur tsq;fisg;gad;gLj;jp Nkw;nfhs;sf; $lhnjd;gNjhL> ntWg;G{l;lj;jf;f ntspg;gLj;Jiffis Nkw;nfhs;sy; my;yJgfpuq;fg;gLj;jy; Fw;wkhFk;.
+
+03. itgtq;fs;> elkhLk; Nritfs; kw;Wk; tu;j;jff; fz;fhl;rpfs;
+
+I. itgtq;fs;
+
+Nju;jy; fhyg;gFjpf;Fs; murhq;f epjpia nrytpl;L elhj;jg;gLfpd;w gy;NtW tpjj;jpyhd mbf;fy; ehl;Ltpohf;fs;> jpwg;G tpohf;fs;> kf;fs; ifaspg;G epfo;Tfs; Nghd;w itgtq;fis murpay;thjpfspd; gq;Nfw;Gld;Nkw;nfhs;fpd;w re;ju;g;gq;fspy; Nju;jNyhL njhlu;Gila gy;NtW fUj;Jf;fs; mtu;fspdhy;ntspg;gLj;jg;gLtjhYk; ,j;jifa re;ju;g;gq;fs; itgt uPjpahf elhj;jg;gLtjD}lhf VNjDk; xU fl;rp/xUFO/ Ntl;ghsu; xUtu; Cf;Ftpf;fg;gly; my;yJ NtnwhU fl;rpf;F/FOTf;F/ Ntl;ghsu; xUtUf;F ghjpg;GVw;glf;$Lkhjyhy; ,j;Nju;jy; fhyg;gFjpf;Fs; mj;jifa itgtq;fis kw;Wk; gzpfis xOq;fikg;gjpypUe;Jk;elhj;JtjpypUe;Jk; jtpu;e;J nfhs;sy; Ntz;Lk;. Nju;jy; mwptpg;G ntspahtjw;F Kd;du; jpfjp epu;zapf;fg;gl;lmj;jifa itgtq;fis uj;J nra;aNth my;yJ xj;jp itf;fNth Kbahjtplj;J> mj;jifa itgtq;fs;njhlu;ghf Nju;jy; Mizf;FOTf;F mwpf;ifapl;L mwpTWj;jy;fis ngw;Wf;nfhs;sy; Ntz;Lk;. vt;tpjj;jpYk;murhq;f epjpia nrytpl;L ,j;jifa itgtq;fs; elhj;jg;gLkhapd; mj;jifa re;ju;g;gnkhd;W vitNaDk;fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fspd; Cf;Ftpg;ig my;yJ ghjpg;ig Vw;gLj;Jkhapd; mJ njhlu;ghf itgtj;ijxOq;fikj;j mYtyu;fs; nghWg;Gf; $Wjy; Ntz;Lk;. mNjNghd;W ,j;Nju;jy; fhyg;gFjpapy; elhj;jg;gLfpd;witgtq;fs; njhlu;ghf fz;fhzpj;J mwpf;iffis itj;jpUg;gjw;fhf cupa khtl;l njuptj;jhl;rp mYtyu;fisKd;$l;bNa mwpT{l;Ltjw;F ,g;gzpfis xOq;fikf;fpd;w mYtyu;fs; eltbf;if vLj;jy; Ntz;Lk;. ,j;jifafl;rpfs;/ FOf;fs;/ Ntl;ghsu;fs; Cf;Ftpg;ig my;yJ ghjpg;ig Vw;gLj;jj;jf;fjhf vt;tifahdntspg;gLj;Jifia Nkw;nfhs;sy; nraw;ghLfis Mw;wy; nfhbfs;/ gjhiffs;/ Rtnuhl;bfs;/ gj;jpuq;fs;/Jz;Lg;gpuRuq;fs; vd;gtw;iw fhl;rpg;gLj;jYk; gfpu;e;jspj;jYk; KOikahf jil nra;ag;gl;Ls;sJ. mj;jifagzpfis jLg;gjw;F cupa itgtq;fis xOq;fikf;fpd;w my;yJ epjpaPl;lk; toq;Ffpd;w murhq;fepWtdq;fSk; mYtyu;fSk; fl;Lg;gl;Ls;sdu;.
+
+II. elkhLk; NritfSk; tu;j;jf fz;fhl;rpfSk;
+
+kf;fSf;F Nrit toq;Fk; Nehf;NfhL murhq;f epjpiaAk; mur Mjdq;fisAk; nryT nra;J elhj;jg;gLfpd;welkhLk; Nritfs;> tu;j;jff; fz;fhl;rpfs; vd;gtw;wpD}lhf fl;rpfs;/ FOf;fs;/ Ntl;ghsu; Cf;Ftpg;Gfs;Nkw;nfhs;sg;gLk; Nghf;F fhzg;gLtjdhy; ,j;Nju;jy; fhyg;gFjpf;Fs; mj;jifa elkhLk; Nritfs; tu;j;jff;fz;fhl;rpfs; kw;Wk; fspahl;lq;fs; Nghd;wtw;iw xOq;fikg;gjpypUe;Jk; elhj;JtjpypUe;Jk; jtpu;e;J nfhs;sy;Ntz;Lk;. Nju;jy; mwptpg;G ntspaplg;gLtjw;F Kd;du; epu;zapf;fg;gl;l ,j;jifa elkhLk; Nritfs;> tu;j;jff;fz;fhl;rpfs;> fspahl;lq;fs; njhlu;ghf Nju;jy; Mizf;FOtpw;F mwpf;ifapl;L mwpTWj;jy;fis ngw;Wf;nfhs;sy;Ntz;Lk;. ve;j tpjj;jpYk; murhq;f epjpia nrytopj;J ,j;jifa elkhLk; Nritfs;> tu;j;jff; fz;fhl;rpfs;kw;Wk; fspahl;lq;fs; Nghd;wtw;iw epfo;j;Jfpd;wNghJ fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fs; Cf;Ftpg;G my;yJghjpg;G epfOkhapd; mJnjhlu;ghf cupa gzpia xOq;fikj;j mYtyu;fs; nghWg;Gf; $Wjy; Ntz;Lk;. mNjNghd;W Nju;jy; fhyg;gFjpf;Fs; elhj;jg;gLfpd;w ,j;jifa elkhLk; Nritfs;> tu;j;jff; fz;fhl;rpfs; kw;Wk;fspahl;lq;fs; Nghd;wtw;iw fz;fhzpj;J mwpf;iffis itj;jpUf;FkhW cupa khtl;lq;fspd;njuptj;jhl;rpahsu;fis Kd;$l;bNa mwpT{l;Ltjw;F ,g;gzpfis xOq;fikf;Fk; mYtyu;fs; eltbf;ifvLj;jy; Ntz;Lk;. ,j;jifa ve;j xU elkhLk; Nrit> tu;j;jf fz;fhl;rp kw;Wk; fspahl;lj;jpy; my;yJ,j;jifanjhUNtW re;ju;g;gj;jpy; fl;rpfs;/ FOf;fs;/Ntl;ghsu;fs; Cf;Ftpg;Gf;fhf my;yJ ghjpg;Gf;fhf vj;jifa
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.194A
+
+ntspg;gLj;JifiaAk; Nkw;nfhs;sy; nraw;ghLfisMw;wy; nfhbfs;/ gjhiffs;/ Rtnuhl;bfs;/ gj;jpuq;fs;/Jz;Lg;gpuRuq;fs; vd;gtw;iw fhl;rpg;gLj;jYk; gfpu;e;jspj;jYk; Kw;whfj; jilnad;gNjhL> mj;jifagzpfisj; jLg;gjw;F cupa gzpfis xOq;fikf;fpd;w my;yJ epjp toq;Ffpd;w murhq;f epWtdq;fs; kw;Wk;mYtyu;fs; fl;Lg;gl;Ls;sdu;.
+
+04. trjpfs;> nfhilfs; toq;Fk; epfo;r;rpj;jpl;lq;fs; kw;Wk; tpNrl fUj;jpl;lq;fis mKyhf;fk; nra;jy;
+
+I. kf;fSf;F trjpfis nra;J nfhLg;gjw;fhf my;yJ ehl;by; mg;NghJ Vw;gLj;Jtjw;fhf Nkw;nfhs;sg;gLfpd;wePz;lfhy my;yJ kj;jpafhy tpN\l fUj;jpl;lq;fs; kw;Wk; trjpfs; toq;Fk; njhlu;r;rpahd epfo;r;rpj;jpl;lq;fs;vd;gtw;iw Nju;jy; fhuzkhf ,ilepWj;j Kbahj NghjpYk; Nju;jy; mwptpg;G ntspaplg;gl;ljd; gpd;du;>,j;jifa tpN\l fUj;jpl;lq;fs; my;yJ njhlu;r;rpahd epfo;r;rpj; jpl;lq;f~lhf fl;rpfs;/ FOf;fs;/ Ntl;ghsu;Cf;Ftpg;ig my;yJ ghjpg;ig Vw;gLj;Jtjw;fhf gad;gLj;j ,lkspf;ff;$lhJ.
+
+II. Nju;jy; fhyg;gFjpf;Fs; Nkw;nfhs;sg;gLfpd;w ,j;jifa njhlu;r;rpahd epfo;r;rpj; jpl;lq;fs; kw;Wk; fUj;jpl;lq;fs;vd;gtw;wpD}lhf fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fs; Cf;Ftpg;G eltbf;iffs; epfo;fpd;wdthntd Mizf;FOfz;fhzpf;f cs;sJ.
+
+III. Nju;jy; fhyg;gFjpf;Fs; murhq;fj;jpd; fhzpfisg; gfpu;e;jspj;jy;> murhq;ff; fhzp cupikg; gj;jpuq;fs;my;yJ tPLfspd; cupikf; ifaspg;Gf;fhd cWjpfis toq;Fjy;> ngUe;Njhl;l ifj;j my;yJ gapupLiff;fhfkhdpaq;fs;> grisfs;> tptrha cgfuzq;fs;> tpisahl;L nghUl;fs;> Ra njhopy; cgfuzq;fs;> irf;fps;fs;>R{upatY kpd;rhu tpsf;Ffs;> tPLfisf; fl;Ltjw;fhd fl;blg; nghUl;fs; Nghd;wtw;iwg; gfpu;e;jspf;Fk;fUj;jpl;lq;fs;> tPl;Lf;fld; tpepNahfq;fs;/ el;l <l;Lj; njhif toq;fy; Nghd;w epfo;r;rpj; jpl;lq;fis Muk;gpj;jy;epWj;jg;gly; Ntz;Lk;. mt;thW ,ilepWj;jg;gLtjdhy; kf;fspd; Njitfis epiwNtw;Wtjw;F jlq;fy;Vw;gLnkdj; njupatUkhapd; mJ njhlu;ghf Nju;jy;fs; Mizf;FOtpw;F mwptpj;J mwpTWj;jy;fisg; ngw;Wf;nfhs;Sjy; Ntz;Lk;. vt;tpjj;jpYk; jw;NghJ Muk;gpf;fg;gl;Ls;s my;yJ mDkjp toq;fg;gLfpd;w ,j;jifaepfo;r;rpj;jpl;lq;fs; my;yJ gzpfs; vd;gtw;iw njhlu;r;rpahf Nkw;nfhs;s Ntz;bapUg;gpd; mg;gzpfismt;tplaq;fSf;Fg; nghWg;ghd mYtyu;fspd; gq;Fgw;wNyhL khj;jpuk; vt;tpj fl;rpfs;> FOf;fs;> Ntl;ghsu;fs;Cf;Ftpg;Gfs; my;yJ ghjpg;Gf;fs; epfohjthW nraw;gLj;jy; mg;gzpfSf;Fk; epfo;r;rpj; jpl;lq;fSf;Fk;nghWg;ghd mYtyu;fspd; flikahFk;.
+
+05. thfdq;fs;
+
+i. Nju;jy; gpur;rhu eltbf;iffSf;fhf murhq;fj;Jf;F nrhe;jkhd Nkhl;lhu; thfdq;fs;> [Pg; tz;bfs;> nfg;tz;bfs;> g]; tz;bfs; midj;J mur thfdq;fSf;Fk; nghWg;ghf cs;s mYtyu;fs; thfdq;fisVNjDnkhU murpay; fl;rpapd;> RNar;irf; FOnthd;wpd;> Ntl;ghsnuhUtupd; gpur;rhu eltbf;iffisCf;Ftpg;Gf;fhf gad;gLj;jhj tpjj;jpy; Nju;jy; fhyg;gFjpf;Fs; thfdFohj;ijg; NgZjy; kw;Wk;Fwpj;njhJf;Fjy; kpff; ftdkhf Nkw;nfhs;sg;gly; Ntz;Lk;. mYtyu;fSf;F Fwpj;njhJf;fg;gl;Ls;smurhq;fj;jpw;Fr; nrhe;jkhd thfdq;fs; (Assigned Vehicles) thliff;F ngwg;gl;Ls;s flikeltbf;iffSf;fhf <LgLj;jg;gLfpd;w thfdq;fs; vd;gd $l ,jw;Fs; cs;slf;fg;gly; Ntz;Lnkd;gijf;ftdj;jpy; nfhs;sy; Ntz;Lk;. ,f;fhyg;gFjpf;Fs; mYtyu;fSf;F Fwpj;njhJf;fg;gl;Ls;s thfdq;fs; jtpukpf Kf;fpakhf Fohq;fSf;F Fwpj;J xJf;fg;gl;Ls;s thfdq;fSf;fhd Xl;lf; Fwpg;Gfs; Kiwahf Ngzg;gly;Ntz;Lk; vd;gNjhL ,e;jf; Fwpg;Gfis gjtpepiy mYtyu; xUtu; md;whlk; guprPypj;J thfdq;fs; Nju;jy;gpur;rhu eltbf;iffspy; <Lgltpy;iy vd;gJ njhlu;ghf jpUg;jp miljy; Ntz;Lk;. flik eltbf;iffSf;fhf<LgLj;jg;gl;Ls;sjhf Nghypahf Xl;lf; Fwpg;Gfis vOjp murhq;f thfdq;fis murpay; Cf;Ftpg;Geltbf;iffs; my;yJ mj;jifa rl;ltpNuhj tplaq;fSf;fhf gad;gLj;jhky; ,Ug;gjw;Fg; nghWg;ghjy;Ntz;Lk;.
+
+ii. rdhjpgjp mtu;fspd; ghJfhg;gpw;fhf nfhLf;fg;gl;Ls;s ,uz;L thfdq;fs; jtpu;e;j ve;j thfdj;jpw;Fk;Nkhl;lhu; jpizf;fsj;jpdhy; Fwpj;njhJf;fg;gl;l milahs gjptpyf;fk; mw;w tpjj;jpy; XlKbahJ. Mjyhy;vtNuDNkhu; mikr;rUf;Fk; gpujp mikr;rUf;Fk; mtu;fspd; gzpahl;FO mq;fj;jpdu;fs; midtUf;Fk; cupagjpT ,yf;fkw;w murhq;fj;jpd; my;yJ mur epWtdq;fspd; thfdq;fis gad;gLj;j KbahJ. mjdhy;midj;J jpizf;fsq;fSf;Fk; murhq;f epWtdq;fSf;Fk; cupj;jhd thfdq;fis jpUj;jf ,yf;fq;fisg;gad;gLj;jp (Nghyp ,yf;fq;fis) XLtjw;F mtfhrkspf;ff; $lhJ vd;gij mikr;Rf;fspd; nrayhsu;fs;>jpizf;fsq;fspd; jiytu;fs; MfpNahu; cWjpg;gLj;jpf; nfhs;sy; Ntz;Lk;.
+
+5AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.19
+
+iii. murpay; gpur;rhug;gzpfSf;fhf tpkhdq;fs;> n`ypnfhg;lu;fs; my;yJ NtW thfdq;fis <LgLj;Jtjw;fhfmurhq;f epjp nrytplg;gLtjpy;iy vd;gij midj;J nrayhsu;fSk; epWtdj; jiytu;fSk; cWjpg;gLj;jpf;nfhs;sy; Ntz;Lk;.
+
+06. murhq;f mYtyfq;fs;> fl;blq;fs;> ghlrhiyfs;> muRf;Fupa Vida fl;blq;fs; kw;Wk; Rw;Wyh tpLjpfs; Mfpad.
+
+i. murhq;f mYtyfq;fs;> fl;blq;fs;> ghlrhiyfs;> muRf;Fupa Vida fl;blq;fs; kw;Wk; Rw;Wyh tpLjpfs;Mfpad murpd; tsq;fshFk;. Mjyhy;> ,f;fl;blq;fspy; murpay; $l;lq;fs;> fye;Jiuahly;fs; vd;gtw;iwelhj;jf;$lhJ. toikahd fhyg;gFjpapy; ve;jnthU murpay; fl;rpf;Fk;/ FOTf;Fk; fl;lzk; nrYj;jpngw;Wf;nfhs;s Kbe;j fl;blq;fs;> kz;lgq;fs; Nju;jy; fhyg;gFjpapYk; Kiwahf fl;lzk; mwtplg;gl;Lve;jnthU fl;rpf;Fk;/ FOTf;Fk; NtWghL fhl;lg;glhky; toq;fg;gLtjw;F ,t;Ntw;ghLfspy; jlq;fy; ,Ug;gjhffUjg;glf; $lhJ. Nju;jy; gpur;rhu eltbf;iffspy; <Lgl;Ls;s egu;fSf;F> murhq;fj;Jf;F cupj;jhd Rw;WyhtpLjpfs;> thb tPLfs;> tpLKiw ,y;yq;fs; Mfpatw;iw ,ytrkhf toq;FtJ Kw;whfj; jilahFk;.khfhzq;fspy; mikag;ngw;Ws;s murhq;fj;jpw;F my;yJ mur epWtdq;fSf;F cupj;jhd Rw;Wyh tpLjpfs;>thb tPLfs;> tpLKiw ,y;yq;fs; Nghd;wit ve;jNthu; murpay;thjpf;Fk; mYtyUf;Fk; NtnwhU egUf;Fk;Nju;jy; fhyg;gFjpf;Fs; KO fhyj;Jf;Fnkd Fwpj;njhJf;fpf; nfhLg;gij jtpu;e;J nfhs;sy; Ntz;Lk;.mNjNghd;W mj;jifa ,lq;fspy; jq;Ffpd;w egu;fs; murpay; fl;rpfs; my;yJ Ntl;ghsu;fis Cf;Ftpf;Fk;eltbf;iffspy; <Lglf;$lhJ. murhq;fj;jpw;F cupj;jhd fl;blq;fs;> mit mikag;ngw;Ws;s fhzpfs;vd;gtw;wpy; murpay; fl;rpfspdJk; Ntl;ghsu;fspdJk; Nju;jy; gpur;rhu mwptpj;jy;fs;> Rtnuhl;bfs;> ghupamstpyhd cUtg;glq;fs; vd;gtw;iw fhl;rpg;gLj;jTk; ,lkspf;ff; $lhJ.
+
+ii. murhq;fk;> khfhz rigfs; kw;Wk; cs;~uhl;rp rigfs; Mfpatw;wpw;F cupj;jhd tpisahl;Lj; jply;fs;>ntw;Wf; fhzpfs;> kz;lgq;fs; my;yJ mj;jifa Vida fl;blq;fs; murpay; fl;rpfs;/ RNar;irf; FOf;fs;/Ntl;ghsu;fis Cf;Ftpg;gjw;fhd gpur;rhuf; $l;lq;fSf;fhf Fwpj;njhJf;Fk; NghJ ve;jnthU fl;rpf;NfhRNar;irf; FOTf;Nfh Ntl;ghsUf;Nfh tpNrl mf;fiwnahd;Nwh my;yJ Kd;Dupknahd;Nwh my;yJFiwkjpg;nghd;W Vw;glj;jf;fthW Fwpj;njhJf;ff; $lhJ. mt;tplq;fs;> fl;blq;fs; vd;gtw;iw Fwpj;njhJf;Fjy;ntspf;fhl;Lj; jd;ikAld; $bajhf Nkw;nfhs;sg;gly; Ntz;Lk;. mj;jifa ,lq;fis Vida fl;rpfSk;FOf;fSk; ngw;Wf;nfhs;s KbahjthW ve;jnthU fl;rpf;Nfh my;yJ FOTf;Nfh my;yJ Ntl;ghsUf;Nfh NtWgzpfSf;fhf njhlu;r;rpahf Fwpj;J xJf;fp itj;Jf;nfhs;sf;$lhJ.
+
+07. nghJthd tplaq;fs;
+
+i. murhq;f Mjdq;fs; Kf;fpakhf murhq;f epWtdq;fs;> thfdq;fs;> nghUl;fshjpait kw;Wk; mYtyu;fs;Nju;jNyhL njhlu;Gila fl;rpfs;/ FOf;fs; my;yJ Ntl;ghsu; Cf;Ftpg;Gf;fhf gad;gLj;jg;gl ve;jnthUre;ju;g;gKk; toq;fg;glf; $lhJ. Nju;jy; elhj;jg;gLfpd;w gpuNjrq;fspy; mtruf; flikfSf;fhf tpNrlmgptpUj;jpj; jpl;lq;fs; Nghd;wtw;iw Kd;itj;J fl;rpfs;/ FOf;fs;/ Ntl;ghsu; Cf;Ftpg;ig (,y;yhtpby;ghjpg;ig) Vw;gLj;Jtjw;fhf murhq;fj;jpd;/ mur epWtdq;fspd; mYtyu;fs; kw;Wk; murhq;fj;jpw;F/ murepWtdq;fSf;F nrhe;jkhd my;yJ thliff;F mku;j;jpa thfdq;fis NtW mYtyfq;fSf;F kw;Wk;epWtdq;fSf;F ,izj;jy; my;yJ tpLtpj;jy; Nghd;w rl;l uPjpaw;w eltbf;iffis Nkw;nfhs;s ve;jNthu;mYtyUf;Fk; ,lkspf;ff; $lhJ. murhq;fj;jpd;> khfhz rigfspd;> cs;~uhl;rp rigfspd; my;yJ murhq;f$l;Lj;jhgdq;fs;> epajpr;rl;l rigfs;> murhq;f tq;fpfs;> epajpr;rl;l NtW epWtdq;fs;> mur gy;fiyf;fofq;fs;Nghd;w ve;jNthu; mur epWtdj;Jf;Fk; cupa Clfg; gpuptpd; mYtyu;fs;> thfdq;fs;> fUtpfs; ve;jnthUfl;rpapdJk; FOtpdJk; Ntl;ghsu;fspdJk; Cf;Ftpg;ig Nkk;gLj;Jfpd;w gzpfSf;fhf <Lg;gLj;jf;$lhJ.rhjhuz epiyikapd; fPo; ve;jnthU murhq;f epWtdj;jpw;Fk; cupa Nkilfs;> Nrhlidfs;> fUtpfs;>thfdq;fs;> tpkhdq;fs;> n`ypnfhg;lu;fs; Nghd;w thlif mbg;gilapy; toq;fg;gLtjhapd; Nju;jy;fhyj;Jf;Fs; mj;jifa thliff;F toq;fg;gly; midj;J fl;rpfSf;Fk; FOf;fSf;Fk; ngw;Wf;nfhs;sf;$bathWntspg;ghl;Lj; jd;ikAld; $bajhf Mw;wg;gly; Ntz;Lk;.
+
+ii. murhq;f mgptpUj;jp eltbf;iffs; njhlu;ghfNth my;yJ VNjDk; tUlhe;j/ epidT jpd itgtq;fs;Mfpatw;Wf;fhfNth gpur;rhu eltbf;iffis Nkw;nfhs;tjw;fhf mur epjpia gad;gLj;jp njhiyf;fhl;rp>thndhyp> nra;jpg; gj;jpupiffs; Nghd;w Clfq;f~lhf mwptpj;jy; xyp/ xspgug;G / gpuRupj;jy; %ykhfNthmwptpj;jy; gyiffis gfpuq;f ,lq;fspy; fhl;rpg;gLj;jy; %yNkh ve;jnthU fl;rp/ FO/ Ntl;ghsu; rhu;ghfTk;Cf;Ftpg;G eltbf;iffisNah ghjpg;ig Vw;gLj;Jk; eltbf;iffisNah Nkw;nfhs;sy; $lhJ.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.196A
+
+iii. midj;J jdpahu; Nfgps; njhiyf;fhl;rp xspgug;Gf;fs;> jdpahu; ,yj;jpudpay; kw;Wk; mr;R Clf epWtdq;fs;>,izaj;jsq;fs;> ifalf;f kw;Wk; epiyahd njhiyNgrpr; Nritfis toq;Ffpd;w epWtdq;fs; vd;gdNju;jy; fhyg;gFjpapy; Nju;jy; rl;lq;fis kPwhjtpjj;jpYk; Nju;jy; Mizf;FOtpdhy; ntspaplg;gl;Ls;s Clftopfhl;L newpfs;> gzpg;Gf;fs; kw;Wk; mwpTWj;jy; Rw;wwpf;iffSf;F mikthf ele;J nfhs;tjw;F tif$Wjy; Nkw;Fwpj;j njhlu;ghly; epWtdq;fis xOq;FKiwg;gLj;Jfpd;w jhgdq;fspd; nghWg;nghd;whftpUj;jy;Ntz;Lk;.
+
+iv. fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fis Cf;Ftpf;Fk; my;yJ ghjpf;Fk; tpjj;jpy; tpsf;Ff; fk;gq;fs; kw;Wk; njhiyNgrpfk;gpj; J}z;fs; vd;gtw;wpy; gjhiffs;> Rtnuhl;bfs;> nfhbfs;> Nrhlidfs; vd;gtw;iw Nkw;nfhs;tijj;jLg;gJ Nghd;Nw nghJg; ngUe;njUf;fs; kPJk; ,UkUq;fpYk; cs;s ghjrhupfs; Nkilfs; kPJk; fl;rpfs;/FOf;fs;/ Ntl;ghsu;fis Cf;Ftpf;Fk; tpjj;jpNyh my;yJ ghjpg;ig Vw;gLj;Jk; tpjj;jpNyh ik G{Rjy; %yNkhNtNwNjDk; KiwapNyh gpur;rhu eltbf;iffis Nkw;nfhs;tijj; jtpu;g;gjw;Fupa mjpfhu vy;iyf;FupagpuNjrj;jpd; murhq;f epWtdq;fs; Nghd;Nw Fwpj;j mjpfhu vy;iyf;Fs; mur Mjdq;fis iftrk; itj;Js;sepUthfpfs; my;yJ cs;~u; mjpfhurig mYtyu;fs; MfpNahupd; nghWg;ghFk;.
+
+v. VNjDk; Xu; mikr;R> jpizf;fsk; my;yJ murepWtdk; Nju;jy; fhyg;gFjpf;F Kd;du; epu;khzpj;jpUe;jmy;yJ fhl;rpg;gLj;jpapUe;j fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fs; Cf;Ftpg;Gf;Ff; fhuzkhff; $ba tpjj;jpy;gfpuq;f ,lq;fspy; ghu;itf;F itf;fg;gl;Ls;s Gifg;glq;fs;> gpur;rhug; gyiffs;> nfhbfs;> gjhiffs; kw;Wk;Nrhlidfs; Mfpatw;iw nghJkf;fSf;F fhl;rpg;gLj;JtjpypUe;J mfw;Wtjw;F mt;tur epWtdq;fspd;jiytu;fs; eltbf;if vLj;jy; Ntz;Lk;. cs;~u; mjpfhu rig vy;iyf;Fs; gfpuq;f ,lq;fspy;Nkw;nfhs;sg;gl;Ls;s fl;rpfs;/ FOf;fs;/ Ntl;ghsu; Cf;Ftpg;G gpur;rhu gyiffs;> nfhbfs;> gjhiffs; kw;Wk;Nrhlidfs; Mfpatw;iw mfw;Wtjw;F cs;~u; mjpfhu rigfspd; jiytu;fs; me;epWtdq;fspd;Mizahsu;fSk; nrayhsu;fSk; eltbf;if vLj;jy; Ntz;Lk;.
+
+vi. Nju;jnyhd;wpd;NghJ fl;rpfs;/ FOf;fs;/ Ntl;ghsu;fs; Cf;Ftpg;G eltbf;iffs; my;yJ ghjpg;ig Vw;gLj;Jk;eltbf;iffs; vd;gtw;wpw;fhf mur Mjdq;fisg; gad;gLj;Jtijj; jLf;Fk; tpjj;jpyhd ,j;jil cj;juTvj;jifa nefpo;r;rpf;Fk; ,lkpd;wp fLikahf nraw;gLj;jg;gLk;. xt;nthU mikr;rpd; fPOk; cs;s midj;Jjpizf;fsq;fSk;> murhq;f $l;Lj;jhgdq;fSk; kw;Wk; Vida epWtdq;fspd; jiytu;fSk; ,Jnjhlu;ghdmwpTWj;jy;fis toq;Ftjw;F mikr;Rf;fspd; nrayhsu;fs; eltbf;if vLj;jy;Ntz;Lk;. mNjNghd;Wmj;jifa midj;J epWtdq;fspdJk; mYtyu;fs; ,t;twpTWj;jy;fSf;Fk; gzpg;Gf;ffSf;Fk; mikthfele;J nfhs;fpd;whu;fnsd mikr;Rf;fspd; nrayhsu;fSk; epWtdq;fspd; jiytu;fSk; cWjpg;gLj;jpf;nfhs;sy; mj;jpahtrpakhdjhFk;.
+
+vii. Nju;jNyhL njhlu;Gila midj;J rl;lq;fisAk; tYthf;fk; nra;tjw;Fk; ghJfhg;gjw;Fk; Nju;jy;Mizf;FOTf;F xj;Jiog;G toq;Fjy; cupa rl;l tYthf;fj;jpw;Fg; nghWg;ghfTs;s midj;J murmjpfhupfspdJk; gzpahf ,Uf;f Ntz;Lnkd murpayikg;gpd; 104M(2) Mk; cWg;Giuapy; fhzg;gLfpd;w,f;Fwpg;gPL njhlu;ghf mur mYtyu;fspd; ftdk; <u;f;fg;gLjy; mtrpakhFk;.
+
+viii. ,t;Ntw;ghLfspy; Fwpg;gplg;gl;Ls;s tplaq;fs; njhlu;ghf mikr;ru;fs;> mikr;ruit me;j];jw;w mikr;ru;fs;>,uh[hq;f mikr;ru;fs;> gpujpaikr;ru;fs; kw;Wk; mikr;ruitg; gzpahsu;fs; MfpNahiu mwpT{l;LtJmikr;rpd; nrayhsUf;F ifaspf;fg;gl;Ls;sNjhL> khfhz rigfspd; gpujk nrayhsu;fs; kw;Wk; Vidamikr;ru;fs; mtu;fspd; gzpahl; FOtpdu;fs; MfpNahiu mwpT{l;ly; gpujk nrayhsu; cupa khfhz rigapd;mikr;rpd; nrayhsu;fSf;F cupajhFk; vd;gij ftdj;jpy; nfhs;sy; Ntz;Lk;.
+
+ix. Vw;Gilj;jhFkplj;J Mizf;FOf;fspd; nrayhsu;fs;> mf;FOf;fspd; jtprhsu;fs; kw;Wk; mjd; mq;fj;jpdu;fs;,g;gzpg;Gf;fs; njhlu;ghf mwpT{l;l eltbf;if vLj;jy; Ntz;Lk;.
+
+x. murpayikg;gpy; Fwpg;gplg;gl;Ls;s tplaq;fSf;F Nkyjpfkhf> mikr;Rf;fs;/ jpizf;fsq;fs;/ epWtdq;fspd;jiytu;fs; gpujhd fzf;fPl;L mYtyu;fshf my;yJ fzf;fPl;L mYtyu;fshf cs;sikahy; murhq;fj;jpw;FupaMjdq;fspd; Kiwaw;w J\;gpuNahfj;ij jtpu;g;gJ cupa mYtyu;fSf;Ff; ifaspf;fg;gLfpd;w xUnghWg;ghFk;.
+
+xi. ,g;gzpg;Gf;fSf;F mikthf ele;njhOfhik ,yq;if rdehaf Nrhryprf; Fbaurpd; murpayikg;gpd;104vv Mk; cWg;Giuf;fika jz;lid toq;fg;gl Kbe;j xU Fw;wnkd;gJ Fwpg;gplg;gLfpd;wJ.
+
+7AI fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'09'19gFjp I : njhFjp (I) - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.09.19
+
+,t;Ntw;ghLfspy; murhq;fk; vdf; Fwpg;gplg;gl;Ls;s midj;J re;ju;g;gq;fspYk; murpd; mikr;Rf;fs;>jpizf;fsq;fs; cs;spl;l midj;J mur epWtdq;fs;> khfhz rigfs;> cs;~uhl;rp rigfs;> mur $l;Lj;jhgdq;fs;>epajpr;rl;l rigfs;> mur tq;fpfs; mur gy;fiyf;fofq;fs;> muRf;F ifNaw;fg;gl;Ls;s fk;gdpfs; vd;w midj;JepWtdq;fs; kw;Wk; 50 rjtPjj;jpw;Fk; $Ljyhd gq;F murpw;F my;yJ mur fk;gdpfSf;F cupj;jhd epWtdq;fs; vdg;nghUs;gLk;.
+
+murhq;f mYtyu;fs; kw;Wk; Copau;fs; vd ,lg;gl;Ls;s xt;Nthu; ,lj;jpYk; Kd;G Fwpg;gplg;gl;lepWtdq;fspy; gzpahw;Wfpd;wtu;fSk; Nritapy; <LgLj;jg;gl;ltu;fSkhd Ntjdk; xd;iwNah gb xd;iwNah ngw;Wf;nfhs;fpd;w midtUk; vdg; nghUs;gLk;.
+
+,J njhlu;ghf ntspaplg;gl;l 2017.12.04 Me; Njjpa 2048/12 Mk; ,yf;f mjp tpNrltu;j;jkhdp mwptpj;jy;ePf;fg;gLfpd;wJ.
+
+,yq;if murhq;f mr;Rj; jpizf;fsj;jpw; gjpg;gpf;fg;ngw;wJ.

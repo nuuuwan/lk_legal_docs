@@ -1,0 +1,61 @@
+PART III - LANDS NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. 21 OF 1998 (SECTION 55) Reference the intestate property of late Mr. Arangalage Don Amarasooriya who resides in the village of Homagama, in the Divisional Secretary’s Division of Homagama, in the District of Colombo. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mr. Arangalage Don Amara-sooriya described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019.
+
+(Published by Authority)
+
+ ලංකා ජාතා ක සමාජවා ජනරජෙ ගැස පය
+
+අ ෙශෂඅ ෙශෂඅ ෙශෂඅ ෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක අංක අංක අංක 2141214121412141/57 57 57 57 - 2019 2019 2019 2019 සැ(තැ)බ+ සැ(තැ)බ+ සැ(තැ)බ+ සැ(තැ)බ+ 19 19 19 19 වැ, -වැ, -වැ, -වැ, -හස්ප දා හස්ප දා හස්ප දා හස්ප දා - 2019201920192019.09090909.19191919
+
+No. 2141/57 – THURSDAY, SEPTEMBER 19, 2019
+
+N.B.– This Extraordinary Gazette can be downloaded from www.documents.gov.lk
+
+1A - G 31009 - 14 (2019/09)
+
+2 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.19 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.09.2019
+
+SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Division Map No. of Title No. Registration
+
+(Hectare) Homagama Homagama 520001 Block 03 0.0080 0024009 Homagama Parcel No. 265 N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.” 10-94 / 1 NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Mr. Kandage Sirisena who resides in the village of Magammana, in the Divisional Secretary’s Division of Homagama, in the District of Colombo . It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mr.Kandage Sirisena described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019. SCHEDULE
+
+Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Homagama Magammana 520004 Block 11 0.0914 0005646 Homagama Parcel No. 0080 N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.” 10-94 / 2
+
+3 A III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.19 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.09.2019
+
+NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Mr. Kuruppu Arachchige Ariyawansha who resides in the village of Raddalgoda, in the Grama Niladhari Division of 28 B - Raddalgoda in the Divisional Secretary’s Division of Meerigama , in the District of Gamapaha. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mr. Kuruppu Arachchige Ariy-awansha described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019. SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Meerigama Raddalgoda 510228 Block 01 0.0488 2522389 Negambo Parcel No. 0099 {{ N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.”
+
+10-94 / 3 NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Miss. Gal Atthanayake Pathirannehelage Siriyani who resides in the village of Giriullagama, in the Grama Niladhari Division of 01 A - Giriullagama, in the Divisional Secretary’s Division of Meerigama , in the District of Gampaha. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Miss. Gal Atthanayake Pathi-rannehelage Siriyani described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998.
+
+P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties)
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019.
+
+4 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.19 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.09.2019
+
+SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Meerigama Giriullagama 510287 Block 02 0.0624 00070007970 Atthanagalla Parcel No. 194 N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.” 10-94 / 4 NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Mrs. Kaythan Pieris Mary Bridget alias Kaytha Peirisge Bridget Pieris who resides in the village of Nalawalana , in the Divisional Secretary’s Division of Pannala , in the District of Kurunegala. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mrs. Kaythan Pieris Mary Bridget alias Kaytha Peirisge Bridget Pieris described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019. SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Pannala Nalawalana 420507 Block 02 0.2824 00212506935 Kuliyapitiya Parcel No. 75 N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.” 10-94 / 5
+
+5 A III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.19 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.09.2019
+
+NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Mr. Elayadura Harrison De Silva who resides in the village of Panwala Kumbura, in the Divi-sional Secretary’s Division of Pannala , in the District of Kurunegala. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mr. Elayadura Harrison De Silva described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties)
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019. SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Pannala Panwala Kumbura 420515 Block 01 0.1329 00212503630 Kuliyapitiya Parcel No. 202
+
+N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.”
+
+10-94 / 6 NOTICE CALLING FOR CLAIMS TO PROPERTY OF INTESTATE REGISTRATION OF TITLE ACT NO. OF 1998 (SECTION 55) Reference the intestate property of late Mrs. Mohomad Lebbe Thajun Niza who resides in the village of 34, Pethiyagoda West , in the Divisional Secretary’s Division of Udunuwara , in the District of Kandy. It is hereby notified that any person/s who have a claim to or interest in the intestate property of the late Mrs. Mohomad Lebbe Thajun Niza described in the Schedule hereto should submit his/their claim to the undersigned in writing before 16th October, 2019 stating his/their right or interest to such intestate property. In case of failure to do so, exparte action will be taken to register title under Section 55 (2) and (3) of the Registration of Title Act. No. 21 of 1998. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties)
+
+Land Title Settlement Department, No. 1200/6, “Mihikatha Madura”, Rajamalwatta Road, Battaramulla. 02nd August, 2019.
+
+6 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.19 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.09.2019
+
+SCHEDULE Divisional Village Cadastral Parcel No. Extent of Land Certificate Office of Secretary’s Map No. of Title No. Registration Division (Hectare) Udunuwara Pethiyagoda 320260 Block 06 0.0255 2504457 Kandy Parcel No. 11 N.B.- Letters claiming a right to intestate property should mention the Cadastral Map number, parcel number and the entitlement of the claimant to claim such property. The top left-hand corner of the envelope should bear the phrase “Application for Intestate Property.” 10-94 / 7
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
