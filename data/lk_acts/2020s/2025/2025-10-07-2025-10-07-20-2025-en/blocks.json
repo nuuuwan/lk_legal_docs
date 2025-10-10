@@ -1,0 +1,3702 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      80.52,
+      154.11,
+      345.37,
+      203.21
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.21,
+      464.13,
+      367.21,
+      472.99
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      116.65,
+      474.81,
+      305.73,
+      480.34
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.21,
+      489.51,
+      365.21,
+      501.55
+    ],
+    "text": "Price : Rs. 70.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.91,
+      538.98,
+      239.42,
+      547.84
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.86,
+      238.64,
+      347.23,
+      269.24
+    ],
+    "text": "NATIONAL BUILDING RESEARCH INSTITUTE ACT, No. 20 OF 2025",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      135.27,
+      311.28,
+      286.55,
+      322.35
+    ],
+    "text": "[Certi\ufb01 ed on 07th of October, 2025]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.92,
+      347.96,
+      283.92,
+      359.03
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.61,
+      404.72,
+      356.03,
+      429.79
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of October 10, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "1National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      562.06,
+      137.43,
+      571.13
+    ],
+    "text": "PL 15413- 868 (08/2025)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      94.42,
+      126.7,
+      105.76
+    ],
+    "text": "L.D. \u2013 O 33/2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      116.42,
+      298.37,
+      139.76
+    ],
+    "text": "AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE NATIONAL BUILDING RESEARCH INSTITUTE AND FOR MATTERS CONNECTED",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      140.42,
+      190.68,
+      151.76
+    ],
+    "text": "THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      170.02,
+      298.42,
+      240.56
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:- 1. This Act may be cited as the National Building Research Institute Act, No. 20 of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.18,
+      256.02,
+      191.57,
+      267.36
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.05,
+      285.62,
+      283.2,
+      311.76
+    ],
+    "text": "ESTABLISHMENT OF THE NATIONAL BUILDING RESEARCH INSTITUTE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      330.02,
+      298.41,
+      370.96
+    ],
+    "text": "2. (1) There shall be established an Institute to be called and known as the National Building Research Institute (hereinafter referred to as the \u201cInstitute\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      384.42,
+      298.4,
+      440.16
+    ],
+    "text": "(2) The Institute shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and a common seal and may sue and be sued in its corporate name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.87,
+      453.62,
+      226.74,
+      464.96
+    ],
+    "text": "3. The objects of the Institute shall be -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.87,
+      478.42,
+      298.41,
+      548.96
+    ],
+    "text": "(a) to conduct and promote research and surveys in the areas prone to landslides or an area having geotechnical instability with a view to minimizing its impact, and developing such areas in a sustainable manner;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      308.26,
+      216.81,
+      342.05,
+      225.89
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      307.63,
+      331.41,
+      368.96,
+      369.29
+    ],
+    "text": "Establishment of the National Building Research Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      307.63,
+      455.91,
+      354.51,
+      474.59
+    ],
+    "text": "Objects of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.12,
+      73.53,
+      248.65,
+      84.87
+    ],
+    "text": "[Certified on 07th of October, 2025]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 20252",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.61,
+      80.98,
+      366.16,
+      218.32
+    ],
+    "text": "(b) to ensure that construction and development activities are conducted in a manner that is disaster resilient in the areas prone to landslides or an area having geotechnical instability in accordance with the National Policy on Construction formulated under section 2 of the Construction Industry Development Act, No. 33 of 2014 and the National Policy and Program on the Management of Disasters formulated under the provisions of the Sri Lanka Disaster Management Act, No. 13 of 2005, and to provide related technical assistance; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.61,
+      229.58,
+      366.14,
+      253.52
+    ],
+    "text": "(c) to undertake research related to ensuring disaster resilient built environment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.61,
+      264.78,
+      337.81,
+      276.12
+    ],
+    "text": "4. The Institute shall have the following powers: -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.61,
+      287.38,
+      366.14,
+      399.52
+    ],
+    "text": "(a) to assist the relevant authorities on safe development and construction practices in accordance with the National Policy on Construction formulated under section 2 of the Construction Industry Development Act, No. 33 of 2014 and the National Policy and Program on the Management of Disasters formulated under the provisions of the Sri Lanka Disaster Management Act, No. 13 of 2005 on the request made by such relevant authorities;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.61,
+      410.78,
+      366.15,
+      459.92
+    ],
+    "text": "(b) to monitor and verify compliance of the Landslide Risk Assessment Report or Geotechnical Stability Assessment Report and to issue Certificate of Conformity in terms of section 24 of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.61,
+      471.18,
+      366.14,
+      533.32
+    ],
+    "text": "(c) to assist the relevant authorities on any construction or development activity endangering human life, property and environment within the areas prone to landslides or the areas having geotechnical instability;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.59,
+      266.61,
+      98.58,
+      285.29
+    ],
+    "text": "Powers of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "3National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      78.98,
+      298.36,
+      102.92
+    ],
+    "text": "(d) to formulate disaster risk reduction planning and practices;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      114.18,
+      261.58,
+      125.52
+    ],
+    "text": "(e) to appoint technical advisory committees;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      136.78,
+      298.39,
+      173.32
+    ],
+    "text": "(f) to purchase and hold, take or give on lease or hire, mortgage, pledge, sell or otherwise dispose of, any movable or immovable property;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      184.58,
+      298.41,
+      221.12
+    ],
+    "text": "(g) to employ, hire or obtain the services of any person with necessary expertise, knowledge, skills and experience for the activities of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      232.38,
+      298.41,
+      256.32
+    ],
+    "text": "(h) to charge fees or any other payments for any services provided by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      267.58,
+      298.4,
+      304.12
+    ],
+    "text": "(i) to accept grants, gifts or donations received from persons or bodies of persons within or outside Sri Lanka:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      315.38,
+      298.41,
+      377.12
+    ],
+    "text": "Provided that, notwithstanding anything to the contrary in any other provisions of this Act, the Board shall obtain prior written approval of the Department of External Resources in respect of all foreign grants, gifts or donations;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      388.38,
+      298.39,
+      424.92
+    ],
+    "text": "(j) to open and maintain current, savings, or deposit accounts in any bank or finance institute in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      436.18,
+      298.4,
+      485.32
+    ],
+    "text": "(k) to invest in any bank and any \ufb01 nance institute any funds not immediately required for the purposes of the Institute in such manner as the Board may think appropriate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.87,
+      496.58,
+      298.4,
+      546.52
+    ],
+    "text": "(l) to enter into and perform all such contracts or agreements as may be necessary for the exercise of the powers and the carrying out of the objects of the Institute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 20254",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      78.48,
+      365.62,
+      129.72
+    ],
+    "text": "(m) to do all such acts and things which may be conducive or incidental to, the achievement of the objects of the Institute as may be authorized by the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135.09,
+      141.68,
+      302.85,
+      153.02
+    ],
+    "text": "5. The functions of the Institute shall be -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      164.98,
+      365.63,
+      229.52
+    ],
+    "text": "(a) to assist the functions of a technical nature of the National Council for Disaster Management established under section 2 of the Sri Lanka Disaster Management Act, No. 13 of 2005 as the national focal point for landslide risk management;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      241.48,
+      365.65,
+      292.72
+    ],
+    "text": "(b) to investigate, identify and map the areas prone to landslides or the areas having geotechnical instability and demarcate the susceptibility levels and prepare hazard zonation maps;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      304.68,
+      365.63,
+      342.62
+    ],
+    "text": "(c) to identify and declare an area with risk of a potential landslide as a \u201clandslide danger zone\u201d for the purpose of evacuation of persons;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      354.58,
+      365.59,
+      379.22
+    ],
+    "text": "(d) to issue early warning for areas with potential impacts due to landslides;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      391.18,
+      365.63,
+      429.12
+    ],
+    "text": "(e) to issue Landslide Risk Assessment Report for any type of construction or development activity conducted in the area prone to landslides;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      441.08,
+      365.63,
+      492.32
+    ],
+    "text": "(f) to conduct research and studies on landslides and monitor impacts of climate change on landslides and to design and implement mitigatory measures to reduce risks associated with landslide;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.09,
+      504.28,
+      365.63,
+      542.22
+    ],
+    "text": "(g) to provide proactive scienti\ufb01 c solutions to minimize social, economic and environmental impacts due to landslides;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.91,
+      144.01,
+      106.91,
+      162.69
+    ],
+    "text": "Functions of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "5National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      79.24,
+      298.41,
+      117.38
+    ],
+    "text": "(h) to assist the relevant authorities in the preparation of land use plans in an area prone to landslides or an area having geotechnical instability;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      129.44,
+      298.4,
+      167.58
+    ],
+    "text": "(i) to perform geotechnical investigations and provide technical services on ground improvement and slope stabilization measures;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      179.64,
+      298.4,
+      217.78
+    ],
+    "text": "(j) to conduct research relating to construction in areas having geotechnical instability and to provide related technical assistance;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      229.84,
+      298.4,
+      267.98
+    ],
+    "text": "(k) to make recommendations to the Minister to prescribe the scope of geotechnical investigations and design for engineering applications;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      280.04,
+      298.39,
+      304.78
+    ],
+    "text": "(l) to issue Geotechnical Stability Assessment Reports on ground stability for excavation or construction;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      316.84,
+      298.4,
+      341.58
+    ],
+    "text": "(m) to function as a depository of all information related to geotechnical investigations;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      353.64,
+      298.43,
+      378.38
+    ],
+    "text": "(n) to conduct research on disaster resilient construction and to provide related technical assistance ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      390.44,
+      298.4,
+      415.18
+    ],
+    "text": "(o) to assess chemical, physical and biological changes in environment to provide related technical solutions;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      427.24,
+      298.41,
+      478.78
+    ],
+    "text": "(p) to assess building based on structure, occupancy, energy and environment on the request of the occupant or the owner of the building and to provide technical assistance;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.87,
+      490.84,
+      298.42,
+      528.98
+    ],
+    "text": "(q) to conduct research on materials, products and technologies used for construction purposes and suitability thereof;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 20256",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      78.48,
+      365.92,
+      154.82
+    ],
+    "text": "(r) to investigate into the conditions of damage, safety and incorporation of disaster resilient design and construction features in buildings and structures and provide technical solutions on structural safety, on the request of the occupant or the owner of the building;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      166.48,
+      365.92,
+      229.82
+    ],
+    "text": "(s) to provide assistance to the relevant authorities in the development of policy, guidelines, speci\ufb01 cations and standards in respect of the construction and development activities, on the request made by such relevant authorities;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      241.48,
+      365.9,
+      291.82
+    ],
+    "text": "(t) to disseminate scienti\ufb01 c knowledge and information in areas of expertise of the Institute through awareness creation, training and technology transfer; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      303.48,
+      365.93,
+      392.82
+    ],
+    "text": "(u) to collaborate with local and international stakeholders in conducting research and surveys subject to the approval of the Board and to disseminate the outcome of such research and surveys whilst maintaining con\ufb01 dentiality on the data collected and, subject to written laws on patent rights.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      226.03,
+      408.88,
+      263.25,
+      420.22
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.87,
+      436.28,
+      344.91,
+      447.62
+    ],
+    "text": "ADMINISTRATION AND MANAGEMENT OF THE INSTITUTE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      463.68,
+      365.96,
+      514.02
+    ],
+    "text": "6. (1) The administration, management and control of the affairs of the Institute shall be vested in the Board of Governors of the Institute (in this Act referred to as the \u201cBoard\u201d) which shall consist of-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.39,
+      530.08,
+      339.9,
+      541.42
+    ],
+    "text": "(a) the following ex- of\ufb01 cio members, namely: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.39,
+      465.41,
+      107.6,
+      503.29
+    ],
+    "text": "Constitution of the Board of Governors of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "7National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      78.48,
+      298.4,
+      126.72
+    ],
+    "text": "(i) the Secretary to the Ministry of the Minister assigned the subject of Disaster Management who shall be the Chairperson of the Board;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      137.68,
+      298.4,
+      185.92
+    ],
+    "text": "(ii) the Secretary to the Ministry of the Minister assigned the subject of Finance or his representative not below the rank of Additional Secretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      196.88,
+      298.4,
+      245.12
+    ],
+    "text": "(iii) the Secretary to the Ministry of the Minister assigned the subject of Local Authorities or his representative not below the rank of Additional Secretary;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      256.08,
+      298.4,
+      304.32
+    ],
+    "text": "(iv) the Director-General of the Disaster Management Center established under the Sri Lanka Disaster Management Act, No. 13 of 2005; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55.87,
+      315.28,
+      298.41,
+      351.22
+    ],
+    "text": "(b) the following members to be appointed by the Minister (hereinafter referred to as the \u201cappointed members\u201d):-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      362.18,
+      298.42,
+      471.92
+    ],
+    "text": "(i) one person having not less than five years experience in the \ufb01 eld of disaster resilience and postgraduate quali\ufb01 cations in one or more disciplines, namely engineering, geology, environmental science, architecture or urban development nominated by the Secretary to the Ministry of the Minister assigned the subject of Housing;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.87,
+      482.88,
+      298.43,
+      544.52
+    ],
+    "text": "(ii) one academic nominated by the University Grants Commission established under the Universities Act, No.16 of 1978 from among academics holding postgraduate quali\ufb01 cations in one or more",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 20258",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195.39,
+      78.58,
+      365.91,
+      115.93
+    ],
+    "text": "disciplines, namely engineering, geology, environmental science, architecture or urban development; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      159.39,
+      127.59,
+      365.91,
+      268.93
+    ],
+    "text": "(iii) one professional with expertise in the local geotechnical engineering or building construction industry holding postgraduate quali\ufb01 cations in one or more disciplines, namely engineering, geology, environmental science, architecture or urban development nominated by the Chamber of Construction Industry of Sri Lanka incorporated under the Chamber of Construction Industry of Sri Lanka (Incorporation) Act, No. 23 of 2019.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      280.59,
+      365.93,
+      317.93
+    ],
+    "text": "(2) The Director-General of the Institute appointed under section 16 of this Act shall be the Secretary to the Board and shall not to be entitled to vote at any meeting of the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      329.59,
+      365.91,
+      379.93
+    ],
+    "text": "(3) The Board shall, for the purpose of administering the affairs of the Institute, exercise and discharge the powers and functions conferred on, assigned to or imposed on the Institute by this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      391.59,
+      365.9,
+      415.93
+    ],
+    "text": "7. A person shall be disquali\ufb01 ed from being appointed as a member or continuing as a member of the Board, if -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      427.59,
+      365.91,
+      464.93
+    ],
+    "text": "(a) he is or becomes, a member of Parliament, a member of any Provincial Council or a member of a Local Authority;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      476.59,
+      353.24,
+      487.93
+    ],
+    "text": "(b) he is not, or ceases to be, a citizen of Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      123.39,
+      499.59,
+      365.91,
+      536.93
+    ],
+    "text": "(c) he is under any law in force in Sri Lanka or in any other country, found or declared to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.51,
+      393.3,
+      112.15,
+      431.17
+    ],
+    "text": "Disquali\ufb01 cations from being a member of the Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "9National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      79.3,
+      298.63,
+      117.64
+    ],
+    "text": "(d) he is an undischarged insolvent or bankrupt; having been declared insolvent or bankrupt under any law in Sri Lanka or in any other country;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      129.8,
+      298.65,
+      168.14
+    ],
+    "text": "(e) he is serving or has served a sentence of imprisonment imposed by any court in Sri Lanka or in any other country;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      180.3,
+      298.62,
+      205.14
+    ],
+    "text": "(f) he holds or enjoys any right or bene\ufb01 t under any contract made by, or on behalf of the Institute; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      217.3,
+      298.63,
+      255.64
+    ],
+    "text": "(g) he has any \ufb01 nancial or other interests as is likely to affect the discharge by him of his functions as a member of the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      267.8,
+      298.64,
+      319.64
+    ],
+    "text": "8. Every appointed member of the Board shall, unless he vacates of\ufb01 ce earlier by death, resignation or removal, hold of\ufb01 ce for a term of three years from the date of his appointment.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      331.8,
+      298.62,
+      356.64
+    ],
+    "text": "9. (1) Any appointed member may resign of\ufb01 ce by letter addressed to the Minister.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      368.8,
+      298.62,
+      393.64
+    ],
+    "text": "(2) The Minister shall remove from of\ufb01 ce any appointed member by a written communication addressed to him -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      405.8,
+      298.62,
+      430.64
+    ],
+    "text": "(a) if he becomes subject to any disquali\ufb01 cation as speci\ufb01 ed in section 7;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      442.8,
+      298.64,
+      494.64
+    ],
+    "text": "(b) if in the opinion of the Minister, he becomes permanently incapable of performing his duties due to any physical disability or unsoundness of mind; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.11,
+      506.8,
+      301.65,
+      531.64
+    ],
+    "text": "(c) if he does any act which, in the opinion of the Minister is likely to bring the Institute into disrepute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      307.76,
+      334.81,
+      367.52,
+      363.09
+    ],
+    "text": "Vacation of of\ufb01 ce of the appointed members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      307.51,
+      270.51,
+      364.38,
+      298.79
+    ],
+    "text": "Term of of\ufb01 ce of members of the Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202510",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      78.48,
+      365.93,
+      125.52
+    ],
+    "text": "(3) Any appointed member to whom a written communication is addressed under subsection (2), shall vacate his of\ufb01 ce with effect from the date speci\ufb01 ed in such communication.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      134.08,
+      367.47,
+      169.22
+    ],
+    "text": "(4) Any appointed member who has been removed from of\ufb01 ce shall not be eligible for reappointment as a member of the Board or to serve the Institute in any other capacity.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      177.78,
+      365.91,
+      248.62
+    ],
+    "text": "(5) Upon the vacation of of\ufb01 ce by any appointed member, the Minister may appoint any suitable person having the quali\ufb01 cations set out in section 6 of this Act to \ufb01 ll such vacancy and such person shall hold of\ufb01 ce for the unexpired period of the term of of\ufb01 ce of the appointed member whom he succeeds.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      257.18,
+      365.92,
+      316.12
+    ],
+    "text": "(6) Where any appointed member is temporarily unable to perform the duties of his of\ufb01 ce due to ill health, absence from Sri Lanka or any other cause, the Minister may appoint any suitable person having the quali\ufb01 cations set out in section 6 of this Act to act in place of such member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      324.68,
+      365.94,
+      371.72
+    ],
+    "text": "10. The members of the Board shall be paid such remuneration or allowance at such rates as may be determined by the Minister with the concurrence of the Minister assigned the subject of Finance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      135.39,
+      380.28,
+      368.01,
+      391.62
+    ],
+    "text": "11. (1) The quorum for a meeting of the Board shall be four.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      400.18,
+      365.92,
+      435.32
+    ],
+    "text": "(2) Subject to the provisions of this Act, the procedure for the transaction of business at meetings of the Board shall be determined by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      443.88,
+      365.93,
+      490.92
+    ],
+    "text": "(3) Any question arising at any meeting of the Board shall be determined by a majority of the members present and in the case of an equality of votes, the Chairperson shall have a second or casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.39,
+      499.48,
+      365.92,
+      534.72
+    ],
+    "text": "(4) The Board may act notwithstanding a vacancy in the Board so long as the number of members of the Board is suf\ufb01 cient to constitute a quorum for a meeting of the Board.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51.99,
+      325.91,
+      109.98,
+      354.19
+    ],
+    "text": "Remuneration of the members of the Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51.99,
+      382.21,
+      112.87,
+      410.49
+    ],
+    "text": "The quorum at the meetings of the Board",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "11National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.88,
+      79.09,
+      298.41,
+      130.93
+    ],
+    "text": "12. (1) For the purposes of this Act, a member of the Board or an of\ufb01 cer not below the rank of a technical of\ufb01 cer authorized in writing by the Board may, upon the request made by an owner or occupier of a land enter into such land.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.87,
+      143.09,
+      298.42,
+      235.43
+    ],
+    "text": "(2) Notwithstanding the provisions of subsection (1), where a member of the Board or an of\ufb01 cer not below the rank of a technical of\ufb01 cer authorized in writing by the Board satis\ufb01 es himself of the material facts before such member or of\ufb01 cer that there exists an imminent risk of a landslide, it shall be lawful for such member or of\ufb01 cer to enter into a land with a police of\ufb01 cer with the consent of the owner or occupier of such land.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.88,
+      247.59,
+      298.4,
+      299.43
+    ],
+    "text": "(3) The member or of\ufb01 cer may enter upon any land, with or without necessary vehicles, equipments or tools and inspect the land and take any sample of soil or carry out any assessment or test therein.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.88,
+      311.59,
+      298.4,
+      349.93
+    ],
+    "text": "(4) The owner or occupier of such land shall afford all reasonable assistance to the member or of\ufb01 cer referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.88,
+      362.09,
+      298.43,
+      494.93
+    ],
+    "text": "13. (1) The Board may, subject to such conditions as may be speci\ufb01 ed in writing, delegate to the Chairperson of the Board, the Director-General, the Technical Advisory Committee, or any person referred to in paragraph (g) of section 4 any of its powers other than the powers speci\ufb01 ed in paragraphs (e), (g), (h), (i), (j), (k) and (m) of section 4, as the case may be, and the Chairperson, the Director-General, the Technical Advisory Committee, or any person referred to in paragraph (g) of section 4 shall exercise such powers subject to any general or special directions issued by the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.88,
+      507.09,
+      298.42,
+      532.43
+    ],
+    "text": "(2) Notwithstanding any delegation made under subsection (1), the Board may exercise any such power so delegated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      307.64,
+      364.91,
+      353.4,
+      393.19
+    ],
+    "text": "Delegation of powers of the Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      307.64,
+      81.41,
+      359.4,
+      119.29
+    ],
+    "text": "Power of the Board to enter and inspect any land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202512",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      78.48,
+      365.94,
+      121.02
+    ],
+    "text": "14. The Minister may, from time to time, issue such general or special directions to the Board relating to the exercise and performance of its powers and functions under this Act and it shall be the duty of the Board to comply with such directions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      151.28,
+      253.65,
+      162.62
+    ],
+    "text": "15. The seal of the Institute -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      172.08,
+      365.91,
+      193.82
+    ],
+    "text": "(a) shall be in the custody of such person as the Board may, from time to time, determine;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      203.28,
+      365.91,
+      225.02
+    ],
+    "text": "(b) may be altered in such manner as may be determined by the Board; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      234.48,
+      365.91,
+      277.02
+    ],
+    "text": "(c) shall not be af\ufb01 xed to any document or instrument except in the presence of two members of the Board, both of whom shall sign the document or instrument in token of their presence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      224.36,
+      286.48,
+      264.91,
+      297.82
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      198.64,
+      307.28,
+      288.14,
+      318.62
+    ],
+    "text": "STAFF OF THE INSTITUTE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      328.08,
+      365.92,
+      391.42
+    ],
+    "text": "16. (1) The Minister shall, in consultation with the Board, appoint to the staff of the Institute, a Director-General (hereinafter referred to as the \u201cDirector-General\u201d), from among persons who have achieved eminence in the \ufb01 eld of Engineering, Science or Technology whose quali\ufb01 cations and experience shall be prescribed by regulations.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      400.88,
+      365.91,
+      422.62
+    ],
+    "text": "(2) The Director-General appointed under subsection (1) shall be the Chief Executive Of\ufb01 cer of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      432.08,
+      365.93,
+      474.62
+    ],
+    "text": "(3) The emoluments of the Director General shall, in Consultation with the Minister assigned the subject of Finance, be determined by the Board in accordance with the applicable guidelines of the government.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      123.39,
+      485.68,
+      365.92,
+      533.02
+    ],
+    "text": "(4) The Director-General shall, subject to the general direction of the Board, be responsible for the management of the affairs of the Institute, including the administration and management of the of\ufb01 cers and employees of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      53.15,
+      153.71,
+      89.36,
+      172.39
+    ],
+    "text": "Seal of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      53.27,
+      79.01,
+      111.25,
+      131.09
+    ],
+    "text": "Board to exercise its powers and perform its functions under the directions of the Minister",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      52.66,
+      329.41,
+      109.3,
+      348.59
+    ],
+    "text": "Director-General of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "13National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.87,
+      79.48,
+      298.42,
+      153.82
+    ],
+    "text": "(5) (a) The person who holds the of\ufb01 ce of the Director-General shall, unless such person vacates such of\ufb01 ce earlier by death, resignation or removal, hold such of\ufb01 ce until the age of retirement. The age of retirement shall be determined by the Board in accordance with applicable guidelines of the government.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.88,
+      167.68,
+      298.4,
+      191.62
+    ],
+    "text": "(b) The Minister may, for reasons assigned, remove the Director-General from of\ufb01 ce.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.88,
+      205.48,
+      298.42,
+      254.62
+    ],
+    "text": "(6) The office of the Director-General shall become vacant upon the death, removal or retirement from of\ufb01 ce under subsection (5) or resignation by letter addressed to the Minister.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.87,
+      268.48,
+      298.41,
+      431.42
+    ],
+    "text": "(7) Where any vacancy occurs in the of\ufb01 ce of the Director-General, the Minister shall appoint an of\ufb01 cer of the Institute having quali\ufb01 cations and experience speci\ufb01 ed in subsection (1) to exercise and perform the powers and functions of the of\ufb01 ce of the Director-General until an appointment is made under subsection (1) to \ufb01 ll such vacancy. 17. The Director-General may, whenever he considers necessary to do so with the approval of the Board, delegate to any of\ufb01 cer of the Institute, any power or function assigned to him by this Act and such of\ufb01 cer shall exercise and perform such power or function, subject to the direction and control of the Director-General:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.87,
+      446.08,
+      298.42,
+      548.42
+    ],
+    "text": "Provided that, no power or function delegated under subsection (1) of section 13 shall be delegated under this section. 18. (1) The Board may appoint Directors of the Institute, to be in charge of separate divisions of the Institute. The terms and conditions of such employment shall be determined by the Board.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      308.52,
+      358.91,
+      365.16,
+      396.79
+    ],
+    "text": "Director- General may delegate his powers or functions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      307.51,
+      499.91,
+      359.72,
+      518.59
+    ],
+    "text": "Directors of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202514",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      123.39,
+      81.48,
+      365.91,
+      168.42
+    ],
+    "text": "(2) The Directors appointed under subsection (1) shall exercise and discharge their powers and functions assigned from time to time by the Director-General. 19. (1) The Board may appoint such of\ufb01 cers and other employees as may be necessary for the ef\ufb01 cient exercise and discharge of the powers and functions of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      123.39,
+      182.28,
+      365.96,
+      244.02
+    ],
+    "text": "(2) The terms and conditions of employment, including remuneration, the eligibility criteria and the schemes of recruitment of the of\ufb01 cers and employees referred to in subsection (1) shall be determined by the Board in keeping with related guidelines of the Government.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      123.39,
+      257.88,
+      367.14,
+      395.22
+    ],
+    "text": "(3) The Board shall not however appoint any person who has been dismissed from any previous position held by such person in the public or private sector as an of\ufb01 cer or an employee of the Institute. 20. (1) At the request of the Institute, any of\ufb01 cer in the public service may, with the consent of that of\ufb01 cer, and the Public Service Commission established under the Constitution be temporarily appointed to the staff of the Institute for such period as may be determined by the Institute or with like consent be permanently appointed to the staff of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      123.39,
+      409.08,
+      365.93,
+      470.82
+    ],
+    "text": "(2) Where any of\ufb01 cer in the public service temporarily appointed to the staff of the Institute, the provisions of subsection (2) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall, mutatis mutandis, apply to and in relation to such of\ufb01 cer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      123.39,
+      484.68,
+      365.93,
+      546.82
+    ],
+    "text": "(3) Where any of\ufb01 cer in the public service is permanently appointed to the staff of the Institute, the provisions of subsection (3) of section 14 of the National Transport Commission Act, No. 37 of 1991 shall, mutatis mutandis, apply to and in relation to such of\ufb01 cer.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.16,
+      134.51,
+      101.01,
+      162.79
+    ],
+    "text": "Appointment of of\ufb01 cers and employees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.16,
+      323.41,
+      111.97,
+      361.29
+    ],
+    "text": "Appointment of public of\ufb01 cers to the staff of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "15National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      79.98,
+      298.41,
+      187.92
+    ],
+    "text": "(4) Where the Institute employs any of\ufb01 cer in the public service who has entered into a contract with the Government by which he has agreed to serve the Government for a speci\ufb01 ed period, any period of service to the Institute by such of\ufb01 cer shall be regarded as service to the Government for the purpose of discharging the obligations of such contract. PART IV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      159.87,
+      204.18,
+      191.87,
+      215.52
+    ],
+    "text": "FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      231.78,
+      298.39,
+      256.92
+    ],
+    "text": "21. (1) The Institute shall have its own Fund. There shall be credited to the Fund of the Institute -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      273.18,
+      298.42,
+      312.12
+    ],
+    "text": "(a) all sums of money as may be received by the Institute in the exercise and discharge of its powers and functions; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      328.38,
+      298.41,
+      381.12
+    ],
+    "text": "(b) all sums of money as may be received by the Institute by way of loans, donations, gifts or grants from any sources whether in or outside Sri Lanka in terms of paragraph (i) of section 4.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      397.38,
+      298.42,
+      491.52
+    ],
+    "text": "(2) There shall be paid out of the Fund of the Institute all such sums of money required to defray expenditure incurred by the Institute in the exercise and discharge of its powers and functions under this Act. 22. (1) The \ufb01 nancial year of the Institute shall be the calendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      55.87,
+      507.78,
+      298.41,
+      546.72
+    ],
+    "text": "(2) The Institute shall cause proper books of accounts to be kept of the income and expenditure, assets and liabilities and all other \ufb01 nancial transactions of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      307.89,
+      233.41,
+      346.78,
+      252.09
+    ],
+    "text": "Fund of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      307.64,
+      467.91,
+      359.63,
+      496.19
+    ],
+    "text": "Financial year and the audit of accounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202516",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.39,
+      78.48,
+      365.93,
+      116.62
+    ],
+    "text": "(3) The provisions of Article 154 of the Constitution relating to the auditing of accounts of corporations shall apply in relation to the audit of accounts of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.39,
+      132.08,
+      365.91,
+      170.22
+    ],
+    "text": "23. The provisions of Part II of the Finance Act, No. 38 of 1971 shall, mutatis mutandis, apply to and in respect of the \ufb01 nancial control and accounts of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      225.75,
+      185.68,
+      263.53,
+      197.02
+    ],
+    "text": "PART V",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      203.27,
+      212.48,
+      283.49,
+      223.82
+    ],
+    "text": "GENERAL PROVISIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.39,
+      239.28,
+      365.91,
+      277.42
+    ],
+    "text": "24. (1) The Landslide Risk Assessment Report or the Geotechnical Stability Assessment Report shall be issued by the Institute on the request made by any person.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.39,
+      292.88,
+      365.92,
+      491.82
+    ],
+    "text": "(2) Where any relevant authority requests the Institute to monitor compliance of the report issued under subsection (1), the Institute shall monitor and report to such relevant authority the compliance of such report and issue a Certi\ufb01 cate of Conformity. 25. (1) Where any land or any servitude over a land is required by the Institute for the purpose of construction or maintenance of an of\ufb01 ce of the Institute established under this Act, such purpose shall, for the purpose of the Land Acquisition Act (Chapter 460), be deemed to be a public purpose and such land or servitude may be acquired under the Land Acquisition Act by the Government for the Institute and the provisions of the Land Acquisition Act shall apply to and in relation to such acquisition.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.39,
+      507.28,
+      365.91,
+      545.42
+    ],
+    "text": "(2) Any sum payable for the acquisition of such land or servitude under the Land Acquisition Act (Chapter 460) for the Institute shall be paid out of the Fund of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      52.91,
+      240.91,
+      106.25,
+      278.79
+    ],
+    "text": "Issuing of the Landslides Risk Assessment Report etc.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      53.51,
+      133.41,
+      110.17,
+      171.29
+    ],
+    "text": "Application of Part II of the Finance Act, No. 38 of 1971",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      52.91,
+      374.41,
+      105.8,
+      441.09
+    ],
+    "text": "Acquisition of land or a servitude over a land for the Institute under the Land Acquisition Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "17National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.87,
+      78.48,
+      298.43,
+      219.82
+    ],
+    "text": "(3) Where any state land is required for the purpose of the Institute, such purpose shall be deemed to be a purpose for which a special grant or lease of such property may be made under section 6 of the Crown Lands Ordinance (Chapter 454) and, accordingly, the provisions of that Ordinance shall apply to the special grant or lease of that property. 26. (1) The Director-General shall, within six months of the end of each calendar year, transmit an annual report giving full account of the activities of the Institute during that year to the Minister.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.87,
+      234.48,
+      298.4,
+      271.82
+    ],
+    "text": "(2) The Minister shall cause copies of the annual report to be placed in Parliament within three months from the date of such report receipt.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.87,
+      286.48,
+      298.42,
+      531.82
+    ],
+    "text": "(3) The Minister may, from time to time, specify the matters which need to or details that to be included in the annual report. 27. All members of the Board, of\ufb01 cers and employees of the Institute shall be deemed to be public officers within the meaning and for the purpose of the Penal Code (Chapter 19). 28. The Institute shall be deemed to be a Scheduled Institution within the meaning of the Anti-Corruption Act, No. 9 of 2023 and the provisions of that Act shall be construed accordingly. 29. (1) All expenses incurred by the Institute in any suit brought by or against it before any court, shall be paid out of the Fund of the Institute and only costs paid to or recovered by the Institute in any such suit, shall be credited to the Fund of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      310.08,
+      171.41,
+      356.73,
+      180.49
+    ],
+    "text": "Annual report",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      308.11,
+      341.41,
+      360.33,
+      379.29
+    ],
+    "text": "All members of the Board etc. deemed to be public of\ufb01 cers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      309.71,
+      404.91,
+      368.36,
+      433.19
+    ],
+    "text": "Institute deemed to be a Scheduled Institution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      309.71,
+      469.41,
+      360.37,
+      507.29
+    ],
+    "text": "Expenses to be paid out of the Fund of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202518",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      123.39,
+      77.98,
+      365.92,
+      369.32
+    ],
+    "text": "(2) Any expenses incurred by a member of the Board, the Director-General, a Director, any of\ufb01 cer or other employee of the Institute, in any suit or prosecution brought by or against such person before any court in respect of any act which is done or purported to be done by such person under this Act or on the direction of the Minister or the Board, as the case may be, shall, if court holds that such act was done in good faith, be paid out of the Fund of the Institute, unless such expenses are recovered by him in such suit or prosecution. 30. Every person who contravenes or fails to comply with any provision of this Act commits an offence and shall on conviction before a Magistrate be liable to imprisonment of either description for a term not exceeding two years or to a \ufb01 ne not exceeding one hundred thousand rupees or to both such imprisonment and \ufb01 ne. 31. (1) The Minister may make regulations for the purpose of carrying out or giving effect to the principles and provisions of this Act or in respect of any matter which is required by this Act to be prescribed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      123.39,
+      385.98,
+      365.92,
+      439.32
+    ],
+    "text": "(2) Every regulation made by the Minister under subsection (1), shall be published in the Gazette and shall come into operation on the date of such publication or on such later date as may be speci\ufb01 ed in the regulation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      123.39,
+      455.98,
+      365.93,
+      537.32
+    ],
+    "text": "(3) Every regulation made by the Minister under subsection (1) shall, within three months from the date of the publication in the Gazette, be brought before Parliament for approval. Any regulation which is not so approved shall be deemed to be rescinded as from the date of such disapproval but without prejudice to anything previously done thereunder.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      52.01,
+      219.91,
+      108.45,
+      257.79
+    ],
+    "text": "Contravention of the provisions of this Act to be an offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      51.39,
+      317.51,
+      91.61,
+      326.59
+    ],
+    "text": "Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "19National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      55.87,
+      81.48,
+      298.4,
+      106.22
+    ],
+    "text": "(4) Noti\ufb01 cation of the date on which any regulation shall be deemed to be rescinded shall be published in the Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      55.87,
+      121.68,
+      283.34,
+      133.02
+    ],
+    "text": "32. In this Act, unless the context otherwise requires \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.87,
+      148.48,
+      298.4,
+      186.62
+    ],
+    "text": "\u201cbank\u201d means, any bank licensed under the provisions of the Banking Act, No. 30 of 1988;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.87,
+      202.08,
+      298.41,
+      387.62
+    ],
+    "text": "\u201cbuildings\u201d include a structure under construction, partly constructed, or fully constructed as a house, an apartment or a condominium property for human occupation or evacuation center, or a house for resettlement used in disaster management that is in a state of either occupied or vacant or a school, an educational institution, a hotel, an office, a hall, a place of worship, a shop, a shopping complex, a factory or a warehouse of commercial interest or any other similar place where general public may gather;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.87,
+      403.08,
+      298.41,
+      494.82
+    ],
+    "text": "\u201cearly warning\u201d means, the process to generate and disseminate timely and meaningful warning information to enable individuals, and communities threatened by a hazard to prepare and to act appropriately and in suf\ufb01 cient time to reduce the possibility of harm or loss;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.87,
+      510.28,
+      298.41,
+      548.42
+    ],
+    "text": "\u201c\ufb01 nance institute\u201d means, an institute licensed under the provisions of the Finance Business Act, No. 42 of 2011;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      307.64,
+      123.41,
+      353.18,
+      132.49
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202520",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      175.39,
+      78.98,
+      365.92,
+      191.12
+    ],
+    "text": "\u201cGeotechnical instability\u201d means, the instability caused by subsoils that as a result of the circumstances of its composition or a change in environmental conditions has the potential to expand, collapse, disperse or undergo excessive settlement under relatively low stress conditions and cause failure of buildings and structures built on it;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      175.39,
+      204.98,
+      365.93,
+      468.72
+    ],
+    "text": "\u201cGeotechnical Stability Assessment Report\u201d means, a document regarding geotechnical stability concerns, issues in respect of any construction or development activity involving deep excavation, underground excavation, ground improvement work, retaining structures, or substructure construction work which may adversely affect the subject site, adjoining properties and the proposed development, subject to geotechnical assessment on ground slope angle, geological and geotechnical characteristics, geological formation, characteristics of rock discontinuities, behaviour of subsurface water, potential for surface water stagnation, and effect of dewatering and includes necessary conditions, guidelines, technical advice and mitigation measures as may be appropriate;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      175.39,
+      483.38,
+      365.93,
+      544.12
+    ],
+    "text": "\u201chazard zonation map\u201d means, a map that is prepared identifying the area prone to hazards, indicating zones having different levels of susceptibilities and may in addition contain information",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      101.91,
+      42.48,
+      296.37,
+      66.92
+    ],
+    "text": "21National Building Research Institute Act, No. 20 of 2025",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      137.87,
+      78.48,
+      298.41,
+      165.42
+    ],
+    "text": "related to the particular hazards such as sketches of evacuation routes and shelters, evaluation of disaster possibility and frequency, warning and evacuation systems, distribution of settlements, and other basic information related to disaster;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      107.87,
+      179.28,
+      298.41,
+      228.42
+    ],
+    "text": "\u201clandslide\u201d means, any type of mass movement including land subsidence created or to be created due to human activities or natural causes;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      107.87,
+      242.28,
+      298.42,
+      354.42
+    ],
+    "text": "\u201clandslide danger zone\u201d means, an exclusion zone declared by the Institute for a specific period of time to prevent activities taking place therein, including human occupation that may endanger the lives of persons or cause injury and property damage in a particular area subject to an imminent danger of a landslide disaster;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      107.87,
+      368.28,
+      298.41,
+      455.22
+    ],
+    "text": "\u201cLandslide Risk Assessment Report\u201d means, a document issued in respect of any construction or development activity in an area prone to landslides, and includes necessary guidelines, technical advice and mitigation measures as may be appropriate;",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      107.87,
+      469.08,
+      298.4,
+      505.62
+    ],
+    "text": "\u201cMinister\u201d means the Minister to whom this Act is assigned under Article 44 or 45 of the Constitution; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      107.87,
+      519.48,
+      298.4,
+      543.42
+    ],
+    "text": "\u201crelevant authorities\u201d includes every ministry, department, provincial council,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      124.39,
+      42.48,
+      320.37,
+      66.92
+    ],
+    "text": "National Building Research Institute Act, No. 20 of 202522",
+    "fonts": [
+      "Times-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.39,
+      143.91,
+      78.72,
+      152.99
+    ],
+    "text": "Savings",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      205.39,
+      79.98,
+      365.93,
+      129.12
+    ],
+    "text": "provincial ministry and department, and local authority and project approving agencies empowered to approve project proposals for implementation.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      123.39,
+      142.78,
+      365.93,
+      204.12
+    ],
+    "text": "33. (1) The National Building Research Organisation established pursuant to the Decision of the Cabinet of Ministers (Cabinet Decision No. 07/0435/343/002 of April 4, 2007) shall cease to operate with effect from the date of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      123.39,
+      217.78,
+      365.94,
+      341.62
+    ],
+    "text": "(2) (a) All of\ufb01 cers and employees of the National Building Research Organisation who were in employment in such Organisation on the day immediately preceding the date of commencement of this Act, and who have not reached their respective ages of retirement as at the date of commencement of this Act, shall be offered employment with effect from the date of commencement of this Act in the Institute, on terms and conditions not less favorable to the terms and conditions of employment applicable to them on the day immediately preceding the date of commencement of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      123.39,
+      355.28,
+      365.92,
+      404.12
+    ],
+    "text": "(b) Any of\ufb01 cer and employee referred to in paragraph (a), who wishes to opt out of employment in the Institute, may do so within six months from the date on which he was offered employment in the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      123.39,
+      417.78,
+      365.93,
+      517.12
+    ],
+    "text": "(c) If any such officer or employee as referred to in paragraph (b) exercises his option not to accept the offer, he shall be paid compensation under a voluntary retirement scheme to be implemented in that behalf, with the approval of the Minister and the Minister assigned the subject of Finance. 34. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.78,
+      495.2,
+      111.74,
+      523.47
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      62.28,
+      548.04,
+      363.92,
+      566.71
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OF GOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

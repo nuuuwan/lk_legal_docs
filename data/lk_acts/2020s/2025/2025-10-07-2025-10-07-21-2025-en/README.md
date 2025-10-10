@@ -1,0 +1,381 @@
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5Price : Rs. 60.00 Pos tage : Rs. 150.00
+
+This Act can be downloaded from www.documents.gov.lk
+
+PARLIAMENT OF THE DEMOCRATICSOCIALIST REPUBLIC OFSRI LANKA
+
+CONVENTION AGAINST DOPING IN SPORT (AMENDMENT) ACT, No. 21 OF 2025
+
+[Certified on 07th of October, 2025]
+
+Printed on the Order of Government
+
+Published as a Supplement to Part II of the Gazette of the Democratic Socialis t Republic of Sri Lanka of October 10, 2025
+
+1Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+L.D. - O. 9/2025
+
+[Certified on 07th of October, 2025]
+
+Short title
+
+Amendment of section 2 of Act, No. 33 of 2013
+
+Repeal of Part I of the principal enactment
+
+Amendment of section 5of the principal enactment
+
+PL 15440 - 868 (09/2025)
+
+An Act to amend the Convention against Doping in Sport Act, No. 33 of 2013
+
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -
+
+1. This Act may be cited as the Convention against Doping in Sport (Amendment) Act, No. 21 of 2025.
+
+2. Section 2 of the Convention against Doping in Sport Act, No. 33 of 2013 (in this Act referred to as the ‟principal enactment”) is hereby amended in paragraph (e) of that section, by the substitution for the words “Sri Lanka or abroad.”, of the words “Sri Lanka.”.
+
+3. Part I of the principal enactment is hereby repealed.
+
+4. Section 5 of the principal enactment is hereby amended as follows: -
+
+(1) by the repeal of subsection (1) of that section and the substitution therefor, of the following subsection: -
+
+“(1) A Therapeutic Use Exemption (in this Act referred to as a “TUE”) may be granted to an athlete with a medical condition, permitting the use of a prohibited substance or prohibited method by the athlete when participating at any sports event, only if the conditions set forth in the rules are satisfied.”; and
+
+2Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(2) in subsection (2) of that section, by the substitution for the words “an application not less than thirty days”, of the words “an application as soon as possible, and for substances prohibited in-competition only, not less than thirty days” and for the word “should”, of the word “shall”.
+
+5. Section 6 of the principal enactment is hereby amended by the repeal of subsections (2), (3), (4) and (5) of that section and the substitution therefor, of the following subsections:-
+
+“(2) (a) The TUE Committee shall consist of not less than three members who shall be persons having experience in clinical, sports and exercise medicine. One of the said members shall be a representative of the Consultant in Sports Medicine of the Ministry of the Minister assigned the subject of Health.
+
+(b) The members shall, at the point of being appointed, disclose any conflict of interest which may exist. The Sri Lanka Anti-Doping Agency established under section 10, shall thereupon take steps to appoint another person in place of such member. (3) Upon receipt of an application for review under subsection (1), the TUE Committee shall consider such application along with the evidence and documents in support of the TUE and make a decision either granting or refusing the grant of the TUE requested by the athlete.
+
+(4) In arriving at its decision, the TUE Committee shall follow the provisions in the International Standard for Therapeutic Use Exemptions as provided in the rules.
+
+Amendment of section 6 of the principal enactment
+
+3Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+Replacement of section 7 of the principal enactment
+
+(5) The TUE Committee shall communicate its decision to the Sri Lanka Anti-Doping Agency assigning reasons for such decision.”.
+
+6. Section 7 of the principal enactment is hereby repealed and the following section is substituted therefor: - 7. (1) The Sri Lanka Anti-Doping Agency shall forthwith communicate the decision of the TUE Committee to the athlete. (2) The TUE shall set out clearly the prohibited substance or prohibited method in respect of which the TUE is granted and the period for which such exemption is so granted, along with any other conditions.
+
+(3) Any person aggrieved by the decision of the TUE Committee under section 6 may prefer an appeal to the Appeal Panel appointed under section 26.”. 7.7. Section 8 of the principal enactment is hereby repealed and the following section is substituted therefor: -
+
+8. A TUE granted in accordance with the provisions of this Part shall not be applicable, where -
+
+(a) the athlete does not comply with the requirements or conditions subject to which the TUE has been granted;
+
+(b) the period for which the TUE was granted has expired; or
+
+“TUE to set out relevant conditions.
+
+“Validity of a TUE.
+
+Replacement of section 8 of the principal enactment
+
+4Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(c) the decision of the TUE Committee is reversed as per the rules.”.
+
+8. Section 12 of the principal enactment is hereby amended by the repeal of paragraph (b) of that section and the substitution therefor, of the following paragraph: -
+
+“(b) to take measures against anti-doping rule violations;”. 9. The following new heading is hereby inserted immediately above section 13 of the principal enactment: -
+
+“PART IIIa
+
+Constitution of the Board of Governors”.
+
+10. Section 13 of the principal enactment is hereby amended as follows:- (1) by the repeal of subsection (1) of that section and the substitution therefor, of the following subsection: -
+
+“(1) The oversight of the affairs of the Agency shall be vested in a Board of Governors (in this Act referred to as the “Board”).”;
+
+(2) in subsection (2) of that section, by the substitution for the word “administering”, of the word “overseeing”; and
+
+(3) by the repeal of the marginal note to that section and the substitution therefor, of the following marginal note: -
+
+“Oversight of the Agency to be vested in the Board.”.
+
+Amendment of section 12 of the principal enactment
+
+Insertion of a new heading in the principal enactment
+
+Amendment of section 13 of the principal enactment
+
+5Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+11. Section 14 of the principal enactment is hereby amended by the repeal of subsections (1) and (2) of that section and the substitution therefor, of the following subsections: -
+
+“(1) The Board shall consist of the following: -
+
+(a) ex-officio members, namely-
+
+(i) an officer not below the rank of Senior Assistant Secretary of the Ministry of the Minister assigned the subject of Sports, nominated by the Secretary of such Ministry;
+
+(ii) the Director-General of Health Services or his nominee;
+
+(iii) the Director-General of the National Institute of Sports Medicine;
+
+(iv) an officer not below the rank of Deputy Solicitor General of the Attorney-General’s Department, nominated by the Attorney-General; and
+
+(v) an officer not below the rank of Senior Assistant Secretary of the Ministry of the Minister assigned the subject of Finance, nominated by the Secretary of such Ministry; and
+
+(b) two members distinguished in the field of law, medicine or sports science having a minimum of fifteen years of experience, appointed by the Minister (in this Act referred to as the “appointed members”).
+
+Amendment of section 14 of the principal enactment
+
+6Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(2) The Minister shall appoint one of the appointed members as the Chairman of the Board on the recommendation of the majority decision of the ex-officio members of the Board. The Chairman so appointed shall hold office for a term of three years and shall be eligible for reappointment.”.
+
+12. Section 15 of the principal enactment is hereby repealed.
+
+13. Section 16 of the principal enactment is hereby repealed.
+
+14. Section 17 of the principal enactment is hereby amended in subsection (2) of that section, by the substitution for the words “The Minister may if he considers it expedient to do so, remove,”, of the words “If the majority of the members of the Board considers it expedient to do so, the Board may remove,”.
+
+15. Section 18 of the principal enactment is hereby amended as follows:-
+
+(1) in subsection (4) of that section, by the substitution for the word “four”, of the word “three”;
+
+(2) in subsection (5) of that section, by the substitution for the words “with the approval of the Minister,”, of the words “with the approval of the majority of the members of the Board,”; and
+
+Repeal of section 15 of the principal enactment
+
+Repeal of section 16 of the principal enactment
+
+Amendment of section 17 of the principal enactment
+
+Amendment of section 18 of the principal enactment
+
+7Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(3) by the repeal of subsection (6) of that section and the substitution therefor, of the following subsection: -
+
+“(6) Subject to the provisions of this Act, rules may be made, regulating the procedure to be followed with regard to the conduct of the meetings of the Board and transaction of business at such meetings.”.
+
+16. Section 19 of the principal enactment is hereby repealed.
+
+17. Section 20 of the principal enactment is hereby repealed.
+
+18. Section 22 of the principal enactment is hereby amended as follows:-
+
+(1) in subsection (1) of that section, by the substitution for the words “in the field of medicine or sports medicine”, of the words “in the field of medicine, law, sports administration or sports science”; and
+
+(2) by the repeal of subsection (2) of that section and the substitution therefor, of the following subsection: -
+
+“(2) The Director-General shall exercise, perform and discharge such powers, duties and functions as may be assigned to the Director-General under the provisions of
+
+Repeal of section 19 of the principal enactment
+
+Repeal of section 20 of the principal enactment
+
+Amendment of section 22 of the principal enactment
+
+8Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+this Act and in accordance with the rules and regulations made thereunder.”.
+
+19. The following new heading is hereby inserted immediately above section 23 of the principal enactment: -
+
+“PART IIIb
+
+Establishment of Committees and Panels to conduct hearings of Anti-Doping Rule Violations”.
+
+20. Section 23 of the principal enactment is hereby amended as follows:-
+
+(1) in subsection (1) of that section-
+
+(a) in paragraph (e) of that subsection, by the substitution for the words “Where a member of Committee or Panel”, of the words and figures “Where a member of a Committee or Panel other than the Anti-Doping Appeal Panel appointed under section 26,”;
+
+(b) in paragraph (i) of that subsection, by the substitution for the words “The Athlete or a member of his entourage, Agency, the International Federation, the National Sports Association and WADA”, of the words “The athlete or athlete support personnel, the Agency, the International Federation, the National Association of Sports and the World Anti-Doping Agency (WADA)”;
+
+(c) in paragraph (j) of that subsection, by the substitution for the words “The Athlete or a
+
+Insertion of a new heading in the principal enactment
+
+Amendment of section 23 of the principal enactment
+
+9Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+member of his entourage”, of the words “The athlete or athlete support personnel” and for the words “The Athlete or related person”, of the words “The athlete or athlete support personnel”;
+
+(d) in paragraph (m) of that subsection, by the substitution for the words “the Athlete or Person concerned.”, of the words “the athlete or athlete support personnel.”; and
+
+(e) in paragraph (n) of that subsection, by the substitution for the words “the Athlete or a member of his entourage, Agency, the International Federation, the National Association of Sports and WADA”, of the words “the athlete or other Person, the Agency, the International Federation, the National Association of Sports and the World Anti-Doping Agency (WADA)”;
+
+(2) by the repeal of subsection (2) of that section and the substitution therefor, of the following subsection: -
+
+“(2) The Board shall appoint a pool of members, who shall constitute the first instance hearing body to be called the “Sri Lanka Anti-Doping Disciplinary Panel” (in this Act referred to as the “Disciplinary Panel”). Such pool shall consist of-
+
+(a) two persons from among lawyers who have more than five years’ experience in court appearances;
+
+10Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(b) three persons from among medical practitioners who have more than five years’ experience in the field of sports medicine; and
+
+(c) three persons who shall have previous experience in sports administration.”; and
+
+(3) by the addition immediately after subsection (2) of that section, of the following new subsections which shall have effect as subsections (3), (4) and (5) of that section: -
+
+“(3) The Minister shall appoint one of the members specified in subsection (2) as the Chairman of the Disciplinary Panel.
+
+(4) The Chairman shall appoint the other members of a Disciplinary Panel which shall not exceed three members including the Chair-man.
+
+(5) The Board may pay the Chairman and the other members of the Disciplinary Panel such remuneration or allowance as may be de-cided by the Board with the concurrence of the Minister assigned the subject of Finance.”.
+
+21. PART IV of the principal enactment is hereby repealed and the following PART is substituted therefor: -
+
+Replacement of PART IV of the principal enactment
+
+11Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+“PART IV
+
+Disciplinary procedure and appeals procedure in relation to Anti-Doping Rule Violations
+
+24. On fulfilling the pre-adjudication procedures established under the rules, the Agency, on being satisfied based on evidential information, may assert that an athlete or other Person has committed an anti-doping rule violation set out in the rules.
+
+25. (1) The Agency shall notify in writing any assertion made under section 24 to the relevant athlete or other Person. The Agency shall also inform the respective foreign national anti-doping body when applicable, the International Federation, the National Association of Sports and the World Anti-Doping Agency (WADA).
+
+(2) Where the Agency makes such an assertion and the athlete or other Person does not waive the right to a hearing within the time provided to do so under the rules, the Agency shall notify the Disciplinary Panel appointed under section 23 and request that a hearing be conducted in accordance with the guidelines specified under the rules.
+
+(3) The Agency shall forward to the Disciplinary Panel all documentation relevant to the anti-doping rule violation available to them.
+
+(4) The Disciplinary Panel shall, after considering all documents and evidence, make a decision and communicate such decision to the Agency and to the athlete or athlete support personnel.
+
+Situation of an anti-doping rule violation.
+
+Steps to be taken if the Agency asserts an anti-dopingrule violation.
+
+12Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+(5) The athlete or other Person who is alleged to have committed the anti-doping rule violation asserted under subsection (1), may appeal to the Appeal Panel appointed under section 26.
+
+26. (1) The Minister shall appoint a pool of six members who have distinguished themselves in the field of law or medicine, to constitute the Anti-Doping Appeal Panel (in this Act referred to as the “Appeal Panel”). The Appeal Panel shall have the possibility, where necessary, to co-opt as a member to the panel any person who possesses the required knowledge and expertise in the relevant field related to a particular matter.
+
+(2) The Appeal Panel shall hear and determine any appeal made to it in accordance with the rules.
+
+26a. An appeal to the Appeal Panel from a decision of the TUE Committee shall be made within such period and in such manner as provided for by rules.
+
+26b. (1) Where a decision of the Disciplinary Pannel under section 25 does not involve an International Level Athlete or International Event, the parties specified by the rules shall have a right to appeal against such decision to the Appeal Panel.
+
+(2) Where no other party has appealed against a decision of the Disciplinary Panel under subsection (1), the World Anti-Doping
+
+Appeals from the decision of the TUE Commitee.
+
+Appeals from the decision of the Disciplinary Panel involving a National Level Athlete or Non International Event.
+
+Appointment of an Appeal Panel.
+
+13Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+Appeals from the decision of the Disciplinary Panel involving an International Level Athlete or International Event.
+
+Appeals from the decision of the Appeal Panel.
+
+Agency (WADA) may appeal directly to the Court of Arbitration for Sport without preferring an appeal to the Appeal Panel in respect of such decision.
+
+(3) (a) An appeal to the Appeal Panel under subsection (1) shall be made in accordance with the rules.
+
+(b) An appeal to the Appeal Panel by the World Anti-Doping Agency (WADA) shall be made within the time period specified by the rules.
+
+26c. Where a decision of the Disciplinary Panel under section 25 involves an International Level Athlete or International Event, the parties specified by the rules shall have a right to appeal against such decision directly to the Court of Arbitration for Sport.
+
+26d. (1) The decisions of the Appeal Panel shall only be appealed to the Court of Arbitration for Sport in relation to the circumstances and by the parties permitted by the World Anti-Doping Code and International Standard for Results Management, as provided in the rules made under section 33.
+
+(2) It shall be the duty of the Agency to provide the relevant information to any party referred to in subsection (1) if the Court of Arbitration for Sport so directs.
+
+14Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+27. Where any athlete has been found to have acted in contravention of the rules, such athlete may be punished in terms of the applicable provisions of the rules.”.
+
+22. Section 28 of the principal enactment is hereby amended in paragraph (c) of subsection (2) of that section, by the substitution for the words “whether in or outside Sri Lanka.” of the following: - “whether in or outside Sri Lanka:
+
+Provided however, the Agency shall obtain prior written approval of the Department of External Resources in respect of all foreign donations, gifts or grants.”.
+
+23. The following new sections are hereby inserted immediately after section 31 of the principal enactment and shall have effect as sections 31a and 31b of that enactment: -
+
+31a. The Agency shall be deemed to be a Scheduled Institution, within the meaning of the Anti-Corruption Act, No. 9 of 2023, and the provisions of that Act shall be construed accordingly.
+
+31b. All members, officers and other employees of the Agency shall be deemed to be public servants within the meaning, and for the purposes, of the Penal Code (Chapter 19).”.
+
+“Agency deemed to be a Scheduled Institution within the meaning of the Anti- Corruption Act.
+
+Consequences of an adverse decision by the Appeal Panel.
+
+Members, officers and other employees of the Agency deemed to be public servants.
+
+Amendment of section 28 of the principal enactment
+
+Insertion of new sections 31a and 31b in the principal enactment
+
+15Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+Amendment of section 33 of the principal enactment
+
+Amendment of section 34 of the principal enactment
+
+Amendment of section 36 of the principal enactment
+
+24. Section 33 of the principal enactment is hereby amended by the repeal of subsection (1) of that section and the substitution therefor, of the following subsection: -
+
+“(1) The Agency shall make rules to implement the applicable provisions of the World Anti-Doping Code within its powers, duties and functions.”.
+
+25. Section 34 of the principal enactment is hereby amended in subsection (3) of that section, by the substitution for the words “not later than sixty days”, of the words “not later than ninety days”.
+
+26. Section 36 of the principal enactment is hereby amended as follows: -
+
+(1) by the insertion immediately after the definition of the expression “athlete”, of the following new definition: -
+
+““athlete support personnel” means any coach, trainer, manager, agent, team staff, official, medical or paramedical personnel, parent or any other person working with, treating or assisting an athlete participating in or preparing for sports competition;”;
+
+(2) by the repeal of the definition of the expression “CAS”;
+
+(3) by the repeal of the definition of the expression “Code”; (4) by the insertion immediately after the definition of the expression “competition”, of the following new definition:-
+
+16Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+““Court of Arbitration for Sport” means the Court of Arbitration for Sport estab-lished by the International Olympic Committee;”;
+
+(5) by the repeal of the definition of the expression “in-competition testing” and the substitution therefor, of the following definitions: -
+
+““in-competition” means the period commencing at 11:59 p.m. on the day before a competition in which the athlete is scheduled to participate through the end of such competition and the sample collection process related to such competition;
+
+“information” includes data, text, images, sounds, codes, databases or microfilm; “International Level Athlete” means an athlete who competes in sport at the international level, as defined by each International Federation consistent with the International Standard for Testing and Investigations;
+
+“Person” means a natural person or an organization or other entity;”; (6) by the repeal of the definition of the expression “sports organization”;
+
+(7) by the repeal of the definitions of the expressions “Therapeutic Use Exemption (TUE)” and “use” and the substitution therefor, of the following definitions, respectively: -
+
+17Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+““Therapeutic Use Exemption (TUE)”, in relation to PART II of this Act, means an exemption granted to an athlete with a medical condition, in accordance with the World Anti-Doping Code and the International Standard for Therapeutic Use Exemptions as set out in the rules made under section 33;
+
+“use” means the utilization, application, ingestion, injection or consumption by any means whatsoever of any prohibited substance or prohibited method;”; and
+
+(8) by the addition immediately after the definition of the expression “World Anti-Doping Agency (WADA)”, of the following new definition: -
+
+““World Anti-Doping Code” means the World Anti-Doping Code adopted by the World Anti-Doping Agency (WADA) on March 5, 2003, at Copenhagen, as amended from time to time.”.
+
+27. Notwithstanding the provisions of this Act, all suits, prosecutions, actions, proceedings, matters or things which have been instituted in, and are pending before the High Court of Sri Lanka holden in Colombo or the High Court of the Province established under Article 154P of the Constitution for the Western Province holden in Colombo on the day immediately preceding the date of commencement of this Act shall be heard under the provisions of the Act under which such was instituted and be concluded by such Court.
+
+Transitional Provisions
+
+18Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+28. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
+
+Sinhala text to prevail in case of inconsistency
+
+20Convention against Doping in Sport (Amendment) Act, No. 21 of 2025
+
+English Acts of the Parliament can be purchased at the “prakashana piyasa”, Department of Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.
