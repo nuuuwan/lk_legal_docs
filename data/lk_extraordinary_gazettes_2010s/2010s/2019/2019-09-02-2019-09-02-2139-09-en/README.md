@@ -1,0 +1,47 @@
+PART III - LANDS Title Registration AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 71 of Block 03 contained in the Cadastral Map No. 520016 situated in the village of Mambul-goda within the Grama Niladhari Division of No. 500A Mambulgoda in the Divisional Secretary’s Division of Homagama in the Dis-trict of Colombo in the Province of Western published in the Gazette Extraordinary No. 1705/18 of 10th May, 2011. “Jayasooriya Arachchige Nanadawathie” mentioned in the column “Full Name/s of Owner/s and Address “ is amended as “Jayasinghege Nishantha Jayasinghe” and “506053870v” mentioned in the column “National Identity Card No” is amended as “802751613v” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/1
+
+(Published by Authority)
+
+ ලංකා ජාතා ක සමාජවා ජනරජෙ ගැස පය
+
+අ ෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක 2139/09 - 2019 සැතැබ 02 වැ සදා - 2019.09.02
+
+No. 2139/09 – MONDAY, SEPTEMBER 02, 2019
+
+N.B.– This Extraordinary Gazette can be downloaded from www.documents.gov.lk
+
+1A - G 30865 - 14 (2019/09)
+
+2 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.02 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 02.09.2019
+
+AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 07 of Block 02 contained in the Cadastral Map No. 510406 situated in the village of Yata-gama within the Grama Niladhari Division of No. 99/4, Yatagama in the Divisional Secretary’s Division of Minuwangoda in the Dis-trict of Gampaha in the Province of Western published in the Gazette Extraordinary No. 1846/35 of 22nd January, 2014. “Hectare 2.5367” mentioned in the column of “Extent (Hectare)” is amended as “Hectare 2.4862”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/2 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 325 of Block 04 contained in the Cadastral Map No. 420369 situated in the village of Heraliy-awala within the Grama Niladhari Division of No. 817 Heraliyawala in the Divisional Secretary’s Division of Kurunegala in the District of Kurunegala in the Province of North Western published in the Gazette Extraordinary No. 2123/61 of 16th May, 2019. “325” mentioned in the column “Parcel No.” is amended as “326”. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/3 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 46 of Block 05 contained in the Cadastral Map No. 320461 situated in the village of Polwat-tha within the Grama Niladhari Division of No. 420 Polwattha in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2076/27 of 21st June, 2018.
+
+3 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.02 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 02.09.2019
+
+“The lease holder, Karavugahange Piyaralalage Gamini Rajarathna of No 70/3/1, River Side Gardens, Sumangala Mawatha, Katugasthota” is inserted into the column “Particulars Regarding Mortgages Encumbrances Pending Adjudication and Injunction” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/4 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 48 of Block 05 contained in the Cadastral Map No. 320461 situated in the village of Polwat-tha within the Grama Niladhari Division of No. 420 Polwattha in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2076/27 of 21st June, 2018. “The lease holder, Korape Jayasekara Mudiyanselage Yashodara Mandhi of No 187, Mendis Place, Patana, Hatton” is in-serted into the column “Particulars Regarding Mortgages Encumbrances Pending Adjudication and Injunction”
+
+P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/5 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 56 of Block 05 contained in the Cadastral Map No. 320461 situated in the village of Polwat-tha within the Grama Niladhari Division of No. 420 Polwattha in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2076/27 of 21st June, 2018. “The lease holder, Korape Jayasekara Mudiyanselage Tikiri Banda of No 438, Buddha Yaya, Galamuna Hingurakgoda” is inserted into the column “Particulars Regarding Mortgages Encumbrances Pending Adjudication and Injunction”
+
+P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019
+
+09 - 524/6
+
+4 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.02 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 02.09.2019
+
+AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 60 of Block 05 contained in the Cadastral Map No. 320461 situated in the village of Polwat-tha within the Grama Niladhari Division of No. 420 Polwattha in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2076/27 of 21st June, 2018. “The lease holder, Chandra Yoganandani of No 70E, Riverside Gardens Katugastota” is inserted into the column “Particulars Regarding Mortgages Encumbrances Pending Adjudication and Injunction” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/7 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 49 of Block 05 contained in the Cadastral Map No. 320501 situated in the village of Senarath-gama within the Grama Niladhari Division of 424 Senarathgama South in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2114/67 of 15th March, 2019. “0.0243” mentioned in the column “Extent (Hectare) is amended as “Hectare 0.0423” and “Amila Kamilini Ranawaka men-tioned in the column “Full Name/s of Owner/s and Address” is amended as Amila Kamalini Ranawaka.” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/8 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 51 of Block 05 contained in the Cadastral Map No. 320501 situated in the village of Senarath-gama within the Grama Niladhari Division of No. 424 Senarathgama South in the Divisional Secretary’s Division of Harispatthuwa in the District of Kandy in the Province of Central published in the Gazette Extraordinary No. 2114/67 of 15th March, 2019.
+
+5 A
+
+III ෙකටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.09.02 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 02.09.2019
+
+“672642388v” mentioned in the column “National Identity Card No” is amended as “555222688v” and “55/3/B, Senarath-gama, Katugastota” in the column “Full Name/s of Owner/s and address “is amended as 55/2/B, Senarathgama, Katugastota. P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/9 AMENDMENT REGISTRATION OF TITLE ACT, NO. 21 OF 1998 (Section 14) In regard to the title to parcel of land No. 38 of Block 01 contained in the Cadastral Map No. 320172 situated in the village of Godawe-lawattha within the Grama Niladhari Division of No. 1139 Nawagurukele in the Divisional Secretary’s Division of Doluwa in the Dis-trict of Kandy in the Province of Central published in the Gazette Extraordinary No. 1530/26 of 03rd January, 2008. “Hectare 0.329” mentioned in the column of “Extent (Hectare)” is amended as “Hectare 0.295” P.M.H. PRIYADARSHANI, Commissioner of Title Settlement. (Covering up duties) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 20th August, 2019 09 - 524/10
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
