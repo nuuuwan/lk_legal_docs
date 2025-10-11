@@ -1,0 +1,27 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 14:1, 14:2, 14:3, 14:4, 14:5, 14:6 and 14:7 of Block 02, contained in the Cadastral Map No. 320057, situated in the Village of Godagama, within the Grama Niladhari Division of No. 1117 - Godagama in the Divisional Secretary's Division of udapalatha, in the District of kandy, in the Province of Central, referred to in Notice calling for claims to land parcels which was duly published in the Gazette No. 2414/59 of 13th December, 2024 in terms of Section 55 of the Registration of Title Act, No.21 of 1998. P.C. D. SIGERA, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 22nd August, 2025
+
+අංක 2453/29 - 2025 සැප්තැම්බර් මස 11 වැනි බහස්පතින්දා - 2025.09.11
+
+No. 2453/29 – THURSDAY, SEPTEMBER 11, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 045338 - 04 (09/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.11 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.09.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 14:1 0.0007 Gampola Municipal Council – Full 1st Class – Cement Drain 14:2 0.0020 Aluthgedara Dilani Manjula 766030831V Full 1st Class – – No. 43, Singhapitiya, Gampola 14:3 0.0070 Aluthgedara Manel Sujanjani 198073202141V Full 1st Class Subject to the – No. 43, Singhapitiya, Gampola Life Interest of Aluthgedara Alis Nona 14:4 0.0014 Aluthgedara Manel Sujanjani 198073202141V Full 1st Class – – No. 43, Singhapitiya, Gampola 14:5 0.0014 Aluthgedara Nilanthi Pradeepika 686930041V Full 1st Class – – No. 43, Singhapitiya, Gampola 14:6 0.0015 Aluthgedara Manel Ranjani 667201047V Full 1st Class – – No. 43, Singhapitiya, Gampola 14:7 0.0002 Private – Full 1st Class – Trenched Drain for commonly use of parcel Nos. 14:1, 14:2, 14:3, 14:4, 14:5, 14:6 and 14:7 EOG 09 - 0091/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 1:57 of Block 01, contained in the Cadastral Map No. 320058, situated in the Village of Aerugoda, within the Grama Niladhari Division of No. 1113 - Aerugoda in the Divisional Secretary's Division of udapalatha, in the District of kandy, in the Province of Central, referred to in Notice calling for claims to land parcels which was duly published in the Gazette No. 2422/62 of 07th February, 2024 in terms of Section 55 of the Registration of Title Act, No.21 of 1998. P.C. D. SIGERA, Commissioner General of Land Title Settlement Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 22nd August, 2025
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.09.11 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 11.09.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:57 0.0331 Mohamad Naseem Mohamad 199002100590 Full 1st Class – – Rumeis No. 113/30, Nawalapitiya Road, Mariyawatta, Gampola EOG 09 - 0091/2

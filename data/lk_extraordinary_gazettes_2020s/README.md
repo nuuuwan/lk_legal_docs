@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_11:19:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_11:50:50-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,194** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**240.5 MB**), from **2020-01-01** to **2025-10-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,209** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**275.9 MB**), from **2020-01-01** to **2025-10-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (0%), **TXT** (0%) & **🤗 Hugging Face** (0%)
+- In **JSON**, **PDF** (1%), **TXT** (1%) & **🤗 Hugging Face** (1%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -47,20 +47,20 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-06 | `2025-10-06-2457-01-en` | Sri Lanka Customs - Rates of Exchange with effect from. 06.10.2025 to 12.10.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-06-2025-10-06-2457-01-en)
 - 2025-10-04 | `2025-10-04-2456-85-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Maharagama Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-04-2025-10-04-2456-85-si)
 - 2025-10-04 | `2025-10-04-2456-85-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Maharagama Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-04-2025-10-04-2456-85-en)
+- 2025-10-04 | `2025-10-04-2456-81-en` | Office of the Governor - Uva Province - Appointment Made by the Governor of Uva Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-04-2025-10-04-2456-81-en)
 - 2025-10-03 | `2025-10-03-2456-73-si` | Ministry of Labour - The Wages Boards Ordinance. Nominated Members of the Wages Board. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-73-si)
 - 2025-10-03 | `2025-10-03-2456-73-en` | Ministry of Labour - The Wages Boards Ordinance. Nominated Members of the Wages Board. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-73-en)
 - 2025-10-03 | `2025-10-03-2456-72-ta` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-ta)
 - 2025-10-03 | `2025-10-03-2456-72-si` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-si)
 - 2025-10-03 | `2025-10-03-2456-72-en` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-en)
+- 2025-10-03 | `2025-10-03-2456-69-si` | Land Title Settlement Dept - Thopawewa,Thamankaduwa D/S/D, Polonnaruwa District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-69-si)
+- 2025-10-03 | `2025-10-03-2456-69-en` | Land Title Settlement Dept - Thopawewa,Thamankaduwa D/S/D, Polonnaruwa District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-69-en)
 - 2025-10-03 | `2025-10-03-2456-61-ta` | 2456/61 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-61-ta)
 - 2025-10-03 | `2025-10-03-2456-61-si` | 2456/61 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-61-si)
 - 2025-10-03 | `2025-10-03-2456-61-en` | 2456/61 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-61-en)
+- 2025-10-03 | `2025-10-03-2456-60-si` | Hambantota Municipal Council - Programmed Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-60-si)
+- 2025-10-03 | `2025-10-03-2456-60-en` | Hambantota Municipal Council - Programmed Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-60-en)
 - 2025-10-03 | `2025-10-03-2456-59-si` | Department of Animal Production and Health - Animal Diseases Act. No 59 of 1992 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-59-si)
-- 2025-10-03 | `2025-10-03-2456-59-en` | Department of Animal Production and Health - Animal Diseases Act. No 59 of 1992 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-59-en)
-- 2025-10-03 | `2025-10-03-2456-58-si` | Department of Census and Statistics - The Census Ordinance (Chapter 143) Appointed Superintendent of Census. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-58-si)
-- 2025-10-03 | `2025-10-03-2456-58-en` | Department of Census and Statistics - The Census Ordinance (Chapter 143) Appointed Superintendent of Census. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-58-en)
-- 2025-10-02 | `2025-10-02-2456-47-ta` | Cost Conservation and Coastal Resource Management Dept.- Environmental Impact Assessment Report | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-02-2025-10-02-2456-47-ta)
-- 2025-10-02 | `2025-10-02-2456-47-si` | Cost Conservation and Coastal Resource Management Dept.- Environmental Impact Assessment Report | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-02-2025-10-02-2456-47-si)
 
 ---
 
