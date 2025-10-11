@@ -1,0 +1,51 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No.1:132, 1:134, 1:135, 1:137, 1:138, 1:139, 1:140, 1:141, 1:142, 1:143, 1:144, 1:145, 1:146, 1:147, 1:148, 1:149, 1:150, 1:151 of Block 2, contained in the Cadastral Map No. 110204, situated in the Village of Wanniyankulama within the Grama Niladhari Division of No. 247 - Wanniyankulama VI in the Divisional Secretary's Division of Nuwara Gampalatha East, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0523 calling for claims to land parcels which was duly published in the Gazette No. 2388/36 of 15th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd July, 2025
+
+අංක 2450/18 - 2025 අෙගෝස්තු මස 19 වැනි අඟහරුවාදා - 2025.08.19
+
+No. 2450/18 – TUESDAY, AUGUST 19, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 045178 - 04 (08/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.08.19 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.08.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:132 0.0525 The State _ Full 1st Class – Road 1:134 0.0041 The State _ Full 1st Class – Road 1:135 0.0313 The State _ Full 1st Class – _ 1:137 0.0623 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura 1:138 0.0292 The State _ Full 1st Class – _ 1:139 0.0286 The State _ Full 1st Class – _ 1:140 0.0289 The State _ Full 1st Class – _ 1:141 0.0502 The State _ Full 1st Class – _ 1:142 0.0253 The State _ Full 1st Class – _ 1:143 0.0068 The State _ Full 1st Class – Road 1:144 0.0184 The State _ Full 1st Class – _ 1:145 0.1010 The State _ Full 1st Class – _ 1:146 0.0408 The State _ Full 1st Class – _ 1:147 0.0104 The State _ Full 1st Class – Road 1:148 0.0060 The State _ Full 1st Class – Cement Drain 1:149 0.0019 The State _ Full 1st Class – Road 1:150 0.0506 The State _ Full 1st Class – _ 1:151 0.0045 The State _ Full 1st Class – _ EOG 08 - 0211/1 ________________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No.1:1, 1:3, 1:11 of Block 7, contained in the Cadastral Map No. 110197, situated in the Village of Ichchankulama within the Grama Niladhari Division of No. 279 - Mahakalaththewa in the Divisional Secretary's Division of Nuwara Gampalatha East, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0525 calling for claims to land parcels which was duly published in the Gazette No. 2388/36 of 15th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd July, 2025
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.08.19 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.08.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:1 0.2025 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura 1:3 0.0301 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura 1:11 0.0528 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura EOG 08 - 0211/2 _________________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No.1:9 of Block 6, contained in the Cadastral Map No. 110197, situated in the Village of Ichchankulama within the Grama Niladhari Division of No. 279 - Mahakalaththewa in the Divisional Secretary's Division of Nuwara Gampalatha East, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0524 calling for claims to land parcels which was duly published in the Gazette No. 2388/36 of 15th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd July, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:9 0.0442 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura EOG 08 - 0211/3
+
+4 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.08.19 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.08.2025
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No.2:24 of Block 5, contained in the Cadastral Map No. 110201, situated in the Village of Gnanikkulama within the Grama Niladhari Division of No. 238 - Gnanikkulama in the Divisional Secretary's Division of Nuwara Gampalatha East, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0521 calling for claims to land parcels which was duly published in the Gazette No. 2387/04 of 3rd June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd July, 2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 2:24 0.1258 Nuwaragama Palatha East _ Full 1st Class – Road Pradeshiya Sabha Vijayapura,Anuradhapura EOG 08 - 0211/4 _________________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby declare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No.1:9, 1:10, 1:11, 1:12 of Block 6, contained in the Cadastral Map No. 110202, situated in the Village of Mahapaladikulam within the Grama Niladhari Division of No. 237 - Mahapaladikulama in the Divisional Secretary's Division of Nuwara Gampalatha East, in the District of Anuradhapura, in the Province of North Central, referred to in Notice No. 11/0522 calling for claims to land parcels which was duly published in the Gazette No. 2389/15 of 19th June, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 02nd July, 2025
+
+5 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.08.19 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 19.08.2025
+
+SCHEDULE Particulars Particulars Sheet Class and regarding if No. and National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law (Hectare) 1:9 0.3943 The State _ Full 1st Class – Possessed by Abeykoon Mudiyanselage Ranbanda Abeykoon of under the licence No 304/263, Subject to the conditions of L.D.O 1:10 0.0361 The State _ Full 1st Class – Road 1:11 0.7697 The State _ Full 1st Class – Possessed by Hingurala Arachchilage Chandrasena of under the licence No 289/263, Subject to the conditions of L.D.O 1:12 0.2849 The State _ Full 1st Class – Possessed by Dolan Kachchariyalage Nimal Ranjith Vijethilaka of under the licence No 31/263, Subject to the conditions of L.D.O EOG 08 - 0211/5
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
