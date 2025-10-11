@@ -1,0 +1,433 @@
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.131 A
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif
+
+w;s úfYI mjptpNr\khdJ
+
+(murhq;fj;jpd; mjpfhuj;Jld; gpuRupf;fg;gl;lJ)
+
+gFjp III - fhzpfs;
+
+fhzp nfhs;tdT gw;wpa mwptpj;jy;fs;
+
+,t; mjptpN\l tu;j;jkhdpia www.documents.gov.lk vDk; ,izaj;jsj;jpypUe;J gjptpwf;fk; nra;a KbAk;.
+
+wxl 2136$5 - 2019 wf.daia;= ui 13 jeks wÕyrejdod - 2019'08'132136/ 5 Mk; ,yf;fk; - 2019 Mk; Mz;L Xfj;J khjk; 13 Me; jpfjp nrt;tha;f;fpoik
+
+G30719 - 66 (2019/08)
+
+fhzp vLj;jw; rl;lk; (mj;jpahak; 460)
+
+38 Mk; gpuptpd; fhg;G thrfk; (m)tpd; fPohd fl;lis
+
+2019 Mk; Mz;bd; 157 Mk; ,yf;ff; fl;lis
+
+vdJ Fwpg;G ,y. : 4-3/3/2017/NRD/493.gp.nr. Fwpg;G ,y. : DIVIB/LND/LADAQ/03/KHRW/04.
+
+fhzp vLj;jw; rl;lj;jpd; (mj;jpahak; 460) 38 Mk; gpuptpd; fhg;Gthrfk; (m) tpdhy; vdf;fspf;fg;gl;l jj;Jtq;fspd; gpufhuk;>fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;ru; fae;jfUzhjpyf;f Mfpa ehd;> fPo; tpgupf;fg;gl;l ml;ltizapd; 1Mk;ge;jpapy; Fwpg;gplg;gl;l fhzp vLj;jy; cj;jpNahfj;jUf;F my;yJmtuhy; mjpfhukspf;fg;gl;l vtNuDk; cj;jpNahfj;ju; xUtUf;Fml;ltizapd; Nenuhj;j 2 Mk; ge;jpapy; tpgupf;fg;gl;l fhzpapd;cilikia nghWg;Ngw;gjw;F ,j;jhy; fl;lisapLfpd;Nwd;.
+
+fae;j fUzhjpyf;f> fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;rh;.
+
+fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;R>''kp`pfj nkJu""> fhzpr; nrayfk;>,y.1200/6> u[ky;tj;ij tPjp>gj;juKy;iy.2019> A{iy 11.
+
+1. fhzp vLj;jy; cj;jpNahfj;ju;:- gpuNjr nrayhsu;>,g;ghfKt.
+
+2. fhzpapd; tpguk;:- tlNky; khfhzj;jpy;> FUzhfy;khtl;lj;jpy;> ,g;ghfKt gpuNjr nrayhsu; gpuptpy;> ,y. 415>
+
+Xkhunfhy;y fpuhk mYtyu; gpuptpy;> Xkhunfhy;y(,.fp.t. 2805) fpuhkj;jpy; mike;Js;s> epy msitahsu;ehafj;jpdhy; jahupf;fg;gl;l 2019.01.17 Me; jpfjpa KU/IBB/2018/355Mk; ,yf;f Kjw;Rtl;L tiuglj;jpy; fhl;lg;gl;l fhzpj;Jz;Lfspd; vy;iyfs; :
+
+01. Jz;L ,y. 1 - %f;fyd;aha - tp];jPuzk; : 0.1212n`f;lahu;tlf;F : gP. B. Mupajhr cupik NfhUk; %f;fyd;aha @ fpof;F :gP. B. tpkyuj;d cupik NfhUk; %f;fyd;aha kw;Wk; Jz;L,y. 2 @ njw;F : Jz;L ,y. 2> 3 kw;Wk; gP. B. v];. Fzuj;dcupik NfhUk; %f;fyd;aha @ Nkw;F : gP. B. Mupajhr cupikNfhUk; %f;fyd;aha.
+
+02. Jz;L ,y. 2 - %f;fyd;aha - tp];jPuzk; : 0.0826n`f;lahu;tlf;F : gP. B. Mupajhr cupik NfhUk; %f;fyd;aha kw;Wk; gP.B. tpkyuj;d cupik NfhUk; %f;fyd;aha @ fpof;F : gP. B.tpkyuj;d cupik NfhUk; %f;fyd;aha kw;Wk; tPjp @ njw;F : tPjpkw;Wk; Jz;L ,y. 3 @ Nkw;F : Jz;L ,y. 3 kw;Wk; 1.
+
+03. Jz;L ,y. 3 - %f;fyd;aha - tp];jPuzk; : 0.1179n`f;lahu;tlf;F : gP. B. Mupajhr cupik NfhUk; %f;fyd;aha kw;Wk;Jz;L ,y. 1 kw;Wk; 2 @ fpof;F : Jz;L ,y. 2 kw;Wk; 5 @ njw;F :Jz;L ,y. 5> 4 kw;Wk; gP. B. v];. rP. FzNrd cupik NfhUk;%f;fyd;aha @ Nkw;F : gP. B. v];. Fzuj;d cupik NfhUk;%f;fyd;aha.
+
+04. Jz;L ,y. 4 - %f;fyd;aha - tp];jPuzk; : 0.0992n`f;lahu;tlf;F : gP. B. v];. rP. FzNrd cupik NfhUk; %f;fyd;ahakw;Wk; Jz;L ,y. 3 @ fpof;F : Jz;L ,y. 3> 5 kw;Wk; 6 @ njw;F :
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.132 A
+
+Jz;L ,y. 6 kw;Wk; gP. B. [P. gpNukre;jpu> gP. B. Fzuj;d MfpNahu;cupik NfhUk; %f;fyd;aha @ Nkw;F : gP. B. v];. rP. FzNrdcupik NfhUk; %f;fyd;aha.
+
+05. Jz;L ,y. 5 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0123n`f;lahu;tlf;F : Jz;L ,y. 3> 2 kw;Wk; gP. B. tpkyuj;d cupik NfhUk;%f;fyd;aha @ fpof;F : tPjp kw;Wk; gP. B. [P. gpNukre;jpu> gP. B.Fzuj;d MfpNahu; cupik NfhUk; %f;fyd;aha @ njw;F : gP. B.[P. gpNukre;jpu> gP. B. Fzuj;d MfpNahu; cupik NfhUk;%f;fyd;aha kw;Wk; Jz;L ,y. 6 @ Nkw;F : Jz;L ,y. 4kw;Wk; 3.
+
+06. Jz;L ,y. 6 - %f;fyd;aha - tp];jPuzk; : 0.3215n`f;lahu;tlf;F : gP. B. v];. rP. FzNrd cupik NfhUk; %f;fyd;aha>Jz;L ,y. 4> 5 kw;Wk; tPjp @ fpof;F : gP. B. [P. gpNukre;jpu> gP. B.Fzuj;d MfpNahu; cupik NfhUk; %f;fyd;aha @ njw;F : tPjp>Jz;L ,y. 7 kw;Wk; 10 @ Nkw;F : tha;f;fhy; kw;Wk; gP. B. [P.gpNukre;jpu> gP. B. Fzuj;d MfpNahu; cupik NfhUk;%f;fyd;aha.
+
+07. Jz;L ,y. 7 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0111n`f;lahu;tlf;F : Jz;L ,y. 6> gP. B. [P. gpNukre;jpu> gP. B. Fzuj;dMfpNahu; cupik NfhUk; %f;fyd;aha kw;Wk; tPjp @ fpof;F : gP. B.[P. gpNukre;jpu> gP. B. Fzuj;d MfpNahu; cupik NfhUk;%f;fyd;aha kw;Wk; Jz;L ,y. 8 kw;Wk; 9 @ njw;F : Jz;L,y. 10 @ Nkw;F : Jz;L ,y. 6.
+
+08. Jz;L ,y. 8 - %f;fyd;aha - tp];jPuzk; : 0.0137n`f;lahu;tlf;F : Jz;L ,y. 7 kw;Wk; tPjp @ fpof;F : gP. B. [P. gpNukre;jpu>gP. B. Fzuj;d MfpNahu; cupik NfhUk; %f;fyd;aha @ njw;F :Nf. B. RNdj;jpuh cupik NfhUk; %f;fyd;aha kw;Wk; Jz;L,y. 9 @ Nkw;F : Jz;L ,y. 7.
+
+09. Jz;L ,y. 9 - %f;fyd;aha - tp];jPuzk; : 0.0053n`f;lahu;tlf;F : Jz;L ,y. 8 kw;Wk; gP. B. [P. gpNukre;jpu> gP. B.Fzuj;d MfpNahu; cupik NfhUk; %f;fyd;aha @ fpof;F : Nf. B.RNdj;jpuh cupik NfhUk; %f;fyd;aha @ njw;F : tha;f;fhy;kw;Wk; Jz;L ,y. 10 @ Nkw;F : Jz;L ,y. 7.
+
+10. Jz;L ,y. 10 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0280n`f;lahu;tlf;F : tha;f;fhy;> gP. B. [P. gpNukre;jpu> gP. B. Fzuj;dMfpNahu; cupik NfhUk; %f;fyd;aha> Jz;L ,y. 6> 7> 9 kw;Wk;Nf. B. RNdj;jpuh cupik NfhUk; %f;fyd;aha @ fpof;F : Nf. B.RNdj;jpuh cupik NfhUk; %f;fyd;aha kw;Wk; tha;f;fhy; @njw;F : Nf. [P. tpN[ghy cupik NfhUk; fNkntNy gpy;Nytkw;Wk; Jz;L ,y. 15 kw;Wk; 13 @ Nkw;F : tha;f;fhy;> V. vk;.mNgrpq;` cupik NfhUk; ,k;GyKy njd;d kw;Wk; Jz;L,y. 12.
+
+11. Jz;L ,y. 12 - ,k;GyKy njd;d - tp];jPuzk; : 0.0103n`f;lahu;tlf;F : tha;f;fhy; @ fpof;F : Jz;L ,y. 10 @ njw;F : Jz;L,y. 10 kw;Wk; tha;f;fhy; @ Nkw;F : V. vk;. mNgrpq;` cupikNfhUk; ,k;GyKy njd;d.
+
+12. Jz;L ,y. 13 - fNkntNy gpy;Nyt - tp];jPuzk; : 0.0006n`f;lahu;tlf;F : tha;f;fhy; kw;Wk; Jz;L ,y. 10 @ fpof;F : Jz;L,y. 15 @ njw;F : Jz;L ,y. 14 kw;Wk; lgps;A{. B. Fzrpq;`cupik NfhUk; ml;lyhN` gpy;Nyt @ Nkw;F : lgps;A{. B.Fzrpq;` cupik NfhUk; ml;lyhN` gpy;Nyt.
+
+13. Jz;L ,y. 14 - ml;lyhN` gpy;Nyt - tp];jPuzk; :0.0026 n`f;lahu;tlf;F : Jz;L ,y. 13 kw;Wk; 15 @ fpof;F : Jz;L,y. 15 @ njw;F : Jz;L ,y. 15> 16 kw;Wk; lgps;A{. B. Fzrpq;`cupik NfhUk; ml;lyhN` Fk;Gu @ Nkw;F : lgps;A{. B. Fzrpq;`cupik NfhUk; ml;lyhN` gpy;Nyt.
+
+14. Jz;L ,y. 15 - fNkntNy gpy;Nyt - tp];jPuzk; : 0.2015n`f;lahu;tlf;F : tha;f;fhy; kw;Wk; Jz;L ,y. 10 @ fpof;F : tha;f;fhy;kw;Wk; Nf. [P. tpN[ghy cupik NfhUk; fNknty gpy;Nyt @njw;F : = tpNtfhuhk kfh tpfhiu cupik NfhUk; gd;ry ,lk>Jz;L ,y. 21> 20 kw;Wk; 19 @ Nkw;F : Jz;L ,y. 18> 17> 16> 14kw;Wk; 13.
+
+15. Jz;L ,y. 16 - fNkntNy Fk;Gu - tp];jPuzk; : 0.0189n`f;lahu;tlf;F : lgps;A{. B. Fzrpq;` cupik NfhUk; ml;lyhN`gpy;Nyt> Jz;L ,y. 14 kw;Wk; 15 @ fpof;F : Jz;L ,y. 15 @njw;F : Jz;L ,y. 17 kw;Wk; Mu;. gP. B. lgps;A{. [atu;jd kw;Wk;rpyu; cupik NfhUk; fNkntNy Fk;Gu @ Nkw;F : lgps;A{. B.Fzrpq;` cupik NfhUk; ml;lyhN` Fk;Gu.
+
+16. Jz;L ,y. 17 - fNkntNy Fk;Gu - tp];jPuzk; : 0.0240n`f;lahu;tlf;F : lgps;A{. B. Fzrpq;` cupik NfhUk; ml;lyhN`Fk;Gu> Jz;L ,y. 16 kw;Wk; 15 @ fpof;F : Jz;L ,y. 15 @njw;F : Jz;L ,y. 18 kw;Wk; gP. B. v];. tpN[rpq;` cupik NfhUk;fNknty @ Nkw;F : Mu;. gP. B. lgps;A{. [atu;jd kw;Wk; rpyu;cupik NfhUk; fNkntNy Fk;Gu.
+
+17. Jz;L ,y. 18 - fNknty - tp];jPuzk; : 0.0749n`f;lahu;tlf;F : Mu;. gP. B. lgps;A{. [atu;jd kw;Wk; rpyu; cupikNfhUk; fNkntNy Fk;Gu> Jz;L ,y. 17 kw;Wk; 15 @ fpof;F :Jz;L ,y. 15 @ njw;F : Jz;L ,y. 15> 19 kw;Wk; lgps;A{. B. Mu;.Nrhkrpwp cupik NfhUk; fNkntNy Fk;Gu @ Nkw;F : gP. B. v];.tpN[rpq;` cupik NfhUk; fNknty.
+
+18. Jz;L ,y. 19 - fNkntNy Fk;Gu - tp];jPuzk; : 0.0277n`f;lahu;tlf;F : gP. B. v];. tpN[rpq;` cupik NfhUk; fNknty> Jz;L,y. 18 kw;Wk; 15 @ fpof;F : Jz;L ,y. 15 kw;Wk; 20 @ njw;F :Jz;L ,y. 20 kw;Wk; cupik NfhUNthu; fz;Lgpbf;f KbahjfNknty @ Nkw;F : lgps;A{. B. Mu;. Nrhkrpwp cupik NfhUk;fNkntNy Fk;Gu.
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.133 A
+
+19. Jz;L ,y. 20 - fNknty - tp];jPuzk; : 0.0828n`f;lahu;tlf;F : lgps;A{. B. Mu;. Nrhkrpwp cupik NfhUk; fNkntNyFk;Gu> Jz;L ,y. 19 kw;Wk; 15 @ fpof;F : Jz;L ,y. 15 kw;Wk;21 @ njw;F : Jz;L ,y. 23 kw;Wk; 22 @ Nkw;F : cupik NfhUNthu;fz;Lgpbf;f Kbahj fNknty.
+
+20. Jz;L ,y. 21 - gd;ry; ,lk - tp];jPuzk; : 0.0567n`f;lahu;tlf;F : Jz;L ,y. 20> 15 kw;Wk; Nf. [P. tpN[ghy cupikNfhUk; fNknty gpy;Nyt @ fpof;F : = tpNtfhuhk kfh tpfhiucupik NfhUk; gd;ry; ,lk @ njw;F : gP. B. N[kp]; cupik NfhUk;g`ytP njNgy kw;Wk; Jz;L ,y. 23 @ Nkw;F : Jz;L ,y. 20.
+
+21. Jz;L ,y. 22 - g`ytPnjNgy - tp];jPuzk; : 0.0006n`f;lahu;tlf;F : cupik NfhUNthu; fz;Lgpbf;f Kbahj fNkntykw;Wk; Jz;L ,y. 20 @ fpof;F : Jz;L ,y. 23 @ njw;F : Jz;L,y. 24> 25 kw;Wk; tha;f;fhy; @ Nkw;F : tha;f;fhy;.
+
+22. Jz;L ,y. 23 - g`ytPnjNgy - tp];jPuzk; : 0.1548n`f;lahu;tlf;F : cupik NfhUNthu; fz;Lgpbf;f Kbahj fNkntykw;Wk; Jz;L ,y. 20> 21 kw;Wk; = tpNtfhuhk kfh tpfhiucupik NfhUk; gd;ry; ,lk @ fpof;F : gP. B. N[kp]; cupik NfhUk;g`ytPnjNgy @ njw;F : Jz;L ,y. 28> 27 kw;Wk; 24 @ Nkw;F :Jz;L ,y. 24 kw;Wk; 22.
+
+23. Jz;L ,y. 24 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0103n`f;lahu;tlf;F : tha;f;fhy;> Jz;L ,y. 22 kw;Wk; 23 @ fpof;F : Jz;L,y. 23 kw;Wk; 30 @ njw;F : Jz;L ,y. 30> 33 kw;Wk; 32 @ Nkw;F :lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk; fNknty> gP. B. v];.gpNukrpwp cupik NfhUk; ,dpkq;ngy> Jz;L ,y. 31> 26> 25>cupik NfhUNthu; fz;Lgpbf;f Kbahj fNknty kw;Wk;tha;f;fhy;.
+
+24. Jz;L ,y. 25 - fNknty - tp];jPuzk; : 0.0034n`f;lahu;tlf;F : tha;f;fhy; kw;Wk; Jz;L ,y. 24 @ fpof;F : Jz;L,y. 24 @ njw;F : Jz;L ,y. 26 kw;Wk; cupik NfhUNthu;fz;Lgpbf;f Kbahj fNknty @ Nkw;F : cupik NfhUNthu;fz;Lgpbf;f Kbahj fNknty.
+
+25. Jz;L ,y. 26 - fNknty - tp];jPuzk; : 0.0016n`f;lahu;tlf;F : cupik NfhUNthu; fz;Lgpbf;f Kbahj fNknty>Jz;L ,y. 25 kw;Wk; 24 @ fpof;F : Jz;L ,y. 24 @ njw;F : Jz;L,y. 31 kw;Wk; gP. B. v];. gpNukrpwp cupik NfhUk; ,dpkq;ngy @ Nkw;F : cupik NfhUNthu; fz;Lgpbf;f Kbahj fNknty.
+
+26. Jz;L ,y. 27 - nfw;wNfyf`Ky Fk;Gu - tp];jPuzk; :0.0549 n`f;lahu;tlf;F : Jz;L ,y. 24> 23 kw;Wk; gP. B. N[kp]; cupik NfhUk;g`ytPnjNgy @ fpof;F : Jz;L ,y. 28 @ njw;F : Jz;L ,y. 29kw;Wk; 30 @ Nkw;F : Jz;L ,y. 24.
+
+27. Jz;L ,y. 29 - fNknty - tp];jPuzk; : 0.0061n`f;lahu;tlf;F : Jz;L ,y. 27> 28 kw;Wk; gP. B. N[kp]; cupik NfhUk;g`ytPnjNgy @ fpof;F : tPjp @ njw;F : tPjp> Jz;L ,y. 34 kw;Wk;30 @ Nkw;F : Jz;L ,y. 30.
+
+28. Jz;L ,y. 30 - fNknty - tp];jPuzk; : 0.1174n`f;lahu;tlf;F : Jz;L ,y. 24> 27 kw;Wk; 28 @ fpof;F : Jz;L ,y. 29>tPjp kw;Wk; Jz;L ,y. 34 @ njw;F : Jz;L ,y. 33 @ Nkw;F : Jz;L,y. 24.
+
+29. Jz;L ,y. 31 - ,dpkq;ngy - tp];jPuzk; : 0.0033n`f;lahu;tlf;F : cupik NfhUNthu; fz;Lgpbf;f Kbahj fNknty>Jz;L ,y. 23 kw;Wk; 24 @ fpof;F : Jz;L ,y. 24 @ njw;F : Jz;L,y. 24 kw;Wk; lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk;fNknty @ Nkw;F : gP. B. v];. gpNukrpwp cupik NfhUk;,dpkq;ngy.
+
+30. Jz;L ,y. 32 - fNknty - tp];jPuzk; : 0.0053n`f;lahu;tlf;F : gP. B. v];. gpNukrpwp cupik NfhUk; ,dpkq;ngy kw;Wk; Jz;L ,y. 31 kw;Wk; 24 @ fpof;F : Jz;L,y. 24 @ njw;F : Jz;L ,y. 33 kw;Wk; gpuNjr rig tPjp @Nkw;F : lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk; fNknty.
+
+31. Jz;L ,y. 33 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0151n`f;lahu;tlf;F : lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk; fNknty>Jz;L ,y. 32> 24> 30> 34 kw;Wk; tPjp @ fpof;F : gpuNjr rig tPjp @njw;F : Jz;L ,y. 35> 36> 37> 38 kw;Wk; lgps;A{. B. [P. jpyf;fuj;dcupik NfhUk; fNknty @ Nkw;F : gpuNjr rig tPjp.
+
+32. Jz;L ,y. 34 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0036n`f;lahu;tlf;F : Jz;L ,y. 30> 29 kw;Wk; tPjp @ fpof;F : tPjp @ njw;F :gpuNjr rig tPjp kw;Wk; Jz;L ,y. 33 @ Nkw;F : Jz;L ,y. 30.
+
+33. Jz;L ,y. 36 - fNknty - tp];jPuzk; : 0.0304n`f;lahu;tlf;F : Jz;L ,y. 33 kw;Wk; gpuNjr rig tPjp @ fpof;F :Jz;L ,y. 35 kw;Wk; tha;f;fhy; @ njw;F : Jz;L ,y. 37 @Nkw;F : Jz;L ,y. 37.
+
+34. Jz;L ,y. 37 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0035n`f;lahu;tlf;F : Jz;L ,y. 33> 36 kw;Wk; 35 @ fpof;F : tha;f;fhy; kw;Wk;Jz;L ,y. 40 @ njw;F : Jz;L ,y. 40> 39 kw;Wk; 38 @Nkw;F : Jz;L ,y. 38.
+
+35. Jz;L ,y. 38 - fNknty - tp];jPuzk; : 0.0309n`f;lahu;tlf;F : gpuNjr rig tPjp kw;Wk; Jz;L ,y. 33 kw;Wk; 37 @fpof;F : Jz;L ,y. 39 @ njw;F : Jz;L ,y. 39> 43 kw;Wk; 44 @Nkw;F : lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk; fNknty.
+
+36. Jz;L ,y. 39 - fSf`Ky;y Fk;Gu - tp];jPuzk; : 0.1661n`f;lahu;tlf;F : Jz;L ,y. 38> 37 kw;Wk; 40 @ fpof;F : Jz;L ,y. 40>V. [P. Rkduj;d cupik NfhUk; fSf`Ky;y> Jz;L ,y. 41>tPjp kw;Wk; Jz;L ,y. 42 @ njw;F : Jz;L ,y. 42> 46 kw;Wk; 47 @Nkw;F : Jz;L ,y. 47> 43 kw;Wk; 38.
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.134 A
+
+37. Jz;L ,y. 40 - Fwpg;gplg;gltpy;iy - fSf`Ky;y -tp];jPuzk; : 0.0050 n`f;lahu;tlf;F : Jz;L ,y. 37 kw;Wk; tha;f;fhy; @ fpof;F : V. [P.Rkduj;d cupik NfhUk; fSf`Ky;y @ njw;F : V. [P. Rkduj;dcupik NfhUk; fSf`Ky;y> Jz;L ,y. 41 kw;Wk; 39 @Nkw;F : Jz;L ,y. 39.
+
+38. Jz;L ,y. 41 - fSf`Ky;y Fk;Gu - tp];jPuzk; : 0.0108n`f;lahu;tlf;F : Jz;L ,y. 39> 40 kw;Wk; V. [P. Rkduj;d cupikNfhUk; fSf`Ky;y @ fpof;F : V. [P. Rkduj;d cupik NfhUk;fSf`Ky;y kw;Wk; tPjp @ njw;F : tPjp kw;Wk; Jz;L ,y. 42 @Nkw;F : Jz;L ,y. 39.
+
+39. Jz;L ,y. 42 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0023n`f;lahu;tlf;F : Jz;L ,y. 39> 41 kw;Wk; tPjp @ fpof;F : lgps;A{. vd;. rP.tl;ltd cupik NfhUk; fSf`Ky;Ny ,lk kw;Wk; Jz;L,y. 45 @ njw;F : Jz;L ,y. 45 kw;Wk; 46 @ Nkw;F : Jz;L ,y. 39.
+
+40. Jz;L ,y. 43 - Ngunfhy;y tj;j - tp];jPuzk; : 0.0131n`f;lahu;tlf;F : lgps;A{. B. [P. jpyf;fuj;d cupik NfhUk; fNkntykw;Wk; Jz;L ,y. 38 kw;Wk; 39 @ fpof;F : Jz;L ,y. 39 @njw;F : Jz;L ,y. 47 kw;Wk; gP. B. jahde;j cupik NfhUk;Ngunfhy;y tj;j @ Nkw;F : Jz;L ,y. 44.41. Jz;L ,y. 45 - fSf`Ky;y Fk;Gu - tp];jPuzk; :0.0014 n`f;lahu;tlf;F : Jz;L ,y. 42 kw;Wk; tPjp @ fpof;F : lgps;A{. B. vd;. rP.tl;ltd cupik NfhUk; fSf`Ky;y Fk;Gu @ njw;F : lgps;A{.B. vd;. rP. tl;ltd cupik NfhUk; fSf`Ky;Ny ,lk kw;Wk;Jz;L ,y. 46 @ Nkw;F : Jz;L ,y. 46 kw;Wk; 42.
+
+42. Jz;L ,y. 46 - fSf`Ky;Ny ,lk - tp];jPuzk; : 0.0963n`f;lahu;tlf;F : Jz;L ,y. 47> 39> 42> 45 kw;Wk; lgps;A{. B. vd;. rP.tl;ltd cupik NfhUk; fSf`Ky;Ny ,lk @ fpof;F : lgps;A{.B. vd;. rP. tl;ltd cupik NfhUk; fSf`Ky;Ny ,lk @njw;F : V. V. vk;. mkurpq;` MfpNahu; cupik NfhUk; Ngunfhy;ytj;j kw;Wk; Jz;L ,y. 48 @ Nkw;F : Jz;L ,y. 47.
+
+43. Jz;L ,y. 47 - Ngunfhy;y tj;j - tp];jPuzk; : 0.0989n`f;lahu;tlf;F : Jz;L ,y. 44> 43 kw;Wk; 39 @ fpof;F : Jz;L ,y. 46 @njw;F : Jz;L ,y. 48 kw;Wk; V. V. vk;. mkurpq;` cupik NfhUk;Ngunfhy;y tj;j @ Nkw;F : gP. B. jahde;j cupik NfhUk;Ngunfhy;y tj;j.
+
+44. Jz;L ,y. 48 - Ngunfhy;y tj;j - tp];jPuzk; : 0.7437n`f;lahu;tlf;F : gP. B. jahde;j cupik NfhUk; Ngunfhy;y tj;j> Jz;L,y. 47> 46 kw;Wk; lgps;A{. B. vd;. rP. tl;ltd cupik NfhUk;fSf`Ky;Ny ,lk @ fpof;F : V. V. vk;. mkurpq;` cupik NfhUk;Ngunfhy;y tj;j @ njw;F : tha;f;fhy; kw;Wk; Jz;L ,y. 49 @Nkw;F : V. V. vk;. mkurpq;` cupik NfhUk; Ngunfhy;y tj;j.
+
+45. Jz;L ,y. 49 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0932n`f;lahu;tlf;F : Jz;L ,y. 48 kw;Wk; V. V. vk;. mkurpq;` cupikNfhUk; Ngunfhy;y tj;j @ fpof;F : tha;f;fhy; @ njw;F : gP. B. I.gpupaju;\d cupik NfhUk; jk;gf`Ky tj;j> Jz;L ,y. 50> 51>
+
+52 kw;Wk; lgps;A{. B. rpwpNjt cupik NfhUk; jk;gf`Ky tj;j @Nkw;F : tha;f;fhy; kw;Wk; V. V. vk;. mkurpq;` cupik NfhUk;Ngunfhy;y tj;j.
+
+46. Jz;L ,y. 50 - jk;gf`Kytj;j - tp];jPuzk; : 0.0531n`f;lahu;tlf;F : Jz;L ,y. 49> tha;f;fhy; kw;Wk; gP. B. I. gpupaju;\dcupik NfhUk; jk;gf`Ky tj;j @ fpof;F : gP. B. I. gpupaju;\dcupik NfhUk; jk;gf`Ky tj;j @ njw;F : V. Nf. ee;jhtjP cupikNfhUk; jk;gf`Ky tj;j kw;Wk; Jz;L ,y. 51 @ Nkw;F : Jz;L,y. 51.
+
+47. Jz;L ,y. 51 - jk;gf`Kytj;j - tp];jPuzk; : 0.1709n`f;lahu;tlf;F : Jz;L ,y. 49 kw;Wk; 50 @ fpof;F : Jz;L ,y. 50>gP. B. I. gpupaju;\d cupik NfhUk; jk;gf`Ky tj;j kw;Wk;V. Nf. ee;jhtjP cupik NfhUk; jk;gf`Ky tj;j @ njw;F : lgps;A{.B. v];. gpNukrpwp cupik NfhUk; jk;gf`Ky tj;j> Jz;L,y. 53 kw;Wk; 52 @ Nkw;F : Jz;L ,y. 52 kw;Wk; 49.
+
+48. Jz;L ,y. 52 - jk;gf`Kytj;j - tp];jPuzk; : 0.1848n`f;lahu;tlf;F : tha;f;fhy;> Jz;L ,y. 49 kw;Wk; 51 @ fpof;F : Jz;L,y. 51 kw;Wk; 53 @ njw;F : Jz;L ,y. 53> 54 kw;Wk; vr;. uk;ahtjPcupik NfhUk; jk;gf`Ky tj;j @ Nkw;F : lgps;A{. B. rpwpNjtcupik NfhUk; jk;gf`Ky tj;j.
+
+49. Jz;L ,y. 53 - jk;gf`Kytj;j - tp];jPuzk; : 0.0894n`f;lahu;tlf;F : Jz;L ,y. 52> 51> V. Nf. ee;jhtjP cupik NfhUk;jk;gf`Ky tj;j kw;Wk; lgps;A{. B. v];. gpNukrpwp cupik NfhUk;jk;gf`Ky tj;j @ fpof;F : lgps;A{. B. v];. gpNukrpwp cupikNfhUk; jk;gf`Ky tj;j @ njw;F : vr;. uk;ahtjP cupik NfhUk;jk;gf`Ky tj;j kw;Wk; Jz;L ,y. 54 @ Nkw;F : Jz;L ,y. 54kw;Wk; 52.
+
+50. Jz;L ,y. 54 - jk;gf`Kytj;j - tp];jPuzk; : 0.0896n`f;lahu;tlf;F : vr;. uk;ahtjP cupik NfhUk; jk;gf`Ky tj;j> lgps;A{.B. rpwpNjt cupik NfhUk; jk;gf`Ky tj;j> Jz;L ,y. 52> 53kw;Wk; lgps;A{. B. v];. gpNukrpwp cupik NfhUk; jk;gf`Kytj;j @ fpof;F : vr;. uk;ahtjP cupik NfhUk; jk;gf`Ky tj;j @njw;F : Jz;L ,y. 59> 58> 56> 55 kw;Wk; gP. B. yPyhtjP cupikNfhUk; jk;gf`Ky tj;j @ Nkw;F : vr;. uk;ahtjP cupik NfhUk;jk;gf`Ky tj;j.
+
+51. Jz;L ,y. 55 - jk;gf`Kytj;j - tp];jPuzk; : 0.0152n`f;lahu;tlf;F : vr;. uk;ahtjP cupik NfhUk; jk;gf`Ky tj;j kw;Wk;Jz;L ,y. 54 @ fpof;F : Jz;L ,y. 56 @ njw;F : Jz;L ,y. 56>57 kw;Wk; gP. B. yPyhtjP cupik NfhUk; jk;gf`Ky tj;j @Nkw;F : gP. B. yPyhtjP cupik NfhUk; jk;gf`Ky tj;j.
+
+52. Jz;L ,y. 56 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0282n`f;lahu;tlf;F : Jz;L ,y. 55> 54 kw;Wk; 58 @ fpof;F : Jz;L ,y. 59kw;Wk; tPjp @ njw;F : Nf. B. rP. gpNukyjh cupik NfhUk;jk;gf`Ky tj;j> Jz;L ,y. 62 kw;Wk; 61 @ Nkw;F : Jz;L,y. 60> lgps;A{. B. v];. fUzhjpyf;f cupik NfhUk; jk;gf`Kytj;j> Jz;L ,y. 57 kw;Wk; 55.
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.135 A
+
+53. Jz;L ,y. 57 - Fwpg;gplg;gltpy;iy - tp];jPuzk; :0.0019 n`f;lahu;tlf;F : gP. B. yPyhtjP cupik NfhUk; jk;gf`Ky tj;j kw;Wk;Jz;L ,y. 55 kw;Wk; 56 @ fpof;F : Jz;L ,y. 56 @ njw;F : Jz;L,y. 60 kw;Wk; lgps;A{. B. v];. fUzhjpyf;f cupik NfhUk;jk;gf`Ky tj;j @ Nkw;F : gP. B. yPyhtjP cupik NfhUk;jk;gf`Ky tj;j.
+
+54. Jz;L ,y. 58 - jk;gf`Ky tj;j - tp];jPuzk; : 0.1260n`f;lahu;tlf;F : Jz;L ,y. 56> 54 kw;Wk; vr;. uk;ahtjP cupik NfhUk;jk;gf`Ky tj;j @ fpof;F : Jz;L ,y. 59 kw;Wk; gP. B. vd;.gpNukFkhu cupik NfhUk; jk;gf`Ky tj;j @ njw;F : tPjp kw;Wk;Jz;L ,y. 56 @ Nkw;F : Jz;L ,y. 56.
+
+55. Jz;L ,y. 60 - jk;gf`Ky tj;j - tp];jPuzk; : 0.0030n`f;lahu;tlf;F : gP. B. yPyhtjP cupik NfhUk; jk;gf`Ky tj;j kw;Wk;Jz;L ,y. 57 kw;Wk; 56 @ fpof;F : Jz;L ,y. 56 @ njw;F : Jz;L,y. 61 kw;Wk; Nf. B. B. ehydP cupik NfhUk; jk;gf`Kytj;j @ Nkw;F : lgps;A{. B. v];. fUzhjpyf;f cupik NfhUk;jk;gf`Ky tj;j.
+
+56. Jz;L ,y. 61 - jk;gf`Ky tj;j - tp];jPuzk; : 0.0622n`f;lahu;tlf;F : lgps;A{. B. v];. fUzhjpyf;f cupik NfhUk;jk;gf`Ky tj;j> Jz;L ,y. 60 kw;Wk; 56 @ fpof;F : Jz;L,y. 62 @ njw;F : Jz;L ,y. 63 kw;Wk; Nf. B. uzrpq;` cupikNfhUk; jk;gf`Ky tj;j @ Nkw;F : Nf. B. B. ehydP cupik NfhUk;jk;gf`Ky tj;j.
+
+57. Jz;L ,y. 62 - jk;gf`Ky tj;j - tp];jPuzk; : 0.0521n`f;lahu;tlf;F : Jz;L ,y. 61> 56 kw;Wk; tPjp @ fpof;F : Nf. B. rP.gpNukyjh cupik NfhUk; jk;gf`Kytj;j @ njw;F : Nf. B.uzrpq;` cupik NfhUk; jk;gf`Ky tj;j kw;Wk; Jz;L,y. 63 @ Nkw;F : Jz;L ,y. 61.
+
+58. Jz;L ,y. 63 - jk;gf`Ky tj;j - tp];jPuzk; : 0.1209n`f;lahu;tlf;F : Nf. B. B. ehydP cupik NfhUk; jk;gf`Ky tj;j>Jz;L ,y. 61> 62 kw;Wk; Nf. B. rP. gpNukyjh cupik NfhUk;jk;gf`Kytj;j @ fpof;F : Nf. B. uzrpq;` cupik NfhUk;jk;gf`Ky tj;j kw;Wk; tha;f;fhy; @ njw;F : Jz;L,y. 64 kw;Wk; tha;f;fhy; @ Nkw;F : Nf. B. uzrpq;` cupikNfhUk; jk;gf`Ky tj;j.
+
+59. Jz;L ,y. 64 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0103n`f;lahu;tlf;F : Jz;L ,y. 63> Nf. B. uzrpq;` cupik NfhUk;jk;gf`Ky tj;j kw;Wk; tha;f;fhy; @ fpof;F : ,y. 414 - gd;ypaj;jfpuhk mYtyu; gpupT @ njw;F : ,y. 414 - gd;ypaj;j fpuhkmYtyu; gpupT @ Nkw;F : tha;f;fhy; kw;Wk; Nf. B. uzrpq;` cupikNfhUk; jk;gf`Ky tj;j.
+
+8 - 966
+
+fhzp vLj;jw; rl;lk; (mj;jpahak; 460)
+
+38 Mk; gpuptpd; fhg;Gthrfk; (m) tpd; fPohd fl;lis
+
+2019 Mk; Mz;bd; 156 Mk; ,yf;ff; fl;lis
+
+vdJ Fwpg;G ,y. : 4-3/ 3/ 2017/ vd;Mu;B/ 493-gP. gpu. nr. Fwpg;G ,y. : BItPIgp/ vy;vd;B/ vy;VBVfpa{/ 03/Nfvr;Mu;lgps;a{/ 04.
+
+fhzp vLj;jw; rl;lj;jpd; (mj;jpahak; 460) 38 Mk; gpuptpd; fhg;Gthrfk; (m) tpdhy; vdf;fspf;fg;gl;l jj;Jtq;fspd; gpufhuk;fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;ru; fae;jfUzhjpyf;f Mfpa ehd;> fPo; tpgupf;fg;gl;l ml;ltizapd; 1Mk; ge;jpapy; Fwpg;gplg;gl;l fhzp vLj;jy; cj;jpNahfj;jUf;Fmy;yJ mtuhy; mjpfhukspf;fg;gl;l vtNuDk; cj;jpNahfj;ju;xUtUf;F mt; ml;ltizapd; Nenuhj;j 2 Mk; ge;jpapy;tpgupf;fg;gl;l fhzpapd; cilikiag; nghWg;Ngw;gjw;F ,j;jhy;fl;lisapLfpd;Nwd;.
+
+fae;j fUzhjpyf;f> fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;ru;.
+
+fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;R>''kp`pfj nkJu"">,y. 1200/ 6> u[ky;tj;ij tPjp>gj;juKy;iy>2019> a{iy 11.ml;ltiz
+
+1. fhzp vLj;jy; cj;jpNahfj;ju;: gpuNjr nrayhsu;>,g;ghfKt.
+
+2. fhzpapd; tpguk; : tlNky; khfhzk;> FUehfy; khtl;lj;jpy;>,g;ghfKt gpuNjr nrayhsu; gpuptpy;> ,y. 414- gd;ypaj;j fpuhkmYtyu; gpuptpy;> gy;ypaj;j (,.fp. t. 2804) fpuhkj;jpy;mike;Js;s epy msitahsu; ehafj;jpdhy; 2019.01.17Me;jpfjp jahupf;fg;gl;l Kjw;Rtl;L tiugl ,y. Nfa{/ Igpgp/ 2018/354 ,y; Fwpg;gplg;gl;l fhzpj; Jz;Lfspd; vy;iyfs; :
+
+01. Jz;L ,y. 1 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0105n`f;lahu; tlf;F: ,y. 415> Xkhunfhy;y fpuhk mYtyu; gpupT@ fpof;F:tha;f;fhy; @ njw;F: Nf. [P. v];. epye;jp cupikNfhUk; ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y> Jz;L ,y. 2> 4 kw;Wk; B. [P.gpupaju;\d cupik NfhUk; ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y @ Nkw;F: ,y. 415> Xkhunfhy;y fpuhk mYtyu; gpupT.
+
+02. Jz;L ,y. 2 - ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y - tp];jPuzk; : 0.1746 n`f;lahu; tlf;F: Jz;L ,y. 1 kw;Wk; tha;f;fhy; @ fpof;F: Nf. [P. v];.epye;jp cupik NfhUk; ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y@ njw;F: tPjp> Jz;L ,y. 3 kw;Wk; 4@ Nkw;F: Jz;L,y. 4.
+
+03. Jz;L ,y. 3 - ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y - tp];jPuzk; : 0.0096 n`f;lahu; tlf;F: Jz;L ,y. 4> 2 kw;Wk; Nf. [P. v];. epye;jp cupik NfhUk;ntypf;fe;jN`d kw;Wk; gpl;Lgk;G nfhnly;y @ fpof;F: tPjp @
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.136 A
+
+njw;F: Nf. [P. rP. v];. Fkhu cupik NfhUk; ntypf;fe;jN`dkw;Wk; gpl;Lgk;G nfhnly;y> Jz;L ,y. 5 kw;Wk; 4@ Nkw;F: Jz;L,y. 4.
+
+04. Jz;L ,y. 4 - ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y - tp];jPuzk; : 0.1179 n`f;lahu; tlf;F: tha;f;fhy;> Jz;L ,y. 1 kw;Wk; 2@ fpof;F: Jz;L ,y.2> 3 kw;Wk; 5@ njw;F: Jz;L ,y. 5> 6 kw;Wk; tha;f;fhy;@ Nkw;F:lgps;a{. [P. gpupaju;\d cupik NfhUk; ntypf;fe;jN`d kw;Wk;gpl;Lgk;Gnfhnly;y.
+
+05. Jz;L ,y. 5 - ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y - tp];jPuzk; : 0.2435 n`f;lahu; tlf;F: Jz;L ,y. 4> 3 kw;Wk; tPjp @ fpof;F: Nf. [P. rP. v];.Fkhu cupik NfhUk; ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y@ njw;F: tha;f;fhy; kw;Wk; Jz;L ,y. 6@ Nkw;F: Jz;L,y. 4.
+
+06. Jz;L ,y. 6 - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0383n`f;lahu; tlf;F: lgps;a{. [P. gpupaju;\d cupik NfhUk; ntypf;fe;jN`dkw;Wk; gpl;Lgk;G nfhnly;y> Jz;L ,y. 4> 5 kw;Wk; Nf. [P. rP.v];. Fkhu cupik NfhUk; ntypf;fe;jN`d kw;Wk; gpl;Lgk;Gnfhnly;y@ fpof;F: tha;f;fhy;@ njw;F: vr;. uk;ahtjP cupikNfhUk; gpl;Lgk;G nfhnly;y> Jz;L ,y. 7> 8 kw;Wk; cupikNfhUNthu; fz;Lgpbf;f Kbahj gpl;L %ba@ Nkw;F: tha;f;fhy;.
+
+07. Jz;L ,y. 7 - gpl;L%ba - tp];jPuzk; : 0.0378n`f;lahu; tlf;F: Jz;L ,y. 6 kw;Wk; tha;f;fhy; @ fpof;F: vr;. uk;ahtjPcupik NfhUk; gpl;L%ba @ njw;F: Jz;L ,y. 9 kw;Wk; 8 @Nkw;F: Jz;L ,y. 8.
+
+08. Jz;L ,y. 8 - gpl;L %ba - tp];jPuzk; : 0.3611n`f;lahu; tlf;F: tha;f;fhy; kw;Wk; Jz;L ,y. 6 @ fpof;F: Jz;L ,y. 7>vr;. uk;ahtjP cupik NfhUk; gpl;L %ba kw;Wk; Jz;L ,y. 9@njw;F: gP. B. v];. gpNukuj;d cupik NfhUk; gpl;L %ba> Jz;L,y. 10> 11 kw;Wk; uP. B. Nrhkghy cupik NfhUk; gpl;L %ba @Nkw;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj gpl;L %ba.
+
+09. Jz;L ,y. 10 - gpl;L %ba - tp];jPuzk; : 0.0371n`f;lahu; tlf;F: Jz;L ,y. 8> 9 kw;Wk; gP. B. v];. gpNukuj;d cupikNfhUk; gpl;L %ba @ fpof;F: gP. B. v];. gpNukuj;d cupik NfhUk;gpl;L %ba@ njw;F: uP. B. Nrhkghy cupik NfhUk; gpl;L %bakw;Wk; Jz;L ,y. 11 @ Nkw;F: Jz;L ,y. 11.
+
+10. Jz;L ,y. 11 - gpl;L%ba - tp];jPuzk; : 0.2462n`f;lahu; tlf;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj gpl;L %bakw;Wk; Jz;L ,y. 8 @ fpof;F: Jz;L ,y. 10 kw;Wk; uP. B. Nrhkghycupik NfhUk; gpl;L %ba @ njw;F: gP. B. v];. gpNukuj;d cupikNfhUk; gpl;L %ba> Jz;L ,y. 12> 13 kw;Wk; cupik NfhUNthu;fz;Lgpbf;f Kbahj gpl;L %ba @ Nkw;F: uP. B. Nrhkghy cupikNfhUk; gpl;L %ba.
+
+11. Jz;L ,y. 12 - gpl;L%ba - tp];jPuzk; : 0.0389n`f;lahu; tlf;F: Jz;L ,y. 11 kw;Wk; uP. B. Nrhkghy cupik NfhUk;gpl;L%ba @ fpof;F: gP. B. v];. gpNukuj;d cupik NfhUk; gpl;L
+
+%ba @ njw;F: v];. Nf. artjP cupik NfhUk; gpl;L %ba kw;Wk;Jz;L ,y. 14 @ Nkw;F: Jz;L ,y. 13.
+
+12. Jz;L ,y. 13 - gpl;L%ba - tp];jPuzk; : 0.1363n`f;lahu;tlf;F: uP. B. Nrhkghy cupik NfhUk; gpl;L%ba kw;Wk;Jz;L ,y. 11 @ fpof;F: Jz;L ,y. 12 kw;Wk; 14@ njw;F: Jz;L,y. 16> 15 kw;Wk; lgps;a{. B. Muparpq;` cupik NfhUk; gpl;L%ba nfhnly;y@ Nkw;F : cupik NfhUNthu; fz;Lgpbf;fKbahj gpl;L %ba.
+
+13. Jz;L ,y. 14 - gpl;L%ba - tp];jPuzk; : 0.1043n`f;lahu;tlf;F: Jz;L ,y. 12> 13 kw;Wk; gP. B. v];. gpNukuj;d cupikNfhUk; gpl;L %ba@ fpof;F: v];. Nf. artjP cupik NfhUk; gpl;L%ba@ njw;F: Nf. [P. tpN[ghy cupik NfhUk; gpl;L %ba kw;Wk;Jz;L ,y. 16 kw;Wk; 15 @ Nkw;F : Jz;L ,y. 13.
+
+14. Jz;L ,y. 15 - gpl;L%ba nfhnly;y - tp];jPuzk; :0.0249 n`f;lahu;tlf;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj gpl;l%ba>Jz;L ,y. 13 kw;Wk; 14 @ fpof;F: Jz;L ,y. 16 @ njw;F: Jz;L,y. 16> 17 kw;Wk; lgps;a{. B. Muparpq;` cupik NfhUk; gpl;L%banfhnly;y @ Nkw;F : lgps;a{. B. Muparpq;` cupik NfhUk;gpl;L%ba nfhnly;y.
+
+15. Jz;L ,y. 16 - ntypf;fe;j N`d - tp];jPuzk; : 0.2047n`f;lahu;tlf;F: Jz;L ,y. 13> 14 kw;Wk; v];. Nf. artjP cupik NfhUk;gpl;L %ba@ fpof;F: Nf. [P. tpN[ghy cupik NfhUk; gpl;L %ba@njw;F: tha;f;fhy; (tuz;l) kw;Wk; Jz;L ,y. 18 kw;Wk; 17 @Nkw;F : Jz;L ,y. 17> lgps;a{. B. Muparpq;` cupik NfhUk;gpl;L%ba nfhnly;y kw;Wk; Jz;L ,y. 15.
+
+16. Jz;L ,y. 17 - gpl;L%b nfhnly;y - tp];jPuzk; :0.0009 n`f;lahu;tlf;F: lgps;a{. B. Muparpq;` cupik NfhUk; gpl;L%bnfhnly;y kw;Wk; Jz;L ,y. 15 @ fpof;F: jz;L ,y. 16 @ njw;F:Jz;L ,y. 18 kw;Wk; tha;f;fhy; (tuz;l) @ Nkw;F : tha;f;fhy;(tuz;l).
+
+8 - 967
+
+fhzp vLj;jw; rl;lk; (mj;jpahak; 460)
+
+38 Mk; gpuptpd; fhg;Gthrfk; (m) tpd; fPohd fl;lis
+
+2019 Mk; Mz;bd; 155 Mk; ,yf;ff; fl;lis
+
+vdJ Fwpg;G ,y. : 4-3/ 3/ 2017/ vd;Mu;B/ 605. gpu. nr. Fwpg;G ,y. : 4/ 3/ 8/ ÿ'ud'jHd'$fn.
+
+fhzp vLj;jw; rl;lj;jpd; (mj;jpahak; 460) 38 Mk; gpuptpd; fhg;Gthrfk; (m) tpdhy; vdf;fspf;fg;gl;l jj;Jtq;fspd; gpufhuk;fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;ru; fae;jfUzhjpyf;f Mfpa ehd;> fPo; tpgupf;fg;gl;l ml;ltizapd; 1Mk; ge;jpapy; Fwpg;gplg;gl;l fhzp vLj;jy; cj;jpNahfj;jUf;F
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.137 A
+
+my;yJ mtuhy; mjpfhukspf;fg;gl;l vtNuDk; cj;jpNahfj;ju;xUtUf;F ml;ltizapd; Nenuhj;j 2 Mk; ge;jpapy; tpgupf;fg;gl;lfhzpapd; cilikiag; nghWg;Ngw;gjw;F ,j;jhy; fl;lisapLfpd;Nwd;.
+
+fae;j fUzhjpyf;f> fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;ru;.
+
+fhzp kw;Wk; ghuhSkd;w kWrPuikg;G mikr;R>''kp`pfj nkJu"">,y. 1200/ 6> u[ky;tj;ij tPjp>gj;juKy;iy>2019> a{iy 11.
+
+ml;ltiz
+
+1. fhzp vLj;jy; cj;jpNahfj;ju;: gpuNjr nrayhsu;>fNytis.
+
+2. fhzpapd; tpguk; : kj;jpa khfhzk;> khj;jis khtl;lj;jpy;>RNytis gpuNjr nrayhsu; gpuptpy;> ngypfKt fpuhk mYtyu;gpuptpy;> ngypfKt fpuhkjpy; mike;Js;s epy msitahsu;ehafj;jpdhy; 2018.06.01 Me; jpfjp jahupf;fg;gl;l Kjw;Rtl;Ltiugl ,y. vk;V/ [Pvy;lgps;a{/ 2018/ 155 ,y; Fwpg;gplg;gl;lfhzpj; Jz;Lfspd; vy;iyfs; :
+
+01. Jz;L 'V" - ngypfKt tj;j - tp];jPuzk; : 0.1735n`f;lahu; tlf;F: jpTy;f];nfhl;Lt fpuhk mYtyu; gpupT@ fpof;F:vk;. gp. n[gu;jPd; cupik NfhUk; ngypfKt tj;j@ njw;F: v];.vk;. `yPk;jPd; kw;Wk; rpyu; cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L gp @ Nkw;F: vk;. gp. n[gu;jPd; cupik NfhUk; ngypfKttj;j.
+
+02. Jz;L 'gp" - ngypfKt tj;j - tp];jPuzk; : 0.8680n`f;lahu; tlf;F: v];. vk;. `yPk;jPd; kw;Wk; rpyu; cupik NfhUk;ngypfKt tj;j> vk;. gp. n[gu;jPd; cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L V @ fpof;F: v];. vk;. `yPk;jPd; kw;Wk; rpyu; cupikNfhUk; ngypfKt tj;j @ njw;F: v];. vk;. `yPk;jPd; kw;Wk; rpyu;cupik NfhUk; ngypfKt tj;j> tha;f;fhy; kw;Wk; Jz;L rP @ Nkw;F:tha;f;fhy; kw;Wk; v];. vk;. `yPk;jPd; kw;Wk; rpyu; cupik NfhUk;ngypfKt tj;j.
+
+03. Jz;L 'rP" - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0368n`f;lahu; tlf;F: Jz;L gp @ fpof;F: tha;f;fhy;> <. [P. V. gpuzhe;J cupikNfhUk; ngypfKt tj;j kw;Wk; tha;f;fhy; @ njw;F: <. [P. V.gpuzhe;J cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L B @Nkw;F: <. [P. V. gpuzhe;J cupik NfhUk; ngypfKt tj;j kw;Wk;tha;f;fhy;.
+
+04. Jz;L 'B" - ngypfKt tj;j - tp];jPuzk; : 0.1267n`f;lahu; tlf;F: Jz;L rP kw;Wk; tha;f;fhy; @ fpof;F: tha;f;fhy;><. [P. V. gpuzhe;J cupik NfhUk; ngypfKt tj;j @ njw;F:gPg;gy;]; yPrpq; fk;gdp cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L < @ Nkw;F: <. [P. V. gpuzhe;J cupik NfhUk; ngypfKttj;j kw;Wk; tha;f;fhy;.
+
+05. Jz;L '<" - ngypfKt tj;j - tp];jPuzk; : 0.1340n`f;lahu;tlf;F: <. [P. V. gpuzhe;J cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L B @ fpof;F: <. [P. V. gpuzhe;J cupik NfhUk;ngypfKt tj;j kw;Wk; gPg;gy;]; yPrpq; fk;gdp cupik NfhUk;ngypfKt tj;j @ njw;F: V. [P. vd;. gpupaju;\d cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L vg; @ Nkw;F: V. [P. vd;. gpupaju;\dcupik NfhUk; ngypfKt tj;j kw;Wk; gPg;gy;]; yPrpq; fk;gdpcupik NfhUk; ngypfKt tj;j.
+
+06. Jz;L 'vg;" - ngypfKt tj;j - tp];jPuzk; : 0.0423n`f;lahu;tlf;F: gPg;gy;]; yPrpq; fk;gdp cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L < @ fpof;F: gPg;gy;]; yPrpq; fk;gdp cupik NfhUk;ngypfKt tj;j kw;Wk; V. [P. vd;. gpupaju;\d cupik NfhUk;ngypfKt tj;j@ njw;F: N[. rP. uP. ntd;];lhnuf;]; cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L [P @ Nkw;F: N[. rP. uP. ntd;];lhnuf;];cupik NfhUk; ngypfKt tj;j kw;Wk; V. [P. vd;. gpupaju;\dcupik NfhUk; ngypfKt tj;j.
+
+07. Jz;L '[P" - ngypfKt tj;j - tp];jPuzk; : 1.3404n`f;lahu;tlf;F: V. [P. vd;. gpupaju;\d cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L vg; @ fpof;F: N[. rP. uP. ntd;];lhnuf;]; cupikNfhUk; ngypfKt tj;j @ njw;F: tha;f;fhy; kw;Wk; Jz;L vr; @Nkw;F: tha;f;fhy; kw;Wk; N[. rP. uP. ntd;];lhnuf;]; cupik NfhUk;ngypfKt tj;j.
+
+08. Jz;L 'vr;" - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.1261n`f;lahu;tlf;F: N[. rP. uP. ntd;];lhnuf;]; cupik NfhUk; ngypfKttj;j Jz;L [P @ fpof;F: tha;f;fhy; kw;Wk; cupik NfhUNthu;fz;Lgpbf;f Kbahj ngypfKt tj;j @ njw;F: Jz;L N[ kw;Wk;cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKt tj;j @ Nkw;F:tha;f;fhy;.
+
+09. Jz;L 'N[" - ngypfKt tj;j - tp];jPuzk; : 0.3198n`f;lahu;tlf;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKttj;j tha;f;fhy; kw;Wk; Jz;L vr; @ fpof;F: tha;f;fhy; kw;Wk;cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKt tj;j @ njw;F:Mu;. B. [aNrf;fu cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;LNf @ Nkw;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKttj;j kw;Wk; tha;f;fhy;.
+
+10. Jz;L 'Nf" - ngypfKt tj;j - tp];jPuzk; : 0.1020n`f;lahu;tlf;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKttj;j kw;Wk; Jz;L N[@ fpof;F: Jz;L N[> cupik NfhUNthu;fz;Lgpbf;f Kbahj ngypfKt tj;j kw;Wk; Mu;. B. [aNrf;fucupik NfhUk; ngypfKt tj;j @ njw;F: cupik NfhUNthu;fz;Lgpbf;f Kbahj ngypfKt tj;j kw;Wk; Jz;L vy; @ Nkw;F:Mu;. B. [aNrf;fu cupik NfhUk; ngypfKt tj;j.
+
+11. Jz;L 'vy;" - ngypfKt tj;j - tp];jPuzk; : 0.2572n`f;lahu;tlf;F: Mu;. B. [aNrf;fu cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L Nf@ fpof;F: Mu;. B. [aNrf;fu cupik NfhUk; ngypfKttj;j kw;Wk; cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKttj;j @ njw;F: cupik NfhUNthu; fz;Lgpbf;f Kbahj ngypfKt
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.138 A
+
+tj;j> tPjp> Jz;L vd; kw;Wk; vr;. B. rP. v];. [ae;j cupik NfhUk;ngypfKt tj;j @ Nkw;F: cupik NfhUNthu; fz;Lgpbf;f KbahjngypfKt tj;j.
+
+12. Jz;L 'vk;" - ngypfKt tj;j - tp];jPuzk; : 0.0097n`f;lahu;tlf;F: Jz;L vd; kw;Wk; gpuNjr rig tPjp @ fpof;F: Mu;.rpwpahtjP cupik NfhUk; ngypfKt tj;j @ njw;F: gpuNjr rigtPjp kw;Wk; Jz;L vd;@ Nkw;F: Jz;L vd;.
+
+13. Jz;L 'vd;" - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0138n`f;lahu;tlf;F: Jz;L vy;@ fpof;F: gpuNjr rig tPjp kw;Wk; Jz;L vk;@njw;F: Jz;L fpa{ kw;Wk; gP @ Nkw;F: Jz;L gP kw;Wk; vy;.
+
+14. Jz;L 'gP" - ngypfKt tj;j - tp];jPuzk; : 0.0455n`f;lahu;tlf;F: cupik NfhuNthu; fz;Lgpbf;f Kbahj ngypfKttj;j kw;Wk; Jz;L vy; @ fpof;F: Jz;L vy;> vd; kw;Wk; fpa{ @njw;F: Jz;L fpa{ kw;Wk; Nf. [P. tpkyhtjP cupik NfhUk;nghpfKt tj;j @ Nkw;F: vr;. B. rP. v]; [ae;j cupik NfhUk;ngypfKt tj;j.
+
+15. Jz;L 'fpa{" - ngypfKt tj;j - tp];jPuzk; : 0.0911n`f;lahu;tlf;F: Jz;Lfs; gP> vd; @ fpof;F: Jz;L vd;> gpuNjr rigtPjp> Nf. [P. tpkyhtjP cupik NfhUk; ngypfKt tj;j kw;Wk; Nf.[P. jdghy cupik NfhUk; ngypfKt tj;j @ njw;F: Nf. [P. jdghycupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L Mu; @ Nkw;F: Nf. [P.tpkyhtjP cupik NfhUk; ngypfKt tj;j kw;Wk; vr;. B. rP. v];.[ae;j cupik NfhUk; ngypfKt tj;j.
+
+16. Jz;L 'Mu;" - ngypfKt tj;j - tp];jPuzk; : 0.1225n`f;lahu;tlf;F: Nf. [P. tpkyhtjP cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L fpa{ @ fpof;F: Nf. [P. jdghy cupik NfhUk; ngypfKttj;j kw;Wk; Nf. [P. V. [P. Fkhu cupik NfhUk; ngypfKt tj;j @njw;F: Jz;Lfs; v]; kw;Wk; uP @ Nkw;F: tPjp> Nf. [P. jdghycupik NfhUk; ngypfKt tj;j kw;Wk; Nf. [P. tpkyhtjP cupikNfhUk; ngypfKt tj;j kw;Wk; Jz;L fpa{.
+
+17. Jz;L 'v];" - ngypfKt tj;j - tp];jPuzk; : 0.0258n`f;lahu; tlf;F: Jz;Lfs; Mu; kw;Wk; Nf. [P. jdghy cupik NfhUk;ngypfKt tj;j @ fpof;F: Nf. [P. V. gP. Fkhu cupik NfhUk;ngypfKt tj;j kw;Wk; a{. rP. tpf;fpukehaf;f cupik NfhUk;ngypfKt tj;j @ njw;F: Jz;L tP @ Nkw;F: Jz;Lfs; uP kw;Wk;Mu;.
+
+18. Jz;L 'uP" - Fwpg;gplg;gltpy;iy - tp];jPuzk; : 0.0049n`f;lahu; tlf;F: Nf. [P. jdghy cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L Mu; @ fpof;F: Jz;L v]; @ njw;F: Jz;L tP> a{ kw;Wk;Nf. [P. v];. [P. Fkhu cupik NfhUk; ngypfKt tj;j@ Nkw;F: tPjp.
+
+19. Jz;L 'a{" - ngypfKt tj;j - tp];jPuzk; : 0.1035n`f;lahu; tlf;F: tPjp kw;Wk; Jz;L uP @ fpof;F: Jz;Lfs; uP kw;Wk; tP @njw;F: Jz;L lgps;a{> vf;]; kw;Wk; lgps;a{. B. tp[aJq;f cupikNfhUk; ngypfKt tj;j @ Nkw;F: Nf. [P. v];. [P. Fkhu cupikNfhUk; ngypfKt tj;j kw;Wk; tPjp.
+
+20. Jz;L 'tP" - ngypfKt tj;j - tp];jPuzk; : 0.0975n`f;lahu; tlf;F: Jz;Lfs; uP> v]; kw;Wk; Nf. [P. V. [P. Fkhu cupikNfhUk; ngypfKt tj;j @ fpof;F: a{. rP. tpf;fpukehaf;f cupikNfhUk; ngypfKt tj;j kw;Wk; vr;. vk;. vd;. v];. v];. N`uj;cupik NfhUk; ngypfKt tj;j@ njw;F: vr;. vk;. vd;. v];. v];.N`uj; cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L lgps;a{ @Nkw;F: Jz;L a{.
+
+21. Jz;L 'lgps;A{" - ngypfKt tj;j - tp];jPuzk;: 0.1203n`f;lahutlf;F: Jz;Lfs; A{ kw;Wk; tP@ fpof;F: A{.rP. tpf;fpukehaf;fcupik NfhUk; ngypfKt tj;j> vr;.vk;.vd;.v];.v];.N`uj;cupik NfhUk; ngypfKt tj;j kw;Wk; tPjp@ njw;F : Jz;Lfs;,rl; kw;Wk; it@ Nkw;F: Jz;Lfs; it kw;Wk; vf;];.
+
+22. Jz;L 'vf;];" - ngypfKt tj;j - tp];jPuzk;: 0.0240n`f;lahutlf;F: Nf.[P.v];.[P. Fkhu cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L A{@ fpof;F: Jz;L lgps;A{@ njw;F : Jz;Lfs; ,rl;>it kw;Wk; lg;.B.v];. [atPu cupik NfhUk; ngypfKt tj;j@Nkw;F: lg;.B.tp[aJq;f cupik NfhUk; ngypfKt tj;j.
+
+23. Jz;L 'it" - ngypfKt tj;j - tp];jPuzk;: 0.0180n`f;lahutlf;F: lg;.B.tp[aJq;f cupik NfhUk; ngypfKt tj;j> Jz;Lvf;]; kw;Wk; lgps;A{@ fpof;F: Jz;Lfs; lgps;A{> ,rl; kw;Wk; VrP@njw;F : Jz;L VrP kw;Wk; vy;.lg;.[P. tpkyhtjP cupik NfhUk;ngypfKt tj;j@ Nkw;F: lg;.B.v];.[atPu cupik NfhUk;ngypfKt tj;j.
+
+24. Jz;L ',rl;" - ngypfKt tj;j - tp];jPuzk;: 0.0693n`f;lahutlf;F: Jz;Lfs; vf;];> lgps;A{ kw;Wk; vr;.vk;.vd;.v];.v];.N`uj; cupik NfhUk; ngypfKt tj;j@ fpof;F: tPjp> lg;.V.A{.FyJq;f cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L VV@njw;F : Jz;L VV> Vgp kw;Wk; VrP@ Nkw;F: Jz;L it.
+
+25. Jz;L 'VV" - ngypfKt tj;j - tp];jPuzk;: 0.0002n`f;lahutlf;F: Jz;L ,rl;@ fpof;F: lg;.V.A{. FyJq;f cupik NfhUk;ngypfKt tj;j kw;Wk; [P.[P. tpkyrpwp cupik NfhUk; ngypfKttj;j@ njw;F : [P.[P.tpkyrpwp cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L Vgp@ Nkw;F: Jz;L ,rl;.
+
+26. Jz;L 'Vgp" - ngypfKt tj;j - tp];jPuzk;: 0.0336n`f;lahutlf;F: Jz;L ,rl; kw;Wk; VV@ fpof;F: lg;.V.A{. FyJq;f cupikNfhUk; ngypfKt tj;j kw;Wk; gP.[P. tpkyrpwp cupik NfhUk;ngypfKt tj;j@ njw;F : N[.vk;.=ahyjh cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;Lfs; VB kw;Wk; VrP@ Nkw;F: Jz;Lfs;VrP kw;Wk; ,rl;.
+
+27. Jz;L 'VrP" - ngypfKt tj;j - tp];jPuzk;: 0.0470n`f;lahutlf;F: lg;.B.v];.[ahtPu cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L it kw;Wk; ,rl;@ fpof;F: Jz;Lfs; ,rl;> Vgp kw;Wk; VB@njw;F : Jz;L VB kw;Wk; N[.vk;. =ahyjh cupik NfhUk;
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.139 A
+
+ngypfKt tj;j@ Nkw;F: N[.vk;.=ahyjh cupik NfhUk;ngypfKt tj;j kw;Wk; vy;.lg;.[P. tpkyhtjP cupik NfhUk;ngypfKt tj;j.
+
+28. Jz;L 'VB" - ngypfKt tj;j - tp];jPuzk;: 0.1055n`f;lahutlf;F: vy;.lg;.[P.tpkyhtjP cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;L VrP kw;Wk; Vgp@ fpof;F: [P.[P.tpkyrpwp cupik NfhUk;ngypfKt tj;j> N[.vk;.=ahyjh cupik NfhUk; ngypfKttj;j> B.vd;.[P. njDtuNf cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L V<@ njw;F : Jz;L V< kw;Wk; Vvg;@ Nkw;F: B.FRkhtjPcupik NfhUk; ngypfKt tj;j> N[.vk;.=ahyjh cupik NfhUk;ngypfKt tj;j kw;Wk; vy;.lg;.[P.tpkyhtjP cupik NfhUk;ngypfKt tj;j.
+
+29. Jz;L 'V<" - ngypfKt tj;j - tp];jPuzk;: 0.0078n`f;lahutlf;F: Jz;L VB kw;Wk; N[.vk;.=ahyjh cupik NfhUk;ngypfKt tj;j@ fpof;F: B.vd;.[P. njDtuNf cupik NfhUk;ngypfKt tj;j@ njw;F : B.FRkhtjP cupik NfhUk; ngypfKttj;j kw;Wk; Jz;L Vvg;@ Nkw;F: Jz;Lfs; Vvg; kw;Wk; VB.
+
+30. Jz;L 'Vvg;" - ngypfKt tj;j - tp];jPuzk;: 0.1032n`f;lahutlf;F: Jz;L VB kw;Wk; V<@ fpof;F: Jz;L V<>B.vd;.[P.njDtuNf cupik NfhUk; ngypfKt tj;j> B.FRkhtjPcupik NfhUk; ngypfKt tj;j> gpuNjr rig tPjp kw;Wk; Jz;LV[P@ njw;F : Jz;L V[P kw;Wk; gpuNjr rig tPjp@ Nkw;F: B.FRkhtjPcupik NfhUk; ngypfKt tj;j> N[.vk;.=ahyjh cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L VB.
+
+31. Jz;L 'V[P" - tp];jPuzk;: 0.0200 n`f;lahutlf;F: FRkhtjP cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;LVvg;@ fpof;F: gpuNjr rig tPjp kw;Wk; m];fpup ,u[ kfh tpfhiucupik NfhUk; ngypfKt tj;j@ njw;F : Jz;Lfs; Vvr; kw;Wk;VN[@ Nkw;F: m];fpup ,u[ kfh tpfhiu cupik NfhUk; ngypfKttj;j kw;Wk; gpuNjr rig tPjp.
+
+32. Jz;L 'Vvr;" - ngypfKt tj;j - tp];jPuzk;: 0.0195n`f;lahutlf;F: Jz;L V[P kw;Wk; gpuNjr rig tPjp@ fpof;F: m];fpup,u[ kfh tpfhiu cupik NfhUk; ngypfKt tj;j@ njw;F:m];fpup ,u[ kfh tpfhiu cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L VN[@ Nkw;F: Jz;Lfs; VN[ kw;Wk; V[P.
+
+33. Jz;L 'VN[" - ngypfKt tj;j - tp];jPuzk;: 0.2203n`f;lahutlf;F: m];fpup ,u[ kfh tpfhiu cupik NfhUk; ngypfKttj;j> gpuNjr rig tPjp kw;Wk; Jz;Lfs; V[P kw;Wk; Vvr;@ fpof;F:Jz;L Vvr;> m];fpup ,u[ kfh tpfhiu cupik NfhUk; ngypfKttj;j kw;Wk; tha;f;fhy;@ njw;F: tha;f;fhy; kw;Wk; Jz;L VNf@Nkw;F: tha;f;fhy;> m];fpup ,u[ kfh tpfhiu cupik NfhUk;ngypfKt tj;j kw;Wk; gpuNjr rig tPjp
+
+34.Jz;L 'VN[" - tp];jPuzk;: 0.0352 n`f;lahutlf;F: tha;f;fhy;> m];fpup ,u[ kfh tpfhiu cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L VN[@ fpof;F: tha;f;fhy; kw;Wk;
+
+v];.v];. NrhgdP cupik NfhUk; ngypfKt tj;j@ njw;F:Jz;Lfs; Vvy;> Vvk; kw;Wk; Vvd;@ Nkw;F: lg;.B.V.gP.Nf.jrehaf;f cupik NfhUk; ngypfKt tj;j kw;Wk; tha;f;fhy;.
+
+35.Jz;L 'Vvy;" - ngypfKt tj;j - tp];jPuzk;: 0.0660n`f;lahutlf;F: Jz;L VNf> tha;f;fhy; kw;Wk; v];.v];.NrhgdP cupikNfhUk; ngypfKt tj;j@ fpof;F: v];.v];. NrhgdP cupik NfhUk;ngypfKt tj;j> tPjp kw;Wk; Jz;L VgP@ njw;F: Jz;L VgP@ Nkw;F:Jz;Lfs; Vvk; kw;Wk; VNf.
+
+36.Jz;L 'Vvk;" - ngypfKt tj;j - tp];jPuzk;: 0.0663n`f;lahutlf;F: Jz;L Vvd; kw;Wk; VNf@ fpof;F: Jz;L Vvy;@ njw;F:Jz;Lfs; Vvy; kw;Wk; VgP @ Nkw;F: Jz;Lfs; VgP> Vvd; kw;Wk;VNf.
+
+37.Jz;L 'Vvd;" - ngypfKt tj;j - tp];jPuzk;: 0.0262n`f;lahutlf;F: lg;.B.V.gP.Nf. jrehaf;f cupik NfhUk; ngypfKt tj;j>tha;f;fhy; kw;Wk; Jz;L VNf@ fpof;F: Jz;Lfs; VNf kw;Wk; Vvk;@njw;F: Jz;Lfs; Vvk;> VgP kw;Wk; tPjp@ Nkw;F: tPjp kw;Wk;lg;.B.V.[P.Nf. jrehaf;f cupik NfhUk; ngypfKt tPjp.
+
+38.Jz;L 'VgP" - tp];jPuzk;: 0.0218 n`f;lahutlf;F: lg;.B.V.[P.Nf. jrehaf;f cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;Lfs; Vvd;> Vvk; kw;Wk; Vvy;@ fpof;F: v];. v];.NrhgdP cupik NfhUk; ngypfKt tj;j kw;Wk; tPjp@ njw;F:v];.B.vd;.jahfhe;jp cupik NfhUk; ngypfKt tj;j> Jz;Lfs;VMh; kw;Wk; Vfpt;@ Nkw;F: lg;.V.,e;jpuhtjP cupik NfhUk;ngypfKt tj;j kw;Wk; tPjp.
+
+39. Jz;L 'Vfpt;" - ngypfKt tj;j - tp];jPuzk;: 0.1288n`f;lahu;tlf;F: tPjp kw;Wk; Jz;L VgP@ fpof;F: Jz;L VMu;@ njw;F:Jz;Lfs; Vv]; kw;Wk; VuP kw;Wk; B. [P. uP. v];. fUzhuj;d cupikNfhUk; ngypfKt tj;j @ Nkw;F: lgps;A{. V. ,e;jpuhtjP cupikNfhUk; ngypfKt tj;j kw;Wk; tPjp.
+
+40. Jz;L 'VMu;" - ngypfKt tj;j - tp];jPuzk;: 0.0783n`f;lahu;tlf;F: Jz;Lfs; VgP kw;Wk; tPjp @ fpof;F: v];. B. vd;. jahfhe;jpcupik NfhUk; ngypfKt tj;j @ njw;F: v];. B. vd;. jahfhe;jpcupik NfhUk; ngypfKt tj;j> tPjp kw;Wk; Jz;Lfs; VA{ kw;Wk;Vv]; @ Nkw;F: Jz;Lfs; Vv]; kw;Wk; Vfpt;.
+
+41. Jz;L 'Vv];" - ngypfKt tj;j - tp];jPuzk;: 0.0385n`f;lahu;tlf;F: Jz;Lfs; Vfpt; kw;Wk; VMu; @ fpof;F: Jz;L VMu; @njw;F: Jz;Lfs; VMu;> VA{ kw;Wk; VuP @ Nkw;F: Jz;L VuP.
+
+42. Jz;L 'VuP" - ngypfKt tj;j - tp];jPuzk;: 0.0416n`f;lahu;tlf;F: lg;. V. ,e;jpuhtjP cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L Vfpt; @ fpof;F: Jz;L Vv]; @ njw;F: Jz;Lfs; Vv];> VA{kw;Wk; tPjp @ Nkw;F: tPjp kw;Wk; B. [P. uP. v];. fUzhuj;d cupikNfhUk; ngypfKt tj;j.
+
+43. Jz;L 'VA{" - tp];jPuzk;: 0.0324 n`f;lahu;tlf;F: B. [P. uP. v];. fUzhuj;d cupik NfhUk; ngypfKttj;j> Jz;Lfs; VuP> Vv];> VMu; kw;Wk; v];. B. vd;. jahfhe;jp
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.1310 A
+
+cupik NfhUk; ngypfKt tj;j @ fpof;F: gpuNjr rig tPjp kw;Wk;V. gP. v];. vk;. [atu;jd cupik NfhUk; ngypfKt tj;j @ njw;F:Jz;L Vit> Vvf;];> Vlgps;A{> VtP kw;Wk; gP. [P. fUzhuj;dcupik NfhUk; ngypfKt tj;j @ Nkw;F: gpuNjr rig tPjp.
+
+44. Jz;L 'VtP " - ngypfKt tj;j - tp];jPuzk;: 0.0563n`f;lahu;tlf;F: gpuNjr rig tPjp kw;Wk; Jz;L VA{ @ fpof;F: Jz;LVlgps;A{ @ njw;F: Jz;Lfs; Vlgps;A{> gpV> gpgp kw;wk; Mu;. vk;. B.Nf. uj;dhaf;f cupik NfhUk; ngypfKt tj;j @ Nkw;F: Mu;. vk;.B. Nf. uj;dhaf;f cupik NfhUk; ngypfKt tj;j> [P. [P.fUzhuj;d cupik NfhUk; ngypfKt tj;j kw;Wk; gpuNjr rigtPjp.
+
+45. Jz;L 'Vlgps;A{" - tp];jPuzk;: 0.0080 n`f;lahu;tlf;F: Jz;L VA{ @ fpof;F: Jz;L Vvf;]; @ njw;F: Jz;L gpV @Nkw;F: Jz;Lfs; gpgp kw;Wk; VtP.
+
+46. Jz;L 'Vvf;];" - ngypfKt tj;j - tp];jPuzk;: 0.0177n`f;lahu;tlf;F: Jz;Lfs; VA{ kw;Wk; Vit @ fpof;F: Jz;L Vit @njw;F: Jz;Lfs; gpV kw;Wk; Vlgps;A{ @ Nkw;F: Jz;L Vlgps;A{.
+
+47. Jz;L 'Vit" - ngypfKt tj;j - tp];jPuzk;: 0.0200n`f;lahu;tlf;F: Jz;Lfs; Vvf;];> VA{ kw;Wk; gpuNjr rig tPjp @ fpof;F:gpuNjr rig tPjp> V. [P. v];. vk;. [atu;jd cupik NfhUk;ngypfKt tj;j kw;Wk; V. [P. tl;ltd cupik NfhUk; ngypfKttj;j @ njw;F: V. [P. tl;ltd cupik NfhUk; ngypfKt tj;jkw;Wk; Jz;Lfs; gpV kw;Wk; Vvf;]; @ Nkw;F: Jz;L Vvf;];.
+
+48. Jz;L 'V,rl;" - ngypfKt tj;j - tp];jPuzk;: 0.0004n`f;lahu;tlf;F: Jz;Lfs; gpV kw;Wk; V. [P. tl;ltd cupik NfhUk;ngypfKt tj;j @ fpof;F: V. [P. vd;. B. jprhehaf;f cupik NfhUk;ngypfKt tj;j@ njw;F: vr;. B. ju;kuj;d cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L gpB @ Nkw;F: Jz;Lfs; gpB kw;Wk;gpV.
+
+49. Jz;L 'gpV" - ngypfKt tj;j - tp];jPuzk;: 0.0599n`f;lahu;tlf;F: Jz;Lfs; gpgp> VtP> Vlgps;A{> Vvf;];> Vit kw;Wk; V. [P.v];. vk;. [atu;jd cupik NfhUk; ngypfKt tj;j @ fpof;F: V. [P.tl;ltd cupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L V,rl; @njw;F: Jz;L V,rl; kw;Wk; gpB@ Nkw;F: Jz;Lfs; gpgp kw;Wk;VtP.
+
+50. Jz;L 'gpgp" - ngypfKt tj;j - tp];jPuzk;: 0.0610n`f;lahu;tlf;F: [P. [P. fUzhuj;d cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L VtP kw;Wk; Vlgps;A{@ fpof;F: Jz;L Vlgps;A{ kw;Wk; gpV @njw;F: Jz;L gpV> gpB kw;Wk; gprP @ Nkw;F: V. [P. v];. [P.Fkhurpq;` cupik NfhUk; ngypfKt tj;j> Mu;. vk;. B. Nf.uj;ehaf;f cupik NfhUk; ngypfKt tj;j kw;Wk; [P. [P. fUzhuj;dcupik NfhUk; ngypfKt tj;j.
+
+51. Jz;L 'gprP" - ngypfKt tj;j - tp];jPuzk;: 0.0001n`f;lahu;tlf;F: Mu;. vk;. B. Nf. uj;ehaf;f cupik NfhUk; ngypfKttj;j kw;Wk; Jz;L gpgp @ fpof;F: JzL gpgp kw;Wk; gpB @ njw;F:
+
+Jz;L gpgp kw;Wk; vr;. B. ju;kuj;d cupik NfhUk; ngypfKttj;j@ Nkw;F: V. [P. v];. [P. Fkhurpq;` cupik NfhUk; ngypfKttj;j.
+
+52. Jz;L 'gpB" - ngypfKt tj;j - tp];jPuzk;: 0.1002n`f;lahu;tlf;F: Jz;Lfs; gprP> gpgp> gpV> gp,rl; kw;Wk; V. [P. vd;. B.jprhehaf;f cupik NfhUk; ngypfKt tj;j @ fpof;F: vr;. B.ju;kuj;d cupik NfhUk; ngypfKt tj;j kw;Wk; vk;. vr;. [P. rP.gpNukuj;d cupik NfhUk; ngypfKt tj;j @ njw;F: Jz;L gp<>gpvg;> gp[P kw;Wk; gpvr; @ Nkw;F: Jz;L gpvr;> V. [P. fkyhtjPcupik NfhUk; ngypfKt tj;j> vr;. B. ju;kju;d cupik NfhUk;ngypfKt tj;j> V. [P. v];. [P. Fkhurpq;` cupik NfhUk;ngypfKt tj;j kw;Wk; Jz;L gprP.
+
+53. Jz;L 'gp<" - ngypfKt tj;j - tp];jPuzk;: 0.0059n`f;lahu;tlf;F: Jz;Lfs; gpvg;> gpB kw;Wk; vr;. B. ju;kuj;d cupikNfhUk; ngypfKt tj;j @ fpof;F: vk;. vr;. [P. v];. gpNukuj;dcupik NfhUk; ngypfKt tj;j kw;Wk; gpuNjr rig tPjp@ njw;F:gpuNjr rig tPjp kw;Wk; Jz;L gpN[ @ Nkw;F: Jz;L gpvg;.
+
+54. Jz;L 'gpvg;" - ngypfKt tj;j - tp];jPuzk;: 0.0375n`f;lahu;tlf;F: Jz;Lfs; gp[P kw;Wk; gpB @ fpof;F: Jz;L gp< @ njw;F:Jz;Lfs; gp< kw;Wk; gpN[@ Nkw;F: Jz;Lfs; gpN[ kw;Wk; gp[P.
+
+55. Jz;L 'gp[P" - ngypfKt tj;j - tp];jPuzk;: 0.0488n`f;lahu;tlf;F: Jz;L gpB @ fpof;F: Jz;Lfs; gpvg; kw;Wk; gpN[ @ njw;F:Jz;L gpN[ @ Nkw;F: Jz;Lfs; gpN[> gpvr; kw;Wk; gpB.
+
+56. Jz;L 'gpvr;" - ngypfKt tj;j - tp];jPuzk;: 0.0113n`f;lahu;tlf;F: vr;. B. ju;kuj;d cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L gpB kw;Wk; gp[P @ fpof;F: Jz;L gp[P @ njw;F: Jz;Lfs;gp[P> gpN[ kw;Wk; gpuNjr rig tPjp @ Nkw;F: gpuNjr rig tPjp> V.[P. fkyhtjP cupik NfhUk; ngypfKt tj;j kw;Wk; vr;. B.ju;kuj;d cupik NfhUk; ngypfKt tj;j.
+
+57. Jz;L 'gpN[" - tp];jPuzk;: 0.0208 n`f;lahu;tlf;F: V. gP. fkyhtjP cupik NfhUk; ngypfKt tj;j> Jz;Lgpvr;> gp[P> gpvg;> gp< kw;Wk; vk;. vk;. vr;. [P. v];. gpNukuj;d cupikNfhUk; ngypfKt tj;j @ fpof;F: gpuNjr rig tPjp kw;Wk; vr;. B.tpkyrpwp cupik NfhUk; ngypfKt tj;j @ njw;F: Jz;Lfs; gpNf>gpvy; kw;Wk; gpvk; @ Nkw;F: vr;. B. [P. v];. re;jpuNrf;fu cupikNfhUk; ngypfKt tj;j kw;Wk; gpuNjr rig tPjp.
+
+58. Jz;L 'gpNf" - ngypfKt tj;j - tp];jPuzk; : 0.0213n`f;lahu;tlf;F: Jz;L gpN[> tPjp kw;Wk; vr;. B. tpkyrpwp cupik NfhUk;ngypfKt tj;j@ fpof;F: vr;. B. tpkyrpwp cupik NfhUk; ngypfKttj;j@ njw;F: vk;. B. vd;. [arpq;` cupik NfhUk; ngypfKttj;j kw;Wk; Jz;Lfs; gpfpa{ kw;Wk; gpvy; @ Nkw;F: Jz;L gpvy;.
+
+59. Jz;L 'gpvy;" - ngypfKt tj;j - tp];jPuzk; : 0.0726n`f;lahu;tlf;F: Jz;Lfs; gpvk;> gpN[ kw;Wk; gpNf @ fpof;F: Jz;L gpNf@njw;F: Jz;Lfs; gpNf kw;Wk; gpfpa{ @ Nkw;F: Jz;Lfs; gpvd;kw;Wk; gpvk;.
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.1311 A
+
+60. Jz;L 'gpvk;" - ngypfKt tj;j - tp];jPuzk; : 0.0504n`f;lahu;tlf;F: gpuNjr rig tPjp kw;Wk; Jz;L gpN[ @ fpof;F: Jz;Lfs;gpN[ kw;Wk; gpvy; @ njw;F: Jz;L gpvd; kw;Wk; vr;. B. uzrpq;`cupik NfhUk; ngypfKt tj;j@ Nkw;F: vr;. B. [P. v];. re;jpuNrf;fucupik NfhUk; ngypfKt tj;j.
+
+61. Jz;L 'gpvd;" - ngypfKt tj;j - tp];jPuzk; : 0.0727n`f;lahu;tlf;F: vr;. B. [P. v];. re;jpuNrf;fu cupik NfhUk; ngypfKttj;j kw;Wk; Jz;Lfs; gpvk; kw;Wk; gpvy; @ fpof;F: Jz;L gpvy; @njw;F: Jz;Lfs; gpvy;> gpfpa{ kw;Wk; gpgP @ Nkw;F: vr;. B. vd;. rP.gpudhe;J cupik NfhUk; ngypfKt tj;j kw;Wk; vr;. B. uzrpq;`cupik NfhUk; ngypfKt tj;j.
+
+62. Jz;L 'gpgP" - ngypfKt tj;j - tp];jPuzk; : 0.0500n`f;lahu;tlf;F: vr;. B. vd;. rP. gpuzhe;J cupik NfhUk; ngypfKttj;j> vr;. B. uzrpq;` cupik NfhUk; ngypfKt tj;j kw;Wk;Jz;L gpvd; @ fpof;F: Jz;L gpfpa{@ njw;F: Jz;L gpMu;@ Nkw;F:Jz;L gp,rl; kw;Wk; tPjp (tP.m.m.).
+
+63. Jz;L 'gpfpa{" - ngypfKt tj;j - tp];jPuzk; : 0.0362n`f;lahu;tlf;F: Jz;Lfs; gpvd;> gpvy; kw;Wk; gpNf@ fpof;F: Jz;L gpNf>vr;. B. tpkyrpwp cupik NfhUk; ngypfKt tj;j kw;Wk; vk;. B.vd;. [arpq;` cupik NfhUk; ngypfKt tj;j@ njw;F: Jz;LgpMu;@ Nkw;F: Jz;Lfs; gpMu; kw;Wk; gpgP.
+
+64. Jz;L 'gpMu;" - ngypfKt tj;j - tp];jPuzk; : 0.0917n`f;lahu;tlf;F: Jz;Lfs; gpgP kw;Wk; gpfpa{@ fpof;F: Jz;L gpfpa{ kw;Wk;vk;. B. vd;. [arpq;` cupik NfhUk; ngypfKt tj;j@ njw;F:Jz;Lfs; gpv]; kw;Wk; gpa{@ Nkw;F: Jz;L gp,rl;.
+
+65. Jz;L 'gpv];" - ngypfKt tj;j - tp];jPuzk; : 0.0143n`f;lahu;tlf;F: Jz;L gpMu; kw;Wk; vk;. B. vd;. [arpq;` cupik NfhUk;ngypfKt tj;j @ fpof;F: vk;. B. vd;. [arpq;` cupik NfhUk;ngypfKt tj;j kw;Wk; V. gP. fkyhtjP cupik NfhUk; ngypfKttj;j @ njw;F: Jz;L gpvf;];@ Nkw;F: Jz;Lfs; gpvf;];> gpuP kw;Wk;gpa{.
+
+66. Jz;L 'gpuP" - ngypfKt tj;j - tp];jPuzk; : 0.0189n`f;lahu;tlf;F: Jz;Lfs; gpa{ kw;Wk; gpv]; @ fpof;F: Jz;L gpv]; @njw;F: Jz;L gpvf;];@ Nkw;F: Jz;Lfs; gptP kw;Wk; gpa{.
+
+67. Jz;L 'gpa{" - tp];jPuzk; : 0.0196 n`f;lahu;tlf;F: tPjp kw;Wk; Jz;L gpMu;@ fpof;F: Jz;L gpv]; @ njw;F:Jz;Lfs; gpuP kw;Wk; gptP@ Nkw;F: Jz;L gp,rl;.
+
+68. Jz;L 'gptP" - ngypfKt tj;j - tp];jPuzk; : 0.0446n`f;lahu;tlf;F: tPjp kw;Wk; Jz;L gpa{@ fpof;F: Jz;L gpuP @ njw;F:Jz;Lfs; gpvf;]; kw;Wk; gplgps;a{@ Nkw;F: Jz;L gp,rl;.
+
+69. Jz;L 'gplgps;a{" - ngypfKt tj;j - tp];jPuzk; : 0.1156n`f;lahu;tlf;F: Jz;L gptP@ fpof;F: Jz;L gpvf;];@ njw;F: Jz;Lgpit@ Nkw;F: Jz;L gp,rl;.
+
+70. Jz;L 'gpvf;];" - ngypfKt tj;j - tp];jPuzk; : 0.0903n`f;lahu;tlf;F: Jz;Lfs; gptP> gpuP> gpv]; kw;Wk; vk;. B. vd;. [arpq;`cupik NfhUk; ngypfKt tj;j@ fpof;F: vk;. B. vd;. [arpq;`cupik NfhUk; ngypfKt tj;j> V. [P. fkyhtjP cupik NfhUk;ngypfKt tj;j kw;Wk; tPjp @ njw;F: tPjp kw;Wk; Jz;L gPit@Nkw;F: Jz;L lgps;a{.
+
+71. Jz;L 'gpit" - tp];jPuzk; : 0.0206 n`f;lahu;tlf;F: Jz;Lfs; gplgps;a{> gpvf;]; kw;Wk; V. [P. fkyhtjPcupik NfhUk; ngypfKt tj;j @ fpof;F: tPjp kw;Wk; gP. V. v];G`hk;Gnfhl cupik NfhUk; ngypfKt tj;j @ njw;F: Jz;Lfs;rP<> rPB kw;Wk; rPV @ Nkw;F: Jz;Lfs; gp,rl; kw;Wk; gplgps;a{.
+
+72. Jz;L 'gp,rl;" - tp];jPuzk; : 0.0426 n`f;lahu;tlf;F: tPjp (tP.m.m.) kw;Wk; vr;. B. vd;. rP. gpuzhe;J cupikNfhUk; ngypfKt tj;j @ fpof;F: Jz;Lfs; gpgP> gpMu;> gpa{> gptP>gplgps;a{> gpit> rPV> rPgp> rPrP> rPB> rP[P> rPvg; kw;Wk; rPvr;@ njw;F: B.B. yPyhtjP kw;Wk; rpyu; cupik NfhUk; ngypfKt tj;j kw;Wk;tPjp (tP.m.m.) @ Nkw;F: tPjp (tP.m.m.).
+
+73. Jz;L 'rPV" - ngypfKt tj;j - tp];jPuzk; : 0.0171n`f;lahu;tlf;F: Jz;L gpit@ fpof;F: Jz;L rPB @ njw;F: Jz;Lfs; rPBkw;Wk; rPgp@ Nkw;F: Jz;Lfs; rPgp kw;Wk; gp,rl;.
+
+74. Jz;L 'rPgp" - ngypfKt tj;j - tp];jPuzk; : 0.0115n`f;lahu;tlf;F: Jz;L rPV@ fpof;F: Jz;L rPB @ njw;F: Jz;L rP< @Nkw;F: Jz;Lfs; rPrP kw;Wk; gp,rl;.
+
+75. Jz;L 'rPrP" - ngypfKt tj;j - tp];jPuzk; : 0.0116n`f;lahu;tlf;F: Jz;L rPgp@ fpof;F: Jz;L rPB @ njw;F: Jz;L rPB@ Nkw;F:Jz;Lfs; rPB kw;Wk; gp,rl;.
+
+76. Jz;L 'rPB" - ngypfKt tj;j - tp];jPuzk; : 0.1301n`f;lahu;tlf;F: Jz;Lfs; rPrP> rPV kw;Wk; gpit@ fpof;F: Jz;L rP< @njw;F: Jz;Lfs; rPvg; kw;Wk; rP[P@ Nkw;F: Jz;Lfs; rP[P> gp,rl;rPrP kw;Wk; rPV.
+
+77. Jz;L 'rP<" - ngypfKt tj;j - tp];jPuzk; : 0.0198n`f;lahu;tlf;F: Jz;Lfs; rPB kw;Wk; gpit@ fpof;F: gP. V. v];G`hk;Gnfhl cupik NfhUk; ngypfKt tj;j> njw;F : gP. V. v];.G`hk;Gnfhl cupik NfhUk; ngypfKttj;j> gP. [P. Ngkjhrcupik NfhUk; ngypfKt tj;j kw;Wk; Jz;L rPvg; @ Nkw;F: Jz;LrPB.
+
+III fldgi - Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2019'08'13gFjp III - ,yq;ifr; rdehaf Nrhryprf; FbauR tu;j;jkhdg; gj;jpupif - mjptpNr\khdJ - 2019.08.1312 A
+
+78. Jz;L 'rPvg;" - ngypfKt tj;j - tp];jPuzk; : 0.0716n`f;lahu;tlf;F: Jz;Lfs; rP[P> rPB kw;Wk; rP<@ fpof;F: Jz;L rP<> gP. V.v];. G`hk;Gnfhl cupik NfhUk; ngypfKt tj;j> gP. [P. Ngkjhrcupik NfhUk; ngypfKt tj;j kw;Wk; B. B. yPyhtjP kw;Wk; rpyu;cupik NfhUk; ngypfKt tj;j@ njw;F: Jz;L rPvr;@ Nkw;F:Jz;Lfs; rPvr;> gp,rl; kw;Wk; rP[P.
+
+79. Jz;L 'rP[P" - ngypfKt tj;j - tp];jPuzk; : 0.0132n`f;lahu;tlf;F: Jz;L rPB @ fpof;F: Jz;L rPB kw;Wk; rPvg; @ njw;F:Jz;L rPvg;@ Nkw;F: Jz;Lfs; rPvg;> gP,rl; kw;Wk; rPB.
+
+80. Jz;L 'rPvr;" - ngypfKt tj;j - tp];jPuzk; : 0.6194n`f;lahu;tlf;F: Jz;Lfs; gp,rl;> rPvg;> gP. [P. Ngkjhr cupik NfhUk;ngypfKt tj;j kw;Wk; B. B. yPyhtjP kw;Wk; rpyu; cupik NfhUk;ngypfKt tj;j@ fpof;F: B. B. yPyhtjP kw;Wk; rpyu; cupik NfhUk;ngypfKt tj;j kw;Wk; tha;f;fhy;@ njw;F: B. B. yPyhtjP kw;Wk;rpyu; cupik NfhUk; ngypfKt tj;j@ Nkw;F: B. B. yPyhtjP kw;Wk;rpyu; cupik NfhUk; ngypfKt tj;j> Jz;L gp,rl; kw;Wk; tPjp(tP.m.m.).
+
+08-968
+
+,yq;if murhq;f mr;Rj; jpizf;fsj;jpy; mr;rplg;gl;lJ.
