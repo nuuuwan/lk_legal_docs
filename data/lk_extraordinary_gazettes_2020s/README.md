@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_22:49:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_23:18:25-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,234** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**846.1 MB**), from **2020-01-01** to **2025-10-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,237** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**847.0 MB**), from **2020-01-01** to **2025-10-11**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (2%), **TXT** (2%) & **🤗 Hugging Face** (2%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-08-2025-10-08-2457-03-ta",
-    "num": "2025-10-08-2457-03-ta",
-    "date_str": "2025-10-08",
-    "description": "Ministry of Public Administration, Provincial Council and Local Government - Appointments under the Notaries Ordinance",
+    "doc_id": "2025-10-11-2025-10-11-2457-36-ta",
+    "num": "2025-10-11-2457-36-ta",
+    "date_str": "2025-10-11",
+    "description": "Presidential Secretariat - Resignations and Appointments of Ministers.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-03_T.pdf",
-    "doc_number": "2457/03"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-36_T.pdf",
+    "doc_number": "2457/36"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-11 | `2025-10-11-2457-36-ta` | Presidential Secretariat - Resignations and Appointments of Ministers. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-36-ta)
+- 2025-10-11 | `2025-10-11-2457-36-si` | Presidential Secretariat - Resignations and Appointments of Ministers. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-36-si)
+- 2025-10-11 | `2025-10-11-2457-36-en` | Presidential Secretariat - Resignations and Appointments of Ministers. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-36-en)
 - 2025-10-08 | `2025-10-08-2457-03-ta` | Ministry of Public Administration, Provincial Council and Local Government - Appointments under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-08-2025-10-08-2457-03-ta)
 - 2025-10-08 | `2025-10-08-2457-03-si` | Ministry of Public Administration, Provincial Council and Local Government - Appointments under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-08-2025-10-08-2457-03-si)
 - 2025-10-08 | `2025-10-08-2457-03-en` | Ministry of Public Administration, Provincial Council and Local Government - Appointments under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-08-2025-10-08-2457-03-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-03 | `2025-10-03-2456-72-ta` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-ta)
 - 2025-10-03 | `2025-10-03-2456-72-si` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-si)
 - 2025-10-03 | `2025-10-03-2456-72-en` | Elections Commission - Filling of a vacancy in the office of Member of the Rathnapura Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-72-en)
-- 2025-10-03 | `2025-10-03-2456-69-si` | Land Title Settlement Dept - Thopawewa,Thamankaduwa D/S/D, Polonnaruwa District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-69-si)
-- 2025-10-03 | `2025-10-03-2456-69-en` | Land Title Settlement Dept - Thopawewa,Thamankaduwa D/S/D, Polonnaruwa District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-69-en)
-- 2025-10-03 | `2025-10-03-2456-61-ta` | 2456/61 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-03-2025-10-03-2456-61-ta)
 
 ---
 
