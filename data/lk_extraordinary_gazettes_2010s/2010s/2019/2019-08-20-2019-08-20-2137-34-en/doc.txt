@@ -1,0 +1,313 @@
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 197 and 198 of Block 10, contained in the Cadastral Map No. 511201, situated in the Village of Andiambalama within the Grama Niladhari Division of No. 155 - Andiambalama West in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0587 calling for claims to land parcels which was duly published in the Gazette No. 1829/6 of 23rd September, 2013 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+(Published by Authority)
+
+ ලංකා ජාතා ක සමාජවා ජනරජෙ ගැස පය
+
+අ ෙශෂඅ ෙශෂඅ ෙශෂඅ ෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+අංක අංක අංක අංක 2137213721372137/34 34 34 34 - 2019 2019 2019 2019 අෙග(ස්* අෙග(ස්* අෙග(ස්* අෙග(ස්* 20 20 20 20 වැ+ අඟහ.වාදා වැ+ අඟහ.වාදා වැ+ අඟහ.වාදා වැ+ අඟහ.වාදා - 2019201920192019.08080808.20202020
+
+No. 2137/34 – TUESDAY, AUGUST 20, 2019
+
+N.B.– This Extraordinary Gazette can be downloaded from www.documents.gov.lk
+
+1A - G 30763 - 14 (2019/08)
+
+2 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+197 0.0379 Perera Sinhabahu Achchi 531981383v Full 1st Class With the right of – Athukoralage Vimalarathne way of parcel No. 178/15, Ja Ela Wattha, No 194, Andiambalama 198 0.0396 Perera Sinhabahu Achchi 531981383v Full 1st Class With the right of – Athukoralage Vimalarathne way of parcel No. 178/15, Ja Ela Wattha, No 194, Andiambalama 09-40/1 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 102 and 172 of Block 02, contained in the Cadastral Map No. 511204, situated in the Village of Andiambalama within the Grama Niladhari Division of No. 155B - Andiambalama in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0626 calling for claims to land parcels which was duly published in the Gazette No. 1854/19 of 19th March, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+102 0.0463 Peduru Hewage Samarasena Silva 590473260v Full 1st Class With the right to – No. 136, Lankaland, access with servitude Peellawattha, Andiambalama of parcel No 109, 172 0.0466 Thushantha Chameera Lewke Bandara 782512749v Full 1st Class With the right to – No. 532/4 B, Seibel Place, access with servitude Kandy of parcel No 212,
+
+09-40/2
+
+3 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 7, 11, 12, 33 and 86 of Block 02, contained in the Cadastral Map No. 511205, situated in the Village of Walpola within the Grama Niladhari Division of No. 155 A - Walpola in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0763 calling for claims to land parcels which was duly published in the Gazette No. 1909/23 of 08th April, 2016 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+7 0.1765 Sinhamaha Mudalige Sarath Kumara 783081725v Full 1st Class – – No. 10/C, Walpala Road, Andiambalama 11 0.3712 Loku Balasooriyage Don Sisira 592882558v Full 1st Class Subject to the – Kumara Appuhami life interest of No. 08, Walpala, Andiambalama Loku Balasooriyage Don Sayaneris Appuhami and Muthukuda Arachchige Nanda Piyaseeli, 12 0.0378 Wanasinghe Mudiyanselage Samith 920572561v Full 1st Class – – Lahiru Bandara No. 08, Walpala, Andiambalama 33 0.3707 Loku Balasooriyage Don Gamini 580042627v Full 1st Class Subject to the – Sarath Sisira Kumara life interest of No. 400/F, Negambo Road, Loku Balasooriyage Dagonna Don Sayaneris Appuhami and Muthukuda Arachchige Nanda Piyaseeli 86 0.0618 Kumarasinghe Hettiarachchilage 876863731v Full 1st Class With the right of – Ireshika Prabodani way of parcel No. 15 A, Walpala, Andiambalama No 88, 09-40/3
+
+4 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 224 of Block 03, con-tained in the Cadastral Map No. 511206, situated in the Village of Katana East within the Grama Niladhari Division of No. 63 - Katana East in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0530 calling for claims to land parcels which was duly published in the Gazette No. 1803/18 of 25th March, 2013 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+224 0.0590 Konganige Thanuja Sugandhi 767774648v Full 1st Class Subject to the – Anthony life interest of No. 524/16, Thalangama South, Jayakodi Arachchige Battharamulla Helen Mary Vivian, 09-40/4 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 43 of Block 03, contained in the Cadastral Map No. 511208, situated in the Village of Kimbulapitiya within the Grama Niladhari Division of No. 92 - Kimbu-lapitiya south in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0654 calling for claims to land parcels which was duly published in the Gazette No. 1864/36 of 28th May, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998.
+
+K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+5 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+43 0.0345 Iddamalgoda Munasinghe 197567703720 Full 1st Class With the right of – Mudiyanselage Nadeepa Kanchana way of parcel Munasinghe No 44, No. 119 E, 4th Mile Post, Dagonna, Kimbulapitiya 09-40/5 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 218 of Block 04, con-tained in the Cadastral Map No. 511208, situated in the Village of Kimbulapitiya within the Grama Niladhari Division of No. 92 - Kim-bulapitiya south in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0655 calling for claims to land parcels which was duly published in the Gazette No. 1864/36 of 28th May, 2014 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+218 0.0526 Kachchakaduge Shehan Idunil 740730142v Full 1st Class – – Priyankara Fernando No. 297, Iddagodella, Kimbulapitiya 09-40/6
+
+6 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 69 and 299 of Block 01, contained in the Cadastral Map No. 511223, situated in the Village of Dewamottawa within the Grama Niladhari Division of No. 154 - Dewamottawa in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0974 calling for claims to land parcels which was duly published in the Gazette No. 2023/26 of 13th June, 2017 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+69 0.0317 Ekanayaka Mudiyanselage Indrani 737300404v Full 1st Class With the right to – No. 123, Siddharta Mawatha, access with servitude Andiambalama of parcel No 40, 299 0.0133 Pilippenge Nishantha Roshan 196734000787 Full 1st Class – – Chandimal Jayathilake Medical Centre, Andiambalama 09-40/7 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 54 of Block 03, contained in the Cadastral Map No. 511223, situated in the Village of Dewamottawa within the Grama Niladhari Division of No. 154 - Dewamot-tawa in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0985 calling for claims to land parcels which was duly published in the Gazette No. 2031/51 of 11th August, 2017 in terms of Sec-tion 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+7 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+54 0.0330 Loku Arumage Ajith Sriyananda 662151459v Full 1st Class With the right to – Silva access with servitude No. 30, Methsiri Uyana, of parcel No 57, Kimbulapitiya Road, Andiambalama 09-40/8 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1, 3, 9, 10, 28, 31, 38, 39, 44, 44, 48, 49, 50, 58, 77, 79, 80, 82, 84, 97 and 138 of Block 01, contained in the Cadastral Map No. 511230, situated in the Village of Kandawala within the Grama Niladhari Division of No. 70 - Ihela Kandawala in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1068 calling for claims to land parcels which was duly published in the Gazette No. 2099/09 of 27th November, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+1 0.2080 Marasinghe Arachchige Don Athula 772403372v Full 1st Class Subject to the – Manoj Sampath life interest of No. 202, Jaya Mawatha, Kandawala, Marasinghe Katana Arachchige Don Peter Kanicias and Prema Hapuarachci, 3 0.0331 Anne Shiromali Peiris Pulle 807252623v Full 1st Class With the right to – No. 202/3, Jaya Mawatha, Kandawala access with servitude of parcel No 05, Subject to the mortgage to the Multi Purpose Co-operative Society Ltd, Katana
+
+8 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 9 0.1017 Bastthiyan Koralalage Anthony 693080401v Full 1st Class – – Upali Rodrigo No. 201/B, Kandawala, Katana 10 0.1364 Ivon Jayamini Samarakoon 197768601103 Full 1st Class – – No. 112/A, Jude Mawatha, Koongodamulla, Katana 28 0.0800 Romles Nihal Fernando 551731430v Full 1st Class With the right to – No. 201/5, Jubilee Mawatha, access with servitude Kandawala, Katana of parcel No 246, Subject to the mortgage to the Multi Purpose Co-operative Society Ltd, Katana 31 0.1190 Liyanage Dona Shamila 787160387v Full 1st Class – – No. 201/N, Kandawala, Katana 38 0.0885 Nissanka Arachcilage Lionel Appuhami 550463326v Full 1st Class – – No. 201/A, Jaya Mawatha, Kandawala, Katana 39 0.0770 Nissanka Arachcilage Lionel 550463326v Full 1st Class Subject to the – Appuhami mortgage to the No. 201/A, Jaya Mawatha, Kandawala, State Mortgage Katana and Investment Bank 44 0.0253 1. Wijethunga Mudalige Swarna 526202171v Full 1st Class – – 2. Muthu Mudalige Udeni Indika 805871016v Co-ownership No. 201/J 2, Kandawala, Katana 48 0.0257 Lankahaluge Ruvini Nisansala 828433482v Full 1st Class With the right to – Fernando access with servitude No. 211/1, Jaya Mawatha, Kandawala of parcel No 42 and 46, 49 0.0517 Kurukulasooriya Ruwan Srimal 791860075v Full 1st Class With the right to – Nishanka Fernando access with servitude No. 201/J/4, Jaya Mawatha, Kandawala, of parcel No Katana 42 and 247, 50 0.0544 Kurukulasooriya Ruwan Srimal 791860075v Full 1st Class With the right to – Nishanka Fernando access with servitude No. 201/T/4, Jaya Mawatha, Kandawala, of parcel No 42, Katana 58 0.0804 Irippuge Ruwini Niroshani 815813073v Full 1st Class – – Perera No. 213/12, Jaya Mawatha, Kandawala, Katana 77 0.0431 Kandawalage Nishantha Janaka Kumar 702300800v Full 1st Class With the right to – Perera access with servitude No.201/J/B, Kontharaduwa of parcel No 55, Wattha, Kandawala, Katana 79 0.0511 Palathe Gedara Janaka Malpana 672624185v Full 1st Class With the right to – No. 203 B, Jaya Mawatha, Kandawala, access with servitude Katana of parcel No 81,
+
+9 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 80 0.0683 Irippuge Nihal Stanley 631143784v Full 1st Class – – Fernando No. 203/A, Jaya Mawatha, Kandawala, Katana 82 0.1169 Jayakodi Arachchige Dona Marian 695840284v Full 1st Class – – Anusha Samanthi No. 203/A, Jaya Mawatha, Kandawala, Katana 84 0.0321 Punchi Hewage Jayan Milantha 197720402140 Full 1st Class With the right to – No. 203/1, Jaya Mawatha, Kandawala, access with servitude Katana of parcel No 81, Subject to the mortgage to the Sarasa Land Pvt. Ltd. 97 0.0965 Induruwa Vidana Arachchige Dona 725052448v Full 1st Class – – Tikiri Kumari Induruwa No. 204, Jaya Mawatha, Kandawala, Katana 138 0.0512 Kandawalage Chathuri Nuwanthika 897524228v Full 1st Class Subject to the – Perera mortgage to the No. 225 B, Kandawala, Katana Hatton National Bank 09-40/9 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 19, 28, 54, 55, 57, 58, 59, 60, 70, 84, 86, 88, 94, 95, 96, 117, 120, 137, 167, 168, 176, 184, 201, 202, 210, 217, 219, 220, 230, 233, 234 and 259 of Block 02, con-tained in the Cadastral Map No. 511230, situated in the Village of Kandawala within the Grama Niladhari Division of No. 70 - Ihela Kandawala in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in No-tice No. 51/1069 calling for claims to land parcels which was duly published in the Gazette No. 2099/09 of 27th November, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+10 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+19 0.0624 Kanthirige Don Sirisena 510452739v Full 1st Class – – No. 175/1, Jaya Mawatha, Kandawala, Katana 28 0.0151 Prabuddhika Dilhani Silva 926994263v Full 1st Class With the right to – Tobias Pulle access with servitude No. 40, Doctor Wattha, Ethgala, of parcel No 26, Katana 54 0.0366 Ivon Jayalath Fernando 683661481v Full 1st Class With the right to – No. 180/A, Jaya Mawatha, access with servitude Kandawala, Katana of parcel No 53, 55 0.0427 Vinson Liliyan Priyangani 675250391v Full 1st Class With the right to – Fernando Pulle access with servitude No. 116/1, Palangathure West, of parcel No 53, Kochchikade Subject to the mortgage to the Kurukulasooriya Jude Sulalitha Kumar Fernando 57 0.0490 Mellawa Thanthirige Palitha Sanjeewa 770653096v Full 1st Class – – Appuhami No. 182, Jaya Mawatha, Kandawala, Katana 58 0.0470 Linthotage Oliver Fernando 561112550v Full 1st Class – – No. 181/1, Jaya Mawatha, Kandawala, Katana 59 0.1653 Vinson Sunil Quintus 652190235v Full 1st Class With the right to – Fernando Pulle access with servitude No. 204, Samanpaya, Etiyawala, of parcel No 56, Dankotuwa 60 0.0770 Ivan Jayalath Fernando 683661481v Full 1st Class With the right to – No. 180/A, Jaya Mawatha, access with servitude Kandawala, Katana of parcel No 56, 70 0.0478 Sebasthiyan Mani Rajini Kanth 820704371v Full 1st Class With the right to – No. 179/10/01, Jaya Mawatha, access with servitude Kandawala, Katana of parcel No 64, Subject to the mortgage to the Vinson Silva Alfred Pulle 84 0.0819 Wewala Gamage Jayanthika Fernando 677170581v Full 1st Class With the right to – No. 179/02, Jaya Mawatha, Kandawala, access with servitude Katana of parcel No 62, 86 0.0352 Ilippuge Rasika Tharanga 831731060v Full 1st Class With the right to – Fernando access with servitude No. 179/02, Jaya Mawatha, Kandawala, of parcel No 91, Katana 88 0.0316 Sembukutti Kankanamalage 727862358v Full 1st Class With the right to – Priyanka Chandani access with servitude No. 04, Johnsland Wattha, of parcel No 91, Kandawala, Katana
+
+11 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 94 0.0336 Kulasekaram Shashi Kumari 198123303496 Full 1st Class With the right to – No. 24, Ranuman Lane, access with servitude Periyamulla, Negambo of parcel No 91, Subject to the mortgage to the ETI Finance Ltd. 95 0.0342 Thamara Edirisinghe Kodithuwakku 637360515v Full 1st Class With the right to – No. 120, Farm Garden, access with servitude 50 Acres, Kimbulapitiya of parcel No 91, 96 0.0342 Thamara Edirisinghe Kodithuwakku 637360515v Full 1st Class With the right to – No. 120/14, Farm Garden, access with servitude 50 Acres, Kimbulapitiya of parcel No 91, 117 0.0312 Madavita Vithana Mudalige Don 531045246v Full 1st Class With the right to – Herman Joseph access with servitude No. 22, Nathuduwa, Kelaniya of parcel No 98, 120 0.0336 Prasan Padma Kumara Fernando 811914371v Full 1st Class With the right to – Pulle access with servitude No. 410/1, Subha Sadana Mawatha, of parcel No Kandawala, Katana 98 and 125, 137 0.0324 Sooriya Arachchi Mudalige Don 840670910v Full 1st Class With the right to – Shaluka Gihan Susiri access with servitude No. 185/1, Jaya Mawatha, Kandawala, of parcel No 136, Katana 167 0.0248 Don Jo Winitha Sudarshana 681481281v Full 1st Class – – Narangamuwa No. 186/12, Jaya Mawatha, Kandawala, Katana 168 0.0787 Thenahandi Disna Kumari De 197877304219 Full 1st Class – – Silva No. 23/B, Godella Road, Dankotuwa 176 0.0355 Marasinghe Arachchige Don Athula 772403372v Full 1st Class With the right to – Manoj Sampath access with servitude No. 202, Jaya Mawatha, Kandawala, of parcel No 179, Katana 184 0.0319 Amarasinghege Manjula Krishan 197833901953 Full 1st Class With the right to – Fonseka access with servitude No. 213/91, Jaya Mawatha, Kandawala, of parcel No 185, Katana 201 0.0699 Siyaguna Kosgodage Vimala 497692423v Full 1st Class – – Srimathi Fernando No. 19/20, Praja Sewa Mandala Mawatha, Periyamulla, Negambo 202 0.0699 Siyaguna Kosgodage 526240910v Full 1st Class – – Ranjani Fernando No. 54/2, Denaya Road, Dalupatha, Negambo 210 0.0318 Ranaweera Arachchige Shirani 696312990v Full 1st Class With the right to – Pushpalatha access with servitude No. 213/84, Jaya Mawatha, Kandawala, of parcel No 221, Katana
+
+12 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 217 0.0396 Kanakkage Marian Krishanthi 708131610v Full 1st Class With the right to – Silva access with servitude No. 213/64, Jaya Mawatha, Kandawala, of parcel No 216, Katana 219 0.0341 Ukwatthage Nilanka Manjula Lasantha 782494023v Full 1st Class With the right to – Fernando access with servitude No. 213/62, Tower View Side, of parcel No Jaya Mawatha, Kandawala, Katana 216 and 221, Subject to the mortgage to the Hatton National Bank 220 0.0684 Isuru Dombawela 762902710v Full 1st Class With the right to – No. 213/60, Jaya Mawatha, Kandawala, access with servitude Katana of parcel No 221, Subject to the mortgage to the Sampath Bank 230 0.0314 Nishshanka Anrachchige Saman 196936402779 Full 1st Class With the right to – Rohitha Appuhami access with servitude No. 207/3, Jaya Mawatha, of parcel No Kandawala, Katana 195 and 231, 233 0.0313 Watthalage Mahesha Deepani 198270303197 Full 1st Class With the right to – Fernando access with servitude No. 23/48, Tower View, Jaya of parcel No Mawatha, Kandawala, Katana 195 and 231, 234 0.0316 Watthalage Mihiri Geethani 197781302800 Full 1st Class With the right to – Fernando access with servitude No. 21, St. Sebasthiyan of parcel No 231, Place, Etthukala, Negambo 259 0.0344 Palihawadana Arachchige Roshal 197223100187 Full 1st Class With the right to – Sujith Emmanuwel Perera access with servitude No. 50/3, Thaladuwa Road, Negambo of parcel No 194 and 264, Subject to the mortgage to the National Development Bank
+
+09-40/10 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 4, 5, 6, 9, 11, 12, 14, 15, 18, 19, 20, 21, 22, 23, 28, 30, 31, 38, 41, 42, 45, 47, 53, 59, 61, 63, 64, 66, 115, 115, 163, 166, 168, 168, 176, 183, 184, 186, 187, 189,
+
+13 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+190, 206, 207, 212, 212, 214, 214, 226, 239, 245, 259, 260, 261, 262, 267, 274, 277, 288, 288 and 309 of Block 03, contained in the Cadastral Map No. 511230, situated in the Village of Kandawala within the Grama Niladhari Division of No. 70 - Ihela Kandawala in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1091 calling for claims to land parcels which was duly published in the Gazette No. 2116/22 of 16th March, 2019 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+4 0.0743 Ranasinghe Arachchige Sirisena 473080770v Full 1st Class With the right subject to the No. 33, Medikelewattha, Kandawala, to access with conditions of Katana servitude of parcel L.R.C No 03 and 13, mentioned in the deed No. 1615 5 0.0381 Ranasinghe Arachchige Sirisena 473080770v Full 1st Class With the right subject to the No. 33, Medikelewattha, Kandawala, to access with conditions of Katana servitude of parcel L.R.C No 03 and 13, mentioned in the deed No. 1615 6 0.1020 Hapu Arachchige Eustes Nimal 663603140v Full 1st Class With the right subject to the Appuhami to access with conditions of No. 32, Medikelewattha, Kandawala, servitude of parcel L.R.C Katana No 03 and 44, mentioned in the deed No. 1620 9 0.0674 Dunumalage Sanduni Nisansala 967741809v Full 1st Class With the right to – Fernando access with servitude No. 09, Medikelewattha, Kandawala, of parcel No 03, Katana 07 and 44, Subject to the life interest of Dehiwatthage Theresa Fernando, 11 0.0551 Kiri Arachchige Saji Priyarathne 683400432v Full 1st Class With the right subject to the No. 8/1, Medikelewattha, Kandawala, to access with conditions of Katana servitude of parcel L.R.C No 13,Subject mentioned in to the mortgage the deed No. to the Commercial 1614 Bank of Ceylon
+
+14 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 12 0.0958 Ranasinghe Arachchige Mahesa 936301940v Full 1st Class With the right to – Madhunamali Ranasinghe access with servitude No. 10, Medikelewattha, Kandawala, of parcel No Katana 13 and 39, Subject to the life interest of Ranasinghe Arachchige Marcus and Ranasinghe Arachchige Swarnamali, Subject to the mortgage to the Regional Development Bank 14 0.0589 Samarathunga Randunu Appuhamilage 570652060v Full 1st Class With the right subject to the Sunil Ranjith Samarathunga to access with conditions of No. 50, Medikelewattha, Kandawala, servitude of parcel L.R.C Katana No 13 and 39, mentioned in the deed No. 1624 15 0.0520 Herath Mudiyanselage Chandani 615843768v Full 1st Class With the right subject to the No. 07, Medikelewattha, Kandawala, to access with conditions of Katana servitude of parcel L.R.C No 13 and 39, mentioned in the deed No. 1613 18 0.0363 Maddumage Thilan Devinka 880783076v Full 1st Class With the right to – Appuhami access with servitude No. 156/1, Welihena Road, Kandawala, of parcel No 24, Katana 19 0.0273 Maddumage Nilan Thilanka 870683600v Full 1st Class With the right to – Appuhami access with servitude No. 156/1, Welihena Road, Kandawala, of parcel No 24, Katana 20 0.0345 Maddumage Shayan Dilanka Appuhami 842500060v Full 1st Class With the right to – No. 156/1, Welihena Road, Kandawala, access with servitude Katana of parcel No 24, 21 0.0320 Maddumage Dilan Nilanka 852330406v Full 1st Class With the right to – Appuhami access with servitude No. 156/01, Welihena Road, of parcel No 24, Kandawala, Katana 22 0.1920 Maddumage Nilan Thilanka 870683600v Full 1st Class With the right to – Appuhami access with servitude No. 156/1, Welihena Road, Kandawala, of parcel No 24, Katana 23 0.1911 Maddumage Dilan Nilanka 852330406v Full 1st Class With the right to – Appuhami access with servitude No. 156/1, Welihena Road, Kandawala, of parcel No 24, Katana
+
+15 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 28 0.1155 Alugolla Mudalige Mahesh 197530602610 Full 1st Class Subject to the – Appuhami life interest of No. 158, Welihena Road, Kandawala, Basthiyan Katana Koralalage Agnes Rodrigo , 30 0.1902 Maddumage Thilan Devinka 880783076v Full 1st Class With the right to – Appuhami access with servitude No. 156/1, Welihena Road, Kandawala, of parcel No 24, Katana 31 0.1910 Maddumage Shayan Dilanka Appuhami 842500060v Full 1st Class With the right to – No. 156/1, Welihena Road, Kandawala, access with servitude Katana of parcel No 24, 38 0.0381 Shirani Lakshika Aluth Gamage 765702348v Full 1st Class With the right to – No. 336, Shamrock, Galawaththa, access with servitude Katunayake of parcel No 13 and 39, Subject to the mortgage to the Peoples Bank 41 0.0195 Saminadan Jayamali 676273794v Full 1st Class With the right to subject to the No. 12/2, Medikelewattha, Kandawala, access with conditions of Katana servitude L.R.C of parcel No 03, mentioned in 43 and 44, the deed No. 1629 42 0.0289 Pitipanage Duminda Rohitha 760630110v Full 1st Class – – No. 12/3, Medikelewattha, Kandawala, Katana 45 0.0464 Kirillawalage Don Chanaka Suresh 820321812v Full 1st Class With the right to subject to the Ayantha Peiris access with conditions of No. 31, Medikelewattha, Kandawala, servitude L.R.C Katana of parcel No 03, mentioned in 43 and 44, the deed No. Subject to the 1630 life interest of Kahanda Arachchige Mary Lali, 47 0.0203 Kirillawalage Dona Sumeda 786212936v Full 1st Class With the right subject to the Ayanthika Peiris to access with conditions of No. 31, Medikelewattha, Kandawala, servitude of parcel L.R.C Katana No 03, Subject mentioned in to the life the deed interest of No. 1630 Kahanda Arachchige Mary Lali, 53 0.0777 Amarasinghe Arachchige Leelawathi No Full 1st Class With the right subject to the No. 36, Medikelewattha, Kandawala, to access with conditions of Katana servitude of parcel L.R.C No 03 and 91, mentioned in the deed No. 1632
+
+16 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 59 0.0845 Heenatimullage Don Upul 790733983v Full 1st Class Subject to the subject to the Indrajith Appuhami life interest of conditions of No. 29, Medikelewattha, Kandawala, Heenatimullage L.R.C Katana George Newton mentioned in Appuhami and the deed No. Kanthi Needra 1636 Hathwaik, 61 0.0471 Kannangarage Dona Ashoka 628572500v Full 1st Class – subject to the No. 30, Medikelewattha, Kandawala, conditions of Katana L.R.C mentioned in the deed No. 1631 63 0.0290 Sinhala Viridu Panikkiyalage 741902184v Full 1st Class With the right Subject to the Jayathilake to access with conditions of No. 22, Medikelewattha, Kandawala, servitude of parcel L.R.C Katana No 64,Subject to mentioned in the life interest of the deed Sinhala Pedige no. 1637 Licia and Sinhala Virindu Panikkiyalage James, 64 0.0029 Private – Full 1st Class – To access parcel no. 63, 65 and 66 66 0.0221 Sinhala Virindu Panikkiyalage 650653750v Full 1st Class With the right Subject to the Wijethilake to access with conditions of No. 22/1 A, Medikelewattha, servitude of parcel L.R.C Kandawala, Katana No 64,Subject mentioned in to the life interest the deed no. of Sinhala Pedige 1637 Licia and Sinhala Virindu Panikkiyalage James 115 0.0074 Private – Full 1st Class – To access parcel no. 113, 114, 116 and 117 163 0.0349 Hakmune Lekamalage Gamini 197519502759 Full 1st Class With the right to – Senevirathne access with servitude No. 168/05, John Perera Mawatha, of parcel No 161, Kandawala, Katana 316 and 317, 166 0.0031 The State – Full 1st Class – – 168 0.0321 1. Katuwawalage Dona Sachini 906420759v Full 1st Class With the right to – Chandima Co-ownership access with servitude 2. Warnakulasooriya Saman 853442550v of parcel No 167, Priyaranga Fernando 316 and 317, No. 168/09, Medakelewattha, John Perera Mawatha, Kandawala, Katana
+
+17 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 176 0.0134 The State – Full 1st Class – – 183 0.0321 Poruthotage Nadeeka Samanmali 845350132v Full 1st Class With the right to – Fernando access with servitude No. 168/25, John Perera Mawatha, of parcel No Kandawala, Katana 185 and 316, Subject to the mortgage to the Multi Purpose co-operative society Ltd, Katana 184 0.0312 Pinnawala Hewayalage Ruwan 783291550v Full 1st Class With the right to – Prageeth Pinnawala access with servitude No. 168/26, John Perera Mawatha, of parcel No Kandawala, Katana 185 and 316, Subject to the mortgage to the Hatton National Bank 186 0.0324 Alugolla Mudalige Marcus 195904100314 Full 1st Class With the right to – Appuhami access with servitude No. 167/4, John Perera Mawatha, of parcel No 185 Kandawala, Katana 316 and 317 187 0.0312 Alugolla Mudalige Marcus 195904100314 Full 1st Class With the right to – Appuhami access with servitude No. 167/04, John Perera Mawatha, of parcel No 185 Kandawala, Katana 316 and 317 189 0.0321 Alugolla Mudalige Manori 828510843v Full 1st Class With the right to – Lalanthika access with servitude No. 167/04, John Perera Mawatha, of parcel No 316, Kandawala, Katana 190 0.0531 Wannakuwattha Waduge Keiser 751072481v Full 1st Class With the right to – Duke Hamilton Fernando access with servitude No. 168/B/96, John Perera of parcel No 211, Mawatha, Kandawala, Katana 206 0.0312 Sembukutti Arachchige Vijaya 194112702184 Full 1st Class With the right to – Silva access with servitude No. 168/B/76, Vishaka Garden, of parcel No John Perera Mawatha, Kandawala, Katana 211 and 223, 207 0.0634 Wijesinghe Kalu Arachchige Dona 655512462v Full 1st Class With the right to – Lalani access with servitude No. 168/B/74, John Perera of parcel No Mawatha, Kandawala, Katana 208 and 211, 212 0.0681 1. Kurukulasooriya Anton Shahan 702551331v Full 1st Class With the right to – Fernando Co-ownership access with servitude 2. Kurukulasooriya Anne 746170254v of parcel No Prasanthi Perera 211 and 233 No. 215/1 A, St. Nikula Road, Munnakkaraya, Negambo
+
+18 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 214 0.0359 1. Kurukulasooriya Anton Shahan 702551331v Full 1st Class With the right to – Fernando Co-ownership access with servitude 2. Kurukulasooriya Anne 746170254v of parcel No 211, Prasanthi Perera No. 215/1 A, St. Nikula Road, Munnakkaraya, Negambo 226 0.0354 Ilayap Arachchige Perpethuwa 635662298v Full 1st Class With the right to – Chandrani Sepalika Fernando access with servitude No. 168/B/43, John Perera of parcel No Mawatha, Kandawala, Katana 211 and 223, 239 0.0315 Upali Hewawasam Anil Indika 740043560v Full 1st Class With the right to – Somarathne access with servitude No. 168/B/28, John Perera of parcel No 211, Mawatha, Kandawala, Katana 233 and 272, 245 0.0619 Ilayap Arachchige Perpethuwa 635662298v Full 1st Class With the right to – Chandrani Sepalika Fernando access with servitude No. 168/B/43, John Perera of parcel No Mawatha, Kandawala, Katana 211 and 223, Subject to the mortgage to the National Savings Bank and Given on lease to Kuruppu Mudiyanselage Nishan Sanjaya Thilakarathne of No. 48, Ihalagama, Gampaha to 2019.09.30 259 0.0353 Kurukulasooriya Jude Achena 992110171v Full 1st Class With the right to – Fernando access with servitude No. 215/1 A, St. Nikula of parcel No 272, Road, Munnakkaraya, Negambo 260 0.0364 Dian Eshanga Weerapura 841542282v Full 1st Class With the right to – No. 168/P/20, Vishakha Garden, access with servitude John Perera Mawatha, Kandawala, Katana of parcel No 272, Subject to the mortgage to the Regional Developmet Bank 261 0.0357 Merignage Gayantha Priyankara 801131450v Full 1st Class With the right to – Kostha access with servitude No. 295, Kandawala, Katana of parcel No 233 and 272, 262 0.0364 Gamameda Liyanage Anthony 721121950v Full 1st Class With the right to – Thushara Perera access with servitude No. 168/B/17, Vishakha Garden, of parcel No 272, John Perera Mawatha, Kandawala, Katana
+
+19 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE - (Contd.) Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare) 267 0.0317 Chandrapathi Gedara Suresh 198114404014 Full 1st Class With the right to – Pradeep Kumara access with servitude No. 168/B/11, Vishakha Garden, of parcel No 272, John Perera Mawatha, Kandawala, Katana Subject to the mortgage to the Multi Purpose co-operative society Ltd, Katana 274 0.0317 Halawathage Mahinda Lenard Jetney 650781210v Full 1st Class With the right to – Perera access with servitude No. 168/B/05, Vishakha Garden, of parcel No 272, John Perera Mawatha, Kandawala, Katana 277 0.0370 Samarasinghe Arachchilage Toosan 730071108v Full 1st Class With the right to – Priyalal access with servitude No. 168/B/02, Vishakha Garden, of parcel No 272, John Perera Mawatha, Kandawala, Katana Subject to the mortgage to the Commercial Bank 288 0.0344 1. Wasantha Gamini Hathweik 572522202v Full 1st Class With the right to – 2. Niwanthi Sugala Hathweik 918612700v Co- access with servitude No. 179/03, Jaya Mawatha, Kandawala, ownership of parcel No Katana 287 and 313, 309 0.0319 Wijesinghe Arachchilage Rosan 721703100v Full 1st Class With the right to – Asoka (other names Wijesinghe access with servitude Arachchilage Roshan Ashoka Perera ) of parcel No 313, No. 168/A/06, John Perera Mawatha, Kandawala, Katana 09-40/11 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 34, 44 and 55 of Block 04, contained in the Cadastral Map No. 511230, situated in the Village of Kandawala within the Grama Niladhari Division of No. 70 - Ihela Kandawala in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1075 calling for claims to land parcels which was duly published in the Gazette No. 2102/32 of 19th December, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+20 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+34 0.0303 Merignage Samal Tharanga 901443513v Full 1st Class With the right to – Fernando access with servitude No. 204/A 2, Batapatthala, Katana of parcel No 06, 38 and 39 ,Subject to the mortgage to the HDFC Bank 44 0.0254 Violet Peiris Sylvester 576702388v Full 1st Class With the right to – Pulle access with servitude No. 03, Guru Achchikelewattha of parcel No Coloney, Ethgala, Katana 06, 38 and 39 , Subject to the mortgage to the Samurdhi Prajamula Bank 55 0.0337 Kiri Arachchige Sanjeewa Kumara 198328902483 Full 1st Class With the right to – Perera access with servitude No. 182/5/B, Mahaethgala, Katana of parcel No 06, 38, 39, 48 and 64, Subject to the mortgage to the HDFC Bank
+
+09-40/12 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 70, 153, 213 and 216 of Block 10, contained in the Cadastral Map No. 511232, situated in the Village of Kadirana North within the Grama Niladhari Division of No. 93A - Kadirana North in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1062 calling for claims to land parcels which was duly published in the Gazette No. 2092/25 of 10th Octo-ber, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019
+
+21 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+70 0.0094 Private – Full 1st Class – To access parcel no. 68 153 0.0076 Private – Full 1st Class – To access parcel no. 152 213 0.0087 Private – Full 1st Class – To access parcel no. 72 216 0.0051 Private – Full 1st Class – To access parcel no. 73 09-40/13 REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 33 of Block 05, contained in the Cadastral Map No. 511235, situated in the Village of Kaluwarippuwa West within the Grama Niladhari Division of No. 94 - Kaluwarippuwa West in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/1053 calling for claims to land parcels which was duly published in the Gazette No. 2088/68 of 14th September, 2018 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+33 0.4226 Kuruppu Arachchige Darshani 767991118v Full 1st Class With the right of – Wasana Madhuwanthi way of parcel No. 222 A, Kaluwarippuwa No 81, West, Katana Subject to the life interest of Maheepala Mudalige Sisili Magret Paris, 09-40/14
+
+22 A
+
+III ෙක2ටස -  ලංකා ජාතා ක සමාජවා ජනරජෙ අ ෙශෂ ගැස පය - 2019.08.20 PART III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 20.08.2019
+
+REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land No. 226 of Block 01, con-tained in the Cadastral Map No. 511241, situated in the Village of Kondagammulla within the Grama Niladhari Division of No. 93 - Kondagammulla in the Divisional Secretary's Division of Katana, in the District of Gampaha, in the Province of Western, referred to in Notice No. 51/0804 calling for claims to land parcels which was duly published in the Gazette No. 1922/51 of 11th July, 2015 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. K. A. K. RANJITH DHARMAPALA, Commissioner of Title Settlement (Actg.) Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 30th May, 2019 SCHEDULE
+
+Particulars Particulars Class and regarding if National Extent Nature Mortgages subject Parcel Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any No. and Address Card No. Title pending form of
+
+Adjudication special or and personal Injunction law
+
+(Hectare)
+
+226 0.0310 Lankahaluge Nilanka Kaushalya 790820959v Full 1st Class With the right to – Fernando access with servitude No. 201/S, Kontharaduwa Wattha, of parcel No Ethgala Road, Kandawala, Katana 95 and 227, 09-40/15
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
