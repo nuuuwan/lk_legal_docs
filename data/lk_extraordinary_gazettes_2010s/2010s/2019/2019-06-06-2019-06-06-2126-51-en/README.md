@@ -1,0 +1,433 @@
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.20191A
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%hThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+w;s úfYI EXTRAORDINARY
+
+(Published by Authority)
+
+PART III – LANDS
+
+Land Acquisition Notices
+
+wxl 2126$51 – 2019 cqks 06 jeks n%yiam;skaod – 2019'06'06No. 2126/51 – THURSDAY, JUNE 06, 2019
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+Order under Proviso(a) to Section 38
+
+Order No. 117 of 2019
+
+My Ref. No: 4-3/3/2018/NRD/131.Divisional Secretary’s Ref. No: 5/3/4/l/ÿïÿïÿïÿïÿï -1841.
+
+By virtue of the power vested in me by Proviso(a) to section 38 ofLand Acquisition Act (Chapter 460), I, Gayantha KarunatillekeMinister of Lands and Parliamentary Reforms, do hereby direct theAcquiring Officer or any other officer authorized by him referred toin Paragraph 1 of the Schedule to take immediate possession of theland specified in the corresponding entry in Paragraph 2 of theSchedule.
+
+Gayantha Karunatilleke.Ministery of Lands and Parliamentary Reforms.
+
+Ministry of Lands and Parliamentary Reforms,“Mihikatha Medura,No. 1200/06,Rajamalwatta Road,Battaramulla.29th May, 2019.
+
+This Gazette Extraordinary can be downloaded from www.documents.gov.lk1A – G 30250 – 46 (2019/06)
+
+SCHEDULE
+
+1.Acquiring Officer – Divisional Secretary - Dambulla.
+
+2. Description of the Land: Allotments of lands depicted in theAdvance Tracing No. MA/DMB/2018/381 and 16.01.2019 Preparedby the Surveyor General, situated in the Villages called GalakotuwaBatuyaya and Rotawewa in the Inamaluwa Grama NiladariDivision(E451) in the Divisional Secretary’s Division of Dambulla,in Matale District in Central Province and bounded as follows.
+
+01. Lot A - Name of the Land: Not known -Extent : 0.0239HectareNorth: Road and Pothana Grama Niladhari Division; East:Pothana Grama Niladhari; Division and Road; South: GalakotuwaMukalana claimant not Known, Lots B, C, and D; West:: Lots C, D,Galakotuwa Mukalana claimant not known and Road.
+
+02. Lot No.B - Name of the Land: Galakotuwa Mukalana-Extent: 0.1296 HectareNorth: Lots C and A; East: Lot A, Road and Galakotuwa MukalanaClaimant not known; South: GalakotuwaMukalana claimant notknown, GalakotuwaMukalana claimed by H.A.M.Hewagamarachchi,Lots F and C; West: Lot C.
+
+2AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+03. Lot C - Name of the Land: Galakotuwa Mukalana -Extent: 0.5307 HectareNorth: Lots D and A;East: Lots A, B, and F; South: Lots F andD; West: Lot D.
+
+04. Lot D - Name of the Land: Galakotuwa Mukalana -Extent: 0.7228 HectareNorth: GalakotuwaMukalana claimant not known, Road and LotA; East: Lot A, C and F; South: Lots G and E; West: Lot E,GalakotuwaMukalana Claimed by K.G.Jinadasa andGalakotuwaMukalana claimant not known.
+
+05. Lot E - Name of the Land: GalakotuwaMukalana-Extent:0.2700 HectareNorth: GalakotuwaMukalana claimed by K.G.Jinadasa,GalakotuwaMukalana claimant not known and Lot D; East: Lot Dand G; South: Lot G and Tank; West: GalakotuwaMukalana claimedby K.G.Jinadasa.
+
+06. Lot F - Name of the Land: GalakotuwaMukalana -Extent: 0.3349 HectareNorth: Lots C, B and Galakotuwa Mukalana claimant not known;East: Galakotuwa Mukalana claimant not known, GalakotuwaMukalana claimed by H.A.M.Hewagamarachchi and Tank;South:Tank, Lots G and D; West: Lots D and C.
+
+07. Lot G - Name of the Land: GalakotuwaWewa -Extent:0.6979 HectareNorth: Tank, GalakotuwaMukalana claimed by K.G.Jinadasa,Lots E, D and F; East: GalakotuwaMukalana claimed byH.A.M.Hewagamarachchi, Tank, Tank Bund and Lot H; South: LotH, Tank Bund,Tank and Lot K; West: Tank Bund and Tank.
+
+08. Lot H - Name of the Land: GalakotuwaHena -Extent:0.0112 HectareNorth: Lot G and Tank; East: Tank Bund and GalakotuwaHenaclaimant not known and Lot J; South: Lot J GalakotuwaHena claimantnot known and Tank Bund; West: Tank Bund, Tank and Lot G.
+
+09. Lot J - Name of the Land: GalakotuwaHena -Extent:0.0084 HectareNorth: Lot H; East: Tank Bund, Galakotuwahena claimant notknown; South: GalakotuwaHena claimant not known; West:Galakotuwahena claimant not known, Tank Bund and Lot H.
+
+10. Lot K - Name of the Land: GalakotuwaHena -Extent:0.0290 HectareNorth: Tank Bund, Tank and Lot G; East: Tank, Tank Bund,GalakotuwaHena claimant not known and Lot L; South: Lot L;West:GalakotuwaHena claimant not known, Tank Bund, Tank andLot G.
+
+11. Lot L - Name of the Land: GalakotuwaHena -Extent:0.1504 HectareNorth: GalakotuwaHena claimant not known, Tank Bund andLotK; East: Tank Bund, GalatoduwaHena claimant not known and
+
+GalakotuwaHena claimed by G.G.K.R.Wijerathna;South:Galakotuwa Hena claimed by G.G.K.A.R.Wijerathna, Lots M, N,P, Q and R; West: GalakotuwaHena claimed by H.M.D.K.Abeysinghe and Galakotuwahena claimant not known.
+
+12. Lot M - Name of the Land: GalakotuwaHena -Extent:0.0057 HectareNorth: Lot L and GalakotuwaHena claimant not known; East:GalakotuwaHena claimed by G.G.K.R.Wijerathna; South:GalakotuwaHena claimed by G.G.K.R.Wijerathna, GalakotuwaHenaclaimed by H.M.A.Marasingha and Lot N; West: Lots N and L.
+
+13. Lot N - Name of the Land: GalakotuwaHena -Extent:0.0896 HectareNorth: Lots L and M; East: Lot M, GalekotuwaHena claimed byG.G.K.R.Wijerathna and GalakotuwaHena claimed by H.M.AMarasingha; South: GalakotuwaHena claimed byH.M.A.Marasingha, GalakotuwaHena claimant not known, Lots Sand P; West: Lots P and L.
+
+14. Lot P - Name of the Land: GalakotuwaHena -Extent:0.0430 HectareNorth: Lot L and N; East: Lots N and S; South: Lots S and Q;West: Lots Q and L.
+
+15. Lot Q - Name of the Land: GalakotuwaHena -Extent:0.0230 HectareNorth: Lots L and P; East: Lots P and S; South: Lot S; West:Lot R.
+
+16. Lot R - Name of the Land: GalakotuwaHena -Extent:0.0608 HectareNorth: GalakotuwaHena claimed by H.M.D.K.Abeysinghe,GalakotuwaHena claimant not known and Lot L; East: Lots Q and S;South: Lot S; West: GalakotuwaHena claimant not known andGalakotuwaHena claimed by H.M.D.K.Abeysinghe.
+
+17. Lot S - Name of the Land: GalakotuwaHena -Extent:0.0143 HectareNorth: GalakotuwaHena claimant not known,GalakotuwaHenaclaimed by H.M.D.K.Marasingha, Lots R, Q, P and N; East:GalakotuwaHena claimed by H.M.A.Marasingha andGalakotuwaHena claimant not known;South: GalakotuwaHenaclaimed by H.M.A.Marasingha, Lots T, U, V and W; West:GalakotuwaHena claimed by H.M.D.K.Abeysinghe andGalakotuwaHena claimant not known.
+
+18. Lot T - Name of the Land:GalakotuwaHena -Extent:0.0030 HectareNorth: Lot S and Galakotuwahena claimant not known; East:GalakotuwaHena claimed by H.M.A.Marasingha; South:Galakotuwahena claimed by H.M.A.Marasingha, Galakotuwaclaimed by H.M.Anulawathi and Lot U; West: Lots U and S.
+
+19. Lot U - Name of the Land:GalakotuwaHena -Extent:0.0645 HectareNorth: Lot S and T; East: Lot T, GalakotuwaHena claimed by
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.20193A
+
+H.M.A.Marasinha and GalakotuwaHena claimed byH.M.Anulawathi; South: GalakotuwaHena claimed byH.M.Anulawathi, GalakotuwaHena claimed by H.M.A.Marasinghaand Lot V; West: Lots V and S.
+
+20. Lot V - Name of the Land:GalakotuwaHena -Extent:0.0517 HectareNorth: Lots S and U; East: Lot U, GalakotuwaHena claimedbyH.M.Anulawathi South: GalakotuwaHena claimed byH.M.A.Marasingha, GalakotuwaHena claimed byH.M.D.K.Abeysinghe and Lot W; West: Lot W.
+
+21. Lot W - Name of the Land:GalakotuwaHena -Extent:0.2812 HectareNorth: GalakotuwaHena claimed by H.M.D.K.Abeysinghe,GalakotuwaHena clamant not known, Lot S and V; East: Lot V,GalakotuwaHena claimed by H.M.A.Marasingha andH.M.D.K.Abeysinghe; South: GalakotuwaHena claimed byH.M.D.K.Abeysinghe, Pradeshiya Sabha Road, Lot Z; West: LotX and GalakotuwaHena claimed by A.G.Dissanayaka.
+
+22. Lot X - Name of the Land:GalakotuwaHena -Extent:0.1772 HectareNorth: Galakotuwa Hena claimed by A.G.Dissanayaka,Galakotuwa Hena claimed by H.M.D.K.Abeysinghe and Lot W;East: Lot W; South: Lots Z and Y; West: Lot Y, GalakotuwaHenaclaimed by DingiriMenike, GalakotuwaHena claimed byA.G.Dissanayaka.
+
+23. Lot Y - Name of the Land:GalakotuwaHena -Extent:0.0095 HectareNorth: GalakotuwaHena claimed by A.G.DingiriMenike,GalakotuwaHena claimed by A.G.Dissanayaka, Lot X; East: LotX; South: Lot Z; West: Pradeshiya Sabha Road and GalakotuwaHenaclaimed by A.G.DingiriMenike.
+
+24. Lot Z - Name of the Land:Not known -Extent: 0.0865HectareNorth: Pradeshiya Sabha Road , GalakotuwaHena claimed byA.G.DingiriMenike, Lots Y,X and W; East: Lot W,GalakotuwaHena claimed by H.M.D.K.Abeysinghe and PradeshiyaSabha Road;South:Pradeshiya Sabha Road, GalakotuwaHenaclaimed by I.D.Ariyarathna and Lot Aa; West: Lots Aa,GalakotuwaHena claimed by I.D.Ariyarathna andPradeshiya SabhaRoad.
+
+25. Lot Aa - Name of the Land:GalakotuwaHena -Extent:0.1508 HectareNorth:GalakotuwaHena claimed by I.D.Ariyarathna, PradeshiyaSabha Road and Lot Z; East: Lot Z, Pradeshiya Sabha Road andGalakotuwaHena claimed by I.D.Ariyarathna; South:GalakotuwaHena claimed by I.D.Ariyarathna, GalakotuwaHenaclaimed by A.G.Kalumenika and Lot Ab;West: Lot Ab,GalakotuwaHena claimed by A.G.Kalumenika and GalakotuwaHenaclaimed by I.D.Ariyarathna.
+
+26. Lot Ab - Name of the Land:GalakotuweHena -Extent:0.2554 HectareNorth: GalakotuwaHena claimed by A.G.Kalumenika,GalakotuwaHena claimed by I.D.Ariyarathna, Lot Aa; East: Lot Aa,GalakotuwaHena claimed by I.D.Ariyarathna and GalakotuwaHenaclaimed by A.G.Kalumenika; South: GalakotuwaHena claimed byA.G.Kalumenika, GalakotuwaHena claimed by G.B.Thushara andLot Ac; West: Lot Ac, GalakotuwaHena claimed by G.B.Thusharaand GalakotuwaHena claimed by A.G.Kalumenika.
+
+27. Lot Ac - Name of the Land:GalakotuwaHena -Extent:0.1919 HectareNorth: GalakotuwaHena claimed by G.B.Thushara,GalakotuwaHena claimed by A.G.Kalumenika and Lot Ab; East:Lot Ab, GalakotuwaHena claimed by A.G.Kalumenika andGalakotuwaHena claimed by G.B.Thushara; South: GalakotuwaHenaclaimed by G.B.Thushara, Pradeshiya Sabha Road and Lot Ad;West:Lot Ad, Pradeshiya Sabha Road and GalakotuwaHena claimed byG.B.Thushara.
+
+28. Lot Ad - Name of the Land:Not known -Extent: 0.0276HectareNorth: Pradeshiya Sabha Road, GalakotuwaHena claimed byG.B.Thushara and LotAc; East: Lot Ac, GalakotuwaHena claimedby G.B.Thushara and Pradeshiya Sabha Road; South: PradeshiyaSabha Road, GalakotuwaHena claimed by A.G.Leelawathi and LotAe; West: Lots Ae, GalakotuwaHena claimed by A.G.Leelawathiand Pradeshiya Sabha Road.
+
+29. Lot Ae - Name of the Land:GalakotuwaHena-Extent:0.0859 HectareNorth: GalakotuwaHena claimed by A.G.Leelawathi, PradeshiyaSabha Road and Lot Ad; East: Lot Ad, Pradeshiya Sabha Road andGalakotuwaHena claimed by A.G.Leelawathi; South:GalakotuwaHena claimed by A.G.Leelawathi, GalakotuwaHenaclaimed by M.F.Rahuman and Lot Af; West: LotAf, GalakotuwaHenaclaimed by M.F.Rahuman and GalakotuwaHena claimed byA.G.Leelawathi.
+
+30. Lot No.Af - Name of the Land:GalakotuwaHena -Extent:0.2238 HectareNorth: GalakotuwaHena claimed by M.F.Rahuman,GalakotuwaHena claimed by A.G.Leelawathi and Lot Ae; East: LotAe, GalakotuwaHena claimed by A.G.Leelawathi andGalakotuwaHena claimed by M.F.Rahuman; South:GalakotuwaHena claimed by M.F.Rahuman, Bellanneoya and LotAg;West: Bellaneoya and Galakotuwahena claimed by M.F.Rahuman.
+
+31. Lot Ag - Name of the Land:Bellanneoya -Extent: 0.0433HectareNorth: Bellanneoya, GalakotuwaHena claimed by M.F.Rahumanand LotAf; East: GalakotuwaHena claimed by M.F.Rahuman andBellanneoya; South: Bellanneoya and LotAh; West: Bellanneoya,GalakotuwaHena claimed by M.F.Rahuman, Lot Af.
+
+4AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+32. Lot Ah - Name of the Land:Bellaneoya -Extent: 0.0418HectareNorth: Bellanneoya and Lot Ag; East: Bellanneoya, Batuyayaclaimant not known, Cannel and Lot Ai; South: Lot Ai; West:Batuyaya claimant not known and Bellanneoya.
+
+33. Lot Ai - Name of the Land:Batuyaya -Extent: 0.0464HectareNorth: Batuyaya clamant not known, Bellanneoya and Lot Ah;East: Bellanneoya, Batuyaya claimant not known, Cannel and LotAj; South: LotAj and Cannel; West: Batuyaya claimant not known,Bellanneoya and LotAh.
+
+34. Lot Aj - Name of the Land:Not Known -Extent: 0.0153HectareNorth: Batuyaya claimant not known and Lot Ai; East: Batuyayaclaimant not known, Cannel and Batuyaya claimant not known;South: Batuyaya claimant not known, Lot Ak; West: Batuyayaclaimant not known, Cannel, Batuyaya claimant not known and LotAi.35. Lot Ak - Name of the Land:Batuyaya -Extent: 0.1422HectareNorth:Batuyaya claimant not known, Cannel and Lot Aj; EastCannel, Batuyaya claimant not known and Road; South: Road, LotAl; West: Road, Batuyaya claimant not known, Cannel and Lot Aj.
+
+36. Lot Al - Name of the Land:Not Known -Extent: 0.0578HectareNorth: Batuyaya claimant not known and Lot Ak; East: Batuyayaclaimant not known, Road and Batuyaya claimed by A.G. Gunarathna;South: Batuyaya claimed by A.G.Gunarathna, Lots Am and An;West: Batuyaya claimed by S. Manamperi, Road and Batuyayaclaimant not known.
+
+37. Lot Am - Name of the Land: Batuyaya -Extent: 0.1853HectaresNorth: Lot Al and Road; East: Batuyaya claimed by A.G.Gunarathna; South: Batuyaya claimed by A.G. Gunarathna, Batuyayaclaimed by S. Manamperi and Lot An; West: Lots An and Al.
+
+38. Lot An - Name of the Land:Batuyaya -Extent: 0.3431HectareNorth: Batuyaya claimed by S. Manamperi, Road, Lot Al andAm; East: Lot Am, Batuyaya claimed by A. G. Gunarathna andBatuyaya claimed by S. Manamperi; South: Batuyaya claimed byS. Manamperi, Batuyaya claimed by R.M.G. Leelawathi and LotsAo, Ap, Aq and Ar; West: Lot Ar, Batuyaya claimed by H.M.S.Bandara Menike, Batuyaya claimed by S. Manamperi.
+
+39. Lot Ao - Name of the Land:Batuyaya -Extent: 0.0040HectareNorth: Lot An and Batuyaya claimed by S.Manamperi; East:Batuyaya claimed by R.M.G. Leelawathi; South: Batuyaya claimedby R.M.G. Leelawathi, Batuyaya claimed by W. Heenmenika andLot Ap; West: Lots Ap and An.
+
+40. Lot Ap - Name of the Land:Batuyaya -Extent: 0.1111HectareNorth: Lots An and Ao; East: Lot Ao, Batuyaya claimed byR.M.G. Leelawathi and Batuyaya claimed by W. Heenmenike; South:Batuyaya claimed by W. Heenmenika, Batuyaya claimed by H.M.S.Bandara Menike and Lot Aq; West: Lots Aq, Ar and An.
+
+41. Lot Aq - Name of the Land:Batuyaya -Extent: 0.1512HectareNorth: Batuyaya claimed by H.M.S.BandaraMenike, LotsAr,An and Ap; East: Lot Ap, Batuyaya claimed by W.Heenmenike;South: Batuyaya claimed by H.M.Bandara, Batuyaya claimed byH.M.S.Bandara and Lot As; West: Lot As, Batuyaya claimed byH.M.S.Bandara, Batuyaya claimed by H.M.S.BandaraMenike andLot Ar.
+
+42. Lot Ar - Name of the Land: Batuyaya -Extent: 0.0167HectareNorth: Batuyaya claimed by H.M.S. Bandara Menike, Batuyayaclaimed by S. Manamperi and Lot An; East: Lots An, Ap and Aq;South: Lot Aq; West: Batuyaya claimed by H.M.S. Bandara Menike.
+
+43. Lot As - Name of the Land: Batuyaya -Extent: 0.1650HectareNorth: Batuyaya claimed by H.M.S.Bandara and Batuyayaclaimed by H.M.S. Bandara Menike, Lot Aq; East: Lot Aq, Batuyayaclaimed by H.M.S.Bandara Menike and Batuyaya claimed by H.M.S.Bandara; South: Batuyaya claimed by H.M.S. Bandara, Batuyayaclaimed by K.G.V. Prinsi; West: Lot Au, At, Batuyaya claimed byT.G.N.S. Wijerathna and Batuyaya claimed by H.M.S. Bandara.
+
+44. Lot At - Name of the Land: Batuyaya -Extent: 0.0010HectareNorth: Batuyaya claimed by T.G.N.S.Wijerathna, Batuyayaclaimed by H.M.S. Bandara, Lot As; East: Lots As and Au; South:LotAu and Batuyaya claimed by K.G.V. Prinsi; West: Batuyaya claimedby T.G.N.S. Wijerathna.
+
+45. Lot Au - Name of the Land: Batuyaya -Extent:0.2644HectareNorth: Batuyaya claimed by K.G.V. Prinsi, Batuyaya claimed byT.G.N.S. Wijerathna, Lots At and As; East: Lot As, Batuyayaclaimed by H.M.S. Bandara and Batuyaya claimed by K.G.V.Prinsi;South: Batuyaya claimed by K.G.V.Prinsi, Road, Lot Ax and Av;West: Lot Av, Road and Batuyaya claimed by K.G.V.Prinsi.
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.20195A
+
+46. Lot Av - Name of the Land:Not known -Extent: 0.0090HectareNorth: Road, Batuyaya claimed by K.G.V. Prinsi and Lot Au;East: Lots Au and Ax; South: Lots Ax and Aw; West: Lot Aw,Batuyaya claimed T.G. Josapinahami and Road.
+
+47. Lot Aw - Name of the Land:Batuyaya -Extent: 0.0876HectareNorth: Batuyaya claimed by T.G.Josapinahami, Road and LotAv;East: LotsAv and Ax; South: LotAx; West: Batuyaya claimed byT.G.Josapinahami.
+
+48. Lot Ax - Name of the Land:Not Known -Extent: 0.0432HectareNorth: Road, Batuyaya claimed by T.G.Josapinahami, Lots Aw,Av and Au; East: Batuyaya claimed by K.G.V.Prinsi, Road, Canneland Lot Ay; South: Lots Ay and Ba; West: Thammannahena claimedby G.G.V.Magrat and Batuyaya claimed by T.G,Josapinahami
+
+49. Lot Ay - Name of the Land:Not known -Extent: 0.0067HectareNorth: Lot Ax; East: Road, Cannel, Batuyaya claimed byG.G.B,Fernando and Lot Az; South:Lots Az and Ba; West: Lot Ax.
+
+50. Lot Az - Name of the Land:Batuyaya -Extent: 0.0976HectareNorth: Lot Ay and Cannel; East: Batuyaya claimed byG.G.B.Fernando and Thammannahena claimed by G.G.V. Magrat;South: Thammannahena claimed by G.G.V. Magrat and Lot Ba;West: Lot Ay.
+
+51. Lot Ba - Name of the Land:Thammannahena -Extent:0.1731 HectareNorth: Thammannahena claimed by G.G.V. Magrat, Road andLot Ax, Ay and Az; East:Batuyaya claimed by G.G.B. Fernandoand Thammannahena claimed by G.G.V. Magrat; South:Thammannahena claimed by G.G.V. Magrat, Cannel and LotBb;West: Lot Bb, Cannel and Thammannahena claimed by G.G.V.Magrat.
+
+52. Lot Bb - Name of the Land:Not known -Extent: 0.0113HectareNorth: Cannel, Thammannahena claimed by G.G.V. Magrat andLot Ba; East: Lot Ba, Thammannahena claimed by G.G.V. Magratand Cannel; South: Cannel, Thammannahena claimed by G.G.V.Magrat and Lot Bc; West: Lot Bc, Thammannahena claimed byG.G.V. Magrat and Cannel.
+
+53. Lot Bc - Name of the Land:Thammannahena -Extent:0.2751 HectareNorth: Thammannahena claimed by G.G.V. Magrat, Cannel andLot Bb; East: Lot Bb, Cannel and Thammannahena claimed by G.G.V.Magrat; South: Thammannahena claimed by G.G.V. Magrat, Canneland Lot Bd; West: Lot Bd, Cannel and Thammannahena claimed byG.G.V. Magrat.
+
+54. Lot Bd - Name of the Land:Not known -Extent: 0.0081HectareNorth: Cannel, Thammannahena claimed by G.G.V. Magrat andLot Bc; East: Thammannahena claimed by G.G.V. Magrat andCannel; South: Cannel, Thammannahena claimed by B.G.D.A.S.Wijerathna; West: Lots Bf, Bg, Thammannahena claimed byA.W.K.M.A.G. Wijerathna.
+
+55. Lot Be - Name of the Land:Thammannahena -Extent:0.0242 HectareNorth: Lots Bf and Bd; East: Lot Bd, Cannel andThammannahena claimed by B.G.D.A.S. Wijerathna; South:Thammannahena claimed by B.G.D.A.S. Wijerathna andThammannahena claimed by R.A.P. Rajapaksha; West: Lots Bf.
+
+56. Lot Bf - Name of the Land:Thammannahena -Extent:0.1112 HectareNorth: Lots Bg and Bd; East: Lots Bd, Be, Thammannahenaclaimed by B.G.D.A.S. Wijerathna and Thammannahena claimedby R.A.P. Rajapaksha; South: Thammannahena claimed by R.A.P.Rajapaksha, Thammannahena claimed by A.W.K.M.A.G.Wijerathana; West: Lot Bg.
+
+57. Lot Bg - Name of the Land:Thammannahena -Extent:0.1511 HectareNorth: Thammannahena claimed by A.W.K.M.A.G. Wijerathna,Cannel and Lot Bd; East: Lots Bd, Bf, Thammannahena claimed byR.A.P. Rajapaksha and Thammannahena claimed by A.W.K.A.G.Wijerathna; South: Thammannahena claimed by A.W.K.A.G.Wijerathna, Thammannahena claimant not known, Lot Bl; West:Lot Bh, Thammannahena claimed by M.G.T.D. Wijerathna andThammannahena claimed by A.W.K.M.A.G. Wijerathna.
+
+58. Lot Bh - Name of the Land:Thammannahena -Extent:0.1131 HectareNorth: Thammannahena claimed by M.G.T.D. Wijerathna andThammannahena claimed by A.W.K.M.A.G. Wijerathna; East: LotBg; South: Lot Bl; West:Lot Bl, Road and Thammannahena claimedby M.G.T.D. Wijerathna.
+
+59. Lot Bi - Name of the Land:Not known -Extent: 0.0208HectareNorth: Road and Thammannahena claimed by M.G.T.D.Wijerathna; East: Lot Bh; South: Lot Bl; West: Lot BjandThammannahena claimed by K. Chandani.
+
+60. Lot Bj - Name of the Land:Thammannahena -Extent:0.0441 HectareNorth: Thammannahena claimed by K. Chandani, Road and LotBl; East: Lot Bl; South: Lot Bl; West: Lot Bk and Thammannahenaclaimed by A. Kumaramenike and Thammannahena claimed by K.Chandani.
+
+6AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+61. Lot Bk - Name of the Land:Thammannahena-Extent:0.0120 HectareNorth: Thammannahena claimed by A.Kumaramenike,Thammannahena claimed by K.Chandani and Lot Bj; East: Lot Bj;South: Lot Bl; West: Lot Bl, Thammannahena claimant not knowand Thammannahena claimed by A.Kumaramenike.
+
+62. Lot Bl - Name of the Land:Thammannahena -Extent:0.0571 HectareNorth: Thammannahena claimant not known, Thammannahenaclaimed by A. Kumaramenike, Lots Bk, Bj, Bl, Bh and Bg; East: LotBg, Thammannahena claimed by A.W.K.M.A.G. Wijerathna andThammannahena claimant not known; South: Thammannahenaclaimant not known, Cannel and Lot Bm; West: Lot Bm, Cannel andThammannahena claimant not known.
+
+63. Lot Bm - Name of the Land:Not known -Extent: 0.0198HectareNorth: Cannel, Thammannahena claimant not known, and LotBl; East: Lot Bl, Thammannahena claimant not known and Cannel;South: Cannel, Thammannahena claimed by K.C.S. Gomas, LotsBo and Bn; West: Lot Bn and Thammannahena claimed by K.B.Karunarathna and Cannel.
+
+64. Lot Bn - Name of the Land:Thammannahena -Extent:0.1741 HectareNorth: Thammannahena claimed by K.B. Karunarathna, Canneland Lot Bm; East: Lots Bo and Bp; South: Lot Bp; West: Lot Bp,Cannel and Thammannahena claimed by K.B. Karunarathna.
+
+65. Lot Bo - Name of the Land:Thammannahena -Extent:0.3439 HectareNorth: Lots Bm and Bn; East: Lot Bm, Cannel andThammannahena claimed by K.C.S. Gomas; South: Thammannahenaclaimed by K.C.S. Gomas, Cannel and Lot Bp; West: Lots Bp andBn.
+
+66. Lot Bp - Name of the Land:Not known -Extent: 0.0263HectareNorth: Thammannahena claimed by K.B. Karunarathna, LotsBn and Bo; East: Lot Bo, Thammannahena claimed by K.C.S. Gomasand Cannel; South: Cannel, Thammannahena claimed by B.G.N.B.Wijerathna, Lots Bq and Br; West: Lot Br, Thammannahena claimedby S.N. Kumarihami and Cannel.
+
+67. Lot Bq - Name of the Land:Thammannahena -Extent:0.4022 HectareNorth: Lots Br and Bp; East: Lot Bp, Canel and Thammannahenaclaimed by B.G.N.B. Wijerathna; South: Thammannahena claimedby B.G.N.B. Wijerathna, Cannel and Lot Bs; West: Lots Bs and Br.
+
+68. Lot Br - Name of the Land:Thammannahena -Extent:0.0325 HectareNorth: Thammannahena claimed by S.N.Kumarihami, Canneland Lot Bp; East: Lots Bp and Bq; South: LotNos. Bq and Bs; West:Lot Bs, Cannel and Thammannahena claimed by S.N.Kumarihami.
+
+69. Lot Bs - Name of the Land:Not known -Extent: 0.0310HectareNorth: Cannel, Thammannahena claimed by S.N. Kumarihamiand Lots Br and Bq; East: Lots Bq, Thammannahena claimed byB.G.N.B. Wijerathna and Cannel; South: Cannel, Pradeshiya SabhaRoad and Lot Bt; West: Lot Bt, Pradeshiya Sabha Road and Cannel
+
+70. Lot Bt - Name of the Land:Not known -Extent: 0.0198HectareNorth: Pradeshiya Sabha Road, Cannel and Lot Bs; East: Lot Bs,Cannel and Pradeshiya Sabha Road; South: Pradeshiya Sabha Road,Thammannahena claimed by A.G. Wijesinha and Lot Bu; West: LotBu, Thammannahena claimed by A.G. Wijesingha and PradeshiyaSabha Road.
+
+71. Lot Bu - Name of the Land:Thammannahena -Extent:0.1354 HectareNorth: Thammannahena claimed by A.G. Wijesinha, PradeshiyaSabha Road and Lot Bt; East: Lot Bt, Pradeshiya Sabha Road andThammannahena claimed by A.G.Wijesinha; South: Thammannahenaclaimed by A.G. Wijesingha, Thammannahena claimed by W.M.Kithsiri and Lot Bv; West: Thammannahena claimed by W.M.Kithsiri and Thammannahena claimed by A.G. Wijesingha.
+
+72. Lot Bv - Name of the Land:Thammannahena -Extent:0.2951 HectareNorth: Thammannahena claimed by W.M. Kithsiri,Thammannahena claimed by A.G. Wijesinha and Lot Bu; East:Thammannahena claimed by A.G. Wijesinha and Thammannahenaclaimed by W.M. Kithsiri; South: Thammannahena claimed by W.M.Kithsiri, Thammannahena claimed by A.G.Silarathana Banda andLot Bw; West: Lot Bx, Thammannahena claimed by A.G. Wijesinghaand Thammannahenaclaimed by W.M.Kithsiri.
+
+73. Lot Bw - Name of the Land:Thammannahena -Extent:0.0424 HectareNorth: Lots Bx and Bv; East: Thammannahena claimed by W.M.Kithsiri and Thammannahena claimed by A.G. Silarathna Banda;South: Thammannahena claimed by A.G.Silarathna Banda,Thammannahena claimed by K.B. Karunarathna, Lots Bw and By;West: Lots By and Bx.
+
+74. Lot Bx - Name of the Land:Thammannahena -Extent:0.0390 HectareNorth: Thammannahena claimed by A.G. Wijesingha,Thammannahena claimed by W.M. Kithsiri, Lot Bv; East: Lots Bvand Bw; South: Lots Bw and By; West: Lot By, Thammannahenaclaimed by A.G. Kanthinona and Thammannahena claimed by A.G.Wijesingha.
+
+75. Lot By - Name of the Land:Thammannahena -Extent:0.2002 HectareNorth: Thammannahena claimed by A.G. Kanthinona,Thammannahena claimed by A.G. Wijesingha, Lots Bx and Bw;East: Lots Bw, Bz, Thammannahena claimed by K.B. Karunarathnaand Thammannahena claimed by A.G. Kanthinona; South:Thammannahena claimed by A.G. Kanthinona, Road and Lot Ca;West: Lot Ca, Road and Thammannahena claimed by A.G.Kanthinona.
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.20197A
+
+76. Lot Bz - Name of the Land:Thammannahena -Extent:0.0005 HectareNorth: Lots By and Bw; East: Lot Bw, Thammannahena claimedby A.G.Silarathna Banda and Thammannahena claimed by K.B.Karunarthna; South: Thammannahena claimed by K.B. Karunarathna;West: Thammannahena claimed by A.G. Kanthinona and Lot By.
+
+77. Lot Ca - Name of the Land:Not known -Extent: 0.0105HectareNorth: Road, Thammannahena claimed by A.G. Kanthinona andLot By; East: Lot By, Thammannahena claimed by A.G. Kanthinonaand Road; South: Road, Cannel and Lot Cb; West: Lot Cb, Canneland Road.
+
+78. Lot Cb - Name of the Land:Not known -Extent: 0.0122HectareNorth: Cannel, Road and Lot Ca; East: Lot Ca, Road and Cannel;South: Cannel, Thammannahena claimed by A.G. Wijesinha, LotCc, Cd and Ce; West: Lots Ce, Cf, Thammannahena claimed byU.G.L.C. Bandara and Cannel.
+
+79. Lot Cc - Name of the Land:Thammannahena -Extent:0.0053 HectareNorth: Lot Cb; East: Lot Cb, Cannel and Thammannahena claimedby A.G.Wijesingha; South: Thammannahena claimed by A.G.Wijesingha and Thammannahena claimed by A.G. Kanthinona; West:Thammannahena claimed by A.G. Kanthinona and Lot Cd.
+
+80. Lot Cd - Name of the Land:Thammannahena -Extent:0.0552 HectareNorth: Lots Ce and Cb; East: Lots Cb, Cc, Thammannahenaclaimed by A.G.Wijesingha, Thammannahena claimed byA.G.Kanthinona; South: Thammannahena claimed byA.G.Kanthinona and Thammannahena claimed by U.G.S.S.Bandara;West: Lot Cf.
+
+81. Lot Ce - Name of the Land:Thammannahena -Extent:0.0968 HectareNorth: Lot Cf, Thammannahena claimed by U.G.L.C.Bandara,Cannel and Lot Cb; East: Lots Cb, Cd, Thammannahena claimed byA.G.Kanthinona and Thammannahena claimed by U.G.S.S.Bandara;South: Thammannahena claimed by U.G.S.S.Bandara andThammannahena claimed by U.G.L.C.Bandara; West: Lot Cf.
+
+82. Lot Cf - Name of the Land:Thammannahena -Extent:0.1592 HectaresNorth: Thammannahena claimed by U.G.L.C. Bandara, Canneland Lot Cb; East: Lots Cb, Ce, Thammannahena claimed byU.G.S.S.Bandara and Thammannahena claimed by U.G.L.C.Bandara; South: Thammannahena claimed by U.G.L.C.Bandara,Thammannahena claimed U.G.J.A. Bandara; West: Lot Cg,Thammannahena claimed by U.G.J.A. Bandara and Thammannahenaclaimed by U.G.L.C. Bandara.
+
+83. Lot Cg - Name of the Land:Thammannahena -Extent:0.0952 HectareNorth:Thammannahena claimed by U.G.J.A.Bandara andThammannahena claimed by U.G.L.C.Bandara; East: Lot Cf,Thammannahena claimed by U.G.L.C. Bandara and Thammannahenaclaimed by U.G.J.A.Bandara; South:Thammannahena claimed byU.G.J.A.Bandara and Thammannahena claimed byU.G.N.Bandara;West:Lot Ch, Thammannahena claimed byU.G.N.Bandara and Thammannahena claimed by U.G.J.A.Bandara.
+
+THE LAND ACQUISITION ACT (CHAPTER 460)
+
+Order Under Proviso(a) Section 38
+
+Order No. 112 of 2019
+
+My Ref. No.: 4-3/3/2017/NRD/479.Divisional Secretary’s Ref. No.: DIVIB/LND/LADAQ/03/KHRW/05.
+
+BY virtue of the power vested in me by Proviso(a) to section 38of Land Acquisition Act (Chapter 460), I, Gayantha KarunatillekeMinister of Lands and Parliamentary Reforms, do here by direct theAcquiring Officer or any other officer authorized by him referred toin Paragraph 1 of the Schedule to take immediate possession of theland specified in the corresponding entry in Paragraph 2 of theSchedule.
+
+Gayantha Karunatilleke.Minister of Lands and Parliamentary Reforms.
+
+Ministry of Lands and Parliamentary Reforms,“Mihikatha Medura,No.1200/06,Rajamalwatta Avenue,Battaramulla.23rd May 2019.
+
+84. Lot Ch - Name of the Land:Thammannahena -Extent:0.1777 HectareNorth:Thammannahena claimed by U.G.N.Bandara andThammannahena claimed by U.G.J.A.Bandara;East: Lot Cg,Thammannahena claimed by U.G.J.A.Bandara and Thammannahenaclaimed by U.G.N.Banadara; South:Thammannahena claimed byU.G.N.Bandara and Thammannahena claimant not known; West:LotCi, Thammannahena claimant not known, and Thammannahenaclaimant by U.G.N.Bandara.
+
+85. Lot Ci-Name of the Land:Thammannahena -Extent:0.1937 Hectare
+
+North: Thammannahena claimant not known and Thammannahenaclaimed by U.G.N.Bandara;East:Lot No. Ch, Thammannahenaclaimed by U.G.N.Bandara and Thammannahena claimant not known;South:Thammannahena claimant not known, Bellanneoya and LotNo. Cj; West: Lot No. Cj, Bellanneoya and Thammannahena claimantnot known.
+
+86. Lot Cj - Name of the Land:Bellanneoya -Extent: 0.0284HectareNorth:Bellanneoya, Thammannahena claimant not known andLot Cl; East: Lot Cl, Thammannahena claimant not known andBellanneoya; South:Bellanneoya Grama Niladhari Division; West:Bellanneoya Grama Niladhari Division.
+
+06 - 627
+
+8AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+SCHEDULE
+
+1. Acquiring Officer - Divisional Secretary-Ibbagamuwa.
+
+IIDescription of the Land –
+
+Allotments of lands depicted in the Advance Tracing No. KU/IBB/2018/265 dated 08.09.2018 Prepared by the Surveyor General,situated in the village called Thalgodapitiya (F.V.P1168) in the GramaNiladari Division, No. 511 of Thalgodapitiya in the DivisionalSecretary’s Division of Ibbagamuwa in Kurunegala District in NorthWestern Province and boundaries as follows.
+
+01.Lot No. 1 – Name of the Land: MahapitiyaWatta -Extent : 0.4731HectareNorth: 514, Ipalawa GN Division (Ipalawa Gama); East:Mahapitiya Watta claimed by H.W.W.M.P. Thalgodapitiya;South: Canal; West: Mahapitiya Watta claimed by H.W.W.M.P.Thalgodapitiya.
+
+02. Lot No. 2 - Name of the Land: Not mentioned - Extent:0.0114 HectareNorth: Lot1; East: Mahapitiya Watta claimed by H.W.W.M.P.Thalgodapitiya, Canal and Angahenakumbura claimed byS.N.M.M.G.S.K. Meegahakumbura; South: Lots 3 and 4; West:Angahenakumbura claimed by S.N.M.M.R. Kumari.Meegahakumbura, canal and Mahapitiya Watta claimed byH.W.W.M.G. Thalgodapitiya.
+
+03. Lot No. 03 - Name of the Land: Angahenakumbura-Extent: 0.1436 HectareNorth: Canal; East: Angahenakumbura claimed byS.N.M.M.G.S.K.Meegahakumbura; South: Garden claimed by S.N. M, M. A. Bandara Meegaskumbura of which the name could notbe traced and Lot 7; West: Lot 4.
+
+04. Lot No. 04-Name of the Land: Angahenakumbura-Extent: 0.0491 HectareNorth: Canal; East: Lot No.3; South: Lot Nos. 7 and 5 andAngahenakumbura Pillewa claimed by B.M.S.G.Basnayake; West:Angahenakumbura claimed by S.N.M.M.R.KumariMeegahakumbura.
+
+05. Lot No. 05 - Name of the Land: AngahenakumburaPillewa - Extent: 0.0065 HectareNorth: Angahenakumbura claimed by S.N.M.M.R.Kumari.Meegahakumbura and Lot No. 4; East: Lot No. 4; South: Lot Nos.7 and 6; West: Angahenakumbura Pillewa claimed byB.M.S.G.Basnayake.
+
+06. Lot No. 06 - Name of the Land: Not mentioned - Extent:0.0012 HectareNorth: Angahenakumbura Pillewa claimed byB.M.S.G.Basnayake; East: Lot No. 5 and 7 and Road; South: Road; West: Road and Angahenakumbura Pillewa claimed byB.M.S.G.Basnayake.
+
+07. Lot No. 07 - Name of the Land: Not mentioned - Extent:0.0122 HectareNorth: Lot Nos. 5, 4 and 3; East:Angahenakumbura claimed byS.N.M.M.G.S.K. Meegahakumbura, Garden claimed byS.N.M.M.A.Bandara Meegaskumbura of which the name could notbe traced and Road; South: Road; West: Road,Lot No. 6 andAngahenakumbura Pillewa claimed by B.M.S.G.Basnayake.
+
+08. Lot No. 08 - Name of the Land: Not mentioned - Extent:0.0097 HectareNorth: Lot No. 7; East: Garden claimed by S.N.M.M.A.BandaraMeegaskumbura of which the name could not be traced; South: LotNo. 9 ; West: Garden claimed by S.N.M.M.A. Bandara of which thename could not be traced and Road & Lot No. 6.
+
+09. Lot No. 09-Name of the Land: Not mentioned -Extent:0.2937 HectareNorth: Road; East: Garden claimed by S.N.M.M.A.BandaraMeegaskumbura of which the name could not be traced; South:Canal; West: Garden claimed by S.N.M.M.A.BandaraMeegaskumbura of which the name could not be traced.
+
+10. Lot No.10-Name of the Land: Not mentioned -Extent:0.0176 HectareNorth: Lot No. 9; East: Garden claimed by S.N.M.M.A.BandaraMeegaskumbura of which the name could not be traced,Canal andWatawanakumbura claimed by S.N.M.M.A.Sanath KumaraMeegaskumbura; South: Lot Nos.11 and x12 ; West:Watawanakumbura claimed by S.S.Hawapaksaperuma, Canal andGarden claimed by S.N.M.M.A.Bandara Meegaskumbura of whichthe name could not be traced.
+
+11. Lot No.11-Name of the Land: Watawanakumbura-Extent: 0.1497 HectareNorth: Canal; East: Watawanakumbura claimed byS.N.M.M.A.Sanath Kumara Meegaskumbura; South: Mahawelaclaimed by B.M.S.Kumarihami and Lot No. 13 ; West: Lot No. 12.
+
+12. Lot No.12-Name of the Land: Watawanakumbura -Extent: 0.0932 HectareNorth: Canal; East: Lot No. 11; South: Lot Nos. 13 and 14 andUnuwapitiya claimed by W.M.Somawathi; West: Watawanakumburaclaimed by S.S.Hawapaksaperuma.
+
+13. Lot No.13-Name of the Land: Mahawela -Extent: 0.1673HectareNorth: Lot Nos. 12 and 11 and Watawanakumbura claimed byS.N.M.M.A.Sanath Kumara Meegahakumbura; East: Mahawelaclaimed by B.M.S.Kumarihami; South: Mahawelakumbura aliasMuththettuwa claimed by A.M.Bandaramenike and Lot Nos. 15;West: Lot No. 14.
+
+14. Lot No.14 - Name of the Land: Unuwapitiya - Extent:0.0651 HectareNorth: Watawanakumbura claimed by S.S.Hawapaksaperumaand Lot No. 12; East: Lot No. 13; South : Lot Nos. 15,16 and 17;West: Unuwapitiya claimed by W.M.Somawathi.
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.20199A
+
+15. Lot No.15 - Name of the Land: Mahawelakumburaalias Muththettuwa - Extent: 0.0304 HectareNorth: Lot Nos. 14 and 13; East: Lot No. 13, Mahawela claimedby B.M.S.Kumarihami and Mahawelakumbura alias Muththettuwaclaimed by A.M.Bandaramenike ; South: Mahawelakumbura aliasMuththettuwa claimed by A.M.Heenbanda and Lot No. 16; West:Lot Nos. 16 and 14.
+
+16. Lot No.16 - Name of the Land: Mahawelakumburaalias Muththettuwa - Extent: 0.0615 HectareNorth: Lot Nos. 14 and 15; East: Mahawelakumbura aliasMuththettuwa claimed by A.M.Bandaramenike andMahawelakumbura alias Muththettuwa claimed by A.M.Heenbanda;South: Muththettuwekumbura claimed by D.M.Somarathna, Lot Nos.19 and 18; West: Mahawelakumbura alias Pinkumbura claimed byRev.Galgiriyawe Devamiththathero and pupillary succession, LotNo. 17 and Unuwapitiya claimed by D.M.Somawathi.
+
+17. Lot No.17 - Name of the Land: Mahawelakumburaalias Muththettuwa - Extent: 0.0036 HectareNorth: Unuwapitiya claimed by D.M.Somawathi and Lot No.14; East: Lot No.16; South: Lot No. 18 and Mahawelakumbura aliasPinkumbura claimed by Rev.Galgiriyawe Devamiththathero andpupillary succession; West: Unuwapitiya claimed byD.M.Somawathi.
+
+18. Lot No.18 - Name of the Land: Mahawelakumburaalias Pinkumbura - Extent: 0.0604 HectareNorth: Lots 17 and 16; East: Lots 16 and 19; South: Lot No.20;West: Muththettuwekumbura alias Mahawela claimed by lateH.M.Ranbanda and Mahawelakumbura alias Pinkumbura claimedby Rev.Galgiriyawe Devamiththa and pupillary succession.
+
+19. Lot No.19-Name of the Land: Muththettuwakumbura-Extent: 0.0274 HectareNorth: Lot Nos. 18 and 16 East: Mahawelakumbura aliasMuththettuwa claimed by A.M. Heenbanda andMuththettuwekumbura claimed by D.M. Somarathna; South:Muththettuwekumbura alias Mahawela claimed by late H.M.Ranbanda and Lot No. 20; West: Lot Nos. 20 and 18.
+
+20. Lot No.20-Name of the Land: Muththettuwakumburaalias Mahawela-Extent: 0.1215 HectareNorth: Mahawelakumbura alias Pinkumbura claimed byRev.Galgiriyawe Devamiththa and pupillary succession and Lot No.18; East: Lot No. 19, Muththettuwekumbura claimed byD.M.Somarathna, Muththettuwekumbura alias Mahawela claimedby late H.M.Ranbanda ; South: Mahawelakumbura claimed byW.M.Renuka Kumari and Lot No. 21; Wes: Mahawelakumburaclaimed by W.M.Renuka Kumari and Muththettuwe Kumbura aliasMahawela claimed by late H.M.Ranbanda.
+
+21. Lot No.21- Name of the Land: Mahawelakumbura -Extent: 0.0870 HectareNorth: Muththettuwe kumbura alias Mahawela claimed by lateH.M.Ranbanda and Lot No. 20; East: Lot 20, Muththettuwe kumbura
+
+alias Mahawela claimed by late H.M.Ranbanda and MahawelaKumbura claimed by W.M.Renuka Kumari; South:MahawelaKumbura alias Ihalawela claimed by E.M.T.Cyril Ekanayake andLot No.22; West: Mahawela kumbura alias Ihalawela claimed byE.M.T.Cyril Ekanayake and Mahawela Kumbura claimed byW.M.Renuka Kumari.
+
+22. Lot No.22 - Name of the Land: Mahawelakumburaalias Ihalawela - Extent: 0.0551 HectareNorth: Mahawela kumbura claimed by W.M.Renuka Kumariand Lot No. 21; East: Lot No. 21, Mahawela Kumbura claimed byW.M.Renuka Kumari and Mahawela Kumbura alias Ihalawelaclaimed by E.M.T.Cyril Ekanayake; South: Ihalawela claimed byD.M.E.M.Kumari Disanayake and Lot No. 23; West: Lot No. 23,Ihalawela claimed by D.M.E.M.Kumari Disanayake and MahawelaKumbura alias Ihalawela claimed by E.M.T.Cyril Ekanayake.
+
+23. Lot No.23 - Name of the Land: Ihalawela - Extent:0.0328 HectareNorth: Mahawela Kumbura alias Ihalawela claimed byE.M.T.Cyril Ekanayake and Lot No. 22; East: Lot No. 22, MahawelaKumbura alias Ihalawela claimed by E.M.T.Cyril Ekanayake andIhalawela claimed by D.M.E.M.KumariDisanayake; South: Road;West: Road and Ihalawela claimed by D.M.E.M.Kumari Disanayake.
+
+24. Lot No.24-Name of the Land: Not mentioned -Extent:0.0121 HectareNorth: Lot No.23; East;: Lot No. 23 and Ihalawela claimed byD.M.E.M.Kumari Dissanayake; South: Road and Lot Nos. 25 and26; West: Lot No. 26, Mahawela Kumbura claimed byD.M.N.M.Kumari Dissanayake, Road and Ihalawela claimed byD.M.E.M.Kumari Dissanayake.
+
+25. Lot No.25-Name of the Land: Mahawelakumbura-Extent: 0.0011 HectareNorth: Road; East: Road; South: Hatharamahaliyadda claimedby H.M.Lalitha Padmini; Wes: Lot Nos. 28 and 26.
+
+26. Lot No.26-Name of the Land: Mahawelakumbura -Extent: 0.0865 HectareNorth: Road; East: Road, Lot No. 25 and Hatharamahaliyaddaclaimed by H.M.Lalitha Padmini; South: Lot No. 28; West: Lot No.27, Mahawelakumbura Pillewa and Mahawelakumbura claimed byD.M.N.M.Kumari Dissanayake.
+
+27. LotNo.27 - Name of the Land: MahawelakumburaPillewa – Extent: 0.0049 HectareNorth: Mahaewlakumbura Pillewa and Mahaewla kumburaclaimed by D.M.N.M.Kumari Dissanayake; East: Lot No. 26 ; South:Lot No. 28 and Hatharamahaliyadda claimed by H.M.Lalitha Padmini;West: Mahawela Kumbura Pillewa claimed by D.M.N.M. KumariDissanayake.
+
+10AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+28. Lot No.28 - Name of the Land: Hatharamahaliyadda -Extent: 0.1243 HectareNorth: Mahawelakumbura Pillewa claimed by D.M.N.M.KumariDissanayake and Lot Nos. 27 and 26; East: Lot No. 25 andHatharamahaliyadda claimed by H.M.Lalitha Padmini ; South: Paddyfield claimed by S.M.Dharmasiri of which the name could not betraced and Lot Nos. 29 and 30; West: Paddy field claimed byS.M.Senevirathna and some others of which the name could not betraced and Hatharamahaliyadda claimed by H.M. Lalitha Padmini.
+
+29. Lot No.29 - Name of the Land: Not mentioned - Extent:0.0318 HectareNorth: Lot No. 28; East: Hatharamahaliyadda claimed byH.M.Lalitha Padmini and Paddy field name claimed byS.M.Dharmasiri of which the name could not be traced; South:Thalwetalanga kumbura claimed by Sri DharmarakshitharamaViharaya and Lot No. 31; West: Lot No. 30.
+
+30. Lot No.30-Name of the Land: Not mentioned-Extent:0.0754 HectareNorth: Hatharamahaliyadda claimed by H.M.Lalitha Padmini andLot No. 28; East: Lot No. 29; South: Lot No. 31; West:Thalwetalangakumbura claimed by Sri DharmarakshitharamaViharaya and Paddy field claimed by S.M.Senevirathna and someothers of which the name could not be traced.
+
+31. Lot No.31-Name of the Land:Thalwetalangakumbura -Extent: 0.1106 HectareNorth: Paddy field claimed by S.M.Senevirathna and some othersof which the name could not be traced and Lot Nos. 30 and 29; East:Paddy field claimed by S.M.Dharmasiri of which the name couldnot be traced and Thalwetalanga Kumbura claimed by SriDharmarakshitharama Viharaya; South: Hatharamahaliyadda claimedby A.M.Somawathi and Lot No. 33; West: Lot Nos. 33 and 32 andThalwetalanga Kumbura claimed by Sri DharmarakshitharamaViharaya.
+
+32. Lot No.32-Name of the Land:Hatharamahaliyadda -Extent: 0.0016 HectareNorth: Thalwetalangakumbura claimed by SriDharmarakshitharama Viharaya and Lot No.31; East:Lot No. 33;South: Lot Nos. 33 and 37 and Hitinagedarawatta claimed byW.M.R.W.Bandara; West: Hitinagedarawatta of which the claimantcould not be traced
+
+33. Lot No.33-Name of the Land:Hatharamahaliyadda -Extent: 0.1342 HectareNorth: Thalwetalangakumbura claimed by SriDharmarakshitharama Viharaya and Lot No. 31; East:Thalwetalangakumbura claimed by Sri DharmarakshitharamaViharaya and Hatharamahaliyadda claimed by A.M.Somawath;South: Paddy field claimed by Rev.Galgiriyawe Devamiththatheroand pupillary succession of which the claimant could not be tracedand Lot Nos. 34 and 35 ; West: Lot No. 37, Hitinagedarawattaclaimed by W.M.R.W.Bandara,Lot No. 32.
+
+34. Lot No.34 - Name of the Land:not mentioned - Extent:0.0154 HectareNorth: Lot No. 33; East: Hatharamahaliyadda claimed byA.M.Somaewathi and Paddy field claimed by Rev.GalgiriyaweDevamiththathero and pupillary succession of which the name couldnot be traced; South: Thalwetalangakumbura claimed byW.M.G.S.Bandara Thalgodapitiya and Lot No. 35; West: Lot No.35.
+
+35. Lot No.35-Name of the Land:Thalwetagawa Kumbura-Extent: 0.0665 HectareNorth: Lot No. 33; East: Lot No. 34, Paddy field claimed byRev.Galgiriyawe Devamiththathero and pupillary succession ofwhich the name could not be traced and Thalwetalangakumburaclaimed by W.M.G.S.BandaraThalgodapitiya; South:Pahalamahawela claimed by W.M.R.T.Abeyratne Bandara and LotNos. 42 and 41; West: Lot Nos. 36 and 37.
+
+36. Lot No.36-Name of the Land:Thalwetagawa kumburaPillewa -Extent: 0.0232 HectareNorth: Lot Nos. 37 and 35; East: Lot No. 35; South: Lot Nos. 42and 41, Canal and Lot No. 39; West: Lot Nos. 38 and 37.
+
+37. Lot No.37-Name of the Land:Hitinagedarawatta -Extent: 0.0107 HectareNorth: Hitinagedarawatta claimed by W.M.R.W.Bandara and LotNo. 32; East: Lot Nos. 33, 35 and 36 ; South: Lot No. 38 andHitinagedarawatta claimed by W.M.G.S.Bandara Thalgodapitiya;West: Hitinagedarawatta claimed byW.M.R.W.Bandara.
+
+38. Lot No.38-Name of the Land:Hitinagedarawatta -Extent: 0.0714 HectareNorth: Hitinagedarawatta claimed by W.M.R.W.Bandara and LotNos. 37 and 36; East: Lot Nos. 39, 44 and 45; South: Lot Nos. 48and 49; West: Hitinagedarawatta claimed by W.M.G.S.BandaraThalgodapitiya.
+
+39. Lot No.39-Name of the Land:Pahala Mawela Pillewa -Extent: 0.0075 HectareNorth: Lot Nos. 38 and 36; East: Canal; South: Lot No. 44;West: Lot No. 38.
+
+40. Lot No.40-Name of the Land:Not mentioned -Extent:0.0136 HectareNorth: Lot Nos. 39, 36 and 41; East: Lot Nos. 42, 43 and 46;South: Lot Nos. 47 and 56 ; West: Lot Nos. 48, 45 and 44.
+
+41. Lot No.41-Name of the Land:Pahala Mahawela Pillewa-Extent: 0.0032 HectareNorth: Lot No. 36; East: Lot Nos. 35 and 42; South: Lot No. 42;West: Canal.
+
+42. Lot No.42-Name of the Land:Pahala MahawelaKumbura -Extent: 0.0758 HectareNorth: Lot Nos. 41,36 and 35; East: Thalwetalangakumburaclaimed by W.M.G.S.Bandara Thalgodapitiya and Pahalamahawelaclaimed by W.M.R.T.Abeyratne Bandara; South: Pahala Mahawelaclaimed by W.M.W.Punchibanda and Lot No. 43; West: Canal andLot No. 41.
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.201911A
+
+43. Lot No.43-Name of the Land:Pahala Mahawela -Extent:0.0628 HectareNorth: Canal and Lot No. 42; East: Lot No. 42, Pahala Mahawelaclaimed by W.M.R.T.Abeyratne Bandara and Pahala Mahawelaclaimed by W.M.W.Punchibanda ; South: Pahala Mahawela claimedby W.M.Nawarathna bandara and Lot No. 46; West: Canal.
+
+44. Lot No.44 - Name of the Land:Pahala Mahawela Pillewa- Extent: 0.0073 HectareNorth: Lot Nos. 38 and 39; East: Canal and Lot No. 45; South:Canal; West: Lot No. 38.
+
+45. Lot No.45-Name of the Land:Pahala Mahawela Pillewa-Extent: 0.0022 HectareNorth: Lot Nos. 38 and 44; East: Canal; South: Canal and LotNo. 48; West: Lot No. 38.
+
+46. Lot No.46-Name of the Land:Pahala Mahawela -Extent:0.0544 HectareNorth: Canal and Lot No. 43; East: Mahawela claimed byW.M.W.Punchibanda and Pahala Mahawela claimed byW.M.Nawarathna Bandara; South: Pahala Mahawela claimed byS.M.Samarakoon Banda and Lot No. 47; West: Canal.
+
+47. Lot No.47-Name of the Land:Pahala Mahawela -Extent:0.1214 HectareNorth: Canal and Lot No. 46 ; East: Pahala Mahawela claimed byW.M.Nawarathna Bandara and Pahala Mahawela claimed byS.M.Samarakoon banda; South: Pahala Mahawela claimed byW.M.Renuka Kumari and Lot No. 56; West: Canal.
+
+48. Lot No.48-Name of the Land:Pahala Mahawela Pillewa-Extent: 0.0080 HectareNorth: Lot Nos. 38 and 45; East: Canal; South: Canal and LotNos. 56; West: Lot No. 49.
+
+49. Lot No.49-Name of the Land:Hitinagedarawatta -Extent: 0.1101 HectareNorth: Lot No. 50, Hitinagedarawatta claimed byW.M.G.S.Bandara Thalgodapitiya and Lot No. 38; East: Lot No.48; South: Lot No. 56, Road Development Authority Road and LotNo. 55; West: Lot Nos. 54, 52 and 51.
+
+50. Lot No.50-Name of the Land:Hitinagedarawatta -Extent: 0.0046 HectareNorth: Hitinagedarawatta claimed by W.M.G.S.BandaraThalgodapitiya; East: Lot No. 49; South: Lot Nos. 49 and 52; West:Lot No. 51.
+
+51. Lot No.51-Name of the Land:Hitinagedarawatta -Extent: 0.0144 HectareNorth: Road and Hitinagedarawatta claimed by W.M.G.S.BandaraThalgodapitiya; East: Lot Nos. 50 and 49; South: Lot Nos. 52, 54and 53; West: Road.
+
+52. Lot No.52-Name of the Land:Hitinagedarawatta -Extent: 0.0026 HectareNorth: Lot Nos. 51 and 50; East: Lot No. 49; South:Lot Nos.55, 54 and 53; West: Lot No. 51.
+
+53. Lot No.53-Name of the Land:Hitinagedarawatta -Extent: 0.0002 HectareNorth: Road and Lot No. 51; East: Lot Nos. 52 and 54; South:Road Development Authority Road; West: Road DevelopmentAuthority Road.
+
+54. Lot No.54-Name of the Land:Hitinagedarawatta -Extent: 0.0006 HectareNorth: Lot Nos. 51 and 52; East: Lot Nos. 49 and 55; South:Road Development Authority Road; West: Lot No. 53 and RoadDevelopment Authority Road.
+
+55. Lot No.55-Name of the Land:Hitinagedarawatta -Extent: 0.0050 HectareNorth: Lot Nos. 52 and 49; East: Lot Nos. 49 and 56 ; South:RoadDevelopment Authority Road; West: Road Development AuthorityRoad and Lot No. 54.
+
+56. Lot No.56-Name of the Land:Pahala Mawela -Extent:0.0449 HectareNorth: Lot No. 48, Canal and Lot No. 47; East: Lot No. 47,Pahala Mahawela claimed by S.M.Samarakoon Banda and PahalaMahawela claimed by W.M.Renuka Kumari; South: RoadDevelopment Authority Road; West: Road Development AuthorityRoad and Lot Nos. 55 and 49.
+
+57. Lot No.57-Name of the Land:Not mentioned -Extent:0.0617 HectareNorth: Lot Nos. 55, 49 and 56; East: Lot No. 56, Pahala Mahawelaclaimed by W.M.Renuka Kumari and Road Development AuthorityRoad ; South: Canal ; West: Lot No .58, Maragahakumburata YavuWatta which claimant could not be traced and Road DevelopmentAuthority Road.
+
+58. Lot 58-Name of the Land: Maragahakumburata YavuWatta -Extent: 0.0029 HectareNorth: Road Development Authority Road; East: RoadDevelopment Authority Road and Canal; South: Lot No. 59; West:Maragahakumburata Yavu Watta claimed by late R,M.W.Bandaraand Maragahakumburata Yavu Watta claimant of which could notbe traced.
+
+59. Lot No.59-Name of the Land:Estate next toMaragahakumburatayawuwatta -Extent: 0.0078 Hectare North: Maragahakumburata Yavu Watta claimant of which couldnot be traced and Lot No. 58; East: Lot No. 58 and Canal; South:Canal; West: Maragahakumburata Yavu Watta claimed by lateR,M.W.Bandara.
+
+12AIII fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.2019
+
+60. Lot No.60-Name of the Land:Not mentioned -Extent:0.0132 HectareNorth: Lot Nos. 59 and 58 and Road Development AuthorityRoad; East: Road Development Authority Road, Canal andPallekumbura claimed by E.M.D.Indrani Ekanayake ; South:LotNos. 61 and 62; West: Maragahakumbura claimed by lateR,M.W.Bandara,Canal,and MaragahakumburataYavu Watta claimedby late R,M.W.Bandara.
+
+61. Lot No.61-Name of the Land:Pallekumbura -Extent:0.0213 HectareNorth: Canal; East: Canal and Pallekumbura claimed byE.M.D.Indrani Ekanayake; South: Maragahakumbura claimed bylate R,M.W.Bandara and Lot No. 62; West: Lot No. 62.
+
+62. Lot No.62-Name of the Land:Maragahakumbura -Extent: 0.2344 HectareNorth: Canal; East: Lot No. 61, Pallekumbura claimed byE.M.D.Indrani Ekanayake and Maragahakumbura claimed by lateR,M.W.Bandara; South: Pallekumbura claimed by Rev.GalgiriyaweDevamiththa thero and pupillary succession, Lot Nos. 65 and 64 ;West: Lot No. 63 and Maragahakumbura claimed by lateR,M.W.Bandara.
+
+63. Lot No.64-Name of the Land:Maragahakumbura -Extent: 0.2346 HectareNorth: Maragahakumbura claimed by late R,M.W.Bandara andLot No. 62 ; East: Lot Nos. 62 and 65, Pallekumbura claimed byRev.Galgiriyawe Devamiththathero and pupillary succession, LotNos. 66 and 67 ; South: Lot No. 69; West: Canal and Lot No. 63.
+
+64. Lot No.65-Name of the Land:Pallekumbura -Extent:0.0017 HectareNorth: Lot No. 62; East: Maragahakumbura claimed by lateR,M.W.Bandara and Pallekumbura claimed by Rev.GalgiriyaweDevamiththa thero and pupillary succession ; South: Pallekumburaclaimed by Rev.Galgiriyawe Devamiththa thero and pupillarysuccession and Lot No. 66; West: Lot No. 64.
+
+65. Lot No.66-Name of the Land:Pallekumbura -Extent:0.0009 HectareNorth: Lot Nos. 64 and 65; East: Pallekumbura claimed byRev.Galgiriyawe Devamiththa thero and pupillary succession; South:Lot Nos. 67 and 69; West: Lot No. 64.
+
+66. Lot No.68-Name of the Land:Pallekumbura -Extent:0.0015 HectareNorth: Lot No. 69; East: Lot No. 67 and Pallekumbura claimedby S.W.M. Seelarathna; South: Pallekumbura claimed by S.W.M.Seelarathna and Pallekumbura claimed by W.D.L. Chandrasoma;West: Lot Nos. 72 and 79.
+
+67. Lot No.69-Name of the Land:Pallekumbura -Extent:0.1344 HectareNorth: Lot No. 64; East: Lot Nos. 66 and 67 ; South: Pallekumburaclaimed by S.W.M.Seelarathna and Lot Nos. 68 and 72; West: Canaland Lot No. 64.
+
+68. Lot No. 70-Name of the Land:Not mentioned -Extent:0.0176 HectareNorth: Canal and Lot No. 63; East: Lot Nos. 64 and 69 ; South:Lot Nos. 72 and 73, Pallekumbura claimed by W.M.W.Arambepolaand Canal; West: Pallekumburewatta claimed byS.W.M.T.L.Hulangama and Lot No. 71.
+
+69. Lot No. 71-Name of the Land:Pallekumburawatta -Extent: 0.0345 HectareNorth: Pallekumburewatta claimed by S.W.M.T.L.Hulangamaand Canal; East: Canal ; South: Canal; West :Pallekumburawattaclaimed by S.W.M.T.L.Hulangama.
+
+70. Lot No. 72-Name of the Land:Pallekumbura -Extent:0.1221 HectareNorth: Canal and Lot No. 69; East: Lot No. 68, Pallekumburaclaimed by S.W.M. Seelarathna and Pallekumbura claimed by W.D.L.Chandrasoma; South: Pallekumburawatta claimed by W.M.W.Arambepola and Lot No. 73; West: Lot No. 73.
+
+71. Lot No. 73-Name of the Land:Pallekumbura -Extent:0.1741 HectareNorth: Pallekumbura claimed by W.M.W.Arambepola, Canaland Lot No. 72; East: Lot No. 72, Pallekumbura claimed byW.D.L.Chandrasoma and Pallekumburawatta claimed byW.M.W.Arambepola; South:Pallekumbura claimed byW.M.W.Arambepola and Canal; West: Canal.
+
+72. Lot No. 74-Name of the Land:Not mentioned -Extent:0.0217 HectareNorth: Canal, Pallekumbura claimed by W.M.W.Arambepolaand Lot No. 73; East: Lot No. 73, Pallekumbura claimed byW.M.W.Arambepola and Canal ; South: Kimbulawatawanakumburaclaimed by R.M.Senevirathna Banda and Lot Nos. 75 and 77; West:Lot No. 78 and Kimbulawatawanakumbura claimant could not betraced.
+
+73. Lot No. 75 - Name of the Land: Kimbulawatawanakumbura - Extent: 0.0133 HectareNorth: Canal; East: Canal and Kimbulawatawanakumbura claimedby R.M.Senevirathna Banda; South:Kimbulawatawanakumburaclaimed by R.M.Senevirathna Banda and Lot No. 76; West: LotNo. 77.
+
+74. Lot No. 77-Name of the Land: Kimbulawatawanaku mbura - Extent: 0.0573 HectareNorth: Lot No. 78 and Canal; East: Lot No. 75 andKimbulawatawanakumbura claimed by R.M.Senevirathna Banda ;South: Lot No. 76 and Canal; West: Lot No. 78.
+
+III fldgi – Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h – 2019'06'06PART III – GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 06.06.201913A
+
+75. Lot No. 78-Name of the Land: Kimbulawatawanakumbura - Extent: 0.1495 HectareNorth: Kimbulawatawanakumbura claimant could not be tracedand Canal; East: Lot No. 77 ; South: Lot No. 77 and Canal; West:Lot No. 79 and Kimbulawatawanakumbura claimed byK.T.Abeysinghe.
+
+76. Lot No. 79 - Name of the Land: Kimbulawatawanakumbura - Extent: 0.0607 HectareNorth: Kimbulawatawanakumbura claimed by K.T. Abeysingheand Kimbulawatawanakumbura claimant could not be traced; East:Lot No. 78; South: Lot No. 78 and Canal; West: Canal,Kimbulawatawanakumbura claimant could not be traced andKimbulawatawanakumbura claimed by K.T.Abeysinghe.
+
+77. Lot No. 80-Name of the Land:Not mentioned -Extent:0.0098 HectareNorth: Kimbulawatawanakumbura claimant could not be traced ,Kimbulawatawanakumbura claimed by K.T.Abeysinghe, Lot Nos.79 and 78; East: Lot Nos. 78, 77 and 76; South: Canal,Kattakaduwakumbura Danatawatta claimed by O.A.Gunaratne, LotNos. 81 and 82; West: Lot No. 82, Mahapaluwatta claimed byW.M.W.Arambepola and Canal.
+
+78. Lot No. 81-Name of the Land: Kattakaduwa kumburaDanatawatta - Extent: 0.0386 HectareNorth: Lot No. 82; East: Canal and Kattakaduwa kumbura DanataWatta claimed by O.A.Gunaratne; South: Canal, Kattakaduwakumbura Danata Watta claimed by O.A.Gunaratne, andKattakaduwakumbura Danata Watta claimed by M.M.A.K.BandaraMapa and some other; West: Lot Nos. 89 and 88.
+
+79. Lot No. 82-Name of the Land:Mahapaluwatta-Extent:0.0868 HectareNorth: Canal; East: Canal and Lot No. 81; South: Lot Nos. 81 and88; West: Lot Nos. 87 and 83 and Mahapaluwatta claimed byW.M.W.Arambepola.
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+
+80.Lot No. 83-Name of the Land:Puwakwetagawakumburaand Kattakaduwakumbura-Extent: 0.0022 HectareNorth: Mahapaluwatta claimed by W.M.W.Arambepola; East:Lot Nos. 82 and 87; South:Lot Nos. 87 and 84; West: Garden claimedby W.M.N.Kumarihami of which the name could not be traced.
+
+81. Lot No. 84-Name of the Land:Not mentioned -Extent:0.0034 HectareNorth: Garden claimed by W.M.N.Kumarihami of which thename could not be traced and Lot No. 83; East: Lot No. 87 ; South:Lot Nos. 87 and 85; West: scrub of which the name and claimantcould not be traced and Garden claimed by W.M.N.Kumarihami ofwhich the name could not be traced.
+
+82. Lot No. 85-Name of the Land:Not mentioned -Extent:0.0037 HectareNorth: Garden of which the name and claimant could not betraced, Garden claimed by W.M.N.Kumarihami of which the namecould not be traced and Lot No. 84 ; East: Lot Nos. 84 and 87 ;South:Lot Nos. 87 and 86; West: Paddy field and scrub of which thename and claimant could not be traced.
+
+83. Lot No. 86-Name of the Land: Not mentioned - Extent:0.0296 HectareNorth: Paddy field and scrub of which the name and claimantcould not be traced and Lot No. 85; East: Lot No. 87; South: Lot No.87 ; West: Puwakwetagawakumbura and Kattakaduwakumburaclaimed by U.G.M.Senarathna and Kattakaduwakumbura and Paddyfield of which the name and claimant could not be traced .
+
+84. Lot No. 87-Name of the Land: Puwakwetagawa kumburaand Kattakaduwakumbura -Extent: 0.1758 HectareNorth: Lot Nos. 85 and 84, Garden claimed by W.M.N.Kumarihami, of which the name could not be traced and Lot No. 83,Mahapaluwatta claimed by W.M.W. Arambepola and Lot No. 82;East: Lot Nos. 82, 88 and 91; South: Lot Nos. 92, 93 and 96; West:Meegahamulawatta claimed by U.G.M.K.Tennakoon,Puwakwetagawakumbura and Kattakaduwakumbura claimed byU.G.M. Senarathna and Paddy field of which the claimant and thename of the Paddy field could not be traced and Lot No. 86.
+
+06 - 628
