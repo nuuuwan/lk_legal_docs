@@ -1,0 +1,27 @@
+(Published by Authority)
+
+ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් ගැසට් පතය
+
+අති විෙශෂ EXTRAORDINARY The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+PART III - LANDS Title Registration REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 2 : 95, 2 : 96, 2 : 97, 2 : 98, 2 : 99, 2 : 100, 2 : 101, 2 : 102, 2 : 103, 2 : 104, 2 : 105 and 2 : 106 of Block 3, contained in the Cadastral Map No. 421861, situated in the Village of BAKMIGOLLA within the Grama Niladhari Division of No. 522 - BAKMIGOLLA in the Divisional Secretary's Division of Ibbagamuwa, in the District of Kurunegala, in the Province of North Western, referred to in Notice No. 42/0947 calling for claims to land parcels which was duly published in the Gazette No. 2371/63 of 17th February, 2024 in terms of Section 12 of the Regis-tration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st July, 2025
+
+අංක 2445/68 - 2025 ජූලි මස 18 වැනි සිකුරාදා - 2025.07.18
+
+No. 2445/68 – FRIDAY, JULY 18, 2025
+
+N.B.– This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+1A - G 044898 - 04 (07/2025)
+
+2 A
+
+III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.18 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 18.07.2025
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 2:95 0.0128 The State Full 1st Class _ _ 2:96 0.0386 The State Full 1st Class _ _ 2:97 0.0551 The State Full 1st Class _ _ 2:98 0.0379 The State Full 1st Class _ _ 2:99 0.0103 The State Full 1st Class _ _ 2:100 0.0087 The State Full 1st Class _ _ 2:101 0.0373 The State Full 1st Class _ _ 2:102 0.0001 The State Full 1st Class _ _ 2:103 0.0020 The State Full 1st Class _ _ 2:104 0.0048 The State Full 1st Class _ _ 2:105 0.0185 The State Full 1st Class _ _ 2:106 0.0369 The State Full 1st Class _ _ EOG 07 - 0231/1 _______________________ REGISTRATION OF TITLE ACT, No. 21 OF 1998 Declaration of Determination of the Commissioner of Title Settlement under Section 14 BY virtue of the powers vested in me under Section 14 of the Registration of Title Act, No.21 of 1998, I, the undersigned, hereby de-clare my determination as set out in the Schedule appended hereto in regard to the title to parcel of Land Nos. 1 : 25 of Block 4, con-tained in the Cadastral Map No. 421861, situated in the Village of Bakmigolla within the Grama Niladhari Division of No. 522 - BAK-Bakmigolla in the Divisional Secretary's Division of Ibbagamuwa, in the District of Kurunegala, in the Province of North Western, re-ferred to in Notice No. 42/0951 calling for claims to land parcels which was duly published in the Gazette No. 2373/40 of 29th Febru-ary, 2024 in terms of Section 12 of the Registration of Title Act, No.21 of 1998. P.C. D. Sං඀ൾඋൺ, Commissioner General of Land Title Settlement. Land Title Settlement Department, No. 1200/6, “Mihikatha Medura”, Rajamalwatta Road, Battaramulla. 01st July, 2025
+
+3 A III ෙකොටස - ශී ලංකා පජාතාන්තික සමාජවාදී ජනරජෙය් අති විෙශෂ ගැසට් පතය - 2025.07.18 Pൺඋඍ III – GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA – 18.07.2025
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+SCHEDULE —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— Particulars Particulars Class and regarding if Sheet No. National Extent Nature Mortgages subject And Extent Full Name/s of Owner/s Identity Owned of Encumbrances to any Parcel and Address Card No. Title pending form of No. Adjudication special or and personal Injunction law —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————— (Hectare) 1:25 0.0385 Galuge Shayama Pushpa Kumari 955581687V Full 1st Class Right of using _ No.199, Akkara 10, Thorayaya, and Kurunegala maintaining the road of Parcel No. 421861/04/07 and Subject to the Life interest of Munasingha Arachchige Kusum Chandrika Padmini EOG 07 - 0231/2
