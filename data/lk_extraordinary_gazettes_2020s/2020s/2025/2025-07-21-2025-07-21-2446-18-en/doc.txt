@@ -1,0 +1,255 @@
+w;s úfYI
+
+wxl 2446$18 - 2025 cQ,s ui 21 jeks i`ÿod - 2025.07.21No. 2446/18 - MONDAY, JULY 21, 2025
+
+EXTRAORDINARY
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+(Published by Authority)PART I : SECTION (I) — GENERAL
+
+Government Notifications
+
+1A - G 44927 - 34 (07/2025) This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+FOREST CONSERVATION ORDINANCE
+
+THE order under Section 3 of the Forest Conservation Ordinance (Chapter 451) No. 16 of 1907, as amended by Act, No. 13 of 1966 (reprint), No. 56 of 1979, No. 13 of 1982, No. 84 of 1988, No. 23 of 1995 and No. 65 of 2009.
+
+The Order
+
+By virtue of the powers vested in me under Section 3 of the Forest Conservation Ordinance (Chapter 451) No. 16 of 1907, as amended by Act, No. 13 of 1966 (reprint), No. 56 of 1979, No. 13 of 1982, No. 84 of 1988, No. 23 of 1995 and No. 65 of 2009, I, the Minister of Environment do by this Order declare the state land of the extent 113.49 hectares located in the area bounded by the limits set forth in the Schedule given below, as Palakuda Reserved Mangrove Forest from 15th day of July 2025.
+
+Dammika Patabendi, Minister of Environment.
+
+At the Bajjangoda Open Air Theatre in Gampaha District,15th July, 2025.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'07'21Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.07.20252A
+
+SCHEDULE
+
+The state land of 113.49 hectares located within Thirukkovil Divisional Secretary’s Division of Ampara District in the Eastern Province of Sri Lanka located within the area depicted by the following geodesic coordinates. (Survey Method - Geodesic Coordinates EPSG : 5234 method).
+
+Serial NumberEastern CoordinatesNorthern Coordinates
+
+1319975210296
+
+2319957210243
+
+3319952210185
+
+4319930210122
+
+5319920210039
+
+6319916209964
+
+7319926209908
+
+8319928209859
+
+9319925209829
+
+10319938209786
+
+11319938209760
+
+12319916209751
+
+13319871209767
+
+14319824209723
+
+15319786209701
+
+16319737209675
+
+17319655209645
+
+18319598209620
+
+19319562209620
+
+20319505209629
+
+21319448209645
+
+22319398209662
+
+23319345209669
+
+24319303209678
+
+25319267209673
+
+26319230209664
+
+27319185209634
+
+28319150209613
+
+29319112209603
+
+30319074209601
+
+Serial NumberEasternCoordinatesNorthern Coordinates
+
+31319037209586
+
+32319001209575
+
+33318948209566
+
+34318941209485
+
+35318905209332
+
+36318846209151
+
+37318769209004
+
+38318691208878
+
+39318641208776
+
+40318670208584
+
+41318679208442
+
+42318666208360
+
+43318688208310
+
+44318720208259
+
+45318802208207
+
+46318851208159
+
+47318681208091
+
+48318659208180
+
+49318608208211
+
+50318553208225
+
+51318533208258
+
+52318507208301
+
+53318437208264
+
+54318391208208
+
+55318339208209
+
+56318336208243
+
+57318306208262
+
+58318240208305
+
+59318166208431
+
+60318165208509
+
+Serial NumberEastern CoordinatesNorthern Coordinates
+
+61318258208577
+
+62318296208603
+
+63318324208651
+
+64318287208657
+
+65318209208664
+
+66318168208670
+
+67318090208680
+
+68318066208688
+
+69317991208708
+
+70317876208738
+
+71318048209025
+
+72318055209005
+
+73318068208959
+
+74318080208925
+
+75318101208882
+
+76318120208864
+
+77318144208836
+
+78318182208805
+
+79318232208789
+
+80318257208788
+
+81318289208786
+
+82318349208794
+
+83318377208800
+
+84318457208821
+
+85318491208855
+
+86318503208890
+
+87318536208933
+
+88318563208968
+
+89318586209006
+
+90318564209013
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'07'21Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.07.2025
+
+3A
+
+Serial NumberEastern CoordinatesNorthern Coordinates
+
+91318528208998
+
+9231847220898293318468209016943185192090439531854020906296318597209089973186362091579831868020922399318714209276100318751209350101318650209351102318581209360103318516209387104318524209426105318523209474106318535209520107318549209598108318563209643
+
+Serial NumberEasternCoordinatesNorthern Coordinates109318605209722110318634209782111318666209830112318690209896113318698209940114318704209985115318719210028116318740210076117318799210146118318834210176119318920210207120318971210214121319045210203122319097210185123319147210154124319201210092125319223210061126319254210026
+
+Serial NumberEastern CoordinatesNorthern Coordinates127319339209956128319416209910129319499209862130319544209838131319595209816132319626209808133319675209846134319593209906135319589209934136319575209982137319580210028138319624210065139319681210153140319715210189141319749210232142319778210260143319807210301144319919210342
+
+The land area surrounded by the Straight lines formed by joining the starting point (Eastern Cordinates 319975, Northern Cordinates 210296) up to the final point (Eastern Coordinates 319919, Northern Coordinates 210342) and again up to the starting point (Eastern Coordinates 319975, Northern Coordinates 210296)
+
+Extent - 113.49 hectares
+
+FOREST CONSERVATION ORDINANCE
+
+Notification
+
+By virtue of the powers vested in me by Section 63 of the Forest Conservation Ordinance (Chapter 451) No. 16 of 1907, as amended by Act, No. 13 of 1966 (reprint), No. 56 of 1979, No. 13 of 1982, No. 84 of 1988, No. 23 of 1995 and No. 65 of 2009,1 do by this notification notify that the Palakuda Reserved Mangrove Forest mentioned in the above order is subjected to the sole control of the Conservator General of Forests.
+
+Dammika Patabendi, Minister of Environment.
+
+At the Bajjangoda Open Air Theatre in Gampaha District,15th July, 2025.
+
+EOG 07 - 0272
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'07'21Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 21.07.20254A
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
+
+EOG 07-0272
