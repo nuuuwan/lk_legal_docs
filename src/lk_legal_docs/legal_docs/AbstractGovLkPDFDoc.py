@@ -46,9 +46,7 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
             lang_to_url_pdf[lang] = url_pdf
 
         for lang, url_pdf in lang_to_url_pdf.items():
-            doc_number_cleaned = doc_number.replace("/", "-").replace(
-                " ", "_"
-            )
+            doc_number_cleaned = doc_number.replace("/", "-").replace(" ", "_")
             num = f"{date_str}-{doc_number_cleaned}-{lang}"
             yield cls(
                 num=num,
@@ -64,10 +62,14 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
     def gen_docs_for_year(
         cls, url_year
     ) -> Generator["AbstractGovLkPDFDoc", None, None]:
-        www = WWW(url_year)
-        log.debug(f"Processing {www}")
-        soup = www.soup
-        if not soup:
+        try:
+            www = WWW(url_year)
+            log.debug(f"Processing {www}")
+            soup = www.soup
+            if not soup:
+                return
+        except Exception as e:
+            log.error(f"Failed to fetch {url_year}: {e}")
             return
         table = soup.find(
             "table", class_="table table-bordered table-striped table-hover"
@@ -87,10 +89,14 @@ class AbstractGovLkPDFDoc(AbstractPDFDoc):
     @classmethod
     def gen_url_years(cls) -> Generator[str, None, None]:
         url_index = cls.get_url_index()
-        www = WWW(url_index)
-        log.debug(f"Processing {www}")
-        soup = www.soup
-        if not soup:
+        try:
+            www = WWW(url_index)
+            log.debug(f"Processing {www}")
+            soup = www.soup
+            if not soup:
+                return
+        except Exception as e:
+            log.error(f"Failed to fetch {url_index}: {e}")
             return
         div = soup.find("div", class_="button-container")
         for a in div.find_all("a"):
