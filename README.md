@@ -22,7 +22,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_22:19:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_00:08:20-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -30,7 +30,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 - [**4,080** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-10-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (0%) & **🤗 Hugging Face** (100%)
+- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (5%) & **🤗 Hugging Face** (100%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
