@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **109,766** documents (**13.3 GB**).
+**4** datasets, with **109,766** documents (**13.4 GB**).
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_06:57:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_08:37:00-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -12,7 +12,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 - [**3,934** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.9 GB**), from **1981-01-22** to **2025-10-07**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (49%) & **🤗 Hugging Face** (100%)
+- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (56%) & **🤗 Hugging Face** (100%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -22,7 +22,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_06:25:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_08:31:21-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -30,7 +30,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 - [**4,080** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2025-10-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (51%) & **🤗 Hugging Face** (100%)
+- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (70%) & **🤗 Hugging Face** (100%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
