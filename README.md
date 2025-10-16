@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **109,766** documents (**13.2 GB**).
+**4** datasets, with **109,766** documents (**13.1 GB**).
 
 ## 001 ⚖️ Acts
 
@@ -40,7 +40,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes 2020S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_09:27:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_12:27:51-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
@@ -48,7 +48,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - [**45,373** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-15**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (3%), **TXT** (3%), **Tables** (0%) & **🤗 Hugging Face** (3%)
+- In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -58,7 +58,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 004 ⚖️ Extraordinary Gazettes 2010S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_09:27:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_12:31:24-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s)
 
@@ -66,7 +66,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - [**56,379** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s) (**3.3 GB**), from **2010-01-01** to **2019-12-31**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (10%), **TXT** (10%), **Tables** (3%) & **🤗 Hugging Face** (10%)
+- In **JSON**, **PDF** (10%), **TXT** (10%) & **🤗 Hugging Face** (10%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
