@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-10-17 12:29:13",
-  "n_docs": 45396,
-  "n_docs_with_pdfs": 1479,
-  "n_docs_with_text": 1479,
+  "time_updated": "2025-10-17 15:21:37",
+  "n_docs": 45399,
+  "n_docs_with_pdfs": 1482,
+  "n_docs_with_text": 1482,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-10-15",
-  "dataset_size": 1268291680,
+  "date_str_max": "2025-10-17",
+  "dataset_size": 1270095809,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-15-2025-10-15-2458-31-ta",
-    "num": "2025-10-15-2458-31-ta",
-    "date_str": "2025-10-15",
-    "description": "Ministry of Defence-Amendment to the Consolidated List Under Regulation 4 (2)(B) United Nations Regulations No. 2 of 2012",
+    "doc_id": "2025-10-17-2025-10-17-2458-46-ta",
+    "num": "2025-10-17-2458-46-ta",
+    "date_str": "2025-10-17",
+    "description": "Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-31_T.pdf",
-    "doc_number": "2458/31"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-46_T.pdf",
+    "doc_number": "2458/46"
   }
 }
