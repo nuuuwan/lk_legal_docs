@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_09:25:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_12:25:54-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,409** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,444** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-17-2025-10-17-2458-46-ta",
-    "num": "2025-10-17-2458-46-ta",
+    "doc_id": "2025-10-17-2025-10-17-2458-52-en",
+    "num": "2025-10-17-2458-52-en",
     "date_str": "2025-10-17",
-    "description": "Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012",
+    "description": "Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-46_T.pdf",
-    "doc_number": "2458/46"
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-52_E.pdf",
+    "doc_number": "2458/52"
 }
 ```
 
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `2025-10-17-2458-52-en` | Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-52-en)
 - 2025-10-17 | `2025-10-17-2458-46-ta` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-ta)
 - 2025-10-17 | `2025-10-17-2458-46-si` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-si)
 - 2025-10-17 | `2025-10-17-2458-46-en` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-en)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-13 | `2025-10-13-2458-01-en` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-01-en)
 - 2025-10-11 | `2025-10-11-2457-45-si` | Land Title Settlement Dept - Kedawalamadiththa, Kandy Four Gravets and Gangawatakoralaya D/S/D, Kandy District (25/5514198) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-45-si)
 - 2025-10-11 | `2025-10-11-2457-45-en` | Land Title Settlement Dept - Kedawalamadiththa, Kandy Four Gravets and Gangawatakoralaya D/S/D, Kandy District (25/5514198) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-45-en)
-- 2025-10-11 | `2025-10-11-2457-36-ta` | Presidential Secretariat - Resignations and Appointments of Ministers. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-36-ta)
 
 ---
 
