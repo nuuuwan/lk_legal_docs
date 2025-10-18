@@ -58469,6 +58469,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-06-05-2025-06-05-2439-64-en",
+    "num": "2025-06-05-2439-64-en",
+    "date_str": "2025-06-05",
+    "description": "Land Aquisition - Lulbadduwa, Walallawita D/S Division, Kalutara District,  Sec. 38(a)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/6/2439-64_E.pdf",
+    "doc_number": "2439/64"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-06-05-2025-06-05-2439-64-si",
+    "num": "2025-06-05-2439-64-si",
+    "date_str": "2025-06-05",
+    "description": "Land Aquisition - Lulbadduwa, Walallawita D/S Division, Kalutara District,  Sec. 38(a)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/6/2439-64_S.pdf",
+    "doc_number": "2439/64"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-06-06-2025-06-06-2439-65-en",
     "num": "2025-06-06-2439-65-en",
     "date_str": "2025-06-06",
@@ -82471,6 +82493,17 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-25-ta",
+    "num": "2025-09-04-2452-25-ta",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Vekkanchenai, Manmunai West D/S Division, Batticaloa District (25/0817)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-25_T.pdf",
+    "doc_number": "2452/25"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-04-2025-09-04-2452-26-en",
     "num": "2025-09-04-2452-26-en",
     "date_str": "2025-09-04",
@@ -82592,6 +82625,17 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-29-ta",
+    "num": "2025-09-04-2452-29-ta",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Hewandeniya, Udapalatha D/S Division, Kandy District (25/5514131)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-29_T.pdf",
+    "doc_number": "2452/29"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-04-2025-09-04-2452-30-en",
     "num": "2025-09-04-2452-30-en",
     "date_str": "2025-09-04",
@@ -82655,6 +82699,50 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-31_T.pdf",
     "doc_number": "2452/31"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-32-en",
+    "num": "2025-09-04-2452-32-en",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Kavisigamuwa, Rideegama D/S Division, Kurunegala District (25/0336)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-32_E.pdf",
+    "doc_number": "2452/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-34-en",
+    "num": "2025-09-04-2452-34-en",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Randuwa, Mahawilachchiya D/S Division, Anuradhapura District (25/1200081)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-34_E.pdf",
+    "doc_number": "2452/34"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-34-si",
+    "num": "2025-09-04-2452-34-si",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Randuwa, Mahawilachchiya D/S Division, Anuradhapura District (25/1200081)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-34_S.pdf",
+    "doc_number": "2452/34"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-04-2025-09-04-2452-34-ta",
+    "num": "2025-09-04-2452-34-ta",
+    "date_str": "2025-09-04",
+    "description": "Land Title Settlement Dept. - Randuwa, Mahawilachchiya D/S Division, Anuradhapura District (25/1200081)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2452-34_T.pdf",
+    "doc_number": "2452/34"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -83039,6 +83127,17 @@
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-03_S.pdf",
+    "doc_number": "2453/03"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-08-2025-09-08-2453-03-ta",
+    "num": "2025-09-08-2453-03-ta",
+    "date_str": "2025-09-08",
+    "description": "Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/0414)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-03_T.pdf",
     "doc_number": "2453/03"
   },
   {
@@ -83604,6 +83703,94 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-26-en",
+    "num": "2025-09-11-2453-26-en",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Puttalama, Puttalama D/S Division, Puttalam District (25/5514169)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-26_E.pdf",
+    "doc_number": "2453/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-26-si",
+    "num": "2025-09-11-2453-26-si",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Puttalama, Puttalama D/S Division, Puttalam District (25/5514169)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-26_S.pdf",
+    "doc_number": "2453/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-26-ta",
+    "num": "2025-09-11-2453-26-ta",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Puttalama, Puttalama D/S Division, Puttalam District (25/5514169)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-26_T.pdf",
+    "doc_number": "2453/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-27-en",
+    "num": "2025-09-11-2453-27-en",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Delpakadawara, Divulapitiya D/S Division, Gampaha District (25/55053)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-27_E.pdf",
+    "doc_number": "2453/27"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-27-si",
+    "num": "2025-09-11-2453-27-si",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Delpakadawara, Divulapitiya D/S Division, Gampaha District (25/55053)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-27_S.pdf",
+    "doc_number": "2453/27"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-28-en",
+    "num": "2025-09-11-2453-28-en",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Thorayaya, Mallawapitiya D/S Division, Kurunegala District (25/5514152)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-28_E.pdf",
+    "doc_number": "2453/28"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-28-si",
+    "num": "2025-09-11-2453-28-si",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Thorayaya, Mallawapitiya D/S Division, Kurunegala District (25/5514152)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-28_S.pdf",
+    "doc_number": "2453/28"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-28-ta",
+    "num": "2025-09-11-2453-28-ta",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Thorayaya, Mallawapitiya D/S Division, Kurunegala District (25/5514152)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-28_T.pdf",
+    "doc_number": "2453/28"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-11-2025-09-11-2453-29-en",
     "num": "2025-09-11-2453-29-en",
     "date_str": "2025-09-11",
@@ -83634,6 +83821,61 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-29_T.pdf",
     "doc_number": "2453/29"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-32-en",
+    "num": "2025-09-11-2453-32-en",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Ratmalana, Ratmalana D/S Division, Colombo District (25/5514161)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-32_E.pdf",
+    "doc_number": "2453/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-32-si",
+    "num": "2025-09-11-2453-32-si",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Ratmalana, Ratmalana D/S Division, Colombo District (25/5514161)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-32_S.pdf",
+    "doc_number": "2453/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-33-en",
+    "num": "2025-09-11-2453-33-en",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/5514148)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-33_E.pdf",
+    "doc_number": "2453/33"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-33-si",
+    "num": "2025-09-11-2453-33-si",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/5514148)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-33_S.pdf",
+    "doc_number": "2453/33"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-11-2025-09-11-2453-33-ta",
+    "num": "2025-09-11-2453-33-ta",
+    "date_str": "2025-09-11",
+    "description": "Land Title Settlement Dept. - Homagama, Homagama D/S Division, Colombo District (25/5514148)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-33_T.pdf",
+    "doc_number": "2453/33"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -83802,6 +84044,61 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-12-2025-09-12-2453-40-en",
+    "num": "2025-09-12-2453-40-en",
+    "date_str": "2025-09-12",
+    "description": "Land Title Settlement Dept. - Bililadeniya, Udubaddawa D/S Division, Kurunegala District (25/1200100)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-40_E.pdf",
+    "doc_number": "2453/40"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-12-2025-09-12-2453-40-si",
+    "num": "2025-09-12-2453-40-si",
+    "date_str": "2025-09-12",
+    "description": "Land Title Settlement Dept. - Bililadeniya, Udubaddawa D/S Division, Kurunegala District (25/1200100)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-40_S.pdf",
+    "doc_number": "2453/40"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-12-2025-09-12-2453-42-en",
+    "num": "2025-09-12-2453-42-en",
+    "date_str": "2025-09-12",
+    "description": "Land Title Settlement Dept. - Wahalkada D2, Horowpathana D/S Division, Anuradhapura District (25/1200104)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-42_E.pdf",
+    "doc_number": "2453/42"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-12-2025-09-12-2453-42-si",
+    "num": "2025-09-12-2453-42-si",
+    "date_str": "2025-09-12",
+    "description": "Land Title Settlement Dept. - Wahalkada D2, Horowpathana D/S Division, Anuradhapura District (25/1200104)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-42_S.pdf",
+    "doc_number": "2453/42"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-12-2025-09-12-2453-42-ta",
+    "num": "2025-09-12-2453-42-ta",
+    "date_str": "2025-09-12",
+    "description": "Land Title Settlement Dept. - Wahalkada D2, Horowpathana D/S Division, Anuradhapura District (25/1200104)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-42_T.pdf",
+    "doc_number": "2453/42"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-12-2025-09-12-2453-44-en",
     "num": "2025-09-12-2453-44-en",
     "date_str": "2025-09-12",
@@ -83890,6 +84187,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-48-en",
+    "num": "2025-09-13-2453-48-en",
+    "date_str": "2025-09-13",
+    "description": "Land Title Settlement Dept. - Kalundewa Paranagama, Dambulla D/S Division, Matale District (25/551460)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-48_E.pdf",
+    "doc_number": "2453/48"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-48-si",
+    "num": "2025-09-13-2453-48-si",
+    "date_str": "2025-09-13",
+    "description": "Land Title Settlement Dept. - Kalundewa Paranagama, Dambulla D/S Division, Matale District (25/551460)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-48_S.pdf",
+    "doc_number": "2453/48"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-13-2025-09-13-2453-51-en",
     "num": "2025-09-13-2453-51-en",
     "date_str": "2025-09-13",
@@ -83923,6 +84242,39 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-52-en",
+    "num": "2025-09-13-2453-52-en",
+    "date_str": "2025-09-13",
+    "description": "Land Tittle Settlement Dept - Palutawa, Dambulla D/S/D Division, MAtale District (25/5514146)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-52_E.pdf",
+    "doc_number": "2453/52"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-52-si",
+    "num": "2025-09-13-2453-52-si",
+    "date_str": "2025-09-13",
+    "description": "Land Tittle Settlement Dept - Palutawa, Dambulla D/S/D Division, MAtale District (25/5514146)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-52_S.pdf",
+    "doc_number": "2453/52"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-52-ta",
+    "num": "2025-09-13-2453-52-ta",
+    "date_str": "2025-09-13",
+    "description": "Land Tittle Settlement Dept - Palutawa, Dambulla D/S/D Division, MAtale District (25/5514146)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-52_T.pdf",
+    "doc_number": "2453/52"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-13-2025-09-13-2453-55-en",
     "num": "2025-09-13-2453-55-en",
     "date_str": "2025-09-13",
@@ -83953,6 +84305,28 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-55_T.pdf",
     "doc_number": "2453/55"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-56-en",
+    "num": "2025-09-13-2453-56-en",
+    "date_str": "2025-09-13",
+    "description": "Land Title Settlement - Ambalangoda , Homagama D/S/D Division, Colombo District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-56_E.pdf",
+    "doc_number": "2453/56"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-13-2025-09-13-2453-56-si",
+    "num": "2025-09-13-2453-56-si",
+    "date_str": "2025-09-13",
+    "description": "Land Title Settlement - Ambalangoda , Homagama D/S/D Division, Colombo District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2453-56_S.pdf",
+    "doc_number": "2453/56"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -84132,6 +84506,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-07-en",
+    "num": "2025-09-15-2454-07-en",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Godagama, Kurunegala D/S Division, Kurunegala District (25/0367)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-07_E.pdf",
+    "doc_number": "2454/07"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-07-si",
+    "num": "2025-09-15-2454-07-si",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Godagama, Kurunegala D/S Division, Kurunegala District (25/0367)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-07_S.pdf",
+    "doc_number": "2454/07"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-15-2025-09-15-2454-07-ta",
     "num": "2025-09-15-2454-07-ta",
     "date_str": "2025-09-15",
@@ -84209,6 +84605,50 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-14-en",
+    "num": "2025-09-15-2454-14-en",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Purukuankulama, Medwachchiya D/S Division, Anuradhapura District (25/1200103)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-14_E.pdf",
+    "doc_number": "2454/14"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-14-si",
+    "num": "2025-09-15-2454-14-si",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Purukuankulama, Medwachchiya D/S Division, Anuradhapura District (25/1200103)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-14_S.pdf",
+    "doc_number": "2454/14"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-15-en",
+    "num": "2025-09-15-2454-15-en",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Puwakpitiya, Galewela D/S Division, Matale District (25/5514171)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-15_E.pdf",
+    "doc_number": "2454/15"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-15-si",
+    "num": "2025-09-15-2454-15-si",
+    "date_str": "2025-09-15",
+    "description": "Land Title Settlement Dept. - Puwakpitiya, Galewela D/S Division, Matale District (25/5514171)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-15_S.pdf",
+    "doc_number": "2454/15"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-15-2025-09-15-2454-16-en",
     "num": "2025-09-15-2454-16-en",
     "date_str": "2025-09-15",
@@ -84239,6 +84679,28 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-16_T.pdf",
     "doc_number": "2454/16"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-17-en",
+    "num": "2025-09-15-2454-17-en",
+    "date_str": "2025-09-15",
+    "description": "M/Of Agricultureivestock",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-17_E.pdf",
+    "doc_number": "2454/17"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-15-2025-09-15-2454-17-si",
+    "num": "2025-09-15-2454-17-si",
+    "date_str": "2025-09-15",
+    "description": "M/Of Agricultureivestock",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-17_S.pdf",
+    "doc_number": "2454/17"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -84308,6 +84770,72 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-20-en",
+    "num": "2025-09-16-2454-20-en",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Thelawala, Moratuwa D/S Division, Colombo District (25/0284)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-20_E.pdf",
+    "doc_number": "2454/20"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-20-si",
+    "num": "2025-09-16-2454-20-si",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Thelawala, Moratuwa D/S Division, Colombo District (25/0284)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-20_S.pdf",
+    "doc_number": "2454/20"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-20-ta",
+    "num": "2025-09-16-2454-20-ta",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Thelawala, Moratuwa D/S Division, Colombo District (25/0284)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-20_T.pdf",
+    "doc_number": "2454/20"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-22-en",
+    "num": "2025-09-16-2454-22-en",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District (25/0363)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-22_E.pdf",
+    "doc_number": "2454/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-22-si",
+    "num": "2025-09-16-2454-22-si",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District (25/0363)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-22_S.pdf",
+    "doc_number": "2454/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-22-ta",
+    "num": "2025-09-16-2454-22-ta",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District (25/0363)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-22_T.pdf",
+    "doc_number": "2454/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-16-2025-09-16-2454-24-en",
     "num": "2025-09-16-2454-24-en",
     "date_str": "2025-09-16",
@@ -84341,6 +84869,39 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-26-en",
+    "num": "2025-09-16-2454-26-en",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Tahakiriyagama, Galewela D/S Division, Matale District (25/0341)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-26_E.pdf",
+    "doc_number": "2454/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-26-si",
+    "num": "2025-09-16-2454-26-si",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Tahakiriyagama, Galewela D/S Division, Matale District (25/0341)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-26_S.pdf",
+    "doc_number": "2454/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-26-ta",
+    "num": "2025-09-16-2454-26-ta",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement Dept. - Tahakiriyagama, Galewela D/S Division, Matale District (25/0341)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-26_T.pdf",
+    "doc_number": "2454/26"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-16-2025-09-16-2454-30-en",
     "num": "2025-09-16-2454-30-en",
     "date_str": "2025-09-16",
@@ -84371,6 +84932,39 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-30_T.pdf",
     "doc_number": "2454/30"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-31-en",
+    "num": "2025-09-16-2454-31-en",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement - Kalupendigama, Balangoda D/S/D Division, Ratnapura District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-31_E.pdf",
+    "doc_number": "2454/31"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-31-si",
+    "num": "2025-09-16-2454-31-si",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement - Kalupendigama, Balangoda D/S/D Division, Ratnapura District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-31_S.pdf",
+    "doc_number": "2454/31"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-16-2025-09-16-2454-31-ta",
+    "num": "2025-09-16-2454-31-ta",
+    "date_str": "2025-09-16",
+    "description": "Land Title Settlement - Kalupendigama, Balangoda D/S/D Division, Ratnapura District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-31_T.pdf",
+    "doc_number": "2454/31"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -84811,6 +85405,61 @@
     "lang": "en",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-63_E.pdf",
     "doc_number": "2454/63"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-20-2025-09-20-2454-64-en",
+    "num": "2025-09-20-2454-64-en",
+    "date_str": "2025-09-20",
+    "description": "Land Title Settlement Dept. - Abhayapura, Lankapura D/S Division, Polonnaruwa District (25/1200113)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-64_E.pdf",
+    "doc_number": "2454/64"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-20-2025-09-20-2454-64-si",
+    "num": "2025-09-20-2454-64-si",
+    "date_str": "2025-09-20",
+    "description": "Land Title Settlement Dept. - Abhayapura, Lankapura D/S Division, Polonnaruwa District (25/1200113)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-64_S.pdf",
+    "doc_number": "2454/64"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-20-2025-09-20-2454-64-ta",
+    "num": "2025-09-20-2454-64-ta",
+    "date_str": "2025-09-20",
+    "description": "Land Title Settlement Dept. - Abhayapura, Lankapura D/S Division, Polonnaruwa District (25/1200113)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-64_T.pdf",
+    "doc_number": "2454/64"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-20-2025-09-20-2454-67-en",
+    "num": "2025-09-20-2454-67-en",
+    "date_str": "2025-09-20",
+    "description": "Land Title Settlement Dept. - Karaudeniya, Ruwanwella D/S Division, Kegalle District (25/1420400001)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-67_E.pdf",
+    "doc_number": "2454/67"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-20-2025-09-20-2454-67-si",
+    "num": "2025-09-20-2454-67-si",
+    "date_str": "2025-09-20",
+    "description": "Land Title Settlement Dept. - Karaudeniya, Ruwanwella D/S Division, Kegalle District (25/1420400001)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2454-67_S.pdf",
+    "doc_number": "2454/67"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -85364,6 +86013,39 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-24-2025-09-24-2455-22-en",
+    "num": "2025-09-24-2455-22-en",
+    "date_str": "2025-09-24",
+    "description": "Land Title Settlement Dept. - Deyiyagala, Eheliyagoda D/S Division, Ratnapura District (25/14.204.00048)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-22_E.pdf",
+    "doc_number": "2455/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-24-2025-09-24-2455-22-si",
+    "num": "2025-09-24-2455-22-si",
+    "date_str": "2025-09-24",
+    "description": "Land Title Settlement Dept. - Deyiyagala, Eheliyagoda D/S Division, Ratnapura District (25/14.204.00048)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-22_S.pdf",
+    "doc_number": "2455/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-24-2025-09-24-2455-22-ta",
+    "num": "2025-09-24-2455-22-ta",
+    "date_str": "2025-09-24",
+    "description": "Land Title Settlement Dept. - Deyiyagala, Eheliyagoda D/S Division, Ratnapura District (25/14.204.00048)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2455-22_T.pdf",
+    "doc_number": "2455/22"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-25-2025-09-25-2455-24-en",
     "num": "2025-09-25-2455-24-en",
     "date_str": "2025-09-25",
@@ -85570,6 +86252,28 @@
     "lang": "en",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-02_E.pdf",
     "doc_number": "2456/02"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-29-2025-09-29-2456-03-en",
+    "num": "2025-09-29-2456-03-en",
+    "date_str": "2025-09-29",
+    "description": "Governor's Secretariat- Northern Province The Registered by-laws of Limited Primary Co-operative Societies Operating with branch Committees",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-03_E.pdf",
+    "doc_number": "2456/03"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-29-2025-09-29-2456-03-si",
+    "num": "2025-09-29-2456-03-si",
+    "date_str": "2025-09-29",
+    "description": "Governor's Secretariat- Northern Province The Registered by-laws of Limited Primary Co-operative Societies Operating with branch Committees",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-03_S.pdf",
+    "doc_number": "2456/03"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -85793,6 +86497,50 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-14-ta",
+    "num": "2025-09-30-2456-14-ta",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - T.R. ramar piliyankulam, vavuniya D/S/D , Vavuniya District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-14_T.pdf",
+    "doc_number": "2456/14"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-19-en",
+    "num": "2025-09-30-2456-19-en",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - T.R. Muwagama, Ratnapura D/S/D, Ratnapura District (25/0365)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-19_E.pdf",
+    "doc_number": "2456/19"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-19-si",
+    "num": "2025-09-30-2456-19-si",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - T.R. Muwagama, Ratnapura D/S/D, Ratnapura District (25/0365)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-19_S.pdf",
+    "doc_number": "2456/19"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-19-ta",
+    "num": "2025-09-30-2456-19-ta",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - T.R. Muwagama, Ratnapura D/S/D, Ratnapura District (25/0365)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-19_T.pdf",
+    "doc_number": "2456/19"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-30-2025-09-30-2456-27-en",
     "num": "2025-09-30-2456-27-en",
     "date_str": "2025-09-30",
@@ -85859,6 +86607,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-32-en",
+    "num": "2025-09-30-2456-32-en",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - Paththakkulama, Pallama D/S/D , Puttalam District (25/12000109)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-32_E.pdf",
+    "doc_number": "2456/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-32-si",
+    "num": "2025-09-30-2456-32-si",
+    "date_str": "2025-09-30",
+    "description": "Land Title Settlement Dept - Paththakkulama, Pallama D/S/D , Puttalam District (25/12000109)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-32_S.pdf",
+    "doc_number": "2456/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-09-30-2025-09-30-2456-33-en",
     "num": "2025-09-30-2456-33-en",
     "date_str": "2025-09-30",
@@ -85877,6 +86647,17 @@
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-33_S.pdf",
+    "doc_number": "2456/33"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-09-30-2025-09-30-2456-33-ta",
+    "num": "2025-09-30-2456-33-ta",
+    "date_str": "2025-09-30",
+    "description": "Land Aquisition - Raggahawatta, Kaduwela D/S Division, Colombo District, Land Aquisition - Amendment Polpithigama D/S Sec 07",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/9/2456-33_T.pdf",
     "doc_number": "2456/33"
   },
   {
@@ -86233,6 +87014,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-46-en",
+    "num": "2025-10-02-2456-46-en",
+    "date_str": "2025-10-02",
+    "description": "Land Acquisition - Maththumagala, Wattala D/S/D , Gampaha District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-46_E.pdf",
+    "doc_number": "2456/46"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-46-si",
+    "num": "2025-10-02-2456-46-si",
+    "date_str": "2025-10-02",
+    "description": "Land Acquisition - Maththumagala, Wattala D/S/D , Gampaha District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-46_S.pdf",
+    "doc_number": "2456/46"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-10-02-2025-10-02-2456-47-en",
     "num": "2025-10-02-2456-47-en",
     "date_str": "2025-10-02",
@@ -86263,6 +87066,61 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-47_T.pdf",
     "doc_number": "2456/47"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-48-en",
+    "num": "2025-10-02-2456-48-en",
+    "date_str": "2025-10-02",
+    "description": "Land Title Settlement Dept - T.R. Kunchikulama, Thirappane D/S/D ,Anuradhapura (25/1200106)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-48_E.pdf",
+    "doc_number": "2456/48"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-48-si",
+    "num": "2025-10-02-2456-48-si",
+    "date_str": "2025-10-02",
+    "description": "Land Title Settlement Dept - T.R. Kunchikulama, Thirappane D/S/D ,Anuradhapura (25/1200106)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-48_S.pdf",
+    "doc_number": "2456/48"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-48-ta",
+    "num": "2025-10-02-2456-48-ta",
+    "date_str": "2025-10-02",
+    "description": "Land Title Settlement Dept - T.R. Kunchikulama, Thirappane D/S/D ,Anuradhapura (25/1200106)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-48_T.pdf",
+    "doc_number": "2456/48"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-49-en",
+    "num": "2025-10-02-2456-49-en",
+    "date_str": "2025-10-02",
+    "description": "Land Title Settlement Dept - T.R. Minneriya, Hingurakgoda D/S/D, Polonnaruwa District (25/1200114)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-49_E.pdf",
+    "doc_number": "2456/49"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-02-2025-10-02-2456-49-si",
+    "num": "2025-10-02-2456-49-si",
+    "date_str": "2025-10-02",
+    "description": "Land Title Settlement Dept - T.R. Minneriya, Hingurakgoda D/S/D, Polonnaruwa District (25/1200114)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-49_S.pdf",
+    "doc_number": "2456/49"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -86453,6 +87311,17 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-03-2025-10-03-2456-69-ta",
+    "num": "2025-10-03-2456-69-ta",
+    "date_str": "2025-10-03",
+    "description": "Land Title Settlement Dept - Thopawewa, Thamankaduwa D/S/D, Polonnaruwa District (25/0453)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-69_T.pdf",
+    "doc_number": "2456/69"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-10-03-2025-10-03-2456-72-en",
     "num": "2025-10-03-2456-72-en",
     "date_str": "2025-10-03",
@@ -86516,6 +87385,28 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-73_T.pdf",
     "doc_number": "2456/73"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-03-2025-10-03-2456-75-en",
+    "num": "2025-10-03-2456-75-en",
+    "date_str": "2025-10-03",
+    "description": "Land Title Settlement Dept - T.R. Mudugala, Ibbagamuwa D/S/D , Kurunegala District (25/14-204-0036)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-75_E.pdf",
+    "doc_number": "2456/75"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-03-2025-10-03-2456-75-si",
+    "num": "2025-10-03-2456-75-si",
+    "date_str": "2025-10-03",
+    "description": "Land Title Settlement Dept - T.R. Mudugala, Ibbagamuwa D/S/D , Kurunegala District (25/14-204-0036)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-75_S.pdf",
+    "doc_number": "2456/75"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -86604,6 +87495,50 @@
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-81_S.pdf",
     "doc_number": "2456/81"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-04-2025-10-04-2456-82-si",
+    "num": "2025-10-04-2456-82-si",
+    "date_str": "2025-10-04",
+    "description": "Ministry of Labour - ndustrial Dispute between Gihan Thilina and Crystal Villas (pvt) Ltd, Industrial Disputes between H.W.M.B.S.P. Rahubah=ddha and National Housing Development Authority",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-82_S.pdf",
+    "doc_number": "2456/82"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-04-2025-10-04-2456-84-en",
+    "num": "2025-10-04-2456-84-en",
+    "date_str": "2025-10-04",
+    "description": "Land Acquisition - Lakshapathiya, Moratuwa D/S/D , Colombo District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-84_E.pdf",
+    "doc_number": "2456/84"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-04-2025-10-04-2456-84-si",
+    "num": "2025-10-04-2456-84-si",
+    "date_str": "2025-10-04",
+    "description": "Land Acquisition - Lakshapathiya, Moratuwa D/S/D , Colombo District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-84_S.pdf",
+    "doc_number": "2456/84"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-04-2025-10-04-2456-84-ta",
+    "num": "2025-10-04-2456-84-ta",
+    "date_str": "2025-10-04",
+    "description": "Land Acquisition - Lakshapathiya, Moratuwa D/S/D , Colombo District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2456-84_T.pdf",
+    "doc_number": "2456/84"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -86761,6 +87696,17 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-08-2025-10-08-2457-04-ta",
+    "num": "2025-10-08-2457-04-ta",
+    "date_str": "2025-10-08",
+    "description": "Land Acquisition - Parana Halpe, Divulapitiya D/S/D , Gampaha District",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-04_T.pdf",
+    "doc_number": "2457/04"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-10-09-2025-10-09-2457-05-en",
     "num": "2025-10-09-2457-05-en",
     "date_str": "2025-10-09",
@@ -86846,6 +87792,28 @@
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-07_S.pdf",
     "doc_number": "2457/07"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-09-2025-10-09-2457-08-en",
+    "num": "2025-10-09-2457-08-en",
+    "date_str": "2025-10-09",
+    "description": "Land Acquisition - Thalahena,kolonnawa D/S/D , Colombo District\r\n- Correction paper, Yakkalamulla D/S/D",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-08_E.pdf",
+    "doc_number": "2457/08"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-09-2025-10-09-2457-08-si",
+    "num": "2025-10-09-2457-08-si",
+    "date_str": "2025-10-09",
+    "description": "Land Acquisition - Thalahena,kolonnawa D/S/D , Colombo District\r\n- Correction paper, Yakkalamulla D/S/D",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-08_S.pdf",
+    "doc_number": "2457/08"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -87176,6 +88144,39 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-46_T.pdf",
     "doc_number": "2458/46"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-17-2025-10-17-2458-51-en",
+    "num": "2025-10-17-2458-51-en",
+    "date_str": "2025-10-17",
+    "description": "Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-51_E.pdf",
+    "doc_number": "2458/51"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-17-2025-10-17-2458-51-si",
+    "num": "2025-10-17-2458-51-si",
+    "date_str": "2025-10-17",
+    "description": "Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-51_S.pdf",
+    "doc_number": "2458/51"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-17-2025-10-17-2458-51-ta",
+    "num": "2025-10-17-2458-51-ta",
+    "date_str": "2025-10-17",
+    "description": "Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-51_T.pdf",
+    "doc_number": "2458/51"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",

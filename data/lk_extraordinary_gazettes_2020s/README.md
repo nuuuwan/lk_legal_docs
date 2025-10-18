@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_15:21:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_18:33:01-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,444** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,535** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
@@ -42,6 +42,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 ## 🆕 20 Latest documents
 
 - 2025-10-17 | `2025-10-17-2458-52-en` | Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-52-en)
+- 2025-10-17 | `2025-10-17-2458-51-ta` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-ta)
+- 2025-10-17 | `2025-10-17-2458-51-si` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-si)
+- 2025-10-17 | `2025-10-17-2458-51-en` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-en)
 - 2025-10-17 | `2025-10-17-2458-46-ta` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-ta)
 - 2025-10-17 | `2025-10-17-2458-46-si` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-si)
 - 2025-10-17 | `2025-10-17-2458-46-en` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-13 | `2025-10-13-2458-12-si` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order CINEC Campus (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-12-si)
 - 2025-10-13 | `2025-10-13-2458-12-en` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order CINEC Campus (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-12-en)
 - 2025-10-13 | `2025-10-13-2458-01-si` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-01-si)
-- 2025-10-13 | `2025-10-13-2458-01-en` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-01-en)
-- 2025-10-11 | `2025-10-11-2457-45-si` | Land Title Settlement Dept - Kedawalamadiththa, Kandy Four Gravets and Gangawatakoralaya D/S/D, Kandy District (25/5514198) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-45-si)
-- 2025-10-11 | `2025-10-11-2457-45-en` | Land Title Settlement Dept - Kedawalamadiththa, Kandy Four Gravets and Gangawatakoralaya D/S/D, Kandy District (25/5514198) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-11-2025-10-11-2457-45-en)
 
 ---
 
