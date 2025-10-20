@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_15:48:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_18:33:05-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,541** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,544** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-17-2025-10-17-2458-52-en",
-    "num": "2025-10-17-2458-52-en",
-    "date_str": "2025-10-17",
-    "description": "Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners.",
+    "doc_id": "2025-10-18-2025-10-18-2458-65-si",
+    "num": "2025-10-18-2458-65-si",
+    "date_str": "2025-10-18",
+    "description": "Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "en",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-52_E.pdf",
-    "doc_number": "2458/52"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-65_S.pdf",
+    "doc_number": "2458/65"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-18 | `2025-10-18-2458-65-si` | Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-18-2025-10-18-2458-65-si)
+- 2025-10-18 | `2025-10-18-2458-65-en` | Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-18-2025-10-18-2458-65-en)
 - 2025-10-17 | `2025-10-17-2458-52-en` | Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-52-en)
 - 2025-10-17 | `2025-10-17-2458-51-ta` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-ta)
 - 2025-10-17 | `2025-10-17-2458-51-si` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-si)
@@ -48,6 +50,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-17 | `2025-10-17-2458-48-ta` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-ta)
 - 2025-10-17 | `2025-10-17-2458-48-si` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-si)
 - 2025-10-17 | `2025-10-17-2458-48-en` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-en)
+- 2025-10-17 | `2025-10-17-2458-47-si` | Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-47-si)
 - 2025-10-17 | `2025-10-17-2458-47-en` | Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-47-en)
 - 2025-10-17 | `2025-10-17-2458-46-ta` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-ta)
 - 2025-10-17 | `2025-10-17-2458-46-si` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-si)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-14 | `2025-10-14-2458-28-ta` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-ta)
 - 2025-10-14 | `2025-10-14-2458-28-si` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-si)
 - 2025-10-14 | `2025-10-14-2458-28-en` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-en)
-- 2025-10-14 | `2025-10-14-2458-15-si` | Land Acquisition - Pitakanda, ganga Ihala D/S/D, Kandy District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-15-si)
-- 2025-10-14 | `2025-10-14-2458-15-en` | Land Acquisition - Pitakanda, ganga Ihala D/S/D, Kandy District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-15-en)
-- 2025-10-13 | `2025-10-13-2458-13-si` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order Esoft Uni (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-13-si)
 
 ---
 
