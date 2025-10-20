@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_06:35:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_09:33:47-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,535** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,541** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
@@ -45,6 +45,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-17 | `2025-10-17-2458-51-ta` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-ta)
 - 2025-10-17 | `2025-10-17-2458-51-si` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-si)
 - 2025-10-17 | `2025-10-17-2458-51-en` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-en)
+- 2025-10-17 | `2025-10-17-2458-48-ta` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-ta)
+- 2025-10-17 | `2025-10-17-2458-48-si` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-si)
+- 2025-10-17 | `2025-10-17-2458-48-en` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-en)
+- 2025-10-17 | `2025-10-17-2458-47-en` | Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-47-en)
 - 2025-10-17 | `2025-10-17-2458-46-ta` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-ta)
 - 2025-10-17 | `2025-10-17-2458-46-si` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-si)
 - 2025-10-17 | `2025-10-17-2458-46-en` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-en)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-14 | `2025-10-14-2458-15-si` | Land Acquisition - Pitakanda, ganga Ihala D/S/D, Kandy District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-15-si)
 - 2025-10-14 | `2025-10-14-2458-15-en` | Land Acquisition - Pitakanda, ganga Ihala D/S/D, Kandy District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-15-en)
 - 2025-10-13 | `2025-10-13-2458-13-si` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order Esoft Uni (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-13-si)
-- 2025-10-13 | `2025-10-13-2458-13-en` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order Esoft Uni (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-13-en)
-- 2025-10-13 | `2025-10-13-2458-12-si` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order CINEC Campus (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-12-si)
-- 2025-10-13 | `2025-10-13-2458-12-en` | M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order CINEC Campus (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-12-en)
-- 2025-10-13 | `2025-10-13-2458-01-si` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-13-2025-10-13-2458-01-si)
 
 ---
 
