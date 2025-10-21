@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_18:32:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_21:22:30-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,549** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,553** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.3 GB**), from **2020-01-01** to **2025-10-21**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (3%), **TXT** (3%) & **🤗 Hugging Face** (3%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-18-2025-10-18-2458-65-si",
-    "num": "2025-10-18-2458-65-si",
-    "date_str": "2025-10-18",
-    "description": "Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions.",
+    "doc_id": "2025-10-21-2025-10-21-2459-13-ta",
+    "num": "2025-10-21-2459-13-ta",
+    "date_str": "2025-10-21",
+    "description": "Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-65_S.pdf",
-    "doc_number": "2458/65"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-13_T.pdf",
+    "doc_number": "2459/13"
 }
 ```
 
@@ -41,6 +41,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-21 | `2025-10-21-2459-13-ta` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-ta)
+- 2025-10-21 | `2025-10-21-2459-13-si` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-si)
+- 2025-10-21 | `2025-10-21-2459-13-en` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-en)
+- 2025-10-18 | `2025-10-18-2458-65-ta` | Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-18-2025-10-18-2458-65-ta)
 - 2025-10-18 | `2025-10-18-2458-65-si` | Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-18-2025-10-18-2458-65-si)
 - 2025-10-18 | `2025-10-18-2458-65-en` | Presidential Secretariat - The Constitution of the Democratic Socialist Republic of Sri Lanka. - Subjects and Functions. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-18-2025-10-18-2458-65-en)
 - 2025-10-17 | `2025-10-17-2458-52-en` | Homoeopathic Medical Council - Guideline for Homoeopathic Practitioners. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-52-en)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-17 | `2025-10-17-2458-46-en` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-en)
 - 2025-10-15 | `2025-10-15-2458-31-ta` | Ministry of Defence-Amendment to the Consolidated List Under Regulation 4 (2)(B) United Nations Regulations No. 2 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-15-2025-10-15-2458-31-ta)
 - 2025-10-15 | `2025-10-15-2458-31-si` | Ministry of Defence-Amendment to the Consolidated List Under Regulation 4 (2)(B) United Nations Regulations No. 2 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-15-2025-10-15-2458-31-si)
-- 2025-10-15 | `2025-10-15-2458-31-en` | Ministry of Defence-Amendment to the Consolidated List Under Regulation 4 (2)(B) United Nations Regulations No. 2 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-15-2025-10-15-2458-31-en)
-- 2025-10-14 | `2025-10-14-2458-28-ta` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-ta)
-- 2025-10-14 | `2025-10-14-2458-28-si` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-si)
-- 2025-10-14 | `2025-10-14-2458-28-en` | Election Commission - Under Section 66A (1) (a) Filling of a Vacancy in the office of Member of the Minuwangoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-14-2025-10-14-2458-28-en)
 
 ---
 
