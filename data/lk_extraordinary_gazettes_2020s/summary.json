@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-10-23 00:28:47",
-  "n_docs": 45560,
-  "n_docs_with_pdfs": 1708,
-  "n_docs_with_text": 1708,
+  "time_updated": "2025-10-23 03:19:57",
+  "n_docs": 45567,
+  "n_docs_with_pdfs": 1712,
+  "n_docs_with_text": 1712,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-10-21",
-  "dataset_size": 1427767873,
+  "date_str_max": "2025-10-22",
+  "dataset_size": 1430934691,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-21-2025-10-21-2459-13-ta",
-    "num": "2025-10-21-2459-13-ta",
-    "date_str": "2025-10-21",
-    "description": "Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service.",
+    "doc_id": "2025-10-22-2025-10-22-2459-28-si",
+    "num": "2025-10-22-2459-28-si",
+    "date_str": "2025-10-22",
+    "description": "Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-13_T.pdf",
-    "doc_number": "2459/13"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-28_S.pdf",
+    "doc_number": "2459/28"
   }
 }

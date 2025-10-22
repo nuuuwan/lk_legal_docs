@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_00:29:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_03:20:18-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,560** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.4 GB**), from **2020-01-01** to **2025-10-21**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,567** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.4 GB**), from **2020-01-01** to **2025-10-22**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (4%), **TXT** (4%) & **🤗 Hugging Face** (4%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-21-2025-10-21-2459-13-ta",
-    "num": "2025-10-21-2459-13-ta",
-    "date_str": "2025-10-21",
-    "description": "Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service.",
+    "doc_id": "2025-10-22-2025-10-22-2459-28-si",
+    "num": "2025-10-22-2459-28-si",
+    "date_str": "2025-10-22",
+    "description": "Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-13_T.pdf",
-    "doc_number": "2459/13"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-28_S.pdf",
+    "doc_number": "2459/28"
 }
 ```
 
@@ -41,6 +41,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-22 | `2025-10-22-2459-28-si` | Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-28-si)
+- 2025-10-22 | `2025-10-22-2459-28-en` | Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-28-en)
+- 2025-10-22 | `2025-10-22-2459-24-si` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-si)
+- 2025-10-22 | `2025-10-22-2459-24-en` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-en)
 - 2025-10-21 | `2025-10-21-2459-13-ta` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-ta)
 - 2025-10-21 | `2025-10-21-2459-13-si` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-si)
 - 2025-10-21 | `2025-10-21-2459-13-en` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-en)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-17 | `2025-10-17-2458-51-en` | Elections Commission - Notice under Section 66(2) Elected to th emembers of Nikaweratiya Polgahawela Nuwaragampalatha East P.S and Anuradhapura M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-51-en)
 - 2025-10-17 | `2025-10-17-2458-48-ta` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-ta)
 - 2025-10-17 | `2025-10-17-2458-48-si` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-si)
-- 2025-10-17 | `2025-10-17-2458-48-en` | Kalpitiya Pradeshiya Sabha - The Draft budget of kalpitiya Pradeshiya Sabha for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-48-en)
-- 2025-10-17 | `2025-10-17-2458-47-si` | Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-47-si)
-- 2025-10-17 | `2025-10-17-2458-47-en` | Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-47-en)
-- 2025-10-17 | `2025-10-17-2458-46-ta` | Ministry of Defence - United Nations Security Council Resolution 1373 Regulation No. 1 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-17-2025-10-17-2458-46-ta)
 
 ---
 
