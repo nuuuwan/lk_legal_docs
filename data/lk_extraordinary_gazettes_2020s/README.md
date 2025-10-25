@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_15:20:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_18:32:21-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,606** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.5 GB**), from **2020-01-01** to **2025-10-23**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,611** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.5 GB**), from **2020-01-01** to **2025-10-25**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (4%), **TXT** (4%) & **🤗 Hugging Face** (4%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-23-2025-10-23-2459-42-ta",
-    "num": "2025-10-23-2459-42-ta",
-    "date_str": "2025-10-23",
-    "description": "Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha",
+    "doc_id": "2025-10-25-2025-10-25-2459-53-ta",
+    "num": "2025-10-25-2459-53-ta",
+    "date_str": "2025-10-25",
+    "description": "Presidential Secretariat - The Public Security Ordinance Order.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-42_T.pdf",
-    "doc_number": "2459/42"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-53_T.pdf",
+    "doc_number": "2459/53"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `2025-10-25-2459-53-ta` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-ta)
+- 2025-10-25 | `2025-10-25-2459-53-si` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-si)
+- 2025-10-25 | `2025-10-25-2459-53-en` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-en)
 - 2025-10-23 | `2025-10-23-2459-42-ta` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-ta)
 - 2025-10-23 | `2025-10-23-2459-42-si` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-si)
 - 2025-10-23 | `2025-10-23-2459-42-en` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-21 | `2025-10-21-2459-13-si` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-si)
 - 2025-10-21 | `2025-10-21-2459-13-en` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-en)
 - 2025-10-21 | `2025-10-21-2459-12-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No. 09 of 2003  (Amended) Order Under Section 20(5). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-12-ta)
-- 2025-10-21 | `2025-10-21-2459-12-si` | Consumer Affairs Authority - Consumer Affairs Authority Act, No. 09 of 2003  (Amended) Order Under Section 20(5). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-12-si)
-- 2025-10-21 | `2025-10-21-2459-12-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No. 09 of 2003  (Amended) Order Under Section 20(5). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-12-en)
-- 2025-10-20 | `2025-10-20-2459-01-ta` | Sri Lanka Customs - Rates of Exchange with Effect from 20-10-2025 to 26-10-2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-20-2025-10-20-2459-01-ta)
 
 ---
 

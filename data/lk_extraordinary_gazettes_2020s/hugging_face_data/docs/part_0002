@@ -88202,6 +88202,17 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-10-2025-10-10-2457-32-ta",
+    "num": "2025-10-10-2457-32-ta",
+    "date_str": "2025-10-10",
+    "description": "Election Commission- Notice Under Section 10A (1)(a) of the L.A.E.O Chavakachcheri  Praseshiya Sabha",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-32_T.pdf",
+    "doc_number": "2457/32"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-10-10-2025-10-10-2457-34-en",
     "num": "2025-10-10-2457-34-en",
     "date_str": "2025-10-10",
@@ -88352,6 +88363,17 @@
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-12_S.pdf",
+    "doc_number": "2458/12"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-13-2025-10-13-2458-12-ta",
+    "num": "2025-10-13-2458-12-ta",
+    "date_str": "2025-10-13",
+    "description": "M/of Education, Higher Education and Vocational Education- The Universities Act, No. 16 of 1978 Degree Awarding Institute Order CINEC Campus (Pvt) Limited",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2458-12_T.pdf",
     "doc_number": "2458/12"
   },
   {
@@ -88969,5 +88991,38 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-42_T.pdf",
     "doc_number": "2459/42"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-25-2025-10-25-2459-53-en",
+    "num": "2025-10-25-2459-53-en",
+    "date_str": "2025-10-25",
+    "description": "Presidential Secretariat - The Public Security Ordinance Order.",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-53_E.pdf",
+    "doc_number": "2459/53"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-25-2025-10-25-2459-53-si",
+    "num": "2025-10-25-2459-53-si",
+    "date_str": "2025-10-25",
+    "description": "Presidential Secretariat - The Public Security Ordinance Order.",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-53_S.pdf",
+    "doc_number": "2459/53"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-10-25-2025-10-25-2459-53-ta",
+    "num": "2025-10-25-2459-53-ta",
+    "date_str": "2025-10-25",
+    "description": "Presidential Secretariat - The Public Security Ordinance Order.",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-53_T.pdf",
+    "doc_number": "2459/53"
   }
 ]
