@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_06:35:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_09:35:52-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,611** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.5 GB**), from **2020-01-01** to **2025-10-25**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,616** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.5 GB**), from **2020-01-01** to **2025-10-25**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (4%), **TXT** (4%) & **🤗 Hugging Face** (4%)
 
@@ -47,6 +47,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-23 | `2025-10-23-2459-42-ta` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-ta)
 - 2025-10-23 | `2025-10-23-2459-42-si` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-si)
 - 2025-10-23 | `2025-10-23-2459-42-en` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-en)
+- 2025-10-23 | `2025-10-23-2459-40-si` | M/of  Public Administration P.C. and L.G- Appointments Under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-40-si)
+- 2025-10-23 | `2025-10-23-2459-40-en` | M/of  Public Administration P.C. and L.G- Appointments Under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-40-en)
+- 2025-10-23 | `2025-10-23-2459-39-si` | M/of  Public Administration P.C. and L.G- Appointments Under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-39-si)
+- 2025-10-23 | `2025-10-23-2459-39-en` | M/of  Public Administration P.C. and L.G- Appointments Under the Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-39-en)
 - 2025-10-23 | `2025-10-23-2459-38-si` | Ministry of Defence - Award the Videsha Seva Padakkama | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-38-si)
 - 2025-10-23 | `2025-10-23-2459-38-en` | Ministry of Defence - Award the Videsha Seva Padakkama | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-38-en)
 - 2025-10-22 | `2025-10-22-2459-30-si` | Department of Census and Statistics - national Consumer Price Index- September 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-30-si)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-22 | `2025-10-22-2459-28-en` | Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-28-en)
 - 2025-10-22 | `2025-10-22-2459-24-si` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-si)
 - 2025-10-22 | `2025-10-22-2459-24-en` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-en)
-- 2025-10-21 | `2025-10-21-2459-13-ta` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-ta)
-- 2025-10-21 | `2025-10-21-2459-13-si` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-si)
-- 2025-10-21 | `2025-10-21-2459-13-en` | Presidential Secretariat - Declaration of the Services Connected to the Supply of Electricity to be an Essential Public Service. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-13-en)
-- 2025-10-21 | `2025-10-21-2459-12-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No. 09 of 2003  (Amended) Order Under Section 20(5). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-21-2025-10-21-2459-12-ta)
 
 ---
 
