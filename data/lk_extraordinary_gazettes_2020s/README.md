@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_09:30:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_12:29:29-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,616** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.6 GB**), from **2020-01-01** to **2025-10-25**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,667** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.6 GB**), from **2020-01-01** to **2025-10-27**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (4%), **TXT** (4%) & **🤗 Hugging Face** (4%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-25-2025-10-25-2459-53-ta",
-    "num": "2025-10-25-2459-53-ta",
-    "date_str": "2025-10-25",
-    "description": "Presidential Secretariat - The Public Security Ordinance Order.",
+    "doc_id": "2025-10-27-2025-10-27-2460-01-ta",
+    "num": "2025-10-27-2460-01-ta",
+    "date_str": "2025-10-27",
+    "description": "Sri Lanka Customs - Rates of Exchange wet 27.10.2025 to 02.11.2025",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2459-53_T.pdf",
-    "doc_number": "2459/53"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2460-01_T.pdf",
+    "doc_number": "2460/01"
 }
 ```
 
@@ -41,9 +41,15 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-10-27 | `2025-10-27-2460-01-ta` | Sri Lanka Customs - Rates of Exchange wet 27.10.2025 to 02.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-27-2025-10-27-2460-01-ta)
+- 2025-10-27 | `2025-10-27-2460-01-si` | Sri Lanka Customs - Rates of Exchange wet 27.10.2025 to 02.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-27-2025-10-27-2460-01-si)
+- 2025-10-27 | `2025-10-27-2460-01-en` | Sri Lanka Customs - Rates of Exchange wet 27.10.2025 to 02.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-27-2025-10-27-2460-01-en)
 - 2025-10-25 | `2025-10-25-2459-53-ta` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-ta)
 - 2025-10-25 | `2025-10-25-2459-53-si` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-si)
 - 2025-10-25 | `2025-10-25-2459-53-en` | Presidential Secretariat - The Public Security Ordinance Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-25-2025-10-25-2459-53-en)
+- 2025-10-24 | `2025-10-24-2459-47-ta` | Election Commission - Elected and Declared New Member of the Athuraliya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-24-2025-10-24-2459-47-ta)
+- 2025-10-24 | `2025-10-24-2459-47-si` | Election Commission - Elected and Declared New Member of the Athuraliya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-24-2025-10-24-2459-47-si)
+- 2025-10-24 | `2025-10-24-2459-47-en` | Election Commission - Elected and Declared New Member of the Athuraliya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-24-2025-10-24-2459-47-en)
 - 2025-10-23 | `2025-10-23-2459-42-ta` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-ta)
 - 2025-10-23 | `2025-10-23-2459-42-si` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-si)
 - 2025-10-23 | `2025-10-23-2459-42-en` | Elections Commission - Filling of a Vacancy in the office of member of the kalpitiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-42-en)
@@ -55,12 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-23 | `2025-10-23-2459-38-en` | Ministry of Defence - Award the Videsha Seva Padakkama | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-23-2025-10-23-2459-38-en)
 - 2025-10-22 | `2025-10-22-2459-30-si` | Department of Census and Statistics - national Consumer Price Index- September 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-30-si)
 - 2025-10-22 | `2025-10-22-2459-30-en` | Department of Census and Statistics - national Consumer Price Index- September 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-30-en)
-- 2025-10-22 | `2025-10-22-2459-29-si` | Coast Conservation and Coastal management Dept - Environmental Impact Assessment report Bess Renewable Energy wind power Project | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-29-si)
-- 2025-10-22 | `2025-10-22-2459-29-en` | Coast Conservation and Coastal management Dept - Environmental Impact Assessment report Bess Renewable Energy wind power Project | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-29-en)
-- 2025-10-22 | `2025-10-22-2459-28-si` | Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-28-si)
-- 2025-10-22 | `2025-10-22-2459-28-en` | Election Commission - Filling of a vacancy in the office of Member of the Uhana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-28-en)
-- 2025-10-22 | `2025-10-22-2459-24-si` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-si)
-- 2025-10-22 | `2025-10-22-2459-24-en` | Office of the Public Service Commission - Minute of the Sri Lanka Grama Niladhari Service 1st Amendment. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-22-2025-10-22-2459-24-en)
 
 ---
 
