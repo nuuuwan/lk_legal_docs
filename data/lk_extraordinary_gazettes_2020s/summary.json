@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-11-01 15:19:36",
-  "n_docs": 45798,
-  "n_docs_with_pdfs": 2180,
-  "n_docs_with_text": 2180,
+  "time_updated": "2025-11-01 18:32:34",
+  "n_docs": 45807,
+  "n_docs_with_pdfs": 2187,
+  "n_docs_with_text": 2187,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-10-30",
-  "dataset_size": 1785040131,
+  "date_str_max": "2025-10-31",
+  "dataset_size": 1786605612,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-30-2025-10-30-2460-29-ta",
-    "num": "2025-10-30-2460-29-ta",
-    "date_str": "2025-10-30",
-    "description": "Elections Commission - Under the Section 66A (1)(a) Filling of a Vacancy in the office of Member of the Karandeniya Pradeshiya Sabha",
+    "doc_id": "2025-10-31-2025-10-31-2460-43-ta",
+    "num": "2025-10-31-2460-43-ta",
+    "date_str": "2025-10-31",
+    "description": "Elections Commission",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2460-29_T.pdf",
-    "doc_number": "2460/29"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2460-43_T.pdf",
+    "doc_number": "2460/43"
   }
 }
