@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_15:25:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_18:33:27-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,832** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.8 GB**), from **2020-01-01** to **2025-10-31**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,852** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.8 GB**), from **2020-01-01** to **2025-11-01**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (5%), **TXT** (5%) & **🤗 Hugging Face** (5%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-10-31-2025-10-31-2460-43-ta",
-    "num": "2025-10-31-2460-43-ta",
-    "date_str": "2025-10-31",
-    "description": "Elections Commission",
+    "doc_id": "2025-11-01-2025-11-01-2460-56-si",
+    "num": "2025-11-01-2460-56-si",
+    "date_str": "2025-11-01",
+    "description": "Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/10/2460-43_T.pdf",
-    "doc_number": "2460/43"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2460-56_S.pdf",
+    "doc_number": "2460/56"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `2025-11-01-2460-56-si` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-si)
+- 2025-11-01 | `2025-11-01-2460-56-en` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-en)
 - 2025-10-31 | `2025-10-31-2460-43-ta` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-ta)
 - 2025-10-31 | `2025-10-31-2460-43-si` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-si)
 - 2025-10-31 | `2025-10-31-2460-43-en` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-en)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-30 | `2025-10-30-2460-29-ta` | Elections Commission - Under the Section 66A (1)(a) Filling of a Vacancy in the office of Member of the Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-30-2025-10-30-2460-29-ta)
 - 2025-10-30 | `2025-10-30-2460-29-si` | Elections Commission - Under the Section 66A (1)(a) Filling of a Vacancy in the office of Member of the Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-30-2025-10-30-2460-29-si)
 - 2025-10-30 | `2025-10-30-2460-29-en` | Elections Commission - Under the Section 66A (1)(a) Filling of a Vacancy in the office of Member of the Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-30-2025-10-30-2460-29-en)
-- 2025-10-30 | `2025-10-30-2460-28-ta` | Elections Commission - Under the Section 66B (2) Filling of a Vacancy in the office of Chairman of the Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-30-2025-10-30-2460-28-ta)
-- 2025-10-30 | `2025-10-30-2460-28-si` | Elections Commission - Under the Section 66B (2) Filling of a Vacancy in the office of Chairman of the Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-30-2025-10-30-2460-28-si)
 
 ---
 
