@@ -1,0 +1,2323 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      70.87,
+      160.15,
+      347.78,
+      209.25
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.47,
+      467.18,
+      363.45,
+      476.03
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.34,
+      477.85,
+      306.66,
+      483.38
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.47,
+      489.08,
+      361.46,
+      501.12
+    ],
+    "text": "Price : Rs. 40.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.47,
+      539.17,
+      235.97,
+      548.03
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.7,
+      235.0,
+      344.92,
+      266.29
+    ],
+    "text": "PERSONAL DATA PROTECTION (AMENDMENT) ACT, No. 22 OF 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      135.78,
+      303.78,
+      287.06,
+      314.85
+    ],
+    "text": "[Certi\ufb01 ed on 30th of October, 2025]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.42,
+      351.78,
+      284.42,
+      362.85
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.11,
+      407.78,
+      356.53,
+      432.85
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of October 31, 2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.43,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "1",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      96.31,
+      273.42,
+      143.65
+    ],
+    "text": "L.D.-O 6/2025 AN ACT TO AMEND THE PERSONAL DATA PROTECTION ACT, NO. 9 OF 2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      156.31,
+      292.51,
+      179.65
+    ],
+    "text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      192.31,
+      293.73,
+      215.65
+    ],
+    "text": "1. This Act may be cited as the Personal Data Protection (Amendment) Act, No. 22 of 2025.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      228.31,
+      293.73,
+      263.65
+    ],
+    "text": "2. (1) Section 1 of the Personal Data Protection Act, No. 9 of 2022 (hereinafter referred to as the \u201cprincipal enactment\u201d) is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      276.31,
+      293.73,
+      299.65
+    ],
+    "text": "(a) by the repeal of subsection (3) thereof and the substitution therefor, of the following subsection:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.43,
+      312.31,
+      293.72,
+      359.65
+    ],
+    "text": "\u201c(3) All other provisions of this Act except this section, shall come into operation on such date or dates as the Minister may appoint, by Order published in the Gazette.\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      372.31,
+      277.1,
+      383.65
+    ],
+    "text": "(b) by the repeal of subsections (4) and (5) thereof.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      396.31,
+      293.74,
+      455.65
+    ],
+    "text": "(2) Notwithstanding the repeal of subsection (3) of section 1 of the principal enactment, anything duly done under Parts V, VI, VIII, IX and X prior to the date of commencement of this section, shall be deemed to be valid and continue to be in force.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      468.31,
+      293.73,
+      491.65
+    ],
+    "text": "3. Section 12 of the principal enactment is hereby amended, by the repeal of subsection (2) thereof.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.43,
+      512.31,
+      293.73,
+      548.65
+    ],
+    "text": "4. Section 17 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.43,
+      195.02,
+      335.21,
+      204.1
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.99,
+      229.84,
+      358.87,
+      258.11
+    ],
+    "text": "Amendment of section 1 of Act, No. 9 of 2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.71,
+      470.96,
+      353.93,
+      508.83
+    ],
+    "text": "Amendment of section 12 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.71,
+      513.78,
+      353.93,
+      551.65
+    ],
+    "text": "Amendment of section 17 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.14,
+      77.78,
+      243.72,
+      88.85
+    ],
+    "text": "[Certi\ufb01 ed on 30th of October, 2025]",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.54,
+      552.01,
+      134.8,
+      560.87
+    ],
+    "text": "PL 15227 - 868 (05/2025)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "2Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.13,
+      80.42,
+      370.64,
+      104.56
+    ],
+    "text": "(1) by the repeal of subsection (1) thereof and the substitution therefor, of the following subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.13,
+      118.82,
+      370.65,
+      194.16
+    ],
+    "text": "\u201c(1) Where a controller receives a written request from a data subject under section 13, 14, 15, 16 or 18, such controller shall inform in writing to the data subject, without undue delay and within one month of the receipt of such request, whether-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188.13,
+      208.42,
+      334.99,
+      219.76
+    ],
+    "text": "(a) such request was granted; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188.13,
+      234.02,
+      370.64,
+      283.76
+    ],
+    "text": "(b) such request was refused, with reasons therefor, unless the disclosure of such reasons is prohibited by any written law.\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.13,
+      298.02,
+      370.66,
+      322.16
+    ],
+    "text": "(2) by the insertion, immediately after subsection (1) thereof, of the following subsections:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.13,
+      336.42,
+      370.65,
+      411.76
+    ],
+    "text": "\u201c(1A) Where a controller requires an extension of the time period referred to in subsection (1) for reasons assigned, such period may be extended for a further period of two months, which shall not exceed three months from the date of the receipt of the request.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.13,
+      426.02,
+      370.66,
+      488.56
+    ],
+    "text": "(1B) In the event of extension of time period under subsection (1), the controller shall inform the data subject, regarding such extension, prior to the expiry of the period of one month referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      174.13,
+      502.82,
+      370.66,
+      552.96
+    ],
+    "text": "(1C) A controller shall inform the data subject on the availability of the right of appeal to the Authority in respect of the refusal of a request made under section 13, 14, 15, 16 or 18.\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      287.43,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "3",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      80.42,
+      293.72,
+      117.76
+    ],
+    "text": "(3) in subsection (2) thereof, by the substitution for the words and \ufb01 gures \u201csections 13, 14, 15 or 16\u201d of the words and \ufb01 gures \u201csection 13, 14, 15, 16 or 18\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      132.42,
+      293.72,
+      169.76
+    ],
+    "text": "(4) in subsection (4) thereof, by the substitution for the words and \ufb01 gures \u201csections 13, 14, 15 or 16,\u201d of the words and \ufb01 gures \u201csection 13, 14, 15, 16 or 18,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      184.42,
+      293.71,
+      221.76
+    ],
+    "text": "(5) in paragraph (d) of subsection (5) thereof, by the substitution for the words \u201can heir\u201d of the words \u201cby an heir\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      236.42,
+      293.73,
+      260.76
+    ],
+    "text": "(6) by the repeal of subsection (6) thereof and the substitution therefor of the following subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97.43,
+      275.42,
+      293.72,
+      312.76
+    ],
+    "text": "\u201c(6) A request made by a data subject under section 13, 14, 15, 16 or 18 shall be complied with by the controller free of charge:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97.43,
+      327.42,
+      293.73,
+      390.76
+    ],
+    "text": "Provided however, the Authority may determine by way of rules, the criteria or circumstances under which a fee may be charged by a controller to give effect to such requests.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      405.42,
+      242.11,
+      416.76
+    ],
+    "text": "(7) by the repeal of subsection (7) thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      431.42,
+      293.73,
+      481.76
+    ],
+    "text": "5. Section 18 of the principal enactment is hereby amended, in subsection (1) thereof, by the substitution for the words \u201cunder any written law.\u201d, of the words \u201cunder the Constitution or any written law.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.43,
+      496.42,
+      293.73,
+      533.76
+    ],
+    "text": "6. Section 19 of the principal enactment is hereby amended by the repeal of subsections (1), (2) and (3) thereof and the substitution therefor of the following subsections:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.43,
+      433.14,
+      353.64,
+      471.01
+    ],
+    "text": "Amendment of section 18 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.43,
+      498.24,
+      353.64,
+      536.11
+    ],
+    "text": "Amendment of section 19 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "4Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      80.42,
+      229.53,
+      91.76
+    ],
+    "text": "\u201c(1) Where a controller\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      106.42,
+      369.94,
+      130.76
+    ],
+    "text": "(a) has refused to provide access to personal data under section 13;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      145.42,
+      369.93,
+      182.76
+    ],
+    "text": "(b) has refused to allow withdrawal of consent under section 14(1) or refused to refrain from further processing of personal data under section 14(2);",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      197.42,
+      369.94,
+      221.76
+    ],
+    "text": "(c) has refused to rectify or complete personal data under section 15;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      236.42,
+      367.44,
+      247.76
+    ],
+    "text": "(d) has refused to erase personal data under section 16;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      262.42,
+      369.94,
+      286.76
+    ],
+    "text": "(e) has refused a request of the data subject under section 17(2); or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      301.42,
+      369.94,
+      338.76
+    ],
+    "text": "(f) has refused a request to review a decision based solely on automated processing under section 18(1),",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      353.42,
+      369.95,
+      390.76
+    ],
+    "text": "the data subject may, appeal to the Authority against such refusal in such form, manner and within such period of time as may be prescribed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      405.42,
+      369.93,
+      429.76
+    ],
+    "text": "(2) Upon receipt of an appeal under subsection (1), the Authority may determine whether the\u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      444.42,
+      369.94,
+      468.76
+    ],
+    "text": "(a) decision of the controller to refuse to provide access to personal data under section 13 was lawful;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.46,
+      483.42,
+      369.94,
+      533.76
+    ],
+    "text": "(b) decision of the controller to refuse to allow withdrawal of consent under section 14(1) or not to refrain from further processing of personal data under section 14(2) was lawful;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      287.43,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "5",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      81.13,
+      293.73,
+      118.47
+    ],
+    "text": "(c) decision of the controller to refuse to rectify or complete personal data under section 15 was lawful;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      133.13,
+      293.72,
+      157.47
+    ],
+    "text": "(d) decision of the controller to refuse the erasure of personal data under section 16 was lawful;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      172.13,
+      293.72,
+      196.47
+    ],
+    "text": "(e) refusal under section 17(2) by the controller was lawful; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      211.13,
+      293.72,
+      248.47
+    ],
+    "text": "(f) refusal to review a decision based solely on automated processing under section 18(1) was lawful.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      263.13,
+      293.73,
+      300.47
+    ],
+    "text": "(3) Upon receipt of an appeal under subsection (1) and after concluding the necessary investigations, the Authority shall determine within such period as may be prescribed-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      315.13,
+      222.4,
+      326.47
+    ],
+    "text": "(a) whether the appeal is allowed; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      341.13,
+      293.72,
+      365.47
+    ],
+    "text": "(b) whether the appeal is disallowed, with reasons therefor,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      380.13,
+      293.74,
+      404.47
+    ],
+    "text": "and the Authority shall inform to the data subject and the controller of such determination.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      419.13,
+      293.73,
+      443.47
+    ],
+    "text": "7. Section 20 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.43,
+      458.13,
+      188.24,
+      469.47
+    ],
+    "text": "(1) in subsection (1) thereof-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.43,
+      484.13,
+      293.72,
+      547.47
+    ],
+    "text": "(a) in paragraph (a) thereof, by the substitution for the words \u201cby a ministry, government department or public corporation,\u201d of the words \u201cby a Ministry or government department,\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      303.43,
+      420.79,
+      353.64,
+      458.66
+    ],
+    "text": "Amendment of section 20 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "6Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.13,
+      80.42,
+      370.65,
+      119.36
+    ],
+    "text": "(b) by the repeal of subparagraph (iii) of paragraph (b) thereof and the substitution therefor of the following subparagraph:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      200.13,
+      135.62,
+      370.65,
+      257.36
+    ],
+    "text": "\u201c(iii) categories of processing which results in a risk of harm affecting the rights of the data subjects protected under this Act, based on the nature of processing and its impact on the data subjects, as may be determined by the Authority by way of guidelines made under this Act.\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.13,
+      273.62,
+      264.94,
+      284.96
+    ],
+    "text": "(2) in subsection (5) thereof-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.13,
+      301.22,
+      370.65,
+      381.56
+    ],
+    "text": "(a) in paragraph (a) thereof, by the substitution for the words \u201cprocessing requirements provided under this Act or any other written law;\u201d of the words \u201cprocessing obligations or requirements, as the case may be, under this Act or any other written law;\u201d;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.13,
+      397.82,
+      370.64,
+      436.76
+    ],
+    "text": "(b) by the repeal of paragraph (b) thereof and the substitution therefor of the following paragraph: -",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      170.13,
+      453.02,
+      370.64,
+      491.96
+    ],
+    "text": "\u201c(b) advise the controller or processor on how to comply with the provisions of this Act;\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.13,
+      508.22,
+      370.64,
+      547.16
+    ],
+    "text": "(c) in paragraph (e) thereof, by the substitution for the words \u201cdata protection.\u201d of the words \u201cpersonal data protection.\u201d.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      287.43,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "7",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      79.71,
+      293.25,
+      104.05
+    ],
+    "text": "8. Section 24 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      118.71,
+      293.24,
+      156.05
+    ],
+    "text": "(1) in subsection (3) thereof, by the substitution for the words \u201cData Protection of\ufb01 cer, where designated,\u201d of the words \u201cData Protection Of\ufb01 cer,\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      170.71,
+      293.24,
+      195.05
+    ],
+    "text": "(2) by the repeal of subsection (5) thereof and the substitution therefor of the following subsection:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      209.71,
+      293.25,
+      338.05
+    ],
+    "text": "\u201c(5) Upon a written request from the Authority, the controller shall submit to the Authority the personal data protection impact assessment required to be carried out under this section and provide any other information relating to such assessment, as may be required by the Authority.\u201d. 9. Section 25 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      352.71,
+      293.24,
+      390.05
+    ],
+    "text": "(1) in subsection (1) thereof, by the substitution for the words \u201cunder this Act or any written law,\u201d of the words \u201cunder this Act,\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      404.71,
+      293.23,
+      429.05
+    ],
+    "text": "(2) by the repeal of subsections (2), (3), (4), (5) and (6) thereof;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      443.71,
+      293.24,
+      494.05
+    ],
+    "text": "(3) in subsection (7) thereof, by the substitution for the words and \ufb01 gures \u201cin section 24 (1) and where such processing\u201d, of the words and \ufb01 gures \u201cin section 24 (1) where such processing\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.94,
+      508.71,
+      293.25,
+      546.05
+    ],
+    "text": "(4) in the marginal note thereto, by the substitution for the words \u201crisks of harm and the requirement for prior consultation\u201d of the words \u201crisks of harm\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303.43,
+      80.85,
+      353.64,
+      118.72
+    ],
+    "text": "Amendment of section 24 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303.43,
+      315.93,
+      353.64,
+      353.81
+    ],
+    "text": "Amendment of section 25 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "8Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.17,
+      80.42,
+      370.65,
+      104.16
+    ],
+    "text": "10. Section 26 of the principal enactment is hereby repealed and the following section is substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183.17,
+      117.62,
+      370.64,
+      190.96
+    ],
+    "text": "26. (1) A controller or processor may engage in cross-border data \ufb02 ows, only where such controller or processor, ensures compliance with the provisions of Part I, Part II and sections 20, 21, 22, 23, 24 and 25, as the case may be.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183.17,
+      204.42,
+      370.65,
+      314.96
+    ],
+    "text": "(2) For the purpose of ensuring compliance under subsection (1), a controller or processor shall adopt such instruments as may be speci\ufb01 ed by a directive issued by the Authority under paragraph (c) of section 33, to ensure binding and enforceable commitments of the recipient in the third country to ensure appropriate safeguards to the rights of the data subjects and remedies available under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      183.17,
+      328.42,
+      370.64,
+      364.56
+    ],
+    "text": "(3) Notwithstanding the provisions of subsection (1), a controller or processor may engage in cross-border data \ufb02 ows, if-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      192.16,
+      378.02,
+      370.65,
+      438.96
+    ],
+    "text": "(a) the data subject has explicitly consented to the proposed cross-border data \ufb02 ow, after having been informed of the possible risks of such processing for the data subject;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      192.16,
+      452.42,
+      370.65,
+      539.36
+    ],
+    "text": "(b) the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of any pre contractual measures taken by the controller at the request of the data subject;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.13,
+      80.85,
+      176.49,
+      138.46
+    ],
+    "text": "Replacement of section 26 of theprincipal enactment\u201cCross-border data flow",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      287.43,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "9",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.43,
+      80.19,
+      293.73,
+      129.03
+    ],
+    "text": "(c) the transfer is necessary for the establishment, exercise or defence of legal claims relating to the data subject;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.43,
+      142.69,
+      293.71,
+      179.03
+    ],
+    "text": "(d) the transfer is necessary for reasons of public interest as de\ufb01 ned in item (g) of Schedule I to this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.43,
+      192.69,
+      293.73,
+      266.53
+    ],
+    "text": "(e) the transfer is necessary to respond to an emergency that threatens the life, health or safety of the data subject or where his legal guardian is physically or legally incapable of giving consent;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.43,
+      280.19,
+      293.72,
+      316.53
+    ],
+    "text": "(f) the transfer constitutes only a transit of personal data through Sri Lanka; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.43,
+      330.19,
+      293.72,
+      366.53
+    ],
+    "text": "(g) such processing is permitted under any other conditions as may be prescribed under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      380.19,
+      293.72,
+      441.53
+    ],
+    "text": "(4) A controller or processor who is a public authority shall not engage in cross-border data flows in respect of the categories of personal data as may be prescribed under subsection (5).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.43,
+      456.49,
+      293.72,
+      535.53
+    ],
+    "text": "(5) The Minister may, prescribe the categories of personal data for the purposes of subsection (4), upon a request made by the Authority or a controller or processor who is a public authority in consultation with the relevant statutory or regulatory body.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "10Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      81.13,
+      370.67,
+      121.47
+    ],
+    "text": "11. The following new section is hereby inserted immediately after section 51 of the principal enactment and shall have effect as section 51A thereof:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      195.13,
+      139.13,
+      370.66,
+      266.47
+    ],
+    "text": "51A. The Authority may, from time to time, issue guidelines in respect of the matters speci\ufb01 ed in this Act, including the sectoral guidelines referred to in paragraph (o) of section 33, formulated by the advisory committees and approved by the Authority and the matters relating to the Data Protection Management Programme as speci\ufb01 ed in section 12.\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      284.12,
+      370.66,
+      338.97
+    ],
+    "text": "12. Section 52 of the principal enactment is hereby amended in subsection (2) thereof, by the substitution for the words \u201cwithin twenty-four months\u201d of the words \u201cwithin thirty six months\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      356.62,
+      370.65,
+      396.97
+    ],
+    "text": "13. Section 53 of the principal enactment is hereby amended by the repeal of paragraph (b) of subsection (2) thereof.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      414.62,
+      370.65,
+      440.47
+    ],
+    "text": "14. Section 56 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      128.13,
+      458.12,
+      370.64,
+      498.47
+    ],
+    "text": "(1) by the repeal of the de\ufb01 nition of the expression \u201cData Protection Of\ufb01 cer\u201d and the substitution therefor of the following de\ufb01 nition:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      153.13,
+      516.12,
+      370.64,
+      541.96
+    ],
+    "text": "\u201c\u201cData Protection Of\ufb01 cer\u201d means, the person designated or appointed under section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.19,
+      80.85,
+      110.62,
+      118.72
+    ],
+    "text": "Insertion of new section 51A in the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.95,
+      358.17,
+      106.17,
+      396.05
+    ],
+    "text": "Amendment of section 53 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.95,
+      286.07,
+      106.17,
+      323.94
+    ],
+    "text": "Amendment of section 52 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.23,
+      418.36,
+      106.45,
+      456.23
+    ],
+    "text": "Amendment of section 56 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      145.84,
+      139.73,
+      184.95,
+      151.07
+    ],
+    "text": "\u201cGuidelines",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      91.47,
+      44.58,
+      251.17,
+      67.92
+    ],
+    "text": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      283.72,
+      45.01,
+      291.43,
+      54.09
+    ],
+    "text": "11",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      121.43,
+      80.42,
+      293.95,
+      135.26
+    ],
+    "text": "20 and includes a third party who is not directly employed by a controller or processor, but ful\ufb01 ls the responsibilities under section 20(5);\u201d;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      152.92,
+      293.95,
+      193.26
+    ],
+    "text": "(2) by the repeal of the de\ufb01 nition of the expression \u201cpublic authority\u201d and the substitution therefor of the following de\ufb01 nition:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      207.92,
+      293.95,
+      258.26
+    ],
+    "text": "\u201c\u201cpublic authority\u201d means, a Ministry, any Department, Provincial Council, local authority, or a Ministry or Department of a Provincial Council but does not include-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      272.92,
+      244.08,
+      284.26
+    ],
+    "text": "(a) a public corporation; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      298.92,
+      293.94,
+      336.26
+    ],
+    "text": "(b) a company incorporated under the Companies Act, No. 07 of 2007;\u201d; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      350.92,
+      293.95,
+      388.26
+    ],
+    "text": "(3) by the repeal of the de\ufb01 nition of the expression \u201cthird country\u201d and the substitution therefor of the following de\ufb01 nition:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      402.92,
+      293.95,
+      427.26
+    ],
+    "text": "\u201c\u201cthird country\u201d means, any other territory or country other than Sri Lanka;\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      441.92,
+      293.96,
+      492.26
+    ],
+    "text": "15. Schedule VI to the principal enactment is hereby amended in paragraph (2) of item 6 thereof, by the substitution for the words \u201cThe Director-General shall\u201d of the words \u201cThe Chairperson shall\u201d.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.43,
+      506.92,
+      293.96,
+      531.26
+    ],
+    "text": "16. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      303.43,
+      443.04,
+      353.64,
+      480.92
+    ],
+    "text": "Amendment of Schedule VI to the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      303.43,
+      508.98,
+      360.3,
+      537.25
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      128.13,
+      44.58,
+      327.98,
+      67.92
+    ],
+    "text": "12Personal Data Protection (Amendment) Act, No. 22 of 2025",
+    "fonts": [
+      "IskoolaPota",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62.31,
+      529.43,
+      363.94,
+      548.1
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPRAKASHANA PIYASA\u201d, DEPARTMENT OF GOVERNMENT PRINTING, NO. 118, DR. DANISTER DE SILVA MAWATHA, COLOMBO 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]

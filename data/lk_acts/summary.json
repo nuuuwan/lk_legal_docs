@@ -2,15 +2,15 @@
   "doc_class_label": "lk_acts",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",
-  "time_updated": "2025-11-04 15:58:52",
-  "n_docs": 3934,
-  "n_docs_with_pdfs": 3928,
-  "n_docs_with_text": 3928,
+  "time_updated": "2025-11-04 18:05:32",
+  "n_docs": 3937,
+  "n_docs_with_pdfs": 3931,
+  "n_docs_with_text": 3931,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 48,
   "date_str_min": "1981-01-22",
-  "date_str_max": "2025-10-07",
-  "dataset_size": 6799688431,
+  "date_str_max": "2025-10-30",
+  "dataset_size": 6800671882,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_acts",
-    "doc_id": "2025-10-07-2025-10-07-21-2025-ta",
-    "num": "2025-10-07-21-2025-ta",
-    "date_str": "2025-10-07",
-    "description": "Convention against Doping in Sport (Amendment)",
+    "doc_id": "2025-10-30-2025-10-30-22-2025-ta",
+    "num": "2025-10-30-22-2025-ta",
+    "date_str": "2025-10-30",
+    "description": "Personal Data Protection (Amendment)",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2025/10/21-2025_T.pdf",
-    "doc_number": "21/2025"
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/10/22-2025_T.pdf",
+    "doc_number": "22/2025"
   }
 }
