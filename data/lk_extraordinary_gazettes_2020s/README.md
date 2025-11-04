@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_09:30:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_12:29:40-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,862** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.8 GB**), from **2020-01-01** to **2025-11-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,864** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.8 GB**), from **2020-01-01** to **2025-11-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (5%), **TXT** (5%) & **🤗 Hugging Face** (5%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-03-2025-11-03-2461-01-si",
-    "num": "2025-11-03-2461-01-si",
+    "doc_id": "2025-11-03-2025-11-03-2461-02-si",
+    "num": "2025-11-03-2461-02-si",
     "date_str": "2025-11-03",
-    "description": "Sri Lanka Customs - Rates of Exchange wet 03.11.2025 to 09.11.2025",
+    "description": "M/C of Anuradhapura Draft Budget for the Year 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-01_S.pdf",
-    "doc_number": "2461/01"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-02_S.pdf",
+    "doc_number": "2461/02"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `2025-11-03-2461-02-si` | M/C of Anuradhapura Draft Budget for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-02-si)
+- 2025-11-03 | `2025-11-03-2461-02-en` | M/C of Anuradhapura Draft Budget for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-02-en)
 - 2025-11-03 | `2025-11-03-2461-01-si` | Sri Lanka Customs - Rates of Exchange wet 03.11.2025 to 09.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-01-si)
 - 2025-11-03 | `2025-11-03-2461-01-en` | Sri Lanka Customs - Rates of Exchange wet 03.11.2025 to 09.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-01-en)
 - 2025-11-01 | `2025-11-01-2460-56-ta` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-ta)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-31 | `2025-10-31-2460-40-en` | Elections Commission - Nominated member of the Dambulla Municipal Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-40-en)
 - 2025-10-31 | `2025-10-31-2460-38-si` | 2460/38 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-38-si)
 - 2025-10-31 | `2025-10-31-2460-38-en` | 2460/38 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-38-en)
-- 2025-10-31 | `2025-10-31-2460-37-si` | 2460/37 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-37-si)
-- 2025-10-31 | `2025-10-31-2460-37-en` | 2460/37 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-37-en)
 
 ---
 
