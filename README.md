@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_14:02:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_16:23:13-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
