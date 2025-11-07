@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-11-07 06:36:42",
-  "n_docs": 45880,
-  "n_docs_with_pdfs": 2412,
-  "n_docs_with_text": 2412,
+  "time_updated": "2025-11-07 09:33:31",
+  "n_docs": 45884,
+  "n_docs_with_pdfs": 2434,
+  "n_docs_with_text": 2434,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2025-11-03",
-  "dataset_size": 1949799499,
+  "dataset_size": 1962991565,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-03-2025-11-03-2461-19-si",
-    "num": "2025-11-03-2461-19-si",
+    "doc_id": "2025-11-03-2025-11-03-2461-19-ta",
+    "num": "2025-11-03-2461-19-ta",
     "date_str": "2025-11-03",
     "description": "Department of Local Government",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-19_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-19_T.pdf",
     "doc_number": "2461/19"
   }
 }

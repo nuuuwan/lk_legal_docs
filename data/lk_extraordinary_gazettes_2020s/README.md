@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_06:36:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_09:33:46-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,880** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**1.9 GB**), from **2020-01-01** to **2025-11-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,884** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.0 GB**), from **2020-01-01** to **2025-11-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (5%), **TXT** (5%) & **🤗 Hugging Face** (5%)
 
@@ -19,13 +19,13 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-03-2025-11-03-2461-19-si",
-    "num": "2025-11-03-2461-19-si",
+    "doc_id": "2025-11-03-2025-11-03-2461-19-ta",
+    "num": "2025-11-03-2461-19-ta",
     "date_str": "2025-11-03",
     "description": "Department of Local Government",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-19_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-19_T.pdf",
     "doc_number": "2461/19"
 }
 ```
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `2025-11-03-2461-19-ta` | Department of Local Government | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-19-ta)
 - 2025-11-03 | `2025-11-03-2461-19-si` | Department of Local Government | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-19-si)
 - 2025-11-03 | `2025-11-03-2461-19-en` | Department of Local Government | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-19-en)
 - 2025-11-03 | `2025-11-03-2461-02-si` | M/C of Anuradhapura Draft Budget for the Year 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-02-si)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-10-31 | `2025-10-31-2460-42-ta` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-42-ta)
 - 2025-10-31 | `2025-10-31-2460-42-si` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-42-si)
 - 2025-10-31 | `2025-10-31-2460-42-en` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-42-en)
-- 2025-10-31 | `2025-10-31-2460-41-ta` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-41-ta)
 
 ---
 
