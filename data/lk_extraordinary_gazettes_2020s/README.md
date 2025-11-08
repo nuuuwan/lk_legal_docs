@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_09:27:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_12:27:30-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**45,923** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.0 GB**), from **2020-01-01** to **2025-11-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**45,926** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.0 GB**), from **2020-01-01** to **2025-11-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (5%), **TXT** (5%) & **🤗 Hugging Face** (5%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-06-2025-11-06-2461-20-si",
-    "num": "2025-11-06-2461-20-si",
+    "doc_id": "2025-11-06-2025-11-06-2461-21-si",
+    "num": "2025-11-06-2461-21-si",
     "date_str": "2025-11-06",
-    "description": "Department of Local Government - Western Province - Elected Chairman and Deputy Chairman for the Seethawaka Pradesiya Sabha",
+    "description": "Panduwasnuwara Pradeshiya Sabha - Inspection of Draft Budget Statement Year - 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-20_S.pdf",
-    "doc_number": "2461/20"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-21_S.pdf",
+    "doc_number": "2461/21"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `2025-11-06-2461-21-si` | Panduwasnuwara Pradeshiya Sabha - Inspection of Draft Budget Statement Year - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-06-2025-11-06-2461-21-si)
+- 2025-11-06 | `2025-11-06-2461-21-en` | Panduwasnuwara Pradeshiya Sabha - Inspection of Draft Budget Statement Year - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-06-2025-11-06-2461-21-en)
 - 2025-11-06 | `2025-11-06-2461-20-si` | Department of Local Government - Western Province - Elected Chairman and Deputy Chairman for the Seethawaka Pradesiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-06-2025-11-06-2461-20-si)
 - 2025-11-06 | `2025-11-06-2461-20-en` | Department of Local Government - Western Province - Elected Chairman and Deputy Chairman for the Seethawaka Pradesiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-06-2025-11-06-2461-20-en)
 - 2025-11-03 | `2025-11-03-2461-19-ta` | Department of Local Government | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-03-2025-11-03-2461-19-ta)
@@ -53,14 +55,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-01 | `2025-11-01-2460-56-ta` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-ta)
 - 2025-11-01 | `2025-11-01-2460-56-si` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-si)
 - 2025-11-01 | `2025-11-01-2460-56-en` | Ministry of Buddasasana Religious and Cultural Affairs - Appoint Archaeology Advisory Committee | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-56-en)
+- 2025-11-01 | `2025-11-01-2460-54-ta` | Department of Local Government - Southern Province - Meeting for the Purpose of Electing the Chairman | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-54-ta)
 - 2025-11-01 | `2025-11-01-2460-54-si` | Department of Local Government - Southern Province - Meeting for the Purpose of Electing the Chairman | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-54-si)
 - 2025-11-01 | `2025-11-01-2460-54-en` | Department of Local Government - Southern Province - Meeting for the Purpose of Electing the Chairman | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-54-en)
 - 2025-11-01 | `2025-11-01-2460-53-si` | Ministry of Labour | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-53-si)
 - 2025-11-01 | `2025-11-01-2460-53-en` | Ministry of Labour | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-01-2025-11-01-2460-53-en)
 - 2025-10-31 | `2025-10-31-2460-43-ta` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-ta)
-- 2025-10-31 | `2025-10-31-2460-43-si` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-si)
-- 2025-10-31 | `2025-10-31-2460-43-en` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-43-en)
-- 2025-10-31 | `2025-10-31-2460-42-ta` | Elections Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-10-31-2025-10-31-2460-42-ta)
 
 ---
 
