@@ -44881,6 +44881,39 @@
   },
   {
     "doc_type": "lk_bills",
+    "doc_id": "2025-10-21-2025-10-21-644-2025-en",
+    "num": "2025-10-21-644-2025-en",
+    "date_str": "2025-10-21",
+    "description": "Statement of Legal Effect - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/644-2025_E.pdf",
+    "doc_number": "644/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-21-2025-10-21-644-2025-si",
+    "num": "2025-10-21-644-2025-si",
+    "date_str": "2025-10-21",
+    "description": "Statement of Legal Effect - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/644-2025_S.pdf",
+    "doc_number": "644/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-10-21-2025-10-21-644-2025-ta",
+    "num": "2025-10-21-644-2025-ta",
+    "date_str": "2025-10-21",
+    "description": "Statement of Legal Effect - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/10/644-2025_T.pdf",
+    "doc_number": "644/2025"
+  },
+  {
+    "doc_type": "lk_bills",
     "doc_id": "2025-10-26-2025-10-26-639-2025-en",
     "num": "2025-10-26-639-2025-en",
     "date_str": "2025-10-26",
