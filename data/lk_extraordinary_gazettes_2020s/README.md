@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_12:29:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_15:23:05-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,005** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.3 GB**), from **2020-01-01** to **2025-11-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,012** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.3 GB**), from **2020-01-01** to **2025-11-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -55,12 +55,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-10 | `2025-11-10-2462-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-en)
 - 2025-11-07 | `2025-11-07-2461-39-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-si)
 - 2025-11-07 | `2025-11-07-2461-39-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-en)
+- 2025-11-07 | `2025-11-07-2461-38-ta` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-ta)
 - 2025-11-07 | `2025-11-07-2461-38-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-si)
 - 2025-11-07 | `2025-11-07-2461-38-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-en)
 - 2025-11-07 | `2025-11-07-2461-37-si` | Elections Commission - Elected to the member of the Boralesgamuwa Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-37-si)
 - 2025-11-07 | `2025-11-07-2461-37-en` | Elections Commission - Elected to the member of the Boralesgamuwa Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-37-en)
 - 2025-11-07 | `2025-11-07-2461-36-si` | Ministry of Public Administration - Appointments Under Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-36-si)
-- 2025-11-07 | `2025-11-07-2461-36-en` | Ministry of Public Administration - Appointments Under Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-36-en)
 
 ---
 
