@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_09:31:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_12:27:26-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,024** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.3 GB**), from **2020-01-01** to **2025-11-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,034** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.3 GB**), from **2020-01-01** to **2025-11-14**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-12-2025-11-12-2462-19-ta",
-    "num": "2025-11-12-2462-19-ta",
-    "date_str": "2025-11-12",
-    "description": "Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka",
+    "doc_id": "2025-11-14-2025-11-14-2462-40-ta",
+    "num": "2025-11-14-2462-40-ta",
+    "date_str": "2025-11-14",
+    "description": "Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2462-19_T.pdf",
-    "doc_number": "2462/19"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2462-40_T.pdf",
+    "doc_number": "2462/40"
 }
 ```
 
@@ -41,9 +41,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `2025-11-14-2462-40-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-ta)
+- 2025-11-14 | `2025-11-14-2462-40-si` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-si)
+- 2025-11-14 | `2025-11-14-2462-40-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-en)
 - 2025-11-12 | `2025-11-12-2462-19-ta` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-ta)
 - 2025-11-12 | `2025-11-12-2462-19-si` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-si)
 - 2025-11-12 | `2025-11-12-2462-19-en` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-en)
+- 2025-11-12 | `2025-11-12-2462-13-si` | Ministry of Public Administration P/C and L.G - Appointments under the Notices Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-13-si)
+- 2025-11-12 | `2025-11-12-2462-13-en` | Ministry of Public Administration P/C and L.G - Appointments under the Notices Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-13-en)
 - 2025-11-11 | `2025-11-11-2462-12-si` | Elections Commission - Filling of a Vacancy in the office of Member of the Weligama Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-12-si)
 - 2025-11-11 | `2025-11-11-2462-12-en` | Elections Commission - Filling of a Vacancy in the office of Member of the Weligama Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-12-en)
 - 2025-11-11 | `2025-11-11-2462-11-si` | Elections Commission - Filling of a Vacancy in the office of Member of the Ninthavur Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-11-si)
@@ -56,11 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-07 | `2025-11-07-2461-39-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-si)
 - 2025-11-07 | `2025-11-07-2461-39-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-en)
 - 2025-11-07 | `2025-11-07-2461-38-ta` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-ta)
-- 2025-11-07 | `2025-11-07-2461-38-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-si)
-- 2025-11-07 | `2025-11-07-2461-38-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-en)
-- 2025-11-07 | `2025-11-07-2461-37-si` | Elections Commission - Elected to the member of the Boralesgamuwa Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-37-si)
-- 2025-11-07 | `2025-11-07-2461-37-en` | Elections Commission - Elected to the member of the Boralesgamuwa Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-37-en)
-- 2025-11-07 | `2025-11-07-2461-36-si` | Ministry of Public Administration - Appointments Under Notaries Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-36-si)
 
 ---
 
