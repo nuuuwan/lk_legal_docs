@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_09:42:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_12:30:17-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,036** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-14**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,041** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-14**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -44,6 +44,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-14 | `2025-11-14-2462-40-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-ta)
 - 2025-11-14 | `2025-11-14-2462-40-si` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-si)
 - 2025-11-14 | `2025-11-14-2462-40-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-en)
+- 2025-11-14 | `2025-11-14-2462-35-si` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-si)
+- 2025-11-14 | `2025-11-14-2462-35-en` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-en)
 - 2025-11-12 | `2025-11-12-2462-19-ta` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-ta)
 - 2025-11-12 | `2025-11-12-2462-19-si` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-si)
 - 2025-11-12 | `2025-11-12-2462-19-en` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-en)
@@ -58,9 +60,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-10 | `2025-11-10-2462-01-ta` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-ta)
 - 2025-11-10 | `2025-11-10-2462-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-si)
 - 2025-11-10 | `2025-11-10-2462-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-en)
-- 2025-11-07 | `2025-11-07-2461-39-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-si)
-- 2025-11-07 | `2025-11-07-2461-39-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Morawewa Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-39-en)
-- 2025-11-07 | `2025-11-07-2461-38-ta` | Election Commission - Filling of a Vacancy in the Office of Member of the Katuwana Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-38-ta)
+- 2025-11-07 | `2025-11-07-2461-40-si` | Department of Trade and Investment Policy - Under section 2 of the Revenue Protection Act No. 19 of 1962. Revenue Protection order No 04/2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-40-si)
 
 ---
 
