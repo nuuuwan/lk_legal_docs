@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_12:30:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_15:25:18-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,041** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-14**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,045** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-14-2025-11-14-2462-40-ta",
-    "num": "2025-11-14-2462-40-ta",
-    "date_str": "2025-11-14",
-    "description": "Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish)",
+    "doc_id": "2025-11-17-2025-11-17-2463-02-ta",
+    "num": "2025-11-17-2463-02-ta",
+    "date_str": "2025-11-17",
+    "description": "Kurunegala Municipal Council - Draft Budget for 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2462-40_T.pdf",
-    "doc_number": "2462/40"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-02_T.pdf",
+    "doc_number": "2463/02"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `2025-11-17-2463-02-ta` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-ta)
+- 2025-11-17 | `2025-11-17-2463-02-si` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-si)
+- 2025-11-17 | `2025-11-17-2463-02-en` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-en)
 - 2025-11-14 | `2025-11-14-2462-40-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-ta)
 - 2025-11-14 | `2025-11-14-2462-40-si` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-si)
 - 2025-11-14 | `2025-11-14-2462-40-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-11 | `2025-11-11-2462-10-si` | Elections Commission - Filling of a Vacancy in the office of Member of the Koralai Pattu West Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-10-si)
 - 2025-11-11 | `2025-11-11-2462-10-en` | Elections Commission - Filling of a Vacancy in the office of Member of the Koralai Pattu West Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-10-en)
 - 2025-11-10 | `2025-11-10-2462-01-ta` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-ta)
-- 2025-11-10 | `2025-11-10-2462-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-si)
-- 2025-11-10 | `2025-11-10-2462-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-en)
-- 2025-11-07 | `2025-11-07-2461-40-si` | Department of Trade and Investment Policy - Under section 2 of the Revenue Protection Act No. 19 of 1962. Revenue Protection order No 04/2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-07-2025-11-07-2461-40-si)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-11-17 12:29:55",
-  "n_docs": 46041,
-  "n_docs_with_pdfs": 2864,
-  "n_docs_with_text": 2864,
+  "time_updated": "2025-11-17 15:24:57",
+  "n_docs": 46045,
+  "n_docs_with_pdfs": 2873,
+  "n_docs_with_text": 2873,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-11-14",
-  "dataset_size": 2434554799,
+  "date_str_max": "2025-11-17",
+  "dataset_size": 2440916495,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-14-2025-11-14-2462-40-ta",
-    "num": "2025-11-14-2462-40-ta",
-    "date_str": "2025-11-14",
-    "description": "Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish)",
+    "doc_id": "2025-11-17-2025-11-17-2463-02-ta",
+    "num": "2025-11-17-2463-02-ta",
+    "date_str": "2025-11-17",
+    "description": "Kurunegala Municipal Council - Draft Budget for 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2462-40_T.pdf",
-    "doc_number": "2462/40"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-02_T.pdf",
+    "doc_number": "2463/02"
   }
 }
