@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_15:25:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_18:34:02-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,045** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,046** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.4 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -49,6 +49,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-14 | `2025-11-14-2462-40-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-en)
 - 2025-11-14 | `2025-11-14-2462-35-si` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-si)
 - 2025-11-14 | `2025-11-14-2462-35-en` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-en)
+- 2025-11-14 | `2025-11-14-2462-31-en` | Governor Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-en)
 - 2025-11-12 | `2025-11-12-2462-19-ta` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-ta)
 - 2025-11-12 | `2025-11-12-2462-19-si` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-si)
 - 2025-11-12 | `2025-11-12-2462-19-en` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-en)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-11 | `2025-11-11-2462-11-en` | Elections Commission - Filling of a Vacancy in the office of Member of the Ninthavur Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-11-en)
 - 2025-11-11 | `2025-11-11-2462-10-si` | Elections Commission - Filling of a Vacancy in the office of Member of the Koralai Pattu West Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-10-si)
 - 2025-11-11 | `2025-11-11-2462-10-en` | Elections Commission - Filling of a Vacancy in the office of Member of the Koralai Pattu West Pardeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-11-2025-11-11-2462-10-en)
-- 2025-11-10 | `2025-11-10-2462-01-ta` | Sri Lanka Customs - Rates of Exchange with effect from 10.11.2025 to 16.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-10-2025-11-10-2462-01-ta)
 
 ---
 
