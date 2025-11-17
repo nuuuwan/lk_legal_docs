@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-11-18 00:30:15",
-  "n_docs": 46046,
-  "n_docs_with_pdfs": 2899,
-  "n_docs_with_text": 2899,
+  "time_updated": "2025-11-18 03:21:33",
+  "n_docs": 46050,
+  "n_docs_with_pdfs": 2921,
+  "n_docs_with_text": 2921,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2025-11-17",
-  "dataset_size": 2460939292,
+  "dataset_size": 2469770543,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-17-2025-11-17-2463-02-ta",
-    "num": "2025-11-17-2463-02-ta",
+    "doc_id": "2025-11-17-2025-11-17-2463-03-si",
+    "num": "2025-11-17-2463-03-si",
     "date_str": "2025-11-17",
-    "description": "Kurunegala Municipal Council - Draft Budget for 2026",
+    "description": "Legal Affairs Department - Gambling Regulatory Authority Act, No. 17 of 2025. Order under Sub Section (2) of Section 1.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-02_T.pdf",
-    "doc_number": "2463/02"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-03_S.pdf",
+    "doc_number": "2463/03"
   }
 }
