@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_15:23:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_18:33:37-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,073** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,075** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -54,13 +54,13 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-14 | `2025-11-14-2462-39-en` | Elections Commission - Notice under Section 66(2) Elected to the Member of Thawalama Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-39-en)
 - 2025-11-14 | `2025-11-14-2462-35-si` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-si)
 - 2025-11-14 | `2025-11-14-2462-35-en` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-en)
+- 2025-11-14 | `2025-11-14-2462-32-si` | Governor's Office - North Western Province - recruitment to the Posts of Additional Provincial Director and Subject matter Specialist in the Department of Animal Production and health | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-32-si)
 - 2025-11-14 | `2025-11-14-2462-31-ta` | Governor's Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-ta)
+- 2025-11-14 | `2025-11-14-2462-31-si` | Governor's Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-si)
 - 2025-11-14 | `2025-11-14-2462-31-en` | Governor Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-en)
 - 2025-11-13 | `2025-11-13-2462-30-si` | Land Acquisition - Maragane, Panduwasnuwara East Division , Kurunegala District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-13-2025-11-13-2462-30-si)
 - 2025-11-13 | `2025-11-13-2462-30-en` | Land Acquisition - Maragane, Panduwasnuwara East Division , Kurunegala District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-13-2025-11-13-2462-30-en)
 - 2025-11-12 | `2025-11-12-2462-19-ta` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-ta)
-- 2025-11-12 | `2025-11-12-2462-19-si` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-si)
-- 2025-11-12 | `2025-11-12-2462-19-en` | Department of Hindu Religion and Cultural Affairs - Declaration of the Sabarimalai Iyyappan Pilgrimage as a Sacred Pilgrimage Recognized by the Government of Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-12-2025-11-12-2462-19-en)
 
 ---
 
