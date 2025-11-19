@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_15:24:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_18:35:59-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,121** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,123** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -43,6 +43,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - 2025-11-17 | `2025-11-17-2463-06-si` | Election Commission - Filling of a vacancy in the office member of the manmunai South and Evuvilpattu p/s | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-06-si)
 - 2025-11-17 | `2025-11-17-2463-06-en` | Election Commission - Filling of a vacancy in the office member of the manmunai South and Evuvilpattu p/s | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-06-en)
+- 2025-11-17 | `2025-11-17-2463-04-si` | Ministry of Transport Highways and Urban Development - The Motor traffic (Driving Licence Levy ) Regulations No 03 of 2022 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-04-si)
+- 2025-11-17 | `2025-11-17-2463-04-en` | Ministry of Transport Highways and Urban Development - The Motor traffic (Driving Licence Levy ) Regulations No 03 of 2022 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-04-en)
 - 2025-11-17 | `2025-11-17-2463-03-si` | Legal Affairs Department - Gambling Regulatory Authority Act, No. 17 of 2025. Order under Sub Section (2) of Section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-03-si)
 - 2025-11-17 | `2025-11-17-2463-03-en` | Legal Affairs Department - Gambling Regulatory Authority Act, No. 17 of 2025. Order under Sub Section (2) of Section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-03-en)
 - 2025-11-17 | `2025-11-17-2463-02-ta` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-ta)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-14 | `2025-11-14-2462-35-si` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-si)
 - 2025-11-14 | `2025-11-14-2462-35-en` | Ministry Of Transport , Highways and Urban Development - Cancellation of the Vesting Order Under Section 15 (1) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-35-en)
 - 2025-11-14 | `2025-11-14-2462-32-si` | Governor's Office - North Western Province - recruitment to the Posts of Additional Provincial Director and Subject matter Specialist in the Department of Animal Production and health | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-32-si)
-- 2025-11-14 | `2025-11-14-2462-31-ta` | Governor's Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-ta)
-- 2025-11-14 | `2025-11-14-2462-31-si` | Governor's Office - North Western Province - Recruitment to the Post of Provincial Director of Agriculture in the Department of Agriculture North Western Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-31-si)
 
 ---
 
