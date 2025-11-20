@@ -2,15 +2,15 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-11-20 15:51:05",
-  "n_docs": 4092,
+  "time_updated": "2025-11-20 17:58:28",
+  "n_docs": 4098,
   "n_docs_with_pdfs": 4091,
   "n_docs_with_text": 4091,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2025-11-17",
-  "dataset_size": 1810210858,
+  "date_str_max": "2025-11-20",
+  "dataset_size": 1810214622,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2025-11-17-2025-11-17-645-2025-ta",
-    "num": "2025-11-17-645-2025-ta",
-    "date_str": "2025-11-17",
-    "description": "Microfinance and Credit Regulatory Authority - GS",
+    "doc_id": "2025-11-20-2025-11-20-647-2025-ta",
+    "num": "2025-11-20-647-2025-ta",
+    "date_str": "2025-11-20",
+    "description": "Judicature (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/645-2025_T.pdf",
-    "doc_number": "645/2025"
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/647-2025_T.pdf",
+    "doc_number": "647/2025"
   }
 }
