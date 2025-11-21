@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-11-21 12:30:28",
-  "n_docs": 46186,
-  "n_docs_with_pdfs": 2987,
-  "n_docs_with_text": 2987,
+  "time_updated": "2025-11-21 15:21:55",
+  "n_docs": 46202,
+  "n_docs_with_pdfs": 3037,
+  "n_docs_with_text": 3037,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-11-17",
-  "dataset_size": 2516873264,
+  "date_str_max": "2025-11-18",
+  "dataset_size": 2534796238,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-17-2025-11-17-2463-07-si",
-    "num": "2025-11-17-2463-07-si",
-    "date_str": "2025-11-17",
-    "description": "Ministry of Buddhasasana religious and Cultural Affairs - Antiquities Ordinance, Appointment of the member as an Archaeology Advisory Committee for a Period w.e.t 01.12.2025 to 30.11.2027",
+    "doc_id": "2025-11-18-2025-11-18-2463-10-ta",
+    "num": "2025-11-18-2463-10-ta",
+    "date_str": "2025-11-18",
+    "description": "2463/10",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-07_S.pdf",
-    "doc_number": "2463/07"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-10_T.pdf",
+    "doc_number": "2463/10"
   }
 }

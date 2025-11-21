@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:30:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_15:22:17-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,186** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,202** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
+- In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-17-2025-11-17-2463-07-si",
-    "num": "2025-11-17-2463-07-si",
-    "date_str": "2025-11-17",
-    "description": "Ministry of Buddhasasana religious and Cultural Affairs - Antiquities Ordinance, Appointment of the member as an Archaeology Advisory Committee for a Period w.e.t 01.12.2025 to 30.11.2027",
+    "doc_id": "2025-11-18-2025-11-18-2463-10-ta",
+    "num": "2025-11-18-2463-10-ta",
+    "date_str": "2025-11-18",
+    "description": "2463/10",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-07_S.pdf",
-    "doc_number": "2463/07"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-10_T.pdf",
+    "doc_number": "2463/10"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `2025-11-18-2463-10-ta` | 2463/10 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-10-ta)
+- 2025-11-18 | `2025-11-18-2463-10-si` | 2463/10 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-10-si)
+- 2025-11-18 | `2025-11-18-2463-10-en` | 2463/10 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-10-en)
 - 2025-11-17 | `2025-11-17-2463-07-si` | Ministry of Buddhasasana religious and Cultural Affairs - Antiquities Ordinance, Appointment of the member as an Archaeology Advisory Committee for a Period w.e.t 01.12.2025 to 30.11.2027 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-07-si)
 - 2025-11-17 | `2025-11-17-2463-07-en` | Ministry of Buddhasasana religious and Cultural Affairs - Antiquities Ordinance, Appointment of the member as an Archaeology Advisory Committee for a Period w.e.t 01.12.2025 to 30.11.2027 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-07-en)
 - 2025-11-17 | `2025-11-17-2463-06-ta` | Election Commission - Filling of a vacancy in the office member of the manmunai South and Evuvilpattu p/s | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-06-ta)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-17 | `2025-11-17-2463-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t. 17.11.2025 to 23.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-01-si)
 - 2025-11-17 | `2025-11-17-2463-01-en` | Sri Lanka Customs - Rates of Exchange w.e.t. 17.11.2025 to 23.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-01-en)
 - 2025-11-15 | `2025-11-15-2462-44-ta` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-ta)
-- 2025-11-15 | `2025-11-15-2462-44-si` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-si)
-- 2025-11-15 | `2025-11-15-2462-44-en` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-en)
-- 2025-11-14 | `2025-11-14-2462-40-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-ta)
 
 ---
 
