@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_09:33:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:30:49-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,153** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,186** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
 
@@ -55,12 +55,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-17 | `2025-11-17-2463-02-ta` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-ta)
 - 2025-11-17 | `2025-11-17-2463-02-si` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-si)
 - 2025-11-17 | `2025-11-17-2463-02-en` | Kurunegala Municipal Council - Draft Budget for 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-02-en)
+- 2025-11-17 | `2025-11-17-2463-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t. 17.11.2025 to 23.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-01-si)
+- 2025-11-17 | `2025-11-17-2463-01-en` | Sri Lanka Customs - Rates of Exchange w.e.t. 17.11.2025 to 23.11.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-17-2025-11-17-2463-01-en)
 - 2025-11-15 | `2025-11-15-2462-44-ta` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-ta)
 - 2025-11-15 | `2025-11-15-2462-44-si` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-si)
 - 2025-11-15 | `2025-11-15-2462-44-en` | Department of Local Government - Northern Province - Notice for meeting for the Election to fill the vacant of Chairman of valvettithurai Uk | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-15-2025-11-15-2462-44-en)
 - 2025-11-14 | `2025-11-14-2462-40-ta` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-ta)
-- 2025-11-14 | `2025-11-14-2462-40-si` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-si)
-- 2025-11-14 | `2025-11-14-2462-40-en` | Consumer Affairs Authority - Consumer Affairs Authority Act, No 09 of 2003 (amended) Order Under Section 20 (S) (Types of Canned Fish) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-14-2025-11-14-2462-40-en)
 
 ---
 
