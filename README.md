@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **110,600** documents (**14.9 GB**).
+**4** datasets, with **110,616** documents (**14.9 GB**).
 
 ## 001 ⚖️ Acts
 
@@ -40,15 +40,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes 2020S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:30:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_15:21:55-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,186** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,202** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.5 GB**), from **2020-01-01** to **2025-11-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (6%), **TXT** (6%) & **🤗 Hugging Face** (6%)
+- In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -58,7 +58,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 004 ⚖️ Extraordinary Gazettes 2010S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:31:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_15:27:32-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s)
 
