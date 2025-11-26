@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_15:25:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_18:33:34-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,264** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-24**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,273** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-24**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-24-2025-11-24-2464-01-si",
-    "num": "2025-11-24-2464-01-si",
+    "doc_id": "2025-11-24-2025-11-24-2464-04-si",
+    "num": "2025-11-24-2464-04-si",
     "date_str": "2025-11-24",
-    "description": "Sri Lanka Customs - Rates of Exchange w.e.t",
+    "description": "Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-01_S.pdf",
-    "doc_number": "2464/01"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-04_S.pdf",
+    "doc_number": "2464/04"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `2025-11-24-2464-04-si` | Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-04-si)
+- 2025-11-24 | `2025-11-24-2464-04-en` | Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-04-en)
 - 2025-11-24 | `2025-11-24-2464-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-01-si)
 - 2025-11-24 | `2025-11-24-2464-01-en` | Sri Lanka Customs - Rates of Exchange w.e.t | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-01-en)
 - 2025-11-22 | `2025-11-22-2463-48-si` | Department of Census and Statistics - National Consumer Price Index - October 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-22-2025-11-22-2463-48-si)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-20 | `2025-11-20-2463-25-en` | Election Commission - Filling of a Vacancy in the Office Member of the Peliyagoda Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-25-en)
 - 2025-11-18 | `2025-11-18-2463-12-ta` | Land Acquisition - Angoda Mulleriyawa, Kolonnawa D/S/D, Colombo District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-12-ta)
 - 2025-11-18 | `2025-11-18-2463-12-si` | Land Acquisition - Angoda Mulleriyawa, Kolonnawa D/S/D, Colombo District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-12-si)
-- 2025-11-18 | `2025-11-18-2463-12-en` | Land Acquisition - Angoda Mulleriyawa, Kolonnawa D/S/D, Colombo District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-12-en)
-- 2025-11-18 | `2025-11-18-2463-10-ta` | 2463/10 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-18-2025-11-18-2463-10-ta)
 
 ---
 
