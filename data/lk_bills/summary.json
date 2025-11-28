@@ -2,15 +2,15 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-11-28 17:49:18",
-  "n_docs": 4107,
-  "n_docs_with_pdfs": 4106,
-  "n_docs_with_text": 4106,
+  "time_updated": "2025-11-28 19:50:35",
+  "n_docs": 4110,
+  "n_docs_with_pdfs": 4109,
+  "n_docs_with_text": 4109,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2025-11-21",
-  "dataset_size": 1818583060,
+  "date_str_max": "2025-11-28",
+  "dataset_size": 1820324544,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2025-11-21-2025-11-21-649-2025-ta",
-    "num": "2025-11-21-649-2025-ta",
-    "date_str": "2025-11-21",
-    "description": "Universities (Amendment) - GS",
+    "doc_id": "2025-11-28-2025-11-28-651-2025-ta",
+    "num": "2025-11-28-651-2025-ta",
+    "date_str": "2025-11-28",
+    "description": "Statement of Legal Effect (Supplement) - Bill",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/649-2025_T.pdf",
-    "doc_number": "649/2025"
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/651-2025_T.pdf",
+    "doc_number": "651/2025"
   }
 }
