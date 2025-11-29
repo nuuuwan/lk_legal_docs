@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_09:32:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_12:28:35-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,282** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,286** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-28-2025-11-28-2464-29-si",
-    "num": "2025-11-28-2464-29-si",
+    "doc_id": "2025-11-28-2025-11-28-2464-30-si",
+    "num": "2025-11-28-2464-30-si",
     "date_str": "2025-11-28",
-    "description": "Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services",
+    "description": "Presidential Secretariat - Public Security Ordinance (Chapter 40)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-29_S.pdf",
-    "doc_number": "2464/29"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-30_S.pdf",
+    "doc_number": "2464/30"
 }
 ```
 
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `2025-11-28-2464-30-si` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-si)
 - 2025-11-28 | `2025-11-28-2464-29-si` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-si)
 - 2025-11-28 | `2025-11-28-2464-29-en` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-en)
 - 2025-11-26 | `2025-11-26-2464-26-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-si)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-20 | `2025-11-20-2463-27-ta` | Election Commission - Filling of a Vacancy in the Office Member of the Yakkalamulla Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-27-ta)
 - 2025-11-20 | `2025-11-20-2463-27-si` | Election Commission - Filling of a Vacancy in the Office Member of the Yakkalamulla Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-27-si)
 - 2025-11-20 | `2025-11-20-2463-27-en` | Election Commission - Filling of a Vacancy in the Office Member of the Yakkalamulla Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-27-en)
-- 2025-11-20 | `2025-11-20-2463-26-ta` | Election Commission - Filling of a Vacancy in the Office Member of the Dompe Pradeshiya sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-26-ta)
 
 ---
 
