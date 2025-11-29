@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_00:26:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_03:20:15-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,288** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,291** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-11-28-2025-11-28-2464-31-si",
-    "num": "2025-11-28-2464-31-si",
-    "date_str": "2025-11-28",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025.",
+    "doc_id": "2025-11-29-2025-11-29-2464-32-si",
+    "num": "2025-11-29-2464-32-si",
+    "date_str": "2025-11-29",
+    "description": "Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-31_S.pdf",
-    "doc_number": "2464/31"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-32_S.pdf",
+    "doc_number": "2464/32"
 }
 ```
 
@@ -41,11 +41,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `2025-11-29-2464-32-si` | Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-32-si)
+- 2025-11-29 | `2025-11-29-2464-32-en` | Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-32-en)
 - 2025-11-28 | `2025-11-28-2464-31-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-si)
 - 2025-11-28 | `2025-11-28-2464-31-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-en)
 - 2025-11-28 | `2025-11-28-2464-30-si` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-si)
 - 2025-11-28 | `2025-11-28-2464-29-si` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-si)
 - 2025-11-28 | `2025-11-28-2464-29-en` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-en)
+- 2025-11-26 | `2025-11-26-2464-26-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-ta)
 - 2025-11-26 | `2025-11-26-2464-26-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-si)
 - 2025-11-26 | `2025-11-26-2464-26-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-en)
 - 2025-11-24 | `2025-11-24-2464-04-si` | Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-04-si)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-22 | `2025-11-22-2463-48-si` | Department of Census and Statistics - National Consumer Price Index - October 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-22-2025-11-22-2463-48-si)
 - 2025-11-22 | `2025-11-22-2463-48-en` | Department of Census and Statistics - National Consumer Price Index - October 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-22-2025-11-22-2463-48-en)
 - 2025-11-20 | `2025-11-20-2463-32-ta` | Election Commission - Filling of a Vacancy in the Office Member of the Naththandiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-32-ta)
-- 2025-11-20 | `2025-11-20-2463-32-si` | Election Commission - Filling of a Vacancy in the Office Member of the Naththandiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-32-si)
-- 2025-11-20 | `2025-11-20-2463-32-en` | Election Commission - Filling of a Vacancy in the Office Member of the Naththandiya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-32-en)
-- 2025-11-20 | `2025-11-20-2463-27-ta` | Election Commission - Filling of a Vacancy in the Office Member of the Yakkalamulla Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-20-2025-11-20-2463-27-ta)
 
 ---
 
