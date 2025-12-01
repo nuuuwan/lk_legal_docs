@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_00:32:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_03:20:08-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,295** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,356** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-11-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -52,15 +52,15 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-28 | `2025-11-28-2464-29-ta` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-ta)
 - 2025-11-28 | `2025-11-28-2464-29-si` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-si)
 - 2025-11-28 | `2025-11-28-2464-29-en` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-en)
+- 2025-11-27 | `2025-11-27-2464-27-ta` | Department of Local Government -Eastern Province - Elected New Chairman of Koralaipattu West Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-27-2025-11-27-2464-27-ta)
+- 2025-11-27 | `2025-11-27-2464-27-si` | Department of Local Government -Eastern Province - Elected New Chairman of Koralaipattu West Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-27-2025-11-27-2464-27-si)
+- 2025-11-27 | `2025-11-27-2464-27-en` | Department of Local Government -Eastern Province - Elected New Chairman of Koralaipattu West Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-27-2025-11-27-2464-27-en)
 - 2025-11-26 | `2025-11-26-2464-26-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-ta)
 - 2025-11-26 | `2025-11-26-2464-26-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-si)
 - 2025-11-26 | `2025-11-26-2464-26-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-26-2025-11-26-2464-26-en)
 - 2025-11-24 | `2025-11-24-2464-04-si` | Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-04-si)
 - 2025-11-24 | `2025-11-24-2464-04-en` | Public Utilities Commission of Sri Lanka - Under Section 10 (3) of the Sri Lanka Electricity Act No. 20 of 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-04-en)
 - 2025-11-24 | `2025-11-24-2464-03-ta` | Department of Local Government - Eastern Province - Notice of Suman Meeting of Under the Local Authorities Elections (Amendment) Act. No. 22 of 2012 Post of Chairman of the Ninthavur P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-03-ta)
-- 2025-11-24 | `2025-11-24-2464-03-si` | Department of Local Government - Eastern Province - Notice of Suman Meeting of Under the Local Authorities Elections (Amendment) Act. No. 22 of 2012 Post of Chairman of the Ninthavur P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-03-si)
-- 2025-11-24 | `2025-11-24-2464-03-en` | Department of Local Government - Eastern Province - Notice of Suman Meeting of Under the Local Authorities Elections (Amendment) Act. No. 22 of 2012 Post of Chairman of the Ninthavur P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-03-en)
-- 2025-11-24 | `2025-11-24-2464-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-24-2025-11-24-2464-01-si)
 
 ---
 
