@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_21:25:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_00:31:40-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,367** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-12-01**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,373** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-12-02**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-01-2025-12-01-2465-03-si",
-    "num": "2025-12-01-2465-03-si",
-    "date_str": "2025-12-01",
-    "description": "Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association",
+    "doc_id": "2025-12-02-2025-12-02-2465-09-si",
+    "num": "2025-12-02-2465-09-si",
+    "date_str": "2025-12-02",
+    "description": "Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-03_S.pdf",
-    "doc_number": "2465/03"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-09_S.pdf",
+    "doc_number": "2465/09"
 }
 ```
 
@@ -41,6 +41,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `2025-12-02-2465-09-si` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-si)
+- 2025-12-02 | `2025-12-02-2465-09-en` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-en)
+- 2025-12-02 | `2025-12-02-2465-08-si` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-si)
+- 2025-12-02 | `2025-12-02-2465-08-en` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-en)
 - 2025-12-01 | `2025-12-01-2465-03-si` | Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-03-si)
 - 2025-12-01 | `2025-12-01-2465-03-en` | Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-03-en)
 - 2025-12-01 | `2025-12-01-2465-01-ta` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-ta)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-28 | `2025-11-28-2464-30-ta` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-ta)
 - 2025-11-28 | `2025-11-28-2464-30-si` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-si)
 - 2025-11-28 | `2025-11-28-2464-30-en` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-en)
-- 2025-11-28 | `2025-11-28-2464-29-ta` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-ta)
-- 2025-11-28 | `2025-11-28-2464-29-si` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-si)
-- 2025-11-28 | `2025-11-28-2464-29-en` | Presidential Secretariat - Essential Public Services Act, No.61 of 1979  Declare the Essential Public Services | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-29-en)
-- 2025-11-27 | `2025-11-27-2464-27-ta` | Department of Local Government -Eastern Province - Elected New Chairman of Koralaipattu West Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-27-2025-11-27-2464-27-ta)
 
 ---
 
