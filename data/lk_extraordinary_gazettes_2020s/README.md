@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_15:25:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_18:34:17-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,378** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-12-02**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,388** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.7 GB**), from **2020-01-01** to **2025-12-02**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -46,6 +46,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-02 | `2025-12-02-2465-09-en` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-en)
 - 2025-12-02 | `2025-12-02-2465-08-si` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-si)
 - 2025-12-02 | `2025-12-02-2465-08-en` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-en)
+- 2025-12-01 | `2025-12-01-2465-04-ta` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-ta)
+- 2025-12-01 | `2025-12-01-2465-04-si` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-si)
+- 2025-12-01 | `2025-12-01-2465-04-en` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-en)
 - 2025-12-01 | `2025-12-01-2465-03-si` | Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-03-si)
 - 2025-12-01 | `2025-12-01-2465-03-en` | Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-03-en)
 - 2025-12-01 | `2025-12-01-2465-01-ta` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-ta)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-11-29 | `2025-11-29-2464-32-en` | Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-32-en)
 - 2025-11-28 | `2025-11-28-2464-31-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-ta)
 - 2025-11-28 | `2025-11-28-2464-31-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-si)
-- 2025-11-28 | `2025-11-28-2464-31-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-en)
-- 2025-11-28 | `2025-11-28-2464-30-ta` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-ta)
-- 2025-11-28 | `2025-11-28-2464-30-si` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-30-si)
 
 ---
 
