@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_15:24:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_18:34:18-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,396** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.8 GB**), from **2020-01-01** to **2025-12-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,398** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.8 GB**), from **2020-01-01** to **2025-12-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -52,6 +52,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-02 | `2025-12-02-2465-09-en` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-en)
 - 2025-12-02 | `2025-12-02-2465-08-si` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-si)
 - 2025-12-02 | `2025-12-02-2465-08-en` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-en)
+- 2025-12-01 | `2025-12-01-2465-05-si` | Ministry of Youth Affairs and Sports - Regulations Media by the Ministry of Youth Affairs and Sports under Section 41 Read with Section 31 of the Sports Law No. 25 of 1973 as Amended. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-05-si)
+- 2025-12-01 | `2025-12-01-2465-05-en` | Ministry of Youth Affairs and Sports - Regulations Media by the Ministry of Youth Affairs and Sports under Section 41 Read with Section 31 of the Sports Law No. 25 of 1973 as Amended. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-05-en)
 - 2025-12-01 | `2025-12-01-2465-04-ta` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-ta)
 - 2025-12-01 | `2025-12-01-2465-04-si` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-si)
 - 2025-12-01 | `2025-12-01-2465-04-en` | M/of Youth Affairs and Sports - Prevention of offences relating to sports Act, No. 24 of 2019 Regulation made Under Section 21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-04-en)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-01 | `2025-12-01-2465-03-en` | Sri Lanka Railways - Conducting the Special Election of office bearers as per the Ceylon Railway Daily Paid workers'' Benevolent Association | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-03-en)
 - 2025-12-01 | `2025-12-01-2465-01-ta` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-ta)
 - 2025-12-01 | `2025-12-01-2465-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-si)
-- 2025-12-01 | `2025-12-01-2465-01-en` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-en)
-- 2025-11-29 | `2025-11-29-2464-33-ta` | Colombo Municipal Council - Under Section 212 (6) of the Municipal Council Ordinance (Authority 252) Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-33-ta)
 
 ---
 
