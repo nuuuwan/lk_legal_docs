@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_12:31:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_15:24:53-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,388** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.8 GB**), from **2020-01-01** to **2025-12-02**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,396** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.8 GB**), from **2020-01-01** to **2025-12-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (7%), **TXT** (7%) & **🤗 Hugging Face** (7%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-02-2025-12-02-2465-09-ta",
-    "num": "2025-12-02-2465-09-ta",
-    "date_str": "2025-12-02",
-    "description": "Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)",
+    "doc_id": "2025-12-03-2025-12-03-2465-13-ta",
+    "num": "2025-12-03-2465-13-ta",
+    "date_str": "2025-12-03",
+    "description": "Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-09_T.pdf",
-    "doc_number": "2465/09"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-13_T.pdf",
+    "doc_number": "2465/13"
 }
 ```
 
@@ -41,6 +41,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `2025-12-03-2465-13-ta` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-ta)
+- 2025-12-03 | `2025-12-03-2465-13-si` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-si)
+- 2025-12-03 | `2025-12-03-2465-13-en` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-en)
+- 2025-12-03 | `2025-12-03-2465-11-ta` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-ta)
+- 2025-12-03 | `2025-12-03-2465-11-si` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-si)
+- 2025-12-03 | `2025-12-03-2465-11-en` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-en)
 - 2025-12-02 | `2025-12-02-2465-09-ta` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-ta)
 - 2025-12-02 | `2025-12-02-2465-09-si` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-si)
 - 2025-12-02 | `2025-12-02-2465-09-en` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-en)
@@ -55,12 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-01 | `2025-12-01-2465-01-si` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-si)
 - 2025-12-01 | `2025-12-01-2465-01-en` | Sri Lanka Customs - Rates of Exchange w.e.t 01.12.2025 to 07.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-01-2025-12-01-2465-01-en)
 - 2025-11-29 | `2025-11-29-2464-33-ta` | Colombo Municipal Council - Under Section 212 (6) of the Municipal Council Ordinance (Authority 252) Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-33-ta)
-- 2025-11-29 | `2025-11-29-2464-33-si` | Colombo Municipal Council - Under Section 212 (6) of the Municipal Council Ordinance (Authority 252) Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-33-si)
-- 2025-11-29 | `2025-11-29-2464-33-en` | Colombo Municipal Council - Under Section 212 (6) of the Municipal Council Ordinance (Authority 252) Budget - 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-33-en)
-- 2025-11-29 | `2025-11-29-2464-32-si` | Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-32-si)
-- 2025-11-29 | `2025-11-29-2464-32-en` | Presidential Secretariat - Emergency (Miscellaneous Provisions and Powers) Regulations, No. 1 of 2025. Appointment of Commissioner - General of  Essential Services. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-29-2025-11-29-2464-32-en)
-- 2025-11-28 | `2025-11-28-2464-31-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-ta)
-- 2025-11-28 | `2025-11-28-2464-31-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Regulations may be cited as the Emergency (Miscellaneous Provisions and Powers) Regulations, No.01 of 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-11-28-2025-11-28-2464-31-si)
 
 ---
 
