@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_00:30:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_03:21:00-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,432** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.9 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,434** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**2.9 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (8%), **TXT** (8%) & **🤗 Hugging Face** (8%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-08-2025-12-08-2466-02-ta",
-    "num": "2025-12-08-2466-02-ta",
+    "doc_id": "2025-12-08-2025-12-08-2466-04-si",
+    "num": "2025-12-08-2466-04-si",
     "date_str": "2025-12-08",
-    "description": "Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012",
+    "description": "Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-02_T.pdf",
-    "doc_number": "2466/02"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-04_S.pdf",
+    "doc_number": "2466/04"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `2025-12-08-2466-04-si` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-si)
+- 2025-12-08 | `2025-12-08-2466-04-en` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-en)
 - 2025-12-08 | `2025-12-08-2466-02-ta` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-ta)
 - 2025-12-08 | `2025-12-08-2466-02-si` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-si)
 - 2025-12-08 | `2025-12-08-2466-02-en` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-en)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-02 | `2025-12-02-2465-09-ta` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-ta)
 - 2025-12-02 | `2025-12-02-2465-09-si` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-si)
 - 2025-12-02 | `2025-12-02-2465-09-en` | Elections Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-09-en)
-- 2025-12-02 | `2025-12-02-2465-08-si` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-si)
-- 2025-12-02 | `2025-12-02-2465-08-en` | Register General's Department - Declaration of National Disaster Affected Areas | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-02-2025-12-02-2465-08-en)
 
 ---
 
