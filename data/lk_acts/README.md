@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_15:58:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_18:18:22-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,937** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2025-10-30**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**3,940** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2025-12-05**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 ```json
 {
     "doc_type": "lk_acts",
-    "doc_id": "2025-10-30-2025-10-30-22-2025-ta",
-    "num": "2025-10-30-22-2025-ta",
-    "date_str": "2025-10-30",
-    "description": "Personal Data Protection (Amendment)",
+    "doc_id": "2025-12-05-2025-12-05-23-2025-ta",
+    "num": "2025-12-05-23-2025-ta",
+    "date_str": "2025-12-05",
+    "description": "Appropriation",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2025/10/22-2025_T.pdf",
-    "doc_number": "22/2025"
+    "url_pdf": "https://documents.gov.lk/view/acts/2025/12/23-2025_T.pdf",
+    "doc_number": "23/2025"
 }
 ```
 
@@ -41,6 +41,9 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-05 | `2025-12-05-23-2025-ta` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-12-05-2025-12-05-23-2025-ta)
+- 2025-12-05 | `2025-12-05-23-2025-si` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-12-05-2025-12-05-23-2025-si)
+- 2025-12-05 | `2025-12-05-23-2025-en` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-12-05-2025-12-05-23-2025-en)
 - 2025-10-30 | `2025-10-30-22-2025-ta` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-ta)
 - 2025-10-30 | `2025-10-30-22-2025-si` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-si)
 - 2025-10-30 | `2025-10-30-22-2025-en` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-en)
@@ -58,9 +61,6 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 - 2025-09-10 | `2025-09-10-18-2025-en` | PresidentsÃ¢â¬â¢ Entitlements (Repeal) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-09-10-2025-09-10-18-2025-en)
 - 2025-09-03 | `2025-09-03-17-2025-ta` | Gambling Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-09-03-2025-09-03-17-2025-ta)
 - 2025-09-03 | `2025-09-03-17-2025-si` | Gambling Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-09-03-2025-09-03-17-2025-si)
-- 2025-09-03 | `2025-09-03-17-2025-en` | Gambling Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-09-03-2025-09-03-17-2025-en)
-- 2025-08-22 | `2025-08-22-16-2025-ta` | Rubber Control (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-08-22-2025-08-22-16-2025-ta)
-- 2025-08-22 | `2025-08-22-16-2025-si` | Rubber Control (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-08-22-2025-08-22-16-2025-si)
 
 ---
 
