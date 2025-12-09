@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_15:26:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_18:34:07-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,442** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,459** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (8%), **TXT** (8%) & **🤗 Hugging Face** (8%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-08-2025-12-08-2466-04-si",
-    "num": "2025-12-08-2466-04-si",
+    "doc_id": "2025-12-08-2025-12-08-2466-08-si",
+    "num": "2025-12-08-2466-08-si",
     "date_str": "2025-12-08",
-    "description": "Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha.",
+    "description": "Election Commission",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-04_S.pdf",
-    "doc_number": "2466/04"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-08_S.pdf",
+    "doc_number": "2466/08"
 }
 ```
 
@@ -41,6 +41,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `2025-12-08-2466-08-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-si)
+- 2025-12-08 | `2025-12-08-2466-08-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-en)
+- 2025-12-08 | `2025-12-08-2466-07-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-si)
+- 2025-12-08 | `2025-12-08-2466-07-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-en)
+- 2025-12-08 | `2025-12-08-2466-06-si` | Election Commission - Filling of Vacancy in the office of Member of Vice Chairman of Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-06-si)
+- 2025-12-08 | `2025-12-08-2466-06-en` | Election Commission - Filling of Vacancy in the office of Member of Vice Chairman of Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-06-en)
+- 2025-12-08 | `2025-12-08-2466-05-si` | Election Commission - Filling of Vacancy in the office of member of the Bulathsinhala Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-05-si)
+- 2025-12-08 | `2025-12-08-2466-05-en` | Election Commission - Filling of Vacancy in the office of member of the Bulathsinhala Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-05-en)
 - 2025-12-08 | `2025-12-08-2466-04-si` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-si)
 - 2025-12-08 | `2025-12-08-2466-04-en` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-en)
 - 2025-12-08 | `2025-12-08-2466-02-ta` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-ta)
@@ -53,14 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-05 | `2025-12-05-2465-18-en` | 2465/18 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-en)
 - 2025-12-04 | `2025-12-04-2465-17-ta` | Land Acquisition - Land Acquisition under Section 07 of the Land Acquisition Act Divisional Secretariat Medadumbera | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-04-2025-12-04-2465-17-ta)
 - 2025-12-04 | `2025-12-04-2465-17-si` | Land Acquisition - Land Acquisition under Section 07 of the Land Acquisition Act Divisional Secretariat Medadumbera | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-04-2025-12-04-2465-17-si)
-- 2025-12-04 | `2025-12-04-2465-17-en` | Land Acquisition - Land Acquisition under Section 07 of the Land Acquisition Act Divisional Secretariat Medadumbera | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-04-2025-12-04-2465-17-en)
-- 2025-12-03 | `2025-12-03-2465-15-si` | Kaluthara Municipal Council - Draft Budget for 2026. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-15-si)
-- 2025-12-03 | `2025-12-03-2465-13-ta` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-ta)
-- 2025-12-03 | `2025-12-03-2465-13-si` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-si)
-- 2025-12-03 | `2025-12-03-2465-13-en` | Department of Local Government - Northern Province - Appointed Mew Chairman of Valvettithurai Urban Council in Northern Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-13-en)
-- 2025-12-03 | `2025-12-03-2465-11-ta` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-ta)
-- 2025-12-03 | `2025-12-03-2465-11-si` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-si)
-- 2025-12-03 | `2025-12-03-2465-11-en` | 2465/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-03-2025-12-03-2465-11-en)
 
 ---
 

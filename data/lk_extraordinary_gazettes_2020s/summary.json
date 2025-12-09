@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-12-09 15:25:58",
-  "n_docs": 46442,
-  "n_docs_with_pdfs": 3706,
-  "n_docs_with_text": 3706,
+  "time_updated": "2025-12-09 18:33:45",
+  "n_docs": 46459,
+  "n_docs_with_pdfs": 3713,
+  "n_docs_with_text": 3713,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2025-12-08",
-  "dataset_size": 2996432078,
+  "dataset_size": 2998123482,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-08-2025-12-08-2466-04-si",
-    "num": "2025-12-08-2466-04-si",
+    "doc_id": "2025-12-08-2025-12-08-2466-08-si",
+    "num": "2025-12-08-2466-08-si",
     "date_str": "2025-12-08",
-    "description": "Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha.",
+    "description": "Election Commission",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-04_S.pdf",
-    "doc_number": "2466/04"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-08_S.pdf",
+    "doc_number": "2466/08"
   }
 }
