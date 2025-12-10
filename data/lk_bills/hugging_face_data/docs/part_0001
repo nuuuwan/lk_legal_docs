@@ -45178,6 +45178,39 @@
   },
   {
     "doc_type": "lk_bills",
+    "doc_id": "2025-11-26-2025-11-26-653-2025-en",
+    "num": "2025-11-26-653-2025-en",
+    "date_str": "2025-11-26",
+    "description": "Microfinance and Credit Regulatory Authority - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/653-2025_E.pdf",
+    "doc_number": "653/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-11-26-2025-11-26-653-2025-si",
+    "num": "2025-11-26-653-2025-si",
+    "date_str": "2025-11-26",
+    "description": "Microfinance and Credit Regulatory Authority - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/653-2025_S.pdf",
+    "doc_number": "653/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-11-26-2025-11-26-653-2025-ta",
+    "num": "2025-11-26-653-2025-ta",
+    "date_str": "2025-11-26",
+    "description": "Microfinance and Credit Regulatory Authority - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/653-2025_T.pdf",
+    "doc_number": "653/2025"
+  },
+  {
+    "doc_type": "lk_bills",
     "doc_id": "2025-11-28-2025-11-28-651-2025-en",
     "num": "2025-11-28-651-2025-en",
     "date_str": "2025-11-28",
@@ -45208,5 +45241,104 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/bills/2025/11/651-2025_T.pdf",
     "doc_number": "651/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-11-28-2025-11-28-652-2025-en",
+    "num": "2025-11-28-652-2025-en",
+    "date_str": "2025-11-28",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/652-2025_E.pdf",
+    "doc_number": "652/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-11-28-2025-11-28-652-2025-si",
+    "num": "2025-11-28-652-2025-si",
+    "date_str": "2025-11-28",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/652-2025_S.pdf",
+    "doc_number": "652/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-11-28-2025-11-28-652-2025-ta",
+    "num": "2025-11-28-652-2025-ta",
+    "date_str": "2025-11-28",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/11/652-2025_T.pdf",
+    "doc_number": "652/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-03-2025-12-03-655-2025-en",
+    "num": "2025-12-03-655-2025-en",
+    "date_str": "2025-12-03",
+    "description": "Universities (Amendment) - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/655-2025_E.pdf",
+    "doc_number": "655/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-03-2025-12-03-655-2025-si",
+    "num": "2025-12-03-655-2025-si",
+    "date_str": "2025-12-03",
+    "description": "Universities (Amendment) - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/655-2025_S.pdf",
+    "doc_number": "655/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-03-2025-12-03-655-2025-ta",
+    "num": "2025-12-03-655-2025-ta",
+    "date_str": "2025-12-03",
+    "description": "Universities (Amendment) - Bill",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/655-2025_T.pdf",
+    "doc_number": "655/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-05-2025-12-05-654-2025-en",
+    "num": "2025-12-05-654-2025-en",
+    "date_str": "2025-12-05",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/654-2025_E.pdf",
+    "doc_number": "654/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-05-2025-12-05-654-2025-si",
+    "num": "2025-12-05-654-2025-si",
+    "date_str": "2025-12-05",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/654-2025_S.pdf",
+    "doc_number": "654/2025"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2025-12-05-2025-12-05-654-2025-ta",
+    "num": "2025-12-05-654-2025-ta",
+    "date_str": "2025-12-05",
+    "description": "Colombo Port City Economic Commission (Amendment)",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/654-2025_T.pdf",
+    "doc_number": "654/2025"
   }
 ]
