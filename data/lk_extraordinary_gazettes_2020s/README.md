@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_21:24:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_00:29:46-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,475** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,516** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-10**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (8%), **TXT** (8%) & **🤗 Hugging Face** (8%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-08-2025-12-08-2466-08-si",
-    "num": "2025-12-08-2466-08-si",
-    "date_str": "2025-12-08",
-    "description": "Election Commission",
+    "doc_id": "2025-12-10-2025-12-10-2466-19-si",
+    "num": "2025-12-10-2466-19-si",
+    "date_str": "2025-12-10",
+    "description": "Kaluthara Municipal  Council - Draft Budget for 2026 (Amendment )",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-08_S.pdf",
-    "doc_number": "2466/08"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-19_S.pdf",
+    "doc_number": "2466/19"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `2025-12-10-2466-19-si` | Kaluthara Municipal  Council - Draft Budget for 2026 (Amendment ) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-19-si)
+- 2025-12-09 | `2025-12-09-2466-11-si` | Department of Local Government - Northern Province - Notify to Convene the Meeting for the Election to fill the Vacant of Chairman of Maritime Pattu Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-09-2025-12-09-2466-11-si)
+- 2025-12-09 | `2025-12-09-2466-11-en` | Department of Local Government - Northern Province - Notify to Convene the Meeting for the Election to fill the Vacant of Chairman of Maritime Pattu Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-09-2025-12-09-2466-11-en)
 - 2025-12-08 | `2025-12-08-2466-08-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-si)
 - 2025-12-08 | `2025-12-08-2466-08-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-en)
 - 2025-12-08 | `2025-12-08-2466-07-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-ta)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-08 | `2025-12-08-2466-02-si` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-si)
 - 2025-12-08 | `2025-12-08-2466-02-en` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-en)
 - 2025-12-08 | `2025-12-08-2466-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-01-si)
-- 2025-12-08 | `2025-12-08-2466-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-01-en)
-- 2025-12-05 | `2025-12-05-2465-18-ta` | Election Commission - Notice Under  Section 66(2) H.G.C. Vikum and L.V.L. Wijesiri for Dehiwala - Mount Lavinia M/C and Bandarawela M/C. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-ta)
-- 2025-12-05 | `2025-12-05-2465-18-si` | 2465/18 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-si)
 
 ---
 
