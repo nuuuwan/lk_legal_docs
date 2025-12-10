@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_09:37:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_12:31:23-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,459** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,475** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.0 GB**), from **2020-01-01** to **2025-12-08**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (8%), **TXT** (8%) & **🤗 Hugging Face** (8%)
 
@@ -43,6 +43,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 - 2025-12-08 | `2025-12-08-2466-08-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-si)
 - 2025-12-08 | `2025-12-08-2466-08-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-en)
+- 2025-12-08 | `2025-12-08-2466-07-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-ta)
 - 2025-12-08 | `2025-12-08-2466-07-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-si)
 - 2025-12-08 | `2025-12-08-2466-07-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-en)
 - 2025-12-08 | `2025-12-08-2466-06-si` | Election Commission - Filling of Vacancy in the office of Member of Vice Chairman of Karandeniya Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-06-si)
@@ -51,6 +52,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-08 | `2025-12-08-2466-05-en` | Election Commission - Filling of Vacancy in the office of member of the Bulathsinhala Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-05-en)
 - 2025-12-08 | `2025-12-08-2466-04-si` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-si)
 - 2025-12-08 | `2025-12-08-2466-04-en` | Election Commission - Filling of a vacancy in the office of the member of the Elpitiya Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-04-en)
+- 2025-12-08 | `2025-12-08-2466-03-si` | Office of the District Secretary - Gampaha - Annual Feast of St. Sebastian's National Shrine - Kadana 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-03-si)
+- 2025-12-08 | `2025-12-08-2466-03-en` | Office of the District Secretary - Gampaha - Annual Feast of St. Sebastian's National Shrine - Kadana 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-03-en)
 - 2025-12-08 | `2025-12-08-2466-02-ta` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-ta)
 - 2025-12-08 | `2025-12-08-2466-02-si` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-si)
 - 2025-12-08 | `2025-12-08-2466-02-en` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-02-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-08 | `2025-12-08-2466-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-01-en)
 - 2025-12-05 | `2025-12-05-2465-18-ta` | Election Commission - Notice Under  Section 66(2) H.G.C. Vikum and L.V.L. Wijesiri for Dehiwala - Mount Lavinia M/C and Bandarawela M/C. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-ta)
 - 2025-12-05 | `2025-12-05-2465-18-si` | 2465/18 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-si)
-- 2025-12-05 | `2025-12-05-2465-18-en` | 2465/18 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-05-2025-12-05-2465-18-en)
-- 2025-12-04 | `2025-12-04-2465-17-ta` | Land Acquisition - Land Acquisition under Section 07 of the Land Acquisition Act Divisional Secretariat Medadumbera | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-04-2025-12-04-2465-17-ta)
-- 2025-12-04 | `2025-12-04-2465-17-si` | Land Acquisition - Land Acquisition under Section 07 of the Land Acquisition Act Divisional Secretariat Medadumbera | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-04-2025-12-04-2465-17-si)
 
 ---
 
