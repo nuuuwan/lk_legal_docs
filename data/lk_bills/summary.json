@@ -2,34 +2,34 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2025-12-11 09:58:22",
-  "n_docs": 4122,
-  "n_docs_with_pdfs": 4121,
-  "n_docs_with_text": 4121,
+  "time_updated": "2025-12-11 11:53:19",
+  "n_docs": 4125,
+  "n_docs_with_pdfs": 4124,
+  "n_docs_with_text": 4124,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
   "date_str_max": "2025-12-05",
-  "dataset_size": 1832784303,
+  "dataset_size": 1834968929,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2025-12-05-2025-12-05-654-2025-ta",
-    "num": "2025-12-05-654-2025-ta",
+    "doc_id": "2025-12-05-2025-12-05-656-2025-ta",
+    "num": "2025-12-05-656-2025-ta",
     "date_str": "2025-12-05",
-    "description": "Colombo Port City Economic Commission (Amendment)",
+    "description": "Institute of Real Estate Professionals, Sri Lanka - Bill",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/654-2025_T.pdf",
-    "doc_number": "654/2025"
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/656-2025_T.pdf",
+    "doc_number": "656/2025"
   }
 }
