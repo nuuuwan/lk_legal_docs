@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_10:03:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_12:00:46-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -22,7 +22,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_09:55:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_11:55:08-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
