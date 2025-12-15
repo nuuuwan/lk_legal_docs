@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_12:36:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_15:33:27-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,577** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.3 GB**), from **2020-01-01** to **2025-12-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,592** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**3.4 GB**), from **2020-01-01** to **2025-12-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (9%), **TXT** (9%) & **🤗 Hugging Face** (9%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-12-2025-12-12-2466-33-ta",
-    "num": "2025-12-12-2466-33-ta",
+    "doc_id": "2025-12-12-2025-12-12-2466-46-si",
+    "num": "2025-12-12-2466-46-si",
     "date_str": "2025-12-12",
-    "description": "Sri Lanka Parliament - Convening of the Parliament",
+    "description": "Election Commission - Filling of a Vacancy in the office of the Member of the Kataragama Pradeshiya Sabha.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-33_T.pdf",
-    "doc_number": "2466/33"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-46_S.pdf",
+    "doc_number": "2466/46"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `2025-12-12-2466-46-si` | Election Commission - Filling of a Vacancy in the office of the Member of the Kataragama Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-46-si)
+- 2025-12-12 | `2025-12-12-2466-46-en` | Election Commission - Filling of a Vacancy in the office of the Member of the Kataragama Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-46-en)
+- 2025-12-12 | `2025-12-12-2466-45-si` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-si)
+- 2025-12-12 | `2025-12-12-2466-45-en` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-en)
 - 2025-12-12 | `2025-12-12-2466-33-ta` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-ta)
 - 2025-12-12 | `2025-12-12-2466-33-si` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-si)
 - 2025-12-12 | `2025-12-12-2466-33-en` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-en)
+- 2025-12-11 | `2025-12-11-2466-26-ta` | 2466/26 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-26-ta)
+- 2025-12-11 | `2025-12-11-2466-26-si` | 2466/26 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-26-si)
+- 2025-12-11 | `2025-12-11-2466-26-en` | 2466/26 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-26-en)
+- 2025-12-11 | `2025-12-11-2466-24-ta` | 2466/24 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-24-ta)
+- 2025-12-11 | `2025-12-11-2466-24-si` | 2466/24 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-24-si)
+- 2025-12-11 | `2025-12-11-2466-24-en` | 2466/24 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-24-en)
+- 2025-12-11 | `2025-12-11-2466-23-ta` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-ta)
+- 2025-12-11 | `2025-12-11-2466-23-si` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-si)
+- 2025-12-11 | `2025-12-11-2466-23-en` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-en)
 - 2025-12-10 | `2025-12-10-2466-19-si` | Kaluthara Municipal  Council - Draft Budget for 2026 (Amendment ) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-19-si)
 - 2025-12-10 | `2025-12-10-2466-18-ta` | Sri Lanka Tourism - Tourism Act No 38 of 2005 order Under Section 53 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-18-ta)
 - 2025-12-10 | `2025-12-10-2466-18-si` | Sri Lanka Tourism - Tourism Act No 38 of 2005 order Under Section 53 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-18-si)
 - 2025-12-10 | `2025-12-10-2466-18-en` | Sri Lanka Tourism - Tourism Act No 38 of 2005 order Under Section 53 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-18-en)
-- 2025-12-10 | `2025-12-10-2466-17-si` | Department of Local Government Eastern Province -  Notice of Summon meeting of Under the local Authorities Elections Amendment Act No 22 of 2012 (Irakkamam Pradeshiya Sabha ) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-17-si)
-- 2025-12-10 | `2025-12-10-2466-17-en` | Department of Local Government Eastern Province -  Notice of Summon meeting of Under the local Authorities Elections Amendment Act No 22 of 2012 (Irakkamam Pradeshiya Sabha ) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-17-en)
-- 2025-12-10 | `2025-12-10-2466-16-ta` | Elections Commission - Notice under section 10 A (1)(a) Baddegama Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-16-ta)
-- 2025-12-10 | `2025-12-10-2466-16-si` | Elections Commission - Notice under section 10 A (1)(a) Baddegama Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-16-si)
-- 2025-12-10 | `2025-12-10-2466-16-en` | Elections Commission - Notice under section 10 A (1)(a) Baddegama Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-10-2025-12-10-2466-16-en)
-- 2025-12-09 | `2025-12-09-2466-11-ta` | Department of Local Government - Northern Province - Notify to Convene the Meeting for the Election to fill the Vacant of Chairman of Maritime Pattu Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-09-2025-12-09-2466-11-ta)
-- 2025-12-09 | `2025-12-09-2466-11-si` | Department of Local Government - Northern Province - Notify to Convene the Meeting for the Election to fill the Vacant of Chairman of Maritime Pattu Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-09-2025-12-09-2466-11-si)
-- 2025-12-09 | `2025-12-09-2466-11-en` | Department of Local Government - Northern Province - Notify to Convene the Meeting for the Election to fill the Vacant of Chairman of Maritime Pattu Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-09-2025-12-09-2466-11-en)
-- 2025-12-08 | `2025-12-08-2466-08-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-ta)
-- 2025-12-08 | `2025-12-08-2466-08-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-si)
-- 2025-12-08 | `2025-12-08-2466-08-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-08-en)
-- 2025-12-08 | `2025-12-08-2466-07-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-ta)
-- 2025-12-08 | `2025-12-08-2466-07-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-08-2025-12-08-2466-07-si)
 
 ---
 
