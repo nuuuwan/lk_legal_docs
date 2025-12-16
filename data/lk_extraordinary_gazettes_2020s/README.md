@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_12:34:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_15:27:31-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,602** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**4.7 GB**), from **2020-01-01** to **2025-12-15**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,606** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**4.8 GB**), from **2020-01-01** to **2025-12-15**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (12%), **TXT** (12%) & **🤗 Hugging Face** (12%)
 
@@ -47,6 +47,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-12 | `2025-12-12-2466-46-en` | Election Commission - Filling of a Vacancy in the office of the Member of the Kataragama Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-46-en)
 - 2025-12-12 | `2025-12-12-2466-45-si` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-si)
 - 2025-12-12 | `2025-12-12-2466-45-en` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-en)
+- 2025-12-12 | `2025-12-12-2466-44-ta` | Ministry of Justice and National Integration - Order under Section 02 of the Transfer of Offenders Act, No. of 1995 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-44-ta)
 - 2025-12-12 | `2025-12-12-2466-33-ta` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-ta)
 - 2025-12-12 | `2025-12-12-2466-33-si` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-si)
 - 2025-12-12 | `2025-12-12-2466-33-en` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-en)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-11 | `2025-12-11-2466-24-en` | 2466/24 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-24-en)
 - 2025-12-11 | `2025-12-11-2466-23-ta` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-ta)
 - 2025-12-11 | `2025-12-11-2466-23-si` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-si)
-- 2025-12-11 | `2025-12-11-2466-23-en` | 2466/23 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-11-2025-12-11-2466-23-en)
 
 ---
 
