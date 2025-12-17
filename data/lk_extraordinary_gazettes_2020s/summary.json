@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-12-18 00:32:41",
-  "n_docs": 46606,
-  "n_docs_with_pdfs": 7618,
-  "n_docs_with_text": 7618,
+  "time_updated": "2025-12-18 03:23:42",
+  "n_docs": 46661,
+  "n_docs_with_pdfs": 7822,
+  "n_docs_with_text": 7822,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-12-15",
-  "dataset_size": 6520811598,
+  "date_str_max": "2025-12-17",
+  "dataset_size": 6686864795,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-15-2025-12-15-2467-01-si",
-    "num": "2025-12-15-2467-01-si",
-    "date_str": "2025-12-15",
-    "description": "Sri Lanka Customs - Rates of Exchange w.e.f. 15.12.2025 to 21.12.2025",
+    "doc_id": "2025-12-17-2025-12-17-2467-51-ta",
+    "num": "2025-12-17-2467-51-ta",
+    "date_str": "2025-12-17",
+    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-01_S.pdf",
-    "doc_number": "2467/01"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-51_T.pdf",
+    "doc_number": "2467/51"
   }
 }
