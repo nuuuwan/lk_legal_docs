@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_18:36:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_21:25:36-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,742** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.4 GB**), from **2020-01-01** to **2025-12-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,744** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.4 GB**), from **2020-01-01** to **2025-12-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (18%), **TXT** (18%) & **🤗 Hugging Face** (18%)
 
@@ -44,6 +44,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-17 | `2025-12-17-2467-51-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-51-ta)
 - 2025-12-17 | `2025-12-17-2467-51-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-51-si)
 - 2025-12-17 | `2025-12-17-2467-51-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-51-en)
+- 2025-12-17 | `2025-12-17-2467-49-si` | Minster of Transport, Highways and Urban Development - The National Thoroughfares Act. No. 40 of 2008 Revision of Toll Rates (Expressway Net Work). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-49-si)
+- 2025-12-17 | `2025-12-17-2467-49-en` | Minster of Transport, Highways and Urban Development - The National Thoroughfares Act. No. 40 of 2008 Revision of Toll Rates (Expressway Net Work). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-49-en)
 - 2025-12-17 | `2025-12-17-2467-48-ta` | 2467/48 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-48-ta)
 - 2025-12-17 | `2025-12-17-2467-48-si` | 2467/48 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-48-si)
 - 2025-12-16 | `2025-12-16-2467-40-ta` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-ta)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-12 | `2025-12-12-2466-44-ta` | Ministry of Justice and National Integration - Order under Section 02 of the Transfer of Offenders Act, No. of 1995 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-44-ta)
 - 2025-12-12 | `2025-12-12-2466-34-si` | Land Title settlement Dept - Kongodamulla, Divulapitiya D/S/D, Gampaha District (7895) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-34-si)
 - 2025-12-12 | `2025-12-12-2466-34-en` | Land Title settlement Dept - Kongodamulla, Divulapitiya D/S/D, Gampaha District (7895) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-34-en)
-- 2025-12-12 | `2025-12-12-2466-33-ta` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-ta)
-- 2025-12-12 | `2025-12-12-2466-33-si` | Sri Lanka Parliament - Convening of the Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-33-si)
 
 ---
 
