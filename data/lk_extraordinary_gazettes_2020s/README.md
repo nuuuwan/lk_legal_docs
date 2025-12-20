@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--20_09:38:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--20_12:31:48-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,744** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.4 GB**), from **2020-01-01** to **2025-12-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,748** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.4 GB**), from **2020-01-01** to **2025-12-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (18%), **TXT** (18%) & **🤗 Hugging Face** (18%)
 
@@ -51,6 +51,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-16 | `2025-12-16-2467-40-ta` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-ta)
 - 2025-12-16 | `2025-12-16-2467-40-si` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-si)
 - 2025-12-16 | `2025-12-16-2467-40-en` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-en)
+- 2025-12-15 | `2025-12-15-2467-03-si` | 2467/03 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-03-si)
+- 2025-12-15 | `2025-12-15-2467-03-en` | 2467/03 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-03-en)
 - 2025-12-15 | `2025-12-15-2467-01-si` | Sri Lanka Customs - Rates of Exchange w.e.f. 15.12.2025 to 21.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-01-si)
 - 2025-12-15 | `2025-12-15-2467-01-en` | Sri Lanka Customs - Rates of Exchange w.e.f. 15.12.2025 to 21.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-01-en)
 - 2025-12-12 | `2025-12-12-2466-46-si` | Election Commission - Filling of a Vacancy in the office of the Member of the Kataragama Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-46-si)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-12 | `2025-12-12-2466-45-si` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-si)
 - 2025-12-12 | `2025-12-12-2466-45-en` | Elections Commission - Notice under Section 10 A (1)(a) Padiyathalawa Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-45-en)
 - 2025-12-12 | `2025-12-12-2466-44-ta` | Ministry of Justice and National Integration - Order under Section 02 of the Transfer of Offenders Act, No. of 1995 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-44-ta)
-- 2025-12-12 | `2025-12-12-2466-34-si` | Land Title settlement Dept - Kongodamulla, Divulapitiya D/S/D, Gampaha District (7895) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-34-si)
-- 2025-12-12 | `2025-12-12-2466-34-en` | Land Title settlement Dept - Kongodamulla, Divulapitiya D/S/D, Gampaha District (7895) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-12-2025-12-12-2466-34-en)
 
 ---
 
