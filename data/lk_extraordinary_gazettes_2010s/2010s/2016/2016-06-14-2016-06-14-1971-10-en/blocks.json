@@ -1,0 +1,510 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      84.21,
+      72.13,
+      537.81,
+      93.33
+    ],
+    "text": "I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd\u00a7 ckrcfha w;s \u00fafYI .ei\u00dc m;%h - 2016'06'14PART I : SEC. (I) - GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 14.06.20161A",
+    "fonts": [
+      "FMAbabld,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.85,
+      743.27,
+      299.88,
+      752.13
+    ],
+    "text": "This Gazette Extraordinary can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      522.81,
+      751.69,
+      534.81,
+      762.76
+    ],
+    "text": "1A",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.89,
+      328.09,
+      360.8,
+      339.16
+    ],
+    "text": "CUSTOMS NOTIFICATION",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.85,
+      352.09,
+      467.86,
+      363.16
+    ],
+    "text": "Regulation under Section 101 of the Customs Ordinance (Chapter 235)",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.05,
+      376.09,
+      454.64,
+      387.16
+    ],
+    "text": "DETERMINATION OF CUSTOMS VALUE OF MOTOR VEHICLES",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.85,
+      400.09,
+      539.93,
+      471.16
+    ],
+    "text": "IN pursuance of the powers vested in me by Section 101(1)(h) of the Customs Ordinance (Chapter 235) as amended, I,Ravi Karunanayake, Minister of Finance, do hereby make a regulation to prescribe a method for determination of Customsvalue of Motor Vehicles imported and classifiable, within the HS headings 87.02, 87.03, 87.04, 87.05 and 87.11 of theHarmonized Commodity Description and Coding System. All Customs duty and other duties and levies payable at the timeof importation of motor vehicles shall be calculated on the basis of such Customs value(s). This regulation shall be inforce from June 14, 2016 and continue until further notice.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      47.85,
+      484.09,
+      540.03,
+      519.16
+    ],
+    "text": "Customs value of motor vehicles classifiable within the HS heading of 87.02, 87.03, 87.04, 87.05 and 87.11 of theHarmonized Commodity Description and Coding System shall be the aggregate of following items [(1)A or (1)B and (2), (3),(4) and (5)].",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.25,
+      532.09,
+      101.85,
+      543.16
+    ],
+    "text": "(1)",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      112.05,
+      556.09,
+      323.86,
+      567.16
+    ],
+    "text": "(A)Customs Value of a brand new motor vehicle :",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.85,
+      580.09,
+      539.9,
+      603.16
+    ],
+    "text": "The Customs value of a brand new motor vehicle shall be the transacted value which should be provedwith invoice issued by the manufacturer or certified by the manufacturer of such vehicle ;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      112.05,
+      616.09,
+      452.87,
+      627.16
+    ],
+    "text": "(B)Customs Value of a motor vehicle, not coming under the category (A) above :",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.85,
+      640.09,
+      539.92,
+      675.16
+    ],
+    "text": "Customs value of a motor vehicle, not coming under the category (A) above shall be the value, that shouldnot be below 85% of the transacted value (excluding applicable of local taxes) of a similar or identicalbrand new vehicle at the country of export of such vehicle.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.25,
+      688.09,
+      286.07,
+      699.16
+    ],
+    "text": "(2)Cost of transport to the Port of Sri Lanka ;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.49,
+      302.82,
+      387.11,
+      320.54
+    ],
+    "text": "Government Notifications",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.25,
+      145.95,
+      330.45,
+      164.58
+    ],
+    "text": "w;s \u00fafYI",
+    "fonts": [
+      "FMAbabld,Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      135.45,
+      225.95,
+      452.27,
+      238.37
+    ],
+    "text": "wxl 1971$10 - 2016 cqks ui 14 jeks w`.yrejdod - 2016'06'14",
+    "fonts": [
+      "FMAbabld,Bold"
+    ],
+    "sizes": [
+      12.585705757141113
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.49,
+      239.17,
+      387.21,
+      250.24
+    ],
+    "text": "No. 1971/10 - TUESDAY, JUNE 14, 2016",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.89,
+      160.08,
+      537.75,
+      215.46
+    ],
+    "text": "EXTRAORDINARYThe Gazette of the Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      14.0,
+      25.45584487915039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.65,
+      260.75,
+      441.89,
+      297.09
+    ],
+    "text": "(Published by Authority)PART I : SECTION (I) \u2014 GENERAL",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      8.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.69,
+      98.25,
+      523.86,
+      147.93
+    ],
+    "text": "Y%S ,xld m%cd;dka;%sl iudcjd\u00a7 ckrcfha .ei\u00dc m;%h",
+    "fonts": [
+      "FMAbabld,Bold"
+    ],
+    "sizes": [
+      31.824520111083984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.15,
+      72.37,
+      508.75,
+      93.33
+    ],
+    "text": "I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd\u00a7 ckrcfha w;s \u00fafYI .ei\u00dc m;%h - 2016'06'14PART I : SEC. (I) - GAZETTE EXTRA ORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 14.06.20162A",
+    "fonts": [
+      "FMAbabld,Bold",
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.55,
+      111.13,
+      295.75,
+      122.2
+    ],
+    "text": "(3)Cost of Insurance to the Port of Sri Lanka ;",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.55,
+      135.13,
+      509.39,
+      146.2
+    ],
+    "text": "(4)Loading, unloading and handling charges associated with transport to the Port of Sri Lanaka and",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.55,
+      159.13,
+      544.27,
+      170.2
+    ],
+    "text": "(5)Brokerage and selling commission incurred by the buyer until the vehicle reaches the port of Sri Lanka.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.15,
+      183.13,
+      547.15,
+      206.2
+    ],
+    "text": "Period between the date of first registration and the date of shipment (date of Bill of Lading) of the relevant vehicleshall be taken for the computation of the period of use of such vehicle.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.15,
+      219.13,
+      547.23,
+      278.2
+    ],
+    "text": "The Gazette Notification No. 1968/11 of May 25, 2016, published under Article 101(1)(h) of the CustomsOrdinance (Chapter 235), as amended, is hereby repealed with effective from June 14, 2016. However for the purpose ofdetermination of Customs value of motor vehicles, imported based on the Letter(s) of Credit established on or before18th October 2015 and not ameneded subsequently, the Gazette Notification No. 1901/3 dated February 10, 2015 shallbe deemed to be in effect and applicable.",
+    "fonts": [
+      "TimesNewRoman",
+      "TimesNewRoman,Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      444.91,
+      303.13,
+      529.52,
+      326.2
+    ],
+    "text": "Ravi Karunanayake,Minister of Finance.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.15,
+      339.13,
+      139.75,
+      374.2
+    ],
+    "text": "Ministry of Finance,Colombo 01,June 14, 2016.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.15,
+      387.13,
+      85.75,
+      398.2
+    ],
+    "text": "07-520",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.35,
+      735.04,
+      442.12,
+      742.79
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      7.0
+    ]
+  }
+]
