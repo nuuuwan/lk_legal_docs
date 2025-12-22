@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-12-22 12:39:43",
-  "n_docs": 46821,
-  "n_docs_with_pdfs": 8607,
-  "n_docs_with_text": 8607,
+  "time_updated": "2025-12-22 15:29:15",
+  "n_docs": 46868,
+  "n_docs_with_pdfs": 8663,
+  "n_docs_with_text": 8663,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2025-12-19",
-  "dataset_size": 7417731967,
+  "dataset_size": 7446244418,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -18,18 +18,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-19-2025-12-19-2467-77-si",
-    "num": "2025-12-19-2467-77-si",
+    "doc_id": "2025-12-19-2025-12-19-2467-77-ta",
+    "num": "2025-12-19-2467-77-ta",
     "date_str": "2025-12-19",
     "description": "Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-77_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-77_T.pdf",
     "doc_number": "2467/77"
   }
 }
