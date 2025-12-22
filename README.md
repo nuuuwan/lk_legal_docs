@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **111,318** documents (**29.8 GB**).
+**4** datasets, with **111,318** documents (**30.3 GB**).
 
 ## 001 ⚖️ Acts
 
@@ -40,15 +40,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes 2020S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_21:37:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_00:33:48-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,868** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.7 GB**), from **2020-01-01** to **2025-12-19**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,868** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**7.9 GB**), from **2020-01-01** to **2025-12-19**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (19%), **TXT** (19%) & **🤗 Hugging Face** (19%)
+- In **JSON**, **PDF** (20%), **TXT** (20%) & **🤗 Hugging Face** (20%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -58,15 +58,15 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 004 ⚖️ Extraordinary Gazettes 2010S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_21:31:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_00:36:48-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**56,379** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s) (**13.5 GB**), from **2010-01-01** to **2019-12-31**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**56,379** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s) (**13.7 GB**), from **2010-01-01** to **2019-12-31**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (52%), **TXT** (52%) & **🤗 Hugging Face** (52%)
+- In **JSON**, **PDF** (53%), **TXT** (53%) & **🤗 Hugging Face** (53%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
