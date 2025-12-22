@@ -1,0 +1,877 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      155.14,
+      507.95,
+      179.04
+    ],
+    "text": "The Gazette of the Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      23.899778366088867
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.2,
+      92.25,
+      525.31,
+      122.46
+    ],
+    "text": "\u027c \u0dbd\u0d82\u0d9a\u0dcf \u021d\u0da2\u0dcf\u0dad\u0dcf\u01e6\u01b5\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u01cf \u0da2\u0db1\u0dbb\u0da2\u0dd9\u024f \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dba",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      30.201881408691406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      265.2,
+      114.15,
+      334.54,
+      144.45
+    ],
+    "text": "\u0d85\u01af \u026a\u0dd9\u0dc1\u0dc2",
+    "fonts": [
+      "IskoolaPota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.286903381347656,
+      15.33334732055664,
+      30.29328727722168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.76,
+      211.26,
+      417.96,
+      222.3
+    ],
+    "text": "\u0d85\u0d82\u0d9a 1966/4 - 2016 \u0db8\u0dd0\u0250 \u0db8\u0dc3 09 \u0dc0\u0dd0\u01e7 \u0dc3\u01ff\u0daf\u0dcf - 2016.05.09",
+    "fonts": [
+      "IskoolaPota,Bold"
+    ],
+    "sizes": [
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.48,
+      221.37,
+      374.76,
+      235.53
+    ],
+    "text": "No. 1966/4 \u2013 MONDAY, MAY, 09, 2016",
+    "fonts": [
+      "IskoolaPota,Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      4.079591751098633,
+      9.118988037109375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.4,
+      184.69,
+      350.38,
+      196.9
+    ],
+    "text": "EXTRAORDINARY",
+    "fonts": [
+      "ArialUnicodeMS,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.8,
+      346.44,
+      284.75,
+      356.52
+    ],
+    "text": "LAND ACQUISITION (AMENDMENT) ACT No. 28",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.36,
+      357.96,
+      228.36,
+      368.04
+    ],
+    "text": "OF 1964 (CHAPTER 460)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.28,
+      369.48,
+      218.28,
+      391.08
+    ],
+    "text": "Notice under Section 7",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      121.2,
+      392.74,
+      286.68,
+      416.0
+    ],
+    "text": "Land Mini\u2019s Ref. No.: 4/3/4/2011/D/187.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.28,
+      416.95,
+      286.68,
+      434.48
+    ],
+    "text": "My Ref. No.: 3/Kata/\u0d89\u0d85\u01ae/77.",
+    "fonts": [
+      "IskoolaPota",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      436.13,
+      286.67,
+      505.76
+    ],
+    "text": "I, hereby give notice, under Sub-section (1) of Section 7 of Land Acquisition Act, No. 28 of 1964 (Amendment) that the Government intends to acquire the following land which is required for a Public Purpose.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.998800277709961
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      507.19,
+      223.32,
+      526.36
+    ],
+    "text": "Description of the land to be acquired:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      527.84,
+      286.68,
+      618.32
+    ],
+    "text": "An allotment of land called Imbulgaswadiyawatta in total Extent of 0.8133 Hectare depicted as Lot No. 01 in the Preliminary Plan. Gam. 3906 prepared by the Senior Superintendent of Surveys-Gampala, situated in the village called Kadirana North in Doonagaha Pattuwa Minor Division in the Divisional Secretary\u2019s Division of Katana in Gampaha District of the Western province and morefully described as follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.92,
+      630.08,
+      191.4,
+      640.16
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.28,
+      637.04,
+      112.44,
+      657.24
+    ],
+    "text": "Lot No. 01",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      1.9198079109191895,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      657.18,
+      286.71,
+      682.16
+    ],
+    "text": "Name of the Land: Imbulgaswadiyawatta; Description: Home garden, six permanent buildings, two temporary",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      1.9198079109191895,
+      9.82580280303955,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.56,
+      346.88,
+      539.88,
+      380.0
+    ],
+    "text": "buildings, water tank and a cement constructed well; Claimant: Land Reforms Commission; Extent: 0.8133 Hectare.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.56,
+      381.42,
+      539.87,
+      547.76
+    ],
+    "text": "All persons interested in the aforesaid land are hereby required to appear personally or by agents duly authorized in writing before me at the Katana Divisional Secretariat on 11th July, 2016 at 9.30 a.m. and are hereby requested to notify to me in writing (in duplicate) on or before 04th July, 2016 the nature of their interest in the land, the particulars of their claims for compensation for the acquisition of the said lands, the amount of compensation and the details of the computation of such amount. All deeds and documents in support of the claims should be produced before me at the inquiry.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613,
+      11.038795471191406,
+      19.91800880432129
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.56,
+      550.82,
+      537.72,
+      683.6
+    ],
+    "text": "K. G. H. H. R. KIRIELLA, Divisional Secretary, Katana. Divisional Secretariat, Katana, 04th May, 2016. 05 - 751",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613,
+      17.998199462890625,
+      19.91800880432129
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.84,
+      759.4,
+      307.5,
+      767.32
+    ],
+    "text": "This Gazette Extraordinary can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      527.28,
+      770.24,
+      539.64,
+      780.32
+    ],
+    "text": "1A",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.0,
+      256.21,
+      343.98,
+      265.33
+    ],
+    "text": "(Published by Authority)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      9.118988037109375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.68,
+      266.25,
+      380.82,
+      293.15
+    ],
+    "text": "PART III \u2014 LANDS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      17.998199462890625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      219.12,
+      293.85,
+      372.6,
+      315.93
+    ],
+    "text": "Land Acquisition Notices",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      13.918607711791992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.64,
+      84.8,
+      509.58,
+      104.44
+    ],
+    "text": "2 A III \u0dd9\u0d9a\u02a3\u0da7\u0dc3 - \u027c \u0dbd\u0d82\u0d9a\u0dcf \u021d\u0da2\u0dcf\u0dad\u0dcf\u01e6\u01b5\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u01cf \u0da2\u0db1\u0dbb\u0da2\u0dd9\u024f \u0d85\u01af \u026a\u0dd9\u0dc1\u0dc2 \u0d9c\u0dd0\u0dc3\u0178 \u0db4\u01b4\u0dba - 2016.05.09 PART III \u2013 GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA \u2013 09.05.2016",
+    "fonts": [
+      "IskoolaPota,Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.479351997375488,
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.32,
+      774.53,
+      412.62,
+      781.49
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      6.959303855895996
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.04,
+      118.43,
+      244.68,
+      129.47
+    ],
+    "text": "LAND ACQUISITION NOTICES",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.879112243652344,
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.16,
+      130.92,
+      289.32,
+      152.52
+    ],
+    "text": "THE LAND ACQUISITION ACT (CHAPTER 460)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      153.72,
+      281.47,
+      163.8
+    ],
+    "text": "AS AMENDED BY THE LAND ACQUISITION",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.0,
+      165.24,
+      264.12,
+      175.32
+    ],
+    "text": "(AMENDMENT) ACT, No. 28 OF 1964",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.24,
+      176.76,
+      225.24,
+      198.36
+    ],
+    "text": "Notice under Section 7",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.84,
+      199.8,
+      294.6,
+      221.11
+    ],
+    "text": "Reference No.: NE/3/1/8/Acquisition/156.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      222.07,
+      294.6,
+      239.6
+    ],
+    "text": "Land and Land Ministry Ref. No.: 4-3/7/2013/HW/576.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.12,
+      241.04,
+      294.57,
+      308.48
+    ],
+    "text": "I hereby give under Sub-section (1) of Section 7 of Land Acquisition Act, as amended by the Land Acquisition (Amendment) Act, No. 28 of 1964 that the Government intended to acquire.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.12,
+      309.91,
+      229.56,
+      331.52
+    ],
+    "text": "Description of the land to be acquired:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.12,
+      332.96,
+      294.6,
+      423.44
+    ],
+    "text": "Allotment of land called in Total Extent about 0.0105 Hectare described as Lot 01 in Preliminary Plan No. P.P.Nu 3038 of 29.10.2015 prepared by the Surveyor General situated in Kodigaha (Division No. 6, New Bazaar Street Nuwara Eliya Municipal Council limits) Village in Dimbula Korale Minor Division in Nuwara-eliya Divisional Secretary\u2019s Division, in Nuwara-eliya District and bounded as follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      424.88,
+      133.8,
+      446.52
+    ],
+    "text": "01. Lot No. 01",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.12,
+      446.94,
+      294.54,
+      471.68
+    ],
+    "text": "Name of Land: Rawanawatta; Details: Road; Claimant: State; Extent: 0.0018 Hectare.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      1.9198079109191895,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.12,
+      473.12,
+      294.58,
+      586.88
+    ],
+    "text": "All persons interested in the aforesaid land is to be acquired are hereby required to appear personally, or by Agents duly authorized in writing, before me at Divisional Secretariat Nuwara Eliya 30th May, 2016 at 10.00 a.m. relevant to each land lots as stated below and are hereby requested to notify to me in writing (in duplicate) on or before the 20th day of May, 2016. The nature of their interests in the land. The particulars of their claims for compensation for the acquisition of the said land the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.6,
+      117.44,
+      546.27,
+      139.04
+    ],
+    "text": "amount of compensation and the details of the computation of such amount.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.6,
+      139.76,
+      538.44,
+      218.24
+    ],
+    "text": "S. P. K. BODHIMANNA, Divisional Secretary, Nuwara Eliya. Divisional Secretariat, Nuwara Eliya, 02nd May, 2016.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      4.079591751098633,
+      5.039495944976807,
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.6,
+      218.97,
+      345.48,
+      234.31
+    ],
+    "text": "05 - 752",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      4.079591751098633,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      371.76,
+      235.76,
+      484.2,
+      245.84
+    ],
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.0,
+      246.56,
+      459.96,
+      264.59
+    ],
+    "text": "AMENDMENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.039495944976807,
+      8.879112243652344,
+      11.038795471191406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.4,
+      265.76,
+      543.96,
+      285.24
+    ],
+    "text": "THE LAND ACQUISITION ACT (CHAPTER 460)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      378.48,
+      286.4,
+      477.48,
+      306.12
+    ],
+    "text": "Notice under Section 7",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.91920804977417,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.68,
+      307.32,
+      546.36,
+      328.64
+    ],
+    "text": "My Reference No.: KOLDS/LND/05/ACQ/46.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.68,
+      329.59,
+      548.76,
+      347.12
+    ],
+    "text": "Reference No. of the Ministry of Lands:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.9994001388549805,
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      467.52,
+      348.56,
+      546.36,
+      358.64
+    ],
+    "text": "4/3/9/2012/WS/72.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.078991889953613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.6,
+      359.8,
+      546.37,
+      587.35
+    ],
+    "text": "I hereby give notice, that the notice published by me, under the above heading and No. 02-245 in the Extra ordinary Gazette No.1951/9 and dated 25th January, 2016 of the Democratic Socialist Republic of Sri Lanka, is amended by removing the dates therein and substituting them as follows. Dates to be removed Dates to be substituted 24th February, 2016 13th July, 2016 17th February, 2016 05th July, 2016 S. M. D. C. SAMARASEKARA, Divisional Secretary, Kolonna. Divisional Secretary\u2019s Office, Kolonna, 28th April, 2016. 05 - 753",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.039495944976807,
+      7.91920804977417,
+      10.078991889953613
+    ]
+  }
+]
