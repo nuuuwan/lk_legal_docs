@@ -101700,6 +101700,17 @@ egz_2024.html",
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-12-04-2025-12-04-2465-16-ta",
+    "num": "2025-12-04-2465-16-ta",
+    "date_str": "2025-12-04",
+    "description": "D. of Trade and Investment Policy - Special Commodity levy Act No 48 of 2007, Disaster recovery Project to Facilitate People affected by Cyclone - Ditwah",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-16_T.pdf",
+    "doc_number": "2465/16"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2025-12-04-2025-12-04-2465-17-en",
     "num": "2025-12-04-2465-17-en",
     "date_str": "2025-12-04",
@@ -102852,5 +102863,27 @@ egz_2024.html",
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-77_T.pdf",
     "doc_number": "2467/77"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-12-22-2025-12-22-2468-01-en",
+    "num": "2025-12-22-2468-01-en",
+    "date_str": "2025-12-22",
+    "description": "2468/01",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-01_E.pdf",
+    "doc_number": "2468/01"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2025-12-22-2025-12-22-2468-01-si",
+    "num": "2025-12-22-2468-01-si",
+    "date_str": "2025-12-22",
+    "description": "2468/01",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-01_S.pdf",
+    "doc_number": "2468/01"
   }
 ]

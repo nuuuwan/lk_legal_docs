@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-12-23 09:43:39",
-  "n_docs": 46868,
-  "n_docs_with_pdfs": 10022,
-  "n_docs_with_text": 10022,
+  "time_updated": "2025-12-23 12:34:51",
+  "n_docs": 46871,
+  "n_docs_with_pdfs": 10029,
+  "n_docs_with_text": 10029,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-12-19",
-  "dataset_size": 8536536983,
+  "date_str_max": "2025-12-22",
+  "dataset_size": 8564924465,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-19-2025-12-19-2467-77-ta",
-    "num": "2025-12-19-2467-77-ta",
-    "date_str": "2025-12-19",
-    "description": "Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament",
+    "doc_id": "2025-12-22-2025-12-22-2468-01-si",
+    "num": "2025-12-22-2468-01-si",
+    "date_str": "2025-12-22",
+    "description": "2468/01",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-77_T.pdf",
-    "doc_number": "2467/77"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-01_S.pdf",
+    "doc_number": "2468/01"
   }
 }

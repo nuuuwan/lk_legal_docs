@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_09:44:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_12:35:13-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,868** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**8.5 GB**), from **2020-01-01** to **2025-12-19**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,871** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**8.6 GB**), from **2020-01-01** to **2025-12-22**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (21%), **TXT** (21%) & **🤗 Hugging Face** (21%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-19-2025-12-19-2467-77-ta",
-    "num": "2025-12-19-2467-77-ta",
-    "date_str": "2025-12-19",
-    "description": "Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament",
+    "doc_id": "2025-12-22-2025-12-22-2468-01-si",
+    "num": "2025-12-22-2468-01-si",
+    "date_str": "2025-12-22",
+    "description": "2468/01",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-77_T.pdf",
-    "doc_number": "2467/77"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-01_S.pdf",
+    "doc_number": "2468/01"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `2025-12-22-2468-01-si` | 2468/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-01-si)
+- 2025-12-22 | `2025-12-22-2468-01-en` | 2468/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-01-en)
 - 2025-12-19 | `2025-12-19-2467-77-ta` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-ta)
 - 2025-12-19 | `2025-12-19-2467-77-si` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-si)
 - 2025-12-19 | `2025-12-19-2467-77-en` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-en)
@@ -59,8 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2025-12-16 | `2025-12-16-2467-40-ta` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-ta)
 - 2025-12-16 | `2025-12-16-2467-40-si` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-si)
 - 2025-12-16 | `2025-12-16-2467-40-en` | Elections Commission - Filling of a vacancy in the office of member of the Sri Jayawardenapura Kotte M/C | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-16-2025-12-16-2467-40-en)
-- 2025-12-15 | `2025-12-15-2467-03-ta` | Legal Affairs Department - Welfare Benefits Act, No. 24 of 2002 Aswesuma Welfare Benefit Payment Scheme | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-03-ta)
-- 2025-12-15 | `2025-12-15-2467-03-si` | 2467/03 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-15-2025-12-15-2467-03-si)
 
 ---
 
