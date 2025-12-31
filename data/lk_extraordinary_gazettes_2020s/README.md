@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_12:36:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_15:28:41-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**46,898** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.1 GB**), from **2020-01-01** to **2025-12-23**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**46,993** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.1 GB**), from **2020-01-01** to **2025-12-30**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (23%), **TXT** (23%) & **🤗 Hugging Face** (23%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-23-2025-12-23-2468-11-si",
-    "num": "2025-12-23-2468-11-si",
-    "date_str": "2025-12-23",
-    "description": "2468/11",
+    "doc_id": "2025-12-30-2025-12-30-2469-08-ta",
+    "num": "2025-12-30-2469-08-ta",
+    "date_str": "2025-12-30",
+    "description": "Presidential Secretariat - Commission of Inquiry.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-11_S.pdf",
-    "doc_number": "2468/11"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2469-08_T.pdf",
+    "doc_number": "2469/08"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
-- 2025-12-23 | `2025-12-23-2468-11-si` | 2468/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-23-2025-12-23-2468-11-si)
-- 2025-12-23 | `2025-12-23-2468-11-en` | 2468/11 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-23-2025-12-23-2468-11-en)
-- 2025-12-23 | `2025-12-23-2468-07-ta` | 2468/07 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-23-2025-12-23-2468-07-ta)
-- 2025-12-23 | `2025-12-23-2468-07-si` | 2468/07 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-23-2025-12-23-2468-07-si)
-- 2025-12-23 | `2025-12-23-2468-07-en` | 2468/07 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-23-2025-12-23-2468-07-en)
-- 2025-12-22 | `2025-12-22-2468-05-si` | 2468/05 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-05-si)
-- 2025-12-22 | `2025-12-22-2468-05-en` | 2468/05 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-05-en)
-- 2025-12-22 | `2025-12-22-2468-03-si` | Dept. Of Probation and Child Care Services - Adoption of Children Ordinance ( Chapter 61) Regulation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-03-si)
-- 2025-12-22 | `2025-12-22-2468-03-en` | Dept. Of Probation and Child Care Services - Adoption of Children Ordinance ( Chapter 61) Regulation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-03-en)
-- 2025-12-22 | `2025-12-22-2468-01-ta` | Sri Lanka Customs - rates of Exchange w.e.t. 22.12.2025 to 28.12.2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-01-ta)
-- 2025-12-22 | `2025-12-22-2468-01-si` | 2468/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-01-si)
-- 2025-12-22 | `2025-12-22-2468-01-en` | 2468/01 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-22-2025-12-22-2468-01-en)
-- 2025-12-19 | `2025-12-19-2467-77-ta` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-ta)
-- 2025-12-19 | `2025-12-19-2467-77-si` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-si)
-- 2025-12-19 | `2025-12-19-2467-77-en` | Imports and Exports Control Department - Imports and Exports Control Act, No 01 of 1969 Regulations Passed in Parliament | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-77-en)
-- 2025-12-19 | `2025-12-19-2467-69-ta` | Office of the Public Service Commission - Delegation of Powers by the Public Service Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-69-ta)
-- 2025-12-19 | `2025-12-19-2467-69-si` | Office of the Public Service Commission - Delegation of Powers by the Public Service Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-69-si)
-- 2025-12-19 | `2025-12-19-2467-69-en` | Office of the Public Service Commission - Delegation of Powers by the Public Service Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-19-2025-12-19-2467-69-en)
-- 2025-12-17 | `2025-12-17-2467-52-ta` | Ministry of Transport Highways and Urban Development - Motor Traffic Act (Chapter 203) Motor Traffic (Temporary Extension of the Validity Period of Driving License) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-52-ta)
-- 2025-12-17 | `2025-12-17-2467-52-si` | Ministry of Transport Highways and Urban Development - Motor Traffic Act (Chapter 203) Motor Traffic (Temporary Extension of the Validity Period of Driving License) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-17-2025-12-17-2467-52-si)
+- 2025-12-30 | `2025-12-30-2469-08-ta` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-ta)
+- 2025-12-30 | `2025-12-30-2469-08-si` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-si)
+- 2025-12-30 | `2025-12-30-2469-08-en` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-en)
+- 2025-12-29 | `2025-12-29-2469-04-ta` | 2469/04 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-04-ta)
+- 2025-12-29 | `2025-12-29-2469-04-si` | 2469/04 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-04-si)
+- 2025-12-29 | `2025-12-29-2469-04-en` | 2469/04 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-04-en)
+- 2025-12-29 | `2025-12-29-2469-01-ta` | Sri Lanka Customs - Rates of Exchange w.e.f. 29.12.2025 to 04.01.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-01-ta)
+- 2025-12-29 | `2025-12-29-2469-01-si` | Sri Lanka Customs - Rates of Exchange w.e.f. 29.12.2025 to 04.01.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-01-si)
+- 2025-12-29 | `2025-12-29-2469-01-en` | Sri Lanka Customs - Rates of Exchange w.e.f. 29.12.2025 to 04.01.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-01-en)
+- 2025-12-28 | `2025-12-28-2468-46-ta` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-46-ta)
+- 2025-12-28 | `2025-12-28-2468-46-si` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-46-si)
+- 2025-12-28 | `2025-12-28-2468-46-en` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-46-en)
+- 2025-12-28 | `2025-12-28-2468-45-ta` | Presidential Secretariat - Section 2 of the Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-45-ta)
+- 2025-12-28 | `2025-12-28-2468-45-si` | Presidential Secretariat - Section 2 of the Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-45-si)
+- 2025-12-28 | `2025-12-28-2468-45-en` | Presidential Secretariat - Section 2 of the Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-28-2025-12-28-2468-45-en)
+- 2025-12-26 | `2025-12-26-2468-30-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-26-2025-12-26-2468-30-ta)
+- 2025-12-26 | `2025-12-26-2468-30-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-26-2025-12-26-2468-30-si)
+- 2025-12-26 | `2025-12-26-2468-30-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-26-2025-12-26-2468-30-en)
+- 2025-12-24 | `2025-12-24-2468-22-ta` | Public Utilities Commission of Sri Lanka - Notice under Section 10 (3) of the Sri Lanka Electricity Act, No. 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-24-2025-12-24-2468-22-ta)
+- 2025-12-24 | `2025-12-24-2468-22-si` | Public Utilities Commission of Sri Lanka - Notice under Section 10 (3) of the Sri Lanka Electricity Act, No. 2009 (Amended) Issuance of Certificate of Exemption | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-24-2025-12-24-2468-22-si)
 
 ---
 
