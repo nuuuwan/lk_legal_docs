@@ -2,34 +2,34 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-01-01 11:46:27",
-  "n_docs": 4131,
-  "n_docs_with_pdfs": 4130,
-  "n_docs_with_text": 4130,
+  "time_updated": "2026-01-01 13:44:57",
+  "n_docs": 4134,
+  "n_docs_with_pdfs": 4133,
+  "n_docs_with_text": 4133,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2025-12-12",
-  "dataset_size": 1839344395,
+  "date_str_max": "2025-12-29",
+  "dataset_size": 1840048615,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2025-12-12-2025-12-12-658-2025-ta",
-    "num": "2025-12-12-658-2025-ta",
-    "date_str": "2025-12-12",
-    "description": "Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS",
+    "doc_id": "2025-12-29-2025-12-29-659-2025-ta",
+    "num": "2025-12-29-659-2025-ta",
+    "date_str": "2025-12-29",
+    "description": "Parliamentary Pensions (Repeal) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2025.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/658-2025_T.pdf",
-    "doc_number": "658/2025"
+    "url_pdf": "https://documents.gov.lk/view/bills/2025/12/659-2025_T.pdf",
+    "doc_number": "659/2025"
   }
 }
