@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_11:46:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_13:45:16-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,134** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-12-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,140** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2025-12-29**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -44,6 +44,12 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-12-29 | `2025-12-29-659-2025-ta` | Parliamentary Pensions (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-29-2025-12-29-659-2025-ta)
 - 2025-12-29 | `2025-12-29-659-2025-si` | Parliamentary Pensions (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-29-2025-12-29-659-2025-si)
 - 2025-12-29 | `2025-12-29-659-2025-en` | Parliamentary Pensions (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-29-2025-12-29-659-2025-en)
+- 2025-12-18 | `2025-12-18-661-2025-ta` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-ta)
+- 2025-12-18 | `2025-12-18-661-2025-si` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-si)
+- 2025-12-18 | `2025-12-18-661-2025-en` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-en)
+- 2025-12-18 | `2025-12-18-660-2025-ta` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-ta)
+- 2025-12-18 | `2025-12-18-660-2025-si` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-si)
+- 2025-12-18 | `2025-12-18-660-2025-en` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-en)
 - 2025-12-12 | `2025-12-12-658-2025-ta` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-ta)
 - 2025-12-12 | `2025-12-12-658-2025-si` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-si)
 - 2025-12-12 | `2025-12-12-658-2025-en` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-en)
@@ -55,12 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-12-05 | `2025-12-05-656-2025-en` | Institute of Real Estate Professionals, Sri Lanka - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-05-2025-12-05-656-2025-en)
 - 2025-12-05 | `2025-12-05-654-2025-ta` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-05-2025-12-05-654-2025-ta)
 - 2025-12-05 | `2025-12-05-654-2025-si` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-05-2025-12-05-654-2025-si)
-- 2025-12-05 | `2025-12-05-654-2025-en` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-05-2025-12-05-654-2025-en)
-- 2025-12-03 | `2025-12-03-655-2025-ta` | Universities (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-03-2025-12-03-655-2025-ta)
-- 2025-12-03 | `2025-12-03-655-2025-si` | Universities (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-03-2025-12-03-655-2025-si)
-- 2025-12-03 | `2025-12-03-655-2025-en` | Universities (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-03-2025-12-03-655-2025-en)
-- 2025-11-28 | `2025-11-28-652-2025-ta` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-11-28-2025-11-28-652-2025-ta)
-- 2025-11-28 | `2025-11-28-652-2025-si` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-11-28-2025-11-28-652-2025-si)
 
 ---
 
