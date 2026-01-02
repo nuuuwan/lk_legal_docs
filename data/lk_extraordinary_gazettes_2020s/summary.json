@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2025-12-31 15:28:18",
-  "n_docs": 46993,
-  "n_docs_with_pdfs": 11022,
-  "n_docs_with_text": 11022,
+  "time_updated": "2026-01-02 09:44:43",
+  "n_docs": 47008,
+  "n_docs_with_pdfs": 11077,
+  "n_docs_with_text": 11077,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2025-12-30",
-  "dataset_size": 9145767002,
+  "date_str_max": "2025-12-31",
+  "dataset_size": 9185433391,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-30-2025-12-30-2469-08-ta",
-    "num": "2025-12-30-2469-08-ta",
-    "date_str": "2025-12-30",
-    "description": "Presidential Secretariat - Commission of Inquiry.",
+    "doc_id": "2025-12-31-2025-12-31-2469-16-si",
+    "num": "2025-12-31-2469-16-si",
+    "date_str": "2025-12-31",
+    "description": "Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Colour Coding for Sugar Levels-Liquid) Regulations 2022.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2469-08_T.pdf",
-    "doc_number": "2469/08"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2469-16_S.pdf",
+    "doc_number": "2469/16"
   }
 }
