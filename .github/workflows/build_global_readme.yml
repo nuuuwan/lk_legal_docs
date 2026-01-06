@@ -3,7 +3,7 @@ name: build_global_readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "55 */12 * * *"
 
 jobs:
   build_global_readme:
