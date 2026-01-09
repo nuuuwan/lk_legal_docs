@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_15:28:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_06:42:23-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,123** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.3 GB**), from **2020-01-01** to **2025-12-31**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,212** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.3 GB**), from **2020-01-01** to **2026-01-07**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (24%), **TXT** (24%) & **🤗 Hugging Face** (24%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2025-12-31-2025-12-31-2469-16-si",
-    "num": "2025-12-31-2469-16-si",
-    "date_str": "2025-12-31",
-    "description": "Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Colour Coding for Sugar Levels-Liquid) Regulations 2022.",
-    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2025.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2025/12/2469-16_S.pdf",
-    "doc_number": "2469/16"
+    "doc_id": "2026-01-07-2026-01-07-2470-23-ta",
+    "num": "2026-01-07-2470-23-ta",
+    "date_str": "2026-01-07",
+    "description": "Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province.",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2470-23_T.pdf",
+    "doc_number": "2470/23"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
-- 2025-12-31 | `2025-12-31-2469-16-si` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Colour Coding for Sugar Levels-Liquid) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-16-si)
-- 2025-12-31 | `2025-12-31-2469-16-en` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Colour Coding for Sugar Levels-Liquid) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-16-en)
-- 2025-12-31 | `2025-12-31-2469-15-si` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Iodization of Salt) Regulations 2023. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-15-si)
-- 2025-12-31 | `2025-12-31-2469-15-en` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Iodization of Salt) Regulations 2023. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-15-en)
-- 2025-12-31 | `2025-12-31-2469-14-si` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Trans-Fat) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-14-si)
-- 2025-12-31 | `2025-12-31-2469-14-en` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Trans-Fat) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-14-en)
-- 2025-12-31 | `2025-12-31-2469-13-ta` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Labelling and Advertising) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-13-ta)
-- 2025-12-31 | `2025-12-31-2469-13-si` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Labelling and Advertising) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-13-si)
-- 2025-12-31 | `2025-12-31-2469-13-en` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Labelling and Advertising) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-13-en)
-- 2025-12-31 | `2025-12-31-2469-11-ta` | Commission of Election - Filling Member Vacancy in Pelmadulla Pradeshiya Sabha (Weranja Kamini Wijerathne) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-11-ta)
-- 2025-12-31 | `2025-12-31-2469-11-si` | Commission of Election - Filling Member Vacancy in Pelmadulla Pradeshiya Sabha (Weranja Kamini Wijerathne) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-11-si)
-- 2025-12-31 | `2025-12-31-2469-11-en` | Commission of Election - Filling Member Vacancy in Pelmadulla Pradeshiya Sabha (Weranja Kamini Wijerathne) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-11-en)
-- 2025-12-31 | `2025-12-31-2469-09-ta` | Presidential Secretariat - Establishment of a Presidential Task Force for Rebuilding Sri Lanka. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-09-ta)
-- 2025-12-31 | `2025-12-31-2469-09-si` | Presidential Secretariat - Establishment of a Presidential Task Force for Rebuilding Sri Lanka. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-09-si)
-- 2025-12-31 | `2025-12-31-2469-09-en` | Presidential Secretariat - Establishment of a Presidential Task Force for Rebuilding Sri Lanka. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-09-en)
-- 2025-12-30 | `2025-12-30-2469-08-ta` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-ta)
-- 2025-12-30 | `2025-12-30-2469-08-si` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-si)
-- 2025-12-30 | `2025-12-30-2469-08-en` | Presidential Secretariat - Commission of Inquiry. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-30-2025-12-30-2469-08-en)
-- 2025-12-29 | `2025-12-29-2469-06-si` | Election Commission - Filling of a Vacancy in the office of the Chairman of the Gomarankadawala Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-06-si)
-- 2025-12-29 | `2025-12-29-2469-06-en` | Election Commission - Filling of a Vacancy in the office of the Chairman of the Gomarankadawala Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-29-2025-12-29-2469-06-en)
+- 2026-01-07 | `2026-01-07-2470-23-ta` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-ta)
+- 2026-01-07 | `2026-01-07-2470-23-si` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-si)
+- 2026-01-07 | `2026-01-07-2470-23-en` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-en)
+- 2026-01-06 | `2026-01-06-2470-20-ta` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-ta)
+- 2026-01-06 | `2026-01-06-2470-20-si` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-si)
+- 2026-01-06 | `2026-01-06-2470-20-en` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-en)
+- 2026-01-06 | `2026-01-06-2470-19-ta` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-ta)
+- 2026-01-06 | `2026-01-06-2470-19-si` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-si)
+- 2026-01-06 | `2026-01-06-2470-19-en` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-en)
+- 2026-01-05 | `2026-01-05-2470-15-ta` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-ta)
+- 2026-01-05 | `2026-01-05-2470-15-si` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-si)
+- 2026-01-05 | `2026-01-05-2470-15-en` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-en)
+- 2026-01-05 | `2026-01-05-2470-01-si` | Sri Lanka Customs - Rates of Exchange w.e.f. 05.01.2026 to 11.01.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-01-si)
+- 2026-01-05 | `2026-01-05-2470-01-en` | Sri Lanka Customs - Rates of Exchange w.e.f. 05.01.2026 to 11.01.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-01-en)
+- 2026-01-04 | `2026-01-04-2469-36-ta` | Central Bank of Sri Lanka - Extended the Term of the Administrator Appointed to Nation Lanka Finance PLC | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-04-2026-01-04-2469-36-ta)
+- 2026-01-04 | `2026-01-04-2469-36-si` | Central Bank of Sri Lanka - Extended the Term of the Administrator Appointed to Nation Lanka Finance PLC | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-04-2026-01-04-2469-36-si)
+- 2026-01-04 | `2026-01-04-2469-36-en` | Central Bank of Sri Lanka - Extended the Term of the Administrator Appointed to Nation Lanka Finance PLC | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-04-2026-01-04-2469-36-en)
+- 2026-01-01 | `2026-01-01-2469-19-si` | 2469/19 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-01-2026-01-01-2469-19-si)
+- 2026-01-01 | `2026-01-01-2469-19-en` | 2469/19 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-01-2026-01-01-2469-19-en)
+- 2025-12-31 | `2025-12-31-2469-16-ta` | Ministry of Health and Mass Media - Food Act No. 26 of 1980. The Food (Colour Coding for Sugar Levels-Liquid) Regulations 2022. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2025/2025-12-31-2025-12-31-2469-16-ta)
 
 ---
 
