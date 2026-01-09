@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **111,683** documents (**32.4 GB**).
+**4** datasets, with **111,689** documents (**32.4 GB**).
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_05:44:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_17:38:52-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -22,13 +22,13 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_05:41:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_17:37:28-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,143** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-07**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,149** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-09**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
