@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_06:39:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--14_06:40:08-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,295** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.4 GB**), from **2020-01-01** to **2026-01-09**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,322** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.4 GB**), from **2020-01-01** to **2026-01-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (24%), **TXT** (24%) & **🤗 Hugging Face** (24%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-09-2026-01-09-2470-56-ta",
-    "num": "2026-01-09-2470-56-ta",
-    "date_str": "2026-01-09",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).Ordinance Throughout Sri Lanka with effect from 28th   December 2025.",
+    "doc_id": "2026-01-12-2026-01-12-2471-01-si",
+    "num": "2026-01-12-2471-01-si",
+    "date_str": "2026-01-12",
+    "description": "Sri Lanka Customs - Rates of Exchange",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2470-56_T.pdf",
-    "doc_number": "2470/56"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-01_S.pdf",
+    "doc_number": "2471/01"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-01-12 | `2026-01-12-2471-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-12-2026-01-12-2471-01-si)
+- 2026-01-12 | `2026-01-12-2471-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-12-2026-01-12-2471-01-en)
+- 2026-01-10 | `2026-01-10-2470-58-si` | Office of the Public Service Commission - The Medical Service Minute of the Sri Lanka Health Service 08th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-10-2026-01-10-2470-58-si)
+- 2026-01-10 | `2026-01-10-2470-58-en` | Office of the Public Service Commission - The Medical Service Minute of the Sri Lanka Health Service 08th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-10-2026-01-10-2470-58-en)
 - 2026-01-09 | `2026-01-09-2470-56-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).Ordinance Throughout Sri Lanka with effect from 28th   December 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-09-2026-01-09-2470-56-ta)
 - 2026-01-09 | `2026-01-09-2470-56-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).Ordinance Throughout Sri Lanka with effect from 28th   December 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-09-2026-01-09-2470-56-si)
 - 2026-01-09 | `2026-01-09-2470-56-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).Ordinance Throughout Sri Lanka with effect from 28th   December 2025. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-09-2026-01-09-2470-56-en)
+- 2026-01-08 | `2026-01-08-2470-31-si` | 2470/31 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-08-2026-01-08-2470-31-si)
+- 2026-01-08 | `2026-01-08-2470-31-en` | 2470/31 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-08-2026-01-08-2470-31-en)
+- 2026-01-07 | `2026-01-07-2470-26-si` | 2470/26 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-26-si)
+- 2026-01-07 | `2026-01-07-2470-26-en` | 2470/26 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-26-en)
+- 2026-01-07 | `2026-01-07-2470-25-si` | 2470/25 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-25-si)
+- 2026-01-07 | `2026-01-07-2470-25-en` | 2470/25 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-25-en)
 - 2026-01-07 | `2026-01-07-2470-23-ta` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-ta)
 - 2026-01-07 | `2026-01-07-2470-23-si` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-si)
 - 2026-01-07 | `2026-01-07-2470-23-en` | Presidential Secretariat - Appointed Mr. Chandima C. Muhandiramge  as the Chief Secretary of the Southern Province. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-23-en)
+- 2026-01-07 | `2026-01-07-2470-22-ta` | Election Commission - Filling of a Vacancy in the Office of member of the Dehiowita Pradheshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-22-ta)
 - 2026-01-07 | `2026-01-07-2470-22-si` | Election Commission - Filling of a Vacancy in the Office of member of the Dehiowita Pradheshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-22-si)
 - 2026-01-07 | `2026-01-07-2470-22-en` | Election Commission - Filling of a Vacancy in the Office of member of the Dehiowita Pradheshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-07-2026-01-07-2470-22-en)
 - 2026-01-06 | `2026-01-06-2470-20-ta` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-ta)
-- 2026-01-06 | `2026-01-06-2470-20-si` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-si)
-- 2026-01-06 | `2026-01-06-2470-20-en` | Ministry of Defence - Freezing Order Made under Regulations 5 of the United Nations Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-20-en)
-- 2026-01-06 | `2026-01-06-2470-19-ta` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-ta)
-- 2026-01-06 | `2026-01-06-2470-19-si` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-si)
-- 2026-01-06 | `2026-01-06-2470-19-en` | Ministry of Defence - United Nations Security Council Resolution (UN Scr) 1373 - Regulation No. 01 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-06-2026-01-06-2470-19-en)
-- 2026-01-05 | `2026-01-05-2470-16-si` | Secretariat of the Governor - Eastern Province - Delegation of powers to the Assistant Commissioner of Ampara District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-16-si)
-- 2026-01-05 | `2026-01-05-2470-16-en` | Secretariat of the Governor - Eastern Province - Delegation of powers to the Assistant Commissioner of Ampara District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-16-en)
-- 2026-01-05 | `2026-01-05-2470-15-ta` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-ta)
-- 2026-01-05 | `2026-01-05-2470-15-si` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-si)
-- 2026-01-05 | `2026-01-05-2470-15-en` | Department of Local Government - Eastern Province - Elected Vice Chairman of Irakkamam Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-15-en)
-- 2026-01-05 | `2026-01-05-2470-06-si` | Governor's Offiice - North Central - Appointment made by Hon.Governer of North Central Provincial Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-05-2026-01-05-2470-06-si)
 
 ---
 

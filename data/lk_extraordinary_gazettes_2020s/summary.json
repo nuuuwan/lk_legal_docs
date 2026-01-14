@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-12 06:38:57",
-  "n_docs": 47295,
-  "n_docs_with_pdfs": 11292,
-  "n_docs_with_text": 11292,
+  "time_updated": "2026-01-14 06:39:45",
+  "n_docs": 47322,
+  "n_docs_with_pdfs": 11419,
+  "n_docs_with_text": 11419,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-01-09",
-  "dataset_size": 9366039416,
+  "date_str_max": "2026-01-12",
+  "dataset_size": 9433973695,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-09-2026-01-09-2470-56-ta",
-    "num": "2026-01-09-2470-56-ta",
-    "date_str": "2026-01-09",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).Ordinance Throughout Sri Lanka with effect from 28th   December 2025.",
+    "doc_id": "2026-01-12-2026-01-12-2471-01-si",
+    "num": "2026-01-12-2471-01-si",
+    "date_str": "2026-01-12",
+    "description": "Sri Lanka Customs - Rates of Exchange",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2470-56_T.pdf",
-    "doc_number": "2470/56"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-01_S.pdf",
+    "doc_number": "2471/01"
   }
 }
