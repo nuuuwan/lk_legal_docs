@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-19 06:39:43",
-  "n_docs": 47421,
-  "n_docs_with_pdfs": 11430,
-  "n_docs_with_text": 11430,
+  "time_updated": "2026-01-20 06:38:51",
+  "n_docs": 47524,
+  "n_docs_with_pdfs": 11458,
+  "n_docs_with_text": 11458,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-01-13",
-  "dataset_size": 9487619653,
+  "date_str_max": "2026-01-16",
+  "dataset_size": 9497424136,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -18,18 +18,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-13-2026-01-13-2471-23-en",
-    "num": "2026-01-13-2471-23-en",
-    "date_str": "2026-01-13",
-    "description": "Elections Commission  - Filling at a vacancy in the office at member at the Panduwasnuwara Pradheshiya Sabha",
+    "doc_id": "2026-01-16-2026-01-16-2471-67-si",
+    "num": "2026-01-16-2471-67-si",
+    "date_str": "2026-01-16",
+    "description": "2471/67",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "en",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-23_E.pdf",
-    "doc_number": "2471/23"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-67_S.pdf",
+    "doc_number": "2471/67"
   }
 }
