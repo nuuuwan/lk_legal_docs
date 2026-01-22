@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-21 06:52:02",
-  "n_docs": 47536,
-  "n_docs_with_pdfs": 11473,
-  "n_docs_with_text": 11473,
+  "time_updated": "2026-01-22 06:42:30",
+  "n_docs": 47579,
+  "n_docs_with_pdfs": 11494,
+  "n_docs_with_text": 11494,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-01-19",
-  "dataset_size": 9510754419,
+  "date_str_max": "2026-01-21",
+  "dataset_size": 9522912094,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-19-2026-01-19-2472-02-si",
-    "num": "2026-01-19-2472-02-si",
-    "date_str": "2026-01-19",
-    "description": "Presidential Secretariat - 75th Navy Anniversary Commemorative Medal.",
+    "doc_id": "2026-01-21-2026-01-21-2472-22-ta",
+    "num": "2026-01-21-2472-22-ta",
+    "date_str": "2026-01-21",
+    "description": "Ministry of Digital Economy - Registration of Persons Act, No.32 of 1968. Order under Section 34. Extension of the Period.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-02_S.pdf",
-    "doc_number": "2472/02"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-22_T.pdf",
+    "doc_number": "2472/22"
   }
 }
