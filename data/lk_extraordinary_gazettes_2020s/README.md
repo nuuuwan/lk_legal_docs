@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--23_06:40:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--24_06:39:24-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,609** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.5 GB**), from **2020-01-01** to **2026-01-22**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,618** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.5 GB**), from **2020-01-01** to **2026-01-22**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (24%), **TXT** (24%) & **🤗 Hugging Face** (24%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-22-2026-01-22-2472-45-ta",
-    "num": "2026-01-22-2472-45-ta",
+    "doc_id": "2026-01-22-2026-01-22-2472-47-ta",
+    "num": "2026-01-22-2472-47-ta",
     "date_str": "2026-01-22",
-    "description": "Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media",
+    "description": "Department of Census and Statistics - National Consumer Price Index - December 2025",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-45_T.pdf",
-    "doc_number": "2472/45"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-47_T.pdf",
+    "doc_number": "2472/47"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-01-22 | `2026-01-22-2472-47-ta` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-ta)
+- 2026-01-22 | `2026-01-22-2472-47-si` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-si)
+- 2026-01-22 | `2026-01-22-2472-47-en` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-en)
 - 2026-01-22 | `2026-01-22-2472-45-ta` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-ta)
 - 2026-01-22 | `2026-01-22-2472-45-si` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-si)
 - 2026-01-22 | `2026-01-22-2472-45-en` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-01-20 | `2026-01-20-2472-04-si` | Election Commission - Under Section 10A  (1) (a) Vacated the Office of Member of Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-04-si)
 - 2026-01-20 | `2026-01-20-2472-04-en` | Election Commission - Under Section 10A  (1) (a) Vacated the Office of Member of Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-04-en)
 - 2026-01-20 | `2026-01-20-2472-03-si` | Election Commission - Rohan Pieris of the Galigamuwa Pradeshiya SabhaHas Been Ceased to be a Member of that P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-03-si)
-- 2026-01-20 | `2026-01-20-2472-03-en` | Election Commission - Rohan Pieris of the Galigamuwa Pradeshiya SabhaHas Been Ceased to be a Member of that P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-03-en)
-- 2026-01-19 | `2026-01-19-2472-02-ta` | Presidential Secretariat - 75th Navy Anniversary Commemorative Medal. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-19-2026-01-19-2472-02-ta)
-- 2026-01-19 | `2026-01-19-2472-02-si` | Presidential Secretariat - 75th Navy Anniversary Commemorative Medal. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-19-2026-01-19-2472-02-si)
 
 ---
 

@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-23 06:39:41",
-  "n_docs": 47609,
-  "n_docs_with_pdfs": 11499,
-  "n_docs_with_text": 11499,
+  "time_updated": "2026-01-24 06:39:08",
+  "n_docs": 47618,
+  "n_docs_with_pdfs": 11504,
+  "n_docs_with_text": 11504,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2026-01-22",
-  "dataset_size": 9530109532,
+  "dataset_size": 9532097197,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-22-2026-01-22-2472-45-ta",
-    "num": "2026-01-22-2472-45-ta",
+    "doc_id": "2026-01-22-2026-01-22-2472-47-ta",
+    "num": "2026-01-22-2472-47-ta",
     "date_str": "2026-01-22",
-    "description": "Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media",
+    "description": "Department of Census and Statistics - National Consumer Price Index - December 2025",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-45_T.pdf",
-    "doc_number": "2472/45"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-47_T.pdf",
+    "doc_number": "2472/47"
   }
 }
