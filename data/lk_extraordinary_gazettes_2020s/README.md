@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--26_06:40:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:39:30-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,618** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.5 GB**), from **2020-01-01** to **2026-01-22**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,693** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.6 GB**), from **2020-01-01** to **2026-01-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
-- In **JSON**, **PDF** (24%), **TXT** (24%) & **🤗 Hugging Face** (24%)
+- In **JSON**, **PDF** (25%), **TXT** (25%) & **🤗 Hugging Face** (25%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-22-2026-01-22-2472-47-ta",
-    "num": "2026-01-22-2472-47-ta",
-    "date_str": "2026-01-22",
-    "description": "Department of Census and Statistics - National Consumer Price Index - December 2025",
+    "doc_id": "2026-01-26-2026-01-26-2473-08-si",
+    "num": "2026-01-26-2473-08-si",
+    "date_str": "2026-01-26",
+    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-47_T.pdf",
-    "doc_number": "2472/47"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_S.pdf",
+    "doc_number": "2473/08"
 }
 ```
 
@@ -41,6 +41,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-01-26 | `2026-01-26-2473-08-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-si)
+- 2026-01-26 | `2026-01-26-2473-08-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-en)
+- 2026-01-26 | `2026-01-26-2473-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 26.01.2026 to 01.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-01-si)
+- 2026-01-26 | `2026-01-26-2473-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 26.01.2026 to 01.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-01-en)
 - 2026-01-22 | `2026-01-22-2472-47-ta` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-ta)
 - 2026-01-22 | `2026-01-22-2472-47-si` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-si)
 - 2026-01-22 | `2026-01-22-2472-47-en` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-en)
@@ -55,12 +59,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-01-20 | `2026-01-20-2472-17-ta` | Governor's Office - Western Province - Order Made under Section 203 of the Urban Councils Ordinance Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-17-ta)
 - 2026-01-20 | `2026-01-20-2472-17-si` | Governor's Office - Western Province - Order Made under Section 203 of the Urban Councils Ordinance Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-17-si)
 - 2026-01-20 | `2026-01-20-2472-17-en` | Governor's Office - Western Province - Order Made under Section 203 of the Urban Councils Ordinance Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-17-en)
+- 2026-01-20 | `2026-01-20-2472-09-ta` | Land Title Settlement Department | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-09-ta)
 - 2026-01-20 | `2026-01-20-2472-09-si` | Land Title Settlement Department | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-09-si)
-- 2026-01-20 | `2026-01-20-2472-09-en` | Land Title Settlement Department | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-09-en)
-- 2026-01-20 | `2026-01-20-2472-04-ta` | Election Commission - Under Section 10A  (1) (a) Vacated the Office of Member of Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-04-ta)
-- 2026-01-20 | `2026-01-20-2472-04-si` | Election Commission - Under Section 10A  (1) (a) Vacated the Office of Member of Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-04-si)
-- 2026-01-20 | `2026-01-20-2472-04-en` | Election Commission - Under Section 10A  (1) (a) Vacated the Office of Member of Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-04-en)
-- 2026-01-20 | `2026-01-20-2472-03-si` | Election Commission - Rohan Pieris of the Galigamuwa Pradeshiya SabhaHas Been Ceased to be a Member of that P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-20-2026-01-20-2472-03-si)
 
 ---
 

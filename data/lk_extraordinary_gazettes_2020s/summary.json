@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-26 06:39:46",
-  "n_docs": 47618,
-  "n_docs_with_pdfs": 11505,
-  "n_docs_with_text": 11505,
+  "time_updated": "2026-01-27 06:39:07",
+  "n_docs": 47693,
+  "n_docs_with_pdfs": 11705,
+  "n_docs_with_text": 11705,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-01-22",
-  "dataset_size": 9533610501,
+  "date_str_max": "2026-01-26",
+  "dataset_size": 9615939877,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -18,18 +18,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-22-2026-01-22-2472-47-ta",
-    "num": "2026-01-22-2472-47-ta",
-    "date_str": "2026-01-22",
-    "description": "Department of Census and Statistics - National Consumer Price Index - December 2025",
+    "doc_id": "2026-01-26-2026-01-26-2473-08-si",
+    "num": "2026-01-26-2473-08-si",
+    "date_str": "2026-01-26",
+    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-47_T.pdf",
-    "doc_number": "2472/47"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_S.pdf",
+    "doc_number": "2473/08"
   }
 }
