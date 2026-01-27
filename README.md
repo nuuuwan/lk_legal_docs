@@ -1,16 +1,16 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **112,170** documents (**33.9 GB**).
+**4** datasets, with **112,182** documents (**33.9 GB**).
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_05:44:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_17:39:08-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,949** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2025-12-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**3,952** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-01-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -22,13 +22,13 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_05:42:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_17:38:35-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,149** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-09**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,158** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
