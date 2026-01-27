@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_05:42:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_17:38:38-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,149** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-09**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,158** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.8 GB**), from **2010-05-10** to **2026-01-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 ```json
 {
     "doc_type": "lk_bills",
-    "doc_id": "2026-01-09-2026-01-09-03-2026-ta",
-    "num": "2026-01-09-03-2026-ta",
-    "date_str": "2026-01-09",
-    "description": "UnV Foundation (Incorporation) - GS",
+    "doc_id": "2026-01-20-2026-01-20-06-2026-ta",
+    "num": "2026-01-20-06-2026-ta",
+    "date_str": "2026-01-20",
+    "description": "Rent (Repeal) - Bill",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/1/03-2026_T.pdf",
-    "doc_number": "03/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/1/06-2026_T.pdf",
+    "doc_number": "06/2026"
 }
 ```
 
@@ -41,6 +41,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 🆕 20 Latest documents
 
+- 2026-01-20 | `2026-01-20-06-2026-ta` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-ta)
+- 2026-01-20 | `2026-01-20-06-2026-si` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-si)
+- 2026-01-20 | `2026-01-20-06-2026-en` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-en)
+- 2026-01-20 | `2026-01-20-05-2026-ta` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-05-2026-ta)
+- 2026-01-20 | `2026-01-20-05-2026-si` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-05-2026-si)
+- 2026-01-20 | `2026-01-20-05-2026-en` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-05-2026-en)
+- 2026-01-20 | `2026-01-20-04-2026-ta` | Protection of Occupants - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-04-2026-ta)
+- 2026-01-20 | `2026-01-20-04-2026-si` | Protection of Occupants - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-04-2026-si)
+- 2026-01-20 | `2026-01-20-04-2026-en` | Protection of Occupants - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-04-2026-en)
 - 2026-01-09 | `2026-01-09-03-2026-ta` | UnV Foundation (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-09-2026-01-09-03-2026-ta)
 - 2026-01-09 | `2026-01-09-03-2026-si` | UnV Foundation (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-09-2026-01-09-03-2026-si)
 - 2026-01-09 | `2026-01-09-03-2026-en` | UnV Foundation (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-09-2026-01-09-03-2026-en)
@@ -52,15 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2025-12-29 | `2025-12-29-659-2025-en` | Parliamentary Pensions (Repeal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-29-2025-12-29-659-2025-en)
 - 2025-12-18 | `2025-12-18-661-2025-ta` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-ta)
 - 2025-12-18 | `2025-12-18-661-2025-si` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-si)
-- 2025-12-18 | `2025-12-18-661-2025-en` | Poisons, Opium and Dangerous Drugs (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-661-2025-en)
-- 2025-12-18 | `2025-12-18-660-2025-ta` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-ta)
-- 2025-12-18 | `2025-12-18-660-2025-si` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-si)
-- 2025-12-18 | `2025-12-18-660-2025-en` | Judicature (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-18-2025-12-18-660-2025-en)
-- 2025-12-12 | `2025-12-12-658-2025-ta` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-ta)
-- 2025-12-12 | `2025-12-12-658-2025-si` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-si)
-- 2025-12-12 | `2025-12-12-658-2025-en` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-658-2025-en)
-- 2025-12-12 | `2025-12-12-657-2025-ta` | Licensing of Container Depot Operators - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-657-2025-ta)
-- 2025-12-12 | `2025-12-12-657-2025-si` | Licensing of Container Depot Operators - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2025/2025-12-12-2025-12-12-657-2025-si)
 
 ---
 
