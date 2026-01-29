@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:41:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--29_06:41:09-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,713** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.7 GB**), from **2020-01-01** to **2026-01-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,734** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.7 GB**), from **2020-01-01** to **2026-01-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (25%), **TXT** (25%) & **🤗 Hugging Face** (25%)
 
@@ -19,13 +19,13 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-26-2026-01-26-2473-08-si",
-    "num": "2026-01-26-2473-08-si",
+    "doc_id": "2026-01-26-2026-01-26-2473-08-ta",
+    "num": "2026-01-26-2473-08-ta",
     "date_str": "2026-01-26",
     "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_T.pdf",
     "doc_number": "2473/08"
 }
 ```
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-01-26 | `2026-01-26-2473-08-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-ta)
 - 2026-01-26 | `2026-01-26-2473-08-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-si)
 - 2026-01-26 | `2026-01-26-2473-08-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-en)
 - 2026-01-26 | `2026-01-26-2473-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 26.01.2026 to 01.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-01-si)
@@ -57,10 +58,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-01-22 | `2026-01-22-2472-45-ta` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-ta)
 - 2026-01-22 | `2026-01-22-2472-45-si` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-si)
 - 2026-01-22 | `2026-01-22-2472-45-en` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-en)
+- 2026-01-21 | `2026-01-21-2472-24-si` | Public Utilities Commission of Sri Lanka - Sri Lanka Electricity Act, No. 20 of 2009 Electricity (Procedure for Review and Adjustment of Tariffs) Rules No. 01 of 2006) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-24-si)
+- 2026-01-21 | `2026-01-21-2472-24-en` | Public Utilities Commission of Sri Lanka - Sri Lanka Electricity Act, No. 20 of 2009 Electricity (Procedure for Review and Adjustment of Tariffs) Rules No. 01 of 2006) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-24-en)
 - 2026-01-21 | `2026-01-21-2472-22-ta` | Ministry of Digital Economy - Registration of Persons Act, No.32 of 1968. Order under Section 34. Extension of the Period. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-22-ta)
-- 2026-01-21 | `2026-01-21-2472-22-si` | Ministry of Digital Economy - Registration of Persons Act, No.32 of 1968. Order under Section 34. Extension of the Period. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-22-si)
-- 2026-01-21 | `2026-01-21-2472-22-en` | Ministry of Digital Economy - Registration of Persons Act, No.32 of 1968. Order under Section 34. Extension of the Period. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-22-en)
-- 2026-01-21 | `2026-01-21-2472-21-si` | Election Commission - Notice under Section 8 (9) of the Parliamentary Elections Act, No. 01 of 1981 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-21-si)
 
 ---
 
