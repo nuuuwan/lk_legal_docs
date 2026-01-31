@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-01-29 06:40:46",
-  "n_docs": 47734,
-  "n_docs_with_pdfs": 11740,
-  "n_docs_with_text": 11740,
+  "time_updated": "2026-01-31 06:39:44",
+  "n_docs": 47781,
+  "n_docs_with_pdfs": 11877,
+  "n_docs_with_text": 11877,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-01-26",
-  "dataset_size": 9741037941,
+  "date_str_max": "2026-01-28",
+  "dataset_size": 9802727817,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-26-2026-01-26-2473-08-ta",
-    "num": "2026-01-26-2473-08-ta",
-    "date_str": "2026-01-26",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40)",
+    "doc_id": "2026-01-28-2026-01-28-2473-16-ta",
+    "num": "2026-01-28-2473-16-ta",
+    "date_str": "2026-01-28",
+    "description": "Presidential Secretariat - The Emergency (Miscellaneous Provisions and Power) Regulation No. 01 of 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_T.pdf",
-    "doc_number": "2473/08"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-16_T.pdf",
+    "doc_number": "2473/16"
   }
 }

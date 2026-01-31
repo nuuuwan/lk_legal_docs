@@ -1,0 +1,1057 @@
+==== BLOCKS ==== 
+
+w;s úfYI
+
+wxl 2449$10 - 2025 wf.daia;= ui 12 jeks w`.yrejdod - 2025.08'12No. 2449/10 - TUESDAY, AUGUST 12, 2025
+
+EXTRAORDINARY
+
+Y%S ,xld m%cd;dka;%sl iudcjd§ ckrcfha .eiÜ m;%h
+
+The Gazette of the Democratic Socialist Republic of Sri Lanka
+
+(Published by Authority)PART I : SECTION (I) — GENERAL
+
+Government Notifications
+
+1A - PG 7222 - 104 (08/2025) This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+SRI LANKA TELECOMMUNICATION ACT No. 25 OF 1991
+
+RULES made by the Telecommunications Regulatory Commission of Sri Lanka under Section 5(r) read with Section 68 of the Sri Lanka Telecommunications Act, No. 25 of 1991 as amended by Sri Lanka Telecommunications (Amendment) Act, No. 27 of 1996, Sri Lanka Telecommunications (Amendment) Act, No. 39 of 2024 and approved by the Minister of Digital Economy. Waruna Sri Dhanapala, Chairman, Telecommunications Regulatory Commission of Sri Lanka.ColomboOn this 04th of August, 2025.
+
+Rules
+
+1. These rules may be cited as the Broadband Quality of Service (QOS) Standard Rules, No. 01 of 2025 and shall come into force upon publication in the Government Gazette of Sri Lanka.
+
+2. These rules shall apply to Mobile and Fixed Operators licensed under Section 17 (2) of the Act providing Broadband Services to the public.
+
+3. Mobile Broadband QOS Standards for Mobile Operators and the reporting formats form OMB 1 to OMB 7 are set out in the Schedule under Section A and Section B.
+
+4. Fixed (Wireless) Broadband QOS Standards for Fixed Operators and the reporting formats OFWLB 1 to OFWLB 7 are set out in the Schedule under Section C and Section D.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.20252A
+
+5. Fixed (Wired) Broadband QOS Standards for Fixed Operators and the reporting formats OFWB 1 are set out in the Schedule under Section E and Section F.
+
+6. Mobile, Fixed (Wireless) and Fixed (Wired) Broadband QOS Standards and reporting format UNP1 for per user measured data rates are set out in the Schedule under Section G and Section H.
+
+7. Fixed (Wireless) and Fixed (Wired) Broadband QOS Standards and reporting formats OCS1 to OCS 3 for customers are set out in the Schedule under Section I and Section J.
+
+8. Mobile, Fixed (Wireless) and Fixed (Wired) Broadband QOS standards specified in rules 3,4,5& 6 shall apply either to core network or access network of the operators.
+
+9. The Broadband QOS Standards applicable to Mobile, Fixed (Wireless) and Fixed (Wired) shall apply to UMTS, LTE, Copper, and Fibre technologies.
+
+10. The reporting formats referred to in rules 3,4,5,6 and 7 above shall be furnished by the Operators to the Commission on a monthly and quarterly basis, not later than fifteen days after the end of each month and every quarter.
+
+11. The information submitted by an Operator referred to in rule 10 shall be subject to an audit by the Commission.
+
+12. The audited information referred under rule 11 shall be published by the Commission from time to time for the information and assistance of the customers/operators or potential customers in the official website of the Commission.
+
+13. The Operator shall be required to provide necessary assistance and access to the network, computer systems, records etc. to conduct such audits by the Commission.
+
+14. In monitoring Quality of Service Standards, the Commission may issue directives either financial or otherwise to an Operator referred to in rule 2, to ensure conformity with the Broadband QOS Standards specified in the Schedule hereto.
+
+15. Interpretation;
+
+“Act” means the Sri Lanka Telecommunications Act, No. 25 of 1991, as amended by Act, No. 27 of 1996 and Act No. 39 of 2024;“Access Network” means An Access network is a type of telecommunication network which connects subscribers to immediate PSTN operators. The access network can be either wired or wireless. The subscribers use access networks to connect with their operators, core networks in order to obtain telecommunication services such as voice and data connectivity;“Broadband” means the connection(s) capabilities support data rates significantly greater than the narrowband rate;
+
+“ Commission” means the Sri Lanka Telecommunications Regulatory Commission of Sri Lanka established under the Act;
+
+“Core Network” means Core network provides voice and data services to subscribers who are connected via access networks. It interconnects other local and foreign PSTN networks in order to provide cross operator services. The core network includes a series of physical entities to realize subscriber management, networking functions and service control;“LTE” means Long Term Evolution;
+
+“Operators” means a person authorized by a license under Section 17 of the Act to operate a telecommunication system;
+
+“UMTS” means Universal Mobile Telecommunications System.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+3A
+
+SCHEDULE
+
+Section A1.0 QOS Standards for Mobile Broadband
+
+1.1 Packet Switched (PS) Attach Success Rate- OMB1
+
+1.1.1 Definition
+
+Percentage of successful PS attachments
+
+1.1.2 Computation
+
+UMTS and LTE:
+
+PS Attach Success Rate = (PS attach success times/ PS attach request times)x100%
+
+This standard is measured from Core Network.
+
+1.1.3 Target Value
+
+For UMTS >90%
+
+For LTE >80%
+
+1.2 Internet Protocol (IP) Network Service Availability- OMB2
+
+1.2.1 Definition
+
+Percentage of time for which the end user is able to access IP network services.
+
+1.2.2 Computation
+
+UMTS and LTE:
+
+IP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week
+
+This standard is measured from Core Network.
+
+1.2.3 Target Value
+
+For UMTS >99.99%
+
+For LTE >99.99%
+
+1.3 Radio Resource Control (RRC) connections establishment success rate- OMB3
+
+1.3.1 Definition
+
+This QOS standard is obtained by the number of all successful RRC establishments divided by the total number of attempted RRC establishments.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.20254A
+
+1.3.2 Computation
+
+For UMTS:RRC connections establishment success rate = (Number of RRC Setup Successes/Number of RRC Connection Attempts) x 100%
+
+For LTE:RRC connections establishment success rate = (Number of RRC Successful Connections/Number of RRC Attempt Connections) x 100%
+
+This standard is measured from Access Network.
+
+1.3.3 Target ValueFor UMTS >=99.2%For LTE >=99%
+
+1.4 Packet Switched (PS) Service Drop Rate/ Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Drop Rate- OMB4
+
+1.4.1 Definition
+
+This QOS standard is obtained by the number of PS RAB/ E-RAB abnormal releases divided by the total number of PS RAB/ E-RAB releases.
+
+1.4.2 Computation
+
+For UMTS:PS Service Drop Rate = (Number of PS RAB Abnormal Releases/Total Number of PS RAB Releases) x 100%
+
+For LTE:E-RAB Drop Rate = ((Number of E-RAB Abnormal Releases/ (Number of E-RAB Abnormal Releases+ Number of E-RAB Normal Releases)) x 100%
+
+This standard is measured from Access Network.
+
+1.4.3 Target Value
+
+For UMTS <= 1% For LTE <= 0.5%
+
+1.5 Packet Switched (PS) Radio Access Network Radio Access Bearer (RAB) Setup Success Rate/ Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E- RAB) Setup Success Rate- OMB5
+
+1.5.1 Definition
+
+This QOS standard is obtained by the number of PS RAB/ E-RAB setup successes divided by the number of PS RAB/ E-RAB setup attempts.
+
+1.5.2 Computation
+
+For UMTS:
+
+PS RAB Setup Success Rate = (Number of PS RAB Setup Successes/Number of PS RAB Setup Attempts) x 100%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+5A
+
+For LTE:E-RAB Setup Success Rate = (Number of E-RAB Successful Establishments/Number of E-RAB Attempt Establishments) x 100%
+
+This standard is measured from Access Network.
+
+1.5.3 Target Value
+
+For UMTS >=98%For LTE >=99%
+
+1.6 Voice over Long-Term Evolution (VoLTE) Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate – OMB6
+
+1.6.1 DefinitionThe QOS standard is obtained by the number of E-RAB setup successes divided by the number of E-RAB setup attempts for QCI=1.
+
+1.6.2 ComputationFor LTE:
+
+VoLTE E-RAB Setup Success Rate=(Number of E-RAB Successful Establishments for QCI 1 / Number of E-RAB Attempt Establishments for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+1.6.3 Target Value
+
+For LTE >=99%
+
+*“QCI” QCI stands for Quality of Service Class Identifier
+
+1.7 Voice over Long-Term Evolution (VoLTE) Call Drop Rate – OMB7
+
+1.7.1 Definition
+
+The QOS standard is obtained by the number of E-RAB abnormal releases divided by the total number of E-RAB releases for QCI=1.
+
+1.7.2 ComputationFor LTE:
+
+VoLTE Call Drop Rate=(Number of PS RAB Abnormal Releases for QCI 1 /Total Number of PS RAB Releases for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+1.7.3 Target ValueFor LTE <=0.5%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.20256A
+
+Section BQOS Standard for Mobile broadband Reporting Formats (Templates)
+
+Reporting Date:……………………………………………… Reporting Month:……………………
+
+Packet Switched (PS) Attach Success Rate- OMB1ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearUMTS and LTE:PS Attach Success Rate = (PS attach success times/ PS attach request times) x 100%
+
+This standard is measured from Core Network.
+
+UMTS:
+
+>90%
+
+LTE:
+
+>80%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+7A
+
+Internet Protocol (IP) Network Service Availability- OMB2
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearUMTS and LTE:
+
+IP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week.
+
+This standard is measured from Core Network.
+
+UMTS:
+
+>99.99%
+
+LTE:
+
+>99.99%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.20258A
+
+Radio Resource Control (RRC) connections establishment success rate- OMB3
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor UMTS:RRC connections establishment success rate = (Number of RRC Setup Successes/Number of RRC Connection Attempts) x 100%
+
+For LTE:RRC connections establishment success rate = (Number of RRC Successful Connections/Number of RRC Attempt Connections) x 100%
+
+This standard is measured from Access Network.
+
+UMTS:
+
+>=99.2%
+
+LTE:
+
+>=99%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+9A
+
+Packet Switched (PS) Service Drop Rate/ Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Drop Rate- OMB4
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor UMTS:PS Service Drop Rate = (Number of PS RAB Abnormal Releases/Total Number of PS RAB Releases) x 100%
+
+For LTE:E-RAB Drop Rate = ((Number of E-RAB Abnormal Releases/ (Number of E-RAB Abnormal Releases + Number of E-RAB Normal Releases)) x 100%
+
+This standard is measured from Access Network.
+
+UMTS:
+
+<= 1%
+
+LTE:
+
+<=0.5%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202510A
+
+Packet Switched (PS) Radio Access Network Radio Access Bearer (RAB) Setup Success Rate/ Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate- OMB5
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor UMTS:PS RAB Setup Success Rate = (Number of PS RAB Setup Successes/Number of PS RAB Setup Attempts) x 100% For LTE:E-RAB Setup Success Rate = (Number of E- RAB Successful Establishments/Number of E- RAB Attempt Establishments) x 100%
+
+This standard is measured from Access Network.
+
+UMTS:
+
+>=98%
+
+LTE:
+
+>=99%
+
+Please indicate any factors beyond your con-trol that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+11A
+
+Voice over Long-Term Evolution (VoLTE) Evolved Universal Terrestrial Radio Access Net-work Radio Access Bearer (E-RAB) Setup Success Rate – OMB6
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:VoLTE E-RAB Setup Success Rate=(Num-ber of E-RAB Successful Establishments for QCI 1 / Number of E- RAB Attempt Establishments for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+>=99%
+
+Please indicate any factors beyond your con-trol that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202512A
+
+Voice over Long-Term Evolution (VoLTE) Call Drop Rate – OMB7
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:VoLTE Call Drop Rate=(Number of PS RAB Abnormal Releases for QCI 1 /Total Number of PS RAB Releases for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+<=0.5%
+
+Please indicate any factors beyond your con-trol that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+13A
+
+Section C
+
+1.0 QOS Standards for Fixed (Wireless) broadband
+
+1.1 Packet Switched (PS) Attach Success Rate- OFWLB1
+
+1.1.1 Definition
+
+Percentage of successful PS attachments
+
+1.1.2 Computation
+
+For LTE:
+
+PS Attach Success Rate = (PS attach success times/ PS attach request times) x 100%
+
+This standard is measured from Core Network.
+
+1.1.3 Target Value For LTE >80%
+
+1.2 Internet Protocol (IP) Network Service Availability- OFWLB2
+
+1.2.1 Definition Percentage of time for which the end user is able to access IP network services.
+
+1.2.2 Computation
+
+For LTE:
+
+IP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week
+
+This standard is measured from Core Network.
+
+1.2.3 Target Value For LTE >99.99%
+
+1.3 Radio Resource Control (RRC) connections establishment success rate- OFWLB3
+
+1.3.1 Definition
+
+This QOS standard is obtained by the number of all successful RRC establishments divided by the total number of attempted RRC establishments.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202514A
+
+1.3.2 Computation
+
+For LTE:
+
+RRC connections establishment success rate = (Number of RRC Successful Connections/Number of RRC Attempt Connections) x 100%
+
+This standard is measured from Access Network.
+
+1.3.3 Target Value For LTE >=99.5%
+
+1.4 Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Drop Rate- OFWLB4
+
+1.4.1 Definition This QOS standard is obtained by the number of E-RAB abnormal releases divided by the total number of E- RAB releases.
+
+1.4.2 Computation
+
+For LTE:
+
+E-RAB Drop Rate = ((Number of E-RAB Abnormal Releases/ (Number of E-RAB Abnormal Releases + Number of E-RAB Normal Releases)) x 100%
+
+This standard is measured from Access Network.
+
+1.4.3 Target Value
+
+For LTE <=0.5%
+
+1.5 Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate- OFWLB5
+
+1.5.1 Definition This QOS standard is obtained by the number of E-RAB setup successes divided by the number of E-RAB setup attempts.
+
+1.5.2 Computation
+
+For LTE:
+
+E-RAB Setup Success Rate = (Number of E-RAB Successful Establishments/Number of E-RAB Attempt Establishments) x 100%
+
+This standard is measured from Access Network.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+15A
+
+1.5.3 Target Value For LTE >=99%
+
+1.6 Voice over Long-Term Evolution (VoLTE) Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate – OFWLB6
+
+1.6.1 Definition
+
+This QOS standard is obtained by the number of E- RAB setup successes divided by the number of E- RAB setup attempts for QCI=1.
+
+1.6.2 Computation
+
+For LTE:VoLTE E-RAB Setup Success Rate=( Number of E-RAB Successful Establishments for QCI 1 / Number of E-RAB Attempt Establishments for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+1.6.3 Target Value For LTE >=99%
+
+1.7 Voice over Long-Term Evolution (VoLTE) Call Drop Rate – OFWLB7
+
+1.7.1 Definition This QOS standard is obtained by the number of E- RAB abnormal releases divided by the total number of E-RAB releases for QCI=1.
+
+1.7.2 Computation
+
+For LTE:VoLTE Call Drop Rate=(Number of PS RAB Abnormal Releases for QCI 1 /Total Number of PS RAB Releases for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+1.7.3 Target Value For LTE <=0.5%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202516A
+
+Section DQOS Standards for Fixed (Wireless) Broadband Reporting Formats (Templates)Reporting Date:……………………………………………… Reporting Month:………………………
+
+Packet Switched (PS) Attach Success Rate- OFWLB1
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:
+
+PS Attach Success Rate = (PS attach success times/ PS attach request times) x 100%
+
+This standard is measured from Core Network.
+
+LTE:
+
+>80%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+17A
+
+Internet Protocol (IP) Network Service Availability- OFWLB2
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearIP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week.This standard is measured from Core Network.
+
+LTE:
+
+>99.99%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202518A
+
+Radio Resource Control (RRC) connections establishment success rate- OFWLB3ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:RRC connections establishment success rate = (Number of RRC Successful Connections/Number of RRC Attempt Connections) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+>=99.5%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+19A
+
+Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Drop Rate- OFWLB4
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:E-RAB Drop Rate = ((Number of E-RAB Abnormal Releases/ (Number of E-RAB Abnormal Releases + Number of E-RAB Normal Releases)) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+<=0.5%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202520A
+
+Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate- OFWLB5
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:E-RAB Setup Success Rate = (Number of E- RAB Successful Establishments/Number of E- RAB Attempt Establishments) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+>=99%
+
+Please indicate any factors beyond your control that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+21A
+
+Voice over Long-Term Evolution (VoLTE) Evolved Universal Terrestrial Radio Access Network Radio Access Bearer (E-RAB) Setup Success Rate – OFWLB6
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/Year
+
+In LTE:
+
+For LTE:VoLTE E-RAB Setup Success Rate=(Number of E-RAB Successful Establishments for QCI 1 / Number of E- RAB Attempt Establishments for QCI 1) x 100%This standard is measured from Access Network.
+
+LTE:
+
+>=99%
+
+Please indicate any factors beyond your control that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202522A
+
+Voice over Long-Term Evolution (VoLTE) Call DropRate – OFWLB7
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearFor LTE:VoLTE Call Drop Rate=(Number of PS RAB Abnormal Releases for QCI 1 /Total Number of PS RAB Releases for QCI 1) x 100%
+
+This standard is measured from Access Network.
+
+LTE:
+
+<=0.5%
+
+Please indicate any factors beyond your control that may have led to deterioration of the parameter.
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+23A
+
+Section E
+
+1.0 QOS Standards for Fixed (Wired) broadband
+
+1.1 Internet Protocol (IP) Network Service Availability- OFWB1
+
+1.1.1 Definition Percentage of time for which the end user is able to access IP network services.
+
+1.1.2 Computation
+
+For Copper and Fibre:
+
+IP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week
+
+This standard is measured from Core Network.
+
+1.1.3 Target ValueFor Copper >99.99% For Fibre >99.99%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202524A
+
+Section FQOS Standards for Fixed (Wired) Broadband Reporting Formats (Templates)Reporting Date:……………………………………………… Reporting Month:…………………………
+
+Internet Protocol (IP) Network Service Availability- OFWB1
+
+ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/YearIP Network Service Availability = (IP service available time/Total scheduled service time for IP services) x 100%
+
+Note: The scheduled service time for IP service is assumed to be 24 hours a day, seven days a week
+
+This standard is measured from Core Network.
+
+Copper:
+
+>99.99%
+
+Fibre:
+
+>99.99%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the compu-tationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+25A
+
+Section G
+
+1.0) QOS Standard for Mobile, Fixed (wireless), Fixed (wired) Broadband Per User data rate.
+
+1.1).Downlink and Uplink per user Data Rate- UNP1
+
+1.1.1 DefinitionThe data transmission speed is defined as the data transmission rate that is achieved separately for downloading and uploading specified test files between a remote server specified by TRCSL and a user’s equipment.
+
+*“user’s equipment” user’s equipment refers a device or devices allowing a user access to network services.1.1.2 ComputationThis standard is measured from field test.
+
+1.1.3 Target Value
+
+(i). Mobile ServicesFor UMTS Per user Download Speed > 2Mbps as defined in clause 1.1.1* For UMTS Per user Upload Speed > 1Mbps as defined in clause 1.1.1* For LTE Per user Download Speed > 2Mbps as defined in clause 1.1.1* For LTE Per user Upload Speed > 1Mbps as defined in clause 1.1.1*
+
+(ii).Fixed Wireless ServicesFor LTE Per user Download Speed > 4Mbps as defined in clause 1.1.1* For LTE Per user Upload Speed > 1Mbps as defined in clause 1.1.1*
+
+(iii). Fixed wired servicesFor Copper Per user Download Speed > 2Mbps as defined in clause 1.1.1* For Copper Per user Upload Speed > 1Mbps as defined in clause 1.1.1* For Fibre Per user Download Speed > 4Mbps as defined in clause 1.1.1* For Fibre Per user Upload Speed > 2Mbps as defined in clause 1.1.1*
+
+* If these target values are not achievable due to specific technical limitations, disclosure should be made in the reporting format H.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202526A
+
+Section HQOS standards for Mobile, Fixed (wireless), Fixed (wired) Broadband Per User data rate Formats (Templates)Reporting Date:……………………………………………… Reporting Month:………………………
+
+Downlink and Uplink per user Data Rate- UNP1ComputationTargetResults for the reporting periodMonth/ YearMonth/ YearMonth/ YearQuarter/Year
+
+The data transmission speed is defined as the data transmission rate that is achieved separately for downloading and upload-ing specified test files between a remote server specified by TRCSL and a user’s equipment.
+
+(i) Mobile ServicesFor UMTS Per user Download Speed >2Mbps For UMTS Per user Upload Speed >1Mbps For LTE Per user Download Speed > 2Mbps For LTE Per user Upload Speed > 1Mbps
+
+(ii). Fixed Wireless ServicesFor LTE Per user Download Speed > 4Mbps For LTE Per user Upload Speed > 1Mbps
+
+(iii). Fixed wired servicesFor Copper Per user Download Speed > 2Mbps For Copper Per user Upload Speed > 1Mbps For Fibre Per user Download Speed > 4Mbps For Fibre Per user Upload Speed > 2Mbps
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+27A
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the target
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the Computation
+
+Factor 1
+
+Factor 2
+
+Cause of action to elimi-nate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202528A
+
+Section I
+
+1.0) QOS standards for Broadband Customer services for Fixed (wireless) and fixed (wired) operators
+
+1.1 Supply time for initial connection- OCS 1
+
+1.1.1 Definition
+
+The duration from the instant a valid service order being received by a direct service provider to the instant a working service is made available for use. This includes cases where a new access line is installed; an existing access line is taken over by another customer; an upgrade on the existing line.
+
+1.1.2 ComputationPercentage of orders completed within
+
+(i) 7 days(ii) one calendar monthMeasurement to be made according to ETSI EG 201 769-1
+
+1.1.3 Target Value
+
+For wireless
+
+(i) 70%(ii) 95%.
+
+For Wired-copper(i) 70%(ii) 95%.
+
+For Wired-Fibre(i) 70%(ii) 95%.
+
+1.2 Fault Report Rate - OCS 2
+
+1.2.1 DefinitionA fault report is a report of disrupted service or degraded service that is made by a customer and is attributable to the network of the service provider or any interconnected public network, and that is not found to be invalid.
+
+(Faults of telecommunication equipment not provided by the operator are excluded.)
+
+1.2.2 ComputationNumber of faults reported per 100 subscribers.
+
+The number of subscribers to be taken as the number at the end of the reporting period.
+
+Measurements to be made as
+
+per ETSI EG 201 769-1
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+29A
+
+1.2.3 Target Value
+
+For Wired-Copper < 8 For Wired-Fibre <8
+
+For Fixed Wireless
+
+< 4
+
+1.3 Fault Repair Time - OCS 3
+
+1.3.1 DefinitionThe duration from the instant a fault has been notified by the customer to the service provider to the instant when the service has been restored to the normal working order.
+
+(Faults of equipment not provided by the operator are excluded.)
+
+1.3.2 ComputationNumber of faults cleared as a percentage of faults reported within
+
+(i) 24 hours of reporting(ii) 48 hours of reporting(iii) 96 hours of reporting
+
+Measurements to be made as per ETSI EG 201 769-1
+
+1.3.3 Target Value
+
+(i) For Wired-Copper
+
+> 70%
+
+For Wired- Fibre
+
+> 70%
+
+For Fixed Wireless
+
+> 70%
+
+(ii) For Wired-Copper
+
+> 80%
+
+For Wired- Fibre
+
+> 80%
+
+For Fixed Wireless
+
+> 80%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202530A
+
+(iii) For Wired-Copper
+
+> 90%
+
+For Wired- Fibre
+
+> 90%
+
+For Fixed Wireless
+
+> 90%
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+31A
+
+Section JQOS standards for Broadband Customer services for Fixed (wireless) and fixed (wired) operators Reporting Formats (Templates)Reporting Date: ……………………………………………… Reporting Month:…………………………
+
+Supply time for initialconnection : OCS 1
+
+ComputationTargetResults for the reporting periodMonth/ YearMonth/ YearMonth/YearQuarter/Year
+
+Percentage of orders completed withinFor wireless(i) 7 days(ii) one calendar month(i) 70%(ii) 95%
+
+For Wired-copper
+
+(i) 70%
+
+(ii) 95%
+
+For Wired- Fibre
+
+(i) 70%
+
+(ii) 95%.
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the target
+
+Factor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Factor 1
+
+Cause of action to eliminate affectingfactorsFactor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.202532A
+
+Fault Report Rate : OCS 2ComputationTargetResults for the reporting periodMonth/YearMonth/YearMonth/YearQuarter/Year
+
+Number of faults reported per 100 subscribersThe number of subscribers to be taken as the num-ber at the end of the reporting period.
+
+For Wired-Copper< 8For Wired-Fibre<8For Fixed Wireless< 4
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1
+
+Factor 2
+
+Any other remarks
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2025'08'12Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 12.08.2025
+
+33A
+
+Fault Repair Time : OCS 3
+
+ComputationTargetResults for the reporting period
+
+Month/YearMonth/YearMonth/YearQuarter/YearNumber of faults cleared as a percentage of faults(i)reported withinFor Wired-Copper(i) 24 hours of reporting> 70%(ii) 48 hours of reportingFor Wired- Fibre(iii) 96 hours of reporting> 70%For Fixed Wireless> 70%
+
+(ii) For Wired-Copper
+
+> 80%For Wired- Fibre> 80%For Fixed Wireless> 80%(iii) For Wired-Copper> 90%For Wired- Fibre> 90%For Fixed Wireless> 90%
+
+Please indicate any factors beyond your control that may have led to the standard not meeting the targetFactor 1
+
+Factor 2
+
+Value achieved if these factors are excluded from the computationFactor 1
+
+Factor 2
+
+Cause of action to eliminate affecting factorsFactor 1Factor 2Any other remarks
+
+EOG 08 - 0113
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.

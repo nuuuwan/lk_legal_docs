@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--29_06:41:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_06:40:00-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,734** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.7 GB**), from **2020-01-01** to **2026-01-26**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**47,781** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**9.8 GB**), from **2020-01-01** to **2026-01-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (25%), **TXT** (25%) & **🤗 Hugging Face** (25%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-01-26-2026-01-26-2473-08-ta",
-    "num": "2026-01-26-2473-08-ta",
-    "date_str": "2026-01-26",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40)",
+    "doc_id": "2026-01-28-2026-01-28-2473-16-ta",
+    "num": "2026-01-28-2473-16-ta",
+    "date_str": "2026-01-28",
+    "description": "Presidential Secretariat - The Emergency (Miscellaneous Provisions and Power) Regulation No. 01 of 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-08_T.pdf",
-    "doc_number": "2473/08"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2473-16_T.pdf",
+    "doc_number": "2473/16"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-01-28 | `2026-01-28-2473-16-ta` | Presidential Secretariat - The Emergency (Miscellaneous Provisions and Power) Regulation No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-16-ta)
+- 2026-01-28 | `2026-01-28-2473-16-si` | Presidential Secretariat - The Emergency (Miscellaneous Provisions and Power) Regulation No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-16-si)
+- 2026-01-28 | `2026-01-28-2473-16-en` | Presidential Secretariat - The Emergency (Miscellaneous Provisions and Power) Regulation No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-16-en)
+- 2026-01-28 | `2026-01-28-2473-14-ta` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-14-ta)
+- 2026-01-28 | `2026-01-28-2473-14-si` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-14-si)
+- 2026-01-28 | `2026-01-28-2473-14-en` | Presidential Secretariat - Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-14-en)
+- 2026-01-28 | `2026-01-28-2473-13-ta` | Presidential Secretariat - Essential Public Service Act, No 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-13-ta)
+- 2026-01-28 | `2026-01-28-2473-13-si` | Presidential Secretariat - Essential Public Service Act, No 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-13-si)
+- 2026-01-28 | `2026-01-28-2473-13-en` | Presidential Secretariat - Essential Public Service Act, No 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-28-2026-01-28-2473-13-en)
+- 2026-01-26 | `2026-01-26-2473-10-si` | Public Utilities Commission of Sri Lanka - The Sri Lanka Electricity Act, No. 20 of 2009 (Amended) Issuance of Certificate of Exemption Harbour Village (Pvt) Ltd and 02 other Companies | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-10-si)
+- 2026-01-26 | `2026-01-26-2473-10-en` | Public Utilities Commission of Sri Lanka - The Sri Lanka Electricity Act, No. 20 of 2009 (Amended) Issuance of Certificate of Exemption Harbour Village (Pvt) Ltd and 02 other Companies | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-10-en)
+- 2026-01-26 | `2026-01-26-2473-09-si` | Public Utilities Commission of Sri Lanka - The Sri Lanka Electricity Act, No. 20 of 2009 (Amended) Issuance of Certificate of Exception Duvi's Shelter Home Stay | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-09-si)
+- 2026-01-26 | `2026-01-26-2473-09-en` | Public Utilities Commission of Sri Lanka - The Sri Lanka Electricity Act, No. 20 of 2009 (Amended) Issuance of Certificate of Exception Duvi's Shelter Home Stay | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-09-en)
 - 2026-01-26 | `2026-01-26-2473-08-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-ta)
 - 2026-01-26 | `2026-01-26-2473-08-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-si)
 - 2026-01-26 | `2026-01-26-2473-08-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-08-en)
+- 2026-01-26 | `2026-01-26-2473-05-si` | Governor's Office North Central Province - Appointments made by the Hon. Governor of the North Central Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-05-si)
+- 2026-01-26 | `2026-01-26-2473-05-en` | Governor's Office North Central Province - Appointments made by the Hon. Governor of the North Central Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-05-en)
 - 2026-01-26 | `2026-01-26-2473-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 26.01.2026 to 01.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-01-si)
 - 2026-01-26 | `2026-01-26-2473-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 26.01.2026 to 01.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-26-2026-01-26-2473-01-en)
-- 2026-01-23 | `2026-01-23-2472-61-si` | Department of Local Government - Eastern Province - Elected and Declared Vice Chairman of Padiyatalawa P. S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-61-si)
-- 2026-01-23 | `2026-01-23-2472-61-en` | Department of Local Government - Eastern Province - Elected and Declared Vice Chairman of Padiyatalawa P. S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-61-en)
-- 2026-01-23 | `2026-01-23-2472-53-si` | Election Commission - Vacated his Office of Member of Vellanai Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-53-si)
-- 2026-01-23 | `2026-01-23-2472-53-en` | Election Commission - Vacated his Office of Member of Vellanai Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-53-en)
-- 2026-01-23 | `2026-01-23-2472-52-si` | Office of the Governor - UVA Province- Appointment Made by the Governor of UVA Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-52-si)
-- 2026-01-23 | `2026-01-23-2472-52-en` | Office of the Governor - UVA Province- Appointment Made by the Governor of UVA Province | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-23-2026-01-23-2472-52-en)
-- 2026-01-22 | `2026-01-22-2472-47-ta` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-ta)
-- 2026-01-22 | `2026-01-22-2472-47-si` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-si)
-- 2026-01-22 | `2026-01-22-2472-47-en` | Department of Census and Statistics - National Consumer Price Index - December 2025 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-47-en)
-- 2026-01-22 | `2026-01-22-2472-45-ta` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-ta)
-- 2026-01-22 | `2026-01-22-2472-45-si` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-si)
-- 2026-01-22 | `2026-01-22-2472-45-en` | Presidential Secretariat - Appointed Dr. Anil Jasinghe as the Secretary to the Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-22-2026-01-22-2472-45-en)
-- 2026-01-21 | `2026-01-21-2472-24-si` | Public Utilities Commission of Sri Lanka - Sri Lanka Electricity Act, No. 20 of 2009 Electricity (Procedure for Review and Adjustment of Tariffs) Rules No. 01 of 2006) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-24-si)
-- 2026-01-21 | `2026-01-21-2472-24-en` | Public Utilities Commission of Sri Lanka - Sri Lanka Electricity Act, No. 20 of 2009 Electricity (Procedure for Review and Adjustment of Tariffs) Rules No. 01 of 2006) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-24-en)
-- 2026-01-21 | `2026-01-21-2472-22-ta` | Ministry of Digital Economy - Registration of Persons Act, No.32 of 1968. Order under Section 34. Extension of the Period. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-01-21-2026-01-21-2472-22-ta)
 
 ---
 
