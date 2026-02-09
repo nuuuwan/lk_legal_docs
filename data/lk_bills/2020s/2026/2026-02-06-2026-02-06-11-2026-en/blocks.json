@@ -1,0 +1,3035 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      92.13,
+      53.56,
+      354.67,
+      110.4
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      149.33,
+      122.41,
+      293.98,
+      136.83
+    ],
+    "text": "Part II of February 06, 2026",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.65,
+      146.41,
+      262.66,
+      160.83
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.32,
+      170.87,
+      276.97,
+      184.48
+    ],
+    "text": "(Issued on 06.02.2026)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.61,
+      474.0,
+      322.69,
+      486.73
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKATO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      501.26,
+      376.77,
+      513.28
+    ],
+    "text": "Price : Rs. 58.00 Postage : Rs. 150.00",
+    "fonts": [
+      "FMAbabldBold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.14,
+      286.69,
+      368.14,
+      318.12
+    ],
+    "text": "MAHAWILACHCHIYA EDUCATION CENTRE FOR CHILDREN (INCORPORATION)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.61,
+      333.93,
+      269.7,
+      345.27
+    ],
+    "text": "(Private Members\u2019 Bill)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      212.65,
+      363.69,
+      230.66,
+      392.51
+    ],
+    "text": "ABill",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.08,
+      408.74,
+      366.23,
+      420.76
+    ],
+    "text": "to incorporate the Mahawilachchiya Education Centre for Children",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      545.67,
+      303.53,
+      556.45
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.64,
+      443.33,
+      368.17,
+      465.67
+    ],
+    "text": "To be presented in Parliament by Hon. Chamara Sampath Dasanayake, M.P. for Badulla District",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      39.96,
+      263.1,
+      63.43
+    ],
+    "text": "02Institute of Real Estate Professionals Sri Lanka",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "1Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.62,
+      201.39,
+      78.62,
+      212.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.0,
+      286.01,
+      78.0,
+      297.48
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.54,
+      384.01,
+      78.54,
+      395.48
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.0,
+      463.25,
+      78.0,
+      474.72
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.4,
+      103.95,
+      326.1,
+      115.43
+    ],
+    "text": "An Act to incorporte the Mahawilachchiya Education",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.38,
+      117.96,
+      246.61,
+      129.43
+    ],
+    "text": "Centre for Children",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      145.96,
+      326.53,
+      227.43
+    ],
+    "text": "WHEREAS a Centre for education called and known as the \u201cMahawilachchiya Education Centre for Children\u201d has been established in Sri Lanka for the purpose of effectually carrying out its objectives and transacting all matters connected with the said Centre according to the rules agreed to by its members:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      243.96,
+      326.52,
+      311.43
+    ],
+    "text": "AND WHEREAS the said Centre which has heretofore successfully carried out and promoted the several objectives and matters for which it was established, has applied to be incorporated. It will be to the advantage of the public if the said application is granted:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      327.96,
+      326.52,
+      353.43
+    ],
+    "text": "BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      369.7,
+      326.51,
+      409.43
+    ],
+    "text": "1. This Act may be cited as the Mahawilachchiya Education Centre for Children (Incorporation) Act, No. of 2026.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      419.7,
+      326.52,
+      529.43
+    ],
+    "text": "2. (1) From and after the date of commencement of this Act, such and so many persons as now are members of the Mahawilachchiya Centre For Education for Children (hereinafter referred to as the \u201cCentre\u201d) shall hereafter be admitted as members of the body corporate hereby constituted which shall have perpetual succession under the name style of \u201cMahawilachchiya Centre for Education for Children\u201d (hereinafter referred to as the \u201cbody corporate\u201d)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.0,
+      544.65,
+      168.55,
+      553.82
+    ],
+    "text": "PL 15608 - 285 (01/2026)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.0,
+      372.53,
+      361.78,
+      381.71
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.0,
+      149.01,
+      360.22,
+      158.18
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.0,
+      422.01,
+      388.87,
+      479.18
+    ],
+    "text": "Incorporation of the Mahawilachchiya Education Centre for Children",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "2Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      75.96,
+      302.53,
+      115.43
+    ],
+    "text": "and by that name may sue and be sued with full power and authority to have, and use a common seal and to alter the same at its pleasure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      131.96,
+      302.52,
+      213.43
+    ],
+    "text": "(2) The body corporate shall be deemed to be a Voluntary Social Services Organization within the meaning and for the purpose of the Voluntary Social Services Organizations (Registration and Supervision) Act, No. 31 of 1980 and the provisions of that Act shall apply to it and to the management of the affairs of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      229.7,
+      302.5,
+      269.43
+    ],
+    "text": "3. (1) Subject to the provisions of any written law, the general objects for which the body corporate is constituted are to-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      279.96,
+      302.51,
+      333.43
+    ],
+    "text": "(a) Conduct educational and skills development programmes to better equip youth to meet the needs of job opportunities of the future and achieve their goals;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      349.96,
+      302.52,
+      375.43
+    ],
+    "text": "(b) Establish a training Centre for Information Technology [IT]-related services;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      391.96,
+      302.52,
+      417.43
+    ],
+    "text": "(c) Provide and/or arrange Information Technology (IT)-related services for the youth in rural areas;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      433.96,
+      302.48,
+      459.43
+    ],
+    "text": "(d) Conduct all such programmes as needed from time to time to enhance skills and learning;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      475.96,
+      302.52,
+      543.43
+    ],
+    "text": "(2) In the implementation of the objectives specified in subsection (1) the body corporate shall ensure that such implementation will be carried out without any distinction based on race, religion, language, caste, gender, political opinion, place of birth or such other ground.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49.0,
+      145.75,
+      54.0,
+      157.22
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      230.65,
+      54.0,
+      242.12
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      308.17,
+      54.0,
+      319.64
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      405.85,
+      54.0,
+      417.32
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      504.08,
+      54.0,
+      515.55
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.0,
+      232.46,
+      351.1,
+      270.43
+    ],
+    "text": "General objects of the bodyCorporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "3Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      75.7,
+      326.52,
+      159.93
+    ],
+    "text": "4. The objectives of the body corporate shall be carried out subject to/with the necessary approvals under applicable/the relevant written laws and in such a manner as to avoid any conflict between the work of the body corporate and of any work being carried out simultaneously by any Ministry, Department of the Government or of any Provincial Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      206.2,
+      326.52,
+      275.93
+    ],
+    "text": "5. (1) Subject to the provisions of this Act and the Rules made in Section 7 the management and administration of the body corporate shall be carried out by a \u201cBoard of Directors\u201d (hereinafter referred to as the \u201cBoard\u201d) consisting of such office bearers as may be specified by the rules under Section 7.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      293.96,
+      326.51,
+      395.43
+    ],
+    "text": "(2) (a) The members of the Board of Directors of the Centre holding office on the day immediately preceding the date of commencement of this Act shall, subject to the rules made under paragraph (b), function as an interim Board of the body corporate until the first Board is appointed or elected within the period specified in paragraph (d) in the manner provided for in the rules under Section 7;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      413.96,
+      326.52,
+      485.43
+    ],
+    "text": "(b) Subject to the provisions of Section 7, the Interim Board of the body corporate shall have the power to make rules for the interim administration of the body corporate not inconsistent with the provisions of this Act or any other written law;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      503.96,
+      326.51,
+      530.43
+    ],
+    "text": "(c) Any decision of the interim Board shall be taken by the majority of its members present at any meeting;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.0,
+      133.6,
+      78.0,
+      145.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.0,
+      249.85,
+      78.0,
+      261.32
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.29,
+      338.65,
+      78.29,
+      350.12
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.0,
+      429.49,
+      78.0,
+      440.96
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.24,
+      518.41,
+      78.24,
+      529.88
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      330.0,
+      76.37,
+      383.77,
+      191.15
+    ],
+    "text": "Body Corporate to ensure no conflict with the work of Ministry or Department of the Government or Provincial Council and Management of affairs of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      330.71,
+      209.01,
+      385.36,
+      246.99
+    ],
+    "text": "The management of the affairs of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "4Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      75.96,
+      302.52,
+      115.93
+    ],
+    "text": "(d) The first Board of the body corporate shall be appointed or elected within one year of the date of commencement of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      128.46,
+      302.52,
+      199.93
+    ],
+    "text": "(3) (a) Every office bearer of the Board including the patrons and advisers, shall be appointed or elected for a period of three years and any such office bearer, patron or advisor shall be eligible for re-appointment or re-election after the lapse of the said period of three years for a further period of three years;.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      212.46,
+      302.52,
+      259.93
+    ],
+    "text": "(b) In the event of a vacancy occurring due to death, resignation, incapacity or removal from office of an office bearer, the Board shall, having regard to the rules of the body corporate, elect or appoint a person to fill such vacancy;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      274.46,
+      302.5,
+      299.93
+    ],
+    "text": "(4) Subject to the provisions of this Act, the Board shall decide from time to time:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      314.46,
+      302.51,
+      339.93
+    ],
+    "text": "(a) on the criteria required to be satisfied by any person to be eligible for membership;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      354.46,
+      302.51,
+      379.93
+    ],
+    "text": "(b) the different classes/categories of members (including honorary members);",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      394.46,
+      302.51,
+      419.93
+    ],
+    "text": "(c) the rights and obligations of the members including the right to vote, if any;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      434.46,
+      302.51,
+      459.93
+    ],
+    "text": "(d) The circumstances in which and how the membership shall cease;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      472.46,
+      302.52,
+      545.93
+    ],
+    "text": "(5) No members of the Board shall be appointed to any salaried office in the Centre or any of the offices of the Centre paid by fees No remuneration or other monetary benefits shall be given by the Centre to any member of the Board, except reimbursement of expenses incurred on behalf of the Centre.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      49.0,
+      140.6,
+      54.0,
+      152.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.13,
+      212.6,
+      54.13,
+      224.07
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.65,
+      288.89,
+      54.65,
+      300.36
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.07,
+      394.73,
+      54.07,
+      406.2
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.61,
+      485.07,
+      54.61,
+      496.54
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "5Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.0,
+      75.7,
+      326.52,
+      157.43
+    ],
+    "text": "6. Subject to provisions of this Act and any other written law, the body corporate shall have the power to do, perform and execute all such acts and matters as are necessary or desirable for the promotion and furtherance of the objectives of the body corporate or any one of them, including the power to-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114.0,
+      167.96,
+      326.51,
+      263.43
+    ],
+    "text": "(a) to purchase, rent, construct, renovate and otherwise obtain lands or buildings which may be required for the purposes of the body corporate and to deal with or dispose of the same as may be determined by the Board with a view to promoting the objectives of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114.0,
+      273.96,
+      326.52,
+      355.43
+    ],
+    "text": "(b) to enter into and perform or carry out, whether directly, or through any officer or agent authorized on its behalf by the body corporate, all such contracts or agreements as may be necessary for the attainment of the objectives or the exercise of the powers of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114.0,
+      365.96,
+      326.52,
+      405.43
+    ],
+    "text": "(c) to borrow or raise funds with or without securities and to receive grants, gifts or donations from local or foreign sources in cash or kind:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114.0,
+      421.96,
+      326.51,
+      489.43
+    ],
+    "text": "Provided that, the Board shall obtain the prior written approval of the Department of External Resources in respect of all foreign funds, grants, gifts or donations received by or made to the body corporate;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      114.0,
+      502.96,
+      326.52,
+      542.43
+    ],
+    "text": "(d) to make, draw, accept, discount, endorse, negotiate, buy, sell and issue bills of exchange, cheques, promissory notes and other negotiable",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.0,
+      131.69,
+      78.0,
+      143.16
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.0,
+      209.69,
+      78.0,
+      221.16
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.12,
+      288.29,
+      78.12,
+      299.76
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.0,
+      366.47,
+      78.0,
+      377.94
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.36,
+      450.29,
+      78.36,
+      461.76
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.0,
+      531.89,
+      78.0,
+      543.36
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      330.0,
+      76.91,
+      364.22,
+      105.29
+    ],
+    "text": "Powers of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "6Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.0,
+      75.96,
+      302.5,
+      101.43
+    ],
+    "text": "instruments and to open, operate, maintain and close accounts in any bank;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      115.96,
+      302.52,
+      155.43
+    ],
+    "text": "(e) to invest any funds that are not immediately required for the purpose of the body corporate, in such manner as the Board may determine;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      169.96,
+      302.51,
+      237.43
+    ],
+    "text": "(f) to undertake, accept, execute, perform and administer any lawful trust having objectives similar to those of the body corporate or any real or personal property with a view to promoting the objectives of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      251.96,
+      302.51,
+      333.43
+    ],
+    "text": "(g) to appoint, employ, dismiss or terminate the services of officers and other employees of the body corporate, exercise disciplinary control over them and to pay them such salaries and allowances as maybe determined by the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      349.96,
+      302.52,
+      389.43
+    ],
+    "text": "(h) to organize lectures, seminars and conferences with a view to promoting the objectives of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      405.96,
+      302.51,
+      445.43
+    ],
+    "text": "(i) to liaise and to co-ordinate with other local and foreign institutions having similar objectives to those of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      461.96,
+      302.51,
+      487.43
+    ],
+    "text": "(j) to train employees in Sri Lanka for the purposes of the body corporate; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      503.96,
+      302.52,
+      543.43
+    ],
+    "text": "(k) to do all such acts authorized by this Act for the achievement of the objectives of the body corporate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.0,
+      144.46,
+      54.0,
+      155.93
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.0,
+      226.3,
+      54.0,
+      237.77
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.37,
+      308.54,
+      54.37,
+      320.01
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.0,
+      406.3,
+      54.0,
+      417.77
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.61,
+      504.82,
+      54.61,
+      516.29
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "7Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.0,
+      75.7,
+      326.53,
+      157.43
+    ],
+    "text": "7. (1) It shall be lawful for the body corporate from time to time, at any general meeting of the body corporate and by a majority of not less than two-thirds of the members present and voting, to make rules, not inconsistent with the provisions of this Act or any other written law, relating to the following matters-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      171.96,
+      250.86,
+      183.43
+    ],
+    "text": "(a) the fees payable by members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      197.96,
+      326.51,
+      251.43
+    ],
+    "text": "(b) the election of office bearers of the Board or vacation of or removal from office of the office bearers and the powers, duties and functions of the office bearers;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      267.96,
+      326.52,
+      307.43
+    ],
+    "text": "(c) the terms and conditions of appointment, powers, functions and duties of various officers and other employees of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      323.96,
+      326.53,
+      391.43
+    ],
+    "text": "(d) the procedure to be followed in summoning and holding of meetings of the body corporate and the Board, including notices and agenda of such meetings, the quorum and the conduct of business thereat;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      407.96,
+      326.51,
+      432.43
+    ],
+    "text": "(e) the qualifications or disqualifications to be a member of the Board and the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      446.96,
+      326.52,
+      471.43
+    ],
+    "text": "(f) the administration and management of the of the property of the body corporate;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.0,
+      485.96,
+      326.51,
+      536.43
+    ],
+    "text": "(g) the procedure for and manner of liaising and coordinating with other local and foreign institutions having objectives similar to that of the body corporate; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.37,
+      135.1,
+      78.37,
+      146.57
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.0,
+      224.98,
+      78.0,
+      236.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.48,
+      324.46,
+      78.48,
+      335.93
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.12,
+      408.7,
+      78.12,
+      420.17
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.62,
+      499.0,
+      78.62,
+      510.47
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.0,
+      76.37,
+      378.21,
+      95.15
+    ],
+    "text": "Rules of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "8Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.0,
+      75.96,
+      302.51,
+      113.43
+    ],
+    "text": "(h) generally, the management of the affairs of the body corporate and the dissolution of the body corporate.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      126.96,
+      302.51,
+      164.43
+    ],
+    "text": "(2) Any rule made by the body corporate maybe amended, altered, added to or rescinded at a like meeting and in like manner, as a rule made under subsection (1) of this Section.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      177.96,
+      302.52,
+      202.43
+    ],
+    "text": "(3) The rules made under subsection (1) shall be published in the Gazette and shall come into effect on the date thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      215.96,
+      302.52,
+      292.43
+    ],
+    "text": "(4) Every rule made by the body corporate shall, within three months of its publication in the Gazette, be brought before the Parliament for approval. Any rule which is not so approved shall be deemed to be rescinded as from the date of such disapproval-but without prejudice to anything previously done thereunder.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      305.96,
+      302.52,
+      343.43
+    ],
+    "text": "(5) Notification of the date on which any such rule is deemed to be so rescinded under subsection (4) shall be published in the Gazette.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      356.96,
+      302.52,
+      382.43
+    ],
+    "text": "(6) The members of the body corporate shall at all times be subject to the rules of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      396.7,
+      302.52,
+      436.43
+    ],
+    "text": "8. The Board shall maintain a register of members of the Centre in which the name, address and other essential details of the members shall be inscribed.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      450.7,
+      278.36,
+      462.72
+    ],
+    "text": "9. (1) The body Corporate shall have its own funds.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      476.96,
+      302.52,
+      544.43
+    ],
+    "text": "(2) All monies received by way of gifts, bequests, donations, subscriptions, contributions, fees or grants for and on account of the body corporate shall be deposited in one or more banks approved by the Board to the credit of the body corporate subject to the provisions of Section 6(c).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      49.0,
+      139.6,
+      54.0,
+      151.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44.01,
+      228.74,
+      54.01,
+      240.21
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44.61,
+      306.08,
+      54.61,
+      317.55
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44.01,
+      396.86,
+      54.01,
+      408.33
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44.49,
+      490.82,
+      54.49,
+      502.29
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      306.0,
+      399.21,
+      356.53,
+      417.99
+    ],
+    "text": "Register of the members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      306.0,
+      453.21,
+      354.21,
+      471.99
+    ],
+    "text": "Funds of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "9Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.0,
+      75.96,
+      326.52,
+      129.43
+    ],
+    "text": "(3) All such money a may be required to defray expenditure incurred by the body corporate in the exercise, performance and discharge of its duties, powers, functions and obligations under this Act, shall be paid out of the funds.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.0,
+      145.7,
+      326.52,
+      171.43
+    ],
+    "text": "10. (1) The financial year of the body corporate shall be the calendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.0,
+      187.96,
+      326.51,
+      241.43
+    ],
+    "text": "(2) The body corporate shall cause proper accounts to be maintained in respect of its income and expenditure, assets and liabilities and all other transactions of the body corporate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.0,
+      257.96,
+      326.52,
+      325.43
+    ],
+    "text": "(3) The accounts of the body corporate shall be audited annually by the Auditor General or a qualified auditor appointed by the Auditor-General in terms of Article 154 of the Constitution and be certified by the Auditor-General or such auditor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      84.0,
+      341.96,
+      326.52,
+      439.93
+    ],
+    "text": "(4) For the purpose of this section \u201cqualified auditor\u201d means-(a) an individual who, being a member of the Institute of Chartered Accountants of Sri Lanka or any other relevant institute established by law, possesses a certificate issued by the Council of such institute to practise as an Accountant; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.0,
+      457.46,
+      326.52,
+      541.43
+    ],
+    "text": "(b) a firm of Accountants of which each of the resident partners is a member of the Institute of Chartered Accountants of Sri Lanka or of any other relevant institute established by law, and possesses a certified to practise as an Accountant, issued by the Council of such institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73.48,
+      145.7,
+      78.48,
+      157.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.0,
+      229.82,
+      78.0,
+      241.29
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.6,
+      313.82,
+      78.6,
+      325.29
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.0,
+      399.1,
+      78.0,
+      410.57
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.48,
+      487.28,
+      78.48,
+      498.75
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      329.0,
+      146.97,
+      371.0,
+      165.75
+    ],
+    "text": "Accounting and Auditing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "10Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60.0,
+      75.7,
+      302.52,
+      246.93
+    ],
+    "text": "11. (1) The Board shall prepare a report of the activities of the body corporate for each financial year and submit such report together with the audited statement of accounts and a list of all assets and liabilities of the body corporate certified by the Auditor-General or a qualified Auditor or a qualified auditor referred to in section 10, to the Secretary of the Ministry of the Minister assigned the subject of Education and to the Registrar of the Voluntary Social Service Organizations appointed under the Voluntary Social Service Organizations (Registration and (2) Supervision) Act, No. 31 of 1980 before the expiration of six months of the year succeeding the year to which such report relates.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60.0,
+      264.46,
+      302.52,
+      348.43
+    ],
+    "text": "(2) A separate statement of accounts relating to the foreign and local monies received by the body corporate and details of all contracts and agreements entered into by the body corporate and the rules of the body corporate under Section 7 during the financial year shall be attached to the report referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60.0,
+      364.7,
+      302.52,
+      446.43
+    ],
+    "text": "12. All debts and liabilities of the Center existing on the day immediately preceding the date of commencement of this Act, shall be paid by the body corporate hereby constituted. All debts due to and subscriptions and contributions payable to the Centre on the day shall be paid to the body corporate for the purpose of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      60.0,
+      462.7,
+      302.52,
+      544.43
+    ],
+    "text": "13. Subject to the provisions of this Act and any other written law, the body corporate shall be able and capable in law to have and hold any property, movable or immovable, which may become vested in it by virtue of any purchase, grant, gift, testamentary disposition or otherwise, and all such property shall be held by the body corporate for the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      49.0,
+      133.6,
+      54.0,
+      145.07
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.0,
+      206.35,
+      54.0,
+      217.82
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.01,
+      293.6,
+      54.01,
+      305.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.0,
+      378.08,
+      54.0,
+      389.55
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.0,
+      463.08,
+      54.0,
+      474.55
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      43.83,
+      532.08,
+      53.83,
+      543.55
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      306.01,
+      76.37,
+      353.34,
+      85.55
+    ],
+    "text": "Annual Report",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      306.0,
+      369.36,
+      354.66,
+      397.73
+    ],
+    "text": "Debts due and payable by the Centre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      306.0,
+      465.12,
+      349.1,
+      522.3
+    ],
+    "text": "The body corporate may hold movable and immovable property",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      111.82,
+      39.96,
+      324.0,
+      65.43
+    ],
+    "text": "11Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.0,
+      75.96,
+      326.53,
+      115.43
+    ],
+    "text": "purpose of this Act and subject to the rules of the body corporate made under Section 7, with the power to sell, mortgage, lease, exchange or otherwise dispose of the same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.0,
+      131.7,
+      326.52,
+      283.43
+    ],
+    "text": "14. Subject to the provisions of this Act, the income and property of the body corporate howsoever derived, shall be utilized solely towards promoting the objectives of the body corporate and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus, profit or otherwise howsoever to members of the body corporate provided that nothing herein shall prevent the payment in good faith of reasonable and proper remuneration to any officer or servant of the body corporate or any member of the body corporate in return for any services actually rendered to the body corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.0,
+      299.7,
+      326.52,
+      409.43
+    ],
+    "text": "15. (1) The seal of the body corporate shall not be affixed to any instruments whatsoever, except in the presence of two members of the Board or one member of the Board and the Secretary of the body corporate or one member of the Board and some other person appointed by the Board for the purpose who shall assign their names to the instrument in token of their presence and such signing shall be independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.0,
+      425.96,
+      326.51,
+      465.43
+    ],
+    "text": "(2) The seal of the body corporate shall be in the custody of an officer bearer of the Board as may be decided by the Board.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.0,
+      481.7,
+      326.52,
+      535.43
+    ],
+    "text": "16. (1) If upon the winding up or dissolution of the body corporate, there remains after the satisfaction of all its debts and liabilities, any property whatsoever, such property shall not be distributed among the members of the body corporate,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      73.48,
+      146.82,
+      78.48,
+      158.29
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.0,
+      216.66,
+      78.0,
+      228.13
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.72,
+      300.42,
+      78.72,
+      311.89
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.0,
+      370.98,
+      78.0,
+      382.45
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.48,
+      455.94,
+      78.48,
+      467.41
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      330.34,
+      133.88,
+      377.67,
+      162.25
+    ],
+    "text": "Application of monies and property",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      330.0,
+      301.2,
+      360.21,
+      329.57
+    ],
+    "text": "Seal of the body corporate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      329.0,
+      483.53,
+      373.44,
+      511.9
+    ],
+    "text": "Property remaining on dissolution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      39.96,
+      287.54,
+      65.43
+    ],
+    "text": "12Mahawilachchiya Education Centre for Children (Incorporation)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      75.96,
+      301.68,
+      143.43
+    ],
+    "text": "but shall be given or transferred to any other institution or institutions having objectives similar to those of the body corporate. Such institution or institutions by the rules thereof will be prohibited from distributing its or their income or property among its or their members.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      159.96,
+      301.68,
+      227.43
+    ],
+    "text": "(2) For the purpose of subsection (1), the appropriate institution or institutions shall be determined by the members of the body corporate immediately at or before the time of dissolution at a general meeting by the majority of votes of the members present.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      243.96,
+      301.68,
+      311.43
+    ],
+    "text": "(3) In determining such institution or institutions so far as effect cannot be given to subsection (1), any property so remaining shall be utilized for some charitable objective, to be determined by the members in accordance with subsection (2).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      327.7,
+      301.67,
+      367.43
+    ],
+    "text": "17. Nothing contained in this Act shall prejudice or affect the rights of the Republic or of any body, political or corporate.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.0,
+      383.7,
+      301.67,
+      409.43
+    ],
+    "text": "18. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala Text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      49.4,
+      133.07,
+      54.4,
+      144.54
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      43.53,
+      217.07,
+      53.53,
+      228.54
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44.61,
+      300.6,
+      54.61,
+      312.07
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      44.31,
+      388.01,
+      349.55,
+      425.99
+    ],
+    "text": "20Sinhala text to prevail in the case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      306.0,
+      329.68,
+      350.66,
+      358.06
+    ],
+    "text": "Saving of the rights of the Republic",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      144.0,
+      536.93,
+      297.54,
+      546.11
+    ],
+    "text": "Department of Government Printing, Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
