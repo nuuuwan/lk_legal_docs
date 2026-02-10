@@ -2,34 +2,34 @@
   "doc_class_label": "lk_acts",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.",
-  "time_updated": "2026-02-10 05:50:40",
-  "n_docs": 3952,
-  "n_docs_with_pdfs": 3946,
-  "n_docs_with_text": 3946,
+  "time_updated": "2026-02-10 17:48:56",
+  "n_docs": 3955,
+  "n_docs_with_pdfs": 3949,
+  "n_docs_with_text": 3949,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 48,
   "date_str_min": "1981-01-22",
-  "date_str_max": "2026-01-20",
-  "dataset_size": 6813309010,
+  "date_str_max": "2026-02-03",
+  "dataset_size": 6814233383,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_acts/data/lk_acts/docs_by_decade_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_acts",
-    "doc_id": "2026-01-20-2026-01-20-01-2026-ta",
-    "num": "2026-01-20-01-2026-ta",
-    "date_str": "2026-01-20",
-    "description": "Colombo Port City Economic Commission (Amendment)",
+    "doc_id": "2026-02-03-2026-02-03-02-2026-ta",
+    "num": "2026-02-03-02-2026-ta",
+    "date_str": "2026-02-03",
+    "description": "Universities (Amendment)",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2026/1/01-2026_T.pdf",
-    "doc_number": "01/2026"
+    "url_pdf": "https://documents.gov.lk/view/acts/2026/2/02-2026_T.pdf",
+    "doc_number": "02/2026"
   }
 }

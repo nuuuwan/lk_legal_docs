@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_05:50:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_17:48:59-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,952** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-01-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**3,955** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-02-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 ```json
 {
     "doc_type": "lk_acts",
-    "doc_id": "2026-01-20-2026-01-20-01-2026-ta",
-    "num": "2026-01-20-01-2026-ta",
-    "date_str": "2026-01-20",
-    "description": "Colombo Port City Economic Commission (Amendment)",
+    "doc_id": "2026-02-03-2026-02-03-02-2026-ta",
+    "num": "2026-02-03-02-2026-ta",
+    "date_str": "2026-02-03",
+    "description": "Universities (Amendment)",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2026/1/01-2026_T.pdf",
-    "doc_number": "01/2026"
+    "url_pdf": "https://documents.gov.lk/view/acts/2026/2/02-2026_T.pdf",
+    "doc_number": "02/2026"
 }
 ```
 
@@ -41,6 +41,9 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 🆕 20 Latest documents
 
+- 2026-02-03 | `2026-02-03-02-2026-ta` | Universities (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-03-2026-02-03-02-2026-ta)
+- 2026-02-03 | `2026-02-03-02-2026-si` | Universities (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-03-2026-02-03-02-2026-si)
+- 2026-02-03 | `2026-02-03-02-2026-en` | Universities (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-03-2026-02-03-02-2026-en)
 - 2026-01-20 | `2026-01-20-01-2026-ta` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-01-20-2026-01-20-01-2026-ta)
 - 2026-01-20 | `2026-01-20-01-2026-si` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-01-20-2026-01-20-01-2026-si)
 - 2026-01-20 | `2026-01-20-01-2026-en` | Colombo Port City Economic Commission (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-01-20-2026-01-20-01-2026-en)
@@ -58,9 +61,6 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 - 2025-12-05 | `2025-12-05-23-2025-en` | Appropriation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-12-05-2025-12-05-23-2025-en)
 - 2025-10-30 | `2025-10-30-22-2025-ta` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-ta)
 - 2025-10-30 | `2025-10-30-22-2025-si` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-si)
-- 2025-10-30 | `2025-10-30-22-2025-en` | Personal Data Protection (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-30-2025-10-30-22-2025-en)
-- 2025-10-07 | `2025-10-07-21-2025-ta` | Convention against Doping in Sport (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-07-2025-10-07-21-2025-ta)
-- 2025-10-07 | `2025-10-07-21-2025-si` | Convention against Doping in Sport (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2025/2025-10-07-2025-10-07-21-2025-si)
 
 ---
 
