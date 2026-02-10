@@ -1,16 +1,16 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **112,313** documents (**35.1 GB**).
+**4** datasets, with **112,316** documents (**35.2 GB**).
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_05:50:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_17:48:56-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,952** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-01-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**3,955** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-02-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -22,7 +22,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_05:49:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_17:47:15-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -58,7 +58,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 004 ⚖️ Extraordinary Gazettes 2010S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--09_06:47:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_06:56:39-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s)
 
