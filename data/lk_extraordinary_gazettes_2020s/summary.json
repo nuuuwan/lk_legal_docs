@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-11 06:48:34",
-  "n_docs": 47960,
-  "n_docs_with_pdfs": 12280,
-  "n_docs_with_text": 12280,
+  "time_updated": "2026-02-12 06:45:36",
+  "n_docs": 47997,
+  "n_docs_with_pdfs": 12401,
+  "n_docs_with_text": 12401,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-02-10",
-  "dataset_size": 10051721943,
+  "date_str_max": "2026-02-11",
+  "dataset_size": 10137535635,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-10-2026-02-10-2475-11-si",
-    "num": "2026-02-10-2475-11-si",
-    "date_str": "2026-02-10",
-    "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7).",
+    "doc_id": "2026-02-11-2026-02-11-2475-16-ta",
+    "num": "2026-02-11-2475-16-ta",
+    "date_str": "2026-02-11",
+    "description": "Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2475-11_S.pdf",
-    "doc_number": "2475/11"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2475-16_T.pdf",
+    "doc_number": "2475/16"
   }
 }
