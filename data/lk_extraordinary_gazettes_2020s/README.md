@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_06:45:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--13_06:46:42-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**47,997** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.1 GB**), from **2020-01-01** to **2026-02-11**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,042** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.2 GB**), from **2020-01-01** to **2026-02-11**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (26%), **TXT** (26%) & **🤗 Hugging Face** (26%)
 
@@ -60,7 +60,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-06 | `2026-02-06-2474-47-ta` | Land Acquisition - Hunupitiya, Kelaniya D/S/D, Gampaha District (Section 05) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-47-ta)
 - 2026-02-06 | `2026-02-06-2474-47-si` | Land Acquisition - Hunupitiya, Kelaniya D/S/D, Gampaha District (Section 05) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-47-si)
 - 2026-02-06 | `2026-02-06-2474-47-en` | Land Acquisition - Hunupitiya, Kelaniya D/S/D, Gampaha District (Section 05) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-47-en)
-- 2026-02-03 | `2026-02-03-2474-25-ta` | Election Commission - Filling of the Vacancy in the Office of Chairman of the Minuwangoda Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-03-2026-02-03-2474-25-ta)
+- 2026-02-06 | `2026-02-06-2474-46-ta` | 2474/46 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-46-ta)
 
 ---
 
