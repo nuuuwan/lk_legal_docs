@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_07:02:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_06:43:05-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,074** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.2 GB**), from **2020-01-01** to **2026-02-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,098** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.3 GB**), from **2020-01-01** to **2026-02-12**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (26%), **TXT** (26%) & **🤗 Hugging Face** (26%)
 
@@ -46,10 +46,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-11 | `2026-02-11-2475-16-ta` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-ta)
 - 2026-02-11 | `2026-02-11-2475-16-si` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-si)
 - 2026-02-11 | `2026-02-11-2475-16-en` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-en)
+- 2026-02-10 | `2026-02-10-2475-11-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-ta)
 - 2026-02-10 | `2026-02-10-2475-11-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-si)
 - 2026-02-10 | `2026-02-10-2475-11-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-en)
+- 2026-02-10 | `2026-02-10-2475-09-si` | Ministry of Education - Degree Awarding Institute Order Asia Pacific Institute of Information Technology Lanka (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-09-si)
+- 2026-02-10 | `2026-02-10-2475-09-en` | Ministry of Education - Degree Awarding Institute Order Asia Pacific Institute of Information Technology Lanka (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-09-en)
 - 2026-02-10 | `2026-02-10-2475-08-si` | Land Acquisition | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-08-si)
 - 2026-02-10 | `2026-02-10-2475-08-en` | Land Acquisition | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-08-en)
+- 2026-02-09 | `2026-02-09-2475-05-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-05-ta)
 - 2026-02-09 | `2026-02-09-2475-05-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-05-si)
 - 2026-02-09 | `2026-02-09-2475-05-en` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-05-en)
 - 2026-02-09 | `2026-02-09-2475-01-si` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-01-si)
@@ -57,10 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-07 | `2026-02-07-2474-65-si` | Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 and 33 of Sports Law No. 25 of 1973 as Amended | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-07-2026-02-07-2474-65-si)
 - 2026-02-07 | `2026-02-07-2474-65-en` | Ministry of Youth Affairs and Sports - Regulations Made by the Minister of Youth Affairs and Sports under Sections 32 and 33 of Sports Law No. 25 of 1973 as Amended | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-07-2026-02-07-2474-65-en)
 - 2026-02-06 | `2026-02-06-2474-50-ta` | Department of Labour Special Allowance Payable to Workers in the Cocoa Cardamom and Pepper Growing and Manufacturing Trade | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-50-ta)
-- 2026-02-06 | `2026-02-06-2474-50-si` | Department of Labour Special Allowance Payable to Workers in the Cocoa Cardamom and Pepper Growing and Manufacturing Trade | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-50-si)
-- 2026-02-06 | `2026-02-06-2474-50-en` | Department of Labour Special Allowance Payable to Workers in the Cocoa Cardamom and Pepper Growing and Manufacturing Trade | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-50-en)
-- 2026-02-06 | `2026-02-06-2474-48-si` | Election Commission - Elected to the 03 Members of Nochchiyagama Pradeshuya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-48-si)
-- 2026-02-06 | `2026-02-06-2474-48-en` | Election Commission - Elected to the 03 Members of Nochchiyagama Pradeshuya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-06-2026-02-06-2474-48-en)
 
 ---
 
