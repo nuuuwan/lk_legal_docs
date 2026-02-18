@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-17 06:42:40",
-  "n_docs": 48098,
-  "n_docs_with_pdfs": 12523,
-  "n_docs_with_text": 12523,
+  "time_updated": "2026-02-18 06:44:28",
+  "n_docs": 48110,
+  "n_docs_with_pdfs": 12675,
+  "n_docs_with_text": 12675,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-02-12",
-  "dataset_size": 10257490713,
+  "date_str_max": "2026-02-16",
+  "dataset_size": 10377783755,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-12-2026-02-12-2475-27-si",
-    "num": "2026-02-12-2475-27-si",
-    "date_str": "2026-02-12",
-    "description": "2475/27",
+    "doc_id": "2026-02-16-2026-02-16-2476-01-si",
+    "num": "2026-02-16-2476-01-si",
+    "date_str": "2026-02-16",
+    "description": "Sri Lanka Customs - Rates of Exchange with effect from",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2475-27_S.pdf",
-    "doc_number": "2475/27"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-01_S.pdf",
+    "doc_number": "2476/01"
   }
 }
