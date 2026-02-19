@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_05:45:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_17:44:59-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,173** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-02-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,176** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-02-19**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 ```json
 {
     "doc_type": "lk_bills",
-    "doc_id": "2026-02-06-2026-02-06-11-2026-ta",
-    "num": "2026-02-06-11-2026-ta",
-    "date_str": "2026-02-06",
-    "description": "Mahawilachchiya Education Centre for Children (Incorporation) - GS",
+    "doc_id": "2026-02-19-2026-02-19-12-2026-ta",
+    "num": "2026-02-19-12-2026-ta",
+    "date_str": "2026-02-19",
+    "description": "Rescue, Rehabilitation and Insolvency (Corporate and Personal) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/11-2026_T.pdf",
-    "doc_number": "11/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/12-2026_T.pdf",
+    "doc_number": "12/2026"
 }
 ```
 
@@ -41,6 +41,9 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 🆕 20 Latest documents
 
+- 2026-02-19 | `2026-02-19-12-2026-ta` | Rescue, Rehabilitation and Insolvency (Corporate and Personal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-19-2026-02-19-12-2026-ta)
+- 2026-02-19 | `2026-02-19-12-2026-si` | Rescue, Rehabilitation and Insolvency (Corporate and Personal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-19-2026-02-19-12-2026-si)
+- 2026-02-19 | `2026-02-19-12-2026-en` | Rescue, Rehabilitation and Insolvency (Corporate and Personal) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-19-2026-02-19-12-2026-en)
 - 2026-02-06 | `2026-02-06-11-2026-ta` | Mahawilachchiya Education Centre for Children (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-06-2026-02-06-11-2026-ta)
 - 2026-02-06 | `2026-02-06-11-2026-si` | Mahawilachchiya Education Centre for Children (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-06-2026-02-06-11-2026-si)
 - 2026-02-06 | `2026-02-06-11-2026-en` | Mahawilachchiya Education Centre for Children (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-06-2026-02-06-11-2026-en)
@@ -58,9 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2026-01-20 | `2026-01-20-07-2026-en` | Licensing of Container Depot Operators - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-07-2026-en)
 - 2026-01-20 | `2026-01-20-06-2026-ta` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-ta)
 - 2026-01-20 | `2026-01-20-06-2026-si` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-si)
-- 2026-01-20 | `2026-01-20-06-2026-en` | Rent (Repeal) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-06-2026-en)
-- 2026-01-20 | `2026-01-20-05-2026-ta` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-05-2026-ta)
-- 2026-01-20 | `2026-01-20-05-2026-si` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-01-20-2026-01-20-05-2026-si)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-02-19 05:45:27",
-  "n_docs": 4173,
-  "n_docs_with_pdfs": 4169,
-  "n_docs_with_text": 4169,
+  "time_updated": "2026-02-19 17:44:56",
+  "n_docs": 4176,
+  "n_docs_with_pdfs": 4172,
+  "n_docs_with_text": 4172,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-02-06",
-  "dataset_size": 1860169829,
+  "date_str_max": "2026-02-19",
+  "dataset_size": 1896732315,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-02-06-2026-02-06-11-2026-ta",
-    "num": "2026-02-06-11-2026-ta",
-    "date_str": "2026-02-06",
-    "description": "Mahawilachchiya Education Centre for Children (Incorporation) - GS",
+    "doc_id": "2026-02-19-2026-02-19-12-2026-ta",
+    "num": "2026-02-19-12-2026-ta",
+    "date_str": "2026-02-19",
+    "description": "Rescue, Rehabilitation and Insolvency (Corporate and Personal) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/11-2026_T.pdf",
-    "doc_number": "11/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/12-2026_T.pdf",
+    "doc_number": "12/2026"
   }
 }
