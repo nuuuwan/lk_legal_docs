@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--18_06:44:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_06:44:11-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,110** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.4 GB**), from **2020-01-01** to **2026-02-16**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,148** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.4 GB**), from **2020-01-01** to **2026-02-16**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (26%), **TXT** (26%) & **🤗 Hugging Face** (26%)
 
@@ -45,6 +45,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-16 | `2026-02-16-2476-01-en` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-16-2026-02-16-2476-01-en)
 - 2026-02-13 | `2026-02-13-2475-34-si` | 2475/34 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-13-2026-02-13-2475-34-si)
 - 2026-02-13 | `2026-02-13-2475-34-en` | 2475/34 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-13-2026-02-13-2475-34-en)
+- 2026-02-13 | `2026-02-13-2475-28-ta` | Legal Affairs Department - The Colombo Port City Economic  Commission Act, No.11 of 2021 - Regulations. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-13-2026-02-13-2475-28-ta)
+- 2026-02-13 | `2026-02-13-2475-28-si` | Legal Affairs Department - The Colombo Port City Economic  Commission Act, No.11 of 2021 - Regulations. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-13-2026-02-13-2475-28-si)
+- 2026-02-13 | `2026-02-13-2475-28-en` | Legal Affairs Department - The Colombo Port City Economic  Commission Act, No.11 of 2021 - Regulations. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-13-2026-02-13-2475-28-en)
 - 2026-02-12 | `2026-02-12-2475-27-ta` | Election commission - Filling of a Vacancy in the Office of Member of the Valikamam North Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-ta)
 - 2026-02-12 | `2026-02-12-2475-27-si` | 2475/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-si)
 - 2026-02-12 | `2026-02-12-2475-27-en` | 2475/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-en)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-10 | `2026-02-10-2475-09-si` | Ministry of Education - Degree Awarding Institute Order Asia Pacific Institute of Information Technology Lanka (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-09-si)
 - 2026-02-10 | `2026-02-10-2475-09-en` | Ministry of Education - Degree Awarding Institute Order Asia Pacific Institute of Information Technology Lanka (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-09-en)
 - 2026-02-10 | `2026-02-10-2475-08-si` | Land Acquisition | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-08-si)
-- 2026-02-10 | `2026-02-10-2475-08-en` | Land Acquisition | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-08-en)
-- 2026-02-09 | `2026-02-09-2475-05-ta` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-05-ta)
-- 2026-02-09 | `2026-02-09-2475-05-si` | Election Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-09-2026-02-09-2475-05-si)
 
 ---
 
