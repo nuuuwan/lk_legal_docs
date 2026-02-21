@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--20_06:41:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--21_06:40:34-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,251** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.4 GB**), from **2020-01-01** to **2026-02-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,269** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.4 GB**), from **2020-01-01** to **2026-02-18**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (26%), **TXT** (26%) & **🤗 Hugging Face** (26%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-18-2026-02-18-2476-18-si",
-    "num": "2026-02-18-2476-18-si",
+    "doc_id": "2026-02-18-2026-02-18-2476-25-si",
+    "num": "2026-02-18-2476-25-si",
     "date_str": "2026-02-18",
-    "description": "Ministry of Education, Higher Education and Vocational Education - Competitive Examination for Recruitment of Graduates to the Sri Lanka Teachers' Service",
+    "description": "Office of the Public Service Commission - Service Minute of the Sri Lanka Planning Service",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-18_S.pdf",
-    "doc_number": "2476/18"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-25_S.pdf",
+    "doc_number": "2476/25"
 }
 ```
 
@@ -41,8 +41,15 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-02-18 | `2026-02-18-2476-25-si` | Office of the Public Service Commission - Service Minute of the Sri Lanka Planning Service | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-18-2026-02-18-2476-25-si)
+- 2026-02-18 | `2026-02-18-2476-25-en` | Office of the Public Service Commission - Service Minute of the Sri Lanka Planning Service | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-18-2026-02-18-2476-25-en)
+- 2026-02-18 | `2026-02-18-2476-18-ta` | Ministry of Education, Higher Education and Vocational Education - Competitive Examination for Recruitment of Graduates to the Sri Lanka Teachers' Service | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-18-2026-02-18-2476-18-ta)
 - 2026-02-18 | `2026-02-18-2476-18-si` | Ministry of Education, Higher Education and Vocational Education - Competitive Examination for Recruitment of Graduates to the Sri Lanka Teachers' Service | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-18-2026-02-18-2476-18-si)
 - 2026-02-18 | `2026-02-18-2476-18-en` | Ministry of Education, Higher Education and Vocational Education - Competitive Examination for Recruitment of Graduates to the Sri Lanka Teachers' Service | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-18-2026-02-18-2476-18-en)
+- 2026-02-17 | `2026-02-17-2476-09-si` | Ministry of Education - Degree Awarding Institute order Nagananda International Institute for Buddhist Studies (Pvt) Ltd | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-17-2026-02-17-2476-09-si)
+- 2026-02-17 | `2026-02-17-2476-09-en` | Ministry of Education - Degree Awarding Institute order Nagananda International Institute for Buddhist Studies (Pvt) Ltd | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-17-2026-02-17-2476-09-en)
+- 2026-02-17 | `2026-02-17-2476-07-si` | Election Commission - Filling of a Vacancy in the Office of Member of the Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-17-2026-02-17-2476-07-si)
+- 2026-02-17 | `2026-02-17-2476-07-en` | Election Commission - Filling of a Vacancy in the Office of Member of the Mannar Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-17-2026-02-17-2476-07-en)
 - 2026-02-16 | `2026-02-16-2476-01-ta` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-16-2026-02-16-2476-01-ta)
 - 2026-02-16 | `2026-02-16-2476-01-si` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-16-2026-02-16-2476-01-si)
 - 2026-02-16 | `2026-02-16-2476-01-en` | Sri Lanka Customs - Rates of Exchange with effect from | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-16-2026-02-16-2476-01-en)
@@ -54,13 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-12 | `2026-02-12-2475-27-ta` | Election commission - Filling of a Vacancy in the Office of Member of the Valikamam North Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-ta)
 - 2026-02-12 | `2026-02-12-2475-27-si` | 2475/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-si)
 - 2026-02-12 | `2026-02-12-2475-27-en` | 2475/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-12-2026-02-12-2475-27-en)
-- 2026-02-11 | `2026-02-11-2475-16-ta` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-ta)
-- 2026-02-11 | `2026-02-11-2475-16-si` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-si)
-- 2026-02-11 | `2026-02-11-2475-16-en` | Presidential Secretariat - Appointed Mrs. L. Samudika Iroshani Jayarathne as the Auditor General with effect from 05.02.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-11-2026-02-11-2475-16-en)
-- 2026-02-10 | `2026-02-10-2475-11-ta` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-ta)
-- 2026-02-10 | `2026-02-10-2475-11-si` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-si)
-- 2026-02-10 | `2026-02-10-2475-11-en` | Presidential Secretariat - The Public Security Ordinance (Chapter 40). Notice under Section 2(7). | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-11-en)
-- 2026-02-10 | `2026-02-10-2475-09-ta` | Ministry of Education - Degree Awarding Institute Order Asia Pacific Institute of Information Technology Lanka (Pvt) Limited | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-10-2026-02-10-2475-09-ta)
 
 ---
 

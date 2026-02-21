@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-20 06:40:47",
-  "n_docs": 48251,
-  "n_docs_with_pdfs": 12692,
-  "n_docs_with_text": 12692,
+  "time_updated": "2026-02-21 06:40:11",
+  "n_docs": 48269,
+  "n_docs_with_pdfs": 12696,
+  "n_docs_with_text": 12696,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2026-02-18",
-  "dataset_size": 10419901310,
+  "dataset_size": 10424091961,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-18-2026-02-18-2476-18-si",
-    "num": "2026-02-18-2476-18-si",
+    "doc_id": "2026-02-18-2026-02-18-2476-25-si",
+    "num": "2026-02-18-2476-25-si",
     "date_str": "2026-02-18",
-    "description": "Ministry of Education, Higher Education and Vocational Education - Competitive Examination for Recruitment of Graduates to the Sri Lanka Teachers' Service",
+    "description": "Office of the Public Service Commission - Service Minute of the Sri Lanka Planning Service",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-18_S.pdf",
-    "doc_number": "2476/18"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-25_S.pdf",
+    "doc_number": "2476/25"
   }
 }
