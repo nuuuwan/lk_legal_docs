@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-21 06:40:11",
-  "n_docs": 48269,
-  "n_docs_with_pdfs": 12696,
-  "n_docs_with_text": 12696,
+  "time_updated": "2026-02-22 06:44:13",
+  "n_docs": 48305,
+  "n_docs_with_pdfs": 12833,
+  "n_docs_with_text": 12833,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-02-18",
-  "dataset_size": 10424091961,
+  "date_str_max": "2026-02-19",
+  "dataset_size": 10504779775,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-18-2026-02-18-2476-25-si",
-    "num": "2026-02-18-2476-25-si",
-    "date_str": "2026-02-18",
-    "description": "Office of the Public Service Commission - Service Minute of the Sri Lanka Planning Service",
+    "doc_id": "2026-02-19-2026-02-19-2476-33-si",
+    "num": "2026-02-19-2476-33-si",
+    "date_str": "2026-02-19",
+    "description": "Department of Local Government - Sabaragamuwa Province - Elected to the Chairman to the Balangoda Urban Council",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-25_S.pdf",
-    "doc_number": "2476/25"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-33_S.pdf",
+    "doc_number": "2476/33"
   }
 }
