@@ -45934,5 +45934,38 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/bills/2026/2/12-2026_T.pdf",
     "doc_number": "12/2026"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2026-02-24-2026-02-24-13-2026-en",
+    "num": "2026-02-24-13-2026-en",
+    "date_str": "2026-02-24",
+    "description": "Inland Revenue (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/13-2026_E.pdf",
+    "doc_number": "13/2026"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2026-02-24-2026-02-24-13-2026-si",
+    "num": "2026-02-24-13-2026-si",
+    "date_str": "2026-02-24",
+    "description": "Inland Revenue (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/13-2026_S.pdf",
+    "doc_number": "13/2026"
+  },
+  {
+    "doc_type": "lk_bills",
+    "doc_id": "2026-02-24-2026-02-24-13-2026-ta",
+    "num": "2026-02-24-13-2026-ta",
+    "date_str": "2026-02-24",
+    "description": "Inland Revenue (Amendment) - GS",
+    "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/13-2026_T.pdf",
+    "doc_number": "13/2026"
   }
 ]
