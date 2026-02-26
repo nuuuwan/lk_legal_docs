@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-25 06:46:24",
-  "n_docs": 48309,
-  "n_docs_with_pdfs": 12835,
-  "n_docs_with_text": 12835,
+  "time_updated": "2026-02-26 06:42:01",
+  "n_docs": 48438,
+  "n_docs_with_pdfs": 12845,
+  "n_docs_with_text": 12845,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-02-19",
-  "dataset_size": 10556543108,
+  "date_str_max": "2026-02-25",
+  "dataset_size": 10559840784,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-19-2026-02-19-2476-33-si",
-    "num": "2026-02-19-2476-33-si",
-    "date_str": "2026-02-19",
-    "description": "Department of Local Government - Sabaragamuwa Province - Elected to the Chairman to the Balangoda Urban Council",
+    "doc_id": "2026-02-25-2026-02-25-2477-35-ta",
+    "num": "2026-02-25-2477-35-ta",
+    "date_str": "2026-02-25",
+    "description": "Presidential Secretariat - 75th Anniversary of the Sri Lanka Air Force.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2476-33_S.pdf",
-    "doc_number": "2476/33"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2477-35_T.pdf",
+    "doc_number": "2477/35"
   }
 }
