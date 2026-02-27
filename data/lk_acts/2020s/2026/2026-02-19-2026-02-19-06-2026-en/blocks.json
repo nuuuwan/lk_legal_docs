@@ -1,0 +1,5477 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      85.23,
+      157.9,
+      362.09,
+      210.87
+    ],
+    "text": "PARLIAMENT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.83,
+      466.04,
+      377.83,
+      476.82
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA______________________________________________________________________________",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.7,
+      477.16,
+      320.98,
+      483.9
+    ],
+    "text": "TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.83,
+      489.52,
+      375.83,
+      502.19
+    ],
+    "text": "Price : Rs. 90.00 Postage : Rs. 150.00",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.83,
+      536.04,
+      250.33,
+      546.81
+    ],
+    "text": "This Act can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.8,
+      242.79,
+      369.53,
+      271.62
+    ],
+    "text": "INSTITUTE OF REAL ESTATE PROFESSIONALS, SRI LANKA ACT, No. 6 OF 2026",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      142.92,
+      302.73,
+      300.13,
+      316.57
+    ],
+    "text": "[Certified on 19th of February, 2026]",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      148.53,
+      350.75,
+      294.53,
+      364.05
+    ],
+    "text": "Printed on the Order of Government",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.85,
+      406.18,
+      357.49,
+      434.02
+    ],
+    "text": "Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka of February 27, 2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "1Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      88.46,
+      131.36,
+      99.93
+    ],
+    "text": "L.D. \u2013 O 4/2024",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      113.46,
+      308.03,
+      124.93
+    ],
+    "text": "An Act to provide for the establishment of the Institute",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      125.96,
+      308.03,
+      137.43
+    ],
+    "text": "of Real Estate Professionals, Sri Lanka which shall",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      138.46,
+      308.03,
+      149.93
+    ],
+    "text": "be responsible for the maintenance of professional",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      150.96,
+      308.03,
+      162.43
+    ],
+    "text": "standards and discipline of members of the institute;",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      163.46,
+      308.03,
+      174.93
+    ],
+    "text": "for the enrollment and registration of members of",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      175.96,
+      308.03,
+      187.43
+    ],
+    "text": "the institute; for the protection and promotion of the",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      188.46,
+      308.03,
+      199.93
+    ],
+    "text": "interest of the public in relation to the profession of",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      200.96,
+      308.03,
+      212.43
+    ],
+    "text": "real estate; and for matters connected therewith or",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.53,
+      213.46,
+      160.79,
+      224.93
+    ],
+    "text": "incidental thereto.",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      238.46,
+      308.05,
+      312.43
+    ],
+    "text": "WHEREAS an Institute called and known as the \u201cInstitute of Real Estate and Valuation\u201d has heretofore been registered under the Companies Act, No. 07 of 2007 for the purpose of effectually carrying out its objects and transacting all matters connected with the said Institute according to the memorandum and articles of association thereof:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      325.96,
+      308.04,
+      399.93
+    ],
+    "text": "AND WHEREAS the said Institute has heretofore successfully carried out and transacted the several objects and matters for which it was incorporated and has applied to be established by an Act of Parliament in the name of the \u201cInstitute of Real Estate Professionals, Sri Lanka\u201d for the purpose of carrying out the objects specified in this Act:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      413.46,
+      308.05,
+      462.43
+    ],
+    "text": "AND WHEREAS the Cabinet of Ministers by its decision dated October 23, 2023 has granted approval to establish the \u201cInstitute of Real Estate Professionals, Sri Lanka\u201d by an Act of Parliament:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      475.96,
+      308.05,
+      499.93
+    ],
+    "text": "BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      513.2,
+      308.04,
+      537.43
+    ],
+    "text": "1. This Act may be cited as the Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.53,
+      240.01,
+      347.74,
+      249.19
+    ],
+    "text": "Preamble",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.53,
+      515.21,
+      349.31,
+      524.39
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.96,
+      70.96,
+      269.38,
+      82.43
+    ],
+    "text": "[Certified on 19th of February, 2026]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.53,
+      545.93,
+      149.08,
+      555.11
+    ],
+    "text": "PL 15582 - 868 (12/2025)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "2Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.0,
+      75.7,
+      356.5,
+      114.03
+    ],
+    "text": "2. (1) There shall be established an Institute which shall be called the Institute of Real Estate Professionals, Sri Lanka (hereinafter referred to as the \u201cInstitute\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.0,
+      129.16,
+      356.52,
+      180.53
+    ],
+    "text": "(2) The Institute shall, by the name assigned to it by subsection (1), be a body corporate and shall have perpetual succession and a common seal and may sue and be sued in such name.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.0,
+      195.66,
+      356.5,
+      260.33
+    ],
+    "text": "(3) From and after the date of commencement of this Act, such and so many persons as now are Fellow Members and Associate Members of \u201cThe Institute of Real Estate and Valuation\u201d shall hereafter be admitted as Corporate Members of the Institute hereby constituted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.0,
+      275.2,
+      282.37,
+      287.22
+    ],
+    "text": "3. The objects of the Institute shall be -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.0,
+      302.06,
+      356.51,
+      326.83
+    ],
+    "text": "(a) to raise and uphold the dignity and reputation of real estate professionals in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.0,
+      341.96,
+      356.52,
+      380.03
+    ],
+    "text": "(b) to promote and develop the principles, techniques, standards and practices relating to real estate industry in Sri Lanka including\u2013",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.0,
+      395.16,
+      356.51,
+      473.13
+    ],
+    "text": "(i) all businesses related to real estate planning, investment, development, management, supervision, monitoring, appraisal and evaluation of real estate projects to bring the highest and best use of land and properties in Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.0,
+      488.26,
+      356.52,
+      526.53
+    ],
+    "text": "(ii) selling, buying, marketing, brokering, auctioning, letting or renting of land and properties and interests therein;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      42.0,
+      76.37,
+      100.0,
+      123.95
+    ],
+    "text": "Establishment of the Institute of Real Estate Professionals, Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      42.0,
+      275.76,
+      88.88,
+      294.54
+    ],
+    "text": "Objects of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "3Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.53,
+      75.96,
+      308.04,
+      217.43
+    ],
+    "text": "(iii) providing professional opinion and advisory services to the public and private sector, any other agency or individual when such a service on real estate planning, investment, development, asset management and appraisal of all types of landed property, fixtures, fittings, equipment, plant and machinery and interests therein are required and to act as an arbitrator on matters referred to above;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.53,
+      231.96,
+      308.05,
+      295.43
+    ],
+    "text": "(iv) provide professional services to the Real Estate Investment Trusts for formation and management and for those involve in real estate agency and brokering practices;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.53,
+      309.96,
+      308.04,
+      386.43
+    ],
+    "text": "(v) subject to applicable written law, appraisal of environmental impact, water and air rights, mines and minerals, biological assets and heritage properties from real estate planning and development point of view;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.53,
+      400.96,
+      308.04,
+      438.43
+    ],
+    "text": "(c) to secure environmental friendly usage of land and associated resources for the social and economic well-being of the country;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.53,
+      452.96,
+      308.04,
+      530.43
+    ],
+    "text": "(d) to uplift and uphold standards, professionalism and reputation of real estate profession and to maintain and promote the usefulness of the profession, by facilitating the enrollment and registration of Real Estate Professionals upon obtaining the membership of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "4Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      75.96,
+      357.04,
+      126.43
+    ],
+    "text": "(e) to corporate and promote interests, status, welfare, rights and privileges of the members and the interests of the public in relation to the profession;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      140.96,
+      357.04,
+      204.43
+    ],
+    "text": "(f) to assist gaining and exchange of up-to-date knowledge and information on real estate functions specified in paragraph (b), to ensure the adoption of the most effective principles, techniques, standards and practices;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      218.96,
+      357.04,
+      282.43
+    ],
+    "text": "(g) to develop and maintain relevant data banks, property indexes related to real estate industry, asset management tools and provide such information to facilitate public and private institutions for better usage of real estate assets;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      296.96,
+      357.04,
+      373.43
+    ],
+    "text": "(h) to conduct examinations qualifying for membership of the Institute to assess the competence of persons engaged in matters, activities and practices related to real estate and its appraisals specified in paragraph (b) and to award certificates of competences;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      387.96,
+      357.04,
+      464.43
+    ],
+    "text": "(i) to assist in gaining and exchange of technical knowledge taking into consideration the innovations and discussions thereon, by establishing and managing a resource centre for research and development and for publications on activities of professional interests; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.53,
+      478.96,
+      357.04,
+      529.63
+    ],
+    "text": "(j) to offer capacity building facilities for the members of public or private institutions or any interested individual on real estate development, management and appraisal.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "5Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.0,
+      75.7,
+      307.51,
+      126.43
+    ],
+    "text": "4. Subject to the provisions of this Act, the Institute shall have the following powers, duties and functions which shall be exercised, performed and discharged by the Council on behalf of the Institute :-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      138.96,
+      307.51,
+      189.43
+    ],
+    "text": "(a) to prescribe qualifications and disqualifications for membership of the Institute and standards of professional conduct for members of the Institute and secure maintenance thereof;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      201.96,
+      307.51,
+      226.43
+    ],
+    "text": "(b) to enroll and register the members of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      238.96,
+      307.51,
+      289.43
+    ],
+    "text": "(c) to accredit with local or international professional organizations dealing with real estate affairs and academic institutions involved in educational and research work on real estate affairs;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      301.96,
+      307.51,
+      417.43
+    ],
+    "text": "(d) to enter into contracts or agreements with Governmental organizations, companies, institutions or persons, both local and foreign and perform or carry out such contracts or agreements, whether directly or through any officer or agent authorized in that behalf by the Institute, as may be necessary for the exercise, performance and discharge of the powers, duties and functions of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      429.96,
+      307.52,
+      480.43
+    ],
+    "text": "(e) to collaborate with, assist and receive assistance from other persons and organizations engaged in activities similar to the Institute, whether in Sri Lanka or abroad;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.0,
+      492.96,
+      307.51,
+      543.43
+    ],
+    "text": "(f) to maintain, liaise and affiliation with other related institutions whether in Sri Lanka or abroad in furtherance of the objectives of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      317.53,
+      76.37,
+      379.74,
+      104.75
+    ],
+    "text": "Powers, duties and functions of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "6Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      75.96,
+      357.05,
+      125.23
+    ],
+    "text": "(g) to acquire, hold, take or give on lease or hire, mortgage, pledge, sell and exchange or otherwise dispose of any movable or immovable property of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      138.96,
+      357.03,
+      175.63
+    ],
+    "text": "(h) to receive grants, gifts, donations, subsidies, endowments and subscriptions whether in cash or material from donors in Sri Lanka or abroad;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      189.36,
+      357.05,
+      238.63
+    ],
+    "text": "(i) to charge fees, subscriptions and contributions in respect of membership, admission to membership and study courses and examinations conducted by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      244.76,
+      357.03,
+      281.43
+    ],
+    "text": "(j) to open and maintain bank accounts, savings, deposits and securities with any State Bank as may be approved by the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      295.16,
+      357.04,
+      357.03
+    ],
+    "text": "(k) to advance, lend or borrow money for the purpose of the Institute on such terms and conditions with or without security as may be specified by rules, from time to time, by the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      366.16,
+      357.06,
+      415.43
+    ],
+    "text": "(l) to invest its funds which are not immediately required for its purposes in such manner as may be necessary or expedient for the furtherance of its objectives with the approval of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      429.16,
+      357.05,
+      478.43
+    ],
+    "text": "(m) to make, draw, accept, discount, buy, sell or issue bills of exchange, cheques, promissory notes and other negotiable or transferable instruments or securities; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.53,
+      492.16,
+      357.03,
+      542.03
+    ],
+    "text": "(n) to do all such other acts and things as may be necessary for, or incidental or conducive to, carrying out or the achievement of the objects of the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "7Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      75.7,
+      307.51,
+      101.93
+    ],
+    "text": "5. (1) Members of the Institute shall consist of Corporate Members and Non-Corporate Members.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      119.46,
+      307.49,
+      145.43
+    ],
+    "text": "(2) (a) The Corporate Members of the Institute shall be graded as Fellow Members or Members.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      162.96,
+      307.51,
+      188.93
+    ],
+    "text": "(b) The Non-Coporate Members of the Institute shall be graded as Associates, Students and Honorary Members.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      206.46,
+      307.52,
+      246.93
+    ],
+    "text": "(3) Subject to the provisions of section 8, the required qualifications and experience for each grade of membership shall be as specified in the Schedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      264.46,
+      307.51,
+      319.43
+    ],
+    "text": "(4) Every Corporate Member shall be eligible to vote and be elected to the Council or any Committee of the Institute and shall be entitled to all the rights and privileges of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      336.96,
+      307.5,
+      377.43
+    ],
+    "text": "(5) Every Non-Corporate Member shall be entitled to be present at the meetings of the Institute by invitation, but shall not have the right to vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      394.7,
+      307.52,
+      449.93
+    ],
+    "text": "6. (1) Any person who satisfies the qualification and experience specified in the Schedule to this Act may apply for the membership of the Institute in such form and manner as may be specified by rules made under this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.0,
+      467.46,
+      307.51,
+      536.93
+    ],
+    "text": "(2) Subject to the provisions of section 8, a person who makes an application under subsection (1) may, upon payment of the membership fee as may be specified by rules and subject to the approval of the Council, be enrolled and registered as a member of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      317.53,
+      76.37,
+      366.18,
+      114.35
+    ],
+    "text": "Members of the Institute and grading of membership",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      317.53,
+      396.36,
+      379.52,
+      424.73
+    ],
+    "text": "Application for membership of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "8Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      75.7,
+      356.52,
+      111.43
+    ],
+    "text": "7. (1) Subject to the provisions of section 8, the period of membership of a member shall be a calendar year and be renewable.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      123.96,
+      356.52,
+      159.43
+    ],
+    "text": "(2) Any member who intends to renew the membership shall apply for renewal not less than thirty days prior to the expiry of the membership.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      169.96,
+      356.53,
+      205.43
+    ],
+    "text": "(3) The membership may be renewed on the payment of the renewal fee as may be specified by rules made under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      217.7,
+      356.52,
+      253.43
+    ],
+    "text": "8. (1) A person shall be disqualified from being appointed or continuing as a member of the Council or the Institute, if such person -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.0,
+      263.96,
+      356.52,
+      299.43
+    ],
+    "text": "(a) has been or is under any law in force in Sri Lanka or in any other country found or declared to be of unsound mind;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.0,
+      309.96,
+      356.52,
+      333.43
+    ],
+    "text": "(b) has been or is adjudged an insolvent by a court of competent jurisdiction;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.0,
+      343.96,
+      356.52,
+      379.43
+    ],
+    "text": "(c) has served or is serving a sentence of imprisonment imposed by any court in Sri Lanka or any other country; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.0,
+      389.96,
+      356.52,
+      425.43
+    ],
+    "text": "(d) has been found guilty of professional misconduct after an inquiry by the Council or a Committee appointed under section 18.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      435.96,
+      356.52,
+      483.43
+    ],
+    "text": "(2) The Council shall have the power to disenroll and cancel the registration of any person who is a member of the Institute, if he becomes subject to any disqualification referred to in subsection (1):",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      114.0,
+      493.96,
+      356.52,
+      542.63
+    ],
+    "text": "Provided however, the Council may, in lieu of disenrollment and cancellation of registration, suspend such person from membership for such period as the Council may deem fit:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      42.0,
+      76.37,
+      91.54,
+      114.35
+    ],
+    "text": "Period of membership and renewal of membership",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      42.0,
+      219.16,
+      101.55,
+      295.53
+    ],
+    "text": "Disqualificationsto be a member, disenrollment and cancellation of registration,disciplinary powers and procedure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "9Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      75.96,
+      307.52,
+      124.93
+    ],
+    "text": "Provided further, disenrollment and cancellation of registration shall not prevent the Council from subsequently re-enrolling and re-registering such person, if satisfied that he is eligible to be re-enrolled and re-registered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      138.46,
+      307.52,
+      224.93
+    ],
+    "text": "(3) No member of the Institute shall be disenrolled and subjected to cancellation of his registration or suspended from membership, unless a Disciplinary Committee appointed by the Council under section 18, after inquiry, has submitted a report to the Council that such member has become disqualified to be a member of the Council under subsection (1) and has committed a professional misconduct.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      238.46,
+      307.52,
+      299.93
+    ],
+    "text": "(4) Any person who has been disenrolled and whose registration has been cancelled or suspended from membership under this section may apply for reinstatement and such person may be reinstated by the Council upon such terms and conditions as the Council may deem fit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      313.2,
+      307.53,
+      399.93
+    ],
+    "text": "9. (1) Any Corporate Member of the Institute shall be entitled to take and use the title as \u201cA Member of the Institute of Real Estate Professionals, Sri Lanka\u201d and to use the abbreviation \u201cFIREPSL\u201d after his name to indicate that he is a Fellow Member of the Institute and to use abbreviation \u201cMIREPSL\u201d after his name to indicate that he is a Member of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      413.46,
+      307.52,
+      499.93
+    ],
+    "text": "(2) In addition to the titles specified in subsection (1), a Corporate member may, upon an evaluation by the Membership Committee appointed under section 18 based on such member\u2019s eligibility, performance and merits and subject to the approval at the annual general meeting of the Institute, be awarded the designation of \u201cChartered Real Estate Professional\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      513.96,
+      307.53,
+      538.93
+    ],
+    "text": "(3) Any firm carrying out the practice of real estate development and management, subject to such requirements",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      317.53,
+      315.17,
+      375.52,
+      333.95
+    ],
+    "text": "Use of title of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "10Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      75.96,
+      356.5,
+      100.43
+    ],
+    "text": "as specified in the Schedule to this Act may request the Institute to consider awarding membership of the Institute:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      114.96,
+      356.52,
+      165.43
+    ],
+    "text": "Provided however, the firm requesting membership of the Institute shall have legal rights to operate real estate functions and have a minimum of two or more corporate members of the Institute as partners of such firm.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      179.96,
+      356.51,
+      230.43
+    ],
+    "text": "(4) A request made under subsection (3) may be considered by the Membership Committee appointed under section 18 and with its recommendations, be submitted for approval at the annual general meeting of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      244.96,
+      356.51,
+      295.43
+    ],
+    "text": "(5) Where two or more of the partners of a firm are Corporate Members of the Institute, the Council may permit such firm to take and use the principal title \u201cChartered Real Estate Professional\u201d as part of the description of such firm.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      309.96,
+      356.52,
+      399.43
+    ],
+    "text": "(6) Save as aforesaid, no person or a body of persons shall take or use the title of the \u201cChartered Real Estate Professional\u201d, the abbreviations of the \u201cFIREPSL\u201d, or the \u201cMIREPSL\u201d, as the case may be, or use the same as the name or part of the name in any book, journal or any other publication dealing with real estate professional practice, as a consulting firm.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      413.96,
+      356.51,
+      438.43
+    ],
+    "text": "(7) Unless offered by the Institute, no member shall take or use any title or abbreviation referred to in subsection (1).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.0,
+      452.7,
+      356.52,
+      530.43
+    ],
+    "text": "10. (1) The Institute shall keep and maintain a register of members which shall include the details of every person who on the date immediately preceding the date of commencement of this Act, was a member of the Institute and the details of every person hereinafter duly admitted as members of the Institute.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      42.0,
+      453.6,
+      79.33,
+      472.37
+    ],
+    "text": "Register of members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "11Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.0,
+      75.96,
+      307.53,
+      139.43
+    ],
+    "text": "(2) The register of members shall be divided into separate parts and each part shall be in respect of a different grade of membership to which the register relates and shall contain the names, addresses, contact details and qualifications and experiences of persons enrolled and registered in that grade.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.0,
+      153.7,
+      307.51,
+      217.43
+    ],
+    "text": "11. (1) There shall be a Council of the Institute (in this Act referred to as the \u201cCouncil\u201d) which shall be responsible, for the administration and management of the Institute and, for the exercise, performance and discharge of the powers, duties and functions of the Institute specified in section 4.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      77.0,
+      231.96,
+      305.0,
+      243.43
+    ],
+    "text": "(2) The Council shall consist of the following members: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95.0,
+      257.96,
+      307.52,
+      321.43
+    ],
+    "text": "(a) the President, Vice-President, Secretary, Treasurer and Assistant Secretary of the Council all of whom shall be elected by the Corporate Members from among themselves at the annual general meeting of the Institute:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95.0,
+      335.96,
+      307.52,
+      373.43
+    ],
+    "text": "Provided however, the President and the Vice President shall be Fellow Members of the Institute;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95.0,
+      387.96,
+      307.52,
+      425.43
+    ],
+    "text": "(b) the person who has held the office of the President of the Council in the immediately preceding year; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      95.0,
+      439.96,
+      307.51,
+      477.43
+    ],
+    "text": "(c) seven members elected by the members who represent Corporate Membership category, at an annual general meeting of the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.0,
+      491.96,
+      307.52,
+      542.43
+    ],
+    "text": "(3) The first Council of the institute shall consist of the members of the Council of the Institute holding office on the day immediately preceding the date of commencement of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      317.53,
+      156.01,
+      365.3,
+      174.79
+    ],
+    "text": "Council of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "12Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.36,
+      75.7,
+      357.05,
+      152.43
+    ],
+    "text": "12. (1) Every member of the Council shall unless he vacates office earlier or removed from office by the Council, hold office for a period of one year until the election of new members for the Council at the annual general meeting of the Institute and be eligible to be re-appointed for not more than two consecutive terms.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.36,
+      166.96,
+      357.04,
+      217.43
+    ],
+    "text": "(2) Where a member of the Council vacates office by death, resignation or any other cause, another member of the Institute shall be elected in place of such member having regard to the provisions of subsection (2) of section 11.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.36,
+      231.96,
+      357.05,
+      295.43
+    ],
+    "text": "(3) A member of the Council may be removed from office by the Council if such member becomes disqualified under section 8 to be a member of the Institute upon a report submitted to the Council by the Disciplinary Committee appointed under section 18.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.36,
+      309.96,
+      343.14,
+      321.43
+    ],
+    "text": "(4) Every member of the Council shall vacate office \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.36,
+      335.96,
+      357.03,
+      373.43
+    ],
+    "text": "(a) upon resignation from his office by a letter addressed to the Council and upon such resignation being accepted by the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.36,
+      387.96,
+      357.05,
+      425.43
+    ],
+    "text": "(b) on being absent from three consecutive meetings of the Council without the permission of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.36,
+      435.96,
+      344.72,
+      447.43
+    ],
+    "text": "(c) on ceasing to be a member of the Institute; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      145.36,
+      457.46,
+      357.04,
+      506.43
+    ],
+    "text": "(d) upon such member being disenrolled and registration being cancelled or being suspended from membership on any ground specified in section 8.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.36,
+      516.96,
+      357.03,
+      541.43
+    ],
+    "text": "(5) Every member of the Council appointed in place of a member who has vacated office shall, unless he earlier",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      42.0,
+      76.37,
+      93.77,
+      114.35
+    ],
+    "text": "Term of office of the members of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "13Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      75.96,
+      307.51,
+      115.43
+    ],
+    "text": "resigns, dies or otherwise vacates office, hold office for the unexpired period of the term of office of the member whom he succeeds.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      131.7,
+      307.52,
+      157.43
+    ],
+    "text": "13. (1) The meetings of the Council shall be held at least once in every month.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      173.96,
+      307.49,
+      199.43
+    ],
+    "text": "(2) The quorum for any meeting of the Council shall be seven members of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      215.96,
+      307.52,
+      283.43
+    ],
+    "text": "(3) The President of the Council shall preside at every meeting of the Council. In the absence of the President, the Vice President or in the absence of both the President and Vice President, a member elected by the members present at such meeting shall preside such meeting of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      299.96,
+      307.52,
+      339.43
+    ],
+    "text": "(4) (a) Notice of every meeting shall be given in writing to every member of the Council seven days prior to the date fixed for the meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      77.0,
+      355.96,
+      165.32,
+      367.43
+    ],
+    "text": "(b) Such notice shall-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      122.0,
+      383.96,
+      307.51,
+      423.43
+    ],
+    "text": "(i) include the date, time and venue of such meeting and the business to be brought up at the meeting; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      122.0,
+      439.96,
+      307.51,
+      479.43
+    ],
+    "text": "(ii) be sent by post to the last known residential address of each member or by electronic mail to each such member.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.0,
+      495.96,
+      307.52,
+      535.43
+    ],
+    "text": "(5) The person presiding at any meeting of the Council may, with the consent of the majority of the members present, adjourn the meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      317.53,
+      133.56,
+      369.74,
+      152.33
+    ],
+    "text": "Meetings of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "14Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      75.96,
+      356.05,
+      135.43
+    ],
+    "text": "(6) Subject to the provisions of subsection (8), any issue which arises at any meeting of the Council shall be decided by a majority vote of the members present and in case of equality of votes, the member presiding at the meeting shall, in addition to his own vote, have a casting vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      147.96,
+      356.04,
+      207.43
+    ],
+    "text": "(7) A member of the Institute shall not be disenrolled and subjected to cancellation of registration or suspended from membership, except upon a resolution passed at a meeting of the Council by the majority of the total members of the Council in office.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      216.96,
+      356.05,
+      264.43
+    ],
+    "text": "(8) The Council shall cause minutes to be kept of the proceedings of every meeting of the Council in books maintained in that behalf. The minutes of such proceedings shall be signed by the Secretary.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      273.96,
+      356.03,
+      297.43
+    ],
+    "text": "(9) The minutes so signed shall be prima facie evidence of the matters specified in such minutes.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      309.96,
+      356.04,
+      357.43
+    ],
+    "text": "(10) No act or proceeding of the Council shall be invalid by reason only of the existence of any vacancy of the members of the Council or any defect in the appointment of a member thereof.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      369.96,
+      356.03,
+      417.43
+    ],
+    "text": "(11) Subject to the preceding provisions of this section, the Council may regulate the procedure with regard to the meetings of the Council and the transaction of business at such meetings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      427.7,
+      356.05,
+      475.43
+    ],
+    "text": "14. A special meeting of the Council may be convened by the President on his own motion or upon a written request made by the Secretary, in that behalf by not less than one third of the total members of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      113.53,
+      487.7,
+      356.05,
+      536.43
+    ],
+    "text": "15. The President of the Council shall be the Chief Executive Officer of the Institute. He shall preside at all meetings of the Council and of the Institute. He may delegate any of his duties and functions to the Vice President.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      42.0,
+      429.0,
+      96.22,
+      447.78
+    ],
+    "text": "Special Meeting of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      42.0,
+      488.07,
+      94.22,
+      506.85
+    ],
+    "text": "President of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "15Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      78.36,
+      75.7,
+      251.94,
+      87.72
+    ],
+    "text": "16. (1) The Secretary of the Council shall \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      100.56,
+      308.88,
+      124.33
+    ],
+    "text": "(a) conduct all correspondence on behalf of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      137.46,
+      308.87,
+      161.23
+    ],
+    "text": "(b) keep minutes of all meetings of the Council and of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      174.36,
+      308.87,
+      198.13
+    ],
+    "text": "(c) send out notices of meetings of the Council and of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      211.26,
+      280.99,
+      222.73
+    ],
+    "text": "(d) prepare the annual reports of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      235.86,
+      308.88,
+      271.93
+    ],
+    "text": "(e) maintain and manage the assets of the Institute and the register of membership of the Institute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      285.06,
+      308.87,
+      308.83
+    ],
+    "text": "(f) perform all such other duties as may be assigned to him by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      66.36,
+      321.96,
+      308.89,
+      358.03
+    ],
+    "text": "(2) The Secretary of the Council may delegate any of his duties and functions to the Assistant Secretary or any other member of the Council as nominated by the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      78.36,
+      370.9,
+      238.33,
+      382.92
+    ],
+    "text": "17. The Treasurer of the Council shall \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      395.76,
+      308.88,
+      419.53
+    ],
+    "text": "(a) be responsible for the collection of funds due to the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      432.66,
+      308.87,
+      456.43
+    ],
+    "text": "(b) keep accurate accounts of the moneys of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.36,
+      469.56,
+      308.88,
+      542.53
+    ],
+    "text": "(c) submit to the Council, monthly statement on the financial position of the Institute for the preparation of financial statement of the Institute and for the performance of such other duties relating to the financial affairs of the Institute as may be assigned to him by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      319.69,
+      374.26,
+      372.78,
+      393.03
+    ],
+    "text": "Treasurer of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      317.52,
+      76.37,
+      358.4,
+      95.15
+    ],
+    "text": "Secretary of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "16Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      75.7,
+      357.04,
+      126.43
+    ],
+    "text": "18. (1) The Council may, from time to time, appoint committees for any purpose as the Council may determine and shall assign to each such committee its duties and functions and such committees shall include the following:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      138.96,
+      262.81,
+      150.43
+    ],
+    "text": "(a) Membership Committee;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      162.96,
+      353.66,
+      174.43
+    ],
+    "text": "(b) Policy Advisory and Constitutional Committee;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      188.96,
+      349.74,
+      200.43
+    ],
+    "text": "(c) Professional Conduct and Practice Committee;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      214.96,
+      357.04,
+      239.43
+    ],
+    "text": "(d) Professional Development and Publications Committee;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      251.96,
+      281.14,
+      263.43
+    ],
+    "text": "(e) Disciplinary Committee; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.53,
+      277.96,
+      357.03,
+      315.43
+    ],
+    "text": "(f) any other committee for any other purpose as may be determined by the Council from time to time.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      324.96,
+      357.04,
+      362.43
+    ],
+    "text": "(2) Every Committee appointed under subsection (1) shall consist of, at least, one member of the Council and such member shall be the Chairperson of the Committee:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      374.96,
+      357.04,
+      412.43
+    ],
+    "text": "Provided however, the President of the Institute shall be the Chairperson of the Committees referred to in paragraphs (a) and (b) of subsection (1).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      426.96,
+      357.04,
+      477.43
+    ],
+    "text": "(3) Where more than one member of the Council is appointed to a particular Committee, the Council shall appoint one of such members as the Chairperson of such Committee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      114.53,
+      491.96,
+      357.04,
+      529.43
+    ],
+    "text": "(4) The composition, powers, duties and functions of each Committee shall be as specified by rules made under this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      42.0,
+      75.57,
+      103.11,
+      94.34
+    ],
+    "text": "Committees of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "17Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      75.96,
+      307.51,
+      139.43
+    ],
+    "text": "(5) The Chairperson shall preside at every meeting of a Committee of which he is a member and in the absence of the Chairperson, members present shall elect one person from among themselves as the Chairperson to preside at such meeting.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      153.96,
+      307.51,
+      191.43
+    ],
+    "text": "(6) Subject to any such direction as may be issued by the Council, a committee may regulate its own procedure and conduct its business in such manner as it thinks fit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      205.7,
+      307.52,
+      295.43
+    ],
+    "text": "19. (1) The Council may, in writing and subject to such conditions specified therein, delegate to the President or any other officer or employee of the staff of the Institute any of its powers, duties or functions and the President or any such officer or employee shall exercise, perform or discharge such power, duty or function in the name and on behalf of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      309.96,
+      307.51,
+      360.43
+    ],
+    "text": "(2) The Council may, notwithstanding any delegation made under subsection (1), exercise, perform or discharge any power, duty or function so delegated and may at any time revoke any such delegation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      374.7,
+      307.52,
+      477.43
+    ],
+    "text": "20. (1) The seal of the Institute shall be in the custody of the Council and shall not be affixed to any instrument whatsoever except with the authority of the Council previously obtained and in the presence of the Secretary and such other member of the Council as may be authorized in writing, who shall sign their names to the instrument in token of their presence and such signing shall be independent of the signing of any person as a witness.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.0,
+      491.96,
+      307.51,
+      529.43
+    ],
+    "text": "(2) The Institute shall keep and maintain a register of the instruments and documents to which the seal of the Institute has been affixed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      317.53,
+      208.01,
+      363.3,
+      236.39
+    ],
+    "text": "Delegation of powers of the Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      317.53,
+      377.01,
+      353.74,
+      395.79
+    ],
+    "text": "Seal of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "18Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      114.0,
+      75.7,
+      356.5,
+      100.43
+    ],
+    "text": "21. (1) A general meeting of the Institute shall be held annually.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      114.0,
+      114.96,
+      356.5,
+      139.43
+    ],
+    "text": "(2) The quorum of annual general meeting of the Institute shall be two-fifth of the Corporate Members of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      126.0,
+      153.96,
+      330.96,
+      165.43
+    ],
+    "text": "(3) At such annual general meeting of the Institute-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.0,
+      179.96,
+      340.03,
+      191.43
+    ],
+    "text": "(a) the members of the Council shall be elected;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.0,
+      205.96,
+      356.51,
+      243.43
+    ],
+    "text": "(b) the annual reports of the Council and audited accounts for the preceding financial year shall be submitted for approval of the members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.0,
+      257.96,
+      356.52,
+      321.43
+    ],
+    "text": "(c) any other business determined by the Council or any matter brought to the notice of the Council in writing for the discussion at the annual general meeting, by not less than seven members of the Council shall be discussed; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.0,
+      335.96,
+      356.5,
+      360.43
+    ],
+    "text": "(d) internal auditors of the Institute shall be appointed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      114.0,
+      374.96,
+      356.51,
+      438.43
+    ],
+    "text": "(4) (a) Notice of an annual general meeting shall be given in writing to every member of the Institute one month prior to the date fixed for the meeting and shall include the date, time and venue of such meeting and the business to be considered at the meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      114.0,
+      452.96,
+      356.51,
+      514.83
+    ],
+    "text": "(b) Such notice shall be sent to the address of residence or electronic mail address of each member and shall be published in a daily newspaper widely circulated in Sri Lanka, not later than two weeks prior to the date fixed for such meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      42.0,
+      75.53,
+      93.33,
+      103.9
+    ],
+    "text": "Annual general meetings of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "19Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      75.96,
+      307.51,
+      125.23
+    ],
+    "text": "(5) Corporate Members shall be eligible to vote in relation to any matter taken up or any decisions to be taken at the annual general meeting and at the time of election of the members of the Council;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      138.96,
+      307.52,
+      200.83
+    ],
+    "text": "(6) Non-Corporate Members shall be entitled to be present and participate in the annual general meeting but shall not be entitle to vote in relation to any matter taken up or any decisions to be taken at the annual general meeting and at the time of election of members of the Council.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      214.3,
+      307.51,
+      238.63
+    ],
+    "text": "22. (1) A special general meeting of the Institute shall be held for a special purpose with prior approval of the Council.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      252.36,
+      307.51,
+      289.03
+    ],
+    "text": "(2) Quorum of a special general meeting shall be two-fifth of the Corporate Members of the Institute who are eligible to vote.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      303.16,
+      307.5,
+      365.03
+    ],
+    "text": "(3) (a) Notice of a special general meeting shall be given in writing to every member of the Institute two weeks prior to the date fixed for the meeting and include the date, time and venue of such meeting and the special matter to be considered at the meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      378.76,
+      307.52,
+      441.03
+    ],
+    "text": "(b) Such notice shall be sent by post or by electronic mail to the last known address of residence and electronic mail address of each member and shall be published in a daily newspaper widely circulated in Sri Lanka not later than one week prior to the date fixed for such meeting.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      65.0,
+      455.06,
+      307.5,
+      504.03
+    ],
+    "text": "(4) Nothing other than that stated in the notice sent to each member of the Institute under subsection (3) shall be taken into consideration at the special general meeting to which such notice relates.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      317.53,
+      216.45,
+      368.62,
+      244.83
+    ],
+    "text": "Special general meeting of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "20Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      115.36,
+      75.7,
+      357.89,
+      139.43
+    ],
+    "text": "23. (1) Subject to the provisions of this Act, the Institute may employ or appoint such officers and employees to the staff of the Institute as may be necessary for the efficient exercise, performance and discharge of its powers, duties and functions.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      115.36,
+      153.96,
+      357.88,
+      178.43
+    ],
+    "text": "(2) The Council shall, subject to the provisions of this Act, have the power \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.36,
+      192.96,
+      357.86,
+      217.43
+    ],
+    "text": "(a) to exercise disciplinary control over and dismiss the officers and employees of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.36,
+      231.96,
+      357.87,
+      269.43
+    ],
+    "text": "(b) to determine the terms and conditions of service of the officers and employees of the Institute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.36,
+      283.96,
+      357.86,
+      308.43
+    ],
+    "text": "(c) to fix the rates at which such officers and employees shall be remunerated.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      115.36,
+      322.96,
+      357.89,
+      399.43
+    ],
+    "text": "(3) All employees of the Institute shall, within one month of commencing the duties of the employment, declare in writing to the Institute of their personal direct or indirect interests to the affairs and transactions of the Institute including those of their close relations or, concerns in which such employees has a substantial interest.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      115.36,
+      413.7,
+      357.88,
+      438.43
+    ],
+    "text": "24. (1) The Institute shall have its own Fund (hereinafter referred to as the \u201cFund\u201d).",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      127.36,
+      452.96,
+      288.44,
+      464.43
+    ],
+    "text": "(2) There shall be credited to the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      145.36,
+      478.96,
+      357.87,
+      529.43
+    ],
+    "text": "(a) all such sums of money as may be received by the Institute in the exercise, performance and discharge of its powers, duties and functions under this Act; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      42.0,
+      76.37,
+      79.99,
+      95.15
+    ],
+    "text": "Staff of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      42.0,
+      415.77,
+      80.89,
+      434.55
+    ],
+    "text": "Fund of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "21Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      95.0,
+      75.96,
+      307.5,
+      126.43
+    ],
+    "text": "(b) all such sums of money as may be received by the Institute by way of income, fees, charges, grants, gifts or donations from any source whatsoever whether within or outside Sri Lanka.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      77.0,
+      139.96,
+      238.92,
+      151.43
+    ],
+    "text": "(3) There shall be paid out of the Fund \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      95.0,
+      164.96,
+      307.51,
+      213.93
+    ],
+    "text": "(a) all such sums of money as may be required to defray any expenditure incurred by the Institute in the exercise, performance and discharge of its powers, duties and functions under this Act; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      95.0,
+      227.46,
+      307.51,
+      251.43
+    ],
+    "text": "(b) all such sums of money as may be required to be paid out of the Fund by or under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      65.0,
+      263.2,
+      307.49,
+      287.43
+    ],
+    "text": "25. (1) The financial year of the Institute shall be the calendar year.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      65.0,
+      299.46,
+      307.52,
+      335.93
+    ],
+    "text": "(2) The Institute shall cause proper books of accounts to be kept of its income and expenditure, assets and liabilities and all other transactions of the Institute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      65.0,
+      347.96,
+      307.51,
+      384.43
+    ],
+    "text": "(3) The accounts of the Institute shall be audited annually by a qualified auditor and be certified by such qualified auditor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      65.0,
+      396.46,
+      307.5,
+      420.43
+    ],
+    "text": "(4) For the purposes of this section \u201cqualified auditor\u201d means-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      95.0,
+      432.46,
+      307.52,
+      506.43
+    ],
+    "text": "(a) an individual who, being a member of the Institute of Chartered Accountants of Sri Lanka, or of any other Institute established by law, possesses a certificate to practise as an Accountant issued by the Council of such Institute; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      317.53,
+      265.98,
+      374.41,
+      275.15
+    ],
+    "text": "Audit of accounts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "22Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      145.36,
+      75.96,
+      357.88,
+      149.93
+    ],
+    "text": "(b) a firm of Accountant, each of the resident partners of which, being a member of the Institute of Chartered Accountants of Sri Lanka or of any other Institute established by law, possesses a certificate to practise as an Accountant issued by the Council of such Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      115.36,
+      161.2,
+      357.88,
+      208.93
+    ],
+    "text": "26. The Institute shall be deemed to be a scheduled institution within the meaning of the Anti-Corruption Act, No. 9 of 2023 and the provisions of that Act, shall be construed accordingly.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      115.36,
+      245.2,
+      357.88,
+      292.93
+    ],
+    "text": "27. (1) The Code of Professional Conduct applicable to the members of the Institute shall be specified by way of rules made under this Act within one year from the date of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      115.36,
+      305.46,
+      357.87,
+      352.93
+    ],
+    "text": "(2) Any member who acts in contravention of the professional standards specified in the Code of Professional Conduct shall be subject to a disciplinary inquiry and may be disqualified from membership under section 8.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      115.36,
+      365.2,
+      357.89,
+      448.93
+    ],
+    "text": "28. (1) The Council may, from time to time, at any annual general meeting or special general meeting of the Institute and by a majority of the members present and voting, make rules, in respect of all or any matter for which rules are authorized or required by this Act to be made. Such rules when made, may, at a like meeting and in like manner, be altered, added to, amended or rescinded.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      115.36,
+      461.46,
+      357.88,
+      520.93
+    ],
+    "text": "(2) Without prejudice to the generality of the powers vested in the Council under subsection (1), the Council may make rules, not inconsistent with the provisions of this Act and any other written law in respect of all or any of the following matters: -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      42.0,
+      162.55,
+      103.77,
+      219.72
+    ],
+    "text": "Institute deemed to be a scheduled institution within the meaning of the Anti-Corruption Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      42.0,
+      246.1,
+      83.55,
+      274.48
+    ],
+    "text": "Code of Professional Conduct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      42.0,
+      366.5,
+      82.66,
+      385.28
+    ],
+    "text": "Rules of the Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "23Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      75.96,
+      307.51,
+      135.43
+    ],
+    "text": "(a) classification of membership, the fee payable to each grade of membership and procedure to be followed in the admission, upgrading, withdrawal, suspension, expulsion or resignation of members;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      147.96,
+      307.52,
+      183.43
+    ],
+    "text": "(b) disciplinary procedures, complaint handling and compliance of the provisions of the Code of Professional Conduct;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      195.96,
+      307.52,
+      279.43
+    ],
+    "text": "(c) powers, duties and functions of the office bearers of the Institute and their appointment, remuneration, termination of office and the procedure to be observed for summoning and holding of meetings of the Institute and the Council and any Committee thereof including the conduct of business of such meetings;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      291.96,
+      307.52,
+      351.43
+    ],
+    "text": "(d) qualification, disqualification and other eligibility criteria as deemed fit for admission in to Corporate and Non-Corporate membership and different grades of membership of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      363.96,
+      307.52,
+      411.43
+    ],
+    "text": "(e) other eligibility criteria as deemed fit for suspension, expulsion or re-admission of members from the categories of membership formally held;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      423.96,
+      307.5,
+      447.43
+    ],
+    "text": "(f) Code of Professional Conduct applicable to the members of the Institute; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      95.0,
+      459.96,
+      307.51,
+      495.43
+    ],
+    "text": "(g) administration and management of the property of the Institute and general management of the affairs of the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      65.0,
+      507.96,
+      307.52,
+      543.43
+    ],
+    "text": "(3) Every rule made by the Council shall be published in the Gazette and shall come into operation on the date of its publication or on such later date as may be specified therein.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "24Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      115.36,
+      87.36,
+      357.87,
+      147.09
+    ],
+    "text": "29. (1) The Institute of Real Estate and Valuation which is incorporated as a company under the Companies Act, No. 07 of 2007 (hereinafter referred to as the \u201cIREV\u201d) shall be wound up with effect from the date of commencement of this Act.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      115.36,
+      159.62,
+      357.88,
+      207.09
+    ],
+    "text": "(2) For the avoidance of doubt, it is hereby declared that the Institute established under section 2 of this Act shall, for all purposes, be deemed to be the successor to the IREV and accordingly-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.36,
+      219.62,
+      357.88,
+      291.09
+    ],
+    "text": "(a) all property movable and immovable owned by the IREV on the day immediately preceding the date of commencement of this Act shall, with effect from the date of commencement of this Act, vest in the Institute established under section 2 of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.36,
+      303.62,
+      357.87,
+      375.09
+    ],
+    "text": "(b) all debts and liabilities of the IREV existing on the day immediately preceding the date of commencement of this Act shall, with effect from the date of commencement of this Act, be deemed to be the debts and liabilities of the Institute established under section 2 of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.36,
+      387.62,
+      357.88,
+      471.09
+    ],
+    "text": "(c) all contracts and agreements entered into for the purpose of the IREV and subsisting on the day immediately preceding the date of commencement of this Act shall, with effect from the date of commencement of this Act, be contracts and agreements entered into by the Institute established under section 2 of this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      145.36,
+      483.62,
+      357.87,
+      543.09
+    ],
+    "text": "(d) all actions and proceedings instituted by or against the IREV and pending on the day immediately preceding the date of commencement of this Act shall, with effect from the date of commencement of this Act, be",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      42.0,
+      88.01,
+      99.77,
+      154.79
+    ],
+    "text": "Institute established under section 2 to be the successor of the Institute of Real Estate and Valuation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "25Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      113.95,
+      75.96,
+      308.45,
+      111.43
+    ],
+    "text": "deemed to be actions and proceedings instituted by or against the Institute established under section 2 of this Act; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      95.95,
+      123.96,
+      308.46,
+      231.43
+    ],
+    "text": "(e) all decrees and orders entered or made by any competent court or tribunal in favour of or against the IREV which remains unsatisfied on the day preceding the date of commencement of this Act shall, with effect from the date of commencement of this Act, be deemed to have been entered or made in favour of or against the Institute established under section 2 of this Act and may be enforced accordingly.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      65.95,
+      243.96,
+      308.47,
+      279.43
+    ],
+    "text": "(3) The provisions relating to winding up of Companies specified in the Companies Act, No. 07 of 2007 shall, mutatis mutandis, apply in respect of the winding up of the IREV.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      77.95,
+      291.7,
+      295.42,
+      303.72
+    ],
+    "text": "30. In this Act, unless the context otherwise requires \u2013",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      89.95,
+      315.96,
+      308.46,
+      363.43
+    ],
+    "text": "\u201creal estate\u201d means, land and any permanent improvements attached to land, whether natural or man-made including water, trees, minerals, buildings, homes, fences and bridges; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      89.95,
+      375.96,
+      308.45,
+      411.43
+    ],
+    "text": "\u201cReal Estate Investment Trusts\u201d means, unit trusts that invest or propose to invest primarily in income-generating real estate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      65.95,
+      423.7,
+      308.46,
+      447.43
+    ],
+    "text": "31. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      317.53,
+      295.01,
+      363.07,
+      304.19
+    ],
+    "text": "Interpretation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      317.83,
+      425.28,
+      374.7,
+      453.66
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "26Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      213.64,
+      76.37,
+      255.41,
+      85.55
+    ],
+    "text": "SCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      289.88,
+      99.37,
+      354.53,
+      108.55
+    ],
+    "text": "(sections 5, 6 and 9)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      121.11,
+      122.37,
+      347.97,
+      143.04
+    ],
+    "text": "The qualifications and experience required for different grades of membership of the Institute of the Real Estate Professionals, Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      114.53,
+      156.66,
+      194.28,
+      166.28
+    ],
+    "text": "1. Corporate members:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      126.53,
+      179.87,
+      192.07,
+      189.04
+    ],
+    "text": "1.1 Fellow Member:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.53,
+      202.87,
+      230.85,
+      212.04
+    ],
+    "text": "(1) Basic Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.53,
+      225.87,
+      356.54,
+      269.53
+    ],
+    "text": "Every candidate for admission to the grade of Fellow Member shall have Corporate Membership and seven years work experience in the real estate field after obtaining the Corporate Membership under the provisions of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.53,
+      283.36,
+      231.29,
+      292.53
+    ],
+    "text": "(2) Other Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      167.53,
+      306.36,
+      356.54,
+      338.52
+    ],
+    "text": "(a) Admission to the grade of Fellow Member shall be subject to the approval of the members at the annual general meeting of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      167.53,
+      352.35,
+      356.53,
+      396.01
+    ],
+    "text": "(b) Every candidate for admission to the grade of Fellow Member shall attend a minimum of two thirds of the Continuous Professional Development (CPD) Programs conducted annually by the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      126.53,
+      409.84,
+      167.85,
+      419.01
+    ],
+    "text": "1.2 Member:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.53,
+      432.84,
+      228.85,
+      442.01
+    ],
+    "text": "(1) Basic Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      143.53,
+      455.84,
+      356.55,
+      522.49
+    ],
+    "text": "Every candidate for admission to the grade of Member shall have Associate Membership and two years work experience in the real estate field after obtaining the Associate Membership which shall be under the direct supervision of a Corporate Member enrolled and registered under the provisions of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "27Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      76.37,
+      180.71,
+      85.55
+    ],
+    "text": "(2) Other Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      99.37,
+      307.96,
+      120.04
+    ],
+    "text": "Every candidate for the admission to the grade of Member shall \u2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      118.95,
+      133.87,
+      307.95,
+      154.54
+    ],
+    "text": "(a) pass the examination or viva voce for Corporate Membership Conducted by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      118.95,
+      168.36,
+      307.95,
+      200.53
+    ],
+    "text": "(b) attend a minimum of two thirds of the Continuous Professional Development (CPD) Programs conducted annually by the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      65.95,
+      214.15,
+      163.47,
+      223.76
+    ],
+    "text": "2. Non-Corporate Members:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      77.95,
+      237.36,
+      153.93,
+      246.53
+    ],
+    "text": "2.1 Associate Member :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      260.36,
+      200.71,
+      269.53
+    ],
+    "text": "(1) Educational Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      118.95,
+      283.36,
+      307.96,
+      338.52
+    ],
+    "text": "(a) Bachelor of Science in Estate Management and Valuation (Special) Degree or any other equivalent degree recognized by the University Grants Commission and minimum one year experience in the real estate sector after obtaining the degree; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      118.95,
+      352.34,
+      307.96,
+      430.49
+    ],
+    "text": "(b) A Post Graduate Diploma or a Post Graduate Degree (Masters) in Real Estate Management and Valuation and minimum two years experiences in the real estate sector after obtaining such Post Graduate Diploma or Post Graduate Degree (Masters) and shall pass the examination viva voce for Associate Membership conducted by the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      444.32,
+      180.71,
+      453.49
+    ],
+    "text": "(2) Other Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      467.32,
+      307.97,
+      487.99
+    ],
+    "text": "Being a Student Member of this institute shall be considered as an added qualification.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      77.95,
+      501.81,
+      147.27,
+      510.99
+    ],
+    "text": "2.2 Student Member:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      94.95,
+      524.81,
+      200.71,
+      533.99
+    ],
+    "text": "(1) Educational Qualifications:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "28Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      76.37,
+      356.01,
+      121.55
+    ],
+    "text": "(a) Being an Undergraduate of Bachelor of Science in Estate Management and Valuation (Special) Degree or any other equivalent degree recognized by the University Grants Commission; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      136.37,
+      356.0,
+      169.55
+    ],
+    "text": "(b) Being a registered student of Post Graduate Diploma or Post Graduate Degree (Masters) in Real Estate Management and Valuation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      124.0,
+      184.37,
+      202.87,
+      193.55
+    ],
+    "text": "2.3. Honorary Member :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      143.0,
+      208.37,
+      309.41,
+      217.55
+    ],
+    "text": "(1) Guidelines for awarding Honorary Membership:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      232.37,
+      356.01,
+      277.55
+    ],
+    "text": "(a) Honorary Membership shall be granted to such persons who have rendered outstanding service contribution to the real estate industry and profession in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      292.37,
+      356.0,
+      325.55
+    ],
+    "text": "(b) Honorary Membership shall be granted for lifetime to an individual and awarded according to the provisions of section 5;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      340.37,
+      356.01,
+      373.55
+    ],
+    "text": "(c) Honorary Members shall be elected by the two-thirds majority of votes of the total members present at an annual general meeting of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      388.37,
+      356.01,
+      469.55
+    ],
+    "text": "(d) The procedure of selection of Honorary Member nominees shall be done through screening of outstanding contribution done for the field of real estate by the Membership Committee and the Council which shall make recommendations relating thereto for the consideration at the annual general meeting of the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      167.0,
+      484.37,
+      356.01,
+      517.55
+    ],
+    "text": "(e) Aptitude and capacity to assist in promoting the objectives of Institute by reason of his position, experience or eminence in future;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "29Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      76.37,
+      308.38,
+      121.55
+    ],
+    "text": "(f) The Council shall keep such records of such nomination and award of Honorary Membership to the person be preserved as evidence for future reference by the Council.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      95.36,
+      136.37,
+      163.35,
+      145.55
+    ],
+    "text": "(2) Selection criteria:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      95.36,
+      160.37,
+      308.38,
+      193.55
+    ],
+    "text": "Following aspects to be examined by the Council before making its recommendations to the annual general meeting of the Institute:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      208.37,
+      308.37,
+      229.55
+    ],
+    "text": "(a) Minimum fifteen years of service in the field of real estate industry and profession in Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      244.37,
+      308.38,
+      289.55
+    ],
+    "text": "(b) Nominee\u2019s outstanding contribution to the advancement of the real estate industry and profession, and generous contribution to uplift the Institute or Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      304.37,
+      308.37,
+      349.55
+    ],
+    "text": "(c) Positions held and years of service in local or international institutions or as a private practitioner at which he made contribution to the real estate industry and profession;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      364.37,
+      308.38,
+      397.55
+    ],
+    "text": "(d) Exceptional service provided to the real estate industry or Institute or profession and the demonstrating impact on the extraordinary service.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      95.36,
+      412.37,
+      141.35,
+      421.55
+    ],
+    "text": "(3) Procedure:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      119.36,
+      436.37,
+      308.38,
+      517.55
+    ],
+    "text": "(a) Institute shall call for applications for the Honorary Membership from any party interest therein or through electronic media, along with experience, contribution and details of interest with necessary certifications by notary public along with the proposal by a Corporate Member and seconded by a Fellow Member of the Council;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      114.53,
+      39.96,
+      318.88,
+      63.43
+    ],
+    "text": "30Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      76.37,
+      357.37,
+      145.55
+    ],
+    "text": "(b) As the initial step, nominations for the award of the Honorary Membership to any person to be considered seriously by the Council of the Institute and such a recommendation shall be approved by the two third of votes of Council Members so as to place before the annual general meeting of the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      160.37,
+      357.38,
+      229.55
+    ],
+    "text": "(c) Recommended nominations for the Honorary Membership be presented by the proposer thereafter for consideration and approval by the general membership of the Institute at an annual general meeting, where not less than two thirds of the total members present, shall be in favor;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      244.37,
+      357.36,
+      277.55
+    ],
+    "text": "(d) Each nomination shall be accompanied by a write-up of the services and contributions to the real estate industry, profession, the Institute or to Sri Lanka;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      292.37,
+      357.39,
+      325.55
+    ],
+    "text": "(e) The number of Honorary Members shall be limited to a maximum of five in the initial three years and thereafter two individuals per year;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      340.37,
+      357.38,
+      433.55
+    ],
+    "text": "(f) In the event of Honorary Membership is proposed to be allowed for the reputed real estate developers or investors in Sri Lanka who are willing to obtain the Honorary Membership of the Institute, such membership may be awarded subject to an annual or life time fee as may be determined by the Council for the purpose of their recognition and reputation by the Institute;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      168.36,
+      448.37,
+      357.37,
+      491.55
+    ],
+    "text": "(g) Institute shall not permit or authorize Honorary Members to engage in professional practices or voting power as the member is not considered under the category of Corporate members of the Institute.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      116.54,
+      39.96,
+      305.53,
+      63.43
+    ],
+    "text": "31Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      48.17,
+      542.7,
+      349.81,
+      551.88
+    ],
+    "text": "English Acts of the Parliament can be purchased at the \u201cPrakashana Piyasa\u201d, Department of",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      71.1,
+      552.3,
+      324.87,
+      561.48
+    ],
+    "text": "Government Printing, No. 118, Dr. Danister De Silva Mawatha, Colombo 8.",
+    "fonts": [
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      5.599999904632568,
+      8.0
+    ]
+  }
+]
