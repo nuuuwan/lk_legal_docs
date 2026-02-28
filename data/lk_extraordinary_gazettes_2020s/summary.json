@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-02-27 06:55:30",
-  "n_docs": 48464,
-  "n_docs_with_pdfs": 12946,
-  "n_docs_with_text": 12946,
+  "time_updated": "2026-02-28 06:39:51",
+  "n_docs": 48476,
+  "n_docs_with_pdfs": 12975,
+  "n_docs_with_text": 12975,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-02-25",
-  "dataset_size": 10633270561,
+  "date_str_max": "2026-02-27",
+  "dataset_size": 10690058502,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-02-25-2026-02-25-2477-35-ta",
-    "num": "2026-02-25-2477-35-ta",
-    "date_str": "2026-02-25",
-    "description": "Presidential Secretariat - 75th Anniversary of the Sri Lanka Air Force.",
+    "doc_id": "2026-02-27-2026-02-27-2477-41-ta",
+    "num": "2026-02-27-2477-41-ta",
+    "date_str": "2026-02-27",
+    "description": "Presidential Secretariat - The Public Security Ordinance Call out with effect from 27.02.2026 All the Members of the Armed Forces",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2477-35_T.pdf",
-    "doc_number": "2477/35"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/2/2477-41_T.pdf",
+    "doc_number": "2477/41"
   }
 }
