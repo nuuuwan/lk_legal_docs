@@ -2,34 +2,34 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-03-03 05:45:12",
-  "n_docs": 4179,
-  "n_docs_with_pdfs": 4175,
-  "n_docs_with_text": 4175,
+  "time_updated": "2026-03-03 17:41:16",
+  "n_docs": 4191,
+  "n_docs_with_pdfs": 4178,
+  "n_docs_with_text": 4178,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-02-24",
-  "dataset_size": 1916984001,
+  "date_str_max": "2026-03-03",
+  "dataset_size": 1917789515,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-02-24-2026-02-24-13-2026-ta",
-    "num": "2026-02-24-13-2026-ta",
-    "date_str": "2026-02-24",
-    "description": "Inland Revenue (Amendment) - GS",
+    "doc_id": "2026-03-03-2026-03-03-17-2026-ta",
+    "num": "2026-03-03-17-2026-ta",
+    "date_str": "2026-03-03",
+    "description": "Social Security Contribution Levy  (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/2/13-2026_T.pdf",
-    "doc_number": "13/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/17-2026_T.pdf",
+    "doc_number": "17/2026"
   }
 }
