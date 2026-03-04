@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_06:45:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_06:43:01-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,484** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.7 GB**), from **2020-01-01** to **2026-02-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,488** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.7 GB**), from **2020-01-01** to **2026-02-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -52,15 +52,15 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-27 | `2026-02-27-2477-41-en` | Presidential Secretariat - The Public Security Ordinance Call out with effect from 27.02.2026 All the Members of the Armed Forces | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-41-en)
 - 2026-02-26 | `2026-02-26-2477-39-si` | Presidential Secretariat - Appointed Mr. Susiripala Manawadu as the Governor of the Southern Province w.e.f. 24.02.2026. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-26-2026-02-26-2477-39-si)
 - 2026-02-26 | `2026-02-26-2477-39-en` | Presidential Secretariat - Appointed Mr. Susiripala Manawadu as the Governor of the Southern Province w.e.f. 24.02.2026. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-26-2026-02-26-2477-39-en)
+- 2026-02-26 | `2026-02-26-2477-38-si` | District Secretariat - Galle - Pilgrimages Ordinance The Annual Sri Maha Dodhiraja Procession of Sri Shasanalankararama Ancient Temple of Galle | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-26-2026-02-26-2477-38-si)
+- 2026-02-26 | `2026-02-26-2477-38-en` | District Secretariat - Galle - Pilgrimages Ordinance The Annual Sri Maha Dodhiraja Procession of Sri Shasanalankararama Ancient Temple of Galle | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-26-2026-02-26-2477-38-en)
 - 2026-02-25 | `2026-02-25-2477-35-ta` | Presidential Secretariat - 75th Anniversary of the Sri Lanka Air Force. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-35-ta)
 - 2026-02-25 | `2026-02-25-2477-35-si` | Presidential Secretariat - 75th Anniversary of the Sri Lanka Air Force. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-35-si)
 - 2026-02-25 | `2026-02-25-2477-35-en` | Presidential Secretariat - 75th Anniversary of the Sri Lanka Air Force. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-35-en)
 - 2026-02-25 | `2026-02-25-2477-33-si` | Elections Commission - Filling of a Vacancy in the Office of Member of the Bingiriya P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-33-si)
 - 2026-02-25 | `2026-02-25-2477-33-en` | Elections Commission - Filling of a Vacancy in the Office of Member of the Bingiriya P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-33-en)
-- 2026-02-24 | `2026-02-24-2477-31-si` | Election Commission - Filling the Vacancy in the Office of Member of the Baddegama Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-24-2026-02-24-2477-31-si)
-- 2026-02-24 | `2026-02-24-2477-31-en` | Election Commission - Filling the Vacancy in the Office of Member of the Baddegama Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-24-2026-02-24-2477-31-en)
-- 2026-02-24 | `2026-02-24-2477-30-ta` | Elections Commission - Filling of a vacancy in the Office of Member of the Colombo Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-24-2026-02-24-2477-30-ta)
-- 2026-02-24 | `2026-02-24-2477-30-si` | Elections Commission - Filling of a vacancy in the Office of Member of the Colombo Municipal Council. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-24-2026-02-24-2477-30-si)
+- 2026-02-25 | `2026-02-25-2477-32-si` | Department of Local Government - Eastern Province - Summon the Re-Calling Meeting to Fill the Vacancy Arose to the Post of Chairman of Chairman of The Ninthavuv P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-32-si)
+- 2026-02-25 | `2026-02-25-2477-32-en` | Department of Local Government - Eastern Province - Summon the Re-Calling Meeting to Fill the Vacancy Arose to the Post of Chairman of Chairman of The Ninthavuv P.S | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-25-2026-02-25-2477-32-en)
 
 ---
 
