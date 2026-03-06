@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_06:44:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_06:46:33-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,503** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.7 GB**), from **2020-01-01** to **2026-03-04**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,519** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.7 GB**), from **2020-01-01** to **2026-03-05**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-04-2026-03-04-2478-16-si",
-    "num": "2026-03-04-2478-16-si",
-    "date_str": "2026-03-04",
-    "description": "Presidential Secretariat - Appointed Mr.T. R.W.S. Dhanapala as the Secretary to the Ministry of Digital Economy.",
+    "doc_id": "2026-03-05-2026-03-05-2478-41-en",
+    "num": "2026-03-05-2478-41-en",
+    "date_str": "2026-03-05",
+    "description": "Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2478-16_S.pdf",
-    "doc_number": "2478/16"
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2478-41_E.pdf",
+    "doc_number": "2478/41"
 }
 ```
 
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-05 | `2026-03-05-2478-41-en` | Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-41-en)
 - 2026-03-04 | `2026-03-04-2478-16-si` | Presidential Secretariat - Appointed Mr.T. R.W.S. Dhanapala as the Secretary to the Ministry of Digital Economy. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-16-si)
 - 2026-03-04 | `2026-03-04-2478-16-en` | Presidential Secretariat - Appointed Mr.T. R.W.S. Dhanapala as the Secretary to the Ministry of Digital Economy. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-16-en)
 - 2026-03-03 | `2026-03-03-2478-09-ta` | Parliament of Sri Lanka - Declaration made by the Hon. Speaker Under Section 09 of the Parliamentary Staffs Act  ( Chapter 384) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-09-ta)
@@ -58,9 +59,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-02-28 | `2026-02-28-2477-46-ta` | President Secretarial - Emergency Gazette of Public Security and the Protection of Public Order and the maintenance of supplies and services essential to the life of the community | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-28-2026-02-28-2477-46-ta)
 - 2026-02-28 | `2026-02-28-2477-46-si` | President Secretarial - Emergency Gazette of Public Security and the Protection of Public Order and the maintenance of supplies and services essential to the life of the community | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-28-2026-02-28-2477-46-si)
 - 2026-02-28 | `2026-02-28-2477-46-en` | President Secretarial - Emergency Gazette of Public Security and the Protection of Public Order and the maintenance of supplies and services essential to the life of the community | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-28-2026-02-28-2477-46-en)
-- 2026-02-27 | `2026-02-27-2477-41-ta` | Presidential Secretariat - The Public Security Ordinance Call out with effect from 27.02.2026 All the Members of the Armed Forces | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-41-ta)
-- 2026-02-27 | `2026-02-27-2477-41-si` | Presidential Secretariat - The Public Security Ordinance Call out with effect from 27.02.2026 All the Members of the Armed Forces | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-41-si)
-- 2026-02-27 | `2026-02-27-2477-41-en` | Presidential Secretariat - The Public Security Ordinance Call out with effect from 27.02.2026 All the Members of the Armed Forces | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-41-en)
+- 2026-02-27 | `2026-02-27-2477-43-si` | Ministry of Public Security and Parliament Affairs - Drug Dependent Person (Treatment and Rehabilitation) Act, No. 54 of 2007 order under Section 2 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-43-si)
+- 2026-02-27 | `2026-02-27-2477-43-en` | Ministry of Public Security and Parliament Affairs - Drug Dependent Person (Treatment and Rehabilitation) Act, No. 54 of 2007 order under Section 2 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-02-27-2026-02-27-2477-43-en)
 
 ---
 
