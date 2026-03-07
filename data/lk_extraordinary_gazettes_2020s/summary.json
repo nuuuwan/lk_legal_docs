@@ -2,34 +2,34 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-03-06 06:46:10",
-  "n_docs": 48519,
-  "n_docs_with_pdfs": 13019,
-  "n_docs_with_text": 13019,
+  "time_updated": "2026-03-07 06:40:09",
+  "n_docs": 48556,
+  "n_docs_with_pdfs": 13026,
+  "n_docs_with_text": 13026,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
   "date_str_max": "2026-03-05",
-  "dataset_size": 10731954513,
+  "dataset_size": 10735041918,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-05-2026-03-05-2478-41-en",
-    "num": "2026-03-05-2478-41-en",
+    "doc_id": "2026-03-05-2026-03-05-2478-41-si",
+    "num": "2026-03-05-2478-41-si",
     "date_str": "2026-03-05",
     "description": "Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1.",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "en",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2478-41_E.pdf",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2478-41_S.pdf",
     "doc_number": "2478/41"
   }
 }
