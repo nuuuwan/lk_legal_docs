@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_17:41:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_05:44:32-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,191** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-03-03**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,194** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-03-11**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 ```json
 {
     "doc_type": "lk_bills",
-    "doc_id": "2026-03-03-2026-03-03-17-2026-ta",
-    "num": "2026-03-03-17-2026-ta",
-    "date_str": "2026-03-03",
-    "description": "Social Security Contribution Levy  (Amendment) - GS",
+    "doc_id": "2026-03-11-2026-03-11-18-2026-ta",
+    "num": "2026-03-11-18-2026-ta",
+    "date_str": "2026-03-11",
+    "description": "Convention on the Suppression of Terrorist  Financing (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/17-2026_T.pdf",
-    "doc_number": "17/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/18-2026_T.pdf",
+    "doc_number": "18/2026"
 }
 ```
 
@@ -41,6 +41,9 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 🆕 20 Latest documents
 
+- 2026-03-11 | `2026-03-11-18-2026-ta` | Convention on the Suppression of Terrorist  Financing (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-11-2026-03-11-18-2026-ta)
+- 2026-03-11 | `2026-03-11-18-2026-si` | Convention on the Suppression of Terrorist  Financing (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-11-2026-03-11-18-2026-si)
+- 2026-03-11 | `2026-03-11-18-2026-en` | Convention on the Suppression of Terrorist  Financing (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-11-2026-03-11-18-2026-en)
 - 2026-03-03 | `2026-03-03-17-2026-ta` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-ta)
 - 2026-03-03 | `2026-03-03-17-2026-si` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-si)
 - 2026-03-03 | `2026-03-03-17-2026-en` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-en)
@@ -58,9 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2026-02-18 | `2026-02-18-15-2026-en` | Mahawilachchiya Education Centre for Children (Incorporation) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-18-2026-02-18-15-2026-en)
 - 2026-02-17 | `2026-02-17-14-2026-ta` | Indira Cancer Charitable Trust (Incorporation) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-17-2026-02-17-14-2026-ta)
 - 2026-02-17 | `2026-02-17-14-2026-si` | Indira Cancer Charitable Trust (Incorporation) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-17-2026-02-17-14-2026-si)
-- 2026-02-17 | `2026-02-17-14-2026-en` | Indira Cancer Charitable Trust (Incorporation) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-17-2026-02-17-14-2026-en)
-- 2026-02-06 | `2026-02-06-11-2026-ta` | Mahawilachchiya Education Centre for Children (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-06-2026-02-06-11-2026-ta)
-- 2026-02-06 | `2026-02-06-11-2026-si` | Mahawilachchiya Education Centre for Children (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-06-2026-02-06-11-2026-si)
 
 ---
 
