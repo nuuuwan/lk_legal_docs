@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_06:48:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_06:52:58-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,672** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.8 GB**), from **2020-01-01** to **2026-03-05**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,679** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.8 GB**), from **2020-01-01** to **2026-03-10**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-05-2026-03-05-2478-46-si",
-    "num": "2026-03-05-2478-46-si",
-    "date_str": "2026-03-05",
-    "description": "Land Title Settlement Dept",
+    "doc_id": "2026-03-10-2026-03-10-2479-36-en",
+    "num": "2026-03-10-2479-36-en",
+    "date_str": "2026-03-10",
+    "description": "Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2478-46_S.pdf",
-    "doc_number": "2478/46"
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2479-36_E.pdf",
+    "doc_number": "2479/36"
 }
 ```
 
@@ -41,6 +41,9 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-10 | `2026-03-10-2479-36-en` | Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-36-en)
+- 2026-03-09 | `2026-03-09-2479-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-si)
+- 2026-03-09 | `2026-03-09-2479-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-en)
 - 2026-03-05 | `2026-03-05-2478-46-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-46-si)
 - 2026-03-05 | `2026-03-05-2478-46-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-46-en)
 - 2026-03-05 | `2026-03-05-2478-41-ta` | Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-41-ta)
@@ -58,9 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-04 | `2026-03-04-2478-16-en` | Presidential Secretariat - Appointed Mr.T. R.W.S. Dhanapala as the Secretary to the Ministry of Digital Economy. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-16-en)
 - 2026-03-03 | `2026-03-03-2478-09-ta` | Parliament of Sri Lanka - Declaration made by the Hon. Speaker Under Section 09 of the Parliamentary Staffs Act  ( Chapter 384) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-09-ta)
 - 2026-03-03 | `2026-03-03-2478-09-si` | Parliament of Sri Lanka - Declaration made by the Hon. Speaker Under Section 09 of the Parliamentary Staffs Act  ( Chapter 384) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-09-si)
-- 2026-03-03 | `2026-03-03-2478-09-en` | Parliament of Sri Lanka - Declaration made by the Hon. Speaker Under Section 09 of the Parliamentary Staffs Act  ( Chapter 384) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-09-en)
-- 2026-03-03 | `2026-03-03-2478-08-ta` | Elections Commission - Under Section 10 A (1) ( a) Chavakachcheri Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-08-ta)
-- 2026-03-03 | `2026-03-03-2478-08-si` | Elections Commission - Under Section 10 A (1) ( a) Chavakachcheri Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-03-2026-03-03-2478-08-si)
 
 ---
 
