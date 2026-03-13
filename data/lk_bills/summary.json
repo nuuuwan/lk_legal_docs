@@ -2,15 +2,15 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-03-13 05:44:27",
-  "n_docs": 4194,
-  "n_docs_with_pdfs": 4190,
-  "n_docs_with_text": 4190,
+  "time_updated": "2026-03-13 17:40:59",
+  "n_docs": 4197,
+  "n_docs_with_pdfs": 4193,
+  "n_docs_with_text": 4193,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-03-11",
-  "dataset_size": 1926396914,
+  "date_str_max": "2026-03-13",
+  "dataset_size": 1927853975,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -18,18 +18,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-03-11-2026-03-11-18-2026-ta",
-    "num": "2026-03-11-18-2026-ta",
-    "date_str": "2026-03-11",
-    "description": "Convention on the Suppression of Terrorist  Financing (Amendment) - GS",
+    "doc_id": "2026-03-13-2026-03-13-19-2026-ta",
+    "num": "2026-03-13-19-2026-ta",
+    "date_str": "2026-03-13",
+    "description": "National Water Supply and Drainage Board (Amendment) - Bill",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/18-2026_T.pdf",
-    "doc_number": "18/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/19-2026_T.pdf",
+    "doc_number": "19/2026"
   }
 }
