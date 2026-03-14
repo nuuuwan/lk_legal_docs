@@ -2,15 +2,15 @@
   "doc_class_label": "lk_extraordinary_gazettes_2020s",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.",
-  "time_updated": "2026-03-13 06:43:48",
-  "n_docs": 48685,
-  "n_docs_with_pdfs": 13178,
-  "n_docs_with_text": 13178,
+  "time_updated": "2026-03-14 06:53:14",
+  "n_docs": 48754,
+  "n_docs_with_pdfs": 13219,
+  "n_docs_with_text": 13219,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2020-01-01",
-  "date_str_max": "2026-03-10",
-  "dataset_size": 10876273836,
+  "date_str_max": "2026-03-11",
+  "dataset_size": 10899241365,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -18,18 +18,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/docs_by_year_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-10-2026-03-10-2479-36-en",
-    "num": "2026-03-10-2479-36-en",
-    "date_str": "2026-03-10",
-    "description": "Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry",
+    "doc_id": "2026-03-11-2026-03-11-2479-53-si",
+    "num": "2026-03-11-2479-53-si",
+    "date_str": "2026-03-11",
+    "description": "2479/53",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "en",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2479-36_E.pdf",
-    "doc_number": "2479/36"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2479-53_S.pdf",
+    "doc_number": "2479/53"
   }
 }
