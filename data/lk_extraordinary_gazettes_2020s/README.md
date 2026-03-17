@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--16_06:51:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--17_06:44:14-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,754** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.9 GB**), from **2020-01-01** to **2026-03-11**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,771** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.9 GB**), from **2020-01-01** to **2026-03-16**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-11-2026-03-11-2479-53-si",
-    "num": "2026-03-11-2479-53-si",
-    "date_str": "2026-03-11",
-    "description": "2479/53",
+    "doc_id": "2026-03-16-2026-03-16-2480-03-ta",
+    "num": "2026-03-16-2480-03-ta",
+    "date_str": "2026-03-16",
+    "description": "Presidential Secretariat - Notice under Section 2(7) Public Security Ordinance",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2479-53_S.pdf",
-    "doc_number": "2479/53"
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2480-03_T.pdf",
+    "doc_number": "2480/03"
 }
 ```
 
@@ -41,26 +41,26 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-16 | `2026-03-16-2480-03-ta` | Presidential Secretariat - Notice under Section 2(7) Public Security Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-16-2026-03-16-2480-03-ta)
+- 2026-03-16 | `2026-03-16-2480-03-si` | Presidential Secretariat - Notice under Section 2(7) Public Security Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-16-2026-03-16-2480-03-si)
+- 2026-03-16 | `2026-03-16-2480-03-en` | Presidential Secretariat - Notice under Section 2(7) Public Security Ordinance | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-16-2026-03-16-2480-03-en)
 - 2026-03-11 | `2026-03-11-2479-53-si` | 2479/53 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-11-2026-03-11-2479-53-si)
 - 2026-03-11 | `2026-03-11-2479-53-en` | 2479/53 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-11-2026-03-11-2479-53-en)
+- 2026-03-10 | `2026-03-10-2479-47-si` | Election Commission - Filling the Vacancy in the Office of Member of the Yatinuwara Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-47-si)
+- 2026-03-10 | `2026-03-10-2479-47-en` | Election Commission - Filling the Vacancy in the Office of Member of the Yatinuwara Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-47-en)
+- 2026-03-10 | `2026-03-10-2479-37-si` | Election Commission - Filling the Vacancy in the Office of Member of the Velanai Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-37-si)
+- 2026-03-10 | `2026-03-10-2479-37-en` | Election Commission - Filling the Vacancy in the Office of Member of the Velanai Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-37-en)
 - 2026-03-10 | `2026-03-10-2479-36-si` | Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-36-si)
 - 2026-03-10 | `2026-03-10-2479-36-en` | Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-36-en)
 - 2026-03-09 | `2026-03-09-2479-18-si` | Land Title Settlement Dept  - Homagama, Homagama D/S/D, Colombo District (26/5514010) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-18-si)
 - 2026-03-09 | `2026-03-09-2479-18-en` | Land Title Settlement Dept  - Homagama, Homagama D/S/D, Colombo District (26/5514010) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-18-en)
+- 2026-03-09 | `2026-03-09-2479-07-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-07-si)
+- 2026-03-09 | `2026-03-09-2479-07-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-07-en)
 - 2026-03-09 | `2026-03-09-2479-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-si)
 - 2026-03-09 | `2026-03-09-2479-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-en)
+- 2026-03-06 | `2026-03-06-2478-49-si` | Mediation Board Commission - Calling for Nomination for the Appointment of Mediators - Nuwara Eliya District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-06-2026-03-06-2478-49-si)
+- 2026-03-06 | `2026-03-06-2478-49-en` | Mediation Board Commission - Calling for Nomination for the Appointment of Mediators - Nuwara Eliya District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-06-2026-03-06-2478-49-en)
 - 2026-03-05 | `2026-03-05-2478-46-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-46-si)
-- 2026-03-05 | `2026-03-05-2478-46-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-46-en)
-- 2026-03-05 | `2026-03-05-2478-41-ta` | Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-41-ta)
-- 2026-03-05 | `2026-03-05-2478-41-si` | Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-41-si)
-- 2026-03-05 | `2026-03-05-2478-41-en` | Ministry of Energy - Sri Lanka Electricity Act, No.36 of 2024.Order under subsection (2) of section 1. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-41-en)
-- 2026-03-05 | `2026-03-05-2478-26-si` | Election Commission - Filling the Vacancy in the Office of Member of the Nuwaragampalatha Central Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-26-si)
-- 2026-03-05 | `2026-03-05-2478-26-en` | Election Commission - Filling the Vacancy in the Office of Member of the Nuwaragampalatha Central Pradeshiya Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-26-en)
-- 2026-03-04 | `2026-03-04-2478-24-ta` | Public Utilities Commission of Sri Lanka - Imposing Annual Levy under Sub-Section (1) of the Section 46 of the Sri Lanka Electricity Act, No. 20 of 2009 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-24-ta)
-- 2026-03-04 | `2026-03-04-2478-24-si` | Public Utilities Commission of Sri Lanka - Imposing Annual Levy under Sub-Section (1) of the Section 46 of the Sri Lanka Electricity Act, No. 20 of 2009 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-24-si)
-- 2026-03-04 | `2026-03-04-2478-24-en` | Public Utilities Commission of Sri Lanka - Imposing Annual Levy under Sub-Section (1) of the Section 46 of the Sri Lanka Electricity Act, No. 20 of 2009 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-24-en)
-- 2026-03-04 | `2026-03-04-2478-23-si` | Elections Commission - Filling of a vacancy in the office of Member of the Ambalangoda Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-23-si)
-- 2026-03-04 | `2026-03-04-2478-23-en` | Elections Commission - Filling of a vacancy in the office of Member of the Ambalangoda Pradeshiya Sabha. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-04-2026-03-04-2478-23-en)
 
 ---
 
