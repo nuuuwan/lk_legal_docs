@@ -2,15 +2,15 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-03-17 05:45:02",
-  "n_docs": 4197,
-  "n_docs_with_pdfs": 4193,
-  "n_docs_with_text": 4193,
+  "time_updated": "2026-03-17 17:44:37",
+  "n_docs": 4203,
+  "n_docs_with_pdfs": 4199,
+  "n_docs_with_text": 4199,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-03-13",
-  "dataset_size": 1928621109,
+  "date_str_max": "2026-03-17",
+  "dataset_size": 1936928802,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
@@ -23,13 +23,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-03-13-2026-03-13-19-2026-ta",
-    "num": "2026-03-13-19-2026-ta",
-    "date_str": "2026-03-13",
-    "description": "National Water Supply and Drainage Board (Amendment) - Bill",
+    "doc_id": "2026-03-17-2026-03-17-21-2026-ta",
+    "num": "2026-03-17-21-2026-ta",
+    "date_str": "2026-03-17",
+    "description": "Financial Transactions Reporting (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/19-2026_T.pdf",
-    "doc_number": "19/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/21-2026_T.pdf",
+    "doc_number": "21/2026"
   }
 }
