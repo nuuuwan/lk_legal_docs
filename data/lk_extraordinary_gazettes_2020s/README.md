@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--17_06:44:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--18_06:46:47-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,771** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.9 GB**), from **2020-01-01** to **2026-03-16**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,783** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**10.9 GB**), from **2020-01-01** to **2026-03-16**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -54,13 +54,13 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-10 | `2026-03-10-2479-36-en` | Ministry of Power and Energy - Preliminary Transfer Plan of Sri Lanka Electricity Industry | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-10-2026-03-10-2479-36-en)
 - 2026-03-09 | `2026-03-09-2479-18-si` | Land Title Settlement Dept  - Homagama, Homagama D/S/D, Colombo District (26/5514010) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-18-si)
 - 2026-03-09 | `2026-03-09-2479-18-en` | Land Title Settlement Dept  - Homagama, Homagama D/S/D, Colombo District (26/5514010) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-18-en)
+- 2026-03-09 | `2026-03-09-2479-08-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-08-si)
+- 2026-03-09 | `2026-03-09-2479-08-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-08-en)
 - 2026-03-09 | `2026-03-09-2479-07-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-07-si)
 - 2026-03-09 | `2026-03-09-2479-07-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-07-en)
+- 2026-03-09 | `2026-03-09-2479-01-ta` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-ta)
 - 2026-03-09 | `2026-03-09-2479-01-si` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-si)
 - 2026-03-09 | `2026-03-09-2479-01-en` | Sri Lanka Customs - Rates of Exchange with effect from 09.03.2026 to 16.03.2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-09-2026-03-09-2479-01-en)
-- 2026-03-06 | `2026-03-06-2478-49-si` | Mediation Board Commission - Calling for Nomination for the Appointment of Mediators - Nuwara Eliya District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-06-2026-03-06-2478-49-si)
-- 2026-03-06 | `2026-03-06-2478-49-en` | Mediation Board Commission - Calling for Nomination for the Appointment of Mediators - Nuwara Eliya District | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-06-2026-03-06-2478-49-en)
-- 2026-03-05 | `2026-03-05-2478-46-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-05-2026-03-05-2478-46-si)
 
 ---
 
