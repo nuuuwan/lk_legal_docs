@@ -1,0 +1,1335 @@
+==== BLOCKS ==== 
+
+EXTRAORDINARYThe Gazette of the Democratic Socialist Republic of Sri Lanka
+
+(Published by Authority)
+
+1A - G 46456 - 04 (03/2026) This Gazette Extraordinary can be downloaded from www.documents.gov.lk
+
+RENEWABLE ENERGY RESOURCE DEVELOPMENT PLAN 2025-2030
+
+BY virtue of the Powers vested in me under Section 8(5) of the Sri Lanka Sustainable Energy Authority Act, No. 35 of 2007, I hereby Publish the following "Renewable Energy Resource Development Plan 2025-2030". as approved by the Cabinet of Ministers. Eng. Kumara Jayakody, Minister of Energy.
+
+at Colombo,on 09th March, 2026.
+
+ශ්‍රී ලංංකාා ප්‍රජාාතාාන්ත්‍රික සමාාජවාාදී ජනරජයේɏ ගැැසට් පත්‍රය
+
+අති විශෙˤෂ
+
+අංංක 2479$52 - 2026 මාාර්තු මස 11 වැැනි බදාාදාා - 2026'03'11No. 2479/52 - WEDNESDAY, MARCH 11, 2026
+
+PART I : SECTION (I) — GENERAL
+
+Government Notifications
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.20262A
+
+RENEWABLE ENERGY RESOURCE DEVELOPMENT PLAN 2025 - 2030
+
+SRI LANKA SUSTAINABLE ENERGY AUTHORITY No.80, Sir Earnest de Silva Mawatha, Colombo 07
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+3A
+
+EXECUTIVE SUMMARY
+
+Sri Lanka Sustainable Energy Authority (SLSEA) publishes this Renewable Energy Resource Development Plan 2025-2030 in line with Section 8 of the Sri Lanka Sustainable Energy Authority Act, No. 35 of 2007.
+
+In compilation of this Plan, SLSEA carried out resource assessment surveys of renewable energy resources in the country, based on which renewable energy resource maps have been prepared for each renewable energy source. Based on the particular renewable energy resource maps, developable renewable energy sites have been identified, in consideration of the information on the land use patterns and other related criteria obtained from relevant government departments and other institutions. The developable sites thus identified have been prioritized for future development. The prioritization has been done based on the criteria including resource potential, land use, distance to roads, slope, distance to grid substations (GSS), urban centers, exclusionary conservation areas, etc. Since it is required to consider these different aspects with a goal of achieving the maximum power generation capacities while minimizing the project cost, weighted overlay model was used to weigh the criteria and identify the prioritized sites. In this process, combining different geospatial layers was done using the weighted overlay method in ArcGIS, assigning weights to each layer to reflect the relative importance of each criterion. In addition, projects that have obtained energy licenses were also considered by project investors interested in developing renewable energy projects.
+
+The report provides a summary of the prioritized renewable energy project development sites district- wise for the three major renewable energy resources for future development – solar, wind and biomass, along-with the resource maps of these particular energy sources and the map of potential lands for renewable energy development pertinent to these sources. For completion of the publishing of the resource maps for all the sources that have been studied so far, off-shore wind resource map, hydro resource map and wave energy resource map are also included in this report, under Resource Maps for other Energy Sources.
+
+Content
+
+Content ........................................................................................................................................................................ 3
+
+List of Figures.................................................................................................................................................................. 5
+
+List of Table.....................................................................................................................................................................5
+
+Abbreviations.................................................................................................................................................................. 6
+
+1. Background........................................................................................................................................................6
+
+2. Introduction........................................................................................................................................................ 6
+
+3. Scope.................................................................................................................................................................. 7
+
+4. Data & Information............................................................................................................................................ 8
+
+5. Methodology......................................................................................................................................................8
+
+5.1 Identification of potential land-use types........................................................................................................... 9
+
+5.2 Exclusion of reservation areas and buffer areas............................................................................................... 11
+
+5.2.1 Forest, wildlife reservation and archeology sites......................................................................... 11
+
+5.2.2 Coastal conservation areas........................................................................................................... 11
+
+5.2.3 Road network............................................................................................................................... 12
+
+5.2.4 Water bodies................................................................................................................................. 12
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.20264A
+
+5.2.5 Urban centers and areas declared by urban development authority............................................ 12
+
+5.2.6 Buildings...................................................................................................................................... 13
+
+5.2.7 Distance from aviation ports........................................................................................................ 13
+
+5.3 Power plant capacities and annual energy yields.............................................................................................13
+
+5.4 Prioritization (Weighted overlay model).......................................................................................................... 14
+
+5.5 Final prioritization............................................................................................................................................ 15
+
+5.6 Applying land ownership and buildings information....................................................................................... 16
+
+5.7 Energy park development time line.................................................................................................................16
+
+5.8 Process representation of data derivation methodology................................................................................... 17
+
+6.Renewable Energy Resource Maps.................................................................................................................. 19
+
+6.1 Solar resource map........................................................................................................................................... 19
+
+6.2 Wind resource maps......................................................................................................................................... 20
+
+6.3 Off-shore Wind Resource Map......................................................................................................................... 21
+
+6.4 Hydro resource map......................................................................................................................................... 22
+
+6.5 Biomass resource map...................................................................................................................................... 23
+
+6.6 Wave power resource map............................................................................................................................... 25
+
+7.Potential Lands for Renewable Energy Development..................................................................................... 26
+
+7.1 Potential lands for wind power development................................................................................................... 27
+
+7.2 Potential lands for solar power development................................................................................................... 30
+
+7.3 Potential for floating solar power development............................................................................................... 33
+
+7.4 Biomass power development potential............................................................................................................ 34
+
+7.5 Off-shore wind power potential........................................................................................................................ 36
+
+7.6 Wave energy resource potential....................................................................................................................... 36
+
+7.7 Prioritized lands for renewable energy development....................................................................................... 37
+
+7.7.1 Prioritized lands for wind power development............................................................................ 37
+
+7.7.2 Prioritized lands for solar power development............................................................................ 38
+
+8.Energy Park Project Development...................................................................................................................39
+
+8.1 On-going Energy Park Projects........................................................................................................................ 39
+
+8.2 Planned Energy Park Projects.......................................................................................................................... 39
+
+9.Discussion........................................................................................................................................................ 41
+
+10.Appendices....................................................................................................................................................... 43
+
+11. References .........................................................................................................................................................57
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+5A
+
+List of Figures
+
+Figure 5.1: Land identification process........................................................................................................................... 9Figure 6.1: Solar Resource Map (Annual Global Horizontal Irradiance)..................................................................... 19Figure 6.2: Wind Resource Map (Mean Wind Speed at 100m height)......................................................................... 20Figure 6.3: Off-shore Wind Resource Map................................................................................................................... 21Figure 6.4: Hydro Resource Map..................................................................................................................................22Figure 6.5: Biomass density of Sri Lanka-Energy plantations...................................................................................... 23Figure 6.6: Biomass density of Sri Lanka- Agro-Residues........................................................................................... 24Figure 6.7: Omni-directional wave power at 50 m water depth.................................................................................... 25Figure 7.1: Potential lands for renewable energy development.................................................................................... 26Figure 7.2: Potential lands for wind power development.............................................................................................. 29Figure 7.3: Potential lands and reservoirs for solar power development......................................................................32Figure 7.4: Potential lands for biomass power development........................................................................................ 35Figure 7.5: Prioritized Lands for Wind Power Development for capacity above 25 MW............................................ 37Figure 7.6: Prioritized Lands for Solar Power Development for capacity above 25 MW............................................ 38
+
+List of Table
+
+Table 4.1: Sources of data...............................................................................................................................................8Table 5.1: Land use types..............................................................................................................................................10Table 5.2: Proposed setback distance............................................................................................................................ 12Table 5.3: Summary of buffers...................................................................................................................................... 13Table 5.4: Weighted overlay model............................................................................................................................... 14Table 5.5: Criterion indices for different criteria for wind power development............................................................ 14Table 5.6: Criterion indices for different criteria for solar power development............................................................ 15Table 5.7: Criterion indices for access to GSS for prioritization of lands..................................................................... 15Table 7.1: Lands available for wind power development.............................................................................................. 27Table 7.2: Potential lands for wind power development............................................................................................... 28Table 7.3: Lands available for biomass/ solar power development............................................................................... 30Table 7.4: Potential lands for solar power development............................................................................................... 31Table 7.5: Reservoir-based floating solar power potential............................................................................................ 33Table 7.6: Potential lands for biomass power development.......................................................................................... 34Table 7.7: Wave energy resource potential.................................................................................................................... 36Table 8.1: Details of projects currently under construction........................................................................................... 39Table 8.2: Details of projects currently under development.......................................................................................... 39Table 8.3: Details of ground mounted solar projects in the planning stage.................................................................. 39Table 8.4: Details of wind projects in the planning stage.............................................................................................. 40Table 8.5: Details of floating solar projects in the planning stage................................................................................. 40
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.20266A
+
+Abbreviations
+
+AR Agro ResidueCEB Ceylon Electricity BoardDP Dedicated PlantationsESMAP Energy Sector Management Assistance ProgramGHI Global horizontal irradianceGIS Geographic Information SystemsGSS Grid Sub StationGWA Global Wind Resource AtlasKML Keyhole Markup LanguageNREL National Renewable Energy LaboratoryNWRM National Wind Reference MastPV PhotovoltaicSPPAs Standard Power Purchase AgreementUTM Universal Transverse MercatorWBG World Bank GroupWGS World Geodetic System
+
+1. Background
+
+Sri Lanka’s position as a tropical country, has led to the presence of high renewable energy resource potentials. Solar, wind, biomass and hydro are the proven resources being commercially developed at present. Renewable energy resources are a type of natural resources owned by the public, and any development of the particular resource needs to be done in order to meet the needs of the public. With the establishment of Sri Lanka Sustainable Energy Authority (SLSEA) through Act No. 35 2007, SLSEA becomes the custodian of the renewable energy resources, and thus SLSEA is the focal national entity for implementing renewable energy development programs in the country.
+
+Any interested party can join the renewable energy development process by obtaining Energy Permits issued by SLSEA. It is a pre-requisite for entering into a Power Purchase Agreement with the Ceylon Electricity Board (CEB), per-tinent to renewable energy projects. The initial phase of renewable energy development was on Feed-in Tariff, where solar, wind, biomass and hydro power projects up to 10 MW capacity have been implemented under Standard Power Purchase Agreements (SPPAs) entered into under the Feed-in Tariffs, which have been connected to the national electricity grid at medium voltage (33 kV) level. As the next phase of renewable energy development, projects are being entertained through competitive bidding process. At the initial phase of competitive bidding process, medium voltage level projects up to 10 MW have been developed through open tenders floated by the CEB. Apart from this, solar rooftop systems are being implemented, which are connected to the national electricity grid at low voltage (230 V, 400 V) level.
+
+2. Introduction
+
+With the background of different renewable energy project implementation phases that have been introduced so far, Renew-able Energy Resource Development Plan mainly focuses on projects that will be connected to the national electricity grid at high voltage (132 kV or above) level. These projects will mainly be referred to as energy parks, which will be preferably in the capacity range of 100 MW. Nevertheless, in view of optimally utilizing the renewable energy resources, land resources and renewable energy absorption capacities in the transmission grid, projects at different scales will also be taken into consideration under this plan. Accordingly, Renewable Energy Resource Development Plan will spell out sites available for medium or large scale solar, wind and biomass project development, supplying electricity at either medium or
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+7A
+
+high voltage levels, and will put them into a priority order for the implementation in the designated time horizon. The other proven type of resource - hydro, does not have that type of generic development constraints, and it needs site specific environment assessments only. Therefore, hydro resource is not taken for detailed analysis in this report, and formal facilitation will be provided to the developers in the hydro power development process.
+
+In the process of developing renewable energy, resource assessment and resource maps provide baseline infor-mation on the availability of resources. In connection to the solar and biomass resources, National Solar Resource Atlas and the National Biomass Atlas have been compiled by SLSEA, and those were used for the solar resource information and biomass resource information. In the case of wind, long-term wind resource assessment has been carried out using National Wind Reference Mast (NWRM) network, encompassing 10 locations with high wind resource potentials. These locations have been identified in accordance with the wind resource map generated by the United States National Renewable Energy Laboratory (NREL). However, Global Wind Resource Atlas (GWA 3.0), a web-based application developed by Technical University of Denmark and the World Bank Group was used to depict the island-wide wind resource potential, because it gives resource details at a higher elevation than the earlier. In view of the necessity of having comprehensive wind measure-ments for project implementation, those areas where long-term wind speed measurements are available were considered in prioritizing lands for wind power development.
+
+In an effort to plan out a renewable energy resource development program for the country, it necessitates that the sites extracted from the resource maps are screened considering different development constraints, and then the sites are taken for development in an order of priority. Therefore, through this Renewable Energy Resource Development Plan, it is objected at prioritizing the renewable energy development sites in the country in order to come up with a development plan for the future. Taking these requirements into account, Renewable Energy Resource Development Plan (the Plan) is published aligning with the statutory requirement coming under Section 8 of the Sri Lanka Sustainable Energy Authority Act. It makes provision for reviewing and updating the Plan once in every 3 years, and therefore SLSEA would mostly welcome suggestions for improvement from the readership, which will extensively help SLSEA in compiling the future versions.
+
+In consideration of the fact that there are various aspects needed to be considered in the process of renewable energy development, it is identified to be a dynamic process, and therefore planning for long time horizons is not expected. As the Plan is going to be reviewed in each 3-year period, consideration of only a reasonable time frame beyond the review period was considered to be included in the plan.
+
+3. Scope
+
+In the compilation of this publication on Renewable Energy Resource Development Plan, large-scale renewable energy development is focused in a broad national perspective in context of the prevailing project development methodologies. Ac-cordingly, following are presented through this.
+
+(i) Renewable Energy Resource Maps
+
+All the renewable energy development activities are implemented based on the resources identified and mapped. Renewable energy resource maps are available for 5 resources: solar, wind, biomass, hydro and wave energy, and those are presented through the report.
+
+(ii) Renewable Energy Resource Harnessing Potentials Renewable energy resource harnessing potentials of the major renewable energy resources - solar, wind, biomass, hydro are presented.
+
+(iii) Plan for renewable energy park and project development for upcoming period.
+
+(a) Renewable energy sites selected from the prioritized sites to be made ready by end 2030 are presented.
+
+(b) Further,renewable energy potential lands identified by the private project developer are included.(Project under renewable energy approval process,Project tendered by Ceylon Electricity Board, Projects under Expresence of Interest,etc.)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.20268A
+
+4. Data & Information
+
+The input data required for compiling this publication were mainly different land-use layer maps and renewable energy resource maps. Table 4.1 shows the data sources and file formats used under different criteria considered in the process.
+
+Table 4.1: Sources of data
+
+No.DescriptionFormatData Source
+
+1Scrub landsShape fileSurvey Department, 2019
+
+2Grass landsShape fileSurvey Department, 2019
+
+3Barren landsShape fileSurvey Department, 2019
+
+4Sparsely used croplandsShape fileSurvey Department, 2019
+
+5Open forestsShape fileSurvey Department, 2019
+
+6Sand areasShape fileSurvey Department, 2019
+
+7HomesteadsShape fileSurvey Department, 2019
+
+8Forest reservation areasShape fileSurvey Department, 2019
+
+9Wildlife reservation areasShape fileSurvey Department, 2019
+
+10Archeology sitesKML fileDepartment of Archeology
+
+11Coastal conservation areasShape fileDepartment of Coastal Conservation
+
+12Distance to roadsShape fileSurvey Department, 2019
+
+13Urban centersShape fileUrban Development Authority
+
+14Housing densityShape fileSurvey Department, 2019
+
+15Transmission linesKML fileCeylon Electricity Board
+
+16Distance from aviation portsShape fileSri Lanka National Spatial Data
+
+17Wind speedShape fileGlobal Wind Atlas data
+
+18Global Horizontal IrradiationShape fileSolar Resource Atlas of Sri Lanka, 2014
+
+19Biomass DensityShape fileBiomass Resource Atlas of Sri Lanka, 2019
+
+20Plant Factor for windShape fileGlobal Wind Atlas data
+
+21Solar PV Electric PotentialShape fileSolar Resource Atlas of Sri Lanka, 2014
+
+5. Methodology
+
+Since Sri Lanka is a country with limited land resources also with vivid bio diversity, one of the major challenges for renewable energy development is to identify the areas with high suitability for locating renewable energy power plants. In
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+9A
+
+the past few decades, Geographic Information Systems (GIS) have been widely used to assist in searching suitable sites for renewable energy development. GIS provides the functionalities of integrating a large spectrum of geospatial information into the decision-making process. Several criteria were selected based on literature review and the institutional experi-ence, and weighted overlay analysis in GIS was used to determine the potential locations. Figure 5.1 shows the basic steps followed in the land identification process.
+
+Figure 5.1: Land identification process
+
+The criteria chosen for modeling the suitability of renewable energy power plant locations were resource potential, land use, distance to roads, slope, distance to grid substations (GSS), urban centers and exclusionary areas (i.e. areas of forest and wildlife reservations, archeological reservations, coastal conservation areas, urban centers, airports and roads). The criteria selection was started with a comprehensive literature review, and it was narrowed down to those criteria deemed as relevant and critical for the suitability of renewable energy development. All the layers were projected into UTM ,WGS 84 and converted into raster data-structure. All of the raster datasets were re-sampled to a common cell size (10 m).
+
+5.1 Identification of potential land-use types
+
+One of the key data layers used in developing the geospatial model to generate the Plan is the digitized land use layer of Sri Lanka in 1:50,000 scale, published by the Survey Department in 2019. The land use data layer is a shape file, which consists of 342,639 polygon features, each representing a specific land use category. The image of the land use layer is presented in Annex 1.
+
+Table 5.1 gives all the land use classes available in Sri Lanka. Each land use was firstly screened, either ‘to be considered’ or ‘not to be considered’ as a potential land for wind, biomass or solar power development. Scrub lands, barren lands and sand areas are the general types of lands considered in all the districts. Barren lands are those ecosystems, in which less than one third of the area has vegetation or other cover. In general, barren lands have thin soil, sand or rocks. Barren lands include deserts, dry salt flats, beaches, sand dunes, exposed rock, strip mines, quarries and gravel pits. Scrub-
+
+Landuse pattern
+
+of Sri Lanka
+
+Identification of potential landuse types
+
+Exclusion of reservation
+
+and buffer areas
+
+Prioritation of selected
+
+lands
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202610A
+
+lands are the areas, which are covered with low trees and bushes. Cultivation areas, built-up areas, rock areas, all water bodies were not considered. Reservoirs were considered for floating solar power projects under the potential sites for solar power development. However, land-use type represented as ‘water areas’ was not considered in the model, as the purpose of the model is to prioritize lands. The lands for biomass considered here are the lands available for dedicated energy plantations. Therefore, homesteads, plantations and agriculture crops were not considered in the model. However, in view of the possibility of using off-cuts from pruning and residues derived from agricultural crops and plantations, the presence of homesteads, agriculture crops and plantations were recognized as sources of biomass, and it was considered in developing Biomass Atlas. Nevertheless, sparsely used croplands, homesteads, palmyrah, coconut and sand areas for Northern Province and open forest for the whole country were considered only, in recognition of the distinct nature of wind resources available in the particular area. The maps of selected land-use types are illustrated in Annex 2 and Annex 3.
+
+The most favoured area for wind and solar power development out of the above categories is sand areas where no vegeta-tion cover exists and the commercial values of the lands are less. Accordingly, the highest sand area is represented in the Jaffna district, which amounts to 5,992 ha. The second highest sand area is in the Kilinochchi district, with an extent of 2,504 ha. Hambantota and Ampara possess 1,555 ha. and 1,285 ha respectively. Overall, the district with the highest total amount of land available is Monaragala, with 350,296 ha. The second highest is the Badulla district, which has 258,045 ha. Anuradhapura district has 189,118 ha, and the Ampara district has 168,071 ha.
+
+Table 5.1: Land use types
+
+Landuse categoryCODEDescriptionConsiderationWindSolarBiomass
+
+1-CultivationareaCCNTACoconutConsideredNot consideredConsidered
+
+CNMNACinnamonNot consideredNot consideredConsideredCSHWACashewNot consideredNot consideredConsideredCTNLACitronellaNot consideredNot consideredConsideredOLPMAOil PalmNot consideredNot consideredConsidered
+
+OTHRAOther cultivationNot consideredNot consideredConsideredPDDYAPaddy (P)Not consideredNot consideredConsideredPDYAAPaddy – abandonedNot consideredNot consideredNot consideredRBBRARubberNot consideredNot consideredConsideredSGCNASugarcaneNot consideredNot consideredConsideredTEAATea (T)Not consideredNot consideredConsideredUNCLAUnclassifiedNot consideredNot consideredNot consideredCHENAChenaNot consideredNot consideredConsidered
+
+MIXDAMixed tree and other perennial cropsNot consideredNot consideredConsidered
+
+SPRSASparsely used crop landConsideredNot consideredConsidered2-Forest areaFRSDADense ForestNot consideredNot consideredNot considered
+
+FRSOAOpen ForestConsideredNot consideredNot consideredFRSPAForest PlantationNot consideredNot consideredNot consideredFRSUAForest-Unclassified (F)Not consideredNot consideredNot consideredUNCLAUnclassifiedNot consideredNot consideredNot considered3- Boggy areaMNGRAMangroveNot consideredNot consideredNot considered
+
+MRSHAMarshNot ConsideredNot ConsideredNot Considered
+
+SWMPASwampNot consideredNot consideredNot consideredUNCLAUnclassifiedNot consideredNot consideredNot considered
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+11A
+
+Landuse categoryCODEDescriptionConsiderationWindSolarBiomass
+
+4- Bare areaCLPTAClay PitNot consideredNot consideredNot considered
+
+GRSLAGrasslandConsideredNot ConsideredNot ConsideredGRVPAGravel PitNot consideredNot consideredNot consideredNLNDAAssociated non- agricultural landNot consideredNot consideredNot considered
+
+SCRBAScrub landConsideredConsideredConsideredUNCLAUnclassifiedNot consideredNot consideredNot consideredBRRNABarren land (BL)ConsideredConsideredConsidered5-Rock areaDSTSADistorted surfaceNot consideredNot consideredNot considered
+
+QRRYAQuarryNot consideredNot consideredNot consideredROCKARock (RK)Not consideredNot consideredNot consideredUNCLAUnclassifiedNot consideredNot consideredNot considered6-Built-up areaAGRCAAgricultural farmsNot consideredNot consideredNot considered
+
+AQTCAAquatic farmsNot consideredNot consideredNot considered
+
+BLTPABuilt-up areaNot consideredNot consideredNot considered
+
+CMTYACemeteryNot consideredNot consideredNot consideredHOMSAHomesteads/Garden(G)Not consideredNot consideredNot consideredLVSTALivestock farmsNot consideredNot consideredNot consideredPARKAParkNot consideredNot consideredNot consideredPLGDAPlaygroundNot consideredNot consideredNot consideredRSRVAReservationNot consideredNot consideredNot consideredUNCLAUnclassifiedNot consideredNot consideredNot considered7- Sand areaSANDASandConsideredConsideredConsidered8-Water areaAll waters areaNot consideredNot consideredNot considered
+
+5.2 Exclusion of reservation areas and buffer areas
+
+5.2.1 Forest, wildlife reservation and archeology sites
+
+Forest and wildlife reservation areas and archeological sites are considered as restricted areas, and cannot be used for renewable energy development. The forest reservation layer and the wildlife reservation layer consist of 752 and 292 polygon features with 1,145,875 ha. and 876,444 ha. respectively.
+
+The Department of Archeology has introduced 1,690 place marks as archeological sites except in Puttalam and Hambantota districts. In addition to that, 164 polygon features of 4,333 ha. have been declared as archeological sites in the Anuradhapura and Polonnaruwa districts.
+
+Further, a buffer zone of 1.6 km for wildlife and forest reservations and a 375 m buffer zone for archeological sites were set.
+
+5.2.2 Coastal conservation areas
+
+A setback area which is a geographical strip or band within the coastal zone of the country has been published by the Coast Conservation and Coastal Resource Management Department.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202612A
+
+Table 5.2: Proposed setback distance
+
+DistrictProposed setback (m)
+
+Jaffna125
+
+Kilinochchi300
+
+Mullaitivu110
+
+Mannar125
+
+Puttalam300
+
+Gampaha45
+
+Colombo50
+
+Kaluthara50
+
+Galle45
+
+Matara40
+
+Hambantota300
+
+Ampara125
+
+Batticaloa125
+
+Trincomalee125
+
+In connection to the above, a buffer of 1 km was considered only for solar power development. However, a buffer area was not considered for wind power development, and clearance from Coast Conservation and Coastal Resource Management Department will be sought before plant installation.
+
+5.2.3 Road networkWind turbines should have a distance of at least 100 m from roads according to the international standards. Further, a buffer area of 250 m from roads was introduced for solar power. In addition, railroads were given a buffer of 40 m for all renewable energy types. Further, in locating suitable sites for renewable energy project development, accessibility is required for transportation of equipment, and therefore distances of 500 m were assigned as buffers to give weights to access to the major roads and secondary roads. Distances above 2,000 m were considered not suitable for project development. However, road accessibility is not a critical factor for plant sizes above 100 MW since access roads could be constructed under the particular projects.
+
+5.2.4 Water bodies
+
+Buffer zones have been declared by the government for all water bodies such as rivers, streams, tanks, etc. and those are restrict-ed for any type of construction. A 40 m buffer was set for all the water bodies for any type of renewable energy development.
+
+5.2.5 Urban centers and areas declared by urban development authority
+
+Since urban centers are highly populated, renewable energy development is not allowed. Urban Development Authority has declared areas for future developments. Therefore, those areas were excluded. Further, a buffer zone of 1 km was considered for security and noise effect. Scoring was introduced such that scores will increase as the distance from urban areas increases.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+13A
+
+5.2.6 Buildings
+
+Due to the various unfavorable environmental and social impacts on the populated centers, distance from residential areas was considered as one of the important criteria. In addition, commercial values of lands near urban centers are trending high. Further, shadow effects have to be eliminated as much as possible for solar power plants. So, in consideration of these attributes, building density was considered as a criterion in the prioritization. However, noise effect of wind power plants should be specifically considered in the feasibility study since isolated buildings could be within the development areas.
+
+5.2.7 Distance from aviation ports
+
+According to the international standards, a 15 km buffer layer should be given for international airports and a 10 km buffer layer should be given for local airports in wind power development, and a 2 km buffer should be given in solar power development.
+
+Table 5.3: Summary of buffers
+
+CriterionBuffer
+
+WindSolar
+
+Forest, wildlife reservation1,600 m1,600
+
+Archaeology sites375 m375
+
+Coastal conservation areas0 m1,000
+
+Road Networks100 m250
+
+Railways40 m40
+
+Urban centres1,000 m1,000
+
+Water bodies40 m40
+
+AirportsInternational15,000 m2,000
+
+Domestic10,000 m2,000
+
+All the reservations and buffer areas were excluded from the selected land-use layers, and the potential lands for wind, biomass and solar power development were identified accordingly. The maps attached from Annex 4 to Annex 12 illustrate the reservations and buffer areas excluded. In case where a large number of land plots are available with the demarcation among them by relatively small exclusive areas, the candidate plots for selection was considered on aggregate basis since many of small size single land plots cannot be developed as single sites.
+
+5.3 Power plant capacities and annual energy yields
+
+The areas selected from the above screening process were analyzed through GIS for obtaining prospective power plant capacities and the expected annual energy yield of each plot. Following design capacities were used in the capacity calculation.
+
+ Design capacity for wind power plants – 0.08 MW/ha.
+
+ Design capacity for solar power plants – 0.5 MW/ha.
+
+Note: In design capacity for wind, bulk land are requirements have been considered, where it is not the direct foot-print value, and the foot-print value will come out in micro-siting.
+
+In calculating the annual energy yields expected from wind power plants, plant factors were considered in accordance with the Global Wind Atlas for International Electro-technical Commission (IEC) Class II turbines at 100 m hub height. Plant factors for solar power plants were considered in accordance with the Solar PV Electric Potential given in Solar Resource Atlas of Sri Lanka.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202614A
+
+5.4 Prioritization (Weighted overlay model)
+
+The selected land plots were screened at first based on the resource availability since it is the crucial factor in determining the most suitable lands for development. Accordingly, the areas above 1,766 kWh/m2 of GHI for solar resource and 7 m/s of wind speed for wind resource were considered. The Figure 6.1 depicts the spatial distribution of GHI in Sri Lanka and Figure 6.2 depicts the spatial distribution of wind speeds in Sri Lanka.
+
+Then the land plots for wind power development were screened based on the slope of the land. For the reason that the lands with high gradients are not suitable for wind power development since high turbulence and high loads on wind blades affecting the performance of the wind turbines, the potential lands above 30% of slope have been excluded. Further, the land plots in the lowlands, i.e. elevations from sea level only up to 270 m elevation were considered taking into account the complex wind pattern in the central highlands and logistic issues arisen in installation of plants in high terrain.
+
+Out of the 3 resource types in concern, the first priority was given to wind power development, and therefore those lands earmarked for wind power development were excluded from the potential lands for biomass and solar power develop-ment. Then, the areas in the DSDs that high volumes of biomass generation are expected were excluded from potential lands for solar power development (i.e. the areas with biomass density greater than 6 MT/ha. per year were considered as the most suitable sites for biomass development).
+
+Then, prioritization of sites for wind power and solar power development was done by combining different geospatial layers using the weighted overlay method in ArcGIS. Weights were assigned to each layer to reflect the relative importance of each criterion in the prioritization of sites. Since the model considers different aspects such as economic and technical factors, with the goal of achieving the maximum power while minimizing the project cost, weighted overlay model was used to weigh the criteria and to evaluate potential sites. Footprint of energy generation of each resource was rated as the most important criterion, and all other criteria such as building density, distance to grid substations, distance to roads and distance to urban centers were assigned weights according to the relative importance.
+
+Table 5.4: Weighted overlay model
+
+CriterionWeightage Factor (%)
+
+WindSolar
+
+Distance to GSS1515
+
+Distance to roads55
+
+Distance to urban centers50
+
+Footprint of energy generation7075
+
+Building density55
+
+The data layers were classified into 5 classes ranging from 1 to 5; 5 representing the most favourable level for renewable energy development. The layers, sub-classes and weights used for prioritization of lands for solar power and wind power development are presented in Table 5.5 & Table 5.6. Since ‘distance to GSS’ is a crucial factor for small scale power plants, i.e. capacity below 25 MW, weights were assigned based on plant capacity. The assigned weights are depicted. The final suitability scores of the sites were determined by reclassifying the scores derived from the weighted overlay model into five classes.
+
+Table 5.5: Criterion indices for different criteria for wind power development
+
+CriterionCriterion Index
+
+54321
+
+Housing density0-22-66-1111-18>18
+
+Footprint of wind energy generation (MWh/ha)>450450-400400-300300-200<200
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+15A
+
+CriterionCriterion Index
+
+54321
+
+Access to roads (m)0-500500-1,0001,000-1,5001,500-2,500>2,500
+
+Distance from urban centers (m)>2,0001,000-2,000500-1,0000-5000
+
+Table 5.6: Criterion indices for different criteria for solar power development
+
+CriterionCriterion Index
+
+54321
+
+Housing Density0-22-66-1111-18>18
+
+Footprint of solar energy generation (MWh/ha)>800775-800750-775725-750<725
+
+Access to roads (m)0-500500-1,0001,000-1,5001,500-2,500>2,500
+
+Distance from urban centers (m)>2,0001,000-2,000500-1,0000-5000
+
+Since the distance to grid substations is dependent on the size of the plant, the potential lands have been classified into two categories as 10MW<X<25MW and >25MW.
+
+Table 5.7: Criterion indices for access to GSS for prioritization of lands
+
+CriterionCriterion Index
+
+54321
+
+Distance to GSS (km) for Capacity 10 – 25MW0-55-1010-1515-20>20
+
+Distance to GSS (km) for Capacity>25MW0-1010-2020-3535-50>50
+
+5.5 Final prioritization
+
+The conclusive factors were considered in the final prioritization, and accordingly following are the parameters consid-ered in the final prioritization.
+
+ Land use pattern Unutilized capacity of substation Proposed capacity for filtered lands Expected annual energy generation Land ownership
+
+ Government owned (e.g. Mahaweli)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202616A
+
+5.6 Applying land ownership and buildings information
+
+In cases where the land is claimed by the Land Reforms Commission, the provisions of the Land Reforms Act No. 01 of 1972, as amended from time to time, will be applied to the ownership of the land used for the said development work. In cases where such land is acquired on lease basis, it will be provided on a long-term lease basis.
+
+In cases where land is acquired on a public interest basis, compensation will be paid to the Land Reforms Commission as per the provisions of the Land Acquisition Act. In cases where the ownership of the land used for the development work is in the hands of the Government, the land will be disposed of subject to the provisions of the Government Lands Ordinance No. 8 of 1947. If tanks and main canal systems controlled by other institutions are used for this purpose, the approval of those institutions will be obtained in such cases.
+
+Currently, there is a large amount of fallow paddy fields in the wet zone of Sri Lanka (Colombo, Kalutara, Gampaha, Galle, Matara districts) and after a proper feasibility study, efforts are being made to utilize those fallow paddy fields for this devel-opment plan, which is scheduled to be updated for the next 3 years.
+
+Finally, land ownership information was linked with the most suitable land plots to identify easily developable sites; for instance, ‘Mahaweli Special Areas ’were considered to be favorable for solar power development.
+
+5.7 Energy park development time line
+
+The energy park development timeline was decided in dialogue with the Generation & Transmission Planning and Renew-able Energy Development Divisions of the Ceylon Electricity Board. In the development of this time line, a two-year period of initial project development (pre-tendering) activities was considered. Detailed activity plans for wind power and solar power projects are given in the Annex. Further, it is expected to take measures to expedite the initial project development activities, whereby it will result in reduced time periods.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+17A
+
+5.8 Process representation of data derivation methodology
+
+Figure 5.2 Selection of lands
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202618A
+
+Figure 5.3 Weighted overlay model
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+19A
+
+6. Renewable Energy Resource Maps
+
+6.1 Solar resource map
+
+Figure 6.1: Solar Resource Map (Annual Global Horizontal Irradiance)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202620A
+
+6.2 Wind resource maps
+
+Figure 6.2: Wind Resource Map (Mean Wind Speed at 100m height)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+21A
+
+6.3 Off-shore Wind Resource Map
+
+Figure 6.3: Off-shore Wind Resource Map
+
+Source: ESMAP-IFC Offshore Wind Development Program http://documents1.worldbank.org/curated/en/828731586850081077/pdf/Technical-Potential-for- Offshore-Wind-in-Sri-Lanka-Map.pdf
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202622A
+
+6.4 Hydro resource map
+
+Figure 6.4: Hydro Resource MapNote: Total – 1,082 MW (Run-off river potential; other districts have negligible potentials)
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+23A
+
+6.5 Biomass resource map
+
+Figure 6.5: Biomass density of Sri Lanka-Energy plantations
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202624A
+
+Figure 6.6: Biomass density of Sri Lanka- Agro-Residues
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+25A
+
+6.6 Wave power resource map
+
+Figure 6.7: Omni-directional wave power at 50 m water depth
+
+Source: Sri Lanka Wave Energy Resource Assessment and Characterization, Sri Lanka Sustainable Energy Authority, 2019
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202626A
+
+7. Potential Lands for Renewable Energy Development
+
+Figure 7.1: Potential lands for renewable energy development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+27A
+
+7.1 Potential lands for wind power development
+
+Table 7.1: Lands available for wind power development
+
+District
+
+Available Land extent (ha)
+
+Scrub landsBarren landsOpen forestSandHomestead/ GardensSparsely used cropGrass landsPalmyra Coconut
+
+TotalSCRBABRRNAFRSOASANDAHOMSASPRSAGRSLA PLMRACCNTA
+
+Ampara40,53122,550103,7051,285-----168,071
+
+Anuradhapura117,2228,15470,543-9611,143--3198,026
+
+Badulla126,6473,742127,656------258,045
+
+Batticaloa58,25116,85624,325892-----100,324
+
+Colombo1,066162861191-----2,279
+
+Galle6,4541815,941252-----12,828
+
+Gampaha5,1217461,570375-----7,811
+
+Hambantota53,2172,22237,4561,555-----94,450
+
+Jaffna9,9287,7501,0965,92034,7783,3132,44970187466,808
+
+Kalutara16,46815114,080239-----30,938
+
+Kandy22,4481,12287,944-----111,515
+
+Kegalle12,52246914,235------27,226
+
+Kilinochchi13,9607,8068,5082,53017,5165,742214691,70558,256
+
+Kurunegala38,3961,02720,2061-----59,630
+
+Mannar32,5329,39117,9404658,7154,52322773784975,379
+
+Matale31,0472,930112,991------146,968
+
+Matara2,1741081,660137-----4,078
+
+Moneragala202,9531,844145,499------350,296
+
+Mullaitivu27,6215,90229,93364216,7166,505402-1,02988,749
+
+Nuwara Eliya33,58255552,807------86,944
+
+Polonnaruwa60,74310,99657,998------129,737
+
+Puttalam42,6605,65018,1742,332-----68,817
+
+Ratnapura62,2441,88367,576------131,703
+
+Trincomalee46,94218,13962,628563-4---128,275
+
+Vavuniya23,9782,42713,487-21,26812,9341,044-10875,247
+
+Total1,088,708 132,7621,098,81717,378 99,95534,1644,1421,9074,682,482,401
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202628A
+
+Table 7.2: Potential lands for wind power development
+
+DistrictTotal Area (ha)
+
+Total Capacity (MW)
+
+Site-wise capacityTotal estimated energy (GWh/annum)
+
+10MW< x<=25MW25MW< x<=100MW>100MW
+
+Ampara1261010--37
+
+Anuradhapura45,2073,6178351,95183114,203
+
+Badulla4,34734850442541,333
+
+Batticaloa------
+
+Colombo------
+
+Galle------
+
+Gampaha------
+
+Hambantota4,355348641291561,312
+
+Jaffna10,1848151392734023,234
+
+Kalutara------
+
+Kandy2,28418310479-684
+
+Kegalle------
+
+Kilinochchi9,4337551032404113,116
+
+Kurunegala2,94823620729-995
+
+Mannar18,6531,4923006485445,898
+
+Matale15,2071,2171974865344,729
+
+Matara------
+
+Monaragala------
+
+Mullaitivu3222626--96
+
+Nuwara Eliya------
+
+Polonnaruwa4683737--152
+
+Puttalam3,40127262871231,157
+
+Ratnapura3,211257101156-980
+
+Trincomalee2021616--68
+
+Vavuniya3,52528256621631,105
+
+Total123,8749,9102,3074,1843,41939,099
+
+Note: Total area, total capacity and total estimated energy have been calculated for plants, of which capacity is higher than 10 MW only, as large-scale projects will be focused in Energy Park development.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+29A
+
+Figure 7.2: Potential lands for wind power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202630A
+
+7.2 Potential lands for solar power development
+
+Table 7.3: Lands available for biomass/ solar power development
+
+DistrictLand Areas Available (ha)
+
+Scrub landsBarren landsSandTotal
+
+Ampara40,53122,5501,28564,366
+
+Anuradhapura114,9807,994-122,974
+
+Badulla126,6473,742-130,389
+
+Batticaloa58,25116,85689376,000
+
+Colombo1,0661621911,418
+
+Galle6,4541812576,891
+
+Gampaha5,1217463756,242
+
+Hambantota53,2172,2221,55556,994
+
+Jaffna10,0517,7805,99223,822
+
+Kalutara16,46815624816,871
+
+Kandy22,4481,122-23,570
+
+Kegalle12,522469-12,991
+
+Kilinochchi13,9137,8122,50424,229
+
+Kurunegala38,3961,027139,424
+
+Mannar32,0039,28346541,751
+
+Matale31,0472,930-33,977
+
+Matara2,1741081372,418
+
+Moneragala202,9531,844-204,797
+
+Mullaitivu27,5795,89265134,122
+
+NuwaraEliya33,582555-34,138
+
+Polonnaruwa60,74310,996-71,739
+
+Puttalam42,6635,6572,33250,651
+
+Ratnapura62,2441,883-64,127
+
+Trincomalee46,07718,08758464,747
+
+Vavuniya23,8452,427-26,272
+
+Total1,084,975132,48017,4691,234,923
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+31A
+
+Table 7.4: Potential lands for solar power development
+
+DistrictTotal Area (ha)Total Capacity (MW)
+
+Site-wise capacityTotal estimated energy (GWh)10MW< x<25MW25MW< x<100MW>100MW
+
+Ampara6,3673,1835368351,8124,715
+
+Anuradhapura61630835273-467
+
+Badulla10,1035,0528312,2881,9337,522
+
+Batticaloa3,1361,5682759863072,312
+
+Colombo261313--19
+
+Galle30215135116-226
+
+Gampaha41520711790-295
+
+Hambantota1,9769881213884791,436
+
+Jaffna96248139144297738
+
+Kalutara1,160580121176283852
+
+Kandy36018074106-258
+
+Kegalle33616812840-240
+
+Kilinochchi2,0991,0493072844591,586
+
+Kurunegala3,4521,7264768264242,525
+
+Mannar3,6121,8063945868262,776
+
+Matale2,7321,3662064387221,970
+
+Matara33216629137-247
+
+Moneragala2,5311,2661365845461,850
+
+Mullaitivu7,4173,7087191,9441,0465,737
+
+Nuwara Eliya49524750198-375
+
+Polonnaruwa982491124367-746
+
+Puttalam2,5201,2602746533331,879
+
+Ratnapura3,5361,7685721,196-2,568
+
+Trincomalee1,9579791642645511,464
+
+Vavuniya1,8559272524702051,433
+
+Total59,27829,6396,02913,38910,22144,239
+
+Note: Total area, total capacity and total estimated energy have been calculated for plants, of which capacity is higher than 10 MW only, as large-scale projects will be focused in Energy Park development.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202632A
+
+Figure 7.3: Potential lands and reservoirs for solar power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202633A
+
+7.4 Potential for floating solar power development
+
+Potentials for floating solar power development is identified in natural water bodies as well as the reservoirs of large-hydro power plants. When a conservative 10% of the surface areas of reservoirs bodies with surface areas 10 km2 or above aretaken. When 10% of the surface areas of reservoirs is considered and details are given below.
+
+Table 7.5: Reservoir-based floating solar power potential
+
+No.ReservoirDistrictTotal Reservoir Area (Acres)
+
+Area for Solar Development (Acres)
+
+Proposed Capacity (MW)
+
+1Irakkamam
+
+Ampara
+
+1,698 250 50
+
+2Ambalan Oya 2,137 214 50
+
+3Rottikulama7497515
+
+4KalawewaAnuradhapura 6,218 1,244 50
+
+5Yan Oya14,62523770
+
+6Ulhitiya/Rathkinda
+
+Badulla
+
+5,645 1,129 226
+
+7Loggaloya 1,393 279 56
+
+8Dambara wewa 862 86 17
+
+9RidiyagamaHambantota 2,256 226 45
+
+10Yoda wewa 1,334 133 27
+
+11VictoriaKandy 5,950 1,190 238
+
+12Randenigala 5,875 1,175 70
+
+13Ambakolawewa
+
+Kurunagala
+
+678 68 14
+
+14Attaragalla 498 50 10
+
+15Bathalegoda 612 61 12
+
+16Deduru Oya 4,893 489 98
+
+17Magalla 661 66 13
+
+18Jayawewa 759 76 15
+
+19AkathimuruppuMannar 973 97 19
+
+20Moragahakanda
+
+Matale
+
+6,550 1,310 100
+
+21Kandalama 1,943 389 78
+
+22Bowatenna 1,170 234 47
+
+23Ibbankatuwa 1,013 203 41
+
+24Dewahuwa 1,083 108 22
+
+25EthimaleMonaragala 1,177 118 24
+
+26KotmaleNuwaraeliya 1,625 325 65
+
+27Maduruoya
+
+Polonnaruwa
+
+15,975 3,195 50
+
+28Pimburatthawa 6,500 1,300 260
+
+29Aralaganwila 2,450 490 98
+
+30VendrasanTrincomolee 1,123 112 22
+
+Note: The percentages considered above are subject to verifications through future studies related to floating solar PV projects.
+
+3
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202634A
+
+7.4 Biomass power development potential
+
+Table 7.6: Potential lands for biomass power development
+
+DistrictTotal land Area for DP (ha)
+
+Total yield from DP (MT/annum)
+
+Total Capacity from Plantation1 (MW)
+
+Total Capacity from AR (MW)Total Capacity (MW)
+
+Total Estimated Energy (GWh/annum)
+
+Ampara6,71233,18322.40.322.7159
+
+Anuradhapura1,3355,810153.86.8160.61,126
+
+Badulla14,17757,47944.21.645.8321
+
+Batticaloa10,60660,98653.12.555.6390
+
+Colombo------
+
+Galle------
+
+Gampaha3016715.10.916.0112
+
+Hambantota8,78144,39256.52.058.5410
+
+Jaffna37184----
+
+Kalutara------
+
+Kandy------
+
+Kegalle------
+
+Kilinochchi1711,23314.20.214.4101
+
+Kurunegala3602,17649.72.752.4368
+
+Mannar3,65515,51226.90.727.6194
+
+Matale00----
+
+Matara------
+
+Monaragala27,063121,364183.63.5187.11,311
+
+Mullaitivu------
+
+Nuwara Eliya------
+
+Polonnaruwa8,11429,27239.64.143.7306
+
+Puttalam4793,06149.31.951.2359
+
+Ratnapura2,0039,464----
+
+Trincomalee3,28710,22715.80.616.4115
+
+Vavuniya5,79521,09239.41.641.0288
+
+Total92,606415,603763.529.6793.15,558
+
+Note: ‘Plantation’ refers to dedicated plantations and other plantation-related biomass (inter- cropping, homesteads, etc.)DP – Dedicated Plantations, AR – Agro-Residue
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+35A
+
+Figure 7.4: Potential lands for biomass power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202636A
+
+7.5 Off-shore wind power potential
+
+The estimated total technical potential of off-shore wind in Sri Lanka is 92 GW, including 55 GW of fixed potential and 37 GW of floating potential. Technical potential is defined as the maximum possible installed capacity as determined by wind speed and water depth. This does not take into account other technical, environmental or economic constraints. These details are extracted from the World Bank Group (WBG) initiative on offshore wind, funded and led by the Energy Sector Management Assistance Program (ESMAP).
+
+7.6 Wave energy resource potential
+
+Table 7.7: Wave energy resource potential
+
+ProvinceWave Energy Resource Potential (TWh/year)
+
+Northern Province2.65
+
+Eastern Province4.35
+
+Southern Province26.30
+
+Western Province8.75
+
+North-western Province5.25
+
+Total47.3
+
+Source: Sri Lanka Wave Energy Resource Assessment and Characterization, Sri Lanka Sustainable Energy Authority, 2019
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+37A
+
+7.7 Prioritized lands for renewable energy development
+
+7.7.1 Prioritized lands for wind power development
+
+Figure 7.5: Prioritized Lands for Wind Power Development for capacity above 25 MW
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202638A
+
+7.7.2 Prioritized lands for solar power development
+
+Figure 7.6: Prioritized Lands for Solar Power Development for capacity above 25 MW
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+39A
+
+8. Energy Park Project Development
+
+8.1 On-going Energy Park ProjectsSLSEA and CEB will jointly carry out pre-project development activities at renewable energy (RE) sites with the objective of preparing ‘ready for invest’ projects. Upon completion, the sites will be handed over to CEB for implementation.
+
+Table 8.1: Details of projects currently under construction
+
+Project DetailsExpected commissioned yearZoneProject NameTypeCapacity(MW)
+
+SouthernSiyabalaanduwaGound Mounted Solar1002026
+
+Northern(Mannar Sub Region)Mannar (Phase 1)Wind 502026
+
+Table 8.2: Details of projects currently under development
+
+Project DetailsExpected commissioned yearZoneProject NameTypeCapacity(MW)
+
+Northern (Kilinochchi Sub Region)Mullikulam i & iiWind1002028
+
+VeravilWind2042028
+
+Northern (Mannar Sub Region)Karachchi (Kandawalai)Wind1282029
+
+Manthai WestWind3002030
+
+8.2 Planned Energy Park Projects
+
+The project development period (ending in 2030) has been extended to include projects in the planning phase. The details are as follows.
+
+Table 8.3: Details of ground mounted solar projects in the planning stage
+
+Project DetailsExpected commissioned yearZoneProject NameTypeCapacity(MW)
+
+Northern (Kilinochchi Sub Region)Kilinochchi IGound Mounted Solar502029
+
+System LGound Mounted Solar1002029
+
+Northern (Mannar Sub Region)Sampur Phase IGound Mounted Solar502028
+
+Sampur Phase IIGound Mounted Solar702030
+
+Trincomalee IGound Mounted Solar1002030
+
+Trincomalee II Gound Mounted Solar1002030
+
+EasternValaichenaiGound Mounted Solar1002028
+
+North WesternKottukachchiyaGound Mounted Solar802029
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202640A
+
+Table 8.4: Details of wind projects in the planning stage
+
+Project DetailsExpected commissioned yearZoneProject NameTypeCapacity(MW)
+
+Northern (Kilinochchi Sub Region)PoonarynWind2342030
+
+Northern (Mannar Sub Region)Mannar Phase IIWind2502027
+
+North WesternKalpitiyaWind1202028
+
+Table 8.5: Details of floating solar projects in the planning stage
+
+Project DetailsExpected commissioned yearZoneProject NameTypeCapacity(MW)
+
+SouthernRidiyagama solarFloating Solar502029
+
+North Western
+
+Deduru OyaFloating Solar1002029
+
+Negombo LagoonFloating Solar502030
+
+Eastern
+
+IrakkamamFloating Solar502030
+
+Ambalan OyaFloating Solar502030
+
+North Central
+
+KalawewaFloating Solar502030
+
+Maduru OyaFloating Solar502030
+
+Central
+
+RandenigalaFloating Solar702030
+
+MoragahakandaFloating Solar1002030
+
+CastlereaghFloating Solar502030
+
+Note: To commission year of the above projects as planned, the following transmission infrastructure developments are required: the Vavuniya 220 kV development; the Northern Collector–New Habarana 400 kV transmission line via Vavuniya, initially operated at 220 kV; reconductoring of the 220 kV Mannar–Vavuniya transmission line; the New Habarana–Kappalthurei 220 kV transmission line; and the development of a 100 MW / 400 MWh Battery Energy Storage System (BESS).
+
+The capacity of above projects may be changed according to the condition of the approving agencies.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+41A
+
+9. Discussion
+
+The Government of Sri Lanka has given policy directives to go for high amounts of renewable energy. SLSEA, as the focal Government entity for the implementation of renewable energy development programs, is taking necessary steps in line with this. Primarily, Sri Lanka has the required resource potential – particularly wind energy and solar energy resources. Even with the potential lands of solar power development alone, the electricity generation capacity for a foreseeable future period can be met. Taking into consideration of the dynamic nature of the process, particularly due to the need of using the transmission grid for the evacuation of the electricity generated from energy parks, the planning time horizon has been taken as 6 years, in view of the possibility of accommodating increased amounts in the upcoming volumes of the plan. In addition to that, some of the specific concerns related to the subject are given below.
+
+(a) Optimal Use of Transmission Capacities
+
+In the renewable energy harnessing, final selection of the sites needs to be done in an optimal combination of trans-mission capacity utilization and harnessing the resource potential. This has been applied by the CEB and SLSEA in the finalization of sites, and will be particularly addressed in the amalgamation of renewable energy development sites into the transmission development plan of the CEB in the future stages. Further, transmission development using appropriate technologies will be required for increasing the renewable energy development capacity.
+
+(b) Ground Verification of Sites
+
+In selecting the lands for renewable energy development, consideration has been made to utilize non- arable lands as well as to make the minimum socio-environmental impacts, such as cutting down the minimum number of trees. In spite of the fact that care has been taken to select the appropriate land types in accordance with that, all the prioritized lands will be taken for projects after detailed site visits where appropriateness of the sites will be further studied and decided upon. Further steps are being taken to give special attention to the North, East and South provinces, which have greater potential for establishing renewable energy parks.
+
+(c) Project Development Period
+
+As far as the time taken for initial project development is concerned, typical time periods have been derived based on the past project implementation by the private sector as well as the involvement in energy park development by SLSEA. Typical time periods thus established is shown in Annex 14 & 15. However, with this renewable energy development planning process, it is objected at the relevant statutory institutes can take informed decisions on allocating lands for project development and the issuance of the necessary approvals. Accordingly, it is expected that initial project development durations will be reduced in the future.
+
+(d) Continuing Wind Resource Assessment
+
+In the consideration of wind power generation capacity, the resource potential has been based on the data available in the Global Wind Atlas. However, in the prioritization of lands for wind power development, only the geographical areas where long-term wind measurements were carried out have been included. The methodology will be applied to the future as well, and accordingly the measurement program will be continued for further locations through which wind power sites for future development will be identified. Further, high wind resource potentials are available in the upcountry, and in consideration of the logistical constraints the particular sites have been excluded from the prioritization. However, in developed stages those sites can be taken into account. Overall, at this level, sites with the highest wind resource and easy implementation have been included in the prioritization, and it will be expanded further in later stages.
+
+(e) Further Technology Options
+
+SLSEA deeply recognizes importance of lands as a rare commodity in the country, and takes serious consideration to use only the lands unutilizable for other purposes for renewable energy development. Meanwhile, as an alternatives, plans are underway to achieve a target of 150MW per year through rooftop solar panels. Floating solar PV systems is yet another
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202642A
+
+system in this category, where efficiency reduction due to temperature increase can be better controlled, and also evap-oration of surface waters and other water body related unwelcoming features are observed to be addressed positively. So, floating solar power development will be focused as a further optional method for solar power development.
+
+In recognition of the high wind power potential of the off-grid resources, measures will be taken to develop off-shore wind power resources, and the initial activities in this connection have already been started.
+
+(f) Other Renewable Energy Sources
+
+Solar, wind, biomass and hydro are the commercially developed renewable energy sources in the country. Apart from these, there are other sources such as wave energy, ocean thermal energy, geothermal energy, etc. As far as the initiatives that have been made pertinent to these sources are concerned, resource potential studies on wave energy have been carried out so far. So, pilot projects on this particular resource and potential studies and pilot projects on other emerging technologies are yet to be carried out. Therefore, once emerging technologies are taken to substantial levels of development, those will be included in the Plan in the upcoming volumes.
+
+(g) Compliance for Socio-environmental and other Requirements
+
+One of the prime concerns of SLSEA is to assure the compliance of project implementation to the socio-economic and all other requirements. Accordingly, all the available constraints, restrictions, etc. have been taken into consideration herein in selecting project sites for renewable energy development.
+
+In this context, Department of Archeology is carrying out a detailed study of archeological sites in the country, and the archaeological surveys in the Puttalam and Hambantota districts, are yet to be completed. Climatic conditions such as floods, landslides, etc., and environmentally sensitive zones, migratory bird sanctuaries, and wildlife migration routes have been taken into consideration in this development plan report, and the necessary approvals will be obtained in accordance with the provisions of the National Environment Act No. 47 of 1980 before the project is implemented
+
+(h) Macro Level Environmental Considerations
+
+One of the key objectives in increasing the renewable energy share in electricity generation is to reduce the burning of petroleum fuels for electricity generation whereby the related environmental impacts could be reduced gradually. This fact is highly welcome by the environmental professionals in the country, and therefore it is noted here that the Plan will meet one of the prime requirements of conserving the environment through the introduction of environmentally benign tech-nologies for electricity generation. Further, a prime observation of the environment professionals related to the subject is that even though project-specific studies would address site-specific environmental constraints which is a must, that would not necessarily address the overall environmental aspects in a macro level national perspective, and further suggest to spell out environmental aspects in a separate chapter. SLSEA would accept this observation, and would make it a point to look at the macro environmental aspects of renewable energy projects in the upcoming periods and that information will be elaborated in the upcoming editions by way of incorporating a separate chapter on environmental aspects.
+
+(i) Room for Technological Advancements
+
+Finally, for the prevailing technological context, harnessing renewable energy is being planned in the form of electricity. Even though not commercially developed yet, newer technologies like hydrogen technology are expected to expand the technological horizons of renewable energy harnessing, and SLSEA will do the needful to be abreast with the global technological developments and introduce necessary measures to optimally harness the resources using such advanced technologies in the future. That will open up opportunities for harnessing more renewable energy sources, and to enhance the utilization limits beyond electricity, leading towards a hydrogen economy.
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+43A
+
+10. Appendices
+
+Annex 1: Land use layer of Sri Lanka
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202644A
+
+Annex 2: Selected land use for solar and biomass power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+45A
+
+Annex 3: Selected land use for wind power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202646A
+
+Annex 4: Map of Archeological Reservation with Buffer Zone
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+47A
+
+Annex 5: Map of Forest Reservation with Buffer Zone
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202648A
+
+Annex 6: Map of Forest Reservation with Buffer Zone
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+49A
+
+Annex 7: Road and Railroad Map with buffer
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202650A
+
+Annex 8: Map of hydrology buffer
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+51A
+
+Annex 9: Map of urban centers
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202652A
+
+Annex 10: Map of housing density
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+53A
+
+Annex 11: Map of airport buffers for wind power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202654A
+
+Annex 12: Map of airport buffer in 2km for solar power development
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+55A
+
+Annex 13: Transmission Network
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.202656A
+
+Annex 14: Typical utility-scale wind power project activity plan
+
+I fldgi ( ^I& fPoh - YS% ,xld m%cd;dka;s%l iudcjd§ ckrcfha w;s úfYI .eiÜ m;%h - 2026'03'11Part I : Sec. (I) - GAZETTE EXTRAORDINARY OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - 11.03.2026
+
+57A
+
+Annex 15: Typical utility scale Solar power project activity plan
+
+11. References
+
+1. Vitanage, P.W., 1970 A study of geomorphology and morphotecttonics in Ceylon, Proceedings of the Seminar on geochemical prospecting methods and techniques, Peradeniya, Sri Lanka, University of Ceylon, pp 391–406
+
+EOG 03 - 0126
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA.
