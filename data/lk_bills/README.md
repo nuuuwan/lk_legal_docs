@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_05:48:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_17:45:39-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,206** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-03-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,209** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**1.9 GB**), from **2010-05-10** to **2026-03-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 ```json
 {
     "doc_type": "lk_bills",
-    "doc_id": "2026-03-17-2026-03-17-22-2026-ta",
-    "num": "2026-03-17-22-2026-ta",
+    "doc_id": "2026-03-17-2026-03-17-23-2026-ta",
+    "num": "2026-03-17-23-2026-ta",
     "date_str": "2026-03-17",
-    "description": "Inland Revenue (Amendment) - Bill",
+    "description": "Social Security Contribution Levy (Amendment) - Bill",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/22-2026_T.pdf",
-    "doc_number": "22/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/23-2026_T.pdf",
+    "doc_number": "23/2026"
 }
 ```
 
@@ -41,6 +41,9 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 🆕 20 Latest documents
 
+- 2026-03-17 | `2026-03-17-23-2026-ta` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-ta)
+- 2026-03-17 | `2026-03-17-23-2026-si` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-si)
+- 2026-03-17 | `2026-03-17-23-2026-en` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-en)
 - 2026-03-17 | `2026-03-17-22-2026-ta` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-ta)
 - 2026-03-17 | `2026-03-17-22-2026-si` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-si)
 - 2026-03-17 | `2026-03-17-22-2026-en` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-en)
@@ -58,9 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2026-03-11 | `2026-03-11-18-2026-en` | Convention on the Suppression of Terrorist  Financing (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-11-2026-03-11-18-2026-en)
 - 2026-03-03 | `2026-03-03-17-2026-ta` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-ta)
 - 2026-03-03 | `2026-03-03-17-2026-si` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-si)
-- 2026-03-03 | `2026-03-03-17-2026-en` | Social Security Contribution Levy  (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-03-2026-03-03-17-2026-en)
-- 2026-02-24 | `2026-02-24-13-2026-ta` | Inland Revenue (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-24-2026-02-24-13-2026-ta)
-- 2026-02-24 | `2026-02-24-13-2026-si` | Inland Revenue (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-02-24-2026-02-24-13-2026-si)
 
 ---
 
