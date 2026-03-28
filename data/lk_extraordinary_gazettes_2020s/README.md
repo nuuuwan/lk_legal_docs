@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_07:02:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_06:58:44-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,902** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.0 GB**), from **2020-01-01** to **2026-03-24**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,953** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.1 GB**), from **2020-01-01** to **2026-03-27**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-24-2026-03-24-2481-09-ta",
-    "num": "2026-03-24-2481-09-ta",
-    "date_str": "2026-03-24",
-    "description": "Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026",
+    "doc_id": "2026-03-27-2026-03-27-2481-19-ta",
+    "num": "2026-03-27-2481-19-ta",
+    "date_str": "2026-03-27",
+    "description": "Presidential Secretariat - The Public Security Ordinance - Order",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2481-09_T.pdf",
-    "doc_number": "2481/09"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2481-19_T.pdf",
+    "doc_number": "2481/19"
 }
 ```
 
@@ -41,12 +41,17 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-27 | `2026-03-27-2481-19-ta` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-ta)
+- 2026-03-27 | `2026-03-27-2481-19-si` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-si)
+- 2026-03-27 | `2026-03-27-2481-19-en` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-en)
 - 2026-03-24 | `2026-03-24-2481-09-ta` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-ta)
 - 2026-03-24 | `2026-03-24-2481-09-si` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-si)
 - 2026-03-24 | `2026-03-24-2481-09-en` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-en)
 - 2026-03-24 | `2026-03-24-2481-06-ta` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-ta)
 - 2026-03-24 | `2026-03-24-2481-06-si` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-si)
 - 2026-03-24 | `2026-03-24-2481-06-en` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-en)
+- 2026-03-23 | `2026-03-23-2481-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-23-2026-03-23-2481-01-si)
+- 2026-03-23 | `2026-03-23-2481-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-23-2026-03-23-2481-01-en)
 - 2026-03-20 | `2026-03-20-2480-46-ta` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-ta)
 - 2026-03-20 | `2026-03-20-2480-46-si` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-si)
 - 2026-03-20 | `2026-03-20-2480-46-en` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-en)
@@ -56,11 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-20 | `2026-03-20-2480-26-en` | Ministry of Education, Higher Education and Vocational Education - Order made under sub section (1) of Section 27 University of Moratuwa, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-26-en)
 - 2026-03-19 | `2026-03-19-2480-25-si` | Urban Development Authority - Approval of the development plan for the Matale M/C Area and a part of ukuwela P/S Area | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-25-si)
 - 2026-03-19 | `2026-03-19-2480-25-en` | Urban Development Authority - Approval of the development plan for the Matale M/C Area and a part of ukuwela P/S Area | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-25-en)
-- 2026-03-19 | `2026-03-19-2480-23-si` | Presidential Secretariat - Appointed Mr. Gunadasa Samarasinghe as the Secretary to the Ministry of Plantation and Community Infrastructure | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-23-si)
-- 2026-03-19 | `2026-03-19-2480-23-en` | Presidential Secretariat - Appointed Mr. Gunadasa Samarasinghe as the Secretary to the Ministry of Plantation and Community Infrastructure | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-23-en)
-- 2026-03-19 | `2026-03-19-2480-22-ta` | Ministry of Transport Highways, Ports and Civil Aviation - Motor Traffic Act ( Chapter 203) Motor Traffic (Expressway) Regulation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-22-ta)
-- 2026-03-19 | `2026-03-19-2480-22-si` | Ministry of Transport Highways, Ports and Civil Aviation - Motor Traffic Act ( Chapter 203) Motor Traffic (Expressway) Regulation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-22-si)
-- 2026-03-19 | `2026-03-19-2480-22-en` | Ministry of Transport Highways, Ports and Civil Aviation - Motor Traffic Act ( Chapter 203) Motor Traffic (Expressway) Regulation | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-22-en)
 
 ---
 
