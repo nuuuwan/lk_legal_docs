@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_06:58:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--29_07:04:13-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,953** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.1 GB**), from **2020-01-01** to **2026-03-27**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**48,962** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.1 GB**), from **2020-01-01** to **2026-03-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-27-2026-03-27-2481-19-ta",
-    "num": "2026-03-27-2481-19-ta",
-    "date_str": "2026-03-27",
-    "description": "Presidential Secretariat - The Public Security Ordinance - Order",
+    "doc_id": "2026-03-28-2026-03-28-2481-30-ta",
+    "num": "2026-03-28-2481-30-ta",
+    "date_str": "2026-03-28",
+    "description": "Presidential Secretariat - Essential Public Services Act, No. 61 of 1979",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2481-19_T.pdf",
-    "doc_number": "2481/19"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2481-30_T.pdf",
+    "doc_number": "2481/30"
 }
 ```
 
@@ -41,6 +41,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-28 | `2026-03-28-2481-30-ta` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-ta)
+- 2026-03-28 | `2026-03-28-2481-30-si` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-si)
+- 2026-03-28 | `2026-03-28-2481-30-en` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-en)
+- 2026-03-28 | `2026-03-28-2481-29-ta` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-ta)
+- 2026-03-28 | `2026-03-28-2481-29-si` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-si)
+- 2026-03-28 | `2026-03-28-2481-29-en` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-en)
 - 2026-03-27 | `2026-03-27-2481-19-ta` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-ta)
 - 2026-03-27 | `2026-03-27-2481-19-si` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-si)
 - 2026-03-27 | `2026-03-27-2481-19-en` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-en)
@@ -55,12 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-20 | `2026-03-20-2480-46-ta` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-ta)
 - 2026-03-20 | `2026-03-20-2480-46-si` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-si)
 - 2026-03-20 | `2026-03-20-2480-46-en` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-en)
-- 2026-03-20 | `2026-03-20-2480-44-si` | Ministry of Agriculture, livestock Land and irrigation - W. Indika Prabath vimal Kumara Removal his Post. | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-44-si)
-- 2026-03-20 | `2026-03-20-2480-26-ta` | Ministry of Education, Higher Education and Vocational Education - Order made under sub section (1) of Section 27 University of Moratuwa, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-26-ta)
-- 2026-03-20 | `2026-03-20-2480-26-si` | Ministry of Education, Higher Education and Vocational Education - Order made under sub section (1) of Section 27 University of Moratuwa, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-26-si)
-- 2026-03-20 | `2026-03-20-2480-26-en` | Ministry of Education, Higher Education and Vocational Education - Order made under sub section (1) of Section 27 University of Moratuwa, Sri Lanka | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-26-en)
-- 2026-03-19 | `2026-03-19-2480-25-si` | Urban Development Authority - Approval of the development plan for the Matale M/C Area and a part of ukuwela P/S Area | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-25-si)
-- 2026-03-19 | `2026-03-19-2480-25-en` | Urban Development Authority - Approval of the development plan for the Matale M/C Area and a part of ukuwela P/S Area | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-19-2026-03-19-2480-25-en)
 
 ---
 
