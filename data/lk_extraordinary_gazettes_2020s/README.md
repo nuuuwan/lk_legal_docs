@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--30_06:53:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_06:49:52-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**48,962** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.1 GB**), from **2020-01-01** to **2026-03-28**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**49,036** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.1 GB**), from **2020-01-01** to **2026-03-30**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (27%), **TXT** (27%) & **🤗 Hugging Face** (27%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-28-2026-03-28-2481-30-ta",
-    "num": "2026-03-28-2481-30-ta",
-    "date_str": "2026-03-28",
-    "description": "Presidential Secretariat - Essential Public Services Act, No. 61 of 1979",
+    "doc_id": "2026-03-30-2026-03-30-2482-02-si",
+    "num": "2026-03-30-2482-02-si",
+    "date_str": "2026-03-30",
+    "description": "Land Title Settlement Dept - Pelwehera, Dambulla D/S/D, MataleColombo District (26/14-3-00239)",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2481-30_T.pdf",
-    "doc_number": "2481/30"
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2482-02_S.pdf",
+    "doc_number": "2482/02"
 }
 ```
 
@@ -41,6 +41,8 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-30 | `2026-03-30-2482-02-si` | Land Title Settlement Dept - Pelwehera, Dambulla D/S/D, MataleColombo District (26/14-3-00239) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-02-si)
+- 2026-03-30 | `2026-03-30-2482-02-en` | Land Title Settlement Dept - Pelwehera, Dambulla D/S/D, MataleColombo District (26/14-3-00239) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-02-en)
 - 2026-03-28 | `2026-03-28-2481-30-ta` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-ta)
 - 2026-03-28 | `2026-03-28-2481-30-si` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-si)
 - 2026-03-28 | `2026-03-28-2481-30-en` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-en)
@@ -53,14 +55,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-24 | `2026-03-24-2481-09-ta` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-ta)
 - 2026-03-24 | `2026-03-24-2481-09-si` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-si)
 - 2026-03-24 | `2026-03-24-2481-09-en` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-en)
+- 2026-03-24 | `2026-03-24-2481-08-ta` | Department of Census and Statistics - National Consumer Price Index - February 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-08-ta)
+- 2026-03-24 | `2026-03-24-2481-08-si` | Department of Census and Statistics - National Consumer Price Index - February 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-08-si)
+- 2026-03-24 | `2026-03-24-2481-08-en` | Department of Census and Statistics - National Consumer Price Index - February 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-08-en)
 - 2026-03-24 | `2026-03-24-2481-06-ta` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-ta)
 - 2026-03-24 | `2026-03-24-2481-06-si` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-si)
 - 2026-03-24 | `2026-03-24-2481-06-en` | Ministry of Defence - Amendment to the Consolidated List under Regulation 4(2)(B) United Nations Regulations No. 02 of 2012 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-06-en)
-- 2026-03-23 | `2026-03-23-2481-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-23-2026-03-23-2481-01-si)
-- 2026-03-23 | `2026-03-23-2481-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-23-2026-03-23-2481-01-en)
-- 2026-03-20 | `2026-03-20-2480-46-ta` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-ta)
-- 2026-03-20 | `2026-03-20-2480-46-si` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-si)
-- 2026-03-20 | `2026-03-20-2480-46-en` | The Medical Serviced Minute of the Sri Lanka Health Service 9th Amendment | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-20-2026-03-20-2480-46-en)
 
 ---
 
