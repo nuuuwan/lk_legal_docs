@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--07_06:51:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--08_06:58:38-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**49,089** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.3 GB**), from **2020-01-01** to **2026-03-30**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**49,154** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.3 GB**), from **2020-01-01** to **2026-03-30**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (28%), **TXT** (28%) & **🤗 Hugging Face** (28%)
 
@@ -19,13 +19,13 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-03-30-2026-03-30-2482-04-si",
-    "num": "2026-03-30-2482-04-si",
+    "doc_id": "2026-03-30-2026-03-30-2482-04-ta",
+    "num": "2026-03-30-2482-04-ta",
     "date_str": "2026-03-30",
     "description": "Ministry, Justice and National Integration - The Anti Corruption Act, No. 09 of 2023 (High - Risk Categories Required to Submit the Declaration of Asset and Liabilities Regulations, No. 01 of 2026",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
-    "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2482-04_S.pdf",
+    "lang": "ta",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/3/2482-04_T.pdf",
     "doc_number": "2482/04"
 }
 ```
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-03-30 | `2026-03-30-2482-04-ta` | Ministry, Justice and National Integration - The Anti Corruption Act, No. 09 of 2023 (High - Risk Categories Required to Submit the Declaration of Asset and Liabilities Regulations, No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-04-ta)
 - 2026-03-30 | `2026-03-30-2482-04-si` | Ministry, Justice and National Integration - The Anti Corruption Act, No. 09 of 2023 (High - Risk Categories Required to Submit the Declaration of Asset and Liabilities Regulations, No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-04-si)
 - 2026-03-30 | `2026-03-30-2482-04-en` | Ministry, Justice and National Integration - The Anti Corruption Act, No. 09 of 2023 (High - Risk Categories Required to Submit the Declaration of Asset and Liabilities Regulations, No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-04-en)
 - 2026-03-30 | `2026-03-30-2482-03-ta` | Ministry of Justice and National Integration - The Anti-Corruption Act, No. 09 of 2023 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-03-ta)
@@ -56,11 +57,10 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-28 | `2026-03-28-2481-29-ta` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-ta)
 - 2026-03-28 | `2026-03-28-2481-29-si` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-si)
 - 2026-03-28 | `2026-03-28-2481-29-en` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-en)
-- 2026-03-27 | `2026-03-27-2481-19-ta` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-ta)
-- 2026-03-27 | `2026-03-27-2481-19-si` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-si)
-- 2026-03-27 | `2026-03-27-2481-19-en` | Presidential Secretariat - The Public Security Ordinance - Order | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-19-en)
-- 2026-03-24 | `2026-03-24-2481-09-ta` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-ta)
-- 2026-03-24 | `2026-03-24-2481-09-si` | Central Bank of Sri Lanka - Rules on Reserve Requirement No. 01 of 2026 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-24-2026-03-24-2481-09-si)
+- 2026-03-27 | `2026-03-27-2481-27-ta` | 2481/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-27-ta)
+- 2026-03-27 | `2026-03-27-2481-27-si` | 2481/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-27-si)
+- 2026-03-27 | `2026-03-27-2481-27-en` | 2481/27 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-27-en)
+- 2026-03-27 | `2026-03-27-2481-21-si` | 2481/21 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-27-2026-03-27-2481-21-si)
 
 ---
 
