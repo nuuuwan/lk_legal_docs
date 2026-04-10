@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Acts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_05:51:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_17:49:26-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
 A legal act is a law passed by Parliament that governs rights, duties, economy, and society, shaping daily life and national policy.
 
-- [**3,976** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-03-20**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**3,979** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts) (**6.8 GB**), from **1981-01-22** to **2026-04-09**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 ```json
 {
     "doc_type": "lk_acts",
-    "doc_id": "2026-03-20-2026-03-20-09-2026-ta",
-    "num": "2026-03-20-09-2026-ta",
-    "date_str": "2026-03-20",
-    "description": "Microfinance and Credit Regulatory Authority",
+    "doc_id": "2026-04-09-2026-04-09-10-2026-ta",
+    "num": "2026-04-09-10-2026-ta",
+    "date_str": "2026-04-09",
+    "description": "Social Security Contribution Levy (Amendment)",
     "url_metadata": "https://documents.gov.lk/view/acts/acts_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/acts/2026/3/09-2026_T.pdf",
-    "doc_number": "09/2026"
+    "url_pdf": "https://documents.gov.lk/view/acts/2026/4/10-2026_T.pdf",
+    "doc_number": "10/2026"
 }
 ```
 
@@ -41,6 +41,9 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 🆕 20 Latest documents
 
+- 2026-04-09 | `2026-04-09-10-2026-ta` | Social Security Contribution Levy (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-04-09-2026-04-09-10-2026-ta)
+- 2026-04-09 | `2026-04-09-10-2026-si` | Social Security Contribution Levy (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-04-09-2026-04-09-10-2026-si)
+- 2026-04-09 | `2026-04-09-10-2026-en` | Social Security Contribution Levy (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-04-09-2026-04-09-10-2026-en)
 - 2026-03-20 | `2026-03-20-09-2026-ta` | Microfinance and Credit Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-03-20-2026-03-20-09-2026-ta)
 - 2026-03-20 | `2026-03-20-09-2026-si` | Microfinance and Credit Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-03-20-2026-03-20-09-2026-si)
 - 2026-03-20 | `2026-03-20-09-2026-en` | Microfinance and Credit Regulatory Authority | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-03-20-2026-03-20-09-2026-en)
@@ -58,9 +61,6 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 - 2026-02-17 | `2026-02-17-05-2026-en` | Parliamentary Pensions (Repeal) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-05-2026-en)
 - 2026-02-17 | `2026-02-17-04-2026-ta` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-04-2026-ta)
 - 2026-02-17 | `2026-02-17-04-2026-si` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-04-2026-si)
-- 2026-02-17 | `2026-02-17-04-2026-en` | Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-04-2026-en)
-- 2026-02-17 | `2026-02-17-03-2026-ta` | Licensing of Container Depot Operators | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-03-2026-ta)
-- 2026-02-17 | `2026-02-17-03-2026-si` | Licensing of Container Depot Operators | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts/2020s/2026/2026-02-17-2026-02-17-03-2026-si)
 
 ---
 
