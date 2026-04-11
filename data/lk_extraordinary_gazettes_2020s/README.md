@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_07:03:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--11_06:51:34-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**49,234** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.3 GB**), from **2020-01-01** to **2026-04-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**49,275** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.4 GB**), from **2020-01-01** to **2026-04-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (28%), **TXT** (28%) & **🤗 Hugging Face** (28%)
 
@@ -53,14 +53,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-30 | `2026-03-30-2482-03-en` | Ministry of Justice and National Integration - The Anti-Corruption Act, No. 09 of 2023 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-03-en)
 - 2026-03-30 | `2026-03-30-2482-02-si` | Land Title Settlement Dept - Pelwehera, Dambulla D/S/D, MataleColombo District (26/14-3-00239) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-02-si)
 - 2026-03-30 | `2026-03-30-2482-02-en` | Land Title Settlement Dept - Pelwehera, Dambulla D/S/D, MataleColombo District (26/14-3-00239) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-02-en)
+- 2026-03-30 | `2026-03-30-2482-01-ta` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-01-ta)
 - 2026-03-30 | `2026-03-30-2482-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-01-si)
 - 2026-03-30 | `2026-03-30-2482-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-30-2026-03-30-2482-01-en)
+- 2026-03-28 | `2026-03-28-2481-45-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-45-si)
+- 2026-03-28 | `2026-03-28-2481-45-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-45-en)
+- 2026-03-28 | `2026-03-28-2481-43-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-43-si)
+- 2026-03-28 | `2026-03-28-2481-43-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-43-en)
 - 2026-03-28 | `2026-03-28-2481-30-ta` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-ta)
-- 2026-03-28 | `2026-03-28-2481-30-si` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-si)
-- 2026-03-28 | `2026-03-28-2481-30-en` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-en)
-- 2026-03-28 | `2026-03-28-2481-29-ta` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-ta)
-- 2026-03-28 | `2026-03-28-2481-29-si` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-si)
-- 2026-03-28 | `2026-03-28-2481-29-en` | Presidential Secretariat - The Public Security Ordinance ( Chapter 40) | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-29-en)
 
 ---
 
