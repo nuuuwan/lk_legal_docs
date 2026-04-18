@@ -116797,6 +116797,28 @@
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2026-01-14-2026-01-14-2471-45-en",
+    "num": "2026-01-14-2471-45-en",
+    "date_str": "2026-01-14",
+    "description": "Land Title Settlement Dept - Ragama , Ja -Ela D/S/D, Gampaha District (24/14-4-00044)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-45_E.pdf",
+    "doc_number": "2471/45"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2026-01-14-2026-01-14-2471-45-si",
+    "num": "2026-01-14-2471-45-si",
+    "date_str": "2026-01-14",
+    "description": "Land Title Settlement Dept - Ragama , Ja -Ela D/S/D, Gampaha District (24/14-4-00044)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-45_S.pdf",
+    "doc_number": "2471/45"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
     "doc_id": "2026-01-14-2026-01-14-2471-46-en",
     "num": "2026-01-14-2471-46-en",
     "date_str": "2026-01-14",
@@ -118785,6 +118807,28 @@
     "lang": "ta",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-35_T.pdf",
     "doc_number": "2472/35"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2026-01-22-2026-01-22-2472-36-en",
+    "num": "2026-01-22-2472-36-en",
+    "date_str": "2026-01-22",
+    "description": "Land Title Settlement Dept - Maitipe, Four Gravets D/S/D, Galle District (7921)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "en",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-36_E.pdf",
+    "doc_number": "2472/36"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2026-01-22-2026-01-22-2472-36-si",
+    "num": "2026-01-22-2472-36-si",
+    "date_str": "2026-01-22",
+    "description": "Land Title Settlement Dept - Maitipe, Four Gravets D/S/D, Galle District (7921)",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/1/2472-36_S.pdf",
+    "doc_number": "2472/36"
   },
   {
     "doc_type": "lk_extraordinary_gazettes_2020s",
@@ -129323,5 +129367,16 @@
     "lang": "si",
     "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/4/2483-01_S.pdf",
     "doc_number": "2483/01"
+  },
+  {
+    "doc_type": "lk_extraordinary_gazettes_2020s",
+    "doc_id": "2026-04-17-2026-04-17-2484-08-si",
+    "num": "2026-04-17-2484-08-si",
+    "date_str": "2026-04-17",
+    "description": "Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission",
+    "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
+    "lang": "si",
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/4/2484-08_S.pdf",
+    "doc_number": "2484/08"
   }
 ]

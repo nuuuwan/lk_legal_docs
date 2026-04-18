@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_07:03:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_06:55:32-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**49,275** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.4 GB**), from **2020-01-01** to **2026-04-06**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**49,280** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.4 GB**), from **2020-01-01** to **2026-04-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (28%), **TXT** (28%) & **🤗 Hugging Face** (28%)
 
@@ -19,14 +19,14 @@ An Extraordinary Gazette is an official government publication used to announce 
 ```json
 {
     "doc_type": "lk_extraordinary_gazettes_2020s",
-    "doc_id": "2026-04-06-2026-04-06-2483-01-si",
-    "num": "2026-04-06-2483-01-si",
-    "date_str": "2026-04-06",
-    "description": "Sri Lanka Customs - Rates of Exchange",
+    "doc_id": "2026-04-17-2026-04-17-2484-08-si",
+    "num": "2026-04-17-2484-08-si",
+    "date_str": "2026-04-17",
+    "description": "Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission",
     "url_metadata": "https://documents.gov.lk/view/extra-gazettes/egz_2026.html",
     "lang": "si",
-    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/4/2483-01_S.pdf",
-    "doc_number": "2483/01"
+    "url_pdf": "https://documents.gov.lk/view/extra-gazettes/2026/4/2484-08_S.pdf",
+    "doc_number": "2484/08"
 }
 ```
 
@@ -41,6 +41,7 @@ An Extraordinary Gazette is an official government publication used to announce 
 
 ## 🆕 20 Latest documents
 
+- 2026-04-17 | `2026-04-17-2484-08-si` | Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-17-2026-04-17-2484-08-si)
 - 2026-04-06 | `2026-04-06-2483-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-06-2026-04-06-2483-01-si)
 - 2026-04-06 | `2026-04-06-2483-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-06-2026-04-06-2483-01-en)
 - 2026-03-31 | `2026-03-31-2482-05-si` | Department of Local Government - Sabaragamuwa Province - Elected the Post of Vice Chairman of Balangoda Urban Council | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-31-2026-03-31-2482-05-si)
@@ -60,7 +61,6 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-03-28 | `2026-03-28-2481-45-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-45-en)
 - 2026-03-28 | `2026-03-28-2481-43-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-43-si)
 - 2026-03-28 | `2026-03-28-2481-43-en` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-43-en)
-- 2026-03-28 | `2026-03-28-2481-30-ta` | Presidential Secretariat - Essential Public Services Act, No. 61 of 1979 | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-03-28-2026-03-28-2481-30-ta)
 
 ---
 
