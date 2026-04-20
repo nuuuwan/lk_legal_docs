@@ -2,34 +2,34 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-04-20 05:52:14",
-  "n_docs": 4209,
-  "n_docs_with_pdfs": 4205,
-  "n_docs_with_text": 4205,
+  "time_updated": "2026-04-20 17:54:44",
+  "n_docs": 4218,
+  "n_docs_with_pdfs": 4214,
+  "n_docs_with_text": 4214,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-03-17",
-  "dataset_size": 1946116125,
+  "date_str_max": "2026-04-17",
+  "dataset_size": 1951582179,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-03-17-2026-03-17-23-2026-ta",
-    "num": "2026-03-17-23-2026-ta",
-    "date_str": "2026-03-17",
-    "description": "Social Security Contribution Levy (Amendment) - Bill",
+    "doc_id": "2026-04-17-2026-04-17-26-2026-ta",
+    "num": "2026-04-17-26-2026-ta",
+    "date_str": "2026-04-17",
+    "description": "Prevention of Money Laundering (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/3/23-2026_T.pdf",
-    "doc_number": "23/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/4/26-2026_T.pdf",
+    "doc_number": "26/2026"
   }
 }
