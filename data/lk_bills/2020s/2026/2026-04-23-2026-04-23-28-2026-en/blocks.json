@@ -1,0 +1,1906 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      86.88,
+      53.56,
+      359.92,
+      110.4
+    ],
+    "text": "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.99,
+      122.41,
+      283.31,
+      136.83
+    ],
+    "text": "Part II of April 17, 2026",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.64,
+      146.41,
+      262.65,
+      160.83
+    ],
+    "text": "SUPPLEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.31,
+      170.87,
+      276.97,
+      184.48
+    ],
+    "text": "(Issued on 23.04.2026)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      479.0,
+      376.77,
+      508.27
+    ],
+    "text": "PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKATO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5Price : Rs. 29.00 Postage : Rs. 150.00",
+    "fonts": [
+      "FMAbabldBold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.0,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      130.64,
+      299.92,
+      312.65,
+      328.75
+    ],
+    "text": "TELECOMMUNICATION LEVY(AMENDMENT)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.04,
+      345.17,
+      225.26,
+      357.19
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.7,
+      365.17,
+      233.6,
+      377.19
+    ],
+    "text": "BILL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      97.08,
+      384.77,
+      346.22,
+      396.79
+    ],
+    "text": "to amend the Telecommunication Levy Act, No. 21 of 2011",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.03,
+      420.17,
+      356.79,
+      441.52
+    ],
+    "text": "Ordered to be published by the Minister of Finance, Planning and Economic Development",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      545.67,
+      303.53,
+      556.45
+    ],
+    "text": "This Gazette Supplement can be downloaded from www.documents.gov.lk",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      39.96,
+      261.24,
+      51.43
+    ],
+    "text": "02Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.04,
+      76.37,
+      257.49,
+      85.55
+    ],
+    "text": "STATEMENT OF LEGAL EFFECT",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.0,
+      95.57,
+      356.51,
+      114.35
+    ],
+    "text": "Clause 2: This clause repeals section 2 of the Telecommunication Levy Act, No. 21 of 2011 (hereinafter referred to as the \u201cprincipal enactment\u201d) and the legal effect is-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.0,
+      124.37,
+      356.53,
+      143.15
+    ],
+    "text": "(a) to extend the application of the provisions of the principal enactment to the provider of the telecommunication services; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.0,
+      153.17,
+      356.55,
+      363.95
+    ],
+    "text": "(b) to specify the rates at which telecommunication levy to be charged from the persons receiving telecommunication services with respect to the periods specified in the Schedule to the principal enactment. Clause 3: This clause amends section 3 of the principal enactment and the legal effect of the section as amended is to enable the operators and providers of the telecommunication services to deduct any bad debt from the amount of the levy to be paid to the Telecommunications Regulatory Commission of Sri Lanka during any period. Clause 4: This clause amends section 6 of the principal enactment and is consequential to the amendment made by clause 2. Clause 5: This clause amends section 10 of the principal enactment and is consequential to the amendment made by clause 2. Clause 6: This clause amends section 12 of the principal enactment and the legal effect of the section as amended is to introduce a new definition to that section by defining the expression \u201cprovider\u201d and is consequential to the amendment made by clause 2. Clause 7: This clause inserts a Schedule to the principal enactment and is consequential to the amendment made by clause 2.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.11,
+      39.96,
+      324.0,
+      51.43
+    ],
+    "text": "1Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      229.93,
+      77.0,
+      241.4
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.0,
+      313.53,
+      77.0,
+      325.0
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.0,
+      383.53,
+      77.0,
+      395.0
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.0,
+      468.73,
+      77.0,
+      480.2
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.0,
+      188.53,
+      366.18,
+      197.71
+    ],
+    "text": "Short title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.0,
+      230.33,
+      377.99,
+      277.91
+    ],
+    "text": "Replacement of section 2 of the Act, No. 21 of 2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      301.01,
+      150.2,
+      310.18
+    ],
+    "text": "\u201cImposition of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      313.61,
+      150.24,
+      322.78
+    ],
+    "text": "Telecommunication",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      326.21,
+      100.44,
+      335.38
+    ],
+    "text": "Levy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      75.96,
+      153.16,
+      87.43
+    ],
+    "text": "L.D.- O. 74/2025",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      103.46,
+      326.5,
+      184.93
+    ],
+    "text": "An Act to amend the Telecommunication LevyAct, No. 21 of 2011 BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-",
+    "fonts": [
+      "Times-Roman",
+      "Times-Roman-SC700"
+    ],
+    "sizes": [
+      7.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      187.2,
+      326.52,
+      282.93
+    ],
+    "text": "1. This Act may be cited as the Telecommunication Levy (Amendment) Act, No. of 2026. 2. Section 2 of the Telecommunication Levy Act, No. 21 of 2011(hereinafter referred to as the \u201cprincipal enactment\u201d) is hereby repealed and the following section is substituted therefor:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.0,
+      299.2,
+      326.52,
+      450.93
+    ],
+    "text": "2. There shall be charged and levied from every person receiving any telecommunication service, a levy called Telecommunication Levy (hereinafter referred to as the \u201clevy\u201d), at such rate as specified in the Schedule hereto, on the value of the supply of telecommunication services provided by any operator or provider, on the receipt of such telecommunication services in respect of each month:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.0,
+      467.46,
+      326.5,
+      534.93
+    ],
+    "text": "Provided that no organization or individual to whom the provisions of the Diplomatic Privileges Act, No. 9 of 1996 applies shall be required to pay the levy referred to above.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.0,
+      546.25,
+      167.55,
+      555.43
+    ],
+    "text": "PL 15731 - 460 (04/2026)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      39.96,
+      261.24,
+      51.43
+    ],
+    "text": "2Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      75.7,
+      302.51,
+      99.43
+    ],
+    "text": "3. Section 3 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      113.46,
+      302.52,
+      136.93
+    ],
+    "text": "(1) by the renumbering of that section as subsection (1) thereof;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      149.46,
+      302.52,
+      256.93
+    ],
+    "text": "(2) in renumbered subsection (1) thereof, by the substitution for the words and figures \u201cby the operators licensed under section 17 of the Sri Lanka Telecommunication Act, No. 25 of 1991 and paid to the Telecommunications Regulatory Commission of Sri Lanka (hereinafter referred to as the \u201cCommission\u201d) established under the aforesaid Act,\u201d of the following words and figures:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      272.46,
+      302.52,
+      364.93
+    ],
+    "text": "\u201cby the operators or providers and paid to the Telecommunications Regulatory Commission of Sri Lanka established under section 2 of the Sri Lanka Telecommunications Act, No. 25 of 1991 (hereinafter referred to as the \u201cCommission\u201d)\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      378.96,
+      302.52,
+      426.43
+    ],
+    "text": "(3) by the addition immediately after the renumbered subsection (1) thereof, of the following subsection which shall be numbered as subsection (2) of that section:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      441.96,
+      302.52,
+      534.43
+    ],
+    "text": "\u201c(2) In ascertaining the amount of levy payable to the Commission by the operator or provider under subsection (1) for a period commencing on or after the date of commencement of this (Amendment) Act, there shall be deducted an amount equal to any bad debt incurred by such operator",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49.0,
+      150.32,
+      54.0,
+      161.79
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      209.84,
+      54.0,
+      221.31
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      288.14,
+      54.0,
+      299.61
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      353.59,
+      54.0,
+      365.06
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      444.14,
+      54.0,
+      455.61
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.0,
+      510.44,
+      54.0,
+      521.91
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.0,
+      76.37,
+      354.88,
+      114.35
+    ],
+    "text": "Amendmentof section 3of the principalenactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.11,
+      39.96,
+      324.0,
+      51.43
+    ],
+    "text": "3Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.0,
+      75.96,
+      326.51,
+      127.93
+    ],
+    "text": "or provider which has become a bad debt during that period, being an amount of levy paid to the Commission in a previous period:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      143.46,
+      326.52,
+      235.93
+    ],
+    "text": "Provided that any sum collected in any period by that operator or provider on account of an amount previously deducted under this subsection shall be included in the amount paid to the Commission for the period in which that sum is collected.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      236.2,
+      326.52,
+      297.43
+    ],
+    "text": "4. Section 6 of the principal enactment is hereby amended by the substitution for the word \u201coperator\u201d of the words \u201coperator or provider\u201d, wherever that word appears in that section.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      297.7,
+      326.51,
+      358.93
+    ],
+    "text": "5. Section 10 of the principal enactment is hereby amended by the substitution for the word \u201coperator\u201d of the words \u201coperator or provider\u201d, wherever that word appears in that section.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.0,
+      359.2,
+      326.5,
+      382.93
+    ],
+    "text": "6. Section 12 of the principal enactment is hereby amended as follows:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.0,
+      396.96,
+      326.53,
+      480.43
+    ],
+    "text": "(1) in the definition of the expression \u201ctelecommunication service\u201d by the substitution for the words and figures \u2018by telecommunication and other operators licensed under section 17 of the Sri Lanka Telecommunication Act, No. 25 of 1991\u201d of the words \u201cby operators and providers\u201d; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.0,
+      492.96,
+      326.51,
+      528.43
+    ],
+    "text": "(2) by the addition immediately after the definition of the expression \u201coperator\u201d of the following definition:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      330.0,
+      360.01,
+      371.55,
+      407.59
+    ],
+    "text": "Amendment of section 12 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      144.75,
+      77.0,
+      156.22
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.0,
+      213.05,
+      77.0,
+      224.52
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.29,
+      298.86,
+      78.29,
+      310.33
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.0,
+      371.6,
+      78.0,
+      383.07
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.29,
+      447.6,
+      78.29,
+      459.07
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.29,
+      517.6,
+      78.29,
+      529.07
+    ],
+    "text": "30",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      329.71,
+      237.86,
+      377.7,
+      275.83
+    ],
+    "text": "Amendment of section 6 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      330.0,
+      299.85,
+      371.55,
+      347.43
+    ],
+    "text": "Amendment of section 10 of the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      39.96,
+      261.24,
+      51.43
+    ],
+    "text": "4Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      75.96,
+      302.51,
+      127.93
+    ],
+    "text": "\u201c\u201cprovider\u201d shall have same meaning assigned to it under the provisions of the Sri Lanka Telecommunications Act, No. 25 of 1991.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      128.2,
+      302.52,
+      151.93
+    ],
+    "text": "7. The following Schedule is hereby inserted immediately after section 12 of the principal enactment:-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.34,
+      169.26,
+      202.66,
+      178.43
+    ],
+    "text": "\u201cSCHEDULE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      182.75,
+      251.33,
+      191.93
+    ],
+    "text": "[Section 2]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.19,
+      209.77,
+      157.98,
+      219.45
+    ],
+    "text": "Column I",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.88,
+      223.26,
+      199.31,
+      232.94
+    ],
+    "text": "Type of telecommunication service",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      244.38,
+      209.77,
+      279.29,
+      219.45
+    ],
+    "text": "Column II",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.28,
+      223.26,
+      269.39,
+      232.94
+    ],
+    "text": "Rate",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.24,
+      242.18,
+      221.92,
+      251.36
+    ],
+    "text": "1. Telecommunication services, for the period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.24,
+      255.68,
+      221.92,
+      264.85
+    ],
+    "text": "commencing on or after January 1, 2011 but",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.24,
+      269.17,
+      151.12,
+      278.35
+    ],
+    "text": "prior to January 1, 2013;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.5,
+      242.17,
+      269.16,
+      251.35
+    ],
+    "text": "20%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.24,
+      300.0,
+      127.55,
+      309.17
+    ],
+    "text": "2. Internet services-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.24,
+      320.5,
+      221.92,
+      329.68
+    ],
+    "text": "(a) for the period commencing on or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      334.0,
+      221.92,
+      343.17
+    ],
+    "text": "after January 1, 2013 but prior to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      347.49,
+      158.68,
+      356.67
+    ],
+    "text": "September 1, 2017;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.24,
+      374.49,
+      221.92,
+      383.67
+    ],
+    "text": "(b) for the period commencing on or after",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      387.99,
+      158.68,
+      397.17
+    ],
+    "text": "September 1, 2017;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.5,
+      320.49,
+      269.16,
+      329.66
+    ],
+    "text": "10%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      256.5,
+      374.49,
+      267.16,
+      383.66
+    ],
+    "text": "0%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.24,
+      408.53,
+      221.92,
+      417.71
+    ],
+    "text": "3. Telecommunication services other than",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.24,
+      422.03,
+      129.34,
+      431.21
+    ],
+    "text": "internet services:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.24,
+      445.53,
+      221.92,
+      454.71
+    ],
+    "text": "(a) for the period commencing on or after",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      459.03,
+      221.92,
+      468.21
+    ],
+    "text": "January 1, 2013 but prior to January 1,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      472.53,
+      210.24,
+      491.7
+    ],
+    "text": "2014;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.24,
+      496.02,
+      221.92,
+      505.2
+    ],
+    "text": "(b) for the period commencing on or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      509.52,
+      221.92,
+      518.69
+    ],
+    "text": "after January 1, 2014 but prior to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      96.24,
+      523.01,
+      162.23,
+      532.19
+    ],
+    "text": "November 10, 2018;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.5,
+      445.51,
+      269.16,
+      454.69
+    ],
+    "text": "20%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.5,
+      495.51,
+      269.16,
+      504.69
+    ],
+    "text": "25%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      305.98,
+      130.73,
+      350.64,
+      168.71
+    ],
+    "text": "Insertion of a Schedule in the principal enactment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      49.0,
+      141.08,
+      54.0,
+      152.55
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.0,
+      241.04,
+      54.0,
+      252.51
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.0,
+      332.38,
+      54.0,
+      343.85
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.0,
+      421.08,
+      54.0,
+      432.55
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.0,
+      509.08,
+      54.0,
+      520.55
+    ],
+    "text": "25",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.11,
+      39.96,
+      324.0,
+      51.43
+    ],
+    "text": "5Telecommunication Levy (Amendment)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101.25,
+      80.62,
+      245.93,
+      89.8
+    ],
+    "text": "(c) for the period commencing on or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.25,
+      94.12,
+      245.93,
+      103.29
+    ],
+    "text": "after November 10, 2018 but prior to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.25,
+      107.61,
+      183.35,
+      116.79
+    ],
+    "text": "December 1, 2019;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101.25,
+      134.61,
+      245.93,
+      143.78
+    ],
+    "text": "(d) for the period commencing on or after",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.25,
+      148.1,
+      245.91,
+      157.28
+    ],
+    "text": "December 1, 2019 but prior to June 4,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.25,
+      161.6,
+      168.25,
+      170.77
+    ],
+    "text": "2022;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      101.25,
+      188.59,
+      245.93,
+      197.77
+    ],
+    "text": "(e) for the period commencing on or after",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.25,
+      202.09,
+      163.14,
+      211.26
+    ],
+    "text": "June 4, 2022;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      278.51,
+      80.58,
+      293.17,
+      89.76
+    ],
+    "text": "15%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      273.51,
+      134.58,
+      298.17,
+      143.76
+    ],
+    "text": "11.25%",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      274.73,
+      188.58,
+      296.95,
+      197.76
+    ],
+    "text": "15%.\u201d.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.0,
+      225.82,
+      326.51,
+      249.55
+    ],
+    "text": "8. In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      330.0,
+      227.18,
+      373.55,
+      265.16
+    ],
+    "text": "Sinhala text to prevail in case of inconsistency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      146.58,
+      77.0,
+      158.05
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.0,
+      239.61,
+      77.0,
+      251.08
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      121.0,
+      543.62,
+      274.54,
+      552.8
+    ],
+    "text": "Department of Government Printing, Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]

@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_05:55:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_17:52:10-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
 A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.
 
-- [**4,218** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**2.0 GB**), from **2010-05-10** to **2026-04-17**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**4,227** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills) (**2.0 GB**), from **2010-05-10** to **2026-04-23**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (1%) & **🤗 Hugging Face** (100%)
 
@@ -19,14 +19,14 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 ```json
 {
     "doc_type": "lk_bills",
-    "doc_id": "2026-04-17-2026-04-17-26-2026-ta",
-    "num": "2026-04-17-26-2026-ta",
-    "date_str": "2026-04-17",
-    "description": "Prevention of Money Laundering (Amendment) - GS",
+    "doc_id": "2026-04-23-2026-04-23-28-2026-ta",
+    "num": "2026-04-23-28-2026-ta",
+    "date_str": "2026-04-23",
+    "description": "Telecommunication Levy (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/4/26-2026_T.pdf",
-    "doc_number": "26/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/4/28-2026_T.pdf",
+    "doc_number": "28/2026"
 }
 ```
 
@@ -41,6 +41,15 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 🆕 20 Latest documents
 
+- 2026-04-23 | `2026-04-23-28-2026-ta` | Telecommunication Levy (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-28-2026-ta)
+- 2026-04-23 | `2026-04-23-28-2026-si` | Telecommunication Levy (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-28-2026-si)
+- 2026-04-23 | `2026-04-23-28-2026-en` | Telecommunication Levy (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-28-2026-en)
+- 2026-04-23 | `2026-04-23-27-2026-ta` | Finance (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-27-2026-ta)
+- 2026-04-23 | `2026-04-23-27-2026-si` | Finance (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-27-2026-si)
+- 2026-04-23 | `2026-04-23-27-2026-en` | Finance (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-23-2026-04-23-27-2026-en)
+- 2026-04-22 | `2026-04-22-26-2026-ta` | National Environmental (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-22-2026-04-22-26-2026-ta)
+- 2026-04-22 | `2026-04-22-26-2026-si` | National Environmental (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-22-2026-04-22-26-2026-si)
+- 2026-04-22 | `2026-04-22-26-2026-en` | National Environmental (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-22-2026-04-22-26-2026-en)
 - 2026-04-17 | `2026-04-17-26-2026-ta` | Prevention of Money Laundering (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-17-2026-04-17-26-2026-ta)
 - 2026-04-17 | `2026-04-17-26-2026-si` | Prevention of Money Laundering (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-17-2026-04-17-26-2026-si)
 - 2026-04-17 | `2026-04-17-26-2026-en` | Prevention of Money Laundering (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-17-2026-04-17-26-2026-en)
@@ -52,15 +61,6 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 - 2026-04-08 | `2026-04-08-24-2026-en` | Al - Hashimi Association (Incorporation) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-04-08-2026-04-08-24-2026-en)
 - 2026-03-17 | `2026-03-17-23-2026-ta` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-ta)
 - 2026-03-17 | `2026-03-17-23-2026-si` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-si)
-- 2026-03-17 | `2026-03-17-23-2026-en` | Social Security Contribution Levy (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-23-2026-en)
-- 2026-03-17 | `2026-03-17-22-2026-ta` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-ta)
-- 2026-03-17 | `2026-03-17-22-2026-si` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-si)
-- 2026-03-17 | `2026-03-17-22-2026-en` | Inland Revenue (Amendment) - Bill | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-22-2026-en)
-- 2026-03-17 | `2026-03-17-21-2026-ta` | Financial Transactions Reporting (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-21-2026-ta)
-- 2026-03-17 | `2026-03-17-21-2026-si` | Financial Transactions Reporting (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-21-2026-si)
-- 2026-03-17 | `2026-03-17-21-2026-en` | Financial Transactions Reporting (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-21-2026-en)
-- 2026-03-17 | `2026-03-17-20-2026-ta` | Prevention of Money Laundering (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-20-2026-ta)
-- 2026-03-17 | `2026-03-17-20-2026-si` | Prevention of Money Laundering (Amendment) - GS | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills/2020s/2026/2026-03-17-2026-03-17-20-2026-si)
 
 ---
 
