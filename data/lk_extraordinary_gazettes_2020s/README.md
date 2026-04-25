@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_07:02:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_07:00:17-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
 An Extraordinary Gazette is an official government publication used to announce urgent laws, regulations, or public notices with immediate effect.
 
-- [**49,369** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.5 GB**), from **2020-01-01** to **2026-04-21**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
+- [**49,397** documents](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s) (**11.5 GB**), from **2020-01-01** to **2026-04-21**, scraped from [https://documents.gov.lk](https://documents.gov.lk)
 
 - In **JSON**, **PDF** (28%), **TXT** (28%) & **🤗 Hugging Face** (28%)
 
@@ -55,12 +55,12 @@ An Extraordinary Gazette is an official government publication used to announce 
 - 2026-04-17 | `2026-04-17-2484-08-ta` | Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-17-2026-04-17-2484-08-ta)
 - 2026-04-17 | `2026-04-17-2484-08-si` | Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-17-2026-04-17-2484-08-si)
 - 2026-04-17 | `2026-04-17-2484-08-en` | Presidential Secretariat - Establishment of a Special Presidential Inquiry Commission | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-17-2026-04-17-2484-08-en)
+- 2026-04-16 | `2026-04-16-2484-07-si` | Land Tittle Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-16-2026-04-16-2484-07-si)
+- 2026-04-16 | `2026-04-16-2484-07-en` | Land Tittle Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-16-2026-04-16-2484-07-en)
 - 2026-04-13 | `2026-04-13-2484-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-13-2026-04-13-2484-01-si)
 - 2026-04-13 | `2026-04-13-2484-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-13-2026-04-13-2484-01-en)
-- 2026-04-07 | `2026-04-07-2483-06-ta` | Matara Four Gravets D/S - Pilgrimages Ordinance 41 Ordination Ceremony of Sri Rohana Maha Sanga Sabha | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-07-2026-04-07-2483-06-ta)
-- 2026-04-06 | `2026-04-06-2483-01-si` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-06-2026-04-06-2483-01-si)
-- 2026-04-06 | `2026-04-06-2483-01-en` | Sri Lanka Customs - Rates of Exchange | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-06-2026-04-06-2483-01-en)
-- 2026-04-02 | `2026-04-02-2482-26-si` | Land Title Settlement Dept | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-02-2026-04-02-2482-26-si)
+- 2026-04-10 | `2026-04-10-2483-13-si` | Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-10-2026-04-10-2483-13-si)
+- 2026-04-10 | `2026-04-10-2483-13-en` | Ministry of Health and Mass Media | [data](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2026/2026-04-10-2026-04-10-2483-13-en)
 
 ---
 
