@@ -2,34 +2,34 @@
   "doc_class_label": "lk_bills",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Bill is a draft law proposed in Parliament. It becomes binding once passed and enacted, shaping governance, rights, and daily life in the country.",
-  "time_updated": "2026-04-30 05:57:36",
-  "n_docs": 4233,
-  "n_docs_with_pdfs": 4229,
-  "n_docs_with_text": 4229,
+  "time_updated": "2026-04-30 18:01:15",
+  "n_docs": 4236,
+  "n_docs_with_pdfs": 4232,
+  "n_docs_with_text": 4232,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 41,
   "date_str_min": "2010-05-10",
-  "date_str_max": "2026-04-23",
-  "dataset_size": 1971126873,
+  "date_str_max": "2026-04-29",
+  "dataset_size": 1973280420,
   "url_source_list": [
     "https://documents.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_legal_docs/refs/heads/data_lk_bills/data/lk_bills/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_bills",
-    "doc_id": "2026-04-23-2026-04-23-28-2026-ta",
-    "num": "2026-04-23-28-2026-ta",
-    "date_str": "2026-04-23",
-    "description": "Telecommunication Levy (Amendment) - GS",
+    "doc_id": "2026-04-29-2026-04-29-31-2026-ta",
+    "num": "2026-04-29-31-2026-ta",
+    "date_str": "2026-04-29",
+    "description": "Value Added Tax (Amendment) - GS",
     "url_metadata": "https://documents.gov.lk/view/bills/bl_2026.html",
     "lang": "ta",
-    "url_pdf": "https://documents.gov.lk/view/bills/2026/4/28-2026_T.pdf",
-    "doc_number": "28/2026"
+    "url_pdf": "https://documents.gov.lk/view/bills/2026/4/31-2026_T.pdf",
+    "doc_number": "31/2026"
   }
 }
