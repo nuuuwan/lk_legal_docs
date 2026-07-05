@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Acts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_17:55:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_06:00:44-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_acts/data/lk_acts)
 
@@ -22,7 +22,7 @@ A legal act is a law passed by Parliament that governs rights, duties, economy, 
 
 ## 002 ⚖️ Bills
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_17:54:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_06:00:01-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
@@ -40,7 +40,7 @@ A Bill is a draft law proposed in Parliament. It becomes binding once passed and
 
 ## 003 ⚖️ Extraordinary Gazettes 2020S
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_06:51:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_06:56:26-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s)
 
