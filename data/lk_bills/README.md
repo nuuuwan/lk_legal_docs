@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Bills `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_05:56:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_18:18:46-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_bills/data/lk_bills)
 
