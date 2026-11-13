@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Extraordinary Gazettes 2010S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_06:36:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--13_06:37:06-green)
 
 [https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s](https://github.com/nuuuwan/lk_legal_docs/tree/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s)
 
